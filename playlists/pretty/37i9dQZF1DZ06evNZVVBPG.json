@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2502314,
+  "num_followers": 2502897,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAACni7sDmKF9MKgISCwV8Ao9",
+  "snapshot_id": "ZwsNgAAAAAB4J3kzl4f8NvVQO+jF1DBD",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Diet Mountain Dew",
+      "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 339890,
       "name": "Margaret (feat. Bleachers)",
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Diet Mountain Dew",
-      "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 180902,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 285400,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 180902,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultraviolence (Deluxe)",
         "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 181960,
       "name": "The Other Woman",
       "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 228071,
-      "name": "How to disappear",
-      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 229942,
       "name": "Snow On The Beach (feat. More Lana Del Rey)",
       "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 228071,
+      "name": "How to disappear",
+      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
         "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 272742,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 272742,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238718,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "added_at": null,

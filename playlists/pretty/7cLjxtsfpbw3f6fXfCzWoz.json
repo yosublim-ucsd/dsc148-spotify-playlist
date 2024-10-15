@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAPFQlfuySGPI00nN/8wDmbz0vd62I",
+  "snapshot_id": "AAAAPb120Vl88mTZNWvK6/y3LnJg4Qbk",
   "tracks": [
     {
       "added_at": "2022-09-07 19:01:08",
@@ -783,6 +783,22 @@
       "duration_ms": 166582,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
+    },
+    {
+      "added_at": "2024-10-14 10:40:51",
+      "album": {
+        "name": "Upright, Love",
+        "url": "https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd"
+      },
+      "artists": [
+        {
+          "name": "Blue Kid",
+          "url": "https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN"
+        }
+      ],
+      "duration_ms": 276648,
+      "name": "The Dismemberment Song",
+      "url": "https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm"
     }
   ],
   "unique_name": "Gender Neutral Love and Hate",

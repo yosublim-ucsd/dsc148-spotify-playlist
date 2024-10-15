@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542434,
+  "num_followers": 542411,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "To the Center",
         "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 391160,
       "name": "To the Center",
       "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Superskull",
-        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
-      },
-      "artists": [
-        {
-          "name": "Black Rainbows",
-          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Cosmic Ride Of The Crystal Skull",
-      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Unemployment Office",
         "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 204181,
       "name": "Unemployment Office",
       "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Superskull",
+        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
+      },
+      "artists": [
+        {
+          "name": "Black Rainbows",
+          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Cosmic Ride Of The Crystal Skull",
+      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "All My Friends Move Like The Night",
-        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
-      },
-      "artists": [
-        {
-          "name": "Devil Electric",
-          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "All My Friends Move Like The Night",
-      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Call of the Void",
         "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 239961,
       "name": "Call of the Void",
       "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All My Friends Move Like The Night",
+        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
+      },
+      "artists": [
+        {
+          "name": "Devil Electric",
+          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "All My Friends Move Like The Night",
+      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Quick Quiet Raid",
         "url": "https://open.spotify.com/album/6Ar4J8yW63XFVH9j3YiWf5"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 163573,
       "name": "Quick Quiet Raid",
       "url": "https://open.spotify.com/track/46ZfsbnFdI9FpeQKJRZUzS"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2024-07-19 04:00:00",

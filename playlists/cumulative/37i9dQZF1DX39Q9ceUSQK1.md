@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: Linkin Park
 
-165 songs - 9 hr 26 min
+166 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-06-24 | 2024-08-02 |
 | [Make It Easy](https://open.spotify.com/track/1EDoiOif8rHbeeR5zHfUqf) | [ILA](https://open.spotify.com/artist/4dTDkzVuBCP4Rml12Iq5b2) | [Make It Easy](https://open.spotify.com/album/7MYieMQCDD8MdYJsruXwOU) | 3:12 | 2024-06-27 | 2024-09-25 |
 | [Making Up Animals](https://open.spotify.com/track/3YYgEilhbIOu4f0KOIExUh) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Making Up Animals](https://open.spotify.com/album/6EyU2jNFzP2puyzOwvfbvR) | 2:59 | 2024-07-26 | 2024-09-25 |
-| [Mansa Musa](https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Mansa Musa](https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt) | 4:30 | 2024-09-13 |  |
+| [Mansa Musa](https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Mansa Musa](https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt) | 4:30 | 2024-09-13 | 2024-10-15 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-24 | 2024-09-14 |
 | [Merry Old England](https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Merry Old England](https://open.spotify.com/album/1RpgtAy5HNiaRZD1pwCmAb) | 4:49 | 2024-06-24 | 2024-09-06 |
 | [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-24 |  |
@@ -127,6 +127,7 @@
 | [Schmetterling](https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Farfalla / Schmetterling](https://open.spotify.com/album/0oJoLsoo91hJ2EhgFqz2Et) | 4:17 | 2024-09-24 |  |
 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 | 2024-07-26 | 2024-10-05 |
 | [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 | 2024-06-24 | 2024-07-27 |
+| [See What Sticks](https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Hell Go Rhythm](https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc) | 3:18 | 2024-10-14 |  |
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-24 | 2024-07-27 |
 | [She Likes Me](https://open.spotify.com/track/1PRTvqpZHSxsTIRQMgoFNo) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [She Likes Me](https://open.spotify.com/album/2YnT8eUlDz0lAYxmuoxu3h) | 3:47 | 2024-06-24 | 2024-07-05 |
 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 | 2024-07-09 | 2024-09-14 |

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 разів](https://open.spotify.com/track/4dAuvPHdQazF5XfO4KRWuC) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [10 разів](https://open.spotify.com/album/1j6iDmoFGrP1GYt6z68dQM) | 2:08 | 2024-09-13 |  |
-| [18](https://open.spotify.com/track/5x6VqIJDnLWPw1cK4TAHZb) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [18](https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J) | 2:41 | 2024-09-13 |  |
+| [18](https://open.spotify.com/track/5x6VqIJDnLWPw1cK4TAHZb) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [18](https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J) | 2:41 | 2024-09-13 | 2024-10-15 |
 | [7.62 мм](https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH) | [7.62 мм](https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl) | 3:15 | 2024-06-27 | 2024-07-27 |
 | [Bohun](https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Bohun](https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7) | 3:23 | 2024-06-27 |  |
 | [Dobroho ranku](https://open.spotify.com/track/2xfA5qFr0hbd1cXnNhwNUu) | [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Dobroho ranku](https://open.spotify.com/album/47n464V7jEcpdMw4GWREB1) | 2:38 | 2024-07-12 | 2024-07-27 |
@@ -170,7 +170,7 @@
 | [Шаленію](https://open.spotify.com/track/1jBpoG6jm7TPZruIan4zII) | [Ostrovskyi](https://open.spotify.com/artist/4HbGIutrYOvKMrbuPp6VjK) | [Шаленію](https://open.spotify.com/album/6AJ7n4hOByGyyg4zWDouxf) | 3:13 | 2024-06-27 |  |
 | [щастя любить тишу](https://open.spotify.com/track/0n7SGcqkYlfDxETl2OXpes) | [гліб співає](https://open.spotify.com/artist/57ZvvwPjREpbRr5koA75Pi) | [щастя любить тишу](https://open.spotify.com/album/7nrLMPBmCeOj3c9P5BJLVY) | 3:14 | 2024-06-27 | 2024-08-24 |
 | [Що якщо](https://open.spotify.com/track/5PlwjDZycmfS6DWim2eFaA) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Що якщо](https://open.spotify.com/album/4dt1RncTIV5GOV9ANMtecF) | 2:12 | 2024-10-04 |  |
-| [Я вдома](https://open.spotify.com/track/7fcIobA5JUkd90ad8y0cjO) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я вдома](https://open.spotify.com/album/2LFrNxIvNZS3oURodrzDV0) | 2:58 | 2024-06-27 | 2024-08-24 |
+| [Я вдома](https://open.spotify.com/track/7fcIobA5JUkd90ad8y0cjO) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я вдома](https://open.spotify.com/album/2LFrNxIvNZS3oURodrzDV0) | 2:58 | 2024-06-27 |  |
 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 | 2024-06-27 | 2024-10-09 |
 | [Я кохатимусь під джаз](https://open.spotify.com/track/3BKV1opKoOurjeUF0Q5tTv) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Я кохатимусь під джаз](https://open.spotify.com/album/3vhO51ZD7CeAfl3FscDmM6) | 3:48 | 2024-06-27 |  |
 | [я не хочу бути один](https://open.spotify.com/track/1VnUzp7LvENTh1i18Sj0kU) | [Ігор Кайдаш](https://open.spotify.com/artist/1DBbudkd4BL8QyVK79E3qj) | [я не хочу бути один](https://open.spotify.com/album/3lgMxdmmYOfzfP7dqNHDIg) | 2:57 | 2024-09-13 |  |

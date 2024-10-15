@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 417394,
+  "num_followers": 418303,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADCS2IK2FMrq86MEWEfLEZj",
+  "snapshot_id": "ZwsNgAAAAABsVSpt2inRBfDe+4WW2ZTa",
   "tracks": [
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+        "name": "Tricky - Sped Up",
+        "url": "https://open.spotify.com/album/4b3ATqkc7kdVSdqGmkhFvy"
       },
       "artists": [
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Eyes Wide Open",
-      "url": "https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO"
+      "duration_ms": 132013,
+      "name": "Tricky - Sped Up",
+      "url": "https://open.spotify.com/track/5ncSBBGWH1yfHqHI2CU3Kc"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tricky - Sped Up",
-        "url": "https://open.spotify.com/album/4b3ATqkc7kdVSdqGmkhFvy"
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
       },
       "artists": [
-        {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 132013,
-      "name": "Tricky - Sped Up",
-      "url": "https://open.spotify.com/track/5ncSBBGWH1yfHqHI2CU3Kc"
+      "duration_ms": 192720,
+      "name": "Eyes Wide Open",
+      "url": "https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO"
     },
     {
       "added_at": null,

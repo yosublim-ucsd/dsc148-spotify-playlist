@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 961778,
+  "num_followers": 961902,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "In The Dust",
         "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 191570,
       "name": "In The Dust",
       "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -455,26 +455,22 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0"
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
       "artists": [
         {
-          "name": "Across Boundaries",
-          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
         },
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 334213,
-      "name": "Pumpin'",
-      "url": "https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL"
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -499,22 +495,26 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+          "name": "Across Boundaries",
+          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
         },
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
         }
       ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+      "duration_ms": 334213,
+      "name": "Pumpin'",
+      "url": "https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "On My Knees (Adriatique Remix)",
         "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -831,22 +831,6 @@
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
         "name": "Holocene, Pt. II",
         "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
       },
@@ -963,6 +963,30 @@
       "duration_ms": 208690,
       "name": "Calmy",
       "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -1007,26 +1031,18 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+        "name": "Perfect Opposure",
+        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+      "duration_ms": 373750,
+      "name": "Free (My Mind)",
+      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -1047,22 +1063,6 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
-        "name": "Perfect Opposure",
-        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 373750,
-      "name": "Free (My Mind)",
-      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Within You (K\u00f6lsch Mix)",
-        "url": "https://open.spotify.com/album/0DA1F1TcRgvcisPqFF8qx4"
-      },
-      "artists": [
-        {
-          "name": "GusGus",
-          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
-        },
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 615320,
-      "name": "Within You - K\u00f6lsch Mix",
-      "url": "https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU"
-    },
-    {
-      "added_at": "2024-10-11 15:58:11",
-      "album": {
         "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
         "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 216106,
       "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
       "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
+    },
+    {
+      "added_at": "2024-10-11 15:58:11",
+      "album": {
+        "name": "Within You (K\u00f6lsch Mix)",
+        "url": "https://open.spotify.com/album/0DA1F1TcRgvcisPqFF8qx4"
+      },
+      "artists": [
+        {
+          "name": "GusGus",
+          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 615320,
+      "name": "Within You - K\u00f6lsch Mix",
+      "url": "https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU"
     },
     {
       "added_at": "2024-10-11 15:58:11",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2024-10-11 15:58:11",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+        "name": "All we ever wanted",
+        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
       },
       "artists": [
         {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+        },
+        {
+          "name": "SCHWARZ",
+          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
         }
       ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+      "duration_ms": 218000,
+      "name": "All we ever wanted",
+      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
     }
   ],
   "unique_name": "Lowkey Tech",

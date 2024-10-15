@@ -2,7 +2,7 @@
 
 ### [This Is Alexis Ffrench](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31nMcV)
 
-> This Is Alexis Ffrench\. Los temas esenciales, todos en una lista.
+> This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
 60 songs - 2 hr 53 min
 
@@ -18,7 +18,7 @@
 | [Canyons](https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:52 | 2024-10-02 |  |
 | [Carousel](https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 3:01 | 2024-10-02 |  |
 | [Chasing Yesterdays](https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 | 2024-10-02 |  |
-| [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 | 2024-10-02 | 2024-10-07 |
+| [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 | 2024-10-02 |  |
 | [Coming Home](https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:33 | 2024-10-02 |  |
 | [Crest of a Wave](https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:15 | 2024-10-02 |  |
 | [Dreamland](https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:41 | 2024-10-02 |  |
@@ -47,7 +47,7 @@
 | [Reverie](https://open.spotify.com/track/0MXPtGPzHBwiPioVDzVtfJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Reverie](https://open.spotify.com/album/0nO7IYnaHm7eNwNRULgLG4) | 3:36 | 2024-10-02 | 2024-10-11 |
 | [Reverie](https://open.spotify.com/track/42InL799NohWvvJBYexpxf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 | 2024-10-11 |  |
 | [Rivers \- Solo Piano Version](https://open.spotify.com/track/5Rwivn8wMEQ6TP6XshXhZq) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:16 | 2024-10-02 |  |
-| [September Song](https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 3:57 | 2024-10-02 |  |
+| [September Song](https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 3:57 | 2024-10-02 | 2024-10-15 |
 | [Shine \- Solo Piano Version](https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:10 | 2024-10-02 |  |
 | [Soar \(feat\. Fally Ipupa & Kevin Olusola\)](https://open.spotify.com/track/769DTdOI3UAILaJtI9Doxt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Soar \(feat\. Fally Ipupa & Kevin Olusola\)](https://open.spotify.com/album/6flHtKs6alayE4mN6Vaq7l) | 3:59 | 2024-10-02 | 2024-10-03 |
 | [Songbird](https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:02 | 2024-10-02 |  |

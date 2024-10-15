@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:6mEJxv4yQ0uvEZ023sKEPt">SioVera</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,264 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,334 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

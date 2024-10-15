@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 197311,
+  "num_followers": 197327,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADIGFPMFX4Ay+ABEd9vO2dL",
+  "snapshot_id": "ZwsNgAAAAABm2C4G4HV3gJ4GyWc4AdJh",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1100 Bel Air Place",
         "url": "https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 213960,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/498EPEgZQ1jDoYHYpvF68F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
       "added_at": null,
@@ -1131,38 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 175000,
       "name": "Songs That Make a Difference",
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": null,
@@ -1315,26 +1315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life on a Rock",
-        "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Coconut Tree (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuskegee (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life on a Rock",
+        "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Coconut Tree (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/3UJZ4VcHfSWyrMky8vobzv"
     },
     {
       "added_at": null,

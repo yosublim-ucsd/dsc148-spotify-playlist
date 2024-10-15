@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 41 songs - 2 hr 29 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 42 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 39 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
 | 40 | [School](https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:34 |
 | 41 | [Riddles](https://open.spotify.com/track/6rTwGJpY5r4Mugnivnyro4) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 4:00 |
+| 42 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 
-Snapshot ID: `AAAALsEppJgruZ3dpCxeGFhfFbBnJMqo`
+Snapshot ID: `AAAAL3WeLtU9zn+LkuDlzYenSwzZOmzP`

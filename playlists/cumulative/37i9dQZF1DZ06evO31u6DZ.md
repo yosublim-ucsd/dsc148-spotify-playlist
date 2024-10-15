@@ -2,7 +2,7 @@
 
 ### [This Is Senses Fail](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31u6DZ)
 
-> This Is Senses Fail\. Все лучшие треки в одном плейлисте.
+> This is Senses Fail\. The essential tracks, all in one playlist.
 
 105 songs - 5 hr 52 min
 
@@ -47,7 +47,7 @@
 | [Garden State](https://open.spotify.com/track/7nZjbGhTacrx9SRmmMscC3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:38 | 2022-10-25 | 2023-12-14 |
 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 | 2022-10-25 |  |
 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 | 2022-10-25 |  |
-| [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-10-25 | 2024-10-12 |
+| [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-10-25 |  |
 | [Holy Mountain](https://open.spotify.com/track/3LvK2Plt07xaxLS2DaE1S9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:49 | 2023-03-07 | 2023-12-14 |
 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 | 2023-12-13 | 2024-10-12 |
 | [I Am Error](https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:52 | 2022-10-25 | 2024-07-17 |
@@ -93,7 +93,7 @@
 | [Still Searching](https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 4:18 | 2023-12-13 |  |
 | [Still Searching](https://open.spotify.com/track/6sgdlnTL6tmIjhn0OqQmwP) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 4:18 | 2023-01-23 | 2023-09-26 |
 | [Stretch Your Legs to Coffin Length](https://open.spotify.com/track/0fX3bWkpBC6u2LbsYcn7Z6) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:02 | 2023-04-09 | 2023-12-14 |
-| [The Burial of the Dead](https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:18 | 2022-10-25 |  |
+| [The Burial of the Dead](https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:18 | 2022-10-25 | 2024-10-15 |
 | [The Fire](https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:44 | 2023-12-13 |  |
 | [The Fire](https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:44 | 2022-10-25 | 2023-12-14 |
 | [The Fire Sermon](https://open.spotify.com/track/2xP7LnL8onazCSEezS1IvC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:25 | 2022-10-25 | 2022-11-15 |

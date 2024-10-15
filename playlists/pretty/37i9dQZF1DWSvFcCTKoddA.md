@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,778 likes - 15 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,778 likes - 15 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [le date avec un New Yorkais qui a changé ma vie](https://open.spotify.com/episode/2Xa4KPijtexTV8IIQA2T8w) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 21:53 |
 | 2 | [ces habitudes routinières à arrêter](https://open.spotify.com/episode/3Q1q3KEEUfN6tU9fDr868j) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 16:01 |
 | 3 | [À écouter pour te motiver à aller au sport](https://open.spotify.com/episode/0lq6OkYSycdte1ILxMV6rL) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 15:43 |
-| 4 | [À l'affiche cette semaine «La Cité de la peur» ](https://open.spotify.com/episode/2MbPZwXx0lhkZwrajZn01m) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 7:40 |
+| 4 | [«La Cité de la peur»: Anaïs et Marie dansent la carioca](https://open.spotify.com/episode/5jgxUipzeq90LItXefIp98) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 49:08 |
 | 5 | [«L'Arme fatale 3»: il n'y a pas d'arme plus fatale que le mulet de Mel Gibson](https://open.spotify.com/episode/1YqJoonpUx1WuaqQAVMW97) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 58:53 |
 | 6 | [Anaïs et Marie retombent en enfance avec «Toy Story»](https://open.spotify.com/episode/0Y5l3SauyfnWbskDnniSWx) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 49:13 |
 | 7 | [Épisode 43 : INOXTAG a évité le PIRE ! \(3 histoires d'horreur de MINECRAFT + 3 en MONTAGNE\)](https://open.spotify.com/episode/2WyPMUp4pey8lY6csxvy9b) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 42:44 |
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 14 | [LA BEAUTÉ \- Valentine Pétry](https://open.spotify.com/episode/5XtYJkshiMWm0rGq2S41oD) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 36:37 |
 | 15 | [L'APPROPRIATION CULTURELLE \- Khémaïs Ben Lakhdar](https://open.spotify.com/episode/1Et1HZ7YSEtrYO6a9GRxN5) | [LES GENS DE LA MODE](https://open.spotify.com/show/7MnUN9iq0oLJDOQpOibsPA) | [LES GENS DE LA MODE](https://open.spotify.com/album/7MnUN9iq0oLJDOQpOibsPA) | 35:44 |
 
-Snapshot ID: `ZwWtfwAAAACZjyj8XeKqaeSpEDTYI8p7`
+Snapshot ID: `Zwz22AAAAAAQqv37+HqXr1Ty73DkElaZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 551523,
+  "num_followers": 551690,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAB8vWvbtKmfhdsHT4jJZ/7w",
+  "snapshot_id": "ZwsNgAAAAACB5CXZxPEVk5g37ihhOpfv",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
     },
     {
       "added_at": null,

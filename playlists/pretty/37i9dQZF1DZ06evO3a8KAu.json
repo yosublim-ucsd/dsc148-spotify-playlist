@@ -1,12 +1,12 @@
 {
   "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
-  "num_followers": 48113,
+  "num_followers": 48119,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABnzM+eeHXYdcBg5pW/KA3h",
+  "snapshot_id": "ZwsNgAAAAAA/9gFJVxQIYSuR2JvKMq71",
   "tracks": [
     {
       "added_at": null,
@@ -563,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brincale al Toro",
-        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "Las Ense\u00f1anzas",
-      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 236009,
-      "name": "Mi Mejor Plan Eres Tu",
-      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
       },
@@ -619,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
       "artists": [
         {
@@ -628,9 +596,25 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 196570,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/2g15lf6AxoP1tEl5qHpuoi"
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brincale al Toro",
+        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "Las Ense\u00f1anzas",
+      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 193150,
       "name": "D\u00e9jame Decirle",
       "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 196570,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/2g15lf6AxoP1tEl5qHpuoi"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 218923,
       "name": "Voy a Echarme Otra",
       "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        }
-      ],
-      "duration_ms": 170485,
-      "name": "Nomas No Se Pasen - En Vivo",
-      "url": "https://open.spotify.com/track/1zyUxUzC4fSQURhfqcaQuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 202249,
       "name": "Borrachos Por Amor",
       "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "duration_ms": 170485,
+      "name": "Nomas No Se Pasen - En Vivo",
+      "url": "https://open.spotify.com/track/1zyUxUzC4fSQURhfqcaQuB"
     },
     {
       "added_at": null,

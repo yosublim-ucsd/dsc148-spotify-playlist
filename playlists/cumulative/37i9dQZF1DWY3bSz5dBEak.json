@@ -911,6 +911,50 @@
     },
     {
       "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2, No. 1: I. Allegro",
+      "url": "https://open.spotify.com/track/0UdrIqOLucWFrrXdbgdwJM"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307546,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2, No. 1: II. Adagio",
+      "url": "https://open.spotify.com/track/48ExUJmRvVS7DEXNVBLDB6"
+    },
+    {
+      "album": {
         "name": "Study - Beethoven",
         "url": "https://open.spotify.com/album/3Hym2kAfU05uQRcTs6Rhd9"
       },

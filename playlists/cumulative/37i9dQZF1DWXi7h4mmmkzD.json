@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "Nighttime is the right time for these party hits!",
-  "name": "Country Nights",
+  "name": "Country Party",
   "tracks": [
     {
       "album": {
@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "album": {
         "name": "Don't Give Away The Ending",
         "url": "https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa"
       },
@@ -150,6 +168,24 @@
       "duration_ms": 184386,
       "name": "Already Callin' You Mine",
       "url": "https://open.spotify.com/track/3jSyE8r8vgg8fmwojoMzql"
+    },
+    {
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "album": {
@@ -480,7 +516,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 180392,
       "name": "Boys Back Home (feat. Yung Gravy)",
       "url": "https://open.spotify.com/track/2O5z9a7kvDvDQL0G6Aj3oV"
@@ -581,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Killed The Cowboy",
+        "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Chevrolet (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+    },
+    {
+      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -650,7 +708,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
@@ -672,7 +730,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 176983,
       "name": "Country Boy Do (feat. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
@@ -770,10 +828,28 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 169293,
       "name": "Creek Will Rise",
       "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
+    },
+    {
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "album": {
@@ -1222,7 +1298,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 306773,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
@@ -1342,6 +1418,24 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "album": {
+        "name": "Hang Tight Honey",
+        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Hang Tight Honey",
+      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
     },
     {
       "album": {
@@ -1584,7 +1678,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 178680,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8"
@@ -1620,7 +1714,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
@@ -1913,6 +2007,28 @@
     },
     {
       "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209038,
+      "name": "Losers (Feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
+    },
+    {
+      "album": {
         "name": "Lotta Bit of You",
         "url": "https://open.spotify.com/album/3MkHOjkp1AsIOm0RlVVWwf"
       },
@@ -2163,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "One Too Many",
+        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "One Too Many",
+      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "album": {
         "name": "Out in the Middle",
         "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
       },
@@ -2240,6 +2378,28 @@
       "duration_ms": 195586,
       "name": "Play Something Country",
       "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
+    },
+    {
+      "album": {
+        "name": "Pour Me A Drink",
+        "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195122,
+      "name": "Pour Me A Drink (Feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
       "album": {
@@ -2402,7 +2562,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 187683,
       "name": "Single Saturday Night",
       "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
@@ -2438,7 +2598,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 189048,
       "name": "smoke & a light",
       "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
@@ -2622,7 +2782,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
@@ -2875,6 +3035,28 @@
     },
     {
       "album": {
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
+    },
+    {
+      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -2912,7 +3094,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
@@ -3085,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Whiskey Blues",
+        "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133016,
+      "name": "Whiskey Blues",
+      "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
+    },
+    {
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
@@ -3100,6 +3300,24 @@
       "duration_ms": 234346,
       "name": "Whiskey Glasses",
       "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+    },
+    {
+      "album": {
+        "name": "WHISKEY WHISKEY",
+        "url": "https://open.spotify.com/album/05hS7HUrkdEIoJxdRXNrj1"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "WHISKEY WHISKEY",
+      "url": "https://open.spotify.com/track/0PY70NiuO5yDhn9FjdtPvr"
     },
     {
       "album": {

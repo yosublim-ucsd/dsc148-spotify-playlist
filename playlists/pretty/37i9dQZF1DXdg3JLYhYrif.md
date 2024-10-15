@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,366 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,387 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 35 | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t) | 3:33 |
 | 36 | [Hoje](https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:57 |
 | 37 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 |
-| 38 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
-| 39 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
+| 38 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
+| 39 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
 | 40 | [Show das Poderosas](https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:30 |
 | 41 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 42 | [Acordando o Prédio](https://open.spotify.com/track/40bK2uosUmAS92c17n98xd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acordando o Prédio](https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS) | 3:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 55 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
 | 56 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
 | 57 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
-| 58 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
-| 59 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
+| 58 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
+| 59 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
 | 60 | [Caraca, Muleke!](https://open.spotify.com/track/5M8rc7DOM5MW1F8eP0OX9a) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Outro Dia, Outra História](https://open.spotify.com/album/78dAGSAzdGeWr7VmZIJdOB) | 2:50 |
 
 Snapshot ID: `ZIxWeAAAAABWUBpU08tSuug2aobmX1gF`

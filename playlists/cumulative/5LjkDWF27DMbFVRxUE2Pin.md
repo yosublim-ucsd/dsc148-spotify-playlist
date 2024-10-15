@@ -4,7 +4,7 @@
 
 > 
 
-495 songs - 1 day 7 hr 32 min
+496 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1978](https://open.spotify.com/track/4WaJE7gOVSpnN5HSSU7b4C) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Birthdayy Partyy](https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp) | [1978](https://open.spotify.com/album/1woOnwZfrKTsIH17RSv32s) | 2:36 | 2024-07-16 | 2024-07-31 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-27 |  |
 | [A Beautiful Life](https://open.spotify.com/track/7jabc4dRHaNUBl7SDE881N) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:35 | 2024-07-16 |  |
+| [A Martyr for My Love for You](https://open.spotify.com/track/1JiA9BE3iRNzU2BJG0UHgs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU) | 4:18 | 2024-10-14 |  |
 | [A Minute Longer](https://open.spotify.com/track/6qQ2PKlIgs3k64CoZa5wVX) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails](https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00) | 3:46 | 2024-07-16 |  |
 | [A Minute Longer](https://open.spotify.com/track/15Eg02kHbaDNj33p8ey4K4) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails Deluxe Set](https://open.spotify.com/album/0QA22Bo9p1xhEOJ8rFol6o) | 3:46 | 2024-07-16 |  |
 | [A Musical](https://open.spotify.com/track/6qkPk5xE1H94fFYfgRcDBt) | [Brad Oscar](https://open.spotify.com/artist/3K1DDIrvoPOfSDkZtM23Fz), [Brian D'Arcy James](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n), ['Something Rotten' Ensemble](https://open.spotify.com/artist/0vOF7LeBAvy81p7TIsYTXt), [Wayne Kirkpatrick](https://open.spotify.com/artist/2rZxDlwRd2lhu8z7lGKSLo), [Karey Kirkpatrick](https://open.spotify.com/artist/2nz6FQDK68wvL0QQGc8r8O) | [Something Rotten! \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0kOBkjePPpXZ4sZGspF0VH) | 7:47 | 2024-07-04 |  |

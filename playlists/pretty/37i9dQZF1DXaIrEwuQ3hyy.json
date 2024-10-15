@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1050024,
+  "num_followers": 1050063,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,22 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2024-10-11 07:54:58",
@@ -295,22 +299,18 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-10-11 07:54:58",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 172199,
-      "name": "Acoustic",
-      "url": "https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt"
-    },
-    {
-      "added_at": "2024-10-11 07:54:58",
-      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+    },
+    {
+      "added_at": "2024-10-11 07:54:58",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "Acoustic",
+      "url": "https://open.spotify.com/track/7kr3xZk4yb3YSZ4VFtg2Qt"
     },
     {
       "added_at": "2024-10-11 07:54:58",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2024-10-11 07:54:58",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
-    },
-    {
-      "added_at": "2024-10-11 07:54:58",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2024-10-11 07:54:58",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
+        "name": "April May July",
+        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "April May July",
+      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
+    },
+    {
+      "added_at": "2024-10-11 07:54:58",
+      "album": {
         "name": "Golden Rope",
         "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 180721,
       "name": "Same Vibes",
       "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
-    },
-    {
-      "added_at": "2024-10-11 07:54:58",
-      "album": {
-        "name": "April May July",
-        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "April May July",
-      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
     },
     {
       "added_at": "2024-10-11 07:54:58",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "added_at": "2024-10-11 07:54:58",
+      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
-        "name": "Ha Ha Heartbreak",
-        "url": "https://open.spotify.com/album/6LuOPb9O7o8nrUvARf1SDb"
-      },
-      "artists": [
-        {
-          "name": "Warhaus",
-          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
-        }
-      ],
-      "duration_ms": 337700,
-      "name": "When I Am With You",
-      "url": "https://open.spotify.com/track/1lRyZDsGGOm8fFRhaz0un4"
-    },
-    {
-      "added_at": "2024-10-11 07:54:58",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2024-10-11 07:54:58",
+      "album": {
+        "name": "Ha Ha Heartbreak",
+        "url": "https://open.spotify.com/album/6LuOPb9O7o8nrUvARf1SDb"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "duration_ms": 337700,
+      "name": "When I Am With You",
+      "url": "https://open.spotify.com/track/1lRyZDsGGOm8fFRhaz0un4"
     },
     {
       "added_at": "2024-10-11 07:54:58",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 153491,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
-    },
-    {
-      "added_at": "2024-10-11 07:54:58",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-10-11 07:54:58",
       "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa"
       },
       "artists": [
         {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
         }
       ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+      "duration_ms": 153491,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
     },
     {
       "added_at": "2024-10-11 07:54:58",

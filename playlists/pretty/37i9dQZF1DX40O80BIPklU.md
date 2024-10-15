@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Rels B en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,488 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,491 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 3 | [Abran Paso](https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Abran Paso](https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5) | 3:56 |
 | 4 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |
 | 5 | [Efímero](https://open.spotify.com/track/7t407aCWIaRzkOu6YnaNkg) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Efímero](https://open.spotify.com/album/7rOEIGOgasINOSzG5qYi6c) | 3:36 |
-| 6 | [EN DONDE](https://open.spotify.com/track/3tK7ixpVgR9BqovHm3ggj9) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [EN DONDE](https://open.spotify.com/album/0oJiGfWsP57NwT0Vv0ctQk) | 2:21 |
+| 6 | [EN DONDE](https://open.spotify.com/track/3tK7ixpVgR9BqovHm3ggj9) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p) | [EN DONDE](https://open.spotify.com/album/0oJiGfWsP57NwT0Vv0ctQk) | 2:21 |
 | 7 | [Por Los Que Decían Que No](https://open.spotify.com/track/2we91mmgiUvO0tLespW9GG) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Por Los Que Decían Que No](https://open.spotify.com/album/7n6g7CdKZQgrYyomciT1Om) | 3:39 |
 | 8 | [fre3styl3](https://open.spotify.com/track/7lmMgmcg73b5Mjh3pRPFoT) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 1:44 |
 | 9 | [Se Marean](https://open.spotify.com/track/35teZxYGR9TlKNWj6Q2BAs) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Tommy Artz](https://open.spotify.com/artist/5d8RjWwyW7wKhdiMXFQcPt) | [Se Marean](https://open.spotify.com/album/2WQRFjNFrgtYYzon7g6wdA) | 3:05 |

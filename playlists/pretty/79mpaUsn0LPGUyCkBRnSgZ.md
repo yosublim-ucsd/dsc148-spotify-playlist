@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 532 songs - 1 day 11 hr 41 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 535 songs - 1 day 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -540,5 +540,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 530 | [Albatross](https://open.spotify.com/track/1RBDB3HoCxi0w605ZS8FsF) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Second Edition](https://open.spotify.com/album/5votrp9PY49suw8xnXqyrm) | 10:38 |
 | 531 | [Knock Yourself Out XD](https://open.spotify.com/track/6yfY7OdAz4VEOjPUOP3yzN) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:48 |
 | 532 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 |
+| 533 | [New Low](https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:06 |
+| 534 | [I\. The Sun](https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [Mount Eerie](https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb) | 17:11 |
+| 535 | [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 |
 
-Snapshot ID: `AAAGmzwfdtC6F7kVpfsDwxbYxmFAVV7P`
+Snapshot ID: `AAAGof314jGVqpaNU2/VGu7tYJ49OtJ7`

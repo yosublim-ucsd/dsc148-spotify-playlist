@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🟩 sympathy is a knife featuring ariana grande 🟩
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,215 likes - 984 songs - 2 day 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,155 likes - 984 songs - 2 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 124 songs - 7 hr 13 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 130 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,11 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 122 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 |
 | 123 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 124 | [Planet Schmanet Janet](https://open.spotify.com/track/5BUokL5dxJO1toTcMY72Uh) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [Absolute Treasures: The Rocky Horror Picture Show \- The Complete and Definitive Soundtrack \(2015 40th Anniversary Re\-Mastered Edition\)](https://open.spotify.com/album/1llln24xqen4HG9w0Gpgua) | 1:39 |
+| 125 | [Shia LaBeouf Live](https://open.spotify.com/track/3VMzQ4rh7FtfSuyjHIcuZR) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Shia LaBeouf Live](https://open.spotify.com/album/1iFafzOE0nGXb8eBvup1re) | 2:35 |
+| 126 | [The Cringe \(feat\. Patton Oswalt\)](https://open.spotify.com/track/3tHa6meN0d6j7GLtXX3cEX) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Patton Oswalt](https://open.spotify.com/artist/6YvKo1VtZxCoT8IkbAYswy) | [Crazy Ex\-Girlfriend: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2iDGoikRLMHrmEHe6p1T8P) | 2:35 |
+| 127 | [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 |
+| 128 | [Spirit Halloween Theme Song](https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 1:43 |
+| 129 | [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 |
+| 130 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 
-Snapshot ID: `AAAApnA7ZKo/4VXhRbVjipgTCd0VLmMp`
+Snapshot ID: `AAAArHAknF5nY40Lcu6K/dG+LSQ5+NGp`

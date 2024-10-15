@@ -1,6 +1,6 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 96858,
+  "num_followers": 96881,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
@@ -1433,26 +1433,6 @@
       "url": "https://open.spotify.com/track/3LWr1doKSH2hSfnE9kMX6U"
     },
     {
-      "added_at": "2024-06-13 00:29:29",
-      "album": {
-        "name": "El Cosechero",
-        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        },
-        {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "El Cosechero",
-      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
-    },
-    {
       "added_at": "2024-01-25 15:55:50",
       "album": {
         "name": "En Cantos",
@@ -1471,6 +1451,26 @@
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2024-06-13 00:29:29",
+      "album": {
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
     },
     {
       "added_at": "2024-01-25 15:55:50",

@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 7046,
+  "num_followers": 7053,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAkp5LHbIjTBac5fS1+wnVC",
+  "snapshot_id": "ZwsNgAAAAAAD4djZz5bjbhfeW1A+hb0o",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 183480,
-      "name": "paralel Suns",
-      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
+      "duration_ms": 81000,
+      "name": "SonDEremawe",
+      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 81000,
-      "name": "SonDEremawe",
-      "url": "https://open.spotify.com/track/2cQpsMbqMXcorQU3sLWlMh"
+      "duration_ms": 183480,
+      "name": "paralel Suns",
+      "url": "https://open.spotify.com/track/7Dq9vrwY3TMNNgXG72v2l5"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 484293,
-      "name": "Rotar",
-      "url": "https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt"
+      "duration_ms": 428106,
+      "name": "Leterel",
+      "url": "https://open.spotify.com/track/3FDJRnZGAZeSjguTBoktEB"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 851533,
-      "name": "Garbagemx",
-      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+      "duration_ms": 851533,
+      "name": "Garbagemx",
+      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
     },
     {
       "added_at": null,

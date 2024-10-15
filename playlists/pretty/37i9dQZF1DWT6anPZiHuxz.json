@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high",
-  "num_followers": 540058,
+  "num_followers": 540093,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 161757,
-      "name": "Talk talk",
-      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 161757,
+      "name": "Talk talk",
+      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -1003,18 +1019,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+        "name": "Dudada",
+        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
       },
       "artists": [
         {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Goldcher",
+          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
         }
       ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+      "duration_ms": 128371,
+      "name": "Dudada",
+      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1059,30 +1083,6 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Dudada",
-        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Goldcher",
-          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Dudada",
-      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -1351,22 +1331,38 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 213435,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1395,6 +1391,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "CAVE (with Tove Lo)",
+        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 180409,
+      "name": "CAVE (with Tove Lo)",
+      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -1627,30 +1647,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ferrari (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Ferrari - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Gas Pedal Remix",
         "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
       },
@@ -1675,6 +1671,30 @@
       "duration_ms": 130070,
       "name": "Gas Pedal Remix",
       "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Ferrari (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Ferrari - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1795,22 +1815,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5"
       },
@@ -1827,22 +1831,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "CAVE (with Tove Lo)",
-        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 180409,
-      "name": "CAVE (with Tove Lo)",
-      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1859,30 +1859,6 @@
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Turn off the Lights",
-        "url": "https://open.spotify.com/album/132voEBLKSWmTV959PQuiC"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Alexis Roberts",
-          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
-        },
-        {
-          "name": "Cages",
-          "url": "https://open.spotify.com/artist/1Ck15KzRcbdOiyLRvw13QJ"
-        }
-      ],
-      "duration_ms": 208857,
-      "name": "Turn off the Lights - Cages Remix",
-      "url": "https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1907,6 +1883,30 @@
       "duration_ms": 165947,
       "name": "Monster - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Turn off the Lights",
+        "url": "https://open.spotify.com/album/132voEBLKSWmTV959PQuiC"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Alexis Roberts",
+          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
+        },
+        {
+          "name": "Cages",
+          "url": "https://open.spotify.com/artist/1Ck15KzRcbdOiyLRvw13QJ"
+        }
+      ],
+      "duration_ms": 208857,
+      "name": "Turn off the Lights - Cages Remix",
+      "url": "https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB"
     },
     {
       "added_at": "2024-10-11 04:00:00",

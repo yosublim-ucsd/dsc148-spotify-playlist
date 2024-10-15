@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 811509,
+  "num_followers": 811501,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
     },
     {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5"
-    },
-    {
       "added_at": "2023-06-16 00:58:30",
       "album": {
         "name": "Every Day's A Lesson In Humility",
@@ -283,6 +267,22 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
       },
       "artists": [
         {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
         }
       ],
-      "duration_ms": 206100,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+      "duration_ms": 203807,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
       "added_at": "2024-07-09 05:00:22",
@@ -371,18 +371,34 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "\u201dZamba Puta\u201d",
-        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
       "artists": [
         {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 203807,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 206100,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -399,22 +415,6 @@
       "duration_ms": 208102,
       "name": "2U - Acoustic Version",
       "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
-        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
-      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
+        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
+      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -601,22 +617,6 @@
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
     },
     {
-      "added_at": "2023-12-20 18:47:50",
-      "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
-    },
-    {
       "added_at": "2024-08-26 18:16:09",
       "album": {
         "name": "Te Amo",
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
     },
     {
-      "added_at": "2023-06-09 14:25:05",
+      "added_at": "2023-12-20 18:47:50",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 226877,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "City Of Stars",
         "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 154858,
       "name": "City Of Stars",
       "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 226877,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
-      },
-      "artists": [
-        {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
-        }
-      ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Hermanos",
         "url": "https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 150000,
       "name": "Hermanos",
       "url": "https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1223,6 +1223,22 @@
       "duration_ms": 185446,
       "name": "Havana",
       "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+        "name": "I'm a Mess (Acoustic)",
+        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
+      "duration_ms": 153093,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1303,22 +1319,6 @@
       "duration_ms": 238431,
       "name": "No Tears Left To Cry",
       "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "I'm a Mess (Acoustic)",
-        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "I'm a Mess - Acoustic",
-      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1359,34 +1359,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
       "artists": [
         {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Old Town Road",
-        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Old Town Road",
+        "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
       },
@@ -1423,34 +1423,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 144274,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1467,6 +1451,22 @@
       "duration_ms": 226200,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 144274,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 244946,
       "name": "Attention",
       "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 198007,
       "name": "Heather - Acoustic",
       "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Shape Of My Heart (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
-      },
-      "artists": [
-        {
-          "name": "Blended Colours",
-          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
-        },
-        {
-          "name": "Summer Haze",
-          "url": "https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj"
-        }
-      ],
-      "duration_ms": 183599,
-      "name": "Shape Of My Heart - Acoustic Version",
-      "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Want It That Way (Acoustic)",
         "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
@@ -1975,6 +1955,26 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Shape Of My Heart (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
+      },
+      "artists": [
+        {
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
+        },
+        {
+          "name": "Summer Haze",
+          "url": "https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj"
+        }
+      ],
+      "duration_ms": 183599,
+      "name": "Shape Of My Heart - Acoustic Version",
+      "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Inmensamente Fr\u00e1gil",
         "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
@@ -1987,22 +1987,6 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
-      },
-      "artists": [
-        {
-          "name": "Jean Cruiz",
-          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
-        }
-      ],
-      "duration_ms": 182118,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2023,18 +2007,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
       },
       "artists": [
         {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+          "name": "Jean Cruiz",
+          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
         }
       ],
-      "duration_ms": 254296,
-      "name": "Graveyard - Acoustic",
-      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+      "duration_ms": 182118,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2055,18 +2039,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
       },
       "artists": [
         {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
         }
       ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+      "duration_ms": 254296,
+      "name": "Graveyard - Acoustic",
+      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2091,6 +2075,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
       },
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Never Leave You",
-        "url": "https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN"
-      },
-      "artists": [
-        {
-          "name": "Sterre Weldring",
-          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "Never Leave You",
-      "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Detalles",
         "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 204428,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Never Leave You",
+        "url": "https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "Never Leave You",
+      "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
-      },
-      "artists": [
-        {
-          "name": "Moncaya",
-          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Nothing Breaks Like a Heart",
         "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 203261,
       "name": "Nothing Breaks Like a Heart",
       "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
+      },
+      "artists": [
+        {
+          "name": "Moncaya",
+          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
     },
     {
       "added_at": "2023-06-09 14:25:05",

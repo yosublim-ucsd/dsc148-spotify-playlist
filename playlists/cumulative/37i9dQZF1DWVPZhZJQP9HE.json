@@ -313,6 +313,28 @@
     },
     {
       "album": {
+        "name": "Adiye",
+        "url": "https://open.spotify.com/album/4rdmFfpg0KOlz4SOXfTCU3"
+      },
+      "artists": [
+        {
+          "name": "Stefan Packianathan",
+          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+        },
+        {
+          "name": "Krishan J",
+          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "Adiye",
+      "url": "https://open.spotify.com/track/1rQ8dgxm6BuNDCqS509sPB"
+    },
+    {
+      "album": {
         "name": "Adiye Agalvizhiye",
         "url": "https://open.spotify.com/album/2T79AU8FksRMTAM1B7qo32"
       },
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 170000,
       "name": "Chickana",
       "url": "https://open.spotify.com/track/6NXhU9FTUN8j8W6Qj86uER"
@@ -3328,7 +3350,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 200000,
       "name": "INDHA KADHAL - From \"Flop\"",
       "url": "https://open.spotify.com/track/4KjShESEoexD6Pc5PLndc4"
@@ -8310,7 +8332,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 192000,
       "name": "Oru Vaarthai",
       "url": "https://open.spotify.com/track/0SB9hAOh1pImTNIV8SorMF"
@@ -10264,7 +10286,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 233998,
       "name": "Sugasagiye",
       "url": "https://open.spotify.com/track/7tTujQNOJgxYFIoLGH66c0"
@@ -10958,7 +10980,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 187692,
       "name": "Tholayure Naane",
       "url": "https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH"

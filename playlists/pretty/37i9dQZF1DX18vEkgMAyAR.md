@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,329 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,326 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 46 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |
 | 47 | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Nate Highfield](https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF), [SILVER](https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u) | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm) | 3:24 |
 | 48 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
-| 49 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
-| 50 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
+| 49 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
+| 50 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 51 | [Can't Hurry Love](https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Can't Hurry Love](https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414) | 3:01 |
 | 52 | [Heat](https://open.spotify.com/track/1mgI6YX1q6cabE8q39NMoa) | [dom nice](https://open.spotify.com/artist/4GATgJWrCgpT3eglDMnkxO) | [Heat](https://open.spotify.com/album/35gvThn8Bj6gW12Qr8pXUs) | 3:50 |
 | 53 | [Demons](https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl) | [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN), [Luna Florentino](https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS) | [Demons](https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw) | 2:47 |

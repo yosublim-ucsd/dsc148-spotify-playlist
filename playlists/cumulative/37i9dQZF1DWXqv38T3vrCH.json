@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "I Loved You at Your Darkest",
+        "url": "https://open.spotify.com/album/3Do9xEU0fSirYUJy5TguYv"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301320,
+      "name": "Bartzabel",
+      "url": "https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO"
+    },
+    {
+      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -312,6 +330,24 @@
       "duration_ms": 185840,
       "name": "Creature",
       "url": "https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR"
+    },
+    {
+      "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Damnation Flame",
+      "url": "https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK"
     },
     {
       "album": {
@@ -452,7 +488,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 212957,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT"
@@ -474,6 +510,24 @@
       "duration_ms": 438120,
       "name": "Fear of the Dark - 2015 Remaster",
       "url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK"
+    },
+    {
+      "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235295,
+      "name": "From Hell With Love",
+      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
     },
     {
       "album": {
@@ -506,7 +560,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 165031,
       "name": "Ghostbusters - Ultimate Version",
       "url": "https://open.spotify.com/track/6Id6xj6rPrTWDzZwAY5XFM"
@@ -837,6 +891,24 @@
     },
     {
       "album": {
+        "name": "This Heathen Land",
+        "url": "https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198877,
+      "name": "Maxine (Witch Queen)",
+      "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
+    },
+    {
+      "album": {
         "name": "Meat & Greet",
         "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
@@ -996,7 +1068,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 234185,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0iPIx70ur8CznX7bJPWnIX"
@@ -1148,7 +1220,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 62407,
       "name": "Spooky Scary Skeletons",
       "url": "https://open.spotify.com/track/26LXQ7pUj1jzW2xBmWXG9k"

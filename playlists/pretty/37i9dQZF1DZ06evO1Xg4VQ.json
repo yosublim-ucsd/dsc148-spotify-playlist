@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
-  "num_followers": 70083,
+  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
+  "num_followers": 70088,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABxap1O/gOkei4qnLtwd4Cn",
+  "snapshot_id": "ZwsNgAAAAAASL/U45ToFhXqupCReg7iU",
   "tracks": [
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree Of Life",
-        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Arenita Azul",
-      "url": "https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1003,6 +987,38 @@
       "duration_ms": 215720,
       "name": "Son del Chile Frito",
       "url": "https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "Arenita Azul",
+      "url": "https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw"
     },
     {
       "added_at": null,
@@ -1027,22 +1043,6 @@
       "duration_ms": 187186,
       "name": "El Relampago",
       "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     },
     {
       "added_at": null,

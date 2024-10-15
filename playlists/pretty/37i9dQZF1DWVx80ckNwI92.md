@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN?si=8wRD\_qXXT5WK9Gm5L5JXTA">Mpho Sebina</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,861 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,862 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maji](https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Alkebulan](https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv) | 3:19 |
+| 1 | [Maji](https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Alkebulan](https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv) | 3:19 |
 | 2 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 |
 | 3 | [Indlela](https://open.spotify.com/track/1JyFiQLj1id2Yxi3MvxZ63) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The God Anomaly](https://open.spotify.com/album/4LUkscfzKv5S5Dy84jhVJG) | 4:01 |
 | 4 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |

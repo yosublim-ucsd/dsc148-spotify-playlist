@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 211955,
+  "num_followers": 211999,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,18 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
       "added_at": "2024-10-11 18:59:32",
@@ -127,18 +123,22 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2024-10-11 18:59:32",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Traigo El Mando",
-        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 182911,
-      "name": "Traigo El Mando",
-      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
         "name": "100% Mayo",
         "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 214655,
       "name": "100% Mayo",
       "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "added_at": "2024-10-11 18:59:32",

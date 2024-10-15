@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Abbot",
-  "num_followers": 131872,
+  "num_followers": 131874,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2024-10-11 21:27:37",
       "album": {
+        "name": "Ritmia Do Funk",
+        "url": "https://open.spotify.com/album/2jQ136UkTZyOI0TJT9q45E"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Ritmia Do Funk",
+      "url": "https://open.spotify.com/track/4VHy9SlOGYP91atYIidFQl"
+    },
+    {
+      "added_at": "2024-10-11 21:27:37",
+      "album": {
         "name": "Para Todas do Job",
         "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 255157,
       "name": "Seu Job",
       "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
-    },
-    {
-      "added_at": "2024-10-11 21:27:37",
-      "album": {
-        "name": "Ritmia Do Funk",
-        "url": "https://open.spotify.com/album/2jQ136UkTZyOI0TJT9q45E"
-      },
-      "artists": [
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Trap Select",
-          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Ritmia Do Funk",
-      "url": "https://open.spotify.com/track/4VHy9SlOGYP91atYIidFQl"
     },
     {
       "added_at": "2024-10-11 21:27:37",
@@ -799,6 +799,34 @@
     {
       "added_at": "2024-10-11 21:27:37",
       "album": {
+        "name": "S\u00f3 Um Lance",
+        "url": "https://open.spotify.com/album/07dyB9vxPNVm2VNHfDNGmy"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        }
+      ],
+      "duration_ms": 232820,
+      "name": "S\u00f3 Um Lance",
+      "url": "https://open.spotify.com/track/1mE3qnQjYdZG5oCSdg1FkR"
+    },
+    {
+      "added_at": "2024-10-11 21:27:37",
+      "album": {
         "name": "Falc\u00e3o do Morro",
         "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
       },
@@ -835,34 +863,6 @@
       "duration_ms": 244000,
       "name": "Blogueira",
       "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
-    },
-    {
-      "added_at": "2024-10-11 21:27:37",
-      "album": {
-        "name": "S\u00f3 Um Lance",
-        "url": "https://open.spotify.com/album/07dyB9vxPNVm2VNHfDNGmy"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        }
-      ],
-      "duration_ms": 232820,
-      "name": "S\u00f3 Um Lance",
-      "url": "https://open.spotify.com/track/1mE3qnQjYdZG5oCSdg1FkR"
     },
     {
       "added_at": "2024-10-11 21:27:37",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-10-11 21:27:37",
       "album": {
-        "name": "Amor de folclore",
-        "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
-      },
-      "artists": [
-        {
-          "name": "Bau\u00ea",
-          "url": "https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn"
-        }
-      ],
-      "duration_ms": 150897,
-      "name": "Amor de folclore",
-      "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
-    },
-    {
-      "added_at": "2024-10-11 21:27:37",
-      "album": {
         "name": "Viajando no Drink",
         "url": "https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 216320,
       "name": "Viajando no Drink",
       "url": "https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG"
+    },
+    {
+      "added_at": "2024-10-11 21:27:37",
+      "album": {
+        "name": "Amor de folclore",
+        "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
+      },
+      "artists": [
+        {
+          "name": "Bau\u00ea",
+          "url": "https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn"
+        }
+      ],
+      "duration_ms": 150897,
+      "name": "Amor de folclore",
+      "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
     },
     {
       "added_at": "2024-10-11 21:27:37",

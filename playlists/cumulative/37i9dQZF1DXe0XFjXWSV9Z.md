@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-185 songs - 11 hr 35 min
+186 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cumbia en do Menor](https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:45 | 2021-10-20 | 2024-04-19 |
 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2021-10-20 | 2024-04-19 |
 | [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 |  |
+| [Cumbia Oceánica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 | 2021-10-20 |  |
 | [Cumbia Psicodelica \(Dub\)](https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj) | [Agrupacion Ilegal Los Imparciales](https://open.spotify.com/artist/60NkGg5tp5ElDdKNfhJbMT) | [Media Hora de Cumbia](https://open.spotify.com/album/3jV7I7oR1eRf71cU8VN3PP) | 4:57 | 2021-10-20 | 2024-04-19 |
 | [Cumbia Triste](https://open.spotify.com/track/2NagSRAuRKhczwC1hUhtB1) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 3:51 | 2022-06-02 | 2024-04-19 |
 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 | 2021-10-20 | 2023-10-06 |
@@ -74,7 +75,7 @@
 | [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 | 2022-11-24 | 2024-04-19 |
 | [El Pescador](https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [Dos Santos](https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg) | 3:33 | 2021-10-20 |  |
 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 | 2021-10-20 |  |
-| [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-20 |  |
+| [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-20 | 2024-10-15 |
 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 | 2021-10-20 | 2024-04-19 |
 | [Empecemos \(Let's Start\)](https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [Los Kings](https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:58 | 2022-01-11 |  |
 | [Fantasmagoría](https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 4:13 | 2021-10-20 | 2024-04-19 |
@@ -155,7 +156,7 @@
 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 | 2021-10-20 | 2024-04-19 |
 | [Pájaro Zinzontle](https://open.spotify.com/track/511pu0YZEk21PSpghFADdy) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Son Rompepera](https://open.spotify.com/artist/3QM4Z6Id8e3VyAoc5CbU2P) | [Mambo Mundial](https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl) | 3:38 | 2021-10-20 |  |
 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 | 2021-10-20 |  |
-| [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 | 2021-10-20 |  |
+| [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 | 2021-10-20 | 2024-10-15 |
 | [Republica Federal de Malphino](https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Lalango](https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg) | 3:29 | 2021-10-20 |  |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm) | 4:43 | 2021-10-20 | 2024-04-19 |
 | [Savage Love](https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi) | [Joshua Moriarty](https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU) | [Savage Love](https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ) | 3:54 | 2021-10-20 |  |
@@ -167,7 +168,7 @@
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 | 2021-10-20 | 2024-04-19 |
-| [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 | 2021-10-20 | 2024-10-13 |
+| [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 | 2021-10-20 |  |
 | [Strange Salsa](https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:19 | 2023-03-28 | 2024-04-19 |
 | [Sábadito](https://open.spotify.com/track/2OiIYDDSKP90B7LBbs9Fdr) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Sábadito de Locura](https://open.spotify.com/album/5BVZ6ILgDpcIRtrNKMHG3G) | 1:58 | 2024-01-26 | 2024-05-06 |
 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 | 2021-10-20 |  |

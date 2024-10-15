@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring BIJOU",
-  "num_followers": 448913,
+  "num_followers": 448917,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
-      "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Comeback",
-      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "DRENCH",
@@ -791,6 +775,22 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2024-08-16 14:00:00",
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1389,20 +1389,24 @@
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/4whYaNX1C24M56TcMqRIRE"
+        "name": "Backstage Baddies",
+        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
         }
       ],
-      "duration_ms": 145920,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/7kX7hC9Ytlc5ePQ9bsJEci"
+      "duration_ms": 181818,
+      "name": "Backstage Baddies",
+      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1439,26 +1443,6 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Backstage Baddies",
-        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Backstage Baddies",
-      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1507,6 +1491,22 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/4whYaNX1C24M56TcMqRIRE"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/7kX7hC9Ytlc5ePQ9bsJEci"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
-      "album": {
-        "name": "Pump The Bass",
-        "url": "https://open.spotify.com/album/45K47FDDqFIcAQslA77hf4"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 187031,
-      "name": "Pump The Bass",
-      "url": "https://open.spotify.com/track/2AvftRrQt565x4gLPaCvor"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
@@ -1659,6 +1643,22 @@
       "duration_ms": 181300,
       "name": "Nite Mode",
       "url": "https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii"
+    },
+    {
+      "added_at": "2024-08-16 14:00:00",
+      "album": {
+        "name": "Pump The Bass",
+        "url": "https://open.spotify.com/album/45K47FDDqFIcAQslA77hf4"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 187031,
+      "name": "Pump The Bass",
+      "url": "https://open.spotify.com/track/2AvftRrQt565x4gLPaCvor"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -1909,22 +1909,6 @@
       "url": "https://open.spotify.com/track/5HN8RiGIt5km1HqmLBVcZi"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
-      },
-      "artists": [
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Out Past 2",
@@ -1947,6 +1931,22 @@
       "duration_ms": 196533,
       "name": "Out Past 2",
       "url": "https://open.spotify.com/track/636DZcUk6YMmdG0rliLJ9H"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2013,26 +2013,6 @@
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Get It Right",
-        "url": "https://open.spotify.com/album/0TVtQVw8WoiqutXeubiGiN"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        }
-      ],
-      "duration_ms": 165354,
-      "name": "Get It Right",
-      "url": "https://open.spotify.com/track/2IvtQzqvs8vmQBEeszvh1k"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Turn Up The Volume",
@@ -2051,6 +2031,26 @@
       "duration_ms": 142445,
       "name": "Turn Up The Volume",
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/0TVtQVw8WoiqutXeubiGiN"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "Get It Right",
+      "url": "https://open.spotify.com/track/2IvtQzqvs8vmQBEeszvh1k"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "A Prayer",
         "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
@@ -2121,22 +2137,6 @@
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "CASH",
-        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CASH",
-      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
-    },
-    {
       "added_at": "2024-08-30 20:19:56",
       "album": {
         "name": "CAN'T GET ENOUGH",
@@ -2151,6 +2151,22 @@
       "duration_ms": 169846,
       "name": "CANT GET ENOUGH",
       "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
@@ -2199,6 +2199,22 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2239,22 +2255,6 @@
       "duration_ms": 209523,
       "name": "Swagger Feet",
       "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Mysterious World",
         "url": "https://open.spotify.com/album/2B5aEC063CNyJD2l2M2fhb"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 180800,
       "name": "Mysterious World",
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
       "added_at": "2024-06-24 15:40:12",

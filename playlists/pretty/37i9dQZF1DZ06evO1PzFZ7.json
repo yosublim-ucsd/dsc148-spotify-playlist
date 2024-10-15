@@ -1,12 +1,12 @@
 {
-  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 151714,
+  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 151718,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAACsC0Ic6czeztOoAt5Ep2y+",
+  "snapshot_id": "ZwsNgAAAAABQl7czkPJeCa4eKaheIRSf",
   "tracks": [
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Dos Almas",
         "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 186513,
       "name": "Cuando Dos Almas",
       "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
     },
     {
       "added_at": null,

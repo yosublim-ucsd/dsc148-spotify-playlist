@@ -1,12 +1,12 @@
 {
-  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 397316,
+  "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
+  "num_followers": 397381,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADmOm7vebO+Yuhu0aDmy/Io",
+  "snapshot_id": "ZwsNgAAAAAB9OwADMskvvf06+2VWTdY8",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Stillness in Time",
-      "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 331800,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Stillness in Time",
+      "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 238533,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Hot Tequila Brown",
-      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 271986,
       "name": "Hot Property",
       "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Hot Tequila Brown",
+      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
     },
     {
       "added_at": null,

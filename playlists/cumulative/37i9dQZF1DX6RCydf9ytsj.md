@@ -2,7 +2,7 @@
 
 ### [80s Country](https://open.spotify.com/playlist/37i9dQZF1DX6RCydf9ytsj)
 
-> The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
+> We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
 212 songs - 11 hr 54 min
 

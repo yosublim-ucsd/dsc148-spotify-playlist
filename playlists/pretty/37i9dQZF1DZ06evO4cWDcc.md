@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 ### [This Is Jimi Hendrix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc)
 
-> This is Jimi Hendrix\. Todos os maiores hits em uma só playlist.
+> This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,343 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,368 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 19 | [Gypsy Eyes](https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:43 |
 | 20 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
 | 21 | [Foxey Lady](https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:18 |
-| 22 | [Drifter's Escape \- Takes 1 & 2](https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:18 |
+| 22 | [Farther Up the Road](https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 1:46 |
 | 23 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 |
 | 24 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 |
 | 25 | [Fire](https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:43 |
-| 26 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 |
+| 26 | [Drifter's Escape \- Takes 1 & 2](https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:18 |
 | 27 | [Come On \(Let the Good Times Roll\)](https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:09 |
 | 28 | [Drifting \- Alternate Version / November 20, 1970](https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Drifting \(Alternate Version / November 20, 1970\)](https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw) | 2:39 |
 | 29 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
-| 30 | [Farther Up the Road](https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 1:46 |
+| 30 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 |
 | 31 | [Somewhere](https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 4:05 |
 | 32 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 |
 | 33 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
@@ -47,18 +47,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 37 | [Lover Man](https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:03 |
 | 38 | [Ezy Ryder](https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:46 |
 | 39 | [Villanova Junction Blues](https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 1:44 |
-| 40 | [Angel \- Take 7](https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Angel \(Take 7\)](https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq) | 4:27 |
-| 41 | [Dolly Dagger](https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 4:44 |
-| 42 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
-| 43 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 |
-| 44 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 |
-| 45 | [Sweet Angel](https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:54 |
+| 40 | [Dolly Dagger](https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 4:44 |
+| 41 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
+| 42 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 |
+| 43 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 |
+| 44 | [Sweet Angel](https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:54 |
+| 45 | [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 |
 | 46 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 6:04 |
 | 47 | [Introduction \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 0:58 |
-| 48 | [My Friend](https://open.spotify.com/track/065DgHzdiTnwiwEEBHFrIN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:37 |
-| 49 | [Hey Gypsy Boy](https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:39 |
+| 48 | [Hey Gypsy Boy](https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:39 |
+| 49 | [My Friend](https://open.spotify.com/track/065DgHzdiTnwiwEEBHFrIN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:37 |
 | 50 | [Machine Gun \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 8:53 |
 | 51 | [Sgt\. Pepper's Lonely Hearts Club Band \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 1:54 |
 | 52 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
 
-Snapshot ID: `Zwm8AAAAAAACbCR2Yn8Q17d4sqpSPHfC`
+Snapshot ID: `ZwsNgAAAAAABO/PAnQNwxT0cgQoHOS3+`

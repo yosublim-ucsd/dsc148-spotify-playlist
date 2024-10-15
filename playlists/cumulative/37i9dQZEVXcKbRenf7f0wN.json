@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 258555,
       "name": "16 Psyche",
       "url": "https://open.spotify.com/track/6dfWiUc39g9BjD01irYviR"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 257812,
       "name": "A Victory of Love",
       "url": "https://open.spotify.com/track/2Hf6NFGwSqZqFXp5at5J9h"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 214733,
       "name": "Bata Motel",
       "url": "https://open.spotify.com/track/5DGX4pMuQb0I6uLOpf6cdK"
@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 229840,
       "name": "Breaking Down",
       "url": "https://open.spotify.com/track/0ZuCP3ikywo36QedgcoHJb"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 93936,
       "name": "Burning with Life",
       "url": "https://open.spotify.com/track/3jjRjJmZc0ttctuojJzYqX"
@@ -6068,7 +6068,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 262748,
       "name": "D'yer Mak'er - Remaster",
       "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
@@ -6216,7 +6216,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 190640,
       "name": "Danza de Sol",
       "url": "https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW"
@@ -6274,6 +6274,24 @@
       "duration_ms": 243333,
       "name": "Dark Secret",
       "url": "https://open.spotify.com/track/6y4tqwwrrIHBtb6UAfaafT"
+    },
+    {
+      "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/5ITqNHNj3499da0fe5FE32"
+      },
+      "artists": [
+        {
+          "name": "VNV Nation",
+          "url": "https://open.spotify.com/artist/4KlYg0F5KG9QNDFKaeTNAy"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328470,
+      "name": "Darkangel",
+      "url": "https://open.spotify.com/track/23H4EwCnviFRRFU63I7Tx9"
     },
     {
       "album": {
@@ -6720,7 +6738,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 816720,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/4siXNiLG9VJR6Z2kP6fFjv"
@@ -6738,7 +6756,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 252853,
       "name": "Demanufacture",
       "url": "https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi"
@@ -7462,7 +7480,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 366893,
       "name": "Dissolved Girl",
       "url": "https://open.spotify.com/track/0oeEqyEAavgPfFxDYvjAP6"
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 446084,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/1Mpg5Cs4uBklznb2LnAzAp"
@@ -8110,7 +8128,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Eaten",
       "url": "https://open.spotify.com/track/54cBqIDAX3dH5Ys1DKgDWR"
@@ -8636,7 +8654,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 432000,
       "name": "El Sue\u00f1o De La Gitana",
       "url": "https://open.spotify.com/track/1TPMt9f5xiS3PhEh3UvEtz"
@@ -8708,7 +8726,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 294626,
       "name": "Electric Head, Part 1 (The Agony)",
       "url": "https://open.spotify.com/track/2Slqcx8DDRjDwPI2lzyRPp"
@@ -9554,7 +9572,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 169280,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4KWzmHFYCmZAasa0qXlwX0"
@@ -11392,7 +11410,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 217312,
       "name": "Happy When It Rains",
       "url": "https://open.spotify.com/track/325ipyWkzIGakH2DJgDlOT"
@@ -11612,7 +11630,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
@@ -13434,7 +13452,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 336453,
       "name": "It Can't Rain All The Time",
       "url": "https://open.spotify.com/track/6Q6CHWbVZNHrz2dmiJMC0X"
@@ -13910,7 +13928,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 466506,
       "name": "Just a Lifetime",
       "url": "https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK"
@@ -15246,7 +15264,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 176440,
       "name": "Levantamuertos",
       "url": "https://open.spotify.com/track/7txNBHclcIAlsjQPIE8O6L"
@@ -15870,7 +15888,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 327866,
       "name": "Love Never Dies - Part 1",
       "url": "https://open.spotify.com/track/6En2SlxJuWj8TpGE4izsD7"
@@ -16068,7 +16086,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 337240,
       "name": "M.E.",
       "url": "https://open.spotify.com/track/0YBA7eO8kqEzUoC6zAEutF"
@@ -17924,7 +17942,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 377611,
       "name": "My Name Is Ruin",
       "url": "https://open.spotify.com/track/5N9fzr0zQQyeLoTVDihNkj"
@@ -18252,7 +18270,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 325363,
       "name": "Necrophilia",
       "url": "https://open.spotify.com/track/73xRUCi6HkhcTsjCuZV2u3"
@@ -19608,7 +19626,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 320360,
       "name": "Our Diabolikal Rapture",
       "url": "https://open.spotify.com/track/0WIXvD45IY649f59Frzg4S"
@@ -21058,6 +21076,24 @@
       "duration_ms": 268280,
       "name": "Prehistoric Dog",
       "url": "https://open.spotify.com/track/31joRJoijYOGBIW4444Fwk"
+    },
+    {
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "President Gas",
+      "url": "https://open.spotify.com/track/3Xcj4v1Is2v4kdhlxCHXZf"
     },
     {
       "album": {
@@ -22762,7 +22798,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 394093,
       "name": "San Diego(The Tragical)",
       "url": "https://open.spotify.com/track/2x6uPtHZ4exHQfkio9jhas"
@@ -22964,7 +23000,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 604013,
       "name": "Screaming At Forgotten Fears (2007)",
       "url": "https://open.spotify.com/track/0qZ818q7eh1ovFUG8LU1RO"
@@ -23760,7 +23796,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 132720,
       "name": "Si Yo Soy As\u00ed",
       "url": "https://open.spotify.com/track/61NNLPn7WrBLBNhEAgHSvu"
@@ -24066,7 +24102,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 549506,
       "name": "Sixteen Days / Gathering Dust - Remastered",
       "url": "https://open.spotify.com/track/4kLZR0q1u9R0Iz44JM64AV"
@@ -24664,7 +24700,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 441266,
       "name": "Something In My House",
       "url": "https://open.spotify.com/track/2fC5bC8MAQIvIwpElf2GbJ"
@@ -25190,7 +25226,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 471187,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/5AbFdMKdv6kQB5rmIr8qTD"
@@ -25410,6 +25446,24 @@
       "duration_ms": 98889,
       "name": "Stupid Song",
       "url": "https://open.spotify.com/track/4dAJ1hh9SuqTSah6SIyDiE"
+    },
+    {
+      "album": {
+        "name": "Low-Life",
+        "url": "https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297880,
+      "name": "Sub-culture - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6MfyyQoLMjlA6ptLb6OAje"
     },
     {
       "album": {
@@ -28388,7 +28442,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 181680,
       "name": "Triste Locura",
       "url": "https://open.spotify.com/track/5Ds9Zy6pHiY2wB7a4vRl5K"
@@ -28720,6 +28774,24 @@
       "duration_ms": 222053,
       "name": "Under The Black Wings",
       "url": "https://open.spotify.com/track/4jHgUkBzx6045dHpiBOBLW"
+    },
+    {
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246186,
+      "name": "Underwear",
+      "url": "https://open.spotify.com/track/5pcDlqgygjWQ75QYLM7mdL"
     },
     {
       "album": {
@@ -30726,7 +30798,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 280933,
       "name": "Your hands on my skin",
       "url": "https://open.spotify.com/track/2QJ7e5QVz9eMQBRdm2wery"
@@ -30942,7 +31014,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 348053,
       "name": "\u03a7 \u039e \u03a3 - 666",
       "url": "https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0"

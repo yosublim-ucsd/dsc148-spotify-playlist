@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc83Pc1ycScTH8rNPqONCU5pV7TOhE",
+  "snapshot_id": "AAAc9VdvMeW9qAQRej3P+wP/cszvFnQO",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3479,6 +3479,38 @@
       "duration_ms": 149328,
       "name": "How Did We Know?",
       "url": "https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ"
+    },
+    {
+      "added_at": "2024-10-14 22:06:27",
+      "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
+    },
+    {
+      "added_at": "2024-10-14 22:06:29",
+      "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
     }
   ],
   "unique_name": "main ",

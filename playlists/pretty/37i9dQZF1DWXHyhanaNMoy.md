@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes\. Cover: Priceless
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,918 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,930 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spiritual Mami](https://open.spotify.com/track/4iomHXx4iKSlGt2XuqqXv6) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Spiritual Mami](https://open.spotify.com/album/5QC8aWdrNjDRmqa6QGdoKj) | 2:18 |
 | 2 | [Modeshow](https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Modeshow](https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE) | 2:27 |
-| 3 | [NASA](https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [NASA](https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ) | 2:24 |
-| 4 | [JUDGEN](https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [JUDGEN](https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e) | 2:50 |
-| 5 | [Vaag](https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Vaag](https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp) | 2:13 |
-| 6 | [Bij Je Zijn](https://open.spotify.com/track/3PbHkeCvPDwlHObIWkt5aR) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Bij Je Zijn](https://open.spotify.com/album/1adQzuk9Fas8UEjq1dwTUX) | 2:37 |
+| 3 | [Bij Je Zijn](https://open.spotify.com/track/3PbHkeCvPDwlHObIWkt5aR) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Bij Je Zijn](https://open.spotify.com/album/1adQzuk9Fas8UEjq1dwTUX) | 2:37 |
+| 4 | [NASA](https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [NASA](https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ) | 2:24 |
+| 5 | [JUDGEN](https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [JUDGEN](https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e) | 2:50 |
+| 6 | [Vaag](https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Vaag](https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp) | 2:13 |
 | 7 | [Planga](https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Planga](https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK) | 2:13 |
 | 8 | [Vrijgezel](https://open.spotify.com/track/51C9ZDKG7RG8QIeQoCf6we) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [FRNKIE](https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4) | [Koude Kermis](https://open.spotify.com/album/2UZ05NpzJ76d06VBQrKWtv) | 2:19 |
 | 9 | [YOU](https://open.spotify.com/track/7z7zXc7sI8wTpxXPYnrsuM) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [YOU](https://open.spotify.com/album/4EROvvNdZEkpcJ3mP4ENxO) | 2:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 59 | [Be My ...](https://open.spotify.com/track/5kMwF362JlDjN4D8vjgKgp) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Be My ...](https://open.spotify.com/album/0dfi3J2ADJ71dxWeDJ8q0m) | 2:38 |
 | 60 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 |
 
-Snapshot ID: `ZwhOYAAAAAAgn80G5belfa2bZEFVf3vX`
+Snapshot ID: `ZwzHMwAAAADloRjXFWkr8RrJq99AI2c5`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 ### [Jump Up!](https://open.spotify.com/playlist/37i9dQZF1DX4to60X6goeK)
 
-> Go hard or go home\. Cover: A.M.C
+> Go hard or go home\. Cover: SOTA at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,727 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,760 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 |
 | 55 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
 
-Snapshot ID: `Zuys8AAAAADYFZWagp8P3s501dQzsCul`
+Snapshot ID: `Zw0QnAAAAACm+W6thdFPHHpm5QqSXJ+4`

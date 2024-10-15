@@ -1,12 +1,12 @@
 {
-  "description": "This Is Hildur Gu\u00f0nad\u00f3ttir. Los temas esenciales, todos en una lista.",
-  "num_followers": 2125,
+  "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
+  "num_followers": 2131,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAir/3x1vmi/04qTkoK/bnN",
+  "snapshot_id": "ZwsNgAAAAAAR50cBMaM5QwguL09jorM8",
   "tracks": [
     {
       "added_at": null,
@@ -310,11 +310,15 @@
         {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 83315,
-      "name": "The Universal End",
-      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+      "duration_ms": 219515,
+      "name": "A Minor Astronomical Event",
+      "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
     },
     {
       "added_at": null,
@@ -344,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 101980,
-      "name": "Trial of the Century",
-      "url": "https://open.spotify.com/track/6Uj8qAsoMWi1CA7ElKS5IU"
+      "duration_ms": 152240,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
     },
     {
       "added_at": null,
@@ -402,15 +406,11 @@
         {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 219515,
-      "name": "A Minor Astronomical Event",
-      "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+      "duration_ms": 83315,
+      "name": "The Universal End",
+      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 152240,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
+      "duration_ms": 77056,
+      "name": "The Saints",
+      "url": "https://open.spotify.com/track/2Sivoz6sgcLupCyeckUpgm"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 77056,
-      "name": "The Saints",
-      "url": "https://open.spotify.com/track/2Sivoz6sgcLupCyeckUpgm"
+      "duration_ms": 101980,
+      "name": "Trial of the Century",
+      "url": "https://open.spotify.com/track/6Uj8qAsoMWi1CA7ElKS5IU"
     },
     {
       "added_at": null,

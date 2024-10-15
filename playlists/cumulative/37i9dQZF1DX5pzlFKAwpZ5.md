@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-273 songs - 20 hr 10 min
+274 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Still Park \- Ensemble](https://open.spotify.com/track/3Op3F8ipO0YQO8ps4p5kYv) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 12:07 | 2022-12-30 | 2024-08-09 |
 | [Still Sky](https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 8:35 | 2022-12-30 |  |
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-12-30 |  |
+| [Strange Clouds](https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Radio Yugawara](https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU) | 3:33 | 2024-10-15 |  |
 | [su sa](https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [su sa](https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j) | 3:32 | 2022-01-07 | 2023-08-19 |
 | [SUNNYSIDE OF THE WATER/水と光](https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 3:07 | 2022-12-30 |  |
 | [Sweltering Drive](https://open.spotify.com/track/3tKoE2bSAGPxtpxuTjnwQ8) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:54 | 2023-04-28 | 2024-04-19 |

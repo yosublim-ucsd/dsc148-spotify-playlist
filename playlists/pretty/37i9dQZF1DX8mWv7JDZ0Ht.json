@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem",
-  "num_followers": 435433,
+  "num_followers": 435409,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Com Acento ou Sem",
+        "url": "https://open.spotify.com/album/0KFfixsFOhZ3oJvGWBdXD0"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 248347,
+      "name": "Com Acento ou Sem",
+      "url": "https://open.spotify.com/track/1d1el8AKMK9XGl6amXBtq7"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Dan\u00e7ando na Beira",
         "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 163298,
       "name": "Dan\u00e7ando na Beira",
       "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Com Acento ou Sem",
-        "url": "https://open.spotify.com/album/0KFfixsFOhZ3oJvGWBdXD0"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "Com Acento ou Sem",
-      "url": "https://open.spotify.com/track/1d1el8AKMK9XGl6amXBtq7"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 230016,
+      "name": "Paradis\u00edaca",
+      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Dan\u00e7a Comigo",
         "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Yuki",
-          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
-        }
-      ],
-      "duration_ms": 240207,
-      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 171311,
       "name": "Noites De Monza",
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Yuki",
+          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
+        }
+      ],
+      "duration_ms": 240207,
+      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -723,6 +739,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -739,22 +771,6 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -811,6 +827,26 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Coisa de Cinema",
+        "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
+      },
+      "artists": [
+        {
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Coisa de Cinema",
+      "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Bye Bye ou Volta?",
         "url": "https://open.spotify.com/album/58MwjaWhmByTi5nzT32qJz"
       },
@@ -851,22 +887,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Coisa de Cinema",
-        "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
-          "name": "Davi Sham\u00e1",
-          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 175653,
-      "name": "Coisa de Cinema",
-      "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -887,22 +919,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Paradis\u00edaca",
-      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "do c\u00e9u ao inferno",
+        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "do c\u00e9u ao inferno",
+      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/3oB9lIYSwUIXoYoUgignIu"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Dentro Do Meu Peito",
-        "url": "https://open.spotify.com/album/46wtNpnGL1zD4JTS1X0DqG"
-      },
-      "artists": [
-        {
-          "name": "Rafael Stonne",
-          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Dentro Do Meu Peito",
-      "url": "https://open.spotify.com/track/2hwhNr8FXPw19EkXVaOeK5"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Todos os Futuros",
         "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 152027,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Dentro Do Meu Peito",
+        "url": "https://open.spotify.com/album/46wtNpnGL1zD4JTS1X0DqG"
+      },
+      "artists": [
+        {
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Dentro Do Meu Peito",
+      "url": "https://open.spotify.com/track/2hwhNr8FXPw19EkXVaOeK5"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "do c\u00e9u ao inferno",
-        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
+        "name": "Fita do Bonfim",
+        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
       },
       "artists": [
         {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
         }
       ],
-      "duration_ms": 198409,
-      "name": "do c\u00e9u ao inferno",
-      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
+      "duration_ms": 205961,
+      "name": "Fita do Bonfim",
+      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 188507,
       "name": "Voc\u00ea Mentiu",
       "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Fita do Bonfim",
-        "url": "https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        }
-      ],
-      "duration_ms": 205961,
-      "name": "Fita do Bonfim",
-      "url": "https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK"
     },
     {
       "added_at": "2024-10-11 03:00:00",

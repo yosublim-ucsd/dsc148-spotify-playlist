@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This Is Belinda\. Los temas esenciales, todos en una lista.
+> This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,412 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,434 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 11 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 |
 | 12 | [Luz Sin Gravedad](https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 4:01 |
 | 13 | [Flamenkito](https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cocoterapia](https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1) | 3:22 |
-| 14 | [Si No Te Quisiera](https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [The King Is Back](https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu) | 3:05 |
-| 15 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
+| 14 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
+| 15 | [Si No Te Quisiera](https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [The King Is Back](https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu) | 3:05 |
 | 16 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 17 | [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 |
 | 18 | [Bugatti](https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Bugatti](https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC) | 2:45 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 44 | [Alguien Mas](https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:13 |
 | 45 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
 | 46 | [Te Quiero \(feat\. Belinda\) \- Spanglish](https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Te Quiero Maxi Single](https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H) | 3:25 |
-| 47 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 |
-| 48 | [Madrid X Marbella](https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Madrid X Marbella](https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y) | 3:14 |
+| 47 | [Madrid X Marbella](https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Madrid X Marbella](https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y) | 3:14 |
+| 48 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 |
 | 49 | [Be Free](https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:33 |
 | 50 | [Translation](https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg) | [Vein](https://open.spotify.com/artist/3BnF35ARlp8mMeyXTjUZsr), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Translation](https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB) | 3:39 |
 
-Snapshot ID: `Zwm8AAAAAABFXvF1S3InM/0ohWZ5OWce`
+Snapshot ID: `ZwsNgAAAAAC2NpLX00//1Bjbp48yQAwp`

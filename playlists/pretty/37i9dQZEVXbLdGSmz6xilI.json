@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Vietnam.",
-  "num_followers": 92625,
+  "num_followers": 92633,
   "original_name": "Top 50 - Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lp81SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LqCGyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "FLVR",
         "url": "https://open.spotify.com/album/71L9y03HASgkNoYodycslE"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "B\u1ea3o T\u00e0ng C\u1ee7a Nu\u1ed1i Ti\u1ebfc",
         "url": "https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/41DlPJXKTCypXdf2eSqa03"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
         "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
@@ -137,7 +137,27 @@
       "url": "https://open.spotify.com/track/2oVLEoBVDvYrGmzrU7dEm5"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "M\u221eN",
+        "url": "https://open.spotify.com/album/1miKX6uKi8aY4YSOKkrOHr"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Minh T\u1ed1c & Lam",
+          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
+        }
+      ],
+      "duration_ms": 262495,
+      "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
+      "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 14",
         "url": "https://open.spotify.com/album/4kny5Fe1xqqn0Crb7bb1tE"
@@ -173,27 +193,23 @@
       "url": "https://open.spotify.com/track/68vprHs3lxe8uNUpyXZcM8"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "M\u221eN",
-        "url": "https://open.spotify.com/album/1miKX6uKi8aY4YSOKkrOHr"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        },
-        {
-          "name": "Minh T\u1ed1c & Lam",
-          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 262495,
-      "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
-      "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
         "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
@@ -233,39 +249,7 @@
       "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 14",
-        "url": "https://open.spotify.com/album/4kny5Fe1xqqn0Crb7bb1tE"
-      },
-      "artists": [
-        {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
-        },
-        {
-          "name": "Quang H\u00f9ng MasterD",
-          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
-        },
-        {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        },
-        {
-          "name": "Ph\u00e1p Ki\u1ec1u",
-          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
-        },
-        {
-          "name": "ERIK",
-          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "T\u00ccNH \u0110\u1ea6U QU\u00c1 CH\u00c9N (feat. Quang H\u00f9ng MasterD, Negav, Ph\u00e1p Ki\u1ec1u & Erik)",
-      "url": "https://open.spotify.com/track/7zxfM3Hi0cdeCsORWtXGKs"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\" - Live Stage 4",
         "url": "https://open.spotify.com/album/12QFrU7SbQXV60gqjevhKw"
@@ -301,27 +285,39 @@
       "url": "https://open.spotify.com/track/2GE2p2dFpxp7OIz2QOFBzW"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 14",
+        "url": "https://open.spotify.com/album/4kny5Fe1xqqn0Crb7bb1tE"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "Ph\u00e1p Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
+        },
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+      "duration_ms": 316000,
+      "name": "T\u00ccNH \u0110\u1ea6U QU\u00c1 CH\u00c9N (feat. Quang H\u00f9ng MasterD, Negav, Ph\u00e1p Ki\u1ec1u & Erik)",
+      "url": "https://open.spotify.com/track/7zxfM3Hi0cdeCsORWtXGKs"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "Sau C\u01a1n M\u01b0a",
         "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
@@ -341,7 +337,27 @@
       "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\" - Live Stage 2",
         "url": "https://open.spotify.com/album/3oWelWuv6TkzEhaUerF47z"
@@ -369,79 +385,27 @@
       "url": "https://open.spotify.com/track/7gSQxwCpEMjg8wb6Y3oqe7"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+        "name": "M\u1ed8NG YU",
+        "url": "https://open.spotify.com/album/6ARiEjWrsw26QxfcvUsjtd"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
-        "url": "https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r"
-      },
-      "artists": [
-        {
-          "name": "S\u01a1n T\u00f9ng M-TP",
-          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
-        }
-      ],
-      "duration_ms": 279208,
-      "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
-      "url": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
-        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Kh\u00f4ng Th\u1ec3 Say",
-      "url": "https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
-        "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
         },
         {
-          "name": "CoolKid",
-          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
-        },
-        {
-          "name": "BAN",
-          "url": "https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         }
       ],
-      "duration_ms": 181558,
-      "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
-      "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
+      "duration_ms": 202629,
+      "name": "M\u1ed8NG YU",
+      "url": "https://open.spotify.com/track/5oFEvbM7lGnx8jfAkuhVyo"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\" - Live Stage 3",
         "url": "https://open.spotify.com/album/39kg9dUicbebUw7k1JbcTk"
@@ -477,27 +441,23 @@
       "url": "https://open.spotify.com/track/0BX2eDMZJrGzApf4ZGXrFi"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "M\u1ed8NG YU",
-        "url": "https://open.spotify.com/album/6ARiEjWrsw26QxfcvUsjtd"
+        "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
+        "url": "https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r"
       },
       "artists": [
         {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
         }
       ],
-      "duration_ms": 202629,
-      "name": "M\u1ed8NG YU",
-      "url": "https://open.spotify.com/track/5oFEvbM7lGnx8jfAkuhVyo"
+      "duration_ms": 279208,
+      "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
+      "url": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "B\u1ea3o T\u00e0ng C\u1ee7a Nu\u1ed1i Ti\u1ebfc",
         "url": "https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ"
@@ -517,39 +477,47 @@
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
+        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+      "duration_ms": 228413,
+      "name": "Kh\u00f4ng Th\u1ec3 Say",
+      "url": "https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "Super Tuna",
-        "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
+        "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
+        "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
       },
       "artists": [
         {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "BAN",
+          "url": "https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL"
         }
       ],
-      "duration_ms": 114693,
-      "name": "Super Tuna",
-      "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
+      "duration_ms": 181558,
+      "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
+      "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "Wrong Times",
         "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
@@ -569,7 +537,7 @@
       "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\" - Live Stage 4",
         "url": "https://open.spotify.com/album/12QFrU7SbQXV60gqjevhKw"
@@ -605,7 +573,7 @@
       "url": "https://open.spotify.com/track/26zqmmkqUK6mCc87XDzPym"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\" - Live Stage 3",
         "url": "https://open.spotify.com/album/39kg9dUicbebUw7k1JbcTk"
@@ -641,23 +609,7 @@
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "M\u00ecnh Anh Th\u00f4i",
-        "url": "https://open.spotify.com/album/1cpjIwbHEs622qW35q0wCQ"
-      },
-      "artists": [
-        {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "M\u00ecnh Anh Th\u00f4i",
-      "url": "https://open.spotify.com/track/7Cjsw965r7mVK888ZqP6Wo"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
         "url": "https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx"
@@ -681,43 +633,39 @@
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
-        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
-        },
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 210491,
-      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
-      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
-        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
+        "name": "M\u00ecnh Anh Th\u00f4i",
+        "url": "https://open.spotify.com/album/1cpjIwbHEs622qW35q0wCQ"
       },
       "artists": [
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
         }
       ],
-      "duration_ms": 170898,
-      "name": "NOLOVENOLIFE",
-      "url": "https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx"
+      "duration_ms": 212519,
+      "name": "M\u00ecnh Anh Th\u00f4i",
+      "url": "https://open.spotify.com/track/7Cjsw965r7mVK888ZqP6Wo"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
         "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
@@ -741,23 +689,27 @@
       "url": "https://open.spotify.com/track/4WZf4gJ2MvBec6XPdUiqcq"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "nh\u1eafn nh\u1ee7",
-        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
+        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
+        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
       },
       "artists": [
         {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 241190,
-      "name": "nh\u1eafn nh\u1ee7",
-      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
+      "duration_ms": 210491,
+      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
+      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "id 072019",
         "url": "https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS"
@@ -773,23 +725,47 @@
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (Original Soundtrack from \u201c\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\u201d)",
-        "url": "https://open.spotify.com/album/6RMQBZcAJOtp9d6ZYeizly"
+        "name": "Super Tuna",
+        "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
       },
       "artists": [
         {
-          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 220839,
-      "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (Original Soundtrack from \u201c\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\u201d)",
-      "url": "https://open.spotify.com/track/4HgTGTXHt1zie3upsI50zm"
+      "duration_ms": 114693,
+      "name": "Super Tuna",
+      "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "NG\u1ef0A \u00d4",
+        "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 215415,
+      "name": "NG\u1ef0A \u00d4",
+      "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "S\u1ed0 KH\u00d4NG",
         "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
@@ -813,47 +789,43 @@
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
-        "url": "https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ"
+        "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
       },
       "artists": [
         {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        },
-        {
-          "name": "Ph\u01b0\u01a1ng Ly",
-          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 255429,
-      "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
-      "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "LOI CHOI: The Neo Pop Punk",
-        "url": "https://open.spotify.com/album/1c4nTHI2hreFeF5P37wf4f"
+        "name": "shhhhhhh..",
+        "url": "https://open.spotify.com/album/3TfGWGY3mNNdK5LYxBzfXi"
       },
       "artists": [
         {
-          "name": "Wren Evans",
-          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
         },
         {
-          "name": "itsnk",
-          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 174545,
-      "name": "T\u1eebng Quen",
-      "url": "https://open.spotify.com/track/4qYfRfSxsmhJ1WMaywtLyI"
+      "duration_ms": 230675,
+      "name": "shhhhhhh..",
+      "url": "https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
         "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
@@ -877,59 +849,7 @@
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "Mi\u00ean Man",
-        "url": "https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw"
-      },
-      "artists": [
-        {
-          "name": "Minh Huy",
-          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
-        }
-      ],
-      "duration_ms": 197998,
-      "name": "Mi\u00ean Man",
-      "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "shhhhhhh..",
-        "url": "https://open.spotify.com/album/3TfGWGY3mNNdK5LYxBzfXi"
-      },
-      "artists": [
-        {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 230675,
-      "name": "shhhhhhh..",
-      "url": "https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
-        "url": "https://open.spotify.com/album/1xjl5BzDqRbZBaWYESTLmI"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 193049,
-      "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
-      "url": "https://open.spotify.com/track/1J12HjUuXfJnaUdubTEzSR"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
         "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
@@ -949,27 +869,63 @@
       "url": "https://open.spotify.com/track/7kKu4NWeBh01I6aTIEP9bg"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
+        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
       },
       "artists": [
         {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "2pillz",
-          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 263752,
-      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-      "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
+      "duration_ms": 170898,
+      "name": "NOLOVENOLIFE",
+      "url": "https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "LOI CHOI: The Neo Pop Punk",
+        "url": "https://open.spotify.com/album/1c4nTHI2hreFeF5P37wf4f"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "itsnk",
+          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "T\u1eebng Quen",
+      "url": "https://open.spotify.com/track/4qYfRfSxsmhJ1WMaywtLyI"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
+        "url": "https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "duration_ms": 255429,
+      "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
+      "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "Simp G\u00e1i 808",
         "url": "https://open.spotify.com/album/3FEwdWcv8XtzAH0Ks9zJDe"
@@ -985,7 +941,75 @@
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (Original Soundtrack from \u201c\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\u201d)",
+        "url": "https://open.spotify.com/album/6RMQBZcAJOtp9d6ZYeizly"
+      },
+      "artists": [
+        {
+          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (Original Soundtrack from \u201c\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\u201d)",
+      "url": "https://open.spotify.com/track/4HgTGTXHt1zie3upsI50zm"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "Mi\u00ean Man",
+        "url": "https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw"
+      },
+      "artists": [
+        {
+          "name": "Minh Huy",
+          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
+        }
+      ],
+      "duration_ms": 197998,
+      "name": "Mi\u00ean Man",
+      "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
+        "url": "https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ"
+      },
+      "artists": [
+        {
+          "name": "Madihu",
+          "url": "https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN"
+        },
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        }
+      ],
+      "duration_ms": 241919,
+      "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
+      "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
+      "album": {
+        "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
+        "url": "https://open.spotify.com/album/1xjl5BzDqRbZBaWYESTLmI"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 193049,
+      "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/1J12HjUuXfJnaUdubTEzSR"
+    },
+    {
+      "added_at": "2024-10-14 12:21:57",
       "album": {
         "name": "B\u1ea3o T\u00e0ng C\u1ee7a Nu\u1ed1i Ti\u1ebfc",
         "url": "https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ"
@@ -1005,68 +1029,44 @@
       "url": "https://open.spotify.com/track/1LJyhnPdYGRLerwJd8CmL1"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "B\u1ea3o T\u00e0ng C\u1ee7a Nu\u1ed1i Ti\u1ebfc",
-        "url": "https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ"
+        "name": "vaicaunoicokhiennguoithaydoi",
+        "url": "https://open.spotify.com/album/2ozchu3Zz56PixMzMP8r94"
       },
       "artists": [
         {
-          "name": "V\u0169.",
-          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 260488,
-      "name": "N\u1ebfu Nh\u1eefng Ti\u1ebfc Nu\u1ed1i",
-      "url": "https://open.spotify.com/track/2dPJtlvoa3GDowCh035M8P"
+      "duration_ms": 225862,
+      "name": "vaicaunoicokhiennguoithaydoi",
+      "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
     },
     {
-      "added_at": "2024-10-13 12:50:00",
+      "added_at": "2024-10-14 12:21:57",
       "album": {
-        "name": "Ch\u1ecdn G\u00ec? Ch\u1ecdn \u0110i! M\u00f9a 1",
-        "url": "https://open.spotify.com/album/27m2MtfhK5YMZyCzZft8Xr"
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
       },
       "artists": [
         {
-          "name": "Ch\u1ecdn g\u00ec? Ch\u1ecdn \u0111i!",
-          "url": "https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         },
         {
-          "name": "OgeNus",
-          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
-        },
-        {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Say Yes (Vietnamese Version)",
-      "url": "https://open.spotify.com/track/7mbWwlHgukuuW8r7Nc3FHv"
-    },
-    {
-      "added_at": "2024-10-13 12:50:00",
-      "album": {
-        "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
-        "url": "https://open.spotify.com/album/4SXB0iMxy8oifrnpMwadwN"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        },
-        {
-          "name": "Kewtiie",
-          "url": "https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
-      "url": "https://open.spotify.com/track/65aTHDZWUdh6WIafu9MtNF"
+      "duration_ms": 263752,
+      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+      "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
     }
   ],
   "unique_name": "Top 50 - Vietnam",

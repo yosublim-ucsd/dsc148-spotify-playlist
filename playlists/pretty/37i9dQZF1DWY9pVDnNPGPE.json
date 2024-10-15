@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6129,
+  "num_followers": 6134,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,18 @@
     {
       "added_at": "2024-09-13 09:16:09",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 213377,
-      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
-      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2024-09-13 09:16:09",
@@ -363,18 +359,22 @@
     {
       "added_at": "2024-09-13 09:16:09",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
         }
       ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+      "duration_ms": 213377,
+      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
+      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
     },
     {
       "added_at": "2024-09-13 09:16:09",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-09-13 09:16:09",
       "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU"
-    },
-    {
-      "added_at": "2024-09-13 09:16:09",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-09-13 09:16:09",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU"
     },
     {
       "added_at": "2024-09-13 09:16:09",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-09-13 09:16:09",
       "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
-    },
-    {
-      "added_at": "2024-09-13 09:16:09",
-      "album": {
         "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 181625,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
+    },
+    {
+      "added_at": "2024-09-13 09:16:09",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
     },
     {
       "added_at": "2024-09-13 09:16:09",
@@ -855,22 +855,18 @@
     {
       "added_at": "2024-09-13 09:16:09",
       "album": {
-        "name": "Do Re Mi Fa Sol",
-        "url": "https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0"
+        "name": "982",
+        "url": "https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO"
       },
       "artists": [
         {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Do Re Mi Fa Sol (Feat. CHANGMO)",
-      "url": "https://open.spotify.com/track/4kchBm5YZ6wTo4bXQamLjK"
+      "duration_ms": 153986,
+      "name": "Ordinary Ending",
+      "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

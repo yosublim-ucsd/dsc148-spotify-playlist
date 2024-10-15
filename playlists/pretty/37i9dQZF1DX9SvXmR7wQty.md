@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,212 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,213 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 44 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
 | 45 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 |
 | 46 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 |
-| 47 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
-| 48 | [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 |
-| 49 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 |
-| 50 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 |
+| 47 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 |
+| 48 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
+| 49 | [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 |
+| 50 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 |
 
 Snapshot ID: `ZwiiwAAAAAAWO2xVc14SV+BxTM5CGp1E`

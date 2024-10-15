@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-93 songs - 7 hr 7 min
+94 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [forget\-me\-not "unknown ver\. Live at PACIFICO YOKOHAMA 2021.04.29" \- Live Version](https://open.spotify.com/track/2JThg9NXaWPyHvbZouBDrX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert Tour "unknown" Live at PACIFICO YOKOHAMA](https://open.spotify.com/album/05KgPALG9hNtOX4BCUBG1i) | 4:24 | 2023-02-22 | 2023-10-11 |
 | [forget\-me\-not（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/1DOUl7bfdrYDtm3ZY43noW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～](https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na) | 4:31 | 2023-09-21 | 2023-12-14 |
 | [FRIENDS](https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:32 | 2023-03-12 |  |
+| [Game of Love](https://open.spotify.com/track/1O6qBKeEXYbSH7ia1mwDdl) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Game of Love](https://open.spotify.com/album/6nwZ30BMjF9XY1eI9GWUWm) | 2:57 | 2024-10-15 |  |
 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 | 2024-10-07 |  |
 | [heartbeat\-axelator](https://open.spotify.com/track/5JLBKCO7dHAhpkZTem0yZz) | [相羽あいな\(Roselia 湊友希那役\)](https://open.spotify.com/artist/4Iaxh5EoK1QkPdR17tGDY7), [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi), [雨宮天](https://open.spotify.com/artist/4KZzy4InZnRABJUN5Jtq7V), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [梶原岳人\(Paradox Live 朱雀野アレン役\)](https://open.spotify.com/artist/6ngKeeVr3JDuJiO5QBMBen), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te), [三森すずこ](https://open.spotify.com/artist/29pz21zpLIOXyhABfDZjg2), [勇\-YOU\-\(SCREEN mode\)](https://open.spotify.com/artist/6sy95HiaIUp1nN8UIYuaqQ), [YOU\-TA\(MADKID\)](https://open.spotify.com/artist/6ogDkCIzvPi7KL0rR91zy2), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [heartbeat\-axelator](https://open.spotify.com/album/0ud7dpZJPQoyZNHl2HBH2M) | 3:52 | 2023-08-25 | 2023-09-26 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-20 |  |
@@ -69,7 +70,7 @@
 | [ジュブナイル \-Game size\-](https://open.spotify.com/track/17JdWVTBngJuovKv7jCR7G) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:45 | 2022-06-09 | 2023-04-27 |
 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 | 2022-06-09 | 2023-09-22 |
 | [テディ \-Instrumental\-](https://open.spotify.com/track/2ZkyYkOaYK68huD13crRu4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:43 | 2022-06-09 | 2023-02-24 |
-| [トウシンダイ](https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 5:14 | 2022-06-09 |  |
+| [トウシンダイ](https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 5:14 | 2022-06-09 | 2024-10-15 |
 | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ) | 5:52 | 2022-07-24 | 2023-08-28 |
 | [ピルグリム（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/0oqEAvPQbWwJVuNfyVC8DN) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～](https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na) | 4:06 | 2024-07-25 | 2024-10-07 |
 | [ピルグリム（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/5ZgyM4hWFKrUhHHgflIJBu) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ピルグリム（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/album/5NAxhdUS0avSUR7Ev63AlH) | 4:06 | 2023-09-02 | 2024-02-11 |

@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258800,
+      "name": "A Martyr for My Love for You",
+      "url": "https://open.spotify.com/track/1JiA9BE3iRNzU2BJG0UHgs"
+    },
+    {
+      "album": {
         "name": "Performance And Cocktails",
         "url": "https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00"
       },

@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3100641,
+  "num_followers": 3100676,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
       "artists": [
         {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
         }
       ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Aqualung (Special Edition)",
-        "url": "https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 396186,
-      "name": "Aqualung",
-      "url": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "All The Young Dudes (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 211066,
       "name": "All the Young Dudes",
       "url": "https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Aqualung (Special Edition)",
+        "url": "https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 396186,
+      "name": "Aqualung",
+      "url": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
     },
     {
       "added_at": "2024-06-26 01:48:20",

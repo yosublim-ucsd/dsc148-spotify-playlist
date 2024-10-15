@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 174610,
+  "num_followers": 174667,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "GIRL$",
         "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 132999,
       "name": "GIRL$",
       "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "del mar county fair 2008",
         "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "So Clear",
-        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 212064,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
     },
     {
       "added_at": "2024-06-21 04:00:00",

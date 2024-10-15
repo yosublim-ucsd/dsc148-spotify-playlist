@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 252266,
       "name": "Driver",
       "url": "https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
@@ -1262,6 +1262,24 @@
       "duration_ms": 175714,
       "name": "Gdysou",
       "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
+    },
+    {
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz"
     },
     {
       "album": {
@@ -1324,6 +1342,24 @@
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
+    },
+    {
+      "album": {
+        "name": "The Circus",
+        "url": "https://open.spotify.com/album/4ZQyCspw8NPzUZm1VantTn"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "Greatest Day",
+      "url": "https://open.spotify.com/track/3LF54Y7TxU5vy3YKAIfiQ4"
     },
     {
       "album": {
@@ -1520,6 +1556,24 @@
       "duration_ms": 253272,
       "name": "I Sotiria Tis Psihis",
       "url": "https://open.spotify.com/track/0Ch6EvvnZYYPdSm9y4QJcX"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
     },
     {
       "album": {
@@ -1773,6 +1827,42 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
+    },
+    {
+      "album": {
+        "name": "Tora",
+        "url": "https://open.spotify.com/album/7clXu6opdGDrs4GvNWDLkX"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Magiko Hali",
+      "url": "https://open.spotify.com/track/4Du5inwBEt2y2LzuwL7sZ5"
+    },
+    {
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -1824,7 +1914,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 112000,
       "name": "Mavri Hira",
       "url": "https://open.spotify.com/track/0Tj4XEGy5fXF3OFJJ0SWmh"
@@ -1872,7 +1962,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 235040,
       "name": "Meta",
       "url": "https://open.spotify.com/track/16Vps33AaRvJhEhwOyUbZR"
@@ -2216,7 +2306,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 179306,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
@@ -2304,7 +2394,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 159846,
       "name": "Os To Telos",
       "url": "https://open.spotify.com/track/6Zrpja6ns2W3TxE1UY8WYp"
@@ -2715,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "album": {
         "name": "Tailor Swif",
         "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
       },
@@ -2778,7 +2890,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 235699,
       "name": "Tanzania - Rampa Remix",
       "url": "https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh"
@@ -3055,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "I Megali Othoni Oneirevetai",
+        "url": "https://open.spotify.com/album/7FYFLpTuf83K8PBB8SDWYb"
+      },
+      "artists": [
+        {
+          "name": "Mimis Plessas",
+          "url": "https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I"
+        },
+        {
+          "name": "Dakis",
+          "url": "https://open.spotify.com/artist/0m5PH8C1GjMk5ST7CiTBzZ"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "Tosa Kalokairia",
+      "url": "https://open.spotify.com/track/5cERWuNRghbSmXyv4pGX5v"
+    },
+    {
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -3172,6 +3306,24 @@
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
+    },
+    {
+      "album": {
+        "name": "Dinner in America Soundtrack",
+        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
+      },
+      "artists": [
+        {
+          "name": "John + Jane Q. Public",
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110110,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABXNuYPKImoID5D3Xjrp22V",
+  "snapshot_id": "ZwsNgAAAAAAq74se6tul9fN2Yps8tO86",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Five Hours",
-        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 326887,
-      "name": "Five Hours",
-      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -159,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+        "name": "Five Hours",
+        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
       },
       "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+      "duration_ms": 326887,
+      "name": "Five Hours",
+      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
     },
     {
       "added_at": null,
@@ -199,6 +179,26 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Like You (feat. Lost Boy)",
         "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 165000,
       "name": "Nobody Like You (feat. Lost Boy)",
       "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 229411,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The Funk Drops",
         "url": "https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 238125,
       "name": "When The Funk Drops",
       "url": "https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
     },
     {
       "added_at": null,
@@ -867,26 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 215963,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -911,18 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
       },
       "artists": [
         {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
+      "duration_ms": 215963,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK"
     },
     {
       "added_at": null,

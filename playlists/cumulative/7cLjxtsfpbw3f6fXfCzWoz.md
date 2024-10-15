@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-48 songs - 2 hr 48 min
+49 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4RJdwSqHapVcW5DaRtTkv0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 4:56 | 2023-03-21 |  |
 | [Tainted Love](https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 2:33 | 2023-08-15 |  |
 | [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 | 2024-09-17 |  |
+| [The Dismemberment Song](https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm) | [Blue Kid](https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN) | [Upright, Love](https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd) | 4:36 | 2024-10-14 |  |
 | [The Mess Inside](https://open.spotify.com/track/3B7a3OW9h51WJKYQXD5IAo) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 3:35 | 2023-03-23 |  |
 | [This Is How I Disappear](https://open.spotify.com/track/7vBczWEtVRGXkI5HOISv7L) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:59 | 2023-01-11 |  |
 | [Urgent](https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:31 | 2023-11-20 |  |

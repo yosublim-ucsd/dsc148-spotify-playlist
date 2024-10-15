@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
+    },
+    {
+      "album": {
         "name": "Summers",
         "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
       },
@@ -5414,7 +5432,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 182804,
       "name": "Ire",
       "url": "https://open.spotify.com/track/3AU9600L5WQNMndEfz0ZQW"
@@ -9975,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "Sp\u00e9cialit\u00e9 ivoirienne",
+        "url": "https://open.spotify.com/album/6BlHX0AGBYw4LP3HtMkqoe"
+      },
+      "artists": [
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321090,
+      "name": "Sp\u00e9cialit\u00e9 ivoirienne",
+      "url": "https://open.spotify.com/track/1Ja9Vy4qGUqjTTM0l8c1ZS"
+    },
+    {
+      "album": {
         "name": "SQUID GAME (AMAPIANO)",
         "url": "https://open.spotify.com/album/72vA6XYyOprPg4bwiKSDMd"
       },
@@ -11302,7 +11338,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 207368,
       "name": "Wahala",
       "url": "https://open.spotify.com/track/58J6sUOut4BA4WHJ8FYmNm"

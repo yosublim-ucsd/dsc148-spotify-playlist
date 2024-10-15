@@ -2,9 +2,9 @@
 
 ### [This Is Mr\. Big](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj)
 
-> This is Mr\. Big\. Todos os maiores hits em uma só playlist.
+> This is Mr\. Big\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 51 min
+72 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Not One Night](https://open.spotify.com/track/6V515Poan7LK5imto1SIZI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 3:38 | 2023-12-13 |  |
 | [Nothing but Love \- 2009 Remastered Version](https://open.spotify.com/track/76J6iClvhdPlYsaYNpTFYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:45 | 2023-12-13 |  |
 | [Nothing Like It In The World](https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 5:00 | 2023-12-13 |  |
+| [Open Your Eyes](https://open.spotify.com/track/40E96FZYTCFF7d7rUZ6wNm) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 4:01 | 2024-10-15 |  |
 | [Price You Gotta Pay \- 2009 Remastered Version](https://open.spotify.com/track/2diRk5muW1L3QUKisdjbsj) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:56 | 2024-02-04 | 2024-07-11 |
 | [Promise Her the Moon \- 2009 Remastered Version](https://open.spotify.com/track/6gVvbSDrQYtFmH3FsOAzZ3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:06 | 2023-12-13 |  |
 | [Right Outta Here](https://open.spotify.com/track/3EoX27Xc5qO0dAtrKozdQZ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:37 | 2024-07-14 | 2024-10-11 |
@@ -58,7 +59,7 @@
 | [Stranger In My Life](https://open.spotify.com/track/6k7tDVwJiU2yFHycB90LN2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:25 | 2023-12-29 | 2024-06-04 |
 | [Strike Like Lightning \- Remastered](https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Greatest Hits](https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi) | 3:42 | 2023-12-13 |  |
 | [Suffocation](https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:42 | 2023-12-13 |  |
-| [Sunday Morning Kinda Girl](https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:16 | 2024-07-15 |  |
+| [Sunday Morning Kinda Girl](https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:16 | 2024-07-15 | 2024-10-15 |
 | [Superfantastic](https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 3:43 | 2023-12-13 |  |
 | [Take A Walk \- 2009 Remastered Version](https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 3:57 | 2023-12-13 |  |
 | [Take Cover](https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:37 | 2023-12-13 |  |

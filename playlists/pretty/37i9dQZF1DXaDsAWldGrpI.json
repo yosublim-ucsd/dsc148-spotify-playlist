@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 130665,
+  "num_followers": 130704,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Live in No Shoes Nation",
-        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 285706,
-      "name": "You and Tequila (with Grace Potter) - Live",
-      "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
+      "duration_ms": 261839,
+      "name": "When You Say Nothing At All - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -743,18 +739,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+        "name": "Live in No Shoes Nation",
+        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 261839,
-      "name": "When You Say Nothing At All - Live From The Louisville Palace, Kentucky / 2002",
-      "url": "https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0"
+      "duration_ms": 285706,
+      "name": "You and Tequila (with Grace Potter) - Live",
+      "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 285306,
-      "name": "Back Where I Come From - Live",
-      "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -819,22 +819,6 @@
       "duration_ms": 238585,
       "name": "You'll Think Of Me - Live",
       "url": "https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Next Thing You Know (Live From The O2 London)",
-        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Next Thing You Know - Live From The O2 London",
-      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Back Where I Come From - Live",
+      "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "An Evening With John Denver",
         "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "When The Sun Goes Down - Duet With Uncle Kracker (Live)",
-      "url": "https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -955,22 +935,6 @@
       "duration_ms": 270186,
       "name": "Any Man Of Mine - Live",
       "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "No Horse To Ride - Live From Boston",
-        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 226523,
-      "name": "No Horse To Ride - Live From Boston",
-      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1011,18 +975,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Live From The Palomino",
-        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
+        "name": "No Horse To Ride - Live From Boston",
+        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 232158,
-      "name": "Drinkin' Problem - Live From The Palomino",
-      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
+      "duration_ms": 226523,
+      "name": "No Horse To Ride - Live From Boston",
+      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1043,6 +1007,42 @@
       "duration_ms": 236613,
       "name": "It's 5 O'Clock Somewhere - Live",
       "url": "https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Live From The Palomino",
+        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 232158,
+      "name": "Drinkin' Problem - Live From The Palomino",
+      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "When The Sun Goes Down - Duet With Uncle Kracker (Live)",
+      "url": "https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Honey, I'm Home - Live",
-      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Body Like A Back Road (15 In A 30 Tour Live)",
         "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 288106,
       "name": "Body Like A Back Road - 15 In A 30 Tour Live",
       "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Honey, I'm Home - Live",
+      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
-      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Me and My Kind (Live)",
         "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Wings (Live at the Ryman)",
         "url": "https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Live at RCA Studios 1972",
-        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
-      "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "61 Days In Church Volume 5",
         "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 190849,
       "name": "Drink In My Hand - Live At Staples Center, Los Angeles, CA / March 31, 2017",
       "url": "https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Live at RCA Studios 1972",
+        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
+      "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 196173,
       "name": "Written in the Sand - Live",
       "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
     },
     {
       "added_at": "2024-10-04 04:00:00",

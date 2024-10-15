@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: נועה קירל
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,585 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,583 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 87 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
 | 88 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 |
 | 89 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
-| 90 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 |
-| 91 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 |
+| 90 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 |
+| 91 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 |
 | 92 | [38 וחוץ מכדורגל](https://open.spotify.com/track/3X0WwsNHfSqpd85A9Iggr2) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [38 וחוץ מכדורגל](https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya) | 4:26 |
 | 93 | [נאדי באדי](https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [היי, זה שחר](https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi) | 2:30 |
 | 94 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 |

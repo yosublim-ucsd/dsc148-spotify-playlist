@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "<LINKIN PARK : From Zero World Tour> 2024\ub144 9\uc6d4 28\uc77c(\ud1a0) \uc624\ud6c4 7\uc2dc 30\ubd84 @\uc778\uc2a4\ud30c\uc774\uc5b4 \uc544\ub808\ub098",
-  "name": "On Tour Korea: Linkin Park",
+  "description": "<JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOURr> 2024\ub144 10\uc6d4 25\uc77c(\uae08) \uc624\ud6c4 8\uc2dc @YES 24 \ub77c\uc774\ube0c \ud640(\uc11c\uc6b8)",
+  "name": "On Tour Korea: Jorja Smith",
   "tracks": [
     {
       "album": {
@@ -16,10 +16,50 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 184640,
       "name": "A Place for My Head",
       "url": "https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8"
+    },
+    {
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
+    },
+    {
+      "album": {
+        "name": "Be Honest (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207030,
+      "name": "Be Honest (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
     },
     {
       "album": {
@@ -52,10 +92,28 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 164426,
       "name": "Bleed It Out",
       "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250454,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
     },
     {
       "album": {
@@ -70,28 +128,28 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 196133,
       "name": "Breaking the Habit",
       "url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
     },
     {
       "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "date_added": "2024-09-23",
+      "date_added": "2024-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 230253,
-      "name": "BURN IT DOWN",
-      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+      "duration_ms": 214047,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
     },
     {
       "album": {
@@ -106,10 +164,72 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
+      "date_removed": "2024-10-15",
+      "duration_ms": 230253,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+    },
+    {
+      "album": {
+        "name": "Project 11",
+        "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 282329,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
+    },
+    {
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-10-15",
       "duration_ms": 205400,
       "name": "CASTLE OF GLASS",
       "url": "https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5"
+    },
+    {
+      "album": {
+        "name": "Come Over (Remix)",
+        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145652,
+      "name": "Come Over (Remix)",
+      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
       "album": {
@@ -124,7 +244,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 208960,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
@@ -146,6 +266,24 @@
       "duration_ms": 245173,
       "name": "Dirt Off Your Shoulder",
       "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190429,
+      "name": "Don't Watch Me Cry",
+      "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
     },
     {
       "album": {
@@ -198,10 +336,50 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
+    },
+    {
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237852,
+      "name": "Feelings (feat. J Hus)",
+      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
     },
     {
       "album": {
@@ -234,10 +412,36 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250337,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/7y6c07pgjZvtHI9kuMVqk1"
     },
     {
       "album": {
@@ -252,10 +456,32 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 189293,
       "name": "Given Up",
       "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"
+    },
+    {
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "album": {
@@ -277,6 +503,28 @@
     },
     {
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -292,6 +540,60 @@
       "duration_ms": 53733,
       "name": "HESONOO",
       "url": "https://open.spotify.com/track/6bVSqmKuymhl7BiRsHKKtH"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
+    },
+    {
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166424,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
     },
     {
       "album": {
@@ -332,10 +634,36 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229999,
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "url": "https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL"
     },
     {
       "album": {
@@ -428,10 +756,32 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 218546,
       "name": "Keys to the Kingdom",
       "url": "https://open.spotify.com/track/2cZXlLwkRmDww37tbEygXl"
+    },
+    {
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
     },
     {
       "album": {
@@ -446,7 +796,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 209306,
       "name": "Leave Out All The Rest",
       "url": "https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V"
@@ -468,6 +818,82 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/0tzf4GIxIsaup7mu98VRXb"
+    },
+    {
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "Not Waving, But Drowning",
+        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256198,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
     },
     {
       "album": {
@@ -500,7 +926,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -518,7 +944,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 175053,
       "name": "Lying from You",
       "url": "https://open.spotify.com/track/3BmjRmFTESgWZLPSVGp8aG"
@@ -576,7 +1002,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 260560,
       "name": "My December",
       "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
@@ -612,10 +1038,32 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 268613,
       "name": "New Divide",
       "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
+    },
+    {
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
     },
     {
       "album": {
@@ -630,10 +1078,32 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "album": {
+        "name": "On My Mind (Jorja Smith X Preditah)",
+        "url": "https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181509,
+      "name": "On My Mind (Jorja Smith X Preditah)",
+      "url": "https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO"
     },
     {
       "album": {
@@ -648,7 +1118,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 157333,
       "name": "One Step Closer",
       "url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
@@ -666,10 +1136,32 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 184866,
       "name": "Papercut",
       "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "album": {
+        "name": "Peng Black Girls Remix - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206075,
+      "name": "Peng Black Girls Remix - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM"
     },
     {
       "album": {
@@ -684,7 +1176,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 200240,
       "name": "Points of Authority",
       "url": "https://open.spotify.com/track/5egqKwgK5r5rvGD1LrtR7J"
@@ -745,6 +1237,36 @@
     },
     {
       "album": {
+        "name": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
+        "url": "https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
+      "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "album": {
         "name": "SOMETHING AIN'T RIGHT",
         "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
       },
@@ -774,7 +1296,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
@@ -829,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -858,7 +1398,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 339853,
       "name": "The Catalyst",
       "url": "https://open.spotify.com/track/4tXBsD5sEzxlJjWCOz6qzs"
@@ -876,10 +1416,28 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197574,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1Ahp4PZ1vzdbzBCedUrsqI"
     },
     {
       "album": {
@@ -935,6 +1493,46 @@
     },
     {
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204289,
+      "name": "Tyrant (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
+    },
+    {
+      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
       },
@@ -946,7 +1544,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 231680,
       "name": "Waiting for the End",
       "url": "https://open.spotify.com/track/1V4Bq9kYHMk9yILUp5z3o3"
@@ -964,7 +1562,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 205226,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
@@ -982,10 +1580,28 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 293453,
       "name": "When They Come for Me",
       "url": "https://open.spotify.com/track/6Hxw4iKjZOyPIHXgbOwVZq"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191992,
+      "name": "Where Did I Go?",
+      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
     },
     {
       "album": {

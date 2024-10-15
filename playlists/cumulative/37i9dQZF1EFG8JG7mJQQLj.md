@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-492 songs - 1 day 4 hr 19 min
+493 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Better](https://open.spotify.com/track/5oLP3yTZ7oQlRJ8bSCWvzN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:24 | 2024-01-29 |  |
 | [Better \- The Launch Season 2](https://open.spotify.com/track/6qAAv1B27xMGH9FYGvfI3H) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Better \(The Launch Season 2\)](https://open.spotify.com/album/43MrgZTpQo65Cst3QhxoOP) | 3:03 | 2024-01-29 |  |
 | [Better Days](https://open.spotify.com/track/2SLxgJ2YFohfd8KwuJZTUE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:24 | 2024-01-29 |  |
+| [Better Days \- Giorni Migliori \(with Negramaro\)](https://open.spotify.com/track/6kfUXAS4K8zpNCADiFqMCt) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Better Days \- Giorni Migliori \(with Negramaro\)](https://open.spotify.com/album/5nm9dBE3ngMDLCQ8ZYTXYc) | 2:24 | 2024-10-14 |  |
 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 | 2024-01-29 |  |
 | [Bigger Love](https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:50 | 2024-01-29 |  |
 | [Bigger Love](https://open.spotify.com/track/1L0YvpBf1vX4n4euXD6dnL) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love \(Official Video\)](https://open.spotify.com/album/5ooovbdKs7fM4ZWbOWriwZ) | 2:51 | 2024-01-30 | 2024-02-02 |

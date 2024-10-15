@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpy4ZQQMZKm.md) - [plain]
 
 > The songs with the biggest throwback moments\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,125 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,149 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

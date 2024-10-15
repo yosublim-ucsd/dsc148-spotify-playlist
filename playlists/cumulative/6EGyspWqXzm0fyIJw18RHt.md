@@ -4,7 +4,7 @@
 
 > The vibes
 
-17 songs - 1 hr 5 min
+28 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,14 +16,25 @@
 | [Dead Man's Party](https://open.spotify.com/track/2h47SG8bNphmicAll4H9RV) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 6:21 | 2023-07-31 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-23 |  |
 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 | 2023-03-23 |  |
+| [Ghostbusters \- From "Ghostbusters"](https://open.spotify.com/track/7MnxdIXJd4N4mHCTPNKhkX) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters](https://open.spotify.com/album/2FKg8WOQtN015jM0eiKrNz) | 4:05 | 2024-10-14 |  |
+| [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2024-10-14 |  |
+| [Hex Girl](https://open.spotify.com/track/4NFMIIgeniFgNfsB8Uj9Ta) | [Moon Sisters](https://open.spotify.com/artist/1ShxlsSSCyVCcrmXBd6Djf), [The Nostalgia Girls](https://open.spotify.com/artist/0cgD9eoyZxiDAIPuWEqIm4) | [Embers of Beauty](https://open.spotify.com/album/0Unube3XUOtZsDhXGmQ3yQ) | 1:40 | 2024-10-14 |  |
 | [Hey There Cthulhu](https://open.spotify.com/track/1GZzxvJBOQm0FpWDjDR1Tx) | [Eben Brooks](https://open.spotify.com/artist/3Zp46gRCScTYhH89q2efS1) | [O R’lyeh? Iä, R’lyeh!](https://open.spotify.com/album/7wuZENcvYK7TzE84CAqBjs) | 4:11 | 2023-03-31 |  |
 | [I'll Be Haunting You](https://open.spotify.com/track/1k8b9cP9YjJHKHZL3v7ZVc) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Phone Power](https://open.spotify.com/album/645yGpkh3TEcrsnKlIiU5k) | 2:47 | 2023-03-26 |  |
 | [Lay All Your Love On Me](https://open.spotify.com/track/5WGatOLP3uqV4mh8jkloUv) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [AAAH!BBA](https://open.spotify.com/album/6etdJTw0gFbGOwQdb94lqo) | 4:40 | 2023-03-25 |  |
+| [Monster Mash](https://open.spotify.com/track/6GmL39a9OazWtyMkAbJz7v) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX) | [Monster Mash](https://open.spotify.com/album/4t1p121vxYXR1qJfoOwtHQ) | 3:11 | 2024-10-14 |  |
+| [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 | 2024-10-14 |  |
 | [My Own Version of You](https://open.spotify.com/track/3BQnez3qUm6hdKwxXly7Rw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 6:41 | 2023-03-31 |  |
 | [Necromancin Dancin](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:47 | 2023-08-10 |  |
+| [Riboflavin\-Flavored, Non\-Carbonated, Polyunsaturated Blood](https://open.spotify.com/track/1EIcNH1zUEr7sWCNK8Q0km) | [Don Hinson & The Rigamorticians](https://open.spotify.com/artist/6GNXV11gvYYegW2APslNlN) | [Monster Dance Party](https://open.spotify.com/album/4Ucm5B1SXAUCRuuBFQUPWE) | 2:39 | 2024-10-14 |  |
+| [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 | 2024-10-14 |  |
+| [Spirit Halloween Theme Song](https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 1:43 | 2024-10-14 |  |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix Extended](https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 3:49 | 2023-11-22 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 | 2023-03-28 |  |
+| [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 | 2024-10-14 |  |
+| [The Addams Family](https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music](https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW) | 1:24 | 2024-10-14 |  |
 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 | 2023-03-25 |  |
 | [Werewolves of London](https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:29 | 2024-10-06 |  |
+| [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

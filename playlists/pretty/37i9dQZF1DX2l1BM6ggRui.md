@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,522 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,516 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 18 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
 | 19 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 20 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 |
-| 21 | [Pretty mob](https://open.spotify.com/track/5hyGp7V6Kg5C6oAmCUzXNr) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [L’heure Bleue : Prologue](https://open.spotify.com/album/15vGU4bRzm1QzfE65nIAb4) | 2:26 |
-| 22 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
+| 21 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
+| 22 | [Pretty mob](https://open.spotify.com/track/5hyGp7V6Kg5C6oAmCUzXNr) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [L’heure Bleue : Prologue](https://open.spotify.com/album/15vGU4bRzm1QzfE65nIAb4) | 2:26 |
 | 23 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
 | 24 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
 | 25 | [The Melody](https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Melody](https://open.spotify.com/album/749XA133WWzUmG03OCSqFn) | 3:11 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 37 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 |
 | 38 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
 | 39 | [AI \(Feat\. Loco\)](https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [AI \(Feat\. Loco\)](https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG) | 2:59 |
-| 40 | [Miracle](https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W) | [KIM SEON HO](https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t) | [Miracle](https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i) | 3:32 |
-| 41 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
+| 40 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
+| 41 | [Miracle](https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W) | [KIM SEON HO](https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t) | [Miracle](https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i) | 3:32 |
 | 42 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
 | 43 | [WE NEED LOVE](https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:15 |
 | 44 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 56 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
 | 57 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
 | 58 | [It's Love](https://open.spotify.com/track/2pqlJF13zbO268SNONERS4) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [It's Love](https://open.spotify.com/album/4KdgbFmE2xn5be7sUMzFDe) | 3:11 |
-| 59 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 60 | [Summer Bliss](https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [Summer Bliss](https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF) | 3:05 |
+| 59 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
+| 60 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
 
 Snapshot ID: `ZtgUZgAAAAD+7lKAr0fQsp0wS4dwKKkT`

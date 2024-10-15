@@ -1817,6 +1817,28 @@
     },
     {
       "album": {
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137962,
+      "name": "Could This Be Love",
+      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
+    },
+    {
+      "album": {
         "name": "Count My Blessings",
         "url": "https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX"
       },
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 190488,
       "name": "Devil Wears White",
       "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
@@ -2678,7 +2700,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 166958,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
@@ -3142,6 +3164,24 @@
       "duration_ms": 162371,
       "name": "Formula",
       "url": "https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC"
+    },
+    {
+      "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "album": {

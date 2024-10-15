@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring flowerovlove  ☁️  art: @doolittleillustrations
 
-218 songs - 10 hr 49 min
+219 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-07-25 | 2024-09-13 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-27 | 2024-09-13 |
 | [Million Dollar Baby \- Edit](https://open.spotify.com/track/60WfLXMbWwrcTePgZpNJuP) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:00 | 2024-06-27 | 2024-08-03 |
+| [mine](https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [mine](https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK) | 3:16 | 2024-10-14 |  |
 | [miss american dream](https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn), [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [miss american dream](https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW) | 3:16 | 2024-06-27 | 2024-09-21 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-27 | 2024-09-21 |
 | [Moments in a Lifetime](https://open.spotify.com/track/3XBODhSxPH1D6O5FH4yp5G) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Moments in a Lifetime](https://open.spotify.com/album/0wu1JdPDlmKBHi9jhIqoYd) | 2:13 | 2024-08-23 |  |

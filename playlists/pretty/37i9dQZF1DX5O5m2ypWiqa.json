@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1899654,
+  "num_followers": 1899773,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+      "duration_ms": 174973,
+      "name": "Ignoraste Mis L\u00e1grimas",
+      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Ignoraste Mis L\u00e1grimas",
-      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -859,6 +859,26 @@
       "duration_ms": 225826,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -927,22 +947,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
-      "url": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -975,54 +979,18 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
+      "duration_ms": 191666,
+      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
+      "url": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1055,6 +1023,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1107,8 +1091,8 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
       "artists": [
         {
@@ -1116,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 177440,
-      "name": "La M\u00e1s Deseada",
-      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
+      "duration_ms": 183826,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -1167,6 +1135,22 @@
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1203,6 +1187,22 @@
       "duration_ms": 225541,
       "name": "Mil Gracias Por Existir",
       "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Volvere A Amar",
-      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
     },
     {
       "added_at": "2024-10-04 20:13:50",

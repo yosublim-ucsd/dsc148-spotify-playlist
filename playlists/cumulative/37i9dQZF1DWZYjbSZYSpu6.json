@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Choi Yu Ree x Juckjae(\ucd5c\uc720\ub9ac x \uc801\uc7ac))",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Lyn x ISU(\ub9b0 x \uc774\uc218))",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 186880,
       "name": "Better (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
@@ -4430,6 +4430,28 @@
       "duration_ms": 260000,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/51imtx97otLDc5IJJEup6J"
+    },
+    {
+      "album": {
+        "name": "Umm",
+        "url": "https://open.spotify.com/album/7yKyZCx0ScGo3b6Y0unF3s"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        },
+        {
+          "name": "ISU",
+          "url": "https://open.spotify.com/artist/2BA4cJwZBgVNVUhS7xnhA2"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "Umm",
+      "url": "https://open.spotify.com/track/6T0qUQBObZ55i4gCW5515D"
     },
     {
       "album": {

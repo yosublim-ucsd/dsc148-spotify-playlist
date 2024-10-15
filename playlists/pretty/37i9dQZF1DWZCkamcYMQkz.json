@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 226247,
+  "num_followers": 226489,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
+        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 136373,
+      "name": "Ac-Cent-Tchu-Ate the Positive",
+      "url": "https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 149080,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
-        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 136373,
-      "name": "Ac-Cent-Tchu-Ate the Positive",
-      "url": "https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
         "name": "A Boy Named Charlie Brown",
         "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -527,38 +527,6 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Paul's Pal - Rudy Van Gelder Remastered 2006 / Shared ISRC",
-      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
         "name": "Oscar Peterson's Finest Hour",
         "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
       },
@@ -579,22 +547,6 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 144973,
-      "name": "Just You, Just Me",
-      "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -611,6 +563,54 @@
       "duration_ms": 220373,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Paul's Pal - Rudy Van Gelder Remastered 2006 / Shared ISRC",
+      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 144973,
+      "name": "Just You, Just Me",
+      "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
         "name": "Oscar Peterson Plays The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 116280,
       "name": "When Lights Are Low",
       "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
-        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
         }
       ],
-      "duration_ms": 261609,
-      "name": "On a Clear Day (You Can See Forever) - Live",
-      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
+      "duration_ms": 246640,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
+        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
       },
       "artists": [
         {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
+      "duration_ms": 261609,
+      "name": "On a Clear Day (You Can See Forever) - Live",
+      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
+        "name": "Beyond the Sea",
+        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 175865,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 179200,
       "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
       "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
-        "name": "Beyond the Sea",
-        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 175865,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 134973,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 205373,
       "name": "Central Park Swing",
       "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+        "name": "Sarah Vaughan with Clifford Brown (Expanded, Hd Remastered)",
+        "url": "https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 230813,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
+      "duration_ms": 252316,
+      "name": "He's My Guy",
+      "url": "https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
-        "name": "Sarah Vaughan with Clifford Brown (Expanded, Hd Remastered)",
-        "url": "https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT"
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 252316,
-      "name": "He's My Guy",
-      "url": "https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C"
+      "duration_ms": 230813,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
     },
     {
       "added_at": "2024-10-04 08:25:26",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-10-04 08:25:26",
       "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Hurricane Connie",
+      "url": "https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0"
+    },
+    {
+      "added_at": "2024-10-04 08:25:26",
+      "album": {
         "name": "Very Saxy (Rudy Van Gelder Remasters)",
         "url": "https://open.spotify.com/album/5m6ee2VB6ii18zIqlsx6Va"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 372466,
       "name": "Lester Leaps In - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2Obs77V8lAuS1v0UK4eSDV"
-    },
-    {
-      "added_at": "2024-10-04 08:25:26",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Hurricane Connie",
-      "url": "https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0"
     },
     {
       "added_at": "2024-10-04 08:25:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,234 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,263 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 22 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
 | 23 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
 | 24 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
-| 25 | [Dame](https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Dame](https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ) | 2:36 |
+| 25 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
 | 26 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 |
-| 27 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
+| 27 | [Dame](https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Dame](https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ) | 2:36 |
 | 28 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 29 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 30 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |

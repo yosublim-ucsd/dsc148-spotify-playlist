@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Future
 
-1,597 songs - 3 day 3 hr 23 min
+1,598 songs - 3 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Lamborghini Geeski](https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lamborghini Geeski](https://open.spotify.com/album/1VLwpYslYyCkYprCaPJyEU) | 2:51 | 2021-11-19 | 2022-01-29 |
 | [Lame](https://open.spotify.com/track/5d7a42T3MG01WPMvnyb4bq) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5) | [Lame](https://open.spotify.com/album/5Iwk74Oa4emMMR7bG9OZF1) | 1:44 | 2022-01-14 | 2022-01-29 |
 | [Last Forever/Honda Accord](https://open.spotify.com/track/6QUTG8sA2qfXSRcte7kdcl) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Float 2 London](https://open.spotify.com/album/1SQNd5rYIqvCYYJzm1tMJx) | 5:02 | 2024-01-12 | 2024-01-27 |
+| [Last Lap](https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 4:08 | 2024-10-14 |  |
 | [Last Nite](https://open.spotify.com/track/0JnXCrOJzcUpKRUUUAyqBm) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Last Nite](https://open.spotify.com/album/0xkld7GL99iiAIMsFAz2N4) | 2:09 | 2024-07-19 | 2024-07-27 |
 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Last One Left](https://open.spotify.com/album/136JKS8joUGUiReq11D03P) | 3:15 | 2022-04-15 | 2022-05-04 |
 | [latch](https://open.spotify.com/track/0WfsDFQY3t0nDyWF89QKfe) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:40 | 2024-08-09 | 2024-08-17 |
@@ -1076,7 +1077,7 @@
 | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/track/7G0MIYpMnZkEAg3cVjMPGd) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/album/6UH4nolB5PbkBahuWxKkuZ) | 2:53 | 2024-09-13 | 2024-09-21 |
 | [Passionfruit Lemonade!](https://open.spotify.com/track/2oaxUEugIcchrLkX32yiuP) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You Never Was Mine](https://open.spotify.com/album/2uSzWk72wbQPnU8MG7agVp) | 2:03 | 2024-07-12 | 2024-07-19 |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-07-21 | 2023-07-29 |
-| [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 | 2024-09-14 |  |
+| [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 | 2024-09-14 | 2024-10-15 |
 | [Patience \(feat\. Lil Baby\)](https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [From Trap To Rap 2](https://open.spotify.com/album/1tgH9psuYmcbLZPMX6yFAO) | 2:41 | 2022-07-29 | 2022-10-08 |
 | [Patty Cake \(feat\. Takeoff\)](https://open.spotify.com/track/485mSqbTvp0pdiK0UW2wbt) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:13 | 2023-08-18 | 2023-08-26 |
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-02-25 | 2022-03-12 |

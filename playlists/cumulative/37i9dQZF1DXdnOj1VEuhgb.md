@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-447 songs - 19 hr 47 min
+448 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Gücüm Yerinde](https://open.spotify.com/track/6uVRxLkozk0qSdqCrdeP3P) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Gücüm Yerinde](https://open.spotify.com/album/1fXA0oOIxFMO3AmY6galUp) | 2:58 | 2023-04-20 | 2023-05-05 |
 | [Gülşen](https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/7MaxT7zgq2r36MEhTFIvhA) | 2:26 | 2023-01-10 | 2023-01-13 |
 | [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 | 2023-03-09 | 2023-03-25 |
-| [Güvercin](https://open.spotify.com/track/7ExpqdHuGuH2esOuX2LPZC) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Güvercin](https://open.spotify.com/album/0xzKxahkbCgwYYeqSwk4r9) | 3:09 | 2024-09-26 |  |
+| [Güvercin](https://open.spotify.com/track/7ExpqdHuGuH2esOuX2LPZC) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Güvercin](https://open.spotify.com/album/0xzKxahkbCgwYYeqSwk4r9) | 3:09 | 2024-09-26 | 2024-10-15 |
 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 | 2024-02-08 | 2024-05-10 |
 | [HAA‼️](https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HAA‼️](https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH) | 1:48 | 2024-02-01 | 2024-03-04 |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-05-09 |  |
@@ -188,6 +188,7 @@
 | [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2023-01-10 | 2023-03-15 |
 | [Inzaghi](https://open.spotify.com/track/4k0WSfjrFeVMMrGg6CEAH5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/0rKLBda3nNh7JQYfDzgFpk) | 2:41 | 2023-03-13 | 2023-05-05 |
 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 | 2024-05-30 | 2024-07-12 |
+| [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 | 2024-10-14 |  |
 | [IZOLE LIFE](https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [IZOLE LIFE](https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT) | 2:59 | 2024-09-26 |  |
 | [İlk Kez](https://open.spotify.com/track/5o16sVPebMGLpSpB1k2Gpk) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [İlk Kez](https://open.spotify.com/album/2XaBUb7Ozy5DfvOFDanKTV) | 3:46 | 2024-07-18 | 2024-08-09 |
 | [İlle de Sen](https://open.spotify.com/track/2huuuyJHQ6KK6qzwvUlG3c) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [İlle de Sen](https://open.spotify.com/album/6U2CPuKLntRSRrSUPR4DES) | 2:26 | 2023-11-16 | 2024-01-26 |

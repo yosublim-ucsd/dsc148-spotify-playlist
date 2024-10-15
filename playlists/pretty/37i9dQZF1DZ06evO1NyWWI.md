@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 ### [This Is Led Zeppelin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NyWWI)
 
-> This is Led Zeppelin\. The essential tracks, all in one playlist.
+> This Is Led Zeppelin\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,270 likes - 49 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,337 likes - 49 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 48 | [Stairway to Heaven \- \(Live at MSG 1973\) \[Remaster\]](https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Song Remains the Same \(Remaster\)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk) | 10:53 |
 | 49 | [Hot Dog \- Remaster](https://open.spotify.com/track/5K2yYEoc9ljOlzoMnhQSgm) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 3:18 |
 
-Snapshot ID: `Zwm8AAAAAADHy7SDEToBBJLTWLZadjZs`
+Snapshot ID: `ZwsNgAAAAAAwvrkTWQmPTvdW0O+9CQah`

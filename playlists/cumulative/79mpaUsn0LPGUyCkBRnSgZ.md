@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-757 songs - 2 day 2 hr 33 min
+760 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Horn Intro](https://open.spotify.com/track/5nKe9PgCtEhqdnvXAQIBhF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 0:09 | 2022-09-20 |  |
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 | 2024-01-02 |
 | [Hot Tent Blues](https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 1:15 | 2024-06-08 | 2024-06-12 |
+| [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 | 2024-10-14 |  |
 | [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 | 2024-07-19 |  |
 | [Huh? \(Intro\)](https://open.spotify.com/track/2KlgoBhIRYyGt0BbOeyjlN) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Sweet Heart Sweet Light](https://open.spotify.com/album/4hrpqNai22Fpg51cmHmUCm) | 1:01 | 2024-03-11 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2024-01-01 |  |
@@ -324,6 +325,7 @@
 | [I'd Have You Anytime \- 2014 Remaster](https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:57 | 2023-08-17 |  |
 | [I'm Always Saying Sorry](https://open.spotify.com/track/4EIM8gF1NKSIXR2QqRHMuW) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 3:30 | 2024-03-15 |  |
 | [I'm Dancing in the Show Tonight](https://open.spotify.com/track/06R4sYdNYKfeulAP4ebbI3) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 1:55 | 2024-01-15 |  |
+| [I\. The Sun](https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [Mount Eerie](https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb) | 17:11 | 2024-10-14 |  |
 | [If Not Now, Then When?](https://open.spotify.com/track/1nkMRXPRGtwWGIfWaXt3na) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:50 | 2024-01-15 |  |
 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 | 2024-01-18 |  |
 | [If You Say I'm Special](https://open.spotify.com/track/0K1WX02P3ANoLTcKIkcmaC) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [I Could Have Smiled at You More](https://open.spotify.com/album/61FSSaX2fMgXurISMrx96T) | 5:58 | 2024-01-03 |  |
@@ -455,6 +457,7 @@
 | [Necessary](https://open.spotify.com/track/1oAmBK4NtTlQQHVdTNPl6y) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [90059](https://open.spotify.com/album/1fsvlnonD95p6VTEdQ7zJn) | 3:20 | 2022-07-26 |  |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2022-10-22 |  |
 | [New Jeans](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 1:48 | 2024-02-23 | 2024-03-28 |
+| [New Low](https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:06 | 2024-10-14 |  |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2023-05-19 |  |
 | [NINA](https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85) | [Vel Nine](https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ), [NugLife](https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP) | [NINA](https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU) | 1:20 | 2023-12-20 |  |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2024-03-24 |  |

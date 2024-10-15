@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 275644,
+  "num_followers": 276104,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAmkiXzeK4I1VeNsNsI3pkX",
+  "snapshot_id": "ZwsNgAAAAADV9qLG+kXEmWs1A/yLsVEL",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Control (Alt. Versions)",
-        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
+      "duration_ms": 234090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6BmqySE91w6AUWvIxDHtqc"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB"
+        "name": "Lose Control (Alt. Versions)",
+        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 234090,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/6BmqySE91w6AUWvIxDHtqc"
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
     },
     {
       "added_at": null,

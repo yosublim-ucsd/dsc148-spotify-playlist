@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: G\u00fcliz Ayla",
-  "num_followers": 134921,
+  "num_followers": 134967,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,30 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "Rak\u0131ya Meze Olal\u0131m",
+        "url": "https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K"
+      },
+      "artists": [
+        {
+          "name": "Zara",
+          "url": "https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08"
+        },
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        }
+      ],
+      "duration_ms": 129088,
+      "name": "Rak\u0131ya Meze Olal\u0131m",
+      "url": "https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "Uslanmaz",
         "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "Rak\u0131ya Meze Olal\u0131m",
-        "url": "https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K"
-      },
-      "artists": [
-        {
-          "name": "Zara",
-          "url": "https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08"
-        },
-        {
-          "name": "Burak Bulut",
-          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
-        },
-        {
-          "name": "Kurtulu\u015f Ku\u015f",
-          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
-        }
-      ],
-      "duration_ms": 129088,
-      "name": "Rak\u0131ya Meze Olal\u0131m",
-      "url": "https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Z\u00fcmr\u00fcd\u00fcankam",
-        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
-      },
-      "artists": [
-        {
-          "name": "Merve \u00d6zbey",
-          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Z\u00fcmr\u00fcd\u00fcankam",
-      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 132857,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "Z\u00fcmr\u00fcd\u00fcankam",
+        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Z\u00fcmr\u00fcd\u00fcankam",
+      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Yar\u0131 Deli",
-        "url": "https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH"
-      },
-      "artists": [
-        {
-          "name": "Hande \u00dcnsal",
-          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
-        }
-      ],
-      "duration_ms": 152434,
-      "name": "Yar\u0131 Deli",
-      "url": "https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "Kara Konular",
         "url": "https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 240181,
       "name": "T\u00fckeniyor \u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "Yar\u0131 Deli",
+        "url": "https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH"
+      },
+      "artists": [
+        {
+          "name": "Hande \u00dcnsal",
+          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
+        }
+      ],
+      "duration_ms": 152434,
+      "name": "Yar\u0131 Deli",
+      "url": "https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "G\u00fcle G\u00fcle Anlatt\u0131m Seni",
-        "url": "https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hatipo\u011flu",
-          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
-        }
-      ],
-      "duration_ms": 194624,
-      "name": "G\u00fcle G\u00fcle Anlatt\u0131m Seni",
-      "url": "https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "Bo\u015funa Nefes T\u00fcketme",
         "url": "https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 162808,
       "name": "Bo\u015funa Nefes T\u00fcketme",
       "url": "https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "G\u00fcle G\u00fcle Anlatt\u0131m Seni",
+        "url": "https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "duration_ms": 194624,
+      "name": "G\u00fcle G\u00fcle Anlatt\u0131m Seni",
+      "url": "https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV"
     },
     {
       "added_at": "2024-10-10 21:00:00",

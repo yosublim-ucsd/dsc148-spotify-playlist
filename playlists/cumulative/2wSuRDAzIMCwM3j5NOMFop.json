@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Upright, Love",
+        "url": "https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd"
+      },
+      "artists": [
+        {
+          "name": "Blue Kid",
+          "url": "https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276648,
+      "name": "The Dismemberment Song",
+      "url": "https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm"
+    },
+    {
+      "album": {
         "name": "The Jordan Lake Sessions: Volume 5",
         "url": "https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc"
       },

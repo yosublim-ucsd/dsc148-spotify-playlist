@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Taylor Acorn
 
-835 songs - 1 day 18 hr 59 min
+836 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Accident Waiting To Happen \- From "DIRT 5™" Soundtrack](https://open.spotify.com/track/0NbjyNIrnbMyKvqbf78X44) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Accident Waiting To Happen](https://open.spotify.com/album/0Drwy2nanOFKh2icMjCjs3) | 3:07 | 2022-03-24 | 2022-04-16 |
 | [acidtrip](https://open.spotify.com/track/27DqWS4bnTw6Rr1S9dAp14) | [Vaines](https://open.spotify.com/artist/2EuJ1FVQxyGyE5aHSMGjzO) | [acidtrip](https://open.spotify.com/album/2wBpL9S3Zn5B28yEQLPSDu) | 3:40 | 2022-03-17 | 2022-07-26 |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1) | 3:11 | 2022-03-17 | 2022-03-25 |
+| [Addicted To You](https://open.spotify.com/track/6ukeayt0xBnECOOesWOAm7) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Addicted To You](https://open.spotify.com/album/58N9TKZKoQs7cNLiFEouEE) | 3:07 | 2024-10-11 |  |
 | [AFTERTASTE](https://open.spotify.com/track/3ZarOuID7yQHZu0uKZ2xok) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [AFTERTASTE](https://open.spotify.com/album/3kuwEIhYml4wGj2UEfwrk7) | 3:08 | 2022-03-24 | 2022-04-21 |
 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 | 2022-03-17 | 2022-07-28 |
 | [Alive](https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Alive](https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv) | 3:12 | 2023-03-17 |  |
@@ -612,7 +613,7 @@
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2022-03-24 | 2023-03-18 |
 | [Reborn](https://open.spotify.com/track/24PrTycumc8Itm3ksXF0jP) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 2:38 | 2023-06-23 | 2023-12-09 |
 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 | 2024-05-31 |  |
-| [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 | 2023-07-28 |  |
+| [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 | 2023-07-28 | 2024-10-15 |
 | [Red Run Cold](https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Red Run Cold](https://open.spotify.com/album/5jeWTeLEEXFRb5YrOUUGW8) | 3:43 | 2022-03-24 | 2022-04-10 |
 | [Remember](https://open.spotify.com/track/1hB0DpfSqzQ0IMElKnbm7e) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Remember](https://open.spotify.com/album/2YyZNdnyitI1euLPKIBC7i) | 2:10 | 2022-03-17 | 2022-07-29 |
 | [Remembering Sunday \(feat\. Lindsey Stirling & Lisa Gaskarth\) \- ATL's Version](https://open.spotify.com/track/6N4QI1vJiQWVr3HVyKOGs2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Lisa Gaskarth](https://open.spotify.com/artist/6an4Dzd8fNVjQxu4uJ7DsN) | [The Forever Sessions \- Vol\. 1](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 4:16 | 2024-08-23 |  |

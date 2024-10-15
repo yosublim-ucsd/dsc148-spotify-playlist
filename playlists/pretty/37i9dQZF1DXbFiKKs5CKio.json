@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 62317,
+  "num_followers": 62367,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-10-11 21:12:36",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-10-11 21:12:36",
-      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 176285,
       "name": "E EU?",
       "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
+    },
+    {
+      "added_at": "2024-10-11 21:12:36",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-10-11 21:12:36",

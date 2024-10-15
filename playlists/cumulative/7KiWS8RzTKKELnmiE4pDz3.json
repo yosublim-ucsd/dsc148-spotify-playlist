@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
+    },
+    {
+      "album": {
         "name": "##B4W2G",
         "url": "https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP"
       },

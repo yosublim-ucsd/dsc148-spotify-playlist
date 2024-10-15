@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
+        "url": "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "I Will Survive - Single Version",
+      "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
+    },
+    {
+      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },

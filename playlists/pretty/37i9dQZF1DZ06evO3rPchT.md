@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 ### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,615 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,641 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 19 | [JIM BOB](https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:41 |
 | 20 | [TRUCK](https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:38 |
 | 21 | [.30\-06](https://open.spotify.com/track/1AF2ISbmAwwNTGUjgqMNQu) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 2:20 |
-| 22 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
+| 22 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:19 |
 | 23 | [HAPPY HOUR \(feat\. Knox\)](https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:41 |
-| 24 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:19 |
+| 24 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
 | 25 | [The Better Me](https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:15 |
 | 26 | [Colorado \(feat\. HARDY\)](https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Whiskey On Whiskey](https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO) | 2:48 |
 | 27 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/7d97WagcXzbZBibBk5NmcY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [I'LL QUIT LOVIN' YOU](https://open.spotify.com/track/7CZzjj7siHfqvWnbSqEfXw) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:27 |
 | 50 | [Some Things Never Change \(feat\. HARDY\)](https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Timeless](https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE) | 2:51 |
 
-Snapshot ID: `Zwm8AAAAAADhErYhszHjVe3U/MKnB/G+`
+Snapshot ID: `ZwsNgAAAAACVKxrbmpW29pwgONoVyONH`

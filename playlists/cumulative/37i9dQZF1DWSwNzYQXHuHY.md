@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-239 songs - 13 hr 24 min
+240 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/track/4x9IutN92CBDbNM7xaTBF8) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Choi Su Bin](https://open.spotify.com/artist/1VID9LmA67Y0pD63zpR9Px) | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/album/5cbBd9MOAXVGUJrbGUVZEe) | 3:10 | 2022-05-11 | 2022-06-07 |
 | [Lovey Dovey](https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Love to Hate You, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3) | 3:24 | 2023-02-25 | 2024-03-09 |
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-08 | 2022-08-10 |
-| [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-10-07 |  |
+| [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-10-07 | 2024-10-15 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-27 | 2024-04-19 |
 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 | 2024-04-19 |  |
 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2024-03-08 | 2024-03-19 |
@@ -229,6 +229,7 @@
 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 | 2022-05-11 | 2024-03-09 |
 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 | 2023-07-17 | 2024-03-09 |
 | [will you and me fall in love \(feat\. Gawon\)](https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [will you and me fall in love](https://open.spotify.com/album/2TdJT39j1H1JJv2VFPiVbG) | 2:38 | 2022-06-20 | 2022-07-28 |
+| [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 | 2024-10-08 |  |
 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 | 2024-03-21 | 2024-05-15 |
 | [You](https://open.spotify.com/track/1cOdLIVkanabBExcxmdDXe) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD) | [You \(Jeong Yu Jin x Some Playlist\)](https://open.spotify.com/album/2Ns5zPirVQo9tTDsj9O0iQ) | 3:45 | 2022-06-13 | 2022-07-24 |
 | [You'll Know 알았음 해](https://open.spotify.com/track/6bnKU0VzYlUDUeBcna1a0O) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Eternal Moment 영원의 순간](https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36) | 4:09 | 2022-06-09 | 2022-07-24 |

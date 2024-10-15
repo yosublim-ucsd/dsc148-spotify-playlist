@@ -4,13 +4,14 @@
 
 > Wake up at your own pace with gentle piano music.
 
-132 songs - 5 hr 49 min
+133 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2021-04-21 |  |
 | [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-04-05 |  |
 | [A Long Goodbye](https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [My Soul Is a Strange Country \(Solo Piano\)](https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS) | 3:00 | 2021-04-21 |  |
+| [A Quiet Morning](https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [A Quiet Morning](https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl) | 2:18 | 2024-10-14 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-04-21 |  |
 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 | 2021-04-21 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2021-04-21 |  |
@@ -42,7 +43,7 @@
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2021-04-21 |  |
 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 | 2024-07-16 |  |
 | [Elderflowers](https://open.spotify.com/track/5LXArjUq89I6gByE5u44k5) | [Ryu Ito](https://open.spotify.com/artist/1hIFiZqCoq6Az71hQ8xkTz) | [Elderflowers](https://open.spotify.com/album/3SR9dXr1wEIvr9m9zEXm1h) | 2:09 | 2021-04-21 | 2024-09-10 |
-| [Ever so Slightly](https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Ever so Slightly](https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq) | 4:12 | 2021-04-21 |  |
+| [Ever so Slightly](https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Ever so Slightly](https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq) | 4:12 | 2021-04-21 | 2024-10-15 |
 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 | 2021-04-21 |  |
 | [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2021-04-21 |  |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2021-04-21 |  |

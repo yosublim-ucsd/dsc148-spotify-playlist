@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. Tutti i brani in un'unica playlist.",
-  "num_followers": 630084,
+  "num_followers": 630127,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAx6Sc7UwBixpjiAiwbNz4E",
+  "snapshot_id": "ZwsNgAAAAACUEjrQUmQIrIXEuDmm00oS",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "The Ghost of Tom Joad",
+      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "The Ghost of Tom Joad",
-      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
     },
     {
       "added_at": null,

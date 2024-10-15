@@ -1,6 +1,6 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 560030,
+  "num_followers": 560067,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 211362,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Don't Say Goodbye (feat. Tove Lo)",
         "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 186700,
       "name": "Don't Say Goodbye (feat. Tove Lo)",
       "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 211362,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY"
     },
     {
       "added_at": "2024-02-01 12:54:41",

@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Better Days - Giorni Migliori (with Negramaro)",
+        "url": "https://open.spotify.com/album/5nm9dBE3ngMDLCQ8ZYTXYc"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144530,
+      "name": "Better Days - Giorni Migliori (with Negramaro)",
+      "url": "https://open.spotify.com/track/6kfUXAS4K8zpNCADiFqMCt"
+    },
+    {
+      "album": {
         "name": "Better Luck Next Time",
         "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
       },

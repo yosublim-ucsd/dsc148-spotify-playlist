@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "ache in my tooth",
+        "url": "https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143583,
+      "name": "ARE U SERIOUS?",
+      "url": "https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH"
+    },
+    {
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 228011,
       "name": "krab",
       "url": "https://open.spotify.com/track/1xLA1bJCwPLTIZc3I43GgC"
@@ -1798,6 +1816,24 @@
       "duration_ms": 230909,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS"
+    },
+    {
+      "album": {
+        "name": "Letnie my\u015bli",
+        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Letnie my\u015bli",
+      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
     },
     {
       "album": {
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 248000,
       "name": "Mleczna droga",
       "url": "https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB"
@@ -2176,7 +2212,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 124422,
       "name": "na nowo",
       "url": "https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM"
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 188659,
       "name": "Od jutra zaczn\u0119 si\u0119 modli\u0107",
       "url": "https://open.spotify.com/track/3sX1KgURKWdt92RNy35Hhj"
@@ -3102,7 +3138,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
@@ -3120,7 +3156,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9"
@@ -3675,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "Ty si\u0119 nie b\u00f3j",
+        "url": "https://open.spotify.com/album/0AoKj5Xk3Qh1wZWVOKCXih"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185210,
+      "name": "Ty si\u0119 nie b\u00f3j",
+      "url": "https://open.spotify.com/track/3LhNpdJsMZmKKzs3l6Ab6k"
+    },
+    {
+      "album": {
         "name": "Ulubiony numer",
         "url": "https://open.spotify.com/album/5zUfmjF5OPu2mWtLQDZg5I"
       },
@@ -3744,6 +3798,24 @@
       "duration_ms": 206484,
       "name": "Upa\u0142",
       "url": "https://open.spotify.com/track/6huJDMbSA3WpkzFLkE8sZm"
+    },
+    {
+      "album": {
+        "name": "W kwietniu si\u0119 nie umiera",
+        "url": "https://open.spotify.com/album/5HsOaA8jlC6RgtFAwkJO7b"
+      },
+      "artists": [
+        {
+          "name": "Jadwiga Zarzycka",
+          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186268,
+      "name": "W kwietniu si\u0119 nie umiera",
+      "url": "https://open.spotify.com/track/7uOYx1FNQQao9iwYTRxuOn"
     },
     {
       "album": {

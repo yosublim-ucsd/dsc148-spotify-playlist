@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/4b2fMv44GAYpsDSK4ihbsI"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 200266,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
@@ -10856,7 +10856,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 189934,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
@@ -10874,7 +10874,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 189934,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/5R5NMy7zc7QPCfdvy8dvCQ"
@@ -11772,6 +11772,24 @@
       "duration_ms": 195813,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+    },
+    {
+      "album": {
+        "name": "SAILING",
+        "url": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290095,
+      "name": "How can I love the heartbreak, you're the one I love",
+      "url": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
     },
     {
       "album": {
@@ -15376,7 +15394,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 244500,
       "name": "London Boy",
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
@@ -16558,7 +16576,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
@@ -16576,7 +16594,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/78yHTvGfbDGL2XYAEkcqKH"
@@ -16768,7 +16786,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 165587,
       "name": "Melt Down",
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
@@ -16864,7 +16882,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/1YjhXcHqe2ztp70ArdZOPa"
@@ -16900,7 +16918,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -19274,7 +19292,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -25442,7 +25460,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
@@ -25532,7 +25550,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
@@ -25680,7 +25698,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 175880,
       "name": "T.B.H",
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
@@ -26884,7 +26902,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 205588,
       "name": "Time of Our Life -Japanese ver.- - Japanese ver.",
       "url": "https://open.spotify.com/track/18x0Z8JUwLA2LhgsIHbNy3"
@@ -27266,7 +27284,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1I5whYZ5CmnVtHKKoy4Im5"
@@ -27284,7 +27302,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
@@ -28756,7 +28774,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/3BMAWsBp4jc35mCmebC3WT"
@@ -28774,7 +28792,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
@@ -29138,7 +29156,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 188498,
       "name": "Who (Funky Remix)",
       "url": "https://open.spotify.com/track/7KZNgri6Jxw88FAfATw6i9"
@@ -30016,7 +30034,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
@@ -30554,7 +30572,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 165587,
       "name": "\ub179\uc544\ub0b4\ub824\uc694 Melt Down",
       "url": "https://open.spotify.com/track/5Invv3m92xZvztdCbZrmZ6"
@@ -30644,7 +30662,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 283160,
       "name": "\uc608\ubee4\uc5b4",
       "url": "https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI"
@@ -30662,7 +30680,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 205575,
       "name": "\ud55c \ud398\uc774\uc9c0\uac00 \ub420 \uc218 \uc788\uac8c",
       "url": "https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5"

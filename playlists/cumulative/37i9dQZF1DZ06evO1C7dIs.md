@@ -2,7 +2,7 @@
 
 ### [This Is Nightwish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C7dIs)
 
-> This is Nightwish\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Nightwish\. The essential tracks, all in one playlist.
 
 112 songs - 9 hr 54 min
 

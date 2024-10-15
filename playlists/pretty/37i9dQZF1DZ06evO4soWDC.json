@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADhwD0l/D5DmiyR6oLPnZAS",
+  "snapshot_id": "ZwsNgAAAAACutxeb7y/+ANahDI9kmgFh",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Theme Song from Hq",
-      "url": "https://open.spotify.com/track/7pnMvYEHYIaXOVCHFLa5BT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Theme Song from Hq",
+      "url": "https://open.spotify.com/track/7pnMvYEHYIaXOVCHFLa5BT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 186270,
       "name": "Collisions",
       "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 207807,
-      "name": "The Cascade Blues",
-      "url": "https://open.spotify.com/track/1qNp5Gn4TtlfMLJIJVltMn"
     },
     {
       "added_at": null,
@@ -244,9 +228,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
+      "duration_ms": 98493,
+      "name": "The Entry Ramp",
+      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 207807,
+      "name": "The Cascade Blues",
+      "url": "https://open.spotify.com/track/1qNp5Gn4TtlfMLJIJVltMn"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 165451,
       "name": "Spin and Collapse",
       "url": "https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 98493,
-      "name": "The Entry Ramp",
-      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 131542,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 204533,
       "name": "Rinse and Repeat",
       "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 131542,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 180888,
-      "name": "Overwhelmed / Ill Prepared",
-      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 180888,
+      "name": "Overwhelmed / Ill Prepared",
+      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176518,
-      "name": "Get Sad, See Mates",
-      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 168588,
+  "num_followers": 168631,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2024-03-22 15:14:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2024-03-22 15:14:09",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "The Everlasting Love Affair",
         "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 182666,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2024-03-22 15:14:09",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Honky Tonk Women / You Can't Always Get What You Want",
-        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Honky Tonk Women",
-      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Herman's Hermits Retrospective",
         "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Honky Tonk Women / You Can't Always Get What You Want",
+        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Honky Tonk Women",
+      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
     },
     {
       "added_at": "2024-03-22 15:14:09",

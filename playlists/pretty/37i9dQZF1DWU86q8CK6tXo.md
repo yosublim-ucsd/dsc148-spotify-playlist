@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,361 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,519 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 44 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
 | 45 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 | 46 | [Inconsolable](https://open.spotify.com/track/2iF3DCqqC0tUzaqJp4EQ93) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Inconsolable](https://open.spotify.com/album/5ZU7CTzoZzvji3RgLRr7tl) | 3:32 |
-| 47 | [Flush Em](https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:16 |
-| 48 | [x las nubes](https://open.spotify.com/track/4wHglCatImU2Gj01s8eILF) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [x las nubes](https://open.spotify.com/album/5RUskDUQcUAfrtVEwWad2C) | 2:40 |
+| 47 | [x las nubes](https://open.spotify.com/track/4wHglCatImU2Gj01s8eILF) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [x las nubes](https://open.spotify.com/album/5RUskDUQcUAfrtVEwWad2C) | 2:40 |
+| 48 | [Flush Em](https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:16 |
 | 49 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
 | 50 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I’D MISS THE BIRDS](https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW) | 3:09 |
 | 51 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 |

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Choi Yu Ree x Juckjae\(최유리 x 적재\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Lyn x ISU\(린 x 이수\)\)
 
-241 songs - 14 hr 24 min
+242 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 | 2022-03-24 |  |
 | [Beautiful Mint Life](https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Beautiful Mint Life](https://open.spotify.com/album/01rorj7OHIYYw5cfQzUwIi) | 3:24 | 2022-04-21 | 2022-07-25 |
 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 | 2022-09-27 |  |
-| [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 |  |
+| [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 | 2024-10-15 |
 | [Between You And Me \(feat\. Kang Min Hee\)](https://open.spotify.com/track/0zHLujbDWN1tylCfDoo670) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:45 | 2022-03-24 | 2022-04-21 |
 | [Beyond the Stars \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7H1KWuGKdKkOFSIGTtZTr1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Beyond the Stars](https://open.spotify.com/album/5mhp9NqSX2vksUTTFG2O1o) | 3:17 | 2022-03-24 | 2022-09-06 |
 | [Blanket \(feat\. Wonstein\)](https://open.spotify.com/track/1A03hQduqL0zSx6s90c2kV) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Blanket](https://open.spotify.com/album/6JJgCrqlob8AaNBNu2vzRF) | 3:32 | 2022-03-24 | 2022-06-22 |
@@ -210,6 +210,7 @@
 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-04-21 |  |
 | [U \(feat\. ARIAZ, 시현 & ESON\)](https://open.spotify.com/track/6ezxrPOjX6mOspfdKelSfY) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [ARIAZ](https://open.spotify.com/artist/7F4X79mifvL5ke5KxaqYFi), [시현](https://open.spotify.com/artist/6cR7tnVNB3blGX4miHEE6t), [ESON](https://open.spotify.com/artist/0VIAKQLmpZM9Hq5ZVo1jXo) | [U](https://open.spotify.com/album/7D49Qp5tHUm2puTI7S3XOd) | 3:41 | 2022-05-03 | 2022-06-16 |
 | [Umbrella](https://open.spotify.com/track/51imtx97otLDc5IJJEup6J) | [지호](https://open.spotify.com/artist/5VYkOMtsckRDxHfwcA3dP5), [하도이](https://open.spotify.com/artist/6DzoGS0XhGKvlfWz4EqB1f) | [Umbrella](https://open.spotify.com/album/55JhvurNAzvPlB3AesiFEn) | 4:20 | 2022-04-21 | 2022-06-16 |
+| [Umm](https://open.spotify.com/track/6T0qUQBObZ55i4gCW5515D) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [ISU](https://open.spotify.com/artist/2BA4cJwZBgVNVUhS7xnhA2) | [Umm](https://open.spotify.com/album/7yKyZCx0ScGo3b6Y0unF3s) | 3:12 | 2024-10-14 |  |
 | [Under The Moon\-light 우린 나란히 앉아](https://open.spotify.com/track/769mRD2opGFL5s5sbXqRlC) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jung Soan](https://open.spotify.com/artist/1xmvq3HHYYVMuxyhjqMGBo), [Byun Heungsoo](https://open.spotify.com/artist/4SXIrAFg5kNHCjflnHh34c) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 3:44 | 2022-03-24 | 2022-07-26 |
 | [Unstable \(Monthly Project 2019 August Yoon Jong Shin\)](https://open.spotify.com/track/03B45vGcesX9G7DRYl9ZjH) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [Unstable \(Monthly Project 2019 August Yoon Jong Shin\)](https://open.spotify.com/album/54ZTErZIaUGqC6X0gZBpCX) | 5:09 | 2022-05-11 | 2022-05-28 |
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-03-24 | 2022-04-21 |

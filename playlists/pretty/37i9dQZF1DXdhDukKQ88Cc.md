@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap var ventet på det her track  🥵  <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>  /<a href="spotify:track:2bFgjHMqGThTzlv6V94V5v">Har Hørt Dig</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,349 likes - 68 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,359 likes - 68 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

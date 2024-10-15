@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 81483,
+  "num_followers": 81484,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABApXF4YBRgBZNX5WOV79fM",
+  "snapshot_id": "ZwsNgAAAAAB+aF08nSAyP3LQE/IH2cHA",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 Quero Viajar",
         "url": "https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 213997,
       "name": "S\u00f3 Quero Viajar",
       "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Como Deus Quiser",
+      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
       "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Como Deus Quiser",
-      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o Bandido",
-        "url": "https://open.spotify.com/album/7oxrFadcJ3SOAhBv0zKpr3"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 164949,
-      "name": "Cora\u00e7\u00e3o Bandido",
-      "url": "https://open.spotify.com/track/6YVFrJWMyoJH9CgV36vpcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teoria do Ciclo da \u00c1gua",
         "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 275905,
       "name": "Garota",
       "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora\u00e7\u00e3o Bandido",
+        "url": "https://open.spotify.com/album/7oxrFadcJ3SOAhBv0zKpr3"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Cora\u00e7\u00e3o Bandido",
+      "url": "https://open.spotify.com/track/6YVFrJWMyoJH9CgV36vpcT"
     },
     {
       "added_at": null,
@@ -783,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "Mais Sobre Mim",
+      "url": "https://open.spotify.com/track/2NK4BJAG9MUkI2O7IIr2KF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ela T\u00e1 Que T\u00e1",
         "url": "https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 206829,
       "name": "Ela T\u00e1 Que T\u00e1",
       "url": "https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 192300,
-      "name": "Mais Sobre Mim",
-      "url": "https://open.spotify.com/track/2NK4BJAG9MUkI2O7IIr2KF"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Alaska, Pt. 2",
-      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 183708,
       "name": "Eu Penso",
       "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Alaska, Pt. 2",
+      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
     },
     {
       "added_at": null,
@@ -1067,30 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Hey Boy",
-      "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosso Jeito",
         "url": "https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 190720,
       "name": "Nosso Jeito",
       "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
     },
     {
       "added_at": null,
@@ -1159,26 +1159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     },
     {
       "added_at": null,

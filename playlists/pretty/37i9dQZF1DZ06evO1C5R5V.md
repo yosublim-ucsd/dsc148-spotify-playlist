@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This Is El Haragán y Compañía\. Los temas esenciales, todos en una lista.
+> This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,926 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,939 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Muñequita Sintética](https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:08 |
 | 2 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
-| 3 | [En el Corazón No Hay Nada](https://open.spotify.com/track/4b3DzbDuJ04bWTV79nSUFv) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:21 |
-| 4 | [Purgante de Amor](https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:37 |
+| 3 | [Purgante de Amor](https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:37 |
+| 4 | [En el Corazón No Hay Nada](https://open.spotify.com/track/4b3DzbDuJ04bWTV79nSUFv) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:21 |
 | 5 | [No Estoy Muerto](https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:01 |
 | 6 | [Muñequita Sintética](https://open.spotify.com/track/7G3S3F0Jrosbw3SD91KW0F) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Muñequita Sintética](https://open.spotify.com/album/3pAbzsdOcyO4WBOsOVBjA0) | 4:43 |
 | 7 | [Aburrida la Vida](https://open.spotify.com/track/1DGuT7RBkhf2umc7YArWkM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [La Noche y el Silencio](https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 3:48 |
 | 50 | [Y Tú Cómo Lo Sabes? \(Like Heaven Club\)](https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Y Tú Cómo Lo Sabes?](https://open.spotify.com/album/48KpFIYPAifu0M6O4z7Bd4) | 4:18 |
 
-Snapshot ID: `Zwm8AAAAAACBK0BggIYrXIWJno2/Irp8`
+Snapshot ID: `ZwsNgAAAAAC9s48k/VMKlIXbzzKBZURC`

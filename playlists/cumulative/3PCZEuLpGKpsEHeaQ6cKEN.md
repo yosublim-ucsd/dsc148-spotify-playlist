@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Ben Hemsley
 
-1,183 songs - 2 day 15 hr 29 min
+1,184 songs - 2 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,7 +1040,8 @@
 | [Thousand Lives](https://open.spotify.com/track/0qLVLi1IS7TjVRXfVGWhVk) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Thousand Lives](https://open.spotify.com/album/2RazOB5iAQrg2zourPwoJR) | 3:19 | 2022-08-04 | 2023-04-21 |
 | [Through The Night](https://open.spotify.com/track/0rV7CA1DL5KV4S2UO5B1tq) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Through The Night](https://open.spotify.com/album/6KbSX67NzflxslEJ0eJFIW) | 2:35 | 2022-07-14 | 2022-08-12 |
 | [Throw This](https://open.spotify.com/track/27NwMTcfiuwUsf5VJp6jUw) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Throw This](https://open.spotify.com/album/4KLDfgWNzZ02LYwVXIsfvD) | 4:00 | 2024-06-06 |  |
-| [Tidal \- The Euphoric Mix](https://open.spotify.com/track/7Itjn9RYLYdtAonZdc9Mkp) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl) | 10:24 | 2024-10-03 |  |
+| [Tidal](https://open.spotify.com/track/6YqIZ0DjF4ShTlCapRbupl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl) | 3:51 | 2024-10-14 |  |
+| [Tidal \- The Euphoric Mix](https://open.spotify.com/track/7Itjn9RYLYdtAonZdc9Mkp) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl) | 10:24 | 2024-10-03 | 2024-10-15 |
 | [Tigra](https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Tigra](https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X) | 3:02 | 2024-10-10 |  |
 | [Time Away](https://open.spotify.com/track/6rZNLJ9VYoOMQhZkuKUZ1L) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa) | [Time Away](https://open.spotify.com/album/262Lo8BRPQc49DWNM2MLPb) | 2:10 | 2022-08-11 | 2022-10-28 |
 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 | 2023-08-03 | 2024-02-09 |

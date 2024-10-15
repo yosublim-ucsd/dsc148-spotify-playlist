@@ -1,12 +1,12 @@
 {
   "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
-  "num_followers": 36544,
+  "num_followers": 36572,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABDZEy+KNw6Y5yAhfZdW7V8",
+  "snapshot_id": "ZwsNgAAAAACb0g8U6xZRJGWAZGxMNt35",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUALIDAD - feat. Esteman",
-        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 201499,
-      "name": "DUALIDAD",
-      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00edstica",
         "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUALIDAD - feat. Esteman",
+        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 201499,
+      "name": "DUALIDAD",
+      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 315853,
       "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
-      "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANSIED\u00c1",
         "url": "https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 156482,
       "name": "ANSIED\u00c1",
       "url": "https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
+      "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
     },
     {
       "added_at": null,

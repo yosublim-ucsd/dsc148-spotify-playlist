@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,856 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,858 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Posket](https://open.spotify.com/track/7vkJYuULWTghhxEisMGuz1) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Nääj](https://open.spotify.com/album/7nc7HNMEG0asZ2RQ8R3nJl) | 3:13 |
-| 2 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 |
-| 3 | [On tapahtumassa räjähdys](https://open.spotify.com/track/2ZNKIcOUecDZJRG1saHhrw) | [Lasse Soundblaster](https://open.spotify.com/artist/2ok1Br7qRwL3FMlYvoBQAf) | [On tapahtumassa räjähdys](https://open.spotify.com/album/4zjD7URlefyj9smZuXWppY) | 2:55 |
-| 4 | [Hajonneet](https://open.spotify.com/track/6NIVHos43HS850pmsXWzHy) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Hajonneet](https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U) | 3:05 |
-| 5 | [Melkein ilmaa](https://open.spotify.com/track/67TF01CwfdEBDaJonqSJh1) | [Nelli Milan](https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH) | [Melkein ilmaa](https://open.spotify.com/album/7KxfP0QF5acpsuSowT8yeS) | 2:44 |
-| 6 | [\(Welcome To\) Our Corner Of The World](https://open.spotify.com/track/24iPHWQG4S0EU10Gv3lUAR) | [Icons Of Elegance](https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn) | [October](https://open.spotify.com/album/4n4zRZQK6uALXwzTPddMFJ) | 3:31 |
-| 7 | [Uin, Uin, Uin](https://open.spotify.com/track/1pkhbH9d1S7bBxKCJV5Bda) | [Ocelot](https://open.spotify.com/artist/1xDDGK71huKOEAuA0692gE) | [Siskoni on noita](https://open.spotify.com/album/1p0qXPKeZmj2LeGK5BDsia) | 4:02 |
+| 1 | [Hajonneet](https://open.spotify.com/track/6NIVHos43HS850pmsXWzHy) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Hajonneet](https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U) | 3:05 |
+| 2 | [Posket](https://open.spotify.com/track/7vkJYuULWTghhxEisMGuz1) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Nääj](https://open.spotify.com/album/7nc7HNMEG0asZ2RQ8R3nJl) | 3:13 |
+| 3 | [Melkein ilmaa](https://open.spotify.com/track/67TF01CwfdEBDaJonqSJh1) | [Nelli Milan](https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH) | [Melkein ilmaa](https://open.spotify.com/album/7KxfP0QF5acpsuSowT8yeS) | 2:44 |
+| 4 | [Uin, Uin, Uin](https://open.spotify.com/track/1pkhbH9d1S7bBxKCJV5Bda) | [Ocelot](https://open.spotify.com/artist/1xDDGK71huKOEAuA0692gE) | [Siskoni on noita](https://open.spotify.com/album/1p0qXPKeZmj2LeGK5BDsia) | 4:02 |
+| 5 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 |
+| 6 | [On tapahtumassa räjähdys](https://open.spotify.com/track/2ZNKIcOUecDZJRG1saHhrw) | [Lasse Soundblaster](https://open.spotify.com/artist/2ok1Br7qRwL3FMlYvoBQAf) | [On tapahtumassa räjähdys](https://open.spotify.com/album/4zjD7URlefyj9smZuXWppY) | 2:55 |
+| 7 | [\(Welcome To\) Our Corner Of The World](https://open.spotify.com/track/24iPHWQG4S0EU10Gv3lUAR) | [Icons Of Elegance](https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn) | [October](https://open.spotify.com/album/4n4zRZQK6uALXwzTPddMFJ) | 3:31 |
 | 8 | [Sun eleet](https://open.spotify.com/track/60c70e4asQDKYgW4vwfCPd) | [Taikayö Camping](https://open.spotify.com/artist/2UD3QYu1wvsmjaAlunrUJU) | [Sun eleet](https://open.spotify.com/album/26ns2Rs6WlbC1ha9FE4dLo) | 3:42 |
 | 9 | [Lähteet laaksojen](https://open.spotify.com/track/0azALGAVCFjEjdbBsP0XPV) | [Henna Emilia Hietamäki](https://open.spotify.com/artist/3B0DslwcuJg092dWJg9anV) | [Lähteet laaksojen](https://open.spotify.com/album/3GJ7TUpbQzVUccukHMnyAP) | 3:34 |
 | 10 | [50 Years](https://open.spotify.com/track/44e2wBM4lKjSCFoOjFtc9J) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [50 Years](https://open.spotify.com/album/2xIu15pj34gpXGXchk48D6) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Kuunnellaanko merisää](https://open.spotify.com/track/5uzW28gfJpdFooq7K9Z8li) | [Keidas](https://open.spotify.com/artist/2ESvglqbkUzxRiTB0nJH00) | [Kuunnellaanko merisää](https://open.spotify.com/album/5c391ewNJmmCdyN1P9SAOC) | 3:23 |
 | 80 | [Kauheuden katedraali](https://open.spotify.com/track/4pfD2WMbGXusfhukv6M4WZ) | [Sina Viola](https://open.spotify.com/artist/0uamzS40yIyInF9D7D6Yla) | [Kauheuden katedraali](https://open.spotify.com/album/44frJgUss5dfAr0XZ0q3DG) | 3:10 |
 
-Snapshot ID: `ZwhAjAAAAAA6sVVJQRDXGcc0zoyoqnjS`
+Snapshot ID: `ZwzZ7wAAAAB3TjZnoPw6DkYGqfSHMJG2`

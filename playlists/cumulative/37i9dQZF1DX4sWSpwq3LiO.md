@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,742 songs - 3 day 5 hr 23 min
+1,744 songs - 3 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [A Portrait of Natalie](https://open.spotify.com/track/348xadDAQ4aCmfzr0b7FyP) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [A Portrait of Natalie](https://open.spotify.com/album/3Z9hheMdPEYE1FAvPes2dN) | 2:04 | 2020-08-04 | 2020-10-13 |
 | [A Prominent Response](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [A Prominent Response](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 2:53 | 2019-05-26\* | 2020-03-25 |
 | [A Promise](https://open.spotify.com/track/12mPhV7uZAyDaR2oXMTu6Z) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [A Promise](https://open.spotify.com/album/55oB3A73oj2Vwoghk6ovQc) | 2:32 | 2022-06-03 | 2022-10-25 |
+| [A Quiet Morning](https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [A Quiet Morning](https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl) | 2:18 | 2024-10-14 |  |
 | [A quiet river](https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A quiet river](https://open.spotify.com/album/6xIHOY61L5LEsjV836wdLk) | 2:02 | 2024-03-18 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2020-10-13 | 2022-05-27 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-09-01 | 2022-12-06 |
@@ -151,6 +152,7 @@
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2022-07-28 | 2022-10-04 |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2021-05-06 | 2022-07-29 |
 | [Arán](https://open.spotify.com/track/4sej0O7NBjgr31sPkjKyrf) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Arán](https://open.spotify.com/album/1Hk385Mv6w0SXD0Yg1Tpt4) | 2:37 | 2022-07-15 | 2023-03-14 |
+| [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 | 2024-10-14 |  |
 | [As Ballad](https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stay In The Dark](https://open.spotify.com/album/7nGEHv8P2Ys8D7g6Hn1i10) | 4:53 | 2019-05-26\* | 2020-01-08 |
 | [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 | 2022-05-20 | 2024-01-03 |
 | [as the sun shines, dewdrops glisten](https://open.spotify.com/track/4ZrV1hcAXWu6ahXEE8PIK0) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [as the sun shines, dewdrops glisten](https://open.spotify.com/album/0vRufu0u2fR8A6H6GlUcTN) | 2:31 | 2022-01-19 | 2022-07-29 |
@@ -665,7 +667,7 @@
 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 | 2024-04-03 |  |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2021-03-17 | 2022-07-16 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2021-11-11 | 2022-05-13 |
-| [In Repose](https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [In Repose](https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ) | 2:22 | 2022-10-13 |  |
+| [In Repose](https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [In Repose](https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ) | 2:22 | 2022-10-13 | 2024-10-15 |
 | [In the break of dawn](https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [In the break of dawn](https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R) | 3:04 | 2021-05-27 | 2022-08-27 |
 | [In The End](https://open.spotify.com/track/0yw26yMIBOt968JnWdDpMv) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Youth](https://open.spotify.com/album/1IkPGuEi81NE11tHafOjTs) | 2:46 | 2022-05-04 | 2022-07-07 |
 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 | 2022-07-06 | 2023-09-23 |
@@ -861,7 +863,7 @@
 | [Luz](https://open.spotify.com/track/5ENuFWa5gmmz4PCiMomV48) | [Tristan Eckerson](https://open.spotify.com/artist/24LGVKHzsrVV7oo94nlNE1) | [Luz](https://open.spotify.com/album/2nh2EGWZcGIJdnw1EL5Pqg) | 3:23 | 2019-08-02 | 2020-04-21 |
 | [Lydian Fairytale](https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Lydian Fairytale](https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4) | 1:45 | 2023-01-09 | 2023-07-19 |
 | [Lyon](https://open.spotify.com/track/67b6LvfxFlCLWwxv2nYtDa) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Sleepless](https://open.spotify.com/album/14hIy4MWeAp4AknOaad82A) | 1:52 | 2019-05-26\* | 2020-01-08 |
-| [Lyrides](https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Lyrides](https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV) | 2:43 | 2022-09-12 |  |
+| [Lyrides](https://open.spotify.com/track/7hVcd9PDdO0xK8vE3WQqnV) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Lyrides](https://open.spotify.com/album/1RAdAitcrgs2ZJ5Txxf2vV) | 2:43 | 2022-09-12 | 2024-10-15 |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2021-10-27 | 2022-06-04 |
 | [Længsel](https://open.spotify.com/track/1lwVlrh8sqai2WuvVqfZYy) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Længsel](https://open.spotify.com/album/6M4c1eoqnrXP4pQfDddaeU) | 1:55 | 2019-07-11 | 2021-08-05 |
 | [Léana](https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Léana](https://open.spotify.com/album/2IFpHSZQyD8Oxn8IBnJ8Ss) | 2:21 | 2021-05-22 | 2022-08-27 |

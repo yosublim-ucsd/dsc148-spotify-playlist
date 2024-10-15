@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Ayberk Serin
 
-138 songs - 6 hr 40 min
+139 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 |  |
 | [Günebakan](https://open.spotify.com/track/0kve63qUZXfXLRTOm6H3YI) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Günebakan](https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw) | 3:14 | 2024-06-20 |  |
 | [Güzel Olmaz Mı?](https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Güzel Olmaz Mı?](https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi) | 2:56 | 2024-08-29 | 2024-10-11 |
-| [Hala Niye Burdayım](https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Hala Niye Burdayım](https://open.spotify.com/album/2LYJQQSdhdoVBrx9rScLTS) | 2:38 | 2024-06-20 |  |
+| [Hala Niye Burdayım](https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Hala Niye Burdayım](https://open.spotify.com/album/2LYJQQSdhdoVBrx9rScLTS) | 2:38 | 2024-06-20 | 2024-10-15 |
 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 | 2024-09-05 | 2024-09-28 |
 | [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 | 2024-06-20 |  |
 | [Hayal Etmek Güzel \- Surf Arabesk 1.3](https://open.spotify.com/track/2ETGa2vlZx4UBySs8S9qum) | [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hayal Etmek Güzel \(Surf Arabesk 1.3\)](https://open.spotify.com/album/1XxwfbQ5Km783RjWnm72HL) | 4:29 | 2024-06-20 |  |
@@ -98,6 +98,7 @@
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 |  |
 | [SENİN OLSUN](https://open.spotify.com/track/6HjKzIcneM1tVlpQlKulkq) | [Alaca](https://open.spotify.com/artist/67MoCLjdlVakijtIPLmkfB) | [SENİN OLSUN](https://open.spotify.com/album/326BUEFl106rDVFFTxnHyF) | 2:51 | 2024-07-12 | 2024-08-04 |
 | [Sesim Kulaklıklarında](https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Sesim Kulaklıklarında](https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up) | 3:22 | 2024-06-20 | 2024-08-13 |
+| [Sevmeyi Bilmeliydik](https://open.spotify.com/track/0Lxmwww1gG4okcAZtVirjd) | [Hagüra](https://open.spotify.com/artist/63FsIdN7zwPwQGJb8wzifr) | [Sevmeyi Bilmeliydik](https://open.spotify.com/album/3WAgKTf44grcCd8umaC5nv) | 2:01 | 2024-10-10 |  |
 | [Sevmişsin Gibi](https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk) | [Berkay Akman](https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1) | [Sevmişsin Gibi](https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW) | 3:05 | 2024-09-05 |  |
 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 | 2024-06-20 |  |
 | [Sonu Gelmesin](https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Sonu Gelmesin](https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj) | 2:57 | 2024-06-20 | 2024-09-16 |

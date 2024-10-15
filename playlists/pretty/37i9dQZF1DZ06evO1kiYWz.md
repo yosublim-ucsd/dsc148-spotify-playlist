@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 
 > This is Campo De Almas.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 48 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 48 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 | 6 | [Adicción](https://open.spotify.com/track/4DcJxkEQQ3MmFmFciM7rDY) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 2:47 |
 | 7 | [Las Piedras Y El Mar](https://open.spotify.com/track/4okjSLPKtwsJZ8zDnbsbrI) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:14 |
 | 8 | [Es Difícil](https://open.spotify.com/track/4mwbscb033Uwy6mNiMymZZ) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:14 |
-| 9 | [Bolero](https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:55 |
+| 9 | [Ya No Es Igual](https://open.spotify.com/track/7ufquouRbnLHWJnnAvbIEu) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 4:42 |
 | 10 | [Arial](https://open.spotify.com/track/1iUIZ3YzihPt38gwiKcWoK) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 3:27 |
-| 11 | [Ya No Es Igual](https://open.spotify.com/track/7ufquouRbnLHWJnnAvbIEu) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 4:42 |
+| 11 | [Bolero](https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:55 |
 | 12 | [El Día Final](https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Antología \(1994\-2007\)](https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB) | 4:23 |
 | 13 | [La Historia Entre Los Dos](https://open.spotify.com/track/3O1AmaK3H3a9r2A1hUgxAS) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 3:24 |
 | 14 | [Cuando Pienso Y Estoy Solo](https://open.spotify.com/track/2M9nq9rOFuyFKCMJLw7jlI) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 1:58 |
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 | 18 | [Tan Lejos](https://open.spotify.com/track/5WRxU1lX6p0PpzR1L1ypUp) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 4:25 |
 | 19 | [Juro Que No Morí](https://open.spotify.com/track/6eiXpdDC7CzLtiglXi1SaF) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:16 |
 | 20 | [Después De La Lluvia](https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 2:09 |
-| 21 | [Cósmica](https://open.spotify.com/track/0ORO8tZyWlYPs7QRZSCoX5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 4:29 |
-| 22 | [Todo Me Aleja De Ti](https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:57 |
+| 21 | [Todo Me Aleja De Ti](https://open.spotify.com/track/76SuvrOHwhVqcr0LEBnRsq) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:57 |
+| 22 | [Cósmica](https://open.spotify.com/track/0ORO8tZyWlYPs7QRZSCoX5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 4:29 |
 | 23 | [Oscuro](https://open.spotify.com/track/7Bd0qgZWx0PZvF6nIypxaz) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:55 |
 | 24 | [No Tengas Miedo](https://open.spotify.com/track/5hiiPTaXZMzCdfzcOFtkAw) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf), [Álvaro Urquijo](https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:59 |
-| 25 | [Otra Tarde](https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 2:41 |
-| 26 | [Platónica](https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:20 |
+| 25 | [Platónica](https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:20 |
+| 26 | [Otra Tarde](https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 2:41 |
 | 27 | [El Sueño Acabo](https://open.spotify.com/track/2zuFUTqPwwaTewxtOuiuQ3) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 3:04 |
 | 28 | [Miedo a Volar](https://open.spotify.com/track/5MPAv574bRIqyHoNEREzE8) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 4:18 |
 | 29 | [Boulevard](https://open.spotify.com/track/3pIT9QlEnEyZ7OOlH6Snez) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:57 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 | 47 | [Solo \(En Vivo\)](https://open.spotify.com/track/01kq9SxOF4oh8rMHxtXr48) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 4:59 |
 | 48 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/4e38Gxfa52p5oyaPjFs8qt) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 3:20 |
 
-Snapshot ID: `Zwm8AAAAAAB4ofumSWHOyYt7FonfzsDS`
+Snapshot ID: `ZwsNgAAAAAC9U3OBLpS1wxpH4Uv5dUYc`

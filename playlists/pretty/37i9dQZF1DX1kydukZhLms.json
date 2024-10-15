@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1398314,
+  "num_followers": 1398566,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 282493,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1487,8 +1487,8 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
       },
       "artists": [
         {
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 386493,
-      "name": "The Unforgiven",
-      "url": "https://open.spotify.com/track/0BAjUM6V9P9g8rK83hVUTJ"
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
       },
       "artists": [
         {
@@ -1576,25 +1576,25 @@
           "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     },
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/3A4zAmE5c4dUAAqEJz6hCH"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+      "duration_ms": 386493,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/0BAjUM6V9P9g8rK83hVUTJ"
     },
     {
       "added_at": "2024-06-10 16:00:39",

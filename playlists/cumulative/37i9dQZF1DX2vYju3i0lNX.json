@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 145578,
       "name": "A Chalet For Two",
       "url": "https://open.spotify.com/track/6WpAVvDGnPZ0CEO7yAIoBM"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 168077,
       "name": "A Long Day",
       "url": "https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8"
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Blossom Serenade",
+        "url": "https://open.spotify.com/album/4FltVNUNqldemwRB2XnBP4"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196834,
+      "name": "Blossom Serenade",
+      "url": "https://open.spotify.com/track/3RNUosA5iDTNwMOKHS6XIu"
+    },
+    {
+      "album": {
         "name": "Blue Eyes Crying In The Rain",
         "url": "https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq"
       },
@@ -3060,6 +3078,24 @@
       "duration_ms": 249022,
       "name": "Cave of the Crystals",
       "url": "https://open.spotify.com/track/7xy39H1NbRO6LZzeQ9Kjur"
+    },
+    {
+      "album": {
+        "name": "Ca\u00e7ador de Mim",
+        "url": "https://open.spotify.com/album/1LFUqDNXFptjVWGr1AVtWD"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230281,
+      "name": "Ca\u00e7ador de Mim",
+      "url": "https://open.spotify.com/track/48ucmkpjZzAE3IFfFyugH7"
     },
     {
       "album": {
@@ -4515,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1VXahXA1DTUj5sbi2oBpGI"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183562,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1"
+    },
+    {
+      "album": {
         "name": "Echoes of Elegance",
         "url": "https://open.spotify.com/album/27fUpjNhwSGatFLShTeR8G"
       },
@@ -5884,7 +5938,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 242833,
       "name": "From My Perspective",
       "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
@@ -6388,7 +6442,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 228656,
       "name": "Hay Square Serenade",
       "url": "https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR"
@@ -6982,7 +7036,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 325428,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS"
@@ -9106,7 +9160,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 203619,
       "name": "Lady D",
       "url": "https://open.spotify.com/track/1YEGJGKECYxGoRDE1TLjJC"
@@ -10384,7 +10438,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 246636,
       "name": "Love Walked in",
       "url": "https://open.spotify.com/track/14I4CQ12r4exk4uhhLYewt"
@@ -11482,7 +11536,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 231318,
       "name": "My Dear Love",
       "url": "https://open.spotify.com/track/0G0Y67VFuMiw0sMV4AmwtT"
@@ -11500,7 +11554,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 299683,
       "name": "My Favorite Dream",
       "url": "https://open.spotify.com/track/6qXDjpOG7DroqigzG6hV9M"
@@ -12436,7 +12490,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 206750,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
@@ -12850,7 +12904,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 278716,
       "name": "Our Best Year Yet",
       "url": "https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa"
@@ -16904,7 +16958,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 222046,
       "name": "There Goes My Heart",
       "url": "https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx"
@@ -17610,7 +17664,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 221862,
       "name": "Touch the Rain",
       "url": "https://open.spotify.com/track/3GfhoIHnXnpJpdkcIlbYMW"

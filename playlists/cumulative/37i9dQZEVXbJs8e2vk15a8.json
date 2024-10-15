@@ -7916,7 +7916,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 176017,
       "name": "Celine (with Kidd Keo)",
       "url": "https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66"
@@ -16936,7 +16936,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 155053,
       "name": "G O D D E S S",
       "url": "https://open.spotify.com/track/7E5qtyFBvbyfNbHOTR42rs"
@@ -26549,6 +26549,24 @@
     },
     {
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -34422,6 +34440,24 @@
       "duration_ms": 194285,
       "name": "Por primera vez",
       "url": "https://open.spotify.com/track/6KYtNR7wIM0A0zXtYSU8nO"
+    },
+    {
+      "album": {
+        "name": "Por Que Te Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/2wFOtwimT6SwoqK6GWUOFI"
+      },
+      "artists": [
+        {
+          "name": "B-rlin",
+          "url": "https://open.spotify.com/artist/77vpwKgC1wzT1DPSS4zlBq"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269967,
+      "name": "Por Que Te Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/2hEQ4kbGvQvjyTwMFhA1IW"
     },
     {
       "album": {

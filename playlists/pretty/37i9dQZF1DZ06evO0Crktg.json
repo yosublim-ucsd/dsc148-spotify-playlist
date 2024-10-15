@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 251672,
+  "num_followers": 251953,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADzffrVH+DdOVibKIT8X47J",
+  "snapshot_id": "ZwsNgAAAAADKMj9cTgAkr5Eok8jVUipI",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Medicated",
         "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
       },
@@ -755,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Unpretty",
+      "url": "https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ballads of the Broken",
         "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Heart of Stone",
-      "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crosses and Crossroads",
         "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
       },
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
       "artists": [
         {
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz"
+      "duration_ms": 142040,
+      "name": "Everyone Bleeds",
+      "url": "https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM"
     },
     {
       "added_at": null,
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
       "artists": [
         {
@@ -868,29 +884,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 171226,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 229103,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k"
+      "duration_ms": 183306,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz"
     },
     {
       "added_at": null,
@@ -915,30 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie IV",
-        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
       "artists": [
         {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Tommy Vext",
-          "url": "https://open.spotify.com/artist/0C8Tdbzb05PRgz58aKN5gc"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
         }
       ],
-      "duration_ms": 285631,
-      "name": "Winds of Change",
-      "url": "https://open.spotify.com/track/5jJOhbVGJt9O28IrPlBs7e"
+      "duration_ms": 171226,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j"
     }
   ],
   "unique_name": "This Is Jelly Roll",

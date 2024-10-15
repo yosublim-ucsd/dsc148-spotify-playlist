@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189498,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702"
+    },
+    {
+      "album": {
         "name": "FORGIVE ME",
         "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
       },

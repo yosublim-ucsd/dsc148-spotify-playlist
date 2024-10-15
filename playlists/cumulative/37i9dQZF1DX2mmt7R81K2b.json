@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr Elise - Batiste",
+        "url": "https://open.spotify.com/album/5QICnreyAmyuoITY89NwT4"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244340,
+      "name": "F\u00fcr Elise - Batiste",
+      "url": "https://open.spotify.com/track/53zEryaU5hYSdxk2hsrJeu"
+    },
+    {
+      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5BmQzH3YOBSwpcjpYQfjK1"
       },

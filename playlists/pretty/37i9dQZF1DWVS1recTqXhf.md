@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,101 likes - 96 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,393 likes - 96 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guided Meditation: Affirmations For Manifesting](https://open.spotify.com/track/1buvmZ3wdzJ2I7mqd1ifNs) | [Davina Ho](https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A), [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Guided Meditation: Affirmations For Manifesting](https://open.spotify.com/album/5hvz2JZpYxhyQfypkEk289) | 8:48 |
 | 2 | [Breathing into the Body Guided Sleep Meditation \(with Music\)](https://open.spotify.com/track/6kk91yMWvSOGnlS9T1T5nU) | [Balanced Mindful Meditations](https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT) | [Guided Meditations for Calming the Mind \(with Music\)](https://open.spotify.com/album/64ipVNXPNfNrFDJFFYKUKX) | 4:24 |
-| 3 | [Guided Meditation\- Ease into the Evening](https://open.spotify.com/track/3GPnNZhpQz6aLnCYwU0qIc) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP), [Robert Pronat](https://open.spotify.com/artist/27Y0LP8ZpLgJZZJ1sEji5v) | [Guided Meditation: Ease into the Evening](https://open.spotify.com/album/2dIvZX9aUfN712tkcBQOsJ) | 3:30 |
+| 3 | [Guided Meditation: Ease into the Evening](https://open.spotify.com/track/3GPnNZhpQz6aLnCYwU0qIc) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP), [Robert Pronat](https://open.spotify.com/artist/27Y0LP8ZpLgJZZJ1sEji5v) | [Guided Meditation: Ease into the Evening](https://open.spotify.com/album/2dIvZX9aUfN712tkcBQOsJ) | 3:30 |
 | 4 | [Mind and Body](https://open.spotify.com/track/3TN6sMspsyPFZclSbbCJuz) | [Mason Geer](https://open.spotify.com/artist/2GQwJWKM6O2diVRqjbScDr) | [Mind and Body](https://open.spotify.com/album/4oHiSVkekyPev8UZT32Blt) | 4:39 |
 | 5 | [Intentions \(with Guided Meditation\)](https://open.spotify.com/track/2JtwMICkM36sP0JIEH29em) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Intentions](https://open.spotify.com/album/1G3QoQVeDAqVVPpJO5eiFW) | 5:03 |
 | 6 | [Grounded \- Guided Meditation](https://open.spotify.com/track/7J6goi1udgaBa1nVAoeCoH) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Grounded \- Guided Meditation](https://open.spotify.com/album/3ghWlIj8OyoYPVj7af8KNc) | 6:04 |

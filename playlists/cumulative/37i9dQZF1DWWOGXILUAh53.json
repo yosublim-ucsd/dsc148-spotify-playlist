@@ -3505,6 +3505,28 @@
     },
     {
       "album": {
+        "name": "CAVE (with Tove Lo)",
+        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180409,
+      "name": "CAVE (with Tove Lo)",
+      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
+    },
+    {
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/6cZLiA8VFwNkTyHRc0esUm"
       },

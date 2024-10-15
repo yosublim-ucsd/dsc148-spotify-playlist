@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 ### [This Is Ventino](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y)
 
-> This is Ventino\. The essential tracks, all in one playlist.
+> This Is Ventino\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,004 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,012 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 36 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 |
 | 37 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
 | 38 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
-| 39 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
-| 40 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
+| 39 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
+| 40 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 | 41 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
 
-Snapshot ID: `Zwm8AAAAAABvbil9cXCOpduvXaa+fILm`
+Snapshot ID: `ZwsNgAAAAADyGx7DjjrbPu5r6ylEePEX`

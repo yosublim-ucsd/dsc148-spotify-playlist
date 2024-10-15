@@ -4,14 +4,14 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Zoe Gotusso
 
-285 songs - 15 hr 26 min
+286 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 | 2023-12-07 | 2024-02-17 |
 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 | 2023-10-23 |  |
 | [220](https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:56 | 2023-10-23 | 2023-10-27 |
-| [4 Paredes](https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [4 Paredes](https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt) | 2:52 | 2024-03-15 |  |
+| [4 Paredes](https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [4 Paredes](https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt) | 2:52 | 2024-03-15 | 2024-10-15 |
 | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C) | 3:04 | 2024-08-23 |  |
 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 | 2023-10-23 | 2024-03-02 |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-10-23 |  |
@@ -281,6 +281,7 @@
 | [Viento Dile a la Lluvia](https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 3:45 | 2023-10-23 | 2023-10-27 |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2023-07-14 | 2023-10-24 |
 | [VIVO](https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [VIVO](https://open.spotify.com/album/772S7hHdD0VpV4n5aN77E2) | 2:56 | 2024-05-31 | 2024-08-03 |
+| [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 | 2024-10-14 |  |
 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 | 2023-10-23 |  |
 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 | 2023-10-23 |  |
 | [WE PRAY \- \(TINI Version\)](https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 | 2024-09-06 |  |

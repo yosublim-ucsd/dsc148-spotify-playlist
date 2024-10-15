@@ -2,7 +2,7 @@
 
 ### [This Is Julieta Venegas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DZxp6)
 
-> This Is Julieta Venegas\. Los temas esenciales, todos en una lista.
+> This is Julieta Venegas\. The essential tracks, all in one playlist.
 
 72 songs - 4 hr 7 min
 

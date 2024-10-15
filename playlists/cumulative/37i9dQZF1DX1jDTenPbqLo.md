@@ -4,7 +4,7 @@
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-48 songs - 3 hr 25 min
+49 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2021-09-27 |  |
 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 | 2021-09-27 |  |
 | [La Fille Aux Cheveux De Lin, L\. 117](https://open.spotify.com/track/5ZPbqdt0JiuUnxHUyEeKLg) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Ezio Bosso](https://open.spotify.com/artist/5RLsx9QFxt7RO5jTOxzWzl) | [And the Things that Remain](https://open.spotify.com/album/12JI4zBXEwbtKUfviHwg6n) | 3:27 | 2021-09-27 |  |
+| [Laurie and Jo on the Hill](https://open.spotify.com/track/4xui9WfNYFy7DKZfFBzSQA) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 1:01 | 2024-10-14 |  |
 | [Le Carnaval des Animaux, R\. 125: 13\. The Swan \(Arr\. Hodge for Cello, Harp & Ensemble\)](https://open.spotify.com/track/5J2pXuqqpBsISeFPjD5A5C) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Katherine Thomas](https://open.spotify.com/artist/61LlaNdOnjpq4LMMAJL5gQ), [CBSO Cellos](https://open.spotify.com/artist/35ZY7Bd2BHf4oIO8DnXFhQ) | [Saint\-Saëns: Le Carnaval des animaux, R.125 \- 13\. The Swan \(Arr\. Cello, Harp & Ensemble\)](https://open.spotify.com/album/4DRlCuB51rWJhnE1fDFDKC) | 2:33 | 2021-09-27 | 2022-10-01 |
 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 | 2021-09-27 |  |
 | [Main Title \(The Notebook\)](https://open.spotify.com/track/06xNkl12TrxwGYrwTGlUUd) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Notebook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7) | 2:49 | 2021-09-27 |  |

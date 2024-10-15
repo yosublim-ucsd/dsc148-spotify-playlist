@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain](/playlists/plain/37i9dQZF1DWYubIwLN4Hq2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYubIwLN4Hq2)
 
-### [Country Party](https://open.spotify.com/playlist/37i9dQZF1DWYubIwLN4Hq2)
+### [Country Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWYubIwLN4Hq2)
 
 > It's a Saturday night in the country, all the time!
 

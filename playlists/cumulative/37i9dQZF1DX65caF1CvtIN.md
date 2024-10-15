@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-212 songs - 9 hr 31 min
+213 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 | 2022-08-03 |  |
 | [Once](https://open.spotify.com/track/5Iop7ILqPZE5HpKb35QBYL) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [Once](https://open.spotify.com/album/1H6M617UDwCMPBBLWq0dpT) | 2:32 | 2022-08-03 |  |
 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 | 2022-08-03 |  |
+| [Only Illusions](https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Only Illusions](https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B) | 2:26 | 2024-10-14 |  |
 | [Onward](https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Onward](https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i) | 2:14 | 2023-06-20 |  |
 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 | 2022-12-06 |  |
 | [Painting A Texture](https://open.spotify.com/track/4vd1101k8rmE0zjtjO6t5U) | [Simon Chastain](https://open.spotify.com/artist/2U2iir4URsSDyXADroQqnD) | [Painting A Texture](https://open.spotify.com/album/5D6gdAJmKFdjIySmXY64Eb) | 2:27 | 2022-08-03 | 2023-06-21 |
@@ -193,7 +194,7 @@
 | [Tala](https://open.spotify.com/track/1qXgnbIFHqeRFdjKhDSB7X) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Tala](https://open.spotify.com/album/6fXcGN9Oj6OVDKTnIkGUhT) | 3:07 | 2023-09-11 |  |
 | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/track/6cpnzEVv7ukhlNn77azkVy) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/album/5z5c0cyNP5K6jwi01Zra5k) | 2:12 | 2022-09-23 |  |
 | [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-21 |  |
-| [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 |  |
+| [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 | 2024-10-15 |
 | [The Day After](https://open.spotify.com/track/6Yw7ZegbTUDDmDkf9JWvkw) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Day After](https://open.spotify.com/album/26lOYAveXD3qUcfxiWGw8e) | 1:55 | 2023-01-09 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |

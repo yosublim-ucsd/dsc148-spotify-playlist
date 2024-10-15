@@ -1,12 +1,12 @@
 {
-  "description": "This is Bear McCreary. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 10110,
+  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
+  "num_followers": 10112,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADm0M8tANA1Jnsf1hfSeEM8",
+  "snapshot_id": "ZwsNgAAAAABpDtnRkJf0qv6UTrH0HBWM",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 105760,
-      "name": "Comin' Thro' The Rye",
-      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
+      "duration_ms": 338280,
+      "name": "Fallen Through Time",
+      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
     },
     {
       "added_at": null,
@@ -420,15 +420,15 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 338280,
-      "name": "Fallen Through Time",
-      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
+      "duration_ms": 105760,
+      "name": "Comin' Thro' The Rye",
+      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 264773,
-      "name": "Raeb's Lament",
-      "url": "https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz"
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
     },
     {
       "added_at": null,
@@ -459,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 264773,
+      "name": "Raeb's Lament",
+      "url": "https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -468,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+      "duration_ms": 222308,
+      "name": "Eregion",
+      "url": "https://open.spotify.com/track/6TWlARqgUmQZ5uFrhUMeJa"
     },
     {
       "added_at": null,
@@ -511,38 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 222308,
-      "name": "Eregion",
-      "url": "https://open.spotify.com/track/6TWlARqgUmQZ5uFrhUMeJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -559,38 +559,6 @@
       "duration_ms": 369640,
       "name": "Ashes (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 565666,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
     },
     {
       "added_at": null,
@@ -615,6 +583,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 565666,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 313663,
-      "name": "Svartalfheim (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8"
     },
     {
       "added_at": null,
@@ -687,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Theme from Black Sails",
-      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+      "duration_ms": 313663,
+      "name": "Svartalfheim (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 209746,
       "name": "Faith",
       "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
     }
   ],
   "unique_name": "This Is Bear McCreary",

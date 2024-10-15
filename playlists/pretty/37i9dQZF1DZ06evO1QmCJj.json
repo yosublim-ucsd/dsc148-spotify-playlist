@@ -1,12 +1,12 @@
 {
-  "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 41497,
+  "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
+  "num_followers": 41496,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADKhs++LS711s84Ljm+m7JZ",
+  "snapshot_id": "ZwsNgAAAAADIO/hn9UUWAl67DvGtUYES",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PESADILLAS",
+        "url": "https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "PESADILLAS",
+      "url": "https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LAGRIMAS DE UN MALEANTE",
         "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PESADILLAS",
-        "url": "https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "PESADILLAS",
-      "url": "https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL TIBUR\u00d3N",
-        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 182242,
-      "name": "COMO EST\u00c1S BB",
-      "url": "https://open.spotify.com/track/2N2t5tqxcIUn8F9fQb2dIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High (Remix)",
         "url": "https://open.spotify.com/album/2zXlWd1wEWDpoAQfBShNwJ"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 244200,
       "name": "High (Remix)",
       "url": "https://open.spotify.com/track/2HpbDdD3JLpAPMJFYCeC6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 182242,
+      "name": "COMO EST\u00c1S BB",
+      "url": "https://open.spotify.com/track/2N2t5tqxcIUn8F9fQb2dIR"
     },
     {
       "added_at": null,
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "Trendy",
+        "url": "https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Mimi",
-          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 155904,
-      "name": "SI TE VAS",
-      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
+      "duration_ms": 183564,
+      "name": "Trendy",
+      "url": "https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6"
     },
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trendy",
-        "url": "https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2"
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
       "artists": [
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
         }
       ],
-      "duration_ms": 183564,
-      "name": "Trendy",
-      "url": "https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6"
+      "duration_ms": 155904,
+      "name": "SI TE VAS",
+      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
     },
     {
       "added_at": null,

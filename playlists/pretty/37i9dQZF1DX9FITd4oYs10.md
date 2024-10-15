@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,935 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,936 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 40 | [Filosofia de Boteco](https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Perfil](https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe) | 4:10 |
 | 41 | [The Cypher Deffect 2](https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [The Cypher Deffect 2](https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb) | 5:35 |
 | 42 | [Esperar o Sol](https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 3:21 |
-| 43 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
-| 44 | [Estilo Vagabundo](https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila](https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj) | [Falcão \- O Bagulho É Doido](https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc) | 5:00 |
+| 43 | [Estilo Vagabundo](https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila](https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj) | [Falcão \- O Bagulho É Doido](https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc) | 5:00 |
+| 44 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
 | 45 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
 | 46 | [Malvadão](https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão](https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq) | 2:29 |
 | 47 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 56 | [Flo Jo](https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 3:54 |
 | 57 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
 | 58 | [Pesadelos de Quem Não Dorme Há Dias](https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Lorens DTPK](https://open.spotify.com/artist/5VSZKWpZnee82aqu3QQhrV) | [Azul Piscina](https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS) | 2:26 |
-| 59 | [Relação](https://open.spotify.com/track/0LkUf43tCGdwUVBuAssdVD) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Relação](https://open.spotify.com/album/0CU3Cm9HXv6cWv1NxMuqXw) | 3:04 |
+| 59 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 | 60 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |
 
 Snapshot ID: `Zr+2aAAAAADvF93N234pRyVHJd3NB2Xa`

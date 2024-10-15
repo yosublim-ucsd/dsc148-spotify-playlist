@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Bounce It",
+        "url": "https://open.spotify.com/album/6MggkvxUbJCzl1ZnF8uTqR"
+      },
+      "artists": [
+        {
+          "name": "Stoltenhoff",
+          "url": "https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390379,
+      "name": "Bounce It",
+      "url": "https://open.spotify.com/track/5bVoAjpheAtpRypUL6f2by"
+    },
+    {
+      "album": {
         "name": "Boundless Space",
         "url": "https://open.spotify.com/album/0IdE18mByur7VWWwrNB3Jz"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 213000,
       "name": "Eiskalt - Short Mix",
       "url": "https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1"

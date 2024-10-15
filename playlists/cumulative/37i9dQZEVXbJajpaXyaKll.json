@@ -1125,6 +1125,32 @@
     },
     {
       "album": {
+        "name": "Automotivo da Turbulencia",
+        "url": "https://open.spotify.com/album/4oBA63HKO89DopUAfIMdBH"
+      },
+      "artists": [
+        {
+          "name": "Mc Oliver",
+          "url": "https://open.spotify.com/artist/3JFJJKilvJeLfWFA6ENhRS"
+        },
+        {
+          "name": "MC ZKW",
+          "url": "https://open.spotify.com/artist/5tDcNu62DRxJ4glbImNOy2"
+        },
+        {
+          "name": "DJ RD DA DZ7",
+          "url": "https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Automotivo da Turbulencia",
+      "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
+    },
+    {
+      "album": {
         "name": "AUTOMOTIVO PA PA PAPAI",
         "url": "https://open.spotify.com/album/6jQlknQwPszOU2pYBkNmO5"
       },
@@ -2326,7 +2352,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 186887,
       "name": "Call Center",
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
@@ -2616,7 +2642,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 176017,
       "name": "Celine (with Kidd Keo)",
       "url": "https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66"
@@ -3160,6 +3186,24 @@
       "duration_ms": 184621,
       "name": "Corazones Rojos",
       "url": "https://open.spotify.com/track/5vxZrzoY5pvm8eWvvWVyah"
+    },
+    {
+      "album": {
+        "name": "Margarita, que tu cuento valga la pena",
+        "url": "https://open.spotify.com/album/6hMariaWwzwxApp7afAca5"
+      },
+      "artists": [
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177443,
+      "name": "Coraz\u00f3n de rey",
+      "url": "https://open.spotify.com/track/4z7JegdCdBbbDZcnZxYaua"
     },
     {
       "album": {
@@ -7367,7 +7411,7 @@
     },
     {
       "album": {
-        "name": "Venus And Mars - Archive Collection",
+        "name": "Venus And Mars (Archive Collection)",
         "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
       },
       "artists": [

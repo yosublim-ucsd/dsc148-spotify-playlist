@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Halloween at home with these fun tracks",
-  "num_followers": 66704,
+  "num_followers": 66810,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
@@ -237,20 +237,20 @@
       "url": "https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR"
     },
     {
-      "added_at": "2024-09-20 20:40:02",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The Skeleton Shake",
-        "url": "https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5"
+        "name": "Peppa Pig Halloween Songs",
+        "url": "https://open.spotify.com/album/73yMY9nSxq9bW3k4N3EGK6"
       },
       "artists": [
         {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
         }
       ],
-      "duration_ms": 217103,
-      "name": "The Skeleton Shake",
-      "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
+      "duration_ms": 160331,
+      "name": "Just A Little Bit Scary",
+      "url": "https://open.spotify.com/track/5rNp0eh9KNCRzZM85TzccP"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
+        "name": "The Skeleton Shake",
+        "url": "https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "The Skeleton Shake",
+      "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
         "name": "A Laurie Berkner Halloween",
         "url": "https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 77226,
       "name": "Peek-A-Boo Ghost",
       "url": "https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Peppa Pig Halloween Songs",
-        "url": "https://open.spotify.com/album/73yMY9nSxq9bW3k4N3EGK6"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 160331,
-      "name": "Just A Little Bit Scary",
-      "url": "https://open.spotify.com/track/5rNp0eh9KNCRzZM85TzccP"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "The Best Of The Laurie Berkner Band",
-        "url": "https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 79560,
-      "name": "Monster Boogie",
-      "url": "https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
         "name": "The Loud House Mega Music Countdown (Soundtrack)",
         "url": "https://open.spotify.com/album/6ea3zT249IDx7ODPVF8cFL"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
+        "name": "The Best Of The Laurie Berkner Band",
+        "url": "https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 79560,
+      "name": "Monster Boogie",
+      "url": "https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
         "name": "Songs and Story: Mickey's Spooky Night",
         "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
       },
@@ -451,6 +451,26 @@
       "duration_ms": 72426,
       "name": "I Wanna Scare Myself",
       "url": "https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "What Will You Be for Halloween?",
+        "url": "https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "What Will You Be for Halloween?",
+      "url": "https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -549,26 +569,6 @@
       "url": "https://open.spotify.com/track/1ZNUHl1HRIIIczZuko0qaj"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "What Will You Be for Halloween?",
-        "url": "https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "What Will You Be for Halloween?",
-      "url": "https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8"
-    },
-    {
       "added_at": "2024-09-20 20:40:02",
       "album": {
         "name": "Halloween With CoComelon",
@@ -583,22 +583,6 @@
       "duration_ms": 124814,
       "name": "The Monsters In The House",
       "url": "https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
-        "name": "It Must Be Halloween",
-        "url": "https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG"
-      },
-      "artists": [
-        {
-          "name": "LVCRFT",
-          "url": "https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T"
-        }
-      ],
-      "duration_ms": 149852,
-      "name": "It Must Be Halloween",
-      "url": "https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -619,22 +603,6 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "Songs and Story: Mickey's Spooky Night",
-        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
-      },
-      "artists": [
-        {
-          "name": "Goofy",
-          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Monster Mash",
-      "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
         "name": "KIDZ BOP Halloween",
         "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 188040,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
+        "name": "It Must Be Halloween",
+        "url": "https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG"
+      },
+      "artists": [
+        {
+          "name": "LVCRFT",
+          "url": "https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T"
+        }
+      ],
+      "duration_ms": 149852,
+      "name": "It Must Be Halloween",
+      "url": "https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "Halloween Songs",
-        "url": "https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 80262,
-      "name": "The Skeleton Band",
-      "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
         "name": "Kids Halloween Party Music",
         "url": "https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA"
       },
@@ -703,34 +687,18 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "Monster Party",
-        "url": "https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV"
+        "name": "Halloween Songs",
+        "url": "https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm"
       },
       "artists": [
         {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 103361,
-      "name": "Monster Party",
-      "url": "https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 160417,
-      "name": "Spooky, Scary Skeletons",
-      "url": "https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3"
+      "duration_ms": 80262,
+      "name": "The Skeleton Band",
+      "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -767,6 +735,22 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
+        "name": "Monster Party",
+        "url": "https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV"
+      },
+      "artists": [
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "duration_ms": 103361,
+      "name": "Monster Party",
+      "url": "https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
         "name": "Halloween With CoComelon",
         "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 160417,
+      "name": "Spooky, Scary Skeletons",
+      "url": "https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
         "name": "I FOUND YOU!",
         "url": "https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 155213,
       "name": "Skeletone",
       "url": "https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
-        "name": "I Picked One Pumpkin",
-        "url": "https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 130916,
-      "name": "I Picked One Pumpkin",
-      "url": "https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
+        "name": "I Picked One Pumpkin",
+        "url": "https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 130916,
+      "name": "I Picked One Pumpkin",
+      "url": "https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
         "name": "It\u2019s Halloween!",
         "url": "https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ"
       },
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "Halloween Train",
-        "url": "https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU"
+        "name": "Halloween Songs 2",
+        "url": "https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS"
       },
       "artists": [
         {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 163480,
-      "name": "Halloween Train",
-      "url": "https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7"
+      "duration_ms": 110965,
+      "name": "Halloween Costume Party",
+      "url": "https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "Halloween Songs 2",
-        "url": "https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 110965,
-      "name": "Halloween Costume Party",
-      "url": "https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
         "name": "It\u2019s Halloween!",
         "url": "https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 163293,
       "name": "Batman Theme",
       "url": "https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
+        "name": "Halloween Train",
+        "url": "https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Halloween Train",
+      "url": "https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -1041,20 +1041,20 @@
       "url": "https://open.spotify.com/track/5VnJN193do97HJy4aSY92j"
     },
     {
-      "added_at": "2024-09-20 20:40:02",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Halloween Is Finally Here",
-        "url": "https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3"
+        "name": "Pinkfong & Hogi Halloween Sing Along",
+        "url": "https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT"
       },
       "artists": [
         {
-          "name": "Bears and Lions",
-          "url": "https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB"
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 105586,
-      "name": "Halloween Is Finally Here",
-      "url": "https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh"
+      "duration_ms": 179444,
+      "name": "Halloween Costume Party",
+      "url": "https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
+        "name": "Halloween Is Finally Here",
+        "url": "https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3"
+      },
+      "artists": [
+        {
+          "name": "Bears and Lions",
+          "url": "https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB"
+        }
+      ],
+      "duration_ms": 105586,
+      "name": "Halloween Is Finally Here",
+      "url": "https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
         "name": "Big Things",
         "url": "https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 215840,
       "name": "It's Halloween",
       "url": "https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Pinkfong & Hogi Halloween Sing Along",
-        "url": "https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Halloween Costume Party",
-      "url": "https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -1119,22 +1119,6 @@
       "duration_ms": 126729,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw"
-    },
-    {
-      "added_at": "2024-09-20 20:40:02",
-      "album": {
-        "name": "Songs and Story: Mickey's Spooky Night",
-        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
-      },
-      "artists": [
-        {
-          "name": "Marco Marinangeli",
-          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Shake Your Bones",
-      "url": "https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-09-20 20:40:02",
       "album": {
-        "name": "I Want Candy (From A Really Haunted Loud House)",
-        "url": "https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4"
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
       },
       "artists": [
         {
-          "name": "The Loud House",
-          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+          "name": "Marco Marinangeli",
+          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
         }
       ],
-      "duration_ms": 192604,
-      "name": "I Want Candy (From A Really Haunted Loud House)",
-      "url": "https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP"
+      "duration_ms": 161160,
+      "name": "Shake Your Bones",
+      "url": "https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl"
     },
     {
       "added_at": "2024-09-20 20:40:02",
@@ -1183,6 +1167,22 @@
       "duration_ms": 133314,
       "name": "Where's the Werewolf Pack?",
       "url": "https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH"
+    },
+    {
+      "added_at": "2024-09-20 20:40:02",
+      "album": {
+        "name": "I Want Candy (From A Really Haunted Loud House)",
+        "url": "https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "duration_ms": 192604,
+      "name": "I Want Candy (From A Really Haunted Loud House)",
+      "url": "https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP"
     },
     {
       "added_at": "2024-09-20 20:40:02",

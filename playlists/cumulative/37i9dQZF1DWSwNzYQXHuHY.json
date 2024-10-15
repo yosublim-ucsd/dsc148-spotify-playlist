@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 204306,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
@@ -4284,6 +4284,24 @@
       "duration_ms": 158548,
       "name": "will you and me fall in love (feat. Gawon)",
       "url": "https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC"
+    },
+    {
+      "album": {
+        "name": "Winter Dance",
+        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+      },
+      "artists": [
+        {
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165504,
+      "name": "Winter Dance",
+      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
     },
     {
       "album": {

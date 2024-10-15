@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1071805,
+  "num_followers": 1071919,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAADoFcOAmyR2vcv9KU4zgyr",
+  "snapshot_id": "ZwsNgAAAAAD4IrMkb56r4KCpi/KxdNGF",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Nice Guys Finish Last",
-      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
+      "duration_ms": 132080,
+      "name": "The Grouch",
+      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 132080,
-      "name": "The Grouch",
-      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+      "duration_ms": 168866,
+      "name": "Nice Guys Finish Last",
+      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
     },
     {
       "added_at": null,

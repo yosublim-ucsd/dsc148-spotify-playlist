@@ -4,7 +4,7 @@
 
 > Découvrez les créateurs de demain.
 
-68 songs - 2 day 3 hr 34 min
+69 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Tu préfères tes potes ou ton mec ? \(THIS OR THAT\)](https://open.spotify.com/episode/2PYcWBynZk3TF5IiDuR6d9) | [Simple Cafeine](https://open.spotify.com/show/0OJKTN6NhsYKIGNGOBcHLv) | [Simple Cafeine](https://open.spotify.com/album/0OJKTN6NhsYKIGNGOBcHLv) | 20:57 | 2024-09-23 | 2024-10-09 |
 | [Une île interdite, le président du Chili, un diplôme de plongée](https://open.spotify.com/episode/4OmHpqnqLX4i61Nc72fUEb) | [ZINZIN](https://open.spotify.com/show/4jaLLRDjv0OvVT3QBSuza2) | [ZINZIN](https://open.spotify.com/album/4jaLLRDjv0OvVT3QBSuza2) | 44:09 | 2023-11-09 | 2024-04-26 |
 | [«L'Arme fatale 3»: il n'y a pas d'arme plus fatale que le mulet de Mel Gibson](https://open.spotify.com/episode/1YqJoonpUx1WuaqQAVMW97) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 58:53 | 2024-10-08 |  |
-| [À l'affiche cette semaine «La Cité de la peur» ](https://open.spotify.com/episode/2MbPZwXx0lhkZwrajZn01m) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 7:40 | 2024-10-08 |  |
+| [«La Cité de la peur»: Anaïs et Marie dansent la carioca](https://open.spotify.com/episode/5jgxUipzeq90LItXefIp98) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 49:08 | 2024-10-14 |  |
+| [À l'affiche cette semaine «La Cité de la peur» ](https://open.spotify.com/episode/2MbPZwXx0lhkZwrajZn01m) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 7:40 | 2024-10-08 | 2024-10-15 |
 | [À écouter pour te motiver à aller au sport](https://open.spotify.com/episode/0lq6OkYSycdte1ILxMV6rL) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 15:43 | 2024-10-08 |  |
 | [Ça fait quoi d'être maman ? \(Vraiment\)](https://open.spotify.com/episode/78V4rRa5RhjxJPTrTn6mck) | [Bip sonore \- Shera](https://open.spotify.com/show/0T25p8L7u9lWbz9lw9ahT5) | [Bip sonore \- Shera](https://open.spotify.com/album/0T25p8L7u9lWbz9lw9ahT5) | 30:10 | 2023-10-05 | 2024-04-26 |
 | [Épisode 32 : des BRUITS absolument TERRIFIANTS](https://open.spotify.com/episode/5isGMOYUSUiWHPh2BMeNQe) | [Thread Horreur](https://open.spotify.com/show/63uNgsEu3gcYtwA0U1QdVp) | [Thread Horreur](https://open.spotify.com/album/63uNgsEu3gcYtwA0U1QdVp) | 13:07 | 2023-10-05 | 2024-04-26 |

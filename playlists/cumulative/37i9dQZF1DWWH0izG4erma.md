@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Treaty Oak Revival
 
-380 songs - 21 hr 46 min
+381 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 | 2022-01-28 | 2023-01-21 |
 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-02 |  |
 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 | 2023-11-17 | 2024-04-19 |
-| [Rock Bottom](https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Rock Bottom](https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb) | 3:22 | 2023-08-11 |  |
+| [Rock Bottom](https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Rock Bottom](https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb) | 3:22 | 2023-08-11 | 2024-10-15 |
 | [Rock Bottom](https://open.spotify.com/track/7p66Vq5NrmkK1UW7jNyn87) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Rock Bottom](https://open.spotify.com/album/6K7A3CvglEtN3kNNYIaN8I) | 2:26 | 2023-09-08 | 2024-03-02 |
 | [Rose Gold](https://open.spotify.com/track/4nNmIoO7YIm8EuoY8pUrXE) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Rose Gold](https://open.spotify.com/album/7hC8aKFF9Fc72zsjmFILxh) | 5:29 | 2021-11-01 | 2022-07-29 |
 | [Running Away](https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Running Away](https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg) | 3:14 | 2023-11-10 | 2024-05-24 |
@@ -305,6 +305,7 @@
 | [Southbound](https://open.spotify.com/track/1jxiUxaIBx8C2IOlak1j4Q) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream Part II](https://open.spotify.com/album/7xpZ5rRDizgbzLEwl88p7m) | 3:57 | 2021-11-01 | 2022-07-23 |
 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 | 2024-05-24 |  |
 | [SPINNIN' YOU AROUND](https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:44 | 2024-06-28 |  |
+| [SPITCUP](https://open.spotify.com/track/3wfuUtDoysuURJHblPxbQM) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [SPITCUP](https://open.spotify.com/album/3vwD4qQv0v1LIcaUAXm0iQ) | 2:47 | 2024-10-11 |  |
 | [Still a Few Cowboys Left](https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Still a Few Cowboys Left](https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD) | 3:14 | 2022-10-14 | 2023-03-12 |
 | [Still Somethin' \- Bonus](https://open.spotify.com/track/04zWejuIz7CTNxHVeEYe6E) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1) | 3:08 | 2022-05-06 | 2022-07-28 |
 | [Stronger Than You](https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:08 | 2021-11-01 | 2023-01-21 |

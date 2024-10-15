@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAABeCqiBgDcR6RcfhCmRsSW",
+  "snapshot_id": "ZwsNgAAAAABsqn0eUW8gja49Qjqm1je5",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "One More Chance With You",
-      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anthology: His Early Years (Remastered)",
         "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 148853,
       "name": "You're the One - Remastered",
       "url": "https://open.spotify.com/track/6Q3U1AMs32pVUD4FcbuShH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "One More Chance With You",
+      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
     },
     {
       "added_at": null,
@@ -407,6 +407,26 @@
       "duration_ms": 179920,
       "name": "Don't Have To Hunt No More",
       "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
     },
     {
       "added_at": null,
@@ -463,42 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Thunderbird",
-      "url": "https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 160773,
-      "name": "I Got To Go",
-      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
+      "duration_ms": 168560,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA"
     },
     {
       "added_at": null,
@@ -559,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
       "artists": [
         {
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
+      "duration_ms": 160773,
+      "name": "I Got To Go",
+      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
       "duration_ms": 183000,
       "name": "Hate To See You Go - Extended",
       "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 201226,
       "name": "Crazy Legs",
       "url": "https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
       "added_at": null,

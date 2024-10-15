@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,679 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,680 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 65 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 |
 | 66 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [piccolo principe](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |
 | 67 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |
-| 68 | [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/02qmjMWNK9hiO9PsndeLLQ) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:36 |
-| 69 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
+| 68 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
+| 69 | [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/02qmjMWNK9hiO9PsndeLLQ) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:36 |
 | 70 | [La stella più bella di sempre](https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [La stella più bella di sempre](https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW) | 2:06 |
-| 71 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
-| 72 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
+| 71 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
+| 72 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
 | 73 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 74 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
 | 75 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 |

@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Max Styler & Gorgon City \ud83d\udc7d\ud83d\udc7d  50% techno, 50% house",
-  "num_followers": 636065,
+  "num_followers": 636175,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "So Good (Heat Mix)",
-        "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "So Good - Heat Mix",
-      "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "La Musica",
@@ -1379,6 +1363,22 @@
       "duration_ms": 137142,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "So Good (Heat Mix)",
+        "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "So Good - Heat Mix",
+      "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1529,6 +1529,26 @@
       "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "212",
@@ -1551,26 +1571,6 @@
       "duration_ms": 138750,
       "name": "212",
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 134170,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1829,24 +1829,20 @@
       "url": "https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fired Up (feat. Dope Earth Alien)",
-        "url": "https://open.spotify.com/album/4CygDgkQ7CQ62hcjc9JohI"
+        "name": "FIREFLY",
+        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
       },
       "artists": [
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
         }
       ],
-      "duration_ms": 142851,
-      "name": "Fired Up (feat. Dope Earth Alien)",
-      "url": "https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh"
+      "duration_ms": 177261,
+      "name": "FIREFLY",
+      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1869,20 +1865,24 @@
       "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "FIREFLY",
-        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
+        "name": "Fired Up (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/4CygDgkQ7CQ62hcjc9JohI"
       },
       "artists": [
         {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
         }
       ],
-      "duration_ms": 177261,
-      "name": "FIREFLY",
-      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
+      "duration_ms": 142851,
+      "name": "Fired Up (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1905,6 +1905,22 @@
       "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Heard About Me",
+        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Heard About Me",
+      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
       "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Firestarter",
@@ -1923,22 +1939,6 @@
       "duration_ms": 184290,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Heard About Me",
-        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Heard About Me",
-      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2185,6 +2185,34 @@
       "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Somedays (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/10CinkYqwArHgBNujRZmQK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 197582,
+      "name": "Somedays - Dombresky Remix",
+      "url": "https://open.spotify.com/track/751KIBXXbsEoaHGvIVLRRn"
+    },
+    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "What You Looking For",
@@ -2273,22 +2301,6 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Hey Girls, B-Boys",
-        "url": "https://open.spotify.com/album/53cNILMDLUc25kp4DMNt9P"
-      },
-      "artists": [
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Hey Girls, B-Boys",
-      "url": "https://open.spotify.com/track/79GMf6RewQhaYZfFvegwJB"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "What About Me",
@@ -2303,6 +2315,22 @@
       "duration_ms": 195250,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/2H0CEWirJNz7k3tr9SPP2B"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Hey Girls, B-Boys",
+        "url": "https://open.spotify.com/album/53cNILMDLUc25kp4DMNt9P"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 144230,
+      "name": "Hey Girls, B-Boys",
+      "url": "https://open.spotify.com/track/79GMf6RewQhaYZfFvegwJB"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2347,30 +2375,6 @@
       "duration_ms": 178124,
       "name": "Weak - Marco Lys Remix",
       "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Rich Baby Daddy",
-        "url": "https://open.spotify.com/album/110HTF5Y9YMhIPj9pmCUqe"
-      },
-      "artists": [
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "GIOC",
-          "url": "https://open.spotify.com/artist/6nqTwYWJ3UthsUrcL17OHA"
-        },
-        {
-          "name": "Eric Olliver",
-          "url": "https://open.spotify.com/artist/5uYToXpi2lLrYqV1tzxfZA"
-        }
-      ],
-      "duration_ms": 150634,
-      "name": "Rich Baby Daddy",
-      "url": "https://open.spotify.com/track/3gfNpIwauhswUG1WB9tfHa"
     }
   ],
   "unique_name": "Tech House Operator",

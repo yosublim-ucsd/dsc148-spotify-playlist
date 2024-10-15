@@ -2137,6 +2137,46 @@
     },
     {
       "album": {
+        "name": "Selamanya",
+        "url": "https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c"
+      },
+      "artists": [
+        {
+          "name": "Satine Zaneta",
+          "url": "https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235038,
+      "name": "Selamanya",
+      "url": "https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx"
+    },
+    {
+      "album": {
+        "name": "Cinta & Doa",
+        "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
+      },
+      "artists": [
+        {
+          "name": "Andmesh",
+          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+        },
+        {
+          "name": "Ria Laoere",
+          "url": "https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Selamanya Untukku",
+      "url": "https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT"
+    },
+    {
+      "album": {
         "name": "Semesta Menari",
         "url": "https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh"
       },

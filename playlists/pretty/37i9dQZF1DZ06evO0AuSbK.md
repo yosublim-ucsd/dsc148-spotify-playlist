@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 
 > This is Limp Bizkit\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,181 likes - 42 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,293 likes - 42 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 23 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 |
 | 24 | [Just Drop Dead](https://open.spotify.com/track/7oGFLiay0XopGrUiYbZKHC) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Eat You Alive](https://open.spotify.com/album/5Bu9ucyQatIFNf6dm0lzpX) | 4:04 |
 | 25 | [Lonely World](https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:33 |
-| 26 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
-| 27 | [Pollution](https://open.spotify.com/track/2Gle7uL36Pg0FZKuNtW30v) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 3:52 |
+| 26 | [Pollution](https://open.spotify.com/track/2Gle7uL36Pg0FZKuNtW30v) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 3:52 |
+| 27 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
 | 28 | [Shotgun](https://open.spotify.com/track/4H5tQdRchZaGpwoz56qRQa) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 4:32 |
 | 29 | [Almost Over](https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:38 |
-| 30 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
-| 31 | [Stuck](https://open.spotify.com/track/1CP8UCFq3Buyg4MN8mZUka) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:24 |
+| 30 | [Stuck](https://open.spotify.com/track/1CP8UCFq3Buyg4MN8mZUka) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:24 |
+| 31 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
 | 32 | [Shark Attack](https://open.spotify.com/track/1oQIVInvZ4e92v1bOzrUgD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:26 |
 | 33 | [Build A Bridge](https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
 | 34 | [The Truth](https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:25 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 41 | [Why](https://open.spotify.com/track/3U0twJ3eXYEgEo0hh5Osh0) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 4:05 |
 | 42 | [The Propaganda](https://open.spotify.com/track/7m8leIR2d0XtLWm1lPXaKu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:16 |
 
-Snapshot ID: `Zwm8AAAAAAC37BehIwJxQDgE5K2jVZyA`
+Snapshot ID: `ZwsNgAAAAACdBDgNJZo5OFaVRUO9onoO`

@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 231574,
+  "num_followers": 231624,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
-      "added_at": "2023-07-28 21:28:53",
-      "album": {
-        "name": "Blackbox Life Recorder 21f / in a room7 F760",
-        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Blackbox Life Recorder 22 [Parallax Mix]",
-      "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Articulation",
@@ -357,6 +341,22 @@
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
+      "added_at": "2023-07-28 21:28:53",
+      "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Blackbox Life Recorder 22 [Parallax Mix]",
+      "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
+    },
+    {
       "added_at": "2024-01-02 19:57:01",
       "album": {
         "name": "Endless Summer",
@@ -371,6 +371,22 @@
       "duration_ms": 248758,
       "name": "Before I Leave",
       "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
+    },
+    {
+      "added_at": "2023-01-07 02:10:08",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
     },
     {
       "added_at": "2023-11-23 03:12:41",
@@ -391,22 +407,6 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
-    },
-    {
-      "added_at": "2023-01-07 02:10:08",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
     },
     {
       "added_at": "2022-09-27 23:17:09",
@@ -455,6 +455,22 @@
       "duration_ms": 252733,
       "name": "Haut",
       "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+    },
+    {
+      "added_at": "2022-07-06 16:48:39",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 331514,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2022-03-30 15:08:41",
@@ -507,22 +523,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2022-07-06 16:48:39",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 331514,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2022-09-15 12:23:59",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "These Days Don't Exist",
         "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 225136,
       "name": "Dream Walk",
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
-      "added_at": "2022-08-31 04:01:41",
-      "album": {
-        "name": "El Caso Figo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 281986,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
-    },
-    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -751,6 +735,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2022-08-31 04:01:41",
+      "album": {
+        "name": "El Caso Figo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 281986,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
-      },
-      "artists": [
-        {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
-        }
-      ],
-      "duration_ms": 307546,
-      "name": "Tangente",
-      "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
-    },
-    {
       "added_at": "2022-02-25 03:33:17",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -847,6 +831,22 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "duration_ms": 307546,
+      "name": "Tangente",
+      "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Onism",
         "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 198881,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Ardour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 131709,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Dub Protection & The Sportswear Mystics",
         "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ardour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 131709,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2022-02-25 03:59:46",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Suiseki",
@@ -1231,6 +1215,22 @@
       "duration_ms": 210443,
       "name": "Temple",
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
+    },
+    {
+      "added_at": "2022-02-25 03:59:46",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
-      },
-      "artists": [
-        {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
-        }
-      ],
-      "duration_ms": 533106,
-      "name": "Lost You in the Fog",
-      "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
-    },
-    {
       "added_at": "2023-03-31 19:28:25",
       "album": {
         "name": "Verve EP",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
+      },
+      "artists": [
+        {
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
+        }
+      ],
+      "duration_ms": 533106,
+      "name": "Lost You in the Fog",
+      "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "1234,8",
         "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 358862,
       "name": "161,1",
       "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
+    },
+    {
+      "added_at": "2024-02-08 23:12:47",
+      "album": {
+        "name": "onomatopoeia",
+        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
+      },
+      "artists": [
+        {
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
+        }
+      ],
+      "duration_ms": 269812,
+      "name": "tdU_du_tdu_tdu",
+      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
       "added_at": "2023-03-03 04:07:38",
@@ -1349,22 +1365,6 @@
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
-      "added_at": "2024-02-08 23:12:47",
-      "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
-    },
-    {
       "added_at": "2023-08-17 17:21:25",
       "album": {
         "name": "Circuit Current",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Ardour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 131944,
-      "name": "Double Fifths",
-      "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "R\u00f6schen",
         "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 199455,
       "name": "R\u00f6schen - Edit",
       "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ardour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 131944,
+      "name": "Double Fifths",
+      "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
     },
     {
       "added_at": "2023-05-24 01:46:16",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "On danse comme des fous",
         "url": "https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 208375,
       "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0437\u043d\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
-      },
-      "artists": [
-        {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2022-01-12 18:40:19",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Nightwidth",
-        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
-      },
-      "artists": [
-        {
-          "name": "Anders Ilar",
-          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
-        }
-      ],
-      "duration_ms": 439786,
-      "name": "Riding Metal Mosquitos",
-      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
-    },
-    {
       "added_at": "2023-03-22 17:48:40",
       "album": {
         "name": "Los muertos no lloran",
@@ -1551,6 +1535,22 @@
       "duration_ms": 340590,
       "name": "Los muertos no lloran",
       "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Nightwidth",
+        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
+      },
+      "artists": [
+        {
+          "name": "Anders Ilar",
+          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
+        }
+      ],
+      "duration_ms": 439786,
+      "name": "Riding Metal Mosquitos",
+      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
       "added_at": "2021-10-06 04:42:05",

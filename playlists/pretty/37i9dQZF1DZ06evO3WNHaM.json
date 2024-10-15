@@ -1,12 +1,12 @@
 {
-  "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 384883,
+  "description": "This Is Deftones. Los temas esenciales, todos en una lista.",
+  "num_followers": 385046,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADXGkJQKzzmndzFsjrNw7rP",
+  "snapshot_id": "ZwsNgAAAAACR+YXrozDWAt8GTxmYzTp7",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Mein",
-      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Root",
-      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+      "duration_ms": 238040,
+      "name": "Mein",
+      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Gallant
 
-1,307 songs - 2 day 20 hr 59 min
+1,308 songs - 2 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Hey, Love!](https://open.spotify.com/track/5HR4E0PlY8bIyF1aVukVCj) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Hey, Love!](https://open.spotify.com/album/2M3rb1vhyQmiiPFZKMSoJM) | 2:29 | 2023-09-08 | 2024-06-29 |
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2022-04-01 | 2022-04-15 |
 | [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 | 2023-05-26 | 2023-06-16 |
+| [hillside](https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [hillside](https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR) | 2:52 | 2024-09-06 |  |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-04-01 | 2022-08-09 |
 | [Hold Me](https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Hold Me](https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA) | 2:43 | 2022-10-28 | 2023-02-11 |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-25 |
@@ -565,7 +566,7 @@
 | [i'm fine](https://open.spotify.com/track/3FiUsaCzKWi943pk0G9F0o) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [i'm fine](https://open.spotify.com/album/0gnssKPBCFAvjVhjAU74ca) | 1:40 | 2022-07-15 | 2022-08-20 |
 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-08 | 2024-06-29 |
 | [Icarus](https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Icarus](https://open.spotify.com/album/2pfKIrc0KoZvJ6DK7bLXbY) | 2:29 | 2021-03-19 | 2022-01-23 |
-| [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-09 |  |
+| [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-09 | 2024-10-15 |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-25 | 2023-09-30 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-21 | 2022-07-23 |
 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-10-07 | 2023-02-11 |

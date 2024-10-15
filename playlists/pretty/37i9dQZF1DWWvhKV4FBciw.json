@@ -1,6 +1,6 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1766637,
+  "num_followers": 1766852,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
+        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
+        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Stomp! - Single Version",
+      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 544640,
       "name": "People Get Up And Drive Your Funky Soul - Remix",
       "url": "https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
-        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
-        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Stomp! - Single Version",
-      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -895,18 +895,22 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
       "artists": [
         {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
         }
       ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -927,22 +931,18 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
         }
       ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Soul Queen",
         "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 212360,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
       },
       "artists": [
         {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 215840,
-      "name": "So Ruff, so Tuff",
-      "url": "https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i"
+      "duration_ms": 185533,
+      "name": "Family Affair - Single Version",
+      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Family Affair - Single Version",
-      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
+      "duration_ms": 215840,
+      "name": "So Ruff, so Tuff",
+      "url": "https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i"
     },
     {
       "added_at": "2024-07-12 16:10:47",

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24201,
+  "num_followers": 24202,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "B\u00f3rrame el Dolor \u2606",
-        "url": "https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        },
-        {
-          "name": "Supernova",
-          "url": "https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq"
-        }
-      ],
-      "duration_ms": 223110,
-      "name": "B\u00f3rrame el Dolor \u2606",
-      "url": "https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Qui\u00e9n Me Escucha",
         "url": "https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 198149,
       "name": "Qui\u00e9n Me Escucha",
       "url": "https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "B\u00f3rrame el Dolor \u2606",
+        "url": "https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        },
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq"
+        }
+      ],
+      "duration_ms": 223110,
+      "name": "B\u00f3rrame el Dolor \u2606",
+      "url": "https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
+        "name": "Rayo El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
       "artists": [
         {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
         },
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+      "duration_ms": 258629,
+      "name": "Rayo El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Rayo El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
       "artists": [
         {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         },
         {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 258629,
-      "name": "Rayo El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+      "duration_ms": 183500,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "El Magnetismo",
-        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Cuando Se Apague Todo",
         "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 228443,
       "name": "Cuando Se Apague Todo",
       "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "El Magnetismo",
+        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Emocionalmente Tuya",
-        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Emocionalmente Tuya",
-      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Regresar\u00e1s \u2606",
         "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 219681,
       "name": "Regresar\u00e1s \u2606",
       "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Lucidez",
+        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 371735,
+      "name": "Lucidez",
+      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Peces Raros (Vivo Buenos Aires)",
         "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 144116,
       "name": "Te quiero ver",
       "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Lucidez",
-        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
-      },
-      "artists": [
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 371735,
-      "name": "Lucidez",
-      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1735,18 +1735,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "MA\u00d1ANA ES PEOR :(",
-        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
+        "name": "No Ves Tal Vez (Evlay Remix)",
+        "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
       "artists": [
         {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
         }
       ],
-      "duration_ms": 225746,
-      "name": "PARQUE DE LA COSTA",
-      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
+      "duration_ms": 313608,
+      "name": "No Ves Tal Vez - Evlay Remix",
+      "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
     },
     {
       "added_at": "2024-08-23 03:00:00",

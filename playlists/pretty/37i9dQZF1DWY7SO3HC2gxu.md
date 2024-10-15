@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Sofiya Nzau, Nomcebo Zekode, Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,450 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,459 likes - 85 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2072525,
+  "num_followers": 2072497,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Se Prepar\u00f3",
-      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 194080,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -411,26 +411,6 @@
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -463,6 +443,26 @@
       "duration_ms": 252346,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/5xLAcbvbSAlRtPXnKkggXA"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/6a8GbQIlV8HBUW3c6Uk9PH"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
         "name": "Cumbias Para Bailar",
         "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-07-11 16:34:57",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/5xLAcbvbSAlRtPXnKkggXA"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/6a8GbQIlV8HBUW3c6Uk9PH"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 210626,
       "name": "Bidi Bidi Bom Bom - 1994 Version",
       "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
-    },
-    {
-      "added_at": "2024-07-11 16:34:57",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2024-07-11 16:34:57",
@@ -1627,6 +1611,22 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+    },
+    {
+      "added_at": "2024-07-11 16:34:57",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2024-07-11 16:34:57",

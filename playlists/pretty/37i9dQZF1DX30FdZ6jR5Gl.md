@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30FdZ6jR5Gl.md) - [plain]
 
 > An introduction to American composer Philip Glass \(b\. 1937\), whose hypnotic and powerful music has become part of our cultural soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,734 likes - 47 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,762 likes - 47 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30FdZ6jR5Gl.md) - [plain]
 | 2 | [Mishima: Blood Oath](https://open.spotify.com/track/6Y3JXsXRN3Uh37225YxAKl) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/1Ym2xfkbYM2QZqBty2cTGU) | [Philip Glass: Portrait](https://open.spotify.com/album/7piXYhtgoZj5dPDHkjGE0y) | 3:15 |
 | 3 | [Secret Agent](https://open.spotify.com/track/6hWOzchcVbVHuyA5Mb88bs) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Philip Glass: The Secret Agent](https://open.spotify.com/album/4ybEJTW7MTjFhej34mGmep) | 4:51 |
 | 4 | [Etude No\. 2](https://open.spotify.com/track/5bi8ryL6gy6a1BRXOf43y9) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Etudes for Piano Vol 1 No\. 1\-10](https://open.spotify.com/album/5Ya7ft5JteI5pIS4eCMKOC) | 4:55 |
-| 5 | [Facades](https://open.spotify.com/track/17Ymh369W4qCPXYzndYurO) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Michael Riesman](https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1) | [Glassworks \- Expanded Edition](https://open.spotify.com/album/1My9AZY0XBwVwwy1DDVSQS) | 7:21 |
+| 5 | [Facades](https://open.spotify.com/track/17Ymh369W4qCPXYzndYurO) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Michael Riesman](https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1), [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp) | [Glassworks \- Expanded Edition](https://open.spotify.com/album/1My9AZY0XBwVwwy1DDVSQS) | 7:21 |
 | 6 | [String Quartet no\. 2 "Company": II.](https://open.spotify.com/track/74ABFfTOF0Bsq4RRKVfDxs) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Dublin Guitar Quartet](https://open.spotify.com/artist/2HlDze2dhT575tHcGzZcT5) | [The Dublin Guitar Quartet performs Philip Glass](https://open.spotify.com/album/2JSDiHyjo42UEL07mKVzg2) | 1:46 |
 | 7 | [Concerto for Saxophone Quartet: Movement I](https://open.spotify.com/track/6y34pSTyU4j9wxPnTuIzua) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [The Raschèr Saxophone Quartet](https://open.spotify.com/artist/5rOaxFxp2vk3KURqOCJO7j), [Dennis Russell Davies](https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8) | [Philip Glass: The Concerto Project, Vol\. III](https://open.spotify.com/album/0d6tJiedEfgRHGZc9VjRFi) | 6:22 |
 | 8 | [Knee 5](https://open.spotify.com/track/5LBTIPGXEn7I7ON0BB961z) | [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp) | [Glass: Einstein on the Beach](https://open.spotify.com/album/27OF0Qk1FnCZVvsyNP4L1j) | 8:04 |

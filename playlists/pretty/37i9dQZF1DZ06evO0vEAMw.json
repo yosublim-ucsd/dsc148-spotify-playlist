@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 82896,
+  "num_followers": 82947,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABM7URqe7GgimNy7w7KzQTn",
+  "snapshot_id": "ZwsNgAAAAAC+I17q9l2x5ecNMyoUUl6h",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breezy (Deluxe)",
         "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 179080,
       "name": "Nobody Has To Know (feat. Davido)",
       "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
     },
     {
       "added_at": null,
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 202222,
+      "name": "FEM",
+      "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Money",
         "url": "https://open.spotify.com/album/6fvuVCY2ORKjNdHdR1GOMU"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 221596,
       "name": "The Money",
       "url": "https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 202222,
-      "name": "FEM",
-      "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
     },
     {
       "added_at": null,

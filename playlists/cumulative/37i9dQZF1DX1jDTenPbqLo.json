@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61613,
+      "name": "Laurie and Jo on the Hill",
+      "url": "https://open.spotify.com/track/4xui9WfNYFy7DKZfFBzSQA"
+    },
+    {
+      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des animaux, R.125 - 13. The Swan (Arr. Cello, Harp & Ensemble)",
         "url": "https://open.spotify.com/album/4DRlCuB51rWJhnE1fDFDKC"
       },

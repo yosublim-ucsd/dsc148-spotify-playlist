@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "A Lonely Walk",
+        "url": "https://open.spotify.com/album/7z3Ybpfqcbdjv5riUCh05d"
+      },
+      "artists": [
+        {
+          "name": "Herman Fred Trio",
+          "url": "https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "A Lonely Walk",
+      "url": "https://open.spotify.com/track/2BY6E8FQnKEtZKp6zxguv5"
+    },
+    {
+      "album": {
         "name": "A Long Day",
         "url": "https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 217968,
       "name": "A Minor Thing",
       "url": "https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 223654,
       "name": "Blue Quarter",
       "url": "https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G"
@@ -3449,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1VXahXA1DTUj5sbi2oBpGI"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183562,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1"
+    },
+    {
+      "album": {
         "name": "Echoes of Elegance",
         "url": "https://open.spotify.com/album/0S1X3z1LbNOqeRNzRjKDHn"
       },
@@ -3608,6 +3644,24 @@
       "duration_ms": 156841,
       "name": "End of Spring",
       "url": "https://open.spotify.com/track/5WT0ix5s8hhENzQseg8j0t"
+    },
+    {
+      "album": {
+        "name": "Endless Days",
+        "url": "https://open.spotify.com/album/1n1D2WiBN1G3bC4YNrsU6J"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Endless Days",
+      "url": "https://open.spotify.com/track/4XDwiR78GhH02o4SIqXOj7"
     },
     {
       "album": {
@@ -4180,7 +4234,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 174113,
       "name": "For a While",
       "url": "https://open.spotify.com/track/4sNhuHtjf2TYXIzOMUQgWX"
@@ -4792,7 +4846,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 212110,
       "name": "Heaven here",
       "url": "https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ"
@@ -6754,7 +6808,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 176508,
       "name": "Jazz Noir Nightscape",
       "url": "https://open.spotify.com/track/5IAnYEubDYn72p8Lhoa3m4"
@@ -9778,7 +9832,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 155381,
       "name": "Offscreen",
       "url": "https://open.spotify.com/track/0SejxxbVr8Hj7YPu5uqqvV"
@@ -10246,7 +10300,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 204040,
       "name": "Place Under the Sun",
       "url": "https://open.spotify.com/track/4x1NJb0hSXhT042UVh6jky"
@@ -13196,7 +13250,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 229756,
       "name": "The yellow note",
       "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
@@ -13268,7 +13322,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 299349,
       "name": "There Will Be Better Days",
       "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"

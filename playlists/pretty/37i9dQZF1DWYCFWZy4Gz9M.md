@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,234 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,245 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 12 | [Sandiya](https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp) | [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Ifrikya](https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw) | 4:37 |
 | 13 | [La Ilaha Illa Allah](https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa Or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 10:17 |
 | 14 | [Alwali Ya Moulay Ahmed](https://open.spotify.com/track/6IBs1Ihaw7bL2oghbcJRAK) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Soirées Gnawa Neurasys Remaster, Vol\. 5](https://open.spotify.com/album/1yADz9TsbPu4nrlIPOwL02) | 11:25 |
-| 15 | [Goumari](https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Sidi Kmmy](https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR) | 4:01 |
-| 16 | [Katibala \(Live\)](https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live at Village Studios](https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL) | 6:25 |
+| 15 | [Katibala \(Live\)](https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live at Village Studios](https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL) | 6:25 |
+| 16 | [Goumari](https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Sidi Kmmy](https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR) | 4:01 |
 | 17 | [Baba Mimoun \(Father Mimoun\)](https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N) | [Altaf Gnawa Group](https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn) | [Altaf Gnawa Group: Gnawa \- Music From Morocco](https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7) | 6:15 |
 | 18 | [Toura toura \(arr\. N\. Eddine\)](https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq) | [Nour Eddine](https://open.spotify.com/artist/4fKUpodRphVtdVBf06FHgO), [Nour Eddine Fatty](https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx) | [Morocco: Traditional Songs & Music](https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V) | 4:21 |
 | 19 | [Boulila](https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG) | [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Moussa bahri](https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O) | [Ben Souda Group](https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l) | [Gnawa \- Sahara Desert Music](https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P) | 9:06 |
 | 50 | [Baniya](https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T) | [Rabii Harnoune](https://open.spotify.com/artist/7ul9FxrfzNQuEjy9JplFef), [V.B.Kühl](https://open.spotify.com/artist/1fSETgHPMH1kmGRA6qq0pP) | [Baniya](https://open.spotify.com/album/728cVMrc6Fr1U4cg9TzPXS) | 6:19 |
 
-Snapshot ID: `ZtGWVAAAAACLq2XTk5DEKs8rpB9SO8W1`
+Snapshot ID: `ZwzH1AAAAADFU0rhC1MFLH/cLbAeH+x6`

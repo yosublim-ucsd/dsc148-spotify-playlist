@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 231804,
+  "num_followers": 231918,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 261293,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+      "duration_ms": 265840,
+      "name": "Como Tu Mujer - Banda",
+      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -535,22 +539,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Como Tu Mujer - Banda",
-      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "En Vivo desde El Foro Lizos Music Vol. II",
+        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 226266,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "En Vivo desde El Foro Lizos Music Vol. II",
-        "url": "https://open.spotify.com/album/7FrqHN8S3QQNnN9Z7ZHXhI"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "Para Dejarte de Querer",
+        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
+      "duration_ms": 184833,
+      "name": "Presiento Que Voy a Llorar - Con Banda",
+      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Para Dejarte de Querer",
-        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 184833,
-      "name": "Presiento Que Voy a Llorar - Con Banda",
-      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
+      "duration_ms": 228160,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6"
+      "duration_ms": 194506,
+      "name": "Arrepentida Y Sola",
+      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Sigo en la Jugada",
-        "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Si No Te Hubieras Ido",
         "url": "https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 292236,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Sigo en la Jugada",
+        "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
     },
     {
       "added_at": "2024-08-23 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > the use of Tom Odell in heartstopper??? jail and applause 🥲🥲🥲
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152,809 likes - 106 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,152,508 likes - 106 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

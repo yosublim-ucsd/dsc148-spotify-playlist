@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Dancing Mood en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,231 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,287 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 78 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
 | 79 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
 | 80 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
-| 81 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
-| 82 | [El Túnel Del Amor](https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Túnel Del Amor](https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ) | 3:42 |
+| 81 | [El Túnel Del Amor](https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Túnel Del Amor](https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ) | 3:42 |
+| 82 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
 | 83 | [A partir de ahí](https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [A medio camino](https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs) | 2:52 |
 | 84 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
 | 85 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 89 | [El Diablo](https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [El Diablo](https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW) | 2:22 |
 | 90 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
 | 91 | [Es lo que hay](https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Baile Infinito](https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR) | 3:18 |
-| 92 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
-| 93 | [Mezcal](https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Mezcal](https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL) | 3:15 |
-| 94 | [Noche Ardiente](https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz) | [Miguel Chinchilla](https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb) | [Noche Ardiente](https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN) | 2:27 |
-| 95 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 96 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
-| 97 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
-| 98 | [Entre fantasmas](https://open.spotify.com/track/5B5uRoFjvNL5ydjgOjzgKd) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Alo con las islas mutantes?](https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM) | 3:07 |
-| 99 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
+| 92 | [Mezcal](https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Mezcal](https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL) | 3:15 |
+| 93 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 94 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
+| 95 | [Noche Ardiente](https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz) | [Miguel Chinchilla](https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb) | [Noche Ardiente](https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN) | 2:27 |
+| 96 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
+| 97 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
+| 98 | [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 |
+| 99 | [Entre fantasmas](https://open.spotify.com/track/5B5uRoFjvNL5ydjgOjzgKd) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Alo con las islas mutantes?](https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM) | 3:07 |
 | 100 | [El Camino de la Verdad](https://open.spotify.com/track/2PwYrj7ihUMiNVqOIt6eR0) | [RU\-2](https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf) | [El Camino de la Verdad](https://open.spotify.com/album/6vtxPKIwa2Lqk4Wenh4OWU) | 4:21 |
 
 Snapshot ID: `ZvZJ4AAAAAD4vNzO5GUhTwgRCaOBcAMz`

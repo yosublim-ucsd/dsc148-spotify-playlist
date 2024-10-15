@@ -2736,10 +2736,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 196213,
       "name": "Get Used To Me",
       "url": "https://open.spotify.com/track/2hPv8ZMQUo99h3wGVfebzQ"
+    },
+    {
+      "album": {
+        "name": "The Sapphires",
+        "url": "https://open.spotify.com/album/3Bz3Kq37DkcJJT6JQCbWyA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196213,
+      "name": "Get Used To Me",
+      "url": "https://open.spotify.com/track/3gZmeRaZOoooNWqfqKR0GO"
     },
     {
       "album": {

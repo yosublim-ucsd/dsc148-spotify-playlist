@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,626 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,640 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 26 | [Pretty Little Raver](https://open.spotify.com/track/4Ppdt9mETYFVcN1lQJHEJA) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Pretty Little Raver](https://open.spotify.com/album/5EMbeN8ZYxnlEcTQiLveUk) | 2:23 |
 | 27 | [While The Record Spins](https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [While The Record Spins](https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr) | 3:07 |
 | 28 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 |
-| 29 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
-| 30 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
+| 29 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
+| 30 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
 | 31 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
 | 32 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 |
 | 33 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |

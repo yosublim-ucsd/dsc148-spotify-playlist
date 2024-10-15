@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: Pitou, LUWTEN & Naaz
 
-137 songs - 7 hr 54 min
+138 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Just a Game](https://open.spotify.com/track/7814wZdvnAgpQa2OMNMl4n) | [abrahamblue](https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g) | [Just a Game](https://open.spotify.com/album/45ZlCFwhJBSBHtdRcF6odC) | 2:36 | 2024-08-30 |  |
 | [Kaleidoscope](https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Kaleidoscope](https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U) | 3:22 | 2024-06-24 | 2024-09-20 |
 | [Leave It](https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Leave It](https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04) | 4:08 | 2024-09-13 | 2024-10-04 |
-| [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-24 |  |
+| [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-24 | 2024-10-15 |
 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 | 2024-06-24 | 2024-10-04 |
 | [Long Dark Sleep](https://open.spotify.com/track/6NHxA1LJZjpexoXo8cwiCz) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Long Dark Sleep](https://open.spotify.com/album/7Aixb2p4RnrOCOdKECOK6h) | 2:55 | 2024-08-01 |  |
 | [Long To Be](https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Long To Be](https://open.spotify.com/album/08nya3WQcReGtynYWaH7Tu) | 4:30 | 2024-07-26 |  |
@@ -87,6 +87,7 @@
 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-07-09 |  |
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-05 |  |
 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-10-04 |  |
+| [miss u](https://open.spotify.com/track/4BQFr6YeljwNfs9g3DL6Nc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [miss u](https://open.spotify.com/album/0NRm4VWhqazZsWtXu4LAIl) | 3:22 | 2024-10-14 |  |
 | [Miss You](https://open.spotify.com/track/37wueS34bitqZI6O0QfgQB) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Miss You](https://open.spotify.com/album/778XeIiWHwnTEloYYAGkzI) | 3:55 | 2024-06-24 | 2024-07-27 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-24 | 2024-09-06 |
 | [Model, Actress, Whatever](https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Model, Actress, Whatever](https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2) | 3:32 | 2024-09-13 |  |

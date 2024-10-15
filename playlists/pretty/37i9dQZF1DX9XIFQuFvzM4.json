@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3637768,
+  "num_followers": 3637817,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Hallelujah, I Love Her So",
-      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Hallelujah, I Love Her So",
+      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Black Caesar",
         "url": "https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Texas Moon",
@@ -639,6 +623,22 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Story Of Cornelius Brothers & Sister Rose",
         "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 198693,
       "name": "Too Late To Turn Back Now",
       "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "This Girl's in Love with You",
         "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 199266,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
     {
       "added_at": "2024-02-29 20:11:01",
@@ -1321,24 +1321,20 @@
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
     },
     {
-      "added_at": "2023-03-28 15:59:00",
+      "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Lotus Glow",
-        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 219146,
-      "name": "Adonis - Feat. KIRBY",
-      "url": "https://open.spotify.com/track/1Q6n0mQqqOCXsUGGKxQmrV"
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1373,36 +1369,24 @@
       "url": "https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
+      "added_at": "2023-03-28 15:59:00",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+        "name": "Lotus Glow",
+        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Forever: The Complete Motown Albums, Volume 1",
-        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
-      },
-      "artists": [
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 149400,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
+      "duration_ms": 219146,
+      "name": "Adonis - Feat. KIRBY",
+      "url": "https://open.spotify.com/track/1Q6n0mQqqOCXsUGGKxQmrV"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1419,6 +1403,22 @@
       "duration_ms": 185226,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Forever: The Complete Motown Albums, Volume 1",
+        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
     },
     {
       "added_at": "2022-02-28 20:07:33",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Wilson Pickett: A Man and a Half",
-        "url": "https://open.spotify.com/album/3ZBs6g81ZySWcc7XXzLQLB"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/7mRak6wBx9OGKXr3zStoHW"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Wilson Pickett: A Man and a Half",
+        "url": "https://open.spotify.com/album/3ZBs6g81ZySWcc7XXzLQLB"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/7mRak6wBx9OGKXr3zStoHW"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Rhino Hi-Five: Wilson Pickett",
+        "url": "https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Very Best Of Marvin Gaye",
         "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
       },
@@ -2347,38 +2363,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Rhino Hi-Five: Wilson Pickett",
-        "url": "https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
-        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Favorites",
         "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
+        "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
     },
     {
       "added_at": "2024-02-23 05:01:00",

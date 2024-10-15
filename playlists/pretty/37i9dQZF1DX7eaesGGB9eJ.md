@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,456 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,517 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 23 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 24 | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP) | [Tha Mexakinz](https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN) | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7) | 3:47 |
 | 25 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE) | [El Chivo](https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7) | [Si Ladran No Muerden](https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J) | 4:26 |
-| 26 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
+| 26 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
 | 27 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
-| 28 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
+| 28 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
 | 29 | [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 |
 | 30 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
 | 31 | [La Pelotona](https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:41 |

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Nico Collins and C\. J\. Stroud
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Vince Carter
 
 691 songs - 1 day 10 hr 53 min
 

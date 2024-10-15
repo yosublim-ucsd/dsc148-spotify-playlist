@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,478 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,549 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 48 | [Dona do Rolê](https://open.spotify.com/track/5PIppheInDGkAo5W68w1ow) | [Bárbara Labres](https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81) | [Dona do Rolê](https://open.spotify.com/album/4RyMPAOzowymsswvzetDwU) | 2:40 |
 | 49 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 |
 | 50 | [STR!PP3R](https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [STR!PP3R](https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9) | 3:07 |
-| 51 | [Vênus \(feat\. Aísha\)](https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Aisha](https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y) | [Vênus](https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb) | 3:50 |
-| 52 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
+| 51 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
+| 52 | [Vênus \(feat\. Aísha\)](https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Aisha](https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y) | [Vênus](https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb) | 3:50 |
 | 53 | [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 |
 | 54 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 | 55 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |

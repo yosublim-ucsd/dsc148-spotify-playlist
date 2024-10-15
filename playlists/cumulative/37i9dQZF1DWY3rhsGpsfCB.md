@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-664 songs - 1 day 10 hr 29 min
+665 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,13 @@
 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-17 | 2024-02-03 |
 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-10-06 | 2023-11-05 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-06-23 |
+| [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-14 |  |
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-10 | 2024-06-21 |
 | [4ever](https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:38 | 2023-12-15 | 2024-03-09 |
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 | 2023-11-03 |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-13 | 2023-02-17 |
 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 | 2024-06-14 | 2024-09-10 |
-| [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 |  |
+| [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 | 2024-10-15 |
 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 | 2024-07-19 |  |
 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 | 2023-06-02 | 2024-04-01 |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-05-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1026194,
+  "num_followers": 1026215,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Fr\u00eda",
         "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1475,6 +1475,30 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "OMG (Remix)",
+        "url": "https://open.spotify.com/album/0EXfIJ4nlIWMfgMpSt8Xxe"
+      },
+      "artists": [
+        {
+          "name": "Candelita",
+          "url": "https://open.spotify.com/artist/4WzBqbc7fxl2y8XrznMSqf"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 131144,
+      "name": "OMG - Remix",
+      "url": "https://open.spotify.com/track/46y7qVfQdcDCeo2pA868Ra"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Melanc\u00f3licos An\u00f3nimos",
         "url": "https://open.spotify.com/album/5HEZa0uEQUB1ykC4abAvxX"
       },
@@ -1511,6 +1535,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -1531,22 +1571,6 @@
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1623,30 +1647,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "OMG (Remix)",
-        "url": "https://open.spotify.com/album/0EXfIJ4nlIWMfgMpSt8Xxe"
-      },
-      "artists": [
-        {
-          "name": "Candelita",
-          "url": "https://open.spotify.com/artist/4WzBqbc7fxl2y8XrznMSqf"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 131144,
-      "name": "OMG - Remix",
-      "url": "https://open.spotify.com/track/46y7qVfQdcDCeo2pA868Ra"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Nuestro A\u00f1o",
         "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 212466,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Dame Un Break",
-        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Dame Un Break",
-      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica (En Las Nubes)",
         "url": "https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD"
       },
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "RANGOS",
+      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "La Vida Es Una Fiesta",
         "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
       },
@@ -1823,42 +1839,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Afro Vibes",
-        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+        "name": "Francotirador",
+        "url": "https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "RANGOS",
-      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
+      "duration_ms": 143840,
+      "name": "Francotirador",
+      "url": "https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

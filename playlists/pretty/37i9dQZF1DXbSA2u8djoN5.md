@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,111 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,115 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 37 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 38 | [ABRACADABRA](https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [ABRACADABRA](https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX) | 2:41 |
 | 39 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
-| 40 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 |
-| 41 | [Generația de suflet](https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Generația de suflet](https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0) | 2:33 |
+| 40 | [Generația de suflet](https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Generația de suflet](https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0) | 2:33 |
+| 41 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 |
 | 42 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
 | 43 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
 | 44 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
 | 45 | [iNGER](https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [iNGER](https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw) | 3:21 |
 | 46 | [7 văi și o vale](https://open.spotify.com/track/0mLDTm9K7vbdjtnSGjYwxG) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [7 văi și o vale](https://open.spotify.com/album/0ZCxIHLBxERqxBRVaJslpQ) | 2:43 |
-| 47 | [Victoria](https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Cel mai frumos show](https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b) | 2:54 |
-| 48 | [Un vibe](https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Seredinschi](https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN) | [Un vibe](https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG) | 2:19 |
+| 47 | [Un vibe](https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Seredinschi](https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN) | [Un vibe](https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG) | 2:19 |
+| 48 | [Victoria](https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Cel mai frumos show](https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b) | 2:54 |
 | 49 | [Adevaru' obscen](https://open.spotify.com/track/31Xr1dMPE183zUQbEpgqHG) | [Alan](https://open.spotify.com/artist/6bed33pnmAGVK3hyip7xo4), [Cheloo](https://open.spotify.com/artist/6JK8YGmVPJR1FM7P9BSQtE) | [31 Februarie](https://open.spotify.com/album/1sy5FydU38TaXUe6dbdb1A) | 2:49 |
 | 50 | [SLIPPERȘI NOI](https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [SLIPPERȘI NOI](https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H) | 2:46 |
 

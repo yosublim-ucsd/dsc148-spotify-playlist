@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11622,
+  "num_followers": 11625,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAqRthaA0j7GGPpKKvWsWBU",
+  "snapshot_id": "ZwsNgAAAAAC/7TBCmyhX7KDM7olza+pi",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Alegres De Ter\u00e1n, Sus Mejores Corridos Y Rancheras Contestadas",
         "url": "https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc"
       },
@@ -511,34 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
-        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+        "name": "Canciones Contestadas",
+        "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
       },
       "artists": [
         {
           "name": "Los Alegres De Teran",
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tesoros de Colecci\u00f3n - Los Mejores Duetos Rancheros de la Historia",
-        "url": "https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ"
-      },
-      "artists": [
+        },
         {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+          "name": "Las Jilgueritas",
+          "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
         }
       ],
-      "duration_ms": 151746,
-      "name": "Flor del R\u00edo",
-      "url": "https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO"
+      "duration_ms": 167800,
+      "name": "La Mosca",
+      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
     },
     {
       "added_at": null,
@@ -559,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Contestadas",
-        "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
+        "name": "Tesoros de Colecci\u00f3n - Los Mejores Duetos Rancheros de la Historia",
+        "url": "https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ"
       },
       "artists": [
         {
           "name": "Los Alegres De Teran",
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        },
-        {
-          "name": "Las Jilgueritas",
-          "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
         }
       ],
-      "duration_ms": 167800,
-      "name": "La Mosca",
-      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
+      "duration_ms": 151746,
+      "name": "Flor del R\u00edo",
+      "url": "https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Super \u00c9xitos",
-        "url": "https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ"
+        "name": "Siguen En La Honda Nortena",
+        "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Tres Viudas Solas",
-      "url": "https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O"
+      "duration_ms": 148271,
+      "name": "Morena Mia",
+      "url": "https://open.spotify.com/track/4RN25DnLFUFJYh1Uqf7TR4"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguen En La Honda Nortena",
-        "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
+        "name": "15 Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 148271,
-      "name": "Morena Mia",
-      "url": "https://open.spotify.com/track/4RN25DnLFUFJYh1Uqf7TR4"
+      "duration_ms": 175693,
+      "name": "Tres Viudas Solas",
+      "url": "https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O"
     },
     {
       "added_at": null,

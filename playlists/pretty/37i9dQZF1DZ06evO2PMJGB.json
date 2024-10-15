@@ -1,12 +1,12 @@
 {
-  "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 250798,
+  "description": "This is Lu\u00edsa Sonza. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 250838,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAACDynqhihQqOrzuViHruEcK",
+  "snapshot_id": "ZwsNgAAAAACmA22/idwpQshmADpqq1Py",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 155384,
-      "name": "MULHER DO ANO XD",
-      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUAN CITY (Ao Vivo)",
         "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 209928,
       "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
       "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155384,
+      "name": "MULHER DO ANO XD",
+      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,

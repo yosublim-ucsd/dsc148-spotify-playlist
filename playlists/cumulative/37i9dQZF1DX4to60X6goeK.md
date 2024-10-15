@@ -2,7 +2,7 @@
 
 ### [Jump Up!](https://open.spotify.com/playlist/37i9dQZF1DX4to60X6goeK)
 
-> Go hard or go home\. Cover: A.M.C
+> Go hard or go home\. Cover: SOTA at Drumsheds
 
 260 songs - 17 hr 19 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Marama, Nahuel Pennisi y Los Nocheros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,130 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,139 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 4 | [Voy a Abrir Mi Corazón](https://open.spotify.com/track/5zrpr6CRor8d7YpkrC8OvX) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6), [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Voy a Abrir Mi Corazón](https://open.spotify.com/album/2oRgWQIh65FBPjyEizv2bj) | 4:54 |
 | 5 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 |
 | 6 | [Eterno Amor \(En Vivo\)](https://open.spotify.com/track/2uSn8VGgamdhCKDqdasxHQ) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Eterno Amor \(En Vivo\)](https://open.spotify.com/album/6gJiMu8AMgn0ydw4WDDefD) | 4:08 |
-| 7 | [Espada y Copa](https://open.spotify.com/track/0IEaQkwfbfnbqfMFLhPbLN) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Espada y Copa](https://open.spotify.com/album/4ovyXcGwRK4ApOuOlnxsuR) | 2:58 |
-| 8 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
+| 7 | [El Bailongo en Lo del Rengo](https://open.spotify.com/track/4JbQUJ6o0M80Q3GgvL87is) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 1:53 |
+| 8 | [Espada y Copa](https://open.spotify.com/track/0IEaQkwfbfnbqfMFLhPbLN) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Espada y Copa](https://open.spotify.com/album/4ovyXcGwRK4ApOuOlnxsuR) | 2:58 |
 | 9 | [Es Tan Grande Este Amor](https://open.spotify.com/track/6Z4uK6bVC2XjJKXjTUobhr) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2iLRaP3hBMDL0Q06VYzqkm) | 3:06 |
 | 10 | [Calle Angosta](https://open.spotify.com/track/10BOpW1thPZpDrIMuJVqLv) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi), [Los Tabaleros](https://open.spotify.com/artist/2teaiwOEozXRJEni6xUW0m) | [Calle Angosta](https://open.spotify.com/album/5ePgkF5LGxPRGcIGZUJ256) | 3:30 |
 | 11 | [No me sale](https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [No me sale](https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 99 | [Cantor de Chacarera](https://open.spotify.com/track/0We54vDRP7gyuBrhn36QV1) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Origen](https://open.spotify.com/album/2GRvGXSzytFedJyhlIXJRx) | 2:45 |
 | 100 | [Por Tu Querer](https://open.spotify.com/track/6cyjG51eS5wNBClG2ggkPX) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Por Tu Querer](https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke) | 2:29 |
 
-Snapshot ID: `ZvXQqwAAAABPKWZr130nkBCXbi4TLl0h`
+Snapshot ID: `Zw1yfQAAAABds7q9NKYtAkQQhs9m0cNx`

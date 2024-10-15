@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 398380,
       "name": "Anatta",
       "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
@@ -1118,6 +1118,28 @@
       "duration_ms": 183719,
       "name": "Camino",
       "url": "https://open.spotify.com/track/6eyZjd6qkNlxds7m6FKapL"
+    },
+    {
+      "album": {
+        "name": "Carretera Austral",
+        "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        },
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264582,
+      "name": "Carretera Austral",
+      "url": "https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg"
     },
     {
       "album": {
@@ -2025,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
+    },
+    {
+      "album": {
         "name": "Desolaci\u00f3n",
         "url": "https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M"
       },
@@ -2748,7 +2788,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 186893,
       "name": "El Sol y T\u00fa",
       "url": "https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj"
@@ -4110,7 +4150,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 196571,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE"
@@ -5741,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "lo que me queda",
+        "url": "https://open.spotify.com/album/73QipU676KiGVghsD9nyMO"
+      },
+      "artists": [
+        {
+          "name": "elmalam\u00eda",
+          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196859,
+      "name": "no, gracias",
+      "url": "https://open.spotify.com/track/4yMdNHASrVIrfyzvcnaT2I"
+    },
+    {
+      "album": {
         "name": "Nochecita en B.A",
         "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
       },
@@ -6287,6 +6345,36 @@
     },
     {
       "album": {
+        "name": "Peligrosa (Version Aerobica)",
+        "url": "https://open.spotify.com/album/2tPMHTtb0ycCVaAY5aQxRb"
+      },
+      "artists": [
+        {
+          "name": "Aerobica",
+          "url": "https://open.spotify.com/artist/0Vdpq1MzMW6xiHjnrRb0bl"
+        },
+        {
+          "name": "Nico Castro",
+          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
+        },
+        {
+          "name": "Pepo Fernandez",
+          "url": "https://open.spotify.com/artist/0DR47gYDjSGYu5euwMRCmP"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243470,
+      "name": "Peligrosa (Version Aerobica)",
+      "url": "https://open.spotify.com/track/6SG64UrZqNk7aXx8p4jj8p"
+    },
+    {
+      "album": {
         "name": "Pelusita al ojo",
         "url": "https://open.spotify.com/album/3qH24SRUhygnrJea5RVWdF"
       },
@@ -6694,7 +6782,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 236916,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
@@ -7320,7 +7408,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 165088,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
@@ -9786,6 +9874,24 @@
       "duration_ms": 443187,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/4kb6So7DrduOe9CDGL8bBn"
+    },
+    {
+      "album": {
+        "name": "YUGEN",
+        "url": "https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223018,
+      "name": "YUGEN",
+      "url": "https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf"
     },
     {
       "album": {

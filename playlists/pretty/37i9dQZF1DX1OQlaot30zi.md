@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Ghali, CoCo, Il Ghost, Marte e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,456 likes - 94 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,471 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

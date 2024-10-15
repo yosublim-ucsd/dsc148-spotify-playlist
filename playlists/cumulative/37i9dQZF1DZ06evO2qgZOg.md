@@ -2,7 +2,7 @@
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This is Skillet\. The essential tracks, all in one playlist.
+> This Is Skillet\. Los temas esenciales, todos en una lista.
 
 60 songs - 3 hr 38 min
 
@@ -20,7 +20,7 @@
 | [Crossfire](https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:12 | 2024-05-24 |  |
 | [Dead Inside](https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \- Deluxe Edition](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 2:56 | 2024-05-24 |  |
 | [Dead Man Walking](https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious: The Aftermath \- Deluxe](https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW) | 3:51 | 2024-05-24 |  |
-| [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2024-05-24 |  |
+| [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2024-05-24 | 2024-10-15 |
 | [Dominion](https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:51 | 2024-05-24 |  |
 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 | 2024-05-24 |  |
 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 | 2024-05-24 |  |
@@ -40,7 +40,7 @@
 | [Out of Hell](https://open.spotify.com/track/6lzmirX8hoaDFy7vrojXJN) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:34 | 2024-06-10 | 2024-06-11 |
 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 | 2024-05-25 |  |
 | [Rebirthing](https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:53 | 2024-05-24 |  |
-| [Refuge](https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Refuge](https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27) | 3:28 | 2024-05-24 | 2024-10-13 |
+| [Refuge](https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Refuge](https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27) | 3:28 | 2024-05-24 |  |
 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 | 2024-05-24 |  |
 | [Rise Up](https://open.spotify.com/track/5sxSfajurxK1jzBUzTLou5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:58 | 2024-05-24 | 2024-07-13 |
 | [Salvation](https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:45 | 2024-05-24 |  |

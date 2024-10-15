@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Gepe y Mon Laferte en portada.",
-  "num_followers": 537927,
+  "num_followers": 537962,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
         "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 196895,
       "name": "Yo Nunca Te Ment\u00ed",
       "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175733,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -883,6 +863,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
       },
@@ -895,6 +895,42 @@
       "duration_ms": 98210,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 218192,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -935,42 +971,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 218192,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Viejitos",
         "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Lo Que T\u00fa Quieras",
-        "url": "https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Lo Que T\u00fa Quieras",
-      "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Lo Que T\u00fa Quieras",
+        "url": "https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Lo Que T\u00fa Quieras",
+      "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 200773,
       "name": "Somos novios (feat. Lolita)",
       "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1283,6 +1267,58 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/0GHRe1hmeLiFHbN4NegcXz"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/1eDw1RDHLzBQvqAuVUDw53"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1307,42 +1343,6 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/0GHRe1hmeLiFHbN4NegcXz"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        },
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/1eDw1RDHLzBQvqAuVUDw53"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Mil Vidas",
-        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 136667,
-      "name": "Mil Vidas",
-      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Mil Vidas",
+        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 136667,
+      "name": "Mil Vidas",
+      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Amor Maldito",
-        "url": "https://open.spotify.com/album/6IWvjpOuTtGEx3o7XqxPbo"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Erik Rubin",
-          "url": "https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n"
-        }
-      ],
-      "duration_ms": 203184,
-      "name": "Amor Maldito",
-      "url": "https://open.spotify.com/track/78d4tHPCTPe0aLRZtiJAal"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Noche Sensacional",
         "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Amor Maldito",
+        "url": "https://open.spotify.com/album/6IWvjpOuTtGEx3o7XqxPbo"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Erik Rubin",
+          "url": "https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n"
+        }
+      ],
+      "duration_ms": 203184,
+      "name": "Amor Maldito",
+      "url": "https://open.spotify.com/track/78d4tHPCTPe0aLRZtiJAal"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Bolero Estelar",
         "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 238406,
       "name": "Bolero Estelar",
       "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     },
     {
       "added_at": "2024-10-11 06:00:00",

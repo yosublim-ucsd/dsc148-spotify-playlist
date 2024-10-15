@@ -2,7 +2,7 @@
 
 ### [This Is Rio](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16W1u2)
 
-> This is Rio\. The essential tracks, all in one playlist.
+> This is Rio\. Todos os maiores hits em uma só playlist.
 
 58 songs - 3 hr 31 min
 

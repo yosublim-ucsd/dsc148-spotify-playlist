@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment.
 
-214 songs - 17 hr 21 min
+215 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Ma3lich Ya 9albi](https://open.spotify.com/track/7yckIvJtO4FII0703PgoQ2) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch) | [Ma3lich Ya 9albi](https://open.spotify.com/album/1Qa47e6uVzfW8iOzjOOO0e) | 5:46 | 2024-05-13 |  |
 | [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 | 2022-09-20 | 2023-04-19 |
 | [Mab9at sohba fhad denya](https://open.spotify.com/track/7mxHntjn3YftbjvbKFMDnL) | [Compil Rai jdid](https://open.spotify.com/artist/1sS6MuSv7yhTelVVV74lPU), [Cheb Oussama](https://open.spotify.com/artist/5ecQtTfTp9QyyqyxXaNnCT) | [Mab9at sohba fhad denya](https://open.spotify.com/album/2wNtDNIKQx1oKGfeLYauAN) | 5:01 | 2022-01-11 | 2022-03-26 |
-| [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-10-19 |  |
+| [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-10-19 | 2024-10-15 |
 | [Maghadnich Frakek](https://open.spotify.com/track/7a5Kz28C2Np1QF9EuN3Z4A) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Maghadnich Frakek](https://open.spotify.com/album/68MaO9IJHg6oC1w2tgl8IA) | 4:45 | 2022-10-30 | 2023-01-26 |
 | [Maghboun Wahdi](https://open.spotify.com/track/53jIJkxsMot3n7Reolf6QO) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Maghboun Wahdi](https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6) | 3:27 | 2021-10-19 | 2023-08-03 |
 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 | 2024-05-30 |  |
@@ -213,6 +213,7 @@
 | [عشقها فات الحدود](https://open.spotify.com/track/2hI4PLjRtD6p9aeuwNIsqf) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [عشقها فات الحدود](https://open.spotify.com/album/7ngjklnX34oPZfnulpA0dB) | 5:10 | 2024-02-13 | 2024-03-08 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-05-13 | 2024-07-05 |
+| [لي نخرج معاها نربح عليها](https://open.spotify.com/track/0ztDisLpRcEKfHAPf1DDtK) | [Cheb Oussama](https://open.spotify.com/artist/39NbSFvjWk8fXvaoorAv6E), [Hocine Ghouila](https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt) | [لي نخرج معاها نربح عليها](https://open.spotify.com/album/6h9P3Nup7ibkk49FeUuWIh) | 4:01 | 2024-10-14 |  |
 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 | 2023-12-30 |
 | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Studio Pachichi](https://open.spotify.com/artist/0iAHWqNr6Q6Utnpkh3Zurt) | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 | 2024-08-05 |  |

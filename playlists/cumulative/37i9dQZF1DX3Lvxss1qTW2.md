@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover: Minz
 
-191 songs - 8 hr 55 min
+192 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 | 2024-06-28 | 2024-09-06 |
 | [I Do](https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [First of My Kind EP](https://open.spotify.com/album/3EjU6cq2Y8htvd5ozgkmE1) | 2:37 | 2024-10-12 |  |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-06-28 | 2024-07-09 |
+| [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-10-14 |  |
 | [Imagination](https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [In The Beginning](https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K) | 2:32 | 2024-08-25 |  |
 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 | 2024-09-09 |  |
 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 | 2024-07-08 | 2024-09-20 |
@@ -119,7 +120,7 @@
 | [Man Not God](https://open.spotify.com/track/3rGnjwEwcqb2iMfchx0ZpF) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Man Not God](https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf) | 2:45 | 2024-06-28 | 2024-08-09 |
 | [Maria](https://open.spotify.com/track/0E77ZX9NeYpLCgDjqfWLZF) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Maria](https://open.spotify.com/album/5Rtj2Js2qFv8ESYMRiTvTC) | 2:26 | 2024-06-28 | 2024-08-09 |
 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 | 2024-10-12 |  |
-| [Mind](https://open.spotify.com/track/5clYaHsBG1b5sfSGK5beW5) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Psychic](https://open.spotify.com/artist/0WNzeWMgqSxc6J13b1VS6H) | [Energy](https://open.spotify.com/album/3KSH7CEYGeos6b0iYPQmb7) | 2:30 | 2024-08-02 |  |
+| [Mind](https://open.spotify.com/track/5clYaHsBG1b5sfSGK5beW5) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Psychic](https://open.spotify.com/artist/0WNzeWMgqSxc6J13b1VS6H) | [Energy](https://open.spotify.com/album/3KSH7CEYGeos6b0iYPQmb7) | 2:30 | 2024-08-02 | 2024-10-15 |
 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 | 2024-09-20 |  |
 | [Mood \(feat\. Khaid\)](https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Mood \(feat\. Khaid\)](https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG) | 2:57 | 2024-07-26 |  |
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-06-28 | 2024-08-26 |

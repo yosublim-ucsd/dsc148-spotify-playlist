@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,088 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,106 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 9 | [BAD BOY](https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BAD BOY](https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4) | 4:34 |
 | 10 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
 | 11 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
-| 12 | [GARÇON](https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:13 |
-| 13 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 |
-| 14 | [Nudes](https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Nudes](https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3) | 3:18 |
+| 12 | [SUICIDE](https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:26 |
+| 13 | [Nudes](https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Nudes](https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3) | 3:18 |
+| 14 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 |
 | 15 | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/album/4HFu2CSI1n0vAiKdhbHDGX) | 3:58 |
-| 16 | [SUICIDE](https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:26 |
+| 16 | [GARÇON](https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:13 |
 | 17 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
 | 18 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
 | 19 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 22 | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6) | 3:32 |
 | 23 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
 | 24 | [STUPID\(E\)](https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:14 |
-| 25 | [Blanche](https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:36 |
-| 26 | [Heart Of Glass](https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Heart Of Glass](https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH) | 3:15 |
+| 25 | [Heart Of Glass](https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Heart Of Glass](https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH) | 3:15 |
+| 26 | [Blanche](https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:36 |
 | 27 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 |
-| 28 | [FUCK ME](https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 0:42 |
+| 28 | [GASOLINA](https://open.spotify.com/track/0N6VAZz7lTO4GFti940NrQ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:34 |
 | 29 | [Vivre \- Acoustic](https://open.spotify.com/track/7wOC5R4KJkpVCSY1SoaKdX) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La même](https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I) | 3:52 |
 | 30 | [Rien à prouver](https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5) | 4:02 |
 | 31 | [Noir](https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 2:39 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 42 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
 | 43 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 44 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
-| 45 | [Le plus beau des astres](https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:05 |
+| 45 | [Pour l’impossible](https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:30 |
 | 46 | [A part être](https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Ouvre](https://open.spotify.com/album/29vu2ZfGbER9AnVw1kFMiU) | 4:38 |
 | 47 | [Laisse aller \(feat\. Yseult\)](https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Drapeau blanc](https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW) | 3:04 |
 | 48 | [BRUTAAL](https://open.spotify.com/track/2h423mxiCIELj4DuQ2pre9) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/065M2qcX0n60mgNjggtDFw) | 4:06 |
-| 49 | [Pour l’impossible](https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:30 |
+| 49 | [Le plus beau des astres](https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:05 |
 
-Snapshot ID: `Zwm8AAAAAAAghLqx2qd5EcAOR9oQ/lP5`
+Snapshot ID: `ZwsNgAAAAADOfjayVmdwkS5EmwMphyoG`

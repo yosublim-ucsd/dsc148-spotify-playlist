@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 149591,
+  "num_followers": 149647,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABCaxii8UF3cch1n3iiqo5N",
+  "snapshot_id": "ZwsNgAAAAAAXUGkiROjdAMMfbZxMvYR+",
   "tracks": [
     {
       "added_at": null,
@@ -1115,6 +1115,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 228148,
+      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -1163,6 +1195,30 @@
       "duration_ms": 670829,
       "name": "You Hold It All Together (feat. Elyssa Smith)",
       "url": "https://open.spotify.com/track/3BuFDYFrDHMqxtjWB1Fk0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "Questions (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/1ZEaMn36IKUNFAaXPMYww8"
     },
     {
       "added_at": null,
@@ -1263,58 +1319,6 @@
       "duration_ms": 316142,
       "name": "Holy Ghost (feat. Bri Babineuax & Alton Eugene)",
       "url": "https://open.spotify.com/track/7IEKYcNmE949Zrsh2mYNhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Maverick Way Reimagined",
-        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        }
-      ],
-      "duration_ms": 137895,
-      "name": "More Than Able (Anything Is Possible) [feat. Evan Ford]",
-      "url": "https://open.spotify.com/track/33m6XltCJQveJqmS7sI01E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
-      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
     }
   ],
   "unique_name": "This Is Maverick City Music",

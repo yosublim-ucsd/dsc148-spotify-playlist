@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,394 likes - 51 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,393 likes - 51 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 32 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 |
 | 33 | [Sing, Sing, Sing](https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 3:49 |
 | 34 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
-| 35 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
-| 36 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 |
+| 35 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 |
+| 36 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 |
 | 37 | [God Of This City](https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 4:57 |
 | 38 | [Forever](https://open.spotify.com/track/6ChFsa3xElTTIJAo460out) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:26 |
 | 39 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 50 | [God Of This City \- Live](https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
 | 51 | [God Who Listens \(feat\. Thomas Rhett\)](https://open.spotify.com/track/0qIx8dthnBVdqP0F7Pl8AG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 4:09 |
 
-Snapshot ID: `Zwm8AAAAAABXPXUMiguXNG9NKJeaKaCW`
+Snapshot ID: `ZwsNgAAAAACkE3SPa20m8E22nvZ2064Z`

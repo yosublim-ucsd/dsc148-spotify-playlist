@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
-  "num_followers": 195381,
+  "num_followers": 195378,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Plastificar",
-        "url": "https://open.spotify.com/album/2Pmtgust0NVzRRhlXyoz3B"
-      },
-      "artists": [
-        {
-          "name": "Maren",
-          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
-        },
-        {
-          "name": "V\u00edctor Rossy",
-          "url": "https://open.spotify.com/artist/1ZXx5iEKueyxfjLdff0WlM"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Plastificar",
-      "url": "https://open.spotify.com/track/2CCRJ9I82UJb3LokB5Ewc2"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Tiemblo",
         "url": "https://open.spotify.com/album/1PSEn4CRyTbik6Q24ItUpb"
       },
@@ -819,22 +799,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "dos sombras",
-        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "dos sombras",
-      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Arena x mis Venas",
         "url": "https://open.spotify.com/album/1gGTholtzoCEZfQ29miWdK"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 186086,
       "name": "Arena x mis Venas",
       "url": "https://open.spotify.com/track/71XarJNXdqnpCPdCkBWkqB"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Plastificar",
+        "url": "https://open.spotify.com/album/2Pmtgust0NVzRRhlXyoz3B"
+      },
+      "artists": [
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        },
+        {
+          "name": "V\u00edctor Rossy",
+          "url": "https://open.spotify.com/artist/1ZXx5iEKueyxfjLdff0WlM"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Plastificar",
+      "url": "https://open.spotify.com/track/2CCRJ9I82UJb3LokB5Ewc2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "dos sombras",
+        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "dos sombras",
+      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Desde el amor",
+        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "Desde el amor",
+      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Ressaca a sa platja",
         "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 176654,
       "name": "Ressaca a sa platja",
       "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Desde el amor",
-        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "Desde el amor",
-      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 166134,
       "name": "Vespa Verde Agua",
       "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ens hem guanyat l'estiu",
-        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
-      },
-      "artists": [
-        {
-          "name": "Pau Vallv\u00e9",
-          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Ens hem guanyat l'estiu",
-      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "A Flor de Piel",
         "url": "https://open.spotify.com/album/0pBNoNeUQDrQT0fH71m7Uh"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Mirarte",
-        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 188464,
-      "name": "Mirarte",
-      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Maestro Espada",
         "url": "https://open.spotify.com/album/3i6B3xwYiAeG7S4yhalD6j"
       },
@@ -1151,6 +1119,38 @@
       "duration_ms": 249192,
       "name": "Grana\u00edco",
       "url": "https://open.spotify.com/track/0WEid1VuBFoCgrxPDjK3P5"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ens hem guanyat l'estiu",
+        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
+      },
+      "artists": [
+        {
+          "name": "Pau Vallv\u00e9",
+          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Ens hem guanyat l'estiu",
+      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Mirarte",
+        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 188464,
+      "name": "Mirarte",
+      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 184739,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Todo alrededor",
         "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 248937,
       "name": "Somos raros",
       "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 184739,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Valle La Pena",
-        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Valle La Pena",
-      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Cre\u00ed que era eterno",
         "url": "https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 192516,
       "name": "Cre\u00ed que era eterno",
       "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Valle La Pena",
+        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
+        }
+      ],
+      "duration_ms": 183524,
+      "name": "Valle La Pena",
+      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Quiero Hacer M\u00fasica",
-        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 200437,
-      "name": "Quiero Hacer M\u00fasica",
-      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Mimetizarnos",
         "url": "https://open.spotify.com/album/6nsNU5wYVt9mbm1AXQRM3L"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 172562,
       "name": "Mimetizarnos",
       "url": "https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Quiero Hacer M\u00fasica",
+        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
+      },
+      "artists": [
+        {
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 200437,
+      "name": "Quiero Hacer M\u00fasica",
+      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
     },
     {
       "added_at": "2024-10-10 22:00:00",

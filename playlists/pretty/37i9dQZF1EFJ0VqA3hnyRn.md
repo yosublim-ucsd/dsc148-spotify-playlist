@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 256 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 336 likes - 256 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 75 | [Bikini Body](https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sunday](https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd) | 3:47 |
 | 76 | [Under Your Skin](https://open.spotify.com/track/3RB4mMjf2Ln4fDv3ylSoWI) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Under Your Skin](https://open.spotify.com/album/7kTa3EZsisqUfH9SA37oKe) | 3:08 |
 | 77 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
-| 78 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
-| 79 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 |
+| 78 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 |
+| 79 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
 | 80 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
 | 81 | [Get up on My Level](https://open.spotify.com/track/6WYLTRkDw5PZj9vzI6Vnjq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [By Any Means](https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW) | 4:15 |
 | 82 | [There Will Be Blood](https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:17 |
@@ -165,8 +165,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 155 | [Another One](https://open.spotify.com/track/6k63UfdOYsPWgwojWyKfwv) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:45 |
 | 156 | [Put It on Ya \(feat\. Chris J\)](https://open.spotify.com/track/2m0dyKic2V40cSkuO9CNm7) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Chris J](https://open.spotify.com/artist/6AU5hm7RJo0j9pmsNOeJKB) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:17 |
 | 157 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 |
-| 158 | [369 \(feat\. B.o.B.\)](https://open.spotify.com/track/6hRxkub3GwimKCrH8MJ3y2) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:31 |
-| 159 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 158 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 159 | [369 \(feat\. B.o.B.\)](https://open.spotify.com/track/6hRxkub3GwimKCrH8MJ3y2) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:31 |
 | 160 | [Thirty8](https://open.spotify.com/track/4nZPglLs2fEvrIVTZpKasy) | [Robnhood Tra](https://open.spotify.com/artist/3U6QnM9NTNaBkuPAQmINy2) | [Ferrari N A Junkyard](https://open.spotify.com/album/5S7J1RszqzExaf0HyJk5zP) | 3:07 |
 | 161 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
 | 162 | [Everybody Dies](https://open.spotify.com/track/3y8XT7OLZNymJtGpLPxODX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:24 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 255 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 256 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Abes6gAAAABxf44daci30ilrszniYKBf`
+Snapshot ID: `AbeyigAAAABBHiwjs0JYDRGJs8BeQ8+G`

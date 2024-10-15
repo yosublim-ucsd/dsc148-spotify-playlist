@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,055 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,027 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 36 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
 | 37 | [Same Place Twice](https://open.spotify.com/track/2dZzwDaLXppokzSL8TR3U3) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H), [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Same Place Twice](https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU) | 3:14 |
 | 38 | [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 |
-| 39 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
+| 39 | [Angels & Heathens](https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Angels & Heathens](https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9) | 3:18 |
 | 40 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 |
 | 41 | [Astronaut](https://open.spotify.com/track/2q3Qtn6pVjR3MkKW0LZAl8) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Somewhere Down The Road](https://open.spotify.com/album/59QCDtvrb7ndBKYKyFJ12q) | 3:41 |
-| 42 | [Angels & Heathens](https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Angels & Heathens](https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9) | 3:18 |
+| 42 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
 | 43 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
 | 44 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 |
 | 45 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 75 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 76 | [Whole Lotta Lubbock](https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Whole Lotta Lubbock](https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY) | 3:12 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
-| 78 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
-| 79 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
+| 78 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
+| 79 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 80 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 81 | [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 |
 | 82 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |

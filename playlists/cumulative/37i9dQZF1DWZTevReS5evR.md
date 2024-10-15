@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-234 songs - 14 hr 20 min
+237 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2023-03-24 | 2024-04-26 |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-09-19 | 2024-03-22 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-07-13 | 2023-09-24 |
+| [Rapuh](https://open.spotify.com/track/2zUSSJiMHe0nE3xMX1yDjO) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Rapuh](https://open.spotify.com/album/31K5Y7sAJQYs3IednXlD11) | 3:35 | 2024-10-14 |  |
 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 | 2023-06-26 |  |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-03-24 | 2023-12-11 |
 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 | 2023-06-07 | 2023-12-11 |
@@ -185,10 +186,12 @@
 | [Sang Badut](https://open.spotify.com/track/6s0HM8fK8ZjYHlTHmi123x) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Sang Badut](https://open.spotify.com/album/5BAoqA4Vd02Xm7qsCKwXGd) | 3:55 | 2023-03-24 | 2023-06-08 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-05-06 |  |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-23 |  |
-| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-08-29 |  |
+| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-08-29 | 2024-10-15 |
 | [Scars](https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Scars](https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY) | 3:12 | 2023-03-24 | 2023-12-11 |
 | [Seharusnya Aku](https://open.spotify.com/track/2CtmE5NrgKNopdE1aaaIrg) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Seharusnya Aku](https://open.spotify.com/album/4RZfUlnmNVCFQXaWFJx3W0) | 3:40 | 2024-09-27 |  |
 | [Sekarang Hingga Nanti Kita Tua](https://open.spotify.com/track/2CZkyEQWgOv5pXmRvLsKwx) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Sekarang Hingga Nanti Kita Tua](https://open.spotify.com/album/0zckviJr7tgEcWCttsurOw) | 3:22 | 2024-07-23 |  |
+| [Sempat Tak Sempat](https://open.spotify.com/track/1PUcZVirD5GmvRol25TVpA) | [Rakhano](https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4) | [Sempat Tak Sempat](https://open.spotify.com/album/00ZGpAUWegdAvVa35Bkj6V) | 3:35 | 2024-10-14 |  |
+| [Semu](https://open.spotify.com/track/2pBvFdXgF5Q7IOT2EvATWF) | [AMAN](https://open.spotify.com/artist/0lSCTcMXqOhQu7mNCTcMSA) | [Semu](https://open.spotify.com/album/0bRyjuRv6cRSTgdiFaqGJz) | 3:39 | 2024-10-14 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-03-24 | 2023-08-30 |
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2024-03-21 |  |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-18 |  |

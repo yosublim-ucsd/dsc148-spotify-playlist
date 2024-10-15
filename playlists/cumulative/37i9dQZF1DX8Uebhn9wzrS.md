@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,102 songs - 3 day 8 hr 7 min
+2,104 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Fireworks \- New Beginnings](https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Through The Seasons](https://open.spotify.com/album/0AKA4bhqvJ2nbJyoWELkGf) | 1:32 | 2023-07-13 |  |
 | [First Stop//Sao Paolo](https://open.spotify.com/track/3JkLMtATPlszhCNmWFHUzs) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [First Stop//Sao Paolo](https://open.spotify.com/album/6JAlxiE9wthnE9MajvWpqc) | 1:59 | 2023-08-17 | 2023-10-13 |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2022-05-27 | 2024-05-14 |
+| [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 | 2024-10-11 |  |
 | [Fishizens](https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Fishizens](https://open.spotify.com/album/1USqajnim2xRLIXKsNZKBc) | 1:39 | 2024-05-31 |  |
 | [Fishy Tank](https://open.spotify.com/track/5DmuUDOqnabCCOXJcD8kGP) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Fishy Tank](https://open.spotify.com/album/5t3S01TjCDOcqzXE6EXyso) | 2:20 | 2024-09-06 | 2024-10-12 |
 | [five more days](https://open.spotify.com/track/2EuCUU8jBSglt5fgKC0g6r) | [R\. Kei](https://open.spotify.com/artist/4sQLc1Xp2p3ij01ApmgQdr) | [five more days](https://open.spotify.com/album/3oLQEhMZDidCCd8loSHFvX) | 2:53 | 2024-04-12 |  |
@@ -741,6 +742,7 @@
 | [glue](https://open.spotify.com/track/7aql9zPNz3dPHEYpIVMhlz) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [glue](https://open.spotify.com/album/4W12zjKWwHiKG6L6Q3mowJ) | 2:12 | 2024-04-12 | 2024-06-20 |
 | [gm](https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [gm](https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA) | 2:09 | 2022-04-15 | 2022-10-14 |
 | [go back to sleep](https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [go back to sleep](https://open.spotify.com/album/4r7jhko1lglXjcOAm3MNzU) | 1:58 | 2023-03-01 |  |
+| [Go to sleep](https://open.spotify.com/track/5BjcGj8GGtrnk0E0IGFqvD) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Go to sleep](https://open.spotify.com/album/2KPWKG9c1ZMKVWeGy45oJ5) | 2:24 | 2024-10-11 |  |
 | [Goemon](https://open.spotify.com/track/7gfFlcWn0kNXi7oqTjkvTe) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Goemon](https://open.spotify.com/album/0GuzjoM2X7sGfV3VWcTduF) | 2:27 | 2023-08-03 | 2023-10-06 |
 | [Goes Around Comes Around](https://open.spotify.com/track/5FAGCFR3IUYJfOC4VCys8b) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Goes Around Comes Around](https://open.spotify.com/album/2wucS65hsTvv8WIVhLTJb1) | 2:31 | 2022-08-19 | 2022-12-17 |
 | [going home](https://open.spotify.com/track/1CP8ak51uQUi1G3MwBCYFk) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [going home](https://open.spotify.com/album/6loXdEyhzQlGIuDc1A96pO) | 2:03 | 2022-10-28 |  |
@@ -1282,7 +1284,7 @@
 | [Nostalgia](https://open.spotify.com/track/2cqvEdlgsh6UkAbWrLeNsS) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Nostalgia](https://open.spotify.com/album/4h5AOoOzuQntV9z4iuSRbS) | 2:44 | 2022-08-05 | 2022-10-29 |
 | [Nostalgia Pt\. 1 \- Beat Edit](https://open.spotify.com/track/1SBIGuG5nlZSA0ujKDcx5o) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia Pt\. 1 \(Beat Edit\)](https://open.spotify.com/album/0NRAkXnNFFStPxA3Orqdb9) | 2:09 | 2022-04-15 | 2022-07-15 |
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-09-29 |  |
-| [Not At All](https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Not At All](https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj) | 2:23 | 2022-11-11 |  |
+| [Not At All](https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Not At All](https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj) | 2:23 | 2022-11-11 | 2024-10-15 |
 | [not okay](https://open.spotify.com/track/2B2F8NHqKwCeJIv7oVrm22) | [Aftermix](https://open.spotify.com/artist/1goPpxuXjwZK1g63yS0VvG) | [not okay](https://open.spotify.com/album/3V2yj5W2fYsV9sSSxUEqhe) | 2:19 | 2022-04-15 | 2022-10-08 |
 | [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-08-23 |  |
 | [November Moon](https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [November Moon](https://open.spotify.com/album/15KPuUA4hdzpfckOaOWdHL) | 1:48 | 2023-03-08 | 2024-02-09 |
@@ -1717,7 +1719,7 @@
 | [spooky\(\);](https://open.spotify.com/track/5aUbRtNKXivCQI4wMIowAb) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [spooky\(\);](https://open.spotify.com/album/3uha5BJPUNoQRIKLyWYFt1) | 1:47 | 2022-10-28 | 2023-02-07 |
 | [Spot On](https://open.spotify.com/track/5pdUXzjkQieWlTXfrTl1E6) | [DJ Derelict](https://open.spotify.com/artist/6PNQOoYRp29weY01VojtOd) | [Spot On](https://open.spotify.com/album/1FCPJmUrToX6ewX1plhk4P) | 2:04 | 2022-04-15 | 2022-05-27 |
 | [Spring again](https://open.spotify.com/track/369868LXnMYEMz7qkOfYRV) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Mdvsn](https://open.spotify.com/artist/1tkJAqkQkrQMT9B5P8ShPI) | [Summer Madness](https://open.spotify.com/album/6eFYN0rS4X0LuLMqStYMZe) | 2:31 | 2022-12-02 | 2023-09-16 |
-| [Spring in winter](https://open.spotify.com/track/737FxPwt7KEzSIvE9XzCY3) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Spring in winter](https://open.spotify.com/album/733nDLWMrS0koInGhIzE12) | 2:12 | 2023-02-21 |  |
+| [Spring in winter](https://open.spotify.com/track/737FxPwt7KEzSIvE9XzCY3) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Spring in winter](https://open.spotify.com/album/733nDLWMrS0koInGhIzE12) | 2:12 | 2023-02-21 | 2024-10-15 |
 | [spring is coming](https://open.spotify.com/track/3S0NnkTIk3LbDoL8dUY1Tc) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [spring is coming](https://open.spotify.com/album/73luBiXIl3X7Gi3m1zskU7) | 3:12 | 2024-03-01 |  |
 | [Spring Lovers](https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Yoshimitsu4432](https://open.spotify.com/artist/5PZuA5drLPCsRKsVldf7Th) | [Spring Lovers](https://open.spotify.com/album/7uoUO2tuWNyi0hWebcIltV) | 2:05 | 2022-04-15 | 2022-06-25 |
 | [Spring Showers](https://open.spotify.com/track/3tSkN6hZZyMYIditARTLb6) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [Spring Showers](https://open.spotify.com/album/2m4NdkVWuL7jN0a7iDWqNA) | 2:44 | 2023-07-13 |  |

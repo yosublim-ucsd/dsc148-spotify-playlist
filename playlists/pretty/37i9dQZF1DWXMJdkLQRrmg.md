@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,603 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,659 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 71 | [Plastic Heart \- Acoustic](https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart \(Acoustic\)](https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF) | 2:55 |
 | 72 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
 | 73 | [Something Loud \(Acoustic Version\)](https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud \(Acoustic Version\)](https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v) | 3:20 |
-| 74 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
-| 75 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
+| 74 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
+| 75 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
 
 Snapshot ID: `ZohMQQAAAAChmVNTOql5ZxBeEsZJYdhc`

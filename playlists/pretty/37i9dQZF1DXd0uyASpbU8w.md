@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=BsvUU0ifTeu\-8d7PNDKiPg">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,434 likes - 78 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,487 likes - 78 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 67 | [Like That](https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Chris Arna](https://open.spotify.com/artist/5bAJpTB3P1q1HrW9x66wVK), [Voodoochild](https://open.spotify.com/artist/5xQx4ztvXaqI0HmeArL7IA) | [Like That](https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw) | 2:55 |
 | 68 | [Nangu](https://open.spotify.com/track/6lVfAgxAxd4Lv5nOU6LJi2) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [TeteKaGogo](https://open.spotify.com/artist/6chpOII6UYv8eknemPHXsQ) | [Nangu](https://open.spotify.com/album/5fSq21FC9zzB0fAkcux3xr) | 6:41 |
 | 69 | [I'm Not Coming Home](https://open.spotify.com/track/29Vu3d9d54PDcI4UWyJFre) | [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [I'm Not Coming Home](https://open.spotify.com/album/6JDt6CAbizxAKtnHyHMYJ0) | 4:06 |
-| 70 | [Maji](https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Alkebulan](https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv) | 3:19 |
+| 70 | [Maji](https://open.spotify.com/track/2OWyURynojKqDEEuvsdNL1) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Alkebulan](https://open.spotify.com/album/7t0MipiWRtNllff4xk4GBv) | 3:19 |
 | 71 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 |
 | 72 | [Ama Vithi Vithi \(feat\. Ray&Jay, Myztro & Xduppy\)](https://open.spotify.com/track/0PgeEZeGTw5P9GtPzICRAt) | [Vetkuk](https://open.spotify.com/artist/0N6CgWlBaskJj7kaAXSath), [Mahoota](https://open.spotify.com/artist/4ak8w8LmNVLnT4sULNEimt), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Ray & Jay](https://open.spotify.com/artist/5VF36053AUFhrIBNrx3d96), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Ama Vithi Vithi \(feat\. Ray&Jay, Myztro & Xduppy\)](https://open.spotify.com/album/5QP8wMxRIIzYU5wySQFsFJ) | 5:41 |
 | 73 | [Le Nna Ke Be Motho \(feat\. Dr Thulz\)](https://open.spotify.com/track/2IsUbxzs2pTOhu9fJn9JTz) | [Mdoovar](https://open.spotify.com/artist/1G4Rnei7H9xEN8jG4CwsgX), [Han\-C](https://open.spotify.com/artist/7xeiD5LB2A7kIhBcBUJmfN), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [BOSA](https://open.spotify.com/album/1mHypwS2qdlj7tIx0ZheQc) | 7:47 |

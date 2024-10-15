@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372290,
+  "num_followers": 372284,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -131,30 +131,18 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
+        "name": "Era uma vez",
+        "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 176771,
-      "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6"
+      "duration_ms": 145996,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -191,6 +179,34 @@
       "duration_ms": 196601,
       "name": "Sagrado Profano",
       "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 176771,
+      "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -247,22 +263,6 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
-        "name": "Era uma vez",
-        "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 145996,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -631,6 +631,30 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 194722,
       "name": "Me Deixa Viver",
       "url": "https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "LolOLove (feat. Pabllo Vittar)",
-        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 160480,
-      "name": "LolOLove (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 181714,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "LolOLove (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 160480,
+      "name": "LolOLove (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "SE EU FOSSE UMA GAROTA BRANCA",
         "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 161666,
       "name": "SE EU FOSSE UMA GAROTA BRANCA",
       "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Fim",
-        "url": "https://open.spotify.com/album/6JYxiYb6V2WtmkeygmzFaP"
-      },
-      "artists": [
-        {
-          "name": "Bella Angel",
-          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
-        },
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 135993,
-      "name": "Fim",
-      "url": "https://open.spotify.com/track/3CZomozGtxwo07HstcVNX1"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1491,6 +1471,26 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
+        "name": "Fim",
+        "url": "https://open.spotify.com/album/6JYxiYb6V2WtmkeygmzFaP"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 135993,
+      "name": "Fim",
+      "url": "https://open.spotify.com/track/3CZomozGtxwo07HstcVNX1"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
         "name": "Sussurro",
         "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "INDEPENDENTE DO AGORA",
-        "url": "https://open.spotify.com/album/5W3cZFkmXG2B7qtnZSoAHW"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "INDEPENDENTE DO AGORA",
-      "url": "https://open.spotify.com/track/2GcHDX5shxbE2BpQT8FhCB"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/1k5iPfx1mPBQP0L2ZAxRZh"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 198655,
       "name": "Santa",
       "url": "https://open.spotify.com/track/7mhvOdceNR4ntJ5dAzVaFu"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "INDEPENDENTE DO AGORA",
+        "url": "https://open.spotify.com/album/5W3cZFkmXG2B7qtnZSoAHW"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "INDEPENDENTE DO AGORA",
+      "url": "https://open.spotify.com/track/2GcHDX5shxbE2BpQT8FhCB"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
+        "name": "EXCE\u00c7\u00c3O!",
+        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "EXCE\u00c7\u00c3O!",
+      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
         "name": "Boy Lixo",
         "url": "https://open.spotify.com/album/6e47i56AypS3Fx0NI2aa1S"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 184942,
       "name": "Boy Lixo",
       "url": "https://open.spotify.com/track/17x9gUciaxWjvR4SVKB1PK"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
-        "name": "EXCE\u00c7\u00c3O!",
-        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "EXCE\u00c7\u00c3O!",
-      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
     },
     {
       "added_at": "2024-10-11 19:07:06",

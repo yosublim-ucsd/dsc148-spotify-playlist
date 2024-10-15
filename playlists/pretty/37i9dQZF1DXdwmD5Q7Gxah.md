@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > fall \(autumn\) in love again & again & again & again cover: junior varsity \(they might just be varsity now...\. heyyyyyy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,778 likes - 142 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,762 likes - 142 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

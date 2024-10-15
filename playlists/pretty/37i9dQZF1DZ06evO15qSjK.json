@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173436,
+  "num_followers": 173432,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADetkGSg5KRxnb3qoLO1ap4",
+  "snapshot_id": "ZwsNgAAAAAB504KCMvqP6H+7K6jUu0VE",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 38",
-        "url": "https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Super POP!",
-        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+        "name": "KIDZ BOP 38",
+        "url": "https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 162257,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
+      "duration_ms": 169000,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 146233,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 162257,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 155668,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2023",
         "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 216888,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU"
     },
     {
       "added_at": null,

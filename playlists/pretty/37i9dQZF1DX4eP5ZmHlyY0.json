@@ -1,15 +1,31 @@
 {
   "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: KID PHENOMENON from EXILE TRIBE",
-  "num_followers": 48405,
+  "num_followers": 48399,
   "original_name": "Boys Group Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwVI8AAAAAAeA8pQaEEGSliyl3O+fSZz",
+  "snapshot_id": "ZwyJMAAAAAC+nOfAW69tv0GB0MO3xFWe",
   "tracks": [
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "duration_ms": 220900,
+      "name": "One",
+      "url": "https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/2JJxm3mIqGHbrwDGxDoMQ8"
@@ -25,39 +41,7 @@
       "url": "https://open.spotify.com/track/0KdRHPuaYxXmDkHPNMHo3l"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "WHERE DO WE GO (Special Edition)",
-        "url": "https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "ICY",
-      "url": "https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "I wonder",
-        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "I wonder",
-      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "WOW",
         "url": "https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "WHERE DO WE GO (Special Edition)",
+        "url": "https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "MUSi-aM",
         "url": "https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2Xq5v9lRy6kxaLL3fJq4Fm"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "No.O -ring-",
         "url": "https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "No.\u2160",
         "url": "https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Blissful",
         "url": "https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "NIGHT",
         "url": "https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa"
@@ -169,23 +169,23 @@
       "url": "https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
-        "name": "WHERE DO WE GO",
-        "url": "https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc"
+        "name": "\u8a93\u3044 (CHIKAI)",
+        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
       },
       "artists": [
         {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 157946,
-      "name": "WHERE DO WE GO",
-      "url": "https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9"
+      "duration_ms": 177360,
+      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
+      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Swan's War",
         "url": "https://open.spotify.com/album/6o5SKW2ZlFK7on9jiuPY7U"
@@ -225,23 +225,23 @@
       "url": "https://open.spotify.com/track/6NjrACdaW9CbacxY6OifUA"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
-        "name": "\u8a93\u3044 (CHIKAI)",
-        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
         }
       ],
-      "duration_ms": 177360,
-      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
-      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
+      "duration_ms": 157746,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Don't Tell Nobody",
         "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Keep on Moving (Korean Version)",
         "url": "https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r"
@@ -273,23 +273,23 @@
       "url": "https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
+        "name": "WHERE DO WE GO",
+        "url": "https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 167219,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
+      "duration_ms": 157946,
+      "name": "WHERE DO WE GO",
+      "url": "https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Baby don't cry",
         "url": "https://open.spotify.com/album/1z4tn0beVw7pRjRRkKtFs0"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4mF2kmGmate4BDgNdDDBOU"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "\u862d",
         "url": "https://open.spotify.com/album/2EV4txoYORCEyoXk1YWQTX"
@@ -321,23 +321,23 @@
       "url": "https://open.spotify.com/track/1KcTdvIP024QVjRbrQ2Zqj"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
-        "name": "\u9752\u5d50 (Aoarashi)",
-        "url": "https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
       },
       "artists": [
         {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 175230,
-      "name": "\u9752\u5d50 (Aoarashi)",
-      "url": "https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG"
+      "duration_ms": 167219,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "\u4e16\u754c\u3092\u660e\u308b\u304f\u7167\u3089\u3057\u307e\u3057\u3087\u3046",
         "url": "https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv"
@@ -353,7 +353,23 @@
       "url": "https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "\u9752\u5d50 (Aoarashi)",
+        "url": "https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 175230,
+      "name": "\u9752\u5d50 (Aoarashi)",
+      "url": "https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Sweetest Tune",
         "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
@@ -369,7 +385,23 @@
       "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "REVERSE",
+        "url": "https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 210521,
+      "name": "REVERSE",
+      "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd"
@@ -389,23 +421,7 @@
       "url": "https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "REVERSE",
-        "url": "https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 210521,
-      "name": "REVERSE",
-      "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "moooove!!",
         "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Hush-Hush",
         "url": "https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Believe in You",
         "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "\u521d\u5fc3LOVE\uff08\u3046\u3076\u3089\u3076\uff09",
         "url": "https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Be on Your side",
         "url": "https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF"
@@ -529,71 +545,7 @@
       "url": "https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "AND,",
-        "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "\u4e94\u6708\u96e8 (Samidare)",
-        "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "\u4e94\u6708\u96e8 (Samidare)",
-      "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "Seaside Story",
-        "url": "https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt"
-      },
-      "artists": [
-        {
-          "name": "MAZZEL",
-          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Seaside Story",
-      "url": "https://open.spotify.com/track/1ZMv8crk9nkfKhTyneEB5s"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "P.U!",
-        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
-      },
-      "artists": [
-        {
-          "name": "Hey! Say! JUMP",
-          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
-        }
-      ],
-      "duration_ms": 299606,
-      "name": "DEAR MY LOVER",
-      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "halfmoon",
         "url": "https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF"
@@ -609,7 +561,71 @@
       "url": "https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "AND,",
+        "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "\u4e94\u6708\u96e8 (Samidare)",
+        "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "\u4e94\u6708\u96e8 (Samidare)",
+      "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "Seaside Story",
+        "url": "https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Seaside Story",
+      "url": "https://open.spotify.com/track/1ZMv8crk9nkfKhTyneEB5s"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "duration_ms": 299606,
+      "name": "DEAR MY LOVER",
+      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "FIRST",
         "url": "https://open.spotify.com/album/1zcQeP14f6c0LuCRsMnil8"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/6YlLUGKM1bsa3yioZHQ258"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Masterplan",
         "url": "https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "366\u65e5",
         "url": "https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/45VIk0wV21bdGXqc2PpAVV"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/4fo8TtOwSvjs2obPzIDxt4"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "+Alpha\uff08Special Edition\uff09",
         "url": "https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx"
@@ -733,23 +749,7 @@
       "url": "https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "MAZQUERADE",
-        "url": "https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs"
-      },
-      "artists": [
-        {
-          "name": "MAZZEL",
-          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "MAZQUERADE",
-      "url": "https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
         "url": "https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw"
@@ -765,7 +765,23 @@
       "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "MAZQUERADE",
+        "url": "https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "MAZQUERADE",
+      "url": "https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "T.G.I. Friday Night",
         "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
@@ -781,39 +797,7 @@
       "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
-        "url": "https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
-      "url": "https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA"
-      },
-      "artists": [
-        {
-          "name": "INI",
-          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
-        }
-      ],
-      "duration_ms": 192653,
-      "name": "LOUD",
-      "url": "https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Mainstream",
         "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
@@ -829,7 +813,39 @@
       "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
+        "url": "https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
+      "url": "https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Same Key",
         "url": "https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY"
@@ -845,39 +861,7 @@
       "url": "https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n"
     },
     {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 146453,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
-      "album": {
-        "name": "\u30d4\u30a2\u30b9",
-        "url": "https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE"
-      },
-      "artists": [
-        {
-          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "\u30d4\u30a2\u30b9",
-      "url": "https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI"
-    },
-    {
-      "added_at": "2024-10-08 15:00:00",
+      "added_at": "2024-10-14 03:00:00",
       "album": {
         "name": "Counterattack",
         "url": "https://open.spotify.com/album/2mPY33iJ5So2RSJnYR9YfG"
@@ -891,6 +875,22 @@
       "duration_ms": 199480,
       "name": "Counterattack",
       "url": "https://open.spotify.com/track/39Jr3uGUyooQvBEOF1vyo4"
+    },
+    {
+      "added_at": "2024-10-14 03:00:00",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 146453,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx"
     }
   ],
   "unique_name": "Boys Group Japan",

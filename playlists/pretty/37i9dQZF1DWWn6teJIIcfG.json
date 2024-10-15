@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 200612,
+  "num_followers": 200726,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
         "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
         "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 172758,
       "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
       "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -967,42 +983,6 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
         "name": "Baranowski: Reflections",
         "url": "https://open.spotify.com/album/36OcZ35GfXQTEvmI91BPEV"
       },
@@ -1027,22 +1007,22 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
         }
       ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1059,6 +1039,26 @@
       "duration_ms": 174466,
       "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
       "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1535,6 +1535,30 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
+        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
         "name": "Danzi: Music for Clarinet & Orchestra",
         "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
       },
@@ -1583,30 +1607,6 @@
       "duration_ms": 88093,
       "name": "Carnaval, Op. 9: XII. Chopin",
       "url": "https://open.spotify.com/track/6Q4RxugUBulJqgtUCVyGWZ"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
-        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
     },
     {
       "added_at": "2024-05-24 06:58:29",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2024-05-24 06:58:29",
       "album": {
-        "name": "Schumann: Album for the Young",
-        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Feltsman",
-          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
-        }
-      ],
-      "duration_ms": 76746,
-      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
-      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
-    },
-    {
-      "added_at": "2024-05-24 06:58:29",
-      "album": {
         "name": "She moved through the fair",
         "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 138146,
       "name": "She moved through the fair",
       "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
+    },
+    {
+      "added_at": "2024-05-24 06:58:29",
+      "album": {
+        "name": "Schumann: Album for the Young",
+        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+        }
+      ],
+      "duration_ms": 76746,
+      "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
+      "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
     },
     {
       "added_at": "2024-05-24 06:58:29",

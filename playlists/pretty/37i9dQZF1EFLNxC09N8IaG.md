@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,650 likes - 173 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,649 likes - 173 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 70 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
 | 71 | [New Truck](https://open.spotify.com/track/3rPkYKoR924QmwcmaYjyfo) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:22 |
 | 72 | [To Do List](https://open.spotify.com/track/1U5yljiF4b2KwGvDLgt2rz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:26 |
-| 73 | [Loverman \(feat\. Priscilla Renea\)](https://open.spotify.com/track/6Cfy5wwz2S0TpF6KhE30er) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [a girl a bottle a boat](https://open.spotify.com/album/26OJfCFh7u9WmHd3Y3q8IS) | 2:41 |
-| 74 | [Ruined Me](https://open.spotify.com/track/7J7dAsQVT4ya3V0U0jOzt2) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
+| 73 | [Ruined Me](https://open.spotify.com/track/7J7dAsQVT4ya3V0U0jOzt2) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
+| 74 | [Loverman \(feat\. Priscilla Renea\)](https://open.spotify.com/track/6Cfy5wwz2S0TpF6KhE30er) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [a girl a bottle a boat](https://open.spotify.com/album/26OJfCFh7u9WmHd3Y3q8IS) | 2:41 |
 | 75 | [Chit Chat](https://open.spotify.com/track/02TXRRR6EXFGLnqmHXWI0P) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Heavy Rules Mixtape](https://open.spotify.com/album/7MNdScEmf2wgF9bVLOyXKs) | 3:20 |
 | 76 | [Process](https://open.spotify.com/track/45wbaSjwlHfUyLf36DHPtF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:54 |
 | 77 | [Gentleman](https://open.spotify.com/track/6RRSC5DEiOZAXXe4NCWSC9) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 172 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 173 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `Abes6gAAAABI6QumCE4lQ1jIZa6Iaqa2`
+Snapshot ID: `AbeyigAAAAAZoK7PQhnawxvv4vX0xCo4`

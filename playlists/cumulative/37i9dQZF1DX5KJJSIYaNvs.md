@@ -2,9 +2,9 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Aastha Gill
+> Listen to women at full volume\. Cover \- Shreya Ghoshal & Sunidhi Chauhan
 
-387 songs - 22 hr 39 min
+388 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Challa](https://open.spotify.com/track/4ugGqXCu47dobEUGhAb6Yc) | [Sankalp Srivastava](https://open.spotify.com/artist/5xwqzE7HvcA0aqFKgZInSH), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [Challa](https://open.spotify.com/album/3htujI0OcXqEHqHBIkiH6F) | 4:40 | 2024-04-18 | 2024-05-07 |
 | [Chaudhavi Shab](https://open.spotify.com/track/7p87RATknowYjH1siFCC3P) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 4:03 | 2024-05-10 | 2024-07-19 |
 | [Chehra](https://open.spotify.com/track/0CXxDYRJXoOBOZpOUq5e1a) | [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Chehra](https://open.spotify.com/album/1vEECnPDq3BkBzxEtD2aV1) | 2:44 | 2024-09-10 |  |
+| [Chhaila](https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Chhaila](https://open.spotify.com/album/7jt9ta30emHh5myR2YButg) | 3:50 | 2024-10-14 |  |
 | [Chhota Don](https://open.spotify.com/track/2BdChsuUZdLuaff5XZY7gY) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Hustle 2.0](https://open.spotify.com/album/3S5GxsthfSSDcT0pEkCyoc) | 2:24 | 2023-01-03 | 2023-03-03 |
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2021-12-10 | 2022-03-08 |
 | [Churaaiyaan \- From "Call Me Bae"](https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Mudit Chaturvedi](https://open.spotify.com/artist/6g7fXak9dPmoZnzbU3Hia9), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Call Me Bae \(Original Series Soundtrack\)](https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL) | 3:48 | 2024-09-02 |  |
@@ -121,7 +122,7 @@
 | [Haan Ke Haan](https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Maharaj](https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6) | 3:24 | 2024-06-24 |  |
 | [Habit](https://open.spotify.com/track/4uZlm4ezMz6Stl9xl3YRLU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Habit](https://open.spotify.com/album/1QHVov2ZmbKug6DwJaxSgS) | 3:43 | 2021-12-10 | 2022-02-02 |
 | [Hasi \- Female Version](https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 3:12 | 2023-07-07 | 2023-09-15 |
-| [Headrush](https://open.spotify.com/track/0FVWxntQ2Hnz5v3L8dGcCx) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Headrush](https://open.spotify.com/album/3VQcZbQj1HztSrZMf2pMlf) | 3:08 | 2024-07-26 |  |
+| [Headrush](https://open.spotify.com/track/0FVWxntQ2Hnz5v3L8dGcCx) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Headrush](https://open.spotify.com/album/3VQcZbQj1HztSrZMf2pMlf) | 3:08 | 2024-07-26 | 2024-10-15 |
 | [Heer Bhi Roye](https://open.spotify.com/track/62nq2n3teHwI7oDlpffV9H) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 4:00 | 2023-09-25 | 2024-01-09 |
 | [Ho Jaane Do](https://open.spotify.com/track/4hnXC2Tx6qpL3wJTRdOH3G) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Ho Jaane Do](https://open.spotify.com/album/7tpX0rspZTkQZSXTJeYm09) | 3:11 | 2024-05-06 | 2024-07-18 |
 | [Hold On](https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Hold On](https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt) | 3:06 | 2024-01-29 | 2024-03-15 |

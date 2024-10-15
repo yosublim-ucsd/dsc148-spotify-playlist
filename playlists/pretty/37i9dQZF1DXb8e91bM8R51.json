@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 51848,
+  "num_followers": 51854,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "GO (feat. Juice WRLD)",
         "url": "https://open.spotify.com/album/40wtKuLVVlde1T88LqtZwa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 183947,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2t7D3y0jvYjR8IP9Bosyew"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Head High",
         "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 180826,
       "name": "Head High",
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "The Confidence Of Knowing",
         "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 324375,
       "name": "SWAT",
       "url": "https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Wiz Got Wings",
         "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2024-09-13 03:01:00",

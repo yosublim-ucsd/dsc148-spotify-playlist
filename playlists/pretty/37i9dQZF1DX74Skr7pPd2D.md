@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,863 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,870 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 26 | [Summer Samba \(So Nice\)](https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 3:06 |
 | 27 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
 | 28 | [Caravan](https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 9:40 |
-| 29 | [Funky Broadway](https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 2:29 |
-| 30 | [Just One Of Those Things \- Take 8 \- Master Take](https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Songs For Distingué Lovers](https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw) | 5:33 |
+| 29 | [Just One Of Those Things \- Take 8 \- Master Take](https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Songs For Distingué Lovers](https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw) | 5:33 |
+| 30 | [Funky Broadway](https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 2:29 |
 | 31 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 |
 | 32 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |
 | 33 | [My Baby Just Cares For Me \- Live At Vine St\. Bar & Grill, 1987](https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It Be Me \(Live\)](https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9) | 3:01 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 77 | [People Get Ready](https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Goodies](https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6) | 4:14 |
 | 78 | [Bashin'](https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bashin' \- The Unpredictable Jimmy Smith \(Expanded Edition\)](https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB) | 6:13 |
 | 79 | [Maya](https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [High Life](https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU) | 5:12 |
-| 80 | [You're A Sweetheart](https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Betty Carter Album](https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg) | 3:57 |
-| 81 | [Blue Moon](https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 4:00 |
+| 80 | [Blue Moon](https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 4:00 |
+| 81 | [You're A Sweetheart](https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Betty Carter Album](https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg) | 3:57 |
 | 82 | [Jazzery](https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Worth Waiting For](https://open.spotify.com/album/4kM5RiMozOGvrkvzPLYxvR) | 4:22 |
 | 83 | [Singin' In The Rain](https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W) | [Flip Phillips](https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6) | [Flip Wails: The Best Of The Verve Years](https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x) | 2:59 |
 | 84 | [I'll Close My Eyes](https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Grady Tate](https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 3:23 |

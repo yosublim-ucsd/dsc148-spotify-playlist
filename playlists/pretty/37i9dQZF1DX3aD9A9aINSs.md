@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sertab Erener
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,403 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,396 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 39 | [İki Tatlı Söz](https://open.spotify.com/track/4Lc6N5K7k9i4JKwJL8HIMO) | [İpek Özcan](https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG) | [İki Tatlı Söz](https://open.spotify.com/album/782ev4BSgUJo29eiq0woro) | 2:51 |
 | 40 | [Herkes Yok](https://open.spotify.com/track/5DJlAQ9deIMhti19ZGrKyF) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Herkes Yok](https://open.spotify.com/album/0dranJBaRRmthOEp8UjvEc) | 3:17 |
 | 41 | [Virane](https://open.spotify.com/track/4axVl8XOWfSIAAPb9BLa7Z) | [Dilan Çıtak](https://open.spotify.com/artist/5xRCXmsCeEaZlWpAd2I8IY) | [Virane](https://open.spotify.com/album/1dlxOKzvQwJHwi81cmfGMl) | 2:27 |
-| 42 | [Haşa](https://open.spotify.com/track/0s34i4bgF7zTNqQWSiBLCz) | [Cerem Onurluer](https://open.spotify.com/artist/0ghL83Oq1gNbK19iXsp2aF) | [Haşa](https://open.spotify.com/album/11ylNLoFJW2Ednj0juKVZY) | 2:48 |
-| 43 | [Telaffuz](https://open.spotify.com/track/54BMDdCYusUW1TcOmWv6Ds) | [Hayriye](https://open.spotify.com/artist/7w0vYTgGyUSeitPjpylJBK) | [Telaffuz](https://open.spotify.com/album/6qbVU8RLm60UszCJyIvqQj) | 4:05 |
-| 44 | [İstanbul İstanbul Olalı](https://open.spotify.com/track/3VIVJuTBbW8q6PjiFeewAT) | [Dilde](https://open.spotify.com/artist/0GDoXnSw4iGdysDQWCiuP3) | [İstanbul İstanbul Olalı](https://open.spotify.com/album/3Tr0nDCBmecBhQCb8DHZRs) | 4:03 |
-| 45 | [Bizi Anlat](https://open.spotify.com/track/2JYNqtUDbNf62j6s0xJ7Om) | [Eylül Çekirge](https://open.spotify.com/artist/7AgcHazHZQ9xB0n3QU6fwK) | [Bizi Anlat](https://open.spotify.com/album/4IPlgIrxMYGC7Jglhwqg4U) | 3:13 |
-| 46 | [Yad Eller Aldı Beni \- Akustik](https://open.spotify.com/track/5QvU0ZHYfxYqImTI0g76wK) | [Canan Çal](https://open.spotify.com/artist/4L8MGte6xyKnTZNGGjI2mk) | [Yad Eller Aldı Beni \- Akustik](https://open.spotify.com/album/3df4EnvGBo7Ym7LYSqGWXt) | 4:34 |
-| 47 | [Bıçak](https://open.spotify.com/track/0j3PqmejqwLF2ghCTPZJnD) | [Duygu Kutlu](https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o) | [Bıçak](https://open.spotify.com/album/4YXZwGdSYFoKHKyiQHHIjB) | 3:54 |
-| 48 | [Yel Senin Yelken Senin](https://open.spotify.com/track/6QVGJXttIyLllNSXRXjOPF) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Yel Senin Yelken Senin](https://open.spotify.com/album/0UVXIzJZ9TbwZXlpKIcJSR) | 3:09 |
-| 49 | [Mutlak Akıl](https://open.spotify.com/track/5qYgF21GpSv6b7th2vFzkf) | [Özge Arslan](https://open.spotify.com/artist/7rzLq3I3srzi4TCyJ9vCHo) | [Mutlak Akıl](https://open.spotify.com/album/1pZOX0s8MoV4nbtPqoiCff) | 5:17 |
+| 42 | [Telaffuz](https://open.spotify.com/track/54BMDdCYusUW1TcOmWv6Ds) | [Hayriye](https://open.spotify.com/artist/7w0vYTgGyUSeitPjpylJBK) | [Telaffuz](https://open.spotify.com/album/6qbVU8RLm60UszCJyIvqQj) | 4:05 |
+| 43 | [İstanbul İstanbul Olalı](https://open.spotify.com/track/3VIVJuTBbW8q6PjiFeewAT) | [Dilde](https://open.spotify.com/artist/0GDoXnSw4iGdysDQWCiuP3) | [İstanbul İstanbul Olalı](https://open.spotify.com/album/3Tr0nDCBmecBhQCb8DHZRs) | 4:03 |
+| 44 | [Bizi Anlat](https://open.spotify.com/track/2JYNqtUDbNf62j6s0xJ7Om) | [Eylül Çekirge](https://open.spotify.com/artist/7AgcHazHZQ9xB0n3QU6fwK) | [Bizi Anlat](https://open.spotify.com/album/4IPlgIrxMYGC7Jglhwqg4U) | 3:13 |
+| 45 | [Yad Eller Aldı Beni \- Akustik](https://open.spotify.com/track/5QvU0ZHYfxYqImTI0g76wK) | [Canan Çal](https://open.spotify.com/artist/4L8MGte6xyKnTZNGGjI2mk) | [Yad Eller Aldı Beni \- Akustik](https://open.spotify.com/album/3df4EnvGBo7Ym7LYSqGWXt) | 4:34 |
+| 46 | [Bıçak](https://open.spotify.com/track/0j3PqmejqwLF2ghCTPZJnD) | [Duygu Kutlu](https://open.spotify.com/artist/5VOpKGCsAEtjs8oy1mle9o) | [Bıçak](https://open.spotify.com/album/4YXZwGdSYFoKHKyiQHHIjB) | 3:54 |
+| 47 | [Yel Senin Yelken Senin](https://open.spotify.com/track/6QVGJXttIyLllNSXRXjOPF) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Yel Senin Yelken Senin](https://open.spotify.com/album/0UVXIzJZ9TbwZXlpKIcJSR) | 3:09 |
+| 48 | [Mutlak Akıl](https://open.spotify.com/track/5qYgF21GpSv6b7th2vFzkf) | [Özge Arslan](https://open.spotify.com/artist/7rzLq3I3srzi4TCyJ9vCHo) | [Mutlak Akıl](https://open.spotify.com/album/1pZOX0s8MoV4nbtPqoiCff) | 5:17 |
 
-Snapshot ID: `ZwUQugAAAABX2d/Ap+1fNOISiRb/Xg+E`
+Snapshot ID: `Zw0+pgAAAACUqrLTfRd9+TDyrD3O3RGX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,836 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,832 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 51 | [As Sure As I’m Speaking](https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [The Only Thing Worse Than A Woman Who Lies Is A Girl Who’ll Tell Truths](https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv) | 2:42 |
 | 52 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 |
 | 53 | [Corner Of My Eye](https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Corner Of My Eye](https://open.spotify.com/album/35dYg8knLqL6z2KqA3n5Gs) | 3:19 |
-| 54 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 |
-| 55 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 |
+| 54 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 |
+| 55 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 |
 | 56 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 |
 | 57 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
-| 58 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
-| 59 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 |
+| 58 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 |
+| 59 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
 | 60 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
 | 61 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
 | 62 | [I Want You](https://open.spotify.com/track/1vk8b7rvvclkgg9CY7r25x) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/3Q6ijENRHIELJgva3mgg3c) | 2:50 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 88 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 |
 | 89 | [Jelsy](https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Jelsy](https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn) | 3:48 |
 | 90 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
-| 91 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 |
-| 92 | [All We Wanna Do](https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [All We Wanna Do](https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso) | 3:06 |
+| 91 | [All We Wanna Do](https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [All We Wanna Do](https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso) | 3:06 |
+| 92 | [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 |
 | 93 | [Oropendola](https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Oropendola](https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7) | 4:15 |
 | 94 | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/track/0FJTsZUu6A6pd6DXdeZq50) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [ZERØ](https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK) | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/album/7nwOlCC2BHsdRV4JB4Ze3z) | 4:10 |
 | 95 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Oversize (pictured), Trauma Ray, Fake Eyes, Boston Manor and more.",
+  "description": "The shape of noise to come with Boston Manor (pictured), trauma ray, Splitview, Dosser and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 143312,
       "name": "Alameda Takedown",
       "url": "https://open.spotify.com/track/5AKZqtv8OIc17e3Hq2pJm0"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 263000,
       "name": "Caught In A Web",
       "url": "https://open.spotify.com/track/7oxdQwXU8iTtJ4h6GNxVbJ"
@@ -2690,6 +2690,24 @@
       "duration_ms": 176040,
       "name": "Cough Up Cherries",
       "url": "https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6"
+    },
+    {
+      "album": {
+        "name": "Pure Pleasure",
+        "url": "https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE"
+      },
+      "artists": [
+        {
+          "name": "Pure Pleasure",
+          "url": "https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141781,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f"
     },
     {
       "album": {
@@ -6957,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/5xsVS2oKabj0mvO2ZIqFlz"
+      },
+      "artists": [
+        {
+          "name": "Deer Fang",
+          "url": "https://open.spotify.com/artist/0jw4n2l8CqhDcLLxecvBtV"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/6uxInNTDHxVztwjRSrPQAM"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/3t4tuSnXX509RXzNABMHHm"
       },
@@ -7094,7 +7130,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 241638,
       "name": "Malibu Beach House",
       "url": "https://open.spotify.com/track/404jLVCRjZXEQ3p8DqjN4e"
@@ -7804,7 +7840,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 135897,
       "name": "Nobody\u2019s",
       "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
@@ -7862,6 +7898,24 @@
       "duration_ms": 152415,
       "name": "Not It",
       "url": "https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi"
+    },
+    {
+      "album": {
+        "name": "Home in Another Life",
+        "url": "https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121533,
+      "name": "Not Just Yet",
+      "url": "https://open.spotify.com/track/2TmzblnommV2fLhFWipdfg"
     },
     {
       "album": {
@@ -9918,6 +9972,24 @@
       "duration_ms": 170800,
       "name": "Spaceboy",
       "url": "https://open.spotify.com/track/6ofeNhY1x3MEiXCI1gtFIq"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Tove Lo & Dom Dolla
 
-1,243 songs - 2 day 12 hr 46 min
+1,244 songs - 2 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO) | 2:53 | 2022-01-14 | 2022-03-18 |
 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-07 | 2023-06-10 |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-05-13 | 2022-09-24 |
+| [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-14 |  |
 | [Celebrate](https://open.spotify.com/track/6ZexyQkQ67npzgscQyxqI7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Celebrate](https://open.spotify.com/album/6cZLiA8VFwNkTyHRc0esUm) | 2:33 | 2021-11-05 | 2022-01-15 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-09-30 | 2022-12-24 |
 | [Chains](https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Chains](https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D) | 3:35 | 2024-08-23 | 2024-10-05 |

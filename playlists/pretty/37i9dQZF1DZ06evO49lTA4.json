@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 820968,
+  "num_followers": 821108,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABi0PiYHJFh5eb0UQM9TDg7",
+  "snapshot_id": "ZwsNgAAAAADudL0opURfT0/7cozaEtqX",
   "tracks": [
     {
       "added_at": null,
@@ -263,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
       "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 191986,
-      "name": "Houston, We Got a Problem",
-      "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
+      "duration_ms": 176000,
+      "name": "Different 'Round Here",
+      "url": "https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u"
     },
     {
       "added_at": null,
@@ -295,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Different 'Round Here",
-      "url": "https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u"
+      "duration_ms": 191986,
+      "name": "Houston, We Got a Problem",
+      "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
     },
     {
       "added_at": null,

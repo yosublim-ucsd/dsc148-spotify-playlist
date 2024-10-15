@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 494 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 43 | [Stranger](https://open.spotify.com/track/3PxTsBlC26KCv3pbsgeZsb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:48 |
 | 44 | [Yalla Habibi](https://open.spotify.com/track/5bh1nrFgPrF37UTFUqNF2K) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Rime](https://open.spotify.com/artist/6dzxyLQVwvrXYxhgX24PUY), [Kaz Money](https://open.spotify.com/artist/6FzGg6vAs0WklxyplF8jbn) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 3:20 |
 | 45 | [Eventually](https://open.spotify.com/track/1hN2dpIJ7HzyBvyImnt21L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:43 |
-| 46 | [Find Myself](https://open.spotify.com/track/3wyv3pKlVxP7dmUgIrQOU9) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:32 |
-| 47 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 |
+| 46 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 |
+| 47 | [Find Myself](https://open.spotify.com/track/3wyv3pKlVxP7dmUgIrQOU9) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:32 |
 | 48 | [Stronger](https://open.spotify.com/track/1nuxaVFCgDnqYHGVr4AglT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:00 |
 | 49 | [thinkin bout me \- from Grown\-ish](https://open.spotify.com/track/4CWp4i4SwWmBV3KOfs6Wdb) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [thinkin bout me \(from Grown\-ish\)](https://open.spotify.com/album/5NRBqL0ZxMfgg50YpAjz1b) | 3:19 |
 | 50 | [Me vs\. Us](https://open.spotify.com/track/1ZOZEC5MaEWsm6FkEUrYeI) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 99 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 100 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `Abes4AAAAABH8k1BDrc8ca8D7fGI5Q+/`
+Snapshot ID: `AbeygAAAAADgzn/7TyR8Rw4tRYJtZMOF`

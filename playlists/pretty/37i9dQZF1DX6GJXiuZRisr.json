@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1568325,
+  "num_followers": 1568433,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+      "duration_ms": 329318,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 329318,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 216795,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 294400,
       "name": "One New Change",
       "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216795,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "IT MIGHT BE THE DRUGS",
         "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 219892,
       "name": "IT MIGHT BE THE DRUGS",
       "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2024-10-04 04:00:00",

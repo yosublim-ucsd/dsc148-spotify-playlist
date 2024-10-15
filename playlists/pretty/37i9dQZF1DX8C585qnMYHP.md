@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Mabe Fratti on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,231 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,297 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 40 | [O O O O](https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:25 |
 | 41 | [Fuse](https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:36 |
 | 42 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 |
-| 43 | [The Turning Ground](https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [The Turning Ground](https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn) | 4:25 |
-| 44 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
+| 43 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
+| 44 | [The Turning Ground](https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [The Turning Ground](https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn) | 4:25 |
 | 45 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
-| 46 | [Rhythm\-O\-Green](https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:30 |
-| 47 | [Interstellar](https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:37 |
+| 46 | [Interstellar](https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:37 |
+| 47 | [Rhythm\-O\-Green](https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:30 |
 | 48 | [Hooked Paw](https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Hooked Paw](https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl) | 3:20 |
 | 49 | [For a Burning World](https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru), [Ellen Renton](https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm) | [My Noise Is Nothing](https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h) | 5:57 |
 | 50 | [be a](https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 8:03 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 65 | [Capillary Waves](https://open.spotify.com/track/16Y634DGj4RFpHNB6O9b6Z) | [Flock](https://open.spotify.com/artist/5c4ETn2xdmdKYUm29Ht3kN), [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu), [Tamar Osborn](https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj), [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk), [Al MacSween](https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu) | [Capillary Waves](https://open.spotify.com/album/4OFrhC2mkhCGPjT2JkACQj) | 3:30 |
 | 66 | [Messimalism \(Above Thought\)](https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv) | [Emanative](https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB), [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Messimalism \(Above Thought\)](https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn) | 6:44 |
 | 67 | [Crystals](https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:25 |
-| 68 | [Sincerity](https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x) | [Permanent Loss](https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7) | [Sincerity](https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF) | 2:33 |
-| 69 | [Baraka](https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Hailu](https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6) | 2:35 |
+| 68 | [Baraka](https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Hailu](https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6) | 2:35 |
+| 69 | [Sincerity](https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x) | [Permanent Loss](https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7) | [Sincerity](https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF) | 2:33 |
 | 70 | [hope's return](https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [hope's return](https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q) | 1:43 |
 | 71 | [Arms, Armor](https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 1:05 |
 | 72 | [Money & the Drugs](https://open.spotify.com/track/51aDCPVUWySQkIYng27SPY) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Crime in Australia](https://open.spotify.com/album/374ZskICJ6vrlxDJZhiq7f) | 3:45 |

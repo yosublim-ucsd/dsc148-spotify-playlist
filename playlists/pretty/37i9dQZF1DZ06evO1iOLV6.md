@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,143 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,147 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 15 | [Love You Die \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love You Die \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD) | 3:15 |
 | 16 | [Credit Alert](https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Credit Alert](https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet) | 3:13 |
 | 17 | [Girlie 'O' \- Remix](https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Girlie 'O' \(Remix\)](https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4) | 3:55 |
-| 18 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
-| 19 | [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 |
-| 20 | [Pretty Girl](https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
+| 18 | [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 |
+| 19 | [Pretty Girl](https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
+| 20 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 |
 | 21 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
 | 22 | [Is It Because I Love You](https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Yagi](https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv) | 3:54 |
 | 23 | [Together](https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Together](https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2) | 4:12 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 31 | [Ma girl](https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Ma girl](https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos) | 3:27 |
 | 32 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 | 33 | [Tonight](https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [TONIGHT](https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb) | 3:16 |
-| 34 | [Alubarika](https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alubarika](https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw) | 3:55 |
-| 35 | [Sing My Name](https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name](https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR) | 3:34 |
+| 34 | [Sing My Name](https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name](https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR) | 3:34 |
+| 35 | [Alubarika](https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alubarika](https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw) | 3:55 |
 | 36 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
 | 37 | [Love Town](https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:22 |
 | 38 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Snapdatsh!t \- Remix](https://open.spotify.com/track/1V4LuVzWHvEPNY0S42KW1A) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Snapdatsh!t \(Remix\)](https://open.spotify.com/album/7sXEoxq5KV1jhU1g5NEede) | 3:36 |
 | 50 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 
-Snapshot ID: `Zwm8AAAAAADBgi3Fw5PkzphFZt8rQ1TT`
+Snapshot ID: `ZwsNgAAAAADocld8hjMF1cpKdNhSn72a`

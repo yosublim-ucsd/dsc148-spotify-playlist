@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,713 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,723 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 10 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 |
 | 11 | [Pájaro Zinzontle](https://open.spotify.com/track/511pu0YZEk21PSpghFADdy) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Son Rompepera](https://open.spotify.com/artist/3QM4Z6Id8e3VyAoc5CbU2P) | [Mambo Mundial](https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl) | 3:38 |
 | 12 | [Tequila!](https://open.spotify.com/track/2BoWBdHXrLpGw16FAoDnOT) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Tequila!](https://open.spotify.com/album/6PutDqugsUJbznt1Ef2eym) | 4:46 |
-| 13 | [Lobos al Escape](https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Los Orientales de Paramonga](https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy) | 2:31 |
-| 14 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 |
+| 13 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 |
+| 14 | [Lobos al Escape](https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Los Orientales de Paramonga](https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy) | 2:31 |
 | 15 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 |
 | 16 | [Comencemos \(Let's Start\)](https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Tropicoso](https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz) | 2:32 |
 | 17 | [Cumbia de la Montaña](https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0) | [Sabor Sónico](https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ) | 6:26 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 64 | [Savage Love](https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi) | [Joshua Moriarty](https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU) | [Savage Love](https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ) | 3:54 |
 | 65 | [Mar Iguana](https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj) | [É Arenas](https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC) | [Mar Iguana](https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn) | 3:17 |
 | 66 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 |
-| 67 | [Shake & Bake](https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Shake & Bake](https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu) | 4:40 |
-| 68 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
+| 67 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
+| 68 | [Shake & Bake](https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Shake & Bake](https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu) | 4:40 |
 | 69 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 |
 | 70 | [Churro Vs\. Crow](https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Churro Vs\. Crow](https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B) | 3:22 |
 | 71 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 73 | [Bueltatzen](https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o) | [Goxua´n Salsa](https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL) | [Bueltatzen](https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv) | 4:18 |
 | 74 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 |
 | 75 | [El Pescador](https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [Dos Santos](https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg) | 3:33 |
-| 76 | [La Era del GigaHertz](https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [La Era del GigaHertz](https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ) | 5:06 |
-| 77 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 |
+| 76 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 |
+| 77 | [La Era del GigaHertz](https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [La Era del GigaHertz](https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ) | 5:06 |
 | 78 | [Con Otros Ojos](https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Con Otros Ojos](https://open.spotify.com/album/6Kh8aI3eYi6mqHdVg4HXf7) | 3:40 |
 | 79 | [Bicicleta Intergalactica](https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU) | [Bacalao Men](https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk) | [El Nuevo Bugalu](https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF) | 4:30 |
 | 80 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 95 | [Chucha](https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chucha](https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ) | 2:27 |
 | 96 | [Ya](https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Ya](https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM) | 2:20 |
 | 97 | [El Mito del Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito del Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 |
-| 98 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 |
-| 99 | [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 |
-| 100 | [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 |
+| 98 | [Cumbia Oceánica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 |
+| 99 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
+| 100 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 |
 
 Snapshot ID: `ZwA2KAAAAABEIpcyvz7TQ2hGt8Sn5QCk`

@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 69248,
+  "num_followers": 69258,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Somewhere (feat. Gus Dapperton)",
-        "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183943,
-      "name": "Somewhere (feat. Gus Dapperton)",
-      "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 252600,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Somewhere (feat. Gus Dapperton)",
+        "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183943,
+      "name": "Somewhere (feat. Gus Dapperton)",
+      "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 197853,
       "name": "Digging Deeper",
       "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
     },
     {
       "added_at": "2024-06-28 21:13:36",

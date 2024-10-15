@@ -2,12 +2,13 @@
 
 ### [This Is Summer Walker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO30JqGN)
 
-> This is Summer Walker\. The essential tracks, all in one playlist.
+> This is Summer Walker\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-45 songs - 2 hr 16 min
+46 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [+1 \(404\) 476\-6404](https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [+1 \(404\) 476\-6404](https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX) | 0:48 | 2024-10-15 |  |
 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 | 2024-10-05 |  |
 | [Anna Mae](https://open.spotify.com/track/09OeD94T28n7ku4RqPa6wZ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:17 | 2024-10-07 |  |
 | [Baby](https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:28 | 2024-10-05 |  |

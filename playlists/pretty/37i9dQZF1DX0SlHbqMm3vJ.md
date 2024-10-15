@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Darkoo & Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,090 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,140 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 53 | [Love practitioner](https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love practitioner](https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y) | 2:35 |
 | 54 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
 | 55 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 |
-| 56 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
-| 57 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
+| 56 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
+| 57 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 58 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 |
 | 59 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
 | 60 | [Digest](https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Digest](https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk) | 2:26 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 68 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
 | 69 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 |
 | 70 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |
-| 71 | [diallo](https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [diallo](https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE) | 2:43 |
-| 72 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
+| 71 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
+| 72 | [diallo](https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [diallo](https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE) | 2:43 |
 | 73 | [4 Days](https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn) | 2:34 |
 | 74 | [Ifeoma](https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Ifeoma](https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx) | 2:40 |
 | 75 | [Lose](https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Lose](https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz) | 3:50 |

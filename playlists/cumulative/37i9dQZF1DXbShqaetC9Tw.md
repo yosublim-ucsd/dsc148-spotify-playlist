@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-204 songs - 11 hr 23 min
+205 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,11 +85,12 @@
 | [Girl, Interrupted](https://open.spotify.com/track/5hpJwLiUV02mx6aZQW0aUu) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 3:00 | 2022-07-15 | 2022-07-19 |
 | [GOING OUT \(feat\. punchnello\)](https://open.spotify.com/track/7c0yQy1OIbMHS5bW7z7HeN) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 | 2022-04-18 | 2022-07-15 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-04-21 | 2022-07-28 |
-| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2024-03-08 |  |
+| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2024-03-08 | 2024-10-15 |
 | [HOME](https://open.spotify.com/track/2qZkPTNzuxG9ccHHGTMUeo) | [SEO SANG JUNE](https://open.spotify.com/artist/4xhjiovPR2cE0VUBES3aUx) | [HOME](https://open.spotify.com/album/4jfZZ3egNdJzQTq77uSbHe) | 3:52 | 2022-04-18 | 2022-04-21 |
 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 | 2024-09-24 |  |
 | [I Said](https://open.spotify.com/track/0wV4K0cM78MbIk0B6b6Y4t) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/46yXA9eD43ql1b5BqYlzMw) | 3:12 | 2022-04-18 | 2022-07-26 |
 | [I Said](https://open.spotify.com/track/2J7bMyJ1UBvpaQrn5pkVAd) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/527RxfqAfboRNC1OnD3pga) | 3:12 | 2022-07-25 | 2022-08-30 |
+| [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-14 |  |
 | [I\`m not ready yet](https://open.spotify.com/track/1jbUZJlpPejvs6QAe31rNu) | [MAGO](https://open.spotify.com/artist/7Bot84kmw6HboO5cTVSLXP) | [I\`m not ready yet](https://open.spotify.com/album/7ebi1OOJMvN5j0e51w11Xw) | 3:10 | 2022-04-21 | 2022-07-12 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-04-18 | 2022-07-25 |
 | [In place \(feat\. woOnim\)](https://open.spotify.com/track/7pOnJzS7Iyl8MilMSa4yKH) | [Daehan](https://open.spotify.com/artist/1OfRPrepoCciCk7oDpIbAO), [WoOnim](https://open.spotify.com/artist/7CGyRLtNG8TvIT8rNmQAL1) | [In place](https://open.spotify.com/album/1M2GJomN0N9jiWUT1hxueM) | 3:15 | 2022-07-25 | 2022-07-29 |

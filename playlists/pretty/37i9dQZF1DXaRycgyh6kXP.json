@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 236159,
+  "num_followers": 236289,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Burns (Edit)",
         "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -691,38 +691,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Time Spent Away From U",
-        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "U",
-      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -739,6 +707,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Time Spent Away From U",
+        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Reality Testing",
         "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 289082,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Other Lights",
-        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 128773,
-      "name": "An Ending, a Beginning",
-      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Other Lights",
+        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 128773,
+      "name": "An Ending, a Beginning",
+      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
     },
     {
       "added_at": "2024-09-20 04:00:00",

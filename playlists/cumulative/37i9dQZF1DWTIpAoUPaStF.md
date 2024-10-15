@@ -4,7 +4,7 @@
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-92 songs - 5 hr 51 min
+93 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2023-01-17 |  |
 | [Back To The Sky \(feat\. JFDR\)](https://open.spotify.com/track/05fi8xNQnQhoJhdb6pIEmO) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:23 | 2023-01-17 |  |
 | [bad guy](https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [bad guy](https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix) | 3:05 | 2023-01-17 | 2024-09-09 |
-| [Basket Case](https://open.spotify.com/track/2WM7ZRdvK3YEMKzkLUtVwJ) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Basket Case](https://open.spotify.com/album/7CGhJlFFbyjsz7oRfvjOTp) | 2:49 | 2023-01-17 |  |
+| [Basket Case](https://open.spotify.com/track/2WM7ZRdvK3YEMKzkLUtVwJ) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Basket Case](https://open.spotify.com/album/7CGhJlFFbyjsz7oRfvjOTp) | 2:49 | 2023-01-17 | 2024-10-15 |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 | 2023-10-10 |
 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2023-01-17 | 2024-05-28 |
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2023-01-17 |  |
@@ -55,6 +55,7 @@
 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 | 2023-01-17 | 2023-09-02 |
 | [K.](https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 5:20 | 2023-01-17 |  |
 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 | 2023-01-17 | 2023-12-20 |
+| [Lead On, Lead On](https://open.spotify.com/track/3v1Ywbvm1Nm9D5yysUezV5) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Lead On, Lead On](https://open.spotify.com/album/1ZydMM7m88Uh4tphwEYi2E) | 3:41 | 2023-01-17 |  |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2023-01-17 | 2024-04-19 |
 | [Like a Song](https://open.spotify.com/track/3lIxP6Gt1QgNFFLAqnnDXp) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Like a Song](https://open.spotify.com/album/7ME05eOFVBnMfhjf0PjzRz) | 3:04 | 2023-01-17 |  |
 | [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2023-01-17 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Ana B\u00e1rbara. Los temas esenciales, todos en una lista.",
-  "num_followers": 44276,
+  "num_followers": 44281,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABB7inbqFgsrNNM+M0o46U/",
+  "snapshot_id": "ZwsNgAAAAABVHI81K83WvSfvIgT3ePCY",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompiendo Cadenas",
-        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 208431,
-      "name": "Que Ironia - Original Mix",
-      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 151973,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 208431,
+      "name": "Que Ironia - Original Mix",
+      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "No Se Que Voy A Hacer",
-      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Cadenas",
         "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 203546,
       "name": "Te Llevaste - Original mix",
       "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "No Se Que Voy A Hacer",
+      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quise Olvidar",
         "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 181986,
       "name": "Quise Olvidar",
       "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Ahora Me Toca a Mi",
+      "url": "https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 192680,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Soy La Mujer",
-        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "Ahora Me Toca a Mi",
-      "url": "https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1"
     },
     {
       "added_at": null,

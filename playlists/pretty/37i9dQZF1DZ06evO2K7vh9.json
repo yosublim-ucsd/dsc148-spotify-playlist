@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 81529,
+  "num_followers": 81556,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAPQTn75mlwG1QGLmfW7hC7",
+  "snapshot_id": "ZwsNgAAAAADuUBYRX1MiMUvVoXYx5idh",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Love You Tecca 2 - Deluxe",
+        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131691,
+      "name": "GRAMMY (Freestyle)",
+      "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 191656,
       "name": "Memories in My Head",
       "url": "https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Love You Tecca 2 - Deluxe",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131691,
-      "name": "GRAMMY (Freestyle)",
-      "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
     },
     {
       "added_at": null,

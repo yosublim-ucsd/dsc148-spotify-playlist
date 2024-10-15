@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 180890,
       "name": "Cash",
       "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
@@ -5426,7 +5426,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 153333,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/7papu4e31nzof4krM4DEnr"
@@ -6492,7 +6492,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 136800,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g"
@@ -6802,6 +6802,32 @@
       "duration_ms": 182979,
       "name": "Men Don Show Face",
       "url": "https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX"
+    },
+    {
+      "album": {
+        "name": "Mentali",
+        "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150278,
+      "name": "Mentali",
+      "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
     },
     {
       "album": {
@@ -7376,7 +7402,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 169843,
       "name": "No Games",
       "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
@@ -8798,7 +8824,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 168000,
       "name": "Ready",
       "url": "https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE"
@@ -9196,7 +9222,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 135000,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/04C3f1zE0YHypfmg8hF2cY"
@@ -11470,7 +11496,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 141756,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/1VgZTEM4FOofjI503IAqWr"

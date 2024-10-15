@@ -1,6 +1,6 @@
 {
   "description": "correndo SEMPRE atr\u00e1s do som",
-  "num_followers": 1401403,
+  "num_followers": 1401382,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -799,42 +799,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 179945,
-      "name": "Loucura",
-      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -871,6 +835,42 @@
       "duration_ms": 438748,
       "name": "Desacato",
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -1439,42 +1439,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "365 Dias",
         "url": "https://open.spotify.com/album/531yrQRB8MaHyBIDg6IWpF"
       },
@@ -1511,6 +1475,42 @@
       "duration_ms": 521958,
       "name": "365 Dias",
       "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "duration_ms": 300487,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"
     },
     {
       "added_at": "2024-10-11 03:03:00",

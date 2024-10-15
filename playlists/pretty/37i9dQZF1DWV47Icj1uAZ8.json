@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 39353,
+  "num_followers": 39369,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "blkswn",
         "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 239635,
       "name": "7am On Bridle Path",
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253803,
-      "name": "Dreams Money Can Buy",
-      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
       "artists": [
         {
-          "name": "Pressure Busspipe",
-          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+      "duration_ms": 253803,
+      "name": "Dreams Money Can Buy",
+      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
     },
     {
       "added_at": "2022-10-01 16:00:00",

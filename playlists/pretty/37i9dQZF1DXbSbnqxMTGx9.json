@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3025058,
+  "num_followers": 3025397,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -440,26 +440,6 @@
       },
       "artists": [
         {
-          "name": "Shabba Ranks",
-          "url": "https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG"
-        },
-        {
-          "name": "Chevelle Franklin",
-          "url": "https://open.spotify.com/artist/1owFk9HCCiomrmEt6k9cqC"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Mr. Loverman (feat. Chevelle Franklin)",
-      "url": "https://open.spotify.com/track/2rbhnnqBoizShumb5Ul8oR"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
           "name": "Tony Rebel",
           "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
         },
@@ -471,6 +451,26 @@
       "duration_ms": 295533,
       "name": "My Way Or The Highway (feat. Diana King)",
       "url": "https://open.spotify.com/track/4B6mG7n0BxvasblplYkgV5"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Shabba Ranks",
+          "url": "https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG"
+        },
+        {
+          "name": "Chevelle Franklin",
+          "url": "https://open.spotify.com/artist/1owFk9HCCiomrmEt6k9cqC"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Mr. Loverman (feat. Chevelle Franklin)",
+      "url": "https://open.spotify.com/track/2rbhnnqBoizShumb5Ul8oR"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Aswad",
+          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
+        }
+      ],
+      "duration_ms": 311133,
+      "name": "Not Satisfied",
+      "url": "https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 177373,
       "name": "Far East",
       "url": "https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
-          "name": "Aswad",
-          "url": "https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0"
-        }
-      ],
-      "duration_ms": 311133,
-      "name": "Not Satisfied",
-      "url": "https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv"
     },
     {
       "added_at": "2024-01-29 05:18:16",

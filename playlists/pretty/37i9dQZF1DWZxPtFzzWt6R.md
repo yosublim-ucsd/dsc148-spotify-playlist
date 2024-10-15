@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,957 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,978 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 12 | [A Casa](https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [A Casa](https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9) | 4:53 |
 | 13 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
 | 14 | [O Barco](https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW) | [Junior e Mateus](https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I) | [No Barco](https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB) | 3:33 |
-| 15 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
-| 16 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 |
+| 15 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 |
+| 16 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
 | 17 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 18 | [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 |
 | 19 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |

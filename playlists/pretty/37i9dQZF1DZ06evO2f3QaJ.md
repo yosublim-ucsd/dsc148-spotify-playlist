@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. The essential tracks, all in one playlist.
+> This is Zudizilla\. Track\-track unggulan, semuanya dalam satu playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 817 likes - 45 songs - 2 hr 49 min
 
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 23 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 |
 | 24 | [O Dia Mais Quente do Ano](https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:50 |
 | 25 | [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 |
-| 26 | [TUDO CULPA DO RNB](https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [TUDO CULPA DO RNB](https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX) | 4:19 |
-| 27 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 |
+| 26 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 |
+| 27 | [TUDO CULPA DO RNB](https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [TUDO CULPA DO RNB](https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX) | 4:19 |
 | 28 | [Apoteose](https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:07 |
-| 29 | [Mão Direita / Amor](https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 4:50 |
-| 30 | [Um Acorde](https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Psicodelic](https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR) | 4:10 |
-| 31 | [Sem Distração](https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Manoela Fortuna](https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:23 |
+| 29 | [Sem Distração](https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Manoela Fortuna](https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:23 |
+| 30 | [Mão Direita / Amor](https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 4:50 |
+| 31 | [Um Acorde](https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Psicodelic](https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR) | 4:10 |
 | 32 | [Prisma](https://open.spotify.com/track/28azbjBNeQAUv060KuGomn) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:37 |
 | 33 | [Intro 11](https://open.spotify.com/track/5rvzn08qm73r3eVsfpIJB5) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:35 |
 | 34 | [Não](https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Não](https://open.spotify.com/album/1HPEDSjxNNaatBaNbdNoM4) | 4:27 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 44 | [SALVE](https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:08 |
 | 45 | [TELA EM BRANCO](https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Monique Brito](https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:19 |
 
-Snapshot ID: `Zwm8AAAAAACww1hf1K/caQe8LVRKxfTG`
+Snapshot ID: `ZwsNgAAAAAAWesgofKcXhDoHmCt8atH+`

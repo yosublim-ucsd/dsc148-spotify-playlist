@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,985 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,181 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 27 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
 | 28 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
 | 29 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
-| 30 | [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 |
-| 31 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
-| 32 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
+| 30 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
+| 31 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
+| 32 | [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 |
 | 33 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
 | 34 | [Blast](https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [KSKV](https://open.spotify.com/artist/07BMRyGNDQEqrjtlqjfYuh) | [Blast](https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4) | 2:36 |
 | 35 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 47 | [GANG GANG](https://open.spotify.com/track/7BerPxtzf632guxMa5EMXi) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [GANG GANG](https://open.spotify.com/album/3jlhWL3WyEtQxfSMphuhna) | 2:27 |
 | 48 | [Slow Down](https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Slow Down](https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN) | 2:16 |
 | 49 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
-| 50 | [Go Away](https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1) | [Alieff Green](https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe), [Rio Bakoo](https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c) | [Go Away](https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr) | 2:57 |
+| 50 | [Yeah!](https://open.spotify.com/track/2MZkILMJHm0p4JTY2qbUJW) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl), [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [Vokido](https://open.spotify.com/artist/0OrhRAX5OBX91Ad12Frn16), [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP) | [Yeah!](https://open.spotify.com/album/7BCbDhUmjXcQDPn2SAilwu) | 2:33 |
 
 Snapshot ID: `ZttXMgAAAADjT5UA0NqVnJT3OgPFiavn`

@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 134845,
+  "num_followers": 134894,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
@@ -699,22 +683,18 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "TELL ME (feat. Chl\u00f6e)",
-        "url": "https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz"
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 156133,
-      "name": "TELL ME (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -739,6 +719,26 @@
       "duration_ms": 230645,
       "name": "Friends, Family & God",
       "url": "https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "TELL ME (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "TELL ME (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -775,22 +775,6 @@
       "duration_ms": 207339,
       "name": "Run Away (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -851,26 +835,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -895,6 +859,42 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
         "name": "\u7768\u3081\u3063\u5a18",
         "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 159000,
       "name": "\u7768\u3081\u3063\u5a18",
       "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
-        "name": "\u6e80\u3061\u3066\u3086\u304f",
-        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 310997,
-      "name": "\u6e80\u3061\u3066\u3086\u304f",
-      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -983,6 +967,38 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "\u6e80\u3061\u3066\u3086\u304f",
+        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 310997,
+      "name": "\u6e80\u3061\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "JAGUAR II : Deluxe",
-        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 149195,
-      "name": "1900's",
-      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "golden hour (Fujii Kaze Remix)",
         "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 149195,
+      "name": "1900's",
+      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 173453,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
-        "name": "WHITNEY",
-        "url": "https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 164021,
-      "name": "WHITNEY",
-      "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+        "name": "WHITNEY",
+        "url": "https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+      "duration_ms": 164021,
+      "name": "WHITNEY",
+      "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1335,6 +1319,22 @@
       "duration_ms": 180300,
       "name": "Money Baby",
       "url": "https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "JEANS",
-        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "JEANS (with Miguel)",
-      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "\u304b\u3051\u8db3\u65cf",
         "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
       },
@@ -1407,18 +1387,22 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+        "name": "JEANS",
+        "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+      "duration_ms": 195186,
+      "name": "JEANS (with Miguel)",
+      "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1455,6 +1439,22 @@
       "duration_ms": 174095,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "\u559c\u5287",
         "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 230666,
       "name": "\u559c\u5287",
       "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 237535,
-      "name": "Guitar Song",
-      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "JADED",
-        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 166954,
-      "name": "I Do (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+      "duration_ms": 237535,
+      "name": "Guitar Song",
+      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
     },
     {
       "added_at": "2024-10-11 15:00:09",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-10-11 15:00:09",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2024-10-11 15:00:09",
-      "album": {
         "name": "BLEU",
         "url": "https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 188330,
       "name": "BLEU",
       "url": "https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn"
+    },
+    {
+      "added_at": "2024-10-11 15:00:09",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

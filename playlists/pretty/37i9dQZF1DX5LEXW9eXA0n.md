@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: LEE CHANGSUB\(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: AKMU\(악동뮤지션\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,236 likes - 105 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,245 likes - 105 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 104 | [Where are you](https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Where are you \(The Last 10 Years X Heize\)](https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI) | 3:53 |
 | 105 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 
-Snapshot ID: `ZwyFwwAAAADbPHhk4He5LVI36gmRjE+o`
+Snapshot ID: `ZwzPoAAAAADRj4eyv2OdkfZEU2xg7k8W`

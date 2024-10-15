@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 620543,
+  "num_followers": 620744,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/7gHs73wELdeycvS48JfIos"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 276600,
       "name": "Fade Out Lines - The Avener Rework",
       "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 236470,
       "name": "Line Of Sight",
       "url": "https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Sick Boy",
-        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Drew Love",
-          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Forever And A Day",
-        "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 166230,
-      "name": "Forever And A Day",
-      "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Forever And A Day",
+        "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 166230,
+      "name": "Forever And A Day",
+      "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Lost My Mind (Wake Up)",
-        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 147673,
-      "name": "Lost My Mind (Wake Up)",
-      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "This Mixtape is Fire.",
         "url": "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Lost My Mind (Wake Up)",
+        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 147673,
+      "name": "Lost My Mind (Wake Up)",
+      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
     },
     {
       "added_at": "2024-09-06 04:00:00",

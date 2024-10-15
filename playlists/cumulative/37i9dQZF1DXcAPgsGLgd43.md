@@ -4,12 +4,13 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-320 songs - 17 hr 4 min
+321 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 to Go](https://open.spotify.com/track/0cfqqNzKftMco4vjzkKMNo) | [Francesco V](https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q) | [2 to Go](https://open.spotify.com/album/0G5PVLMF8r8MidflHkemq7) | 5:17 | 2021-10-08 | 2022-07-28 |
 | [ABCD](https://open.spotify.com/track/6anCwyjY5vijE3AVBPiC3h) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9), [Bomber](https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa), [Ale Zuber](https://open.spotify.com/artist/7FEaPc2JZbJLMu1aDItr8S) | [ABCD](https://open.spotify.com/album/0yw8VFXJja3gI8H5tA2Sf6) | 2:13 | 2024-08-23 |  |
+| [Abra \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/1rEbr1mNQaZZmed7qrC2zt) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Abra \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/7mgE77YtjcOFQiYKsu07ZQ) | 2:12 | 2024-10-11 |  |
 | [Adios](https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Adios](https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms) | 3:20 | 2023-11-10 | 2024-06-29 |
 | [Afloja](https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Afloja](https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP) | 3:03 | 2024-04-26 |  |
 | [Africa \- Radio Edit](https://open.spotify.com/track/5pwPniwRlGObeCpl0ivxwT) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Christian Cheval](https://open.spotify.com/artist/0s7uxedaGedYmr74DC6qhg) | [Africa](https://open.spotify.com/album/7pfgoZbBtdgq4QRWUt30IM) | 2:58 | 2021-10-08 | 2022-07-23 |
@@ -22,7 +23,7 @@
 | [Arenales 2984](https://open.spotify.com/track/4HnLWM4wXJIaqItvM5NofI) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh) | [Arenales 2984](https://open.spotify.com/album/23ven5o2tmccqzRJ2ETSu4) | 2:48 | 2024-06-28 | 2024-07-06 |
 | [Asereje](https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM) | [Jean Massey](https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE) | [Asereje](https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV) | 2:48 | 2023-12-01 |  |
 | [Asi Lo Grita](https://open.spotify.com/track/5eXAJrSoUOx9LfNDm2svO7) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Asi Lo Grita](https://open.spotify.com/album/3HHmPnky6PZCgIqZpSiY2a) | 3:10 | 2024-03-29 | 2024-04-19 |
-| [Atardecer](https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [NIINE](https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8) | [Atardecer](https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF) | 2:11 | 2024-08-02 |  |
+| [Atardecer](https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [NIINE](https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8) | [Atardecer](https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF) | 2:11 | 2024-08-02 | 2024-10-15 |
 | [Ay](https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ay](https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7) | 4:06 | 2024-03-01 | 2024-07-06 |
 | [Ay Papi](https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7) | [Jack Bailey](https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc), [Nick Proof](https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO) | [Ay Papi](https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb) | 2:51 | 2024-02-16 | 2024-03-20 |
 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 | 2021-10-08 | 2023-11-11 |

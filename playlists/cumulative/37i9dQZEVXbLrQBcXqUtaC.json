@@ -7456,7 +7456,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -9368,7 +9368,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -13406,7 +13406,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 54308,
       "name": "MONTAGEM VOZES PROFUNDAS - TikTok Version",
       "url": "https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA"
@@ -13648,7 +13648,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 155757,
       "name": "Moonlit Floor",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -19118,7 +19118,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -19610,7 +19610,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 215150,
       "name": "Sunsetz",
       "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
@@ -22330,7 +22330,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI"
@@ -24217,6 +24217,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0648\u0646\u0647",
+        "url": "https://open.spotify.com/album/65IpNWkPsdSPz4BJ6OYPoq"
+      },
+      "artists": [
+        {
+          "name": "74 Original Suppa",
+          "url": "https://open.spotify.com/artist/74KWopgkBxKlwFCAa6UawR"
+        },
+        {
+          "name": "DEE PRODUCTION",
+          "url": "https://open.spotify.com/artist/2yLjdrrnFBawKrwLrNLyi7"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128002,
+      "name": "\u0627\u0648\u0646\u0647",
+      "url": "https://open.spotify.com/track/6ieb5VefKfuBdFc3Ziw5cX"
+    },
+    {
+      "album": {
         "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
         "url": "https://open.spotify.com/album/6wjOfiDcjkO8pofRooD13G"
       },
@@ -25328,7 +25350,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 195109,
       "name": "\u0634\u062f\u064a \u0648\u0644\u062f\u0643",
       "url": "https://open.spotify.com/track/70TWDAkB1EIRFKlwdHhpLZ"
@@ -26724,7 +26746,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 380255,
       "name": "\u0648\u064a\u0644\u064a",
       "url": "https://open.spotify.com/track/3h4kEr2cagLR0HlqMyMS2H"

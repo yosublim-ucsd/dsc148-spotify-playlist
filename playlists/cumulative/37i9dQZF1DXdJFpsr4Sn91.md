@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Charli xcx ja Ariana Grande.
 
-293 songs - 14 hr 37 min
+295 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Kerron sulle kaiken](https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Kerron sulle kaiken](https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1) | 2:53 | 2024-07-02 | 2024-08-30 |
 | [Kertaakaan](https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Kertaakaan](https://open.spotify.com/album/2s09JoTcTRY11KbaQid3RV) | 2:24 | 2024-07-02 | 2024-07-13 |
 | [Kielletty puheenaihe](https://open.spotify.com/track/70xT1xflNvvsgkFFMcDyB9) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Kielletty puheenaihe](https://open.spotify.com/album/5cahzQcSOQ5HYruF8LlkBQ) | 3:26 | 2024-08-22 | 2024-10-11 |
+| [Kiire \(Vain elämää kausi 15\)](https://open.spotify.com/track/1G5KFkMaAbhfvfzcA7HEZr) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Kiire \(Vain elämää kausi 15\)](https://open.spotify.com/album/0jJ707AXc4OCXFoikKMriF) | 2:49 | 2024-10-14 |  |
 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 | 2024-07-11 | 2024-09-27 |
 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 | 2024-08-09 | 2024-09-27 |
 | [Korttelipoikii](https://open.spotify.com/track/3kafWYTkrtS6vNXdmR7MWq) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Korttelipoikii](https://open.spotify.com/album/0vptg2snCTebe5cOqSaiIH) | 2:34 | 2024-08-29 | 2024-09-13 |
@@ -248,6 +249,7 @@
 | [Sä voitit jo](https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Sä voitit jo](https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88) | 2:58 | 2024-08-15 |  |
 | [SÄD!](https://open.spotify.com/track/6ap8d46sBzUPQyNx05hYbw) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [näätsä mut?](https://open.spotify.com/album/1jxW2otFGa3DmhKBjJKSHm) | 2:34 | 2024-10-10 |  |
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-19 |  |
+| [Taivaisiin \- Vain elämää kausi 15](https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Taivaisiin \(Vain elämää kausi 15\)](https://open.spotify.com/album/5LG3lMMeNl7F9jnvVqJDG3) | 3:29 | 2024-10-14 |  |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 | 2024-10-04 |
 | [Tapahtui elämä](https://open.spotify.com/track/3ts74b1mm3a1gIqPnVwJNy) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Tapahtui elämä](https://open.spotify.com/album/47Ha0ca6mwGlBPmr2qjiPt) | 3:55 | 2024-09-26 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 |  |

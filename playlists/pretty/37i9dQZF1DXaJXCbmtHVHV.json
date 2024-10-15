@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Jordan Davis",
-  "num_followers": 570178,
+  "num_followers": 570247,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Love You, Miss You, Mean It",
-        "url": "https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 201806,
-      "name": "Love You, Miss You, Mean It",
-      "url": "https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Love You, Miss You, Mean It",
+        "url": "https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Love You, Miss You, Mean It",
+      "url": "https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Mamaw's House",
-        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "Mamaw's House",
-      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 211991,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 211991,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Whiskey Blues",
         "url": "https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Like I Love Country Music",
         "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 231832,
+      "name": "half of my hometown (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1587,26 +1607,6 @@
       "duration_ms": 176022,
       "name": "Indifferent",
       "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 231832,
-      "name": "half of my hometown (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Damn Near Normal",
-        "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 224695,
-      "name": "Damn Near Normal",
-      "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     }
   ],
   "unique_name": "Big Country",

@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-806 songs - 1 day 10 hr 37 min
+807 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2021-12-13 | 2022-02-03 |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2021-12-13 | 2022-07-22 |
 | [Australia](https://open.spotify.com/track/5wN9u0f98S84bJNduSYdFG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Australia](https://open.spotify.com/album/6p6HESJHbt7N7yiR6mQDYO) | 2:22 | 2023-01-27 |  |
+| [automne](https://open.spotify.com/track/148TgfnMm3rIu632bSYUk9) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [automne](https://open.spotify.com/album/64kqrsnhnRaQ4bGSBpXnh5) | 2:28 | 2024-10-14 |  |
 | [autumn breeze](https://open.spotify.com/track/04SMi5SXZhiEg18r4q8sHN) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [autumn breeze](https://open.spotify.com/album/3OvcMcdJnqPdQqjSrKszgN) | 2:31 | 2021-12-13 | 2023-09-26 |
 | [Autumn Coming](https://open.spotify.com/track/5MlWVm7Zz923Qj1MuDVVG6) | [Carol Antoine](https://open.spotify.com/artist/6rmbj0DX5LpsEtDzGgmFGp) | [Recital](https://open.spotify.com/album/71ZwJjF1CBrcKhe9KGJnF9) | 3:20 | 2021-12-13 | 2022-08-10 |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-06 |  |
@@ -148,7 +149,7 @@
 | [Colours I Have Never Seen](https://open.spotify.com/track/2Bvl6xJMoUeOPPX3iVgKdK) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Colours I Have Never Seen](https://open.spotify.com/album/1LQn3dB82RyoBFthigd9Ro) | 2:00 | 2021-12-13 | 2022-12-22 |
 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 | 2023-11-28 | 2024-03-05 |
 | [Coming Closer](https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:53 | 2022-11-11 | 2023-08-22 |
-| [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 | 2022-10-24 |  |
+| [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 | 2022-10-24 | 2024-10-15 |
 | [Connect](https://open.spotify.com/track/3KSPjzcAseKtixjfaP0g7p) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Connect](https://open.spotify.com/album/42O6IwBECezuwFzDBac8eR) | 1:47 | 2023-05-19 | 2023-08-22 |
 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 | 2023-02-13 |  |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2021-12-13 | 2022-10-25 |

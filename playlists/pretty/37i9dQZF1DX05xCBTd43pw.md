@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,753 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,754 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 20 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 |
 | 21 | [Bird](https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Waves & Wishes](https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m) | 2:52 |
 | 22 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
-| 23 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 |
-| 24 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 |
-| 25 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 |
-| 26 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 |
+| 23 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 |
+| 24 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 |
+| 25 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 |
+| 26 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 |
 | 27 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 |
 | 28 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 |
 | 29 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 38 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 |
 | 39 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
 | 40 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
-| 41 | [blonde](https://open.spotify.com/track/2HFoavqtZRWTM9uvTagD75) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [blonde](https://open.spotify.com/album/79NREFnWQHD376rxBfNrTv) | 3:06 |
-| 42 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 |
+| 41 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 |
+| 42 | [blonde](https://open.spotify.com/track/2HFoavqtZRWTM9uvTagD75) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [blonde](https://open.spotify.com/album/79NREFnWQHD376rxBfNrTv) | 3:06 |
 | 43 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 |
 | 44 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 |
 | 45 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 65 | [Ig o](https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Ig o](https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci) | 2:42 |
 | 66 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 |
 | 67 | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL), [Adrian Stern](https://open.spotify.com/artist/0xyuoDGMf5zdxyAttFCSpX) | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki) | 3:08 |
-| 68 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 |
-| 69 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 |
+| 68 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 |
+| 69 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 |
 | 70 | [Gäbs es nid \- Duett Version](https://open.spotify.com/track/4EwuiDkpPO7p1jNVgcHTbv) | [Peter Reber](https://open.spotify.com/artist/6zyqeEDJC5qQuAPdOxrSaf), [Nina Reber](https://open.spotify.com/artist/7yFjPaO0bVy03YcDScEBmy) | [Gäbs es nid \(Duett Version\)](https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq) | 3:14 |
 
 Snapshot ID: `ZwlddQAAAABvbZHv12VQ6WdHNhhGdvHN`

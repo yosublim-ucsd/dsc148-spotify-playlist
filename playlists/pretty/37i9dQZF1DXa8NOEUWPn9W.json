@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Anti Up",
-  "num_followers": 1949776,
+  "num_followers": 1949789,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,30 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "My Love (2024)",
+        "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 184949,
+      "name": "My Love (2024)",
+      "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "RIZZ",
         "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 150923,
       "name": "I've Arrived (with Tomike)",
       "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "My Love (2024)",
-        "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
-      },
-      "artists": [
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        },
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 184949,
-      "name": "My Love (2024)",
-      "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Can't Play Myself (A Tribute To Amy)",
-        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Can't Play Myself (A Tribute To Amy)",
-      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2123,6 +2123,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6B882clcxY7DVqLyM2C1qA"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Make My Body Move (Radio Edit)",
         "url": "https://open.spotify.com/album/4v8ciFogaelHyb8jm1hGEZ"
       },
@@ -2283,26 +2303,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6B882clcxY7DVqLyM2C1qA"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Role Model",
         "url": "https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm"
       },
@@ -2371,6 +2371,30 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+        "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+      "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Monaco EP",
         "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
       },
@@ -2403,6 +2427,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Mad Motion",
         "url": "https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ"
       },
@@ -2419,22 +2459,6 @@
       "duration_ms": 160942,
       "name": "Mad Motion",
       "url": "https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2479,30 +2503,6 @@
       "duration_ms": 180937,
       "name": "To The Club",
       "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "For The Weekend",
-        "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "New Machine",
-          "url": "https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81"
-        }
-      ],
-      "duration_ms": 169722,
-      "name": "For The Weekend",
-      "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
     }
   ],
   "unique_name": "Housewerk",

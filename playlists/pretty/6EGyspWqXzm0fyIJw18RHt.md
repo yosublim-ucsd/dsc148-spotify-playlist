@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 17 songs - 1 hr 5 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 28 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,16 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 15 | [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 |
 | 16 | [Werewolves of London](https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:29 |
 | 17 | [Creepin' Candy](https://open.spotify.com/track/2kHK7MGeTNj0QlE14tuGWs) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Creepin' Candy](https://open.spotify.com/album/65RGVjUh4EMYhi2JFTaoRs) | 2:53 |
+| 18 | [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 |
+| 19 | [Monster Mash](https://open.spotify.com/track/6GmL39a9OazWtyMkAbJz7v) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX) | [Monster Mash](https://open.spotify.com/album/4t1p121vxYXR1qJfoOwtHQ) | 3:11 |
+| 20 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 |
+| 21 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
+| 22 | [Hex Girl](https://open.spotify.com/track/4NFMIIgeniFgNfsB8Uj9Ta) | [Moon Sisters](https://open.spotify.com/artist/1ShxlsSSCyVCcrmXBd6Djf), [The Nostalgia Girls](https://open.spotify.com/artist/0cgD9eoyZxiDAIPuWEqIm4) | [Embers of Beauty](https://open.spotify.com/album/0Unube3XUOtZsDhXGmQ3yQ) | 1:40 |
+| 23 | [Ghostbusters \- From "Ghostbusters"](https://open.spotify.com/track/7MnxdIXJd4N4mHCTPNKhkX) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters](https://open.spotify.com/album/2FKg8WOQtN015jM0eiKrNz) | 4:05 |
+| 24 | [The Addams Family](https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music](https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW) | 1:24 |
+| 25 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
+| 26 | [Riboflavin\-Flavored, Non\-Carbonated, Polyunsaturated Blood](https://open.spotify.com/track/1EIcNH1zUEr7sWCNK8Q0km) | [Don Hinson & The Rigamorticians](https://open.spotify.com/artist/6GNXV11gvYYegW2APslNlN) | [Monster Dance Party](https://open.spotify.com/album/4Ucm5B1SXAUCRuuBFQUPWE) | 2:39 |
+| 27 | [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 |
+| 28 | [Spirit Halloween Theme Song](https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 1:43 |
 
-Snapshot ID: `AAAAFDhF3nKnKucYEL6wfsgPQkixdGcF`
+Snapshot ID: `AAAAIcTBXZJbLHStGnQPLifh2MbUVAGg`

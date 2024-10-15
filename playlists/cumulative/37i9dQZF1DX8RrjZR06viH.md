@@ -4,7 +4,7 @@
 
 > 🍂
 
-122 songs - 6 hr 11 min
+123 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2024-06-27 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2024-06-27 | 2024-10-11 |
 | [Mamma sa det ordne se for snille piker](https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Mamma sa det ordne se for snille piker](https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF) | 3:25 | 2024-08-29 |  |
-| [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 | 2024-06-27 |  |
+| [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 | 2024-06-27 | 2024-10-15 |
 | [Meri Jaan \- LePark Studio, Milan](https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Omar Sheriff](https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC), [Mo Ayn](https://open.spotify.com/artist/0WDI0f4hXiPrIrS4TUJDX7) | [DIASPORA DREAMS \(THE QUICK STYLE SELECTION\)](https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV) | 3:49 | 2024-06-27 |  |
 | [Min for en kveld](https://open.spotify.com/track/7aI28hcZEtBkP0IsX8uE3e) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Min for en kveld](https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g) | 2:33 | 2024-09-05 |  |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 |  |
@@ -119,6 +119,7 @@
 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 | 2024-06-27 |  |
 | [Ti tusen](https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Ti tusen](https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X) | 3:00 | 2024-06-27 |  |
 | [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2024-06-27 |  |
+| [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2024-10-10 |  |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-10-14 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 |  |
 | [Tre sekunder](https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Tre sekunder](https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ) | 3:09 | 2024-06-27 | 2024-09-15 |

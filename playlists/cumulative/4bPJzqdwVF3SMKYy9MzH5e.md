@@ -4,7 +4,7 @@
 
 > 
 
-1,985 songs - 4 day 10 hr 50 min
+1,988 songs - 4 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [300](https://open.spotify.com/track/1EBWd3jfZH8IzvHH3L3zzW) | [lagoyo](https://open.spotify.com/artist/4Iqd5rIwHATImcJMlDjYIX) | [300](https://open.spotify.com/album/4ToUcgF2XBtrwCf6hdYkW0) | 2:43 | 2024-10-06 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-13 |  |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-11 |  |
-| [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/1wNjj4mUpv35gY5CzUZCDb) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/53sxNSbg497jRQVaT0nynx) | 1:53 | 2024-10-06 |  |
+| [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/1wNjj4mUpv35gY5CzUZCDb) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/53sxNSbg497jRQVaT0nynx) | 1:53 | 2024-10-06 | 2024-10-15 |
 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/21cgnjk9unhXn3SBQAAaA9) | [vamp](https://open.spotify.com/artist/19pNKzmfJyEVRpDd179sNP) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/52qrtveZ7LAWg0RO1J36A8) | 1:53 | 2024-09-02 | 2024-10-06 |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
@@ -372,6 +372,7 @@
 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 | 2023-06-07 |  |
 | [Cloud99 \(As Above Mix\)](https://open.spotify.com/track/5FbJG8bTkeDjTWUEgsGzQG) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:20 | 2023-02-26 |  |
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-22 |  |
+| [Club classics featuring bb trickz](https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:54 | 2024-10-14 |  |
 | [Club Cyberia](https://open.spotify.com/track/3OPwVR3dVHEuWkNYk6LsQl) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Abandon The Flesh !](https://open.spotify.com/album/5UbQTFCWSpqzy8ZwviEJQ6) | 1:36 | 2022-10-13 |  |
 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2021-08-05 |  |
 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-08-28 |  |
@@ -571,6 +572,7 @@
 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 | 2022-02-18 |  |
 | [everything is fine](https://open.spotify.com/track/27dgLuKlG9Z9aCnzGg0IHY) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:01 | 2021-11-30 |  |
 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-22 |  |
+| [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/2p2U8zVAnue6Yrx3mvtBE3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:23 | 2024-10-14 |  |
 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 | 2021-08-05 |  |
 | [Everywhereigo](https://open.spotify.com/track/3DICBZOMaEWbCxwUfPGcE5) | [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [Everywhereigo](https://open.spotify.com/album/5W150vEDIbzQt4BMWaxNbY) | 2:15 | 2021-08-05 |  |
 | [Evian \(feat\. PinkPantheress, Rizloski & Rax\)](https://open.spotify.com/track/5uakDGEx9HegMZZi840VzH) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rizloski](https://open.spotify.com/artist/6Wl9y5OsaB4fyXl0cCC2iO), [Rax](https://open.spotify.com/artist/5WeVKbqPBzsASTkta9ijsz) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:08 | 2023-01-26 |  |
@@ -765,6 +767,7 @@
 | [help\_urself \- breakcore](https://open.spotify.com/track/3mfO4NyNl1sW4WabTejw4y) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 1:58 | 2022-05-23 |  |
 | [Hero!](https://open.spotify.com/track/509NzRvzuITtt1q6YAGGmd) | [11vx](https://open.spotify.com/artist/3xJ0g1VQ4uwT7memVHGG4g) | [Hero!](https://open.spotify.com/album/0tmoLmvFuMQl6SqOZqVMQ2) | 1:11 | 2023-01-05 |  |
 | [Heroin](https://open.spotify.com/track/7lSdUlVf8k6kxklKkskb1m) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:55 | 2021-08-05 |  |
+| [Heroine](https://open.spotify.com/track/6N2rMGXBhNZ6slxJcp1E7z) | [Dutch Disorder](https://open.spotify.com/artist/134MabV7tKukLyF9Xagk8A) | [Heroine](https://open.spotify.com/album/3BTiGQ2JLPTsmbpu58GnnZ) | 3:01 | 2024-10-14 |  |
 | [Heroine \- Cryogenic feat\. Unlocked The Uptempo Edit](https://open.spotify.com/track/2KkNsekL5ayUqYtkivLdNu) | [Dutch Disorder](https://open.spotify.com/artist/134MabV7tKukLyF9Xagk8A), [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Heroine \(Cryogenic feat\. Unlocked The Uptempo Edit\)](https://open.spotify.com/album/3ijrDYLRymot6AU6Qxlg5R) | 2:34 | 2024-09-23 |  |
 | [Hey Big Man](https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:42 | 2022-12-23 |  |
 | [Hey Kids](https://open.spotify.com/track/5poS8LyxohSACjuIZ61EyS) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Hey Kids](https://open.spotify.com/album/2w5lbvxycNKqfGSrWgmDpI) | 3:53 | 2021-08-05 |  |

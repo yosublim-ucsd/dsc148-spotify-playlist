@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,607 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,613 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 38 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
 | 39 | [Nos Queremos Vivas](https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Nos Queremos Vivas](https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W) | 3:40 |
 | 40 | [Nos Deseo](https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw) | [Tremenda Jauría](https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8), [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Cuentas Pendientes](https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6) | 3:28 |
-| 41 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 |
-| 42 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
+| 41 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
+| 42 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 |
 | 43 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 |
 | 44 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 |
 | 45 | [La mujer que nadie defendió](https://open.spotify.com/track/2CZxFBaUJDrD2mTxUCLjs0) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr), [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia), [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [La mujer que nadie defendió](https://open.spotify.com/album/5mdvYUQEGyeNA58pUVFgVF) | 3:55 |

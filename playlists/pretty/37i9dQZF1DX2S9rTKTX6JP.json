@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 695682,
+  "num_followers": 695802,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Last Resort (Reimagined)",
-        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Last Resort - Reimagined",
-      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Last Resort (Reimagined)",
+        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Last Resort - Reimagined",
+      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Music From The Motion Picture Not Another Teen Movie",
-        "url": "https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "99 Red Balloons",
-      "url": "https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Rock & Roll Hall of Fame Covers - EP",
         "url": "https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 139840,
       "name": "I Get Around - Live",
       "url": "https://open.spotify.com/track/06JprR8etx1u9C9k55lT1x"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Music From The Motion Picture Not Another Teen Movie",
+        "url": "https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "99 Red Balloons",
+      "url": "https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Summer In the City",
-        "url": "https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 188513,
-      "name": "Summer in the City",
-      "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/6H2VIw0KwJx8YxL23wQfQ3"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 242666,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Summer In the City",
+        "url": "https://open.spotify.com/album/3E06stlTQWUMGzysbx6YUu"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 188513,
+      "name": "Summer in the City",
+      "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 295074,
-      "name": "Change (In The House Of Flies)",
-      "url": "https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "We Are The Champions/We Will Rock You",
         "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 231887,
       "name": "We Are The Champions/We Will Rock You",
       "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 295074,
+      "name": "Change (In The House Of Flies)",
+      "url": "https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0"
     },
     {
       "added_at": "2024-10-11 04:00:00",

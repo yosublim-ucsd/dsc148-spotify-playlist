@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,418 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,476 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 28 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 | 29 | [Don't Leave Me Now](https://open.spotify.com/track/2Fc0uxBiHg5qIVyORYKrTV) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:59 |
 | 30 | [Cold, Cold Heart](https://open.spotify.com/track/7JKQQgFNw5RXiJBuLf7dXe) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 |
-| 31 | [Ain't That A Shame](https://open.spotify.com/track/6pTybvSMcw5spOS7d656rn) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:23 |
-| 32 | [I Couldn't Sleep A Wink Last Night \- 1999 Remastered](https://open.spotify.com/track/4Hbk7bsJPmM0CkVOElCBdB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Close To You And More \(Remastered\)](https://open.spotify.com/album/0ntYrgH2CUtgdpuEsqKzEn) | 3:25 |
+| 31 | [I Couldn't Sleep A Wink Last Night \- 1999 Remastered](https://open.spotify.com/track/4Hbk7bsJPmM0CkVOElCBdB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Close To You And More \(Remastered\)](https://open.spotify.com/album/0ntYrgH2CUtgdpuEsqKzEn) | 3:25 |
+| 32 | [Ain't That A Shame](https://open.spotify.com/track/6pTybvSMcw5spOS7d656rn) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:23 |
 | 33 | [Crying My Heart Out for You](https://open.spotify.com/track/1AkvPKQtV0IaHbMlw0cF8p) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:13 |
 | 34 | [It Might as Well Rain Until September](https://open.spotify.com/track/7mb7W6k0YULE9qJyAqyrBM) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Sad 60's Songs](https://open.spotify.com/album/5cDzUoyI2FI4hLUE4PHGvS) | 2:27 |
 | 35 | [I Hope She'll Be Happier with Him](https://open.spotify.com/track/4MWgDWsgpdHIOwIdLN9pNb) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hits & Rarities](https://open.spotify.com/album/6wZE4Eesz3b3wdrv9BRSKk) | 5:04 |

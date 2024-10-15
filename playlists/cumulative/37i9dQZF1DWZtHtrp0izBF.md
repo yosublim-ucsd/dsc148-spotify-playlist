@@ -4,7 +4,7 @@
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-177 songs - 14 hr 34 min
+178 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 | 2021-11-25 | 2023-04-25 |
 | [Será Que Si](https://open.spotify.com/track/1hAxMwmqRk0hCbbXOLn4IV) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:35 | 2021-11-25 | 2022-07-28 |
 | [Será Qué SÍ](https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:35 | 2021-11-25 | 2024-04-08 |
-| [Señora Ley](https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:12 | 2021-11-25 |  |
+| [Señora Ley](https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:12 | 2021-11-25 | 2024-10-15 |
 | [Si Te Vas](https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos Eternos](https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe) | 4:46 | 2021-11-25 | 2022-07-27 |
 | [Sigue Tu Camino](https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:49 | 2021-11-25 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 | 2021-11-25 |  |
@@ -156,6 +156,7 @@
 | [Te Amo, Te Extraño](https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:36 | 2021-11-25 | 2024-08-09 |
 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 | 2021-11-25 | 2022-07-29 |
 | [Te Va A Doler](https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:52 | 2021-11-25 | 2024-04-19 |
+| [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 | 2024-09-06 |  |
 | [Toda una vida](https://open.spotify.com/track/1wVBq5JruuC79tZpTnoe2I) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Leoni Torres Latest Hits](https://open.spotify.com/album/1TpErKbasNDJ3hgpt0V2h6) | 4:16 | 2021-11-25 | 2022-07-17 |
 | [Tres Días](https://open.spotify.com/track/33hjoPb45TjMp0TGYDawsv) | [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Cantor del Pueblo](https://open.spotify.com/album/6mZyJOou0vRSoynJYEpkP1) | 5:21 | 2024-03-19 |  |
 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 | 2021-11-25 |  |

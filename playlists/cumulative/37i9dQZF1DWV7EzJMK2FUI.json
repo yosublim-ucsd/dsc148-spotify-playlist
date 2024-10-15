@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "A Daydream Come True",
+        "url": "https://open.spotify.com/album/2Xir5EKuQMNjc2Qv1eTTth"
+      },
+      "artists": [
+        {
+          "name": "Fulton Street Players",
+          "url": "https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235125,
+      "name": "A Daydream Come True",
+      "url": "https://open.spotify.com/track/3xztZwk3GZiRiENHstatJC"
+    },
+    {
+      "album": {
         "name": "A Done Deal",
         "url": "https://open.spotify.com/album/0DCmCfxsTGYPUTXW90tf6H"
       },
@@ -373,6 +391,24 @@
     },
     {
       "album": {
+        "name": "A Letter to Yesterday",
+        "url": "https://open.spotify.com/album/7hcZnNWNS4GntGkGbOjPIV"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211615,
+      "name": "A Letter to Yesterday",
+      "url": "https://open.spotify.com/track/7LkdwMWR0xyImej3bSrlpH"
+    },
+    {
+      "album": {
         "name": "A Life Remembered",
         "url": "https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA"
       },
@@ -388,6 +424,24 @@
       "duration_ms": 176731,
       "name": "A Life Remembered",
       "url": "https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t"
+    },
+    {
+      "album": {
+        "name": "A Lonely Walk",
+        "url": "https://open.spotify.com/album/7z3Ybpfqcbdjv5riUCh05d"
+      },
+      "artists": [
+        {
+          "name": "Herman Fred Trio",
+          "url": "https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "A Lonely Walk",
+      "url": "https://open.spotify.com/track/2BY6E8FQnKEtZKp6zxguv5"
     },
     {
       "album": {
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 235050,
       "name": "All I See In You",
       "url": "https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP"
@@ -2568,7 +2622,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 248624,
       "name": "Bitterly",
       "url": "https://open.spotify.com/track/5Xm41ptJQvE3seHAInytkr"
@@ -3454,7 +3508,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 179292,
       "name": "Central Park West",
       "url": "https://open.spotify.com/track/2qVYNJdc64graTY7olJU1f"
@@ -5504,7 +5558,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 178822,
       "name": "Emerald Dreamscape",
       "url": "https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c"
@@ -5526,6 +5580,24 @@
       "duration_ms": 185517,
       "name": "Empty Embrace",
       "url": "https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX"
+    },
+    {
+      "album": {
+        "name": "Endless Days",
+        "url": "https://open.spotify.com/album/1n1D2WiBN1G3bC4YNrsU6J"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Endless Days",
+      "url": "https://open.spotify.com/track/4XDwiR78GhH02o4SIqXOj7"
     },
     {
       "album": {
@@ -7388,7 +7460,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 228656,
       "name": "Hay Square Serenade",
       "url": "https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR"
@@ -12990,7 +13062,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 179661,
       "name": "Midnight Moods",
       "url": "https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd"
@@ -14085,6 +14157,24 @@
     },
     {
       "album": {
+        "name": "My Sweet Darling",
+        "url": "https://open.spotify.com/album/6aKjvyPm7n58K9f8Y1DXug"
+      },
+      "artists": [
+        {
+          "name": "Jon Belle",
+          "url": "https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264750,
+      "name": "My Sweet Darling",
+      "url": "https://open.spotify.com/track/5HDqVxiCI8eL4yjlSRGGgn"
+    },
+    {
+      "album": {
         "name": "My Words Are Not Enough",
         "url": "https://open.spotify.com/album/0j6u4s9bsjhp1lLHA6PAic"
       },
@@ -14384,7 +14474,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 236632,
       "name": "Nights in Montauk",
       "url": "https://open.spotify.com/track/5jD5xLt3rtreHpDcTcib3n"
@@ -16430,7 +16520,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 213175,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/6z85P76YGzmZdcGUYYeap6"
@@ -17582,7 +17672,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 212363,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/4OpfAngpSybDsNk7TTaO1B"
@@ -18914,7 +19004,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 178359,
       "name": "Sunset Silhouettes",
       "url": "https://open.spotify.com/track/4mBKiFRJn79smMwoJ5FWrL"

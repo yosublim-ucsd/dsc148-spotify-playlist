@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 夜貓組 \(Leo王+春艷\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,906 likes - 111 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,910 likes - 111 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

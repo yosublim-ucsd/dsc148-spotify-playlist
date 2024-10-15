@@ -2,7 +2,7 @@
 
 ### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This is Megan Thee Stallion\. The essential tracks, all in one playlist.
+> This Is Megan Thee Stallion\. Los temas esenciales, todos en una lista.
 
 96 songs - 4 hr 26 min
 

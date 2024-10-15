@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,087 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,105 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 35 | [Are You Sure Hank Done It This Way \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 2:32 |
 | 36 | [Good Morning John](https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:50 |
 | 37 | [Billy Dee](https://open.spotify.com/track/3YM7FRaoS3GhWqO1z0lh9A) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 2:58 |
-| 38 | [Jody and the Kid](https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:05 |
+| 38 | [Come Sundown](https://open.spotify.com/track/2uTgZswEa3wXQGMb0GyE4I) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 2:36 |
 | 39 | [Folsom Prison Blues \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 3:39 |
 | 40 | [From Here to Forever](https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 3:32 |
 | 41 | [Sweet Susannah](https://open.spotify.com/track/2m8tfuW4uAlZDMGB6O0hQG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Breakaway](https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB) | 2:32 |
-| 42 | [Come Sundown](https://open.spotify.com/track/2uTgZswEa3wXQGMb0GyE4I) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 2:36 |
+| 42 | [Jody and the Kid](https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:05 |
 | 43 | [If You Don't Like Hank Williams](https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:31 |
 | 44 | [Why Me](https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Country State Of Mind](https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY) | 3:00 |
 | 45 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Breakdown \(A Long Way from Home\)](https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 2:42 |
 | 51 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
 
-Snapshot ID: `Zwm8AAAAAAAmB+Iby1vs18hBSLUx96gL`
+Snapshot ID: `ZwsNgAAAAAAdtgAeVJtNg+CfnK9sfsUU`

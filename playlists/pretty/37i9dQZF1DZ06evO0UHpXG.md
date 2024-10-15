@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 ### [This Is Motörhead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG)
 
-> This is Motörhead\. Todos os maiores hits em uma só playlist.
+> This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,542 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,571 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 44 | [Smiling Like a Killer](https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 2:44 |
 | 45 | [1916](https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 3:44 |
 | 46 | [Please Don't Touch \(feat\. Motörhead\)](https://open.spotify.com/track/6Ud2ag3Rxz2ak0KhLG3KXP) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best of Girlschool](https://open.spotify.com/album/2CjpvOVU8ThxJM9ghDngID) | 2:47 |
-| 47 | [\(I Won't\) Pay Your Price](https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:56 |
-| 48 | [Burner](https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 2:54 |
-| 49 | [Jumpin' Jack Flash](https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 |
-| 50 | [Alligator \- Bomber Demo](https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Bomber Demos](https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH) | 3:29 |
+| 47 | [Alligator \- Bomber Demo](https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Bomber Demos](https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH) | 3:29 |
+| 48 | [\(I Won't\) Pay Your Price](https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:56 |
+| 49 | [Burner](https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 2:54 |
+| 50 | [Jumpin' Jack Flash](https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 |
 
-Snapshot ID: `Zwm8AAAAAACnAdzxJlJuY2QRtmWc923E`
+Snapshot ID: `ZwsNgAAAAACKjIDp14S8JNNRzI3XqoU5`

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-694 songs - 1 day 21 hr 4 min
+702 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-08-11 | 2023-10-27 |
 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-08-11 | 2023-10-21 |
 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-08-11 | 2023-12-12 |
+| [Behind My Mouth](https://open.spotify.com/track/1KXmzU2kQ5WzwE5uK6mnNz) | [Aluminum](https://open.spotify.com/artist/6vLZIOiIW8QwSBWBLB4Zpa) | [Fully Beat](https://open.spotify.com/album/2FcEPPM88y8dLYOfQy2ZaI) | 3:50 | 2024-10-14 |  |
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-09-29 | 2023-06-08 |
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-29 | 2022-11-27 |
 | [Better Off Alone](https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Better Off Alone](https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK) | 4:07 | 2023-02-09 | 2023-07-22 |
@@ -79,6 +80,7 @@
 | [Billy](https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Billy](https://open.spotify.com/album/17d1NM1uI3Bg9fhijXz7jZ) | 3:48 | 2022-03-04 | 2022-09-10 |
 | [Birdsong](https://open.spotify.com/track/6LYbfM6MEgkpCv487dQXG4) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Channels](https://open.spotify.com/album/0fROkij27KLAQl0uUTFS2e) | 4:12 | 2024-03-18 |  |
 | [Bishop](https://open.spotify.com/track/6iScOeNCXNDviwf8wGVBMA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Bishop](https://open.spotify.com/album/6EiCp9jppjy93zMv96CDYG) | 3:37 | 2024-08-23 |  |
+| [Bittersweet Mary](https://open.spotify.com/track/5ztMIM0AfQmX8axBX8OJ98) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Your Own Becoming](https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS) | 3:54 | 2024-10-14 |  |
 | [Blank](https://open.spotify.com/track/0GlxeLd0z8FFsTFyIAyB1X) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/1ZMLm0d2t919CO7VnSpyQC) | 3:36 | 2021-10-19 | 2022-07-28 |
 | [Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2) | 3:36 | 2021-10-19 | 2023-01-14 |
 | [Blank \- Remastered](https://open.spotify.com/track/7xXFPKo0us7h8kHCKV9S9B) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You / Void In Blue](https://open.spotify.com/album/5C3EWz8nPYZQ0zxbDt750r) | 3:36 | 2023-05-05 | 2023-11-28 |
@@ -118,6 +120,7 @@
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-29 |  |
 | [Catch a Fade](https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 3:50 | 2021-10-19 | 2023-06-08 |
 | [Catharsis](https://open.spotify.com/track/6wnhSopdkyLrhGsRjGZYMP) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Catharsis](https://open.spotify.com/album/3UQfF38JAnid5DG2maFfZ1) | 2:38 | 2023-07-28 | 2023-12-02 |
+| [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 | 2024-10-14 |  |
 | [Cellophane](https://open.spotify.com/track/34jhEjnmO28mTdWRFjURHY) | [Resenter](https://open.spotify.com/artist/2QJWYsb6A0Ox3OILrbwrkk) | [Psalms](https://open.spotify.com/album/2GS3hWAY4sKNVtFExXIHd8) | 3:45 | 2022-09-29 | 2022-10-28 |
 | [Census Designated](https://open.spotify.com/track/6HacgXCExkzS552ILfJTXu) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 | 2024-05-24 |  |
 | [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 | 2022-12-02 |
@@ -304,6 +307,7 @@
 | [Hide](https://open.spotify.com/track/7K0W4JZRyK0i5A7JUKeaL6) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/5xLPp9GcMMHF6U8AoVLgWU) | 6:47 | 2021-10-19 | 2022-07-29 |
 | [High With You](https://open.spotify.com/track/0c6orD0L0rOAEee1mHlfRC) | [Future Magics](https://open.spotify.com/artist/6jqVk32VBlFXQSP1rkELyd) | [High With You](https://open.spotify.com/album/3Pfk9UaUC22QfCPJgayh9W) | 3:16 | 2024-05-10 |  |
 | [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 | 2023-08-11 | 2023-09-02 |
+| [Hollow Scene](https://open.spotify.com/track/2CPEEL5b8UoY4SwhOGBeBv) | [You Wish](https://open.spotify.com/artist/7u5dpRUOUjrqORvVAzk2G5) | [Lathe](https://open.spotify.com/album/6QFoCCNG6Avqte2DfYP8Pg) | 1:48 | 2024-10-14 |  |
 | [Hollowers](https://open.spotify.com/track/6tGPZ8kQ1ZzqGFdlr3VgJT) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Hollowers](https://open.spotify.com/album/62iB6VwTRBzZUwRoC8Iksk) | 3:34 | 2021-10-19 | 2022-07-29 |
 | [Holy](https://open.spotify.com/track/4rQQow4Y0hbWv6U0pAQoUP) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Head Void](https://open.spotify.com/album/7Km5n6OxT2ZUPJv1sBcTXR) | 3:37 | 2024-05-24 |  |
 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 | 2021-10-19 | 2023-06-08 |
@@ -317,11 +321,13 @@
 | [I Can Show You Wonders](https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [I Can Show You Wonders](https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM) | 2:45 | 2022-08-01 | 2022-11-13 |
 | [I Found You Out](https://open.spotify.com/track/6gFIyVCQiY5ZUFWiVCNH8M) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [I Found You Out](https://open.spotify.com/album/6eQPsCQX1gt6YJYHw88unZ) | 3:12 | 2024-08-23 |  |
 | [I Just Want To See Your Face](https://open.spotify.com/track/7a5EClvwLoJO6nOKBpwqO7) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 2:18 | 2021-10-19 | 2022-07-25 |
+| [I Love it Here](https://open.spotify.com/track/7mr3fxGqebPxlEDM4LKsiI) | [The Fever Haze](https://open.spotify.com/artist/0oajdCcdxXLse9AKHRe9mq) | [Moonbow](https://open.spotify.com/album/7lqhSsxQfzBHV1fCsDjOFE) | 3:10 | 2024-10-14 |  |
 | [I Think It's Light Outside](https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [The Moth, The Lizard, And The Secret Machines](https://open.spotify.com/album/21dYzZhlxvBeHShNB26zHu) | 4:31 | 2023-03-24 | 2023-05-23 |
 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-11-10 |  |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-12 |  |
 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 | 2023-03-10 | 2023-09-30 |
 | [If Only](https://open.spotify.com/track/4jphqPoGiGPuj1hCPKR5Zq) | [Krall](https://open.spotify.com/artist/6INLUjiXnW7gqoqqggL66N) | [If Only](https://open.spotify.com/album/1wRZjSOsThCvJbIOO0LptI) | 3:23 | 2024-04-05 |  |
+| [II: Habituation](https://open.spotify.com/track/5QqRXZegA22QOQEhRxYTa6) | [Outlander](https://open.spotify.com/artist/4r22k308CVAgR9G7Vj47lz) | [Acts of Harm](https://open.spotify.com/album/70RPahrgTxFidKOuMI4QBC) | 3:29 | 2024-10-14 |  |
 | [im not](https://open.spotify.com/track/1xDS1zCdbKILaRSSCFe1Dq) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [im not](https://open.spotify.com/album/3RBo4g7bbqLAjUaxvGy34O) | 1:45 | 2023-10-13 | 2024-04-06 |
 | [Immerse](https://open.spotify.com/track/3JOfu8e1R0P2EDEnsYWfOv) | [Seventh Dose](https://open.spotify.com/artist/4mEuEaZY0Med2WBAfZvjyP) | [Immerse](https://open.spotify.com/album/1Y8Sm4Rjn6u65JdG1HYh0M) | 4:08 | 2023-11-14 | 2024-04-30 |
 | [In Amber](https://open.spotify.com/track/3x8l16ooLTDJXBUBZ8wrBN) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/7xLRw5DsWnAMmNBp8I67UD) | 4:08 | 2024-05-24 | 2024-07-06 |
@@ -514,6 +520,7 @@
 | [Rdo](https://open.spotify.com/track/5uPwj0ULJrOIhCzJHt6hhz) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 1:46 | 2023-11-06 | 2023-12-12 |
 | [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 | 2024-06-09 |  |
 | [Rebounds](https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Spiritual Sickness](https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO) | 4:20 | 2024-03-18 |  |
+| [Receiving Certain Answers](https://open.spotify.com/track/1oR1J8FKM1I93EIkE2ZLeZ) | [all under heaven](https://open.spotify.com/artist/0RzwdSzh3shHCYdE36Fizn) | [What Lies Ahead Of Me](https://open.spotify.com/album/72WkaDmZQhoZC28R1YRszW) | 3:01 | 2024-10-14 |  |
 | [Recluse](https://open.spotify.com/track/0kMz5Bg11tjSLkAV7t4cyM) | [Warstories](https://open.spotify.com/artist/3j15Mmvo3P9dia0LbZ09uH) | [Waste](https://open.spotify.com/album/0s19h974d7Es2A1Gy3DsjL) | 3:46 | 2024-04-05 |  |
 | [Reel](https://open.spotify.com/track/1SHkhQfzSnMFOAYlrJjVKA) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Reel](https://open.spotify.com/album/2RPg4cyOfekuhu7driK1jl) | 4:40 | 2021-10-19 | 2022-07-29 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 | 2023-08-05 |
@@ -594,6 +601,7 @@
 | [sueños pasajeros](https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [sueños pasajeros](https://open.spotify.com/album/5raH91QppDfJ87H19rHjcv) | 1:33 | 2022-08-04 | 2022-08-14 |
 | [suffocate](https://open.spotify.com/track/7vQFhx226rC2MZML37k7HU) | [deer death](https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg) | [suffocate](https://open.spotify.com/album/1nt7XyS14fMXYsnTmuCGN9) | 2:50 | 2023-08-04 | 2024-04-06 |
 | [Suficiente](https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Suficiente](https://open.spotify.com/album/3A8kSYi3x2IZwKaxGGAFVZ) | 3:58 | 2022-05-04 | 2022-07-24 |
+| [Sugarcoat](https://open.spotify.com/track/3LTjRvhLnoc0dCqlPUtU08) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Sugarcoat](https://open.spotify.com/album/0EQL2KDngVugkK73uORAyW) | 3:32 | 2024-10-14 |  |
 | [suicide note](https://open.spotify.com/track/1EEruLYtWxRth8sKWjrJos) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [suicide note](https://open.spotify.com/album/0q1ALc0MK3r8UEMsTRTTxp) | 3:17 | 2024-01-12 |  |
 | [sunday](https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 4:24 | 2023-03-13 | 2023-09-30 |
 | [sunspot](https://open.spotify.com/track/7MvQlWCsnEKbXpjTrNOwfc) | [dottie](https://open.spotify.com/artist/40grr46nSRIMZm8h4wdyKY) | [sunspot](https://open.spotify.com/album/0MiGYQ25SK12QAJButNdMy) | 3:36 | 2024-03-22 |  |

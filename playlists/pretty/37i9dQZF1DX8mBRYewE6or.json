@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1066318,
+  "num_followers": 1066256,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
         "name": "Sweetest Pie",
         "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
-        "name": "Body Moving",
-        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 154215,
-      "name": "Body Moving",
-      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 212000,
       "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
+        "name": "Body Moving",
+        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 154215,
+      "name": "Body Moving",
+      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
+        "name": "Alright (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Alright (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 192746,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
-        "name": "Alright (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Alright (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"
     },
     {
       "added_at": "2024-07-08 18:05:42",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2024-07-08 18:05:42",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2024-07-08 18:05:42",
-      "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
         "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
+    },
+    {
+      "added_at": "2024-07-08 18:05:42",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     }
   ],
   "unique_name": "Sextou",

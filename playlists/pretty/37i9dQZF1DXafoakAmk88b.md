@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,844 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,885 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 43 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 |
 | 44 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 |
 | 45 | [Over](https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Over](https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe) | 3:01 |
-| 46 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 |
+| 46 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 |
 | 47 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 |
-| 48 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 |
+| 48 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 |
 | 49 | [Old Life](https://open.spotify.com/track/3Sw3JIOSE6E7InuGDZdaC0) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Old Life](https://open.spotify.com/album/2NOsAyyRvKwWgWWHEPGc4N) | 3:00 |
 | 50 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249160,
+  "num_followers": 249171,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAACMQ5C0FR+oaTQsLZRP63mz",
+  "snapshot_id": "ZwsNgAAAAACXvdMSeYDAmX7DVhryyWYB",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTX Vol. IV - Classics",
+        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 131893,
+      "name": "Jolene (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTX Vol. IV - Classics",
-        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "Jolene (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Night in Nashville",
+        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bets On Us",
+      "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Possession Gets Too Strong",
         "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 129364,
       "name": "When Possession Gets Too Strong",
       "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Night in Nashville",
-        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bets On Us",
-      "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
     },
     {
       "added_at": null,

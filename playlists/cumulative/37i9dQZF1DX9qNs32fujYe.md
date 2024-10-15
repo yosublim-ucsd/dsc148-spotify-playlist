@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Lamb Of God
 
-956 songs - 2 day 22 hr 17 min
+957 songs - 2 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-26 |  |
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
 | [Cry for the Nations](https://open.spotify.com/track/0Kpi5PM6kwwm7sjlS3HVTy) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Cry for the Nations](https://open.spotify.com/album/5I4kXVMUAeH1fEhbmEUSf9) | 4:55 | 2022-01-07 | 2022-04-17 |
+| [Cry....](https://open.spotify.com/track/68AKlqDGwyC4jZhport6O6) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Seven Hours After Violet](https://open.spotify.com/album/1lX1WLkZj0J2cp8e6aRtNU) | 3:37 | 2024-10-11 |  |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2022-08-19 | 2024-05-18 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-05-03 |  |
 | [Custer](https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:14 | 2023-10-27 |  |
@@ -336,7 +337,7 @@
 | [Guiding Light](https://open.spotify.com/track/580BXGwESv2tV5K7YR9GI0) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Guiding Light](https://open.spotify.com/album/7D7bLUMdrReUVeavqhMlkX) | 6:00 | 2022-01-14 | 2022-04-20 |
 | [Gunfire](https://open.spotify.com/track/0fMuzQi38wXOcW4lVLJYpW) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Gunfire](https://open.spotify.com/album/4OIbjD6PkHuR2kwIkl6Bsk) | 5:20 | 2021-12-17 | 2022-07-06 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-08-19 |  |
-| [Hail To The King](https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hail To The King](https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7) | 4:32 | 2024-05-03 |  |
+| [Hail To The King](https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hail To The King](https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7) | 4:32 | 2024-05-03 | 2024-10-15 |
 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 | 2022-08-19 |  |
 | [Hammer Of Dawn](https://open.spotify.com/track/4CSGVziAkUelYOIlOPNu6G) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer Of Dawn](https://open.spotify.com/album/7ABUtIO7hLB17LftkAUml0) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 | 2022-10-22 |

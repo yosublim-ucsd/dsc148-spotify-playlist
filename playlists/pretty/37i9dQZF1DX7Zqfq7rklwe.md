@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista ☠️ Kannessa Linkin Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,996 likes - 82 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,995 likes - 82 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 2 | [Kylie](https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Kylie](https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk) | 4:07 |
-| 3 | [Last Call for Alcohol](https://open.spotify.com/track/0PpwlEkocq2ii1L9UELKMo) | [Hardcore Superstar](https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq) | [Split Your Lip](https://open.spotify.com/album/4raUhz4RLy0dmpCTM8EDZq) | 3:24 |
-| 4 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 |
-| 5 | [When Silence Speaks](https://open.spotify.com/track/2sywQzYGL6DLiechoyU5M3) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nordic Gothic](https://open.spotify.com/album/0aaQ7FvuCcAumX3w8PXCQN) | 5:19 |
-| 6 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
-| 7 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 |
-| 8 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
-| 9 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
-| 10 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 |
+| 3 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 |
+| 4 | [Last Call for Alcohol](https://open.spotify.com/track/0PpwlEkocq2ii1L9UELKMo) | [Hardcore Superstar](https://open.spotify.com/artist/57b3sKD9pGilMb2QlMqArq) | [Split Your Lip](https://open.spotify.com/album/4raUhz4RLy0dmpCTM8EDZq) | 3:24 |
+| 5 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 |
+| 6 | [When Silence Speaks](https://open.spotify.com/track/2sywQzYGL6DLiechoyU5M3) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nordic Gothic](https://open.spotify.com/album/0aaQ7FvuCcAumX3w8PXCQN) | 5:19 |
+| 7 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
+| 8 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 |
+| 9 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
+| 10 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
 | 11 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 |
 | 12 | [Dopamine](https://open.spotify.com/track/4rwcM7vIyNXIPP3gNE7Q0Q) | [Crashing Castles](https://open.spotify.com/artist/0nroJgHthRqDrGdfWivte6) | [Dopamine](https://open.spotify.com/album/7kgMscUKrc0QSOCEBXd22m) | 3:16 |
 | 13 | [Outer Dimensions](https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:05 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 81 | [We Got the Moves](https://open.spotify.com/track/4EFb9FhLyFiDbYKwBwDZre) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [We Got the Moves](https://open.spotify.com/album/3DlJt0IZ2E2YHTdyP9napb) | 3:26 |
 | 82 | [Taivas](https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [X](https://open.spotify.com/album/3PXcjRSf1M1xyf2410HJn8) | 4:38 |
 
-Snapshot ID: `ZwhAjAAAAACdOtWq6iOp+MzV3E8X0e0G`
+Snapshot ID: `ZwzWrgAAAACySNKstdLSex/qZ5kRgotD`

@@ -1,6 +1,6 @@
 {
   "description": "are we okay? \ud83d\udc99",
-  "num_followers": 168002,
+  "num_followers": 168096,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "we don't fight anymore",
-        "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 220145,
-      "name": "we don't fight anymore",
-      "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Hits Alive",
         "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 259453,
       "name": "Whiskey Lullaby (feat. Alison Krauss)",
       "url": "https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "we don't fight anymore",
+        "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 220145,
+      "name": "we don't fight anymore",
+      "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "homecoming queen?",
+      "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "29: Written In Stone",
         "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 214416,
       "name": "Never Wanted To Be That Girl",
       "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 167796,
-      "name": "homecoming queen?",
-      "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
     }
   ],
   "unique_name": "sad girl country",

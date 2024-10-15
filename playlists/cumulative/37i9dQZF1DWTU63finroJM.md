@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,704 songs - 3 day 20 hr 48 min
+1,705 songs - 3 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [fool's gold](https://open.spotify.com/track/2pwD0LWnZGhwF4oUu84MAJ) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [loving in the dark](https://open.spotify.com/album/1FkdDokTWbDhBrgtFDQS0D) | 2:23 | 2024-08-16 | 2024-09-25 |
 | [Fools](https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fools](https://open.spotify.com/album/72KInjGAd2d3lnnUfq4kSH) | 4:58 | 2022-02-03 | 2022-12-15 |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-05-24 |  |
-| [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 | 2024-05-31 |  |
+| [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 | 2024-05-31 | 2024-10-15 |
 | [forever.](https://open.spotify.com/track/2HcM8xCQXmXUnP3bVdJZ1Y) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [forever.](https://open.spotify.com/album/0LTob0bsx3Ehb2BsJhaEab) | 2:49 | 2024-09-27 |  |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-12 | 2024-08-17 |
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-02-09 | 2024-07-29 |
@@ -1110,6 +1110,7 @@
 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 | 2023-04-17 | 2023-11-11 |
 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 | 2023-10-13 | 2024-04-19 |
 | [PPT \(Patita Pa Tra\)](https://open.spotify.com/track/4LLPvnckbEITdIaF2hc28W) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [PPT \(Patita Pa Tra\)](https://open.spotify.com/album/7cjIuMyS3K0HwvdWSzOWZg) | 2:45 | 2022-03-24 | 2022-04-20 |
+| [Prayer](https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [About Ä Boy](https://open.spotify.com/album/3VzL7inCTsW6xkk8CmjzUD) | 3:02 | 2024-10-11 |  |
 | [Predator](https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Predator](https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO) | 3:01 | 2024-07-26 |  |
 | [Press On Me](https://open.spotify.com/track/1sUqXRbX4USlqa5zUGPV8J) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [& Stone Between](https://open.spotify.com/album/1E50RSNgyM9yXSt1SUOEA5) | 2:54 | 2024-08-23 | 2024-09-01 |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-03 | 2023-10-06 |

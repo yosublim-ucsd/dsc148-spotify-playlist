@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-128 songs - 7 hr 18 min
+134 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1993 \(feat\. Little Ricky ZR3\)](https://open.spotify.com/track/71iA79hOFAMmwGB1w83VH1) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Ricky ZR3](https://open.spotify.com/artist/6GaslxycqT27V8q2H3yZ7x) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:39 | 2024-03-28 |  |
 | [A Ghost Story](https://open.spotify.com/track/2FoxK1MoP36ZiIfwooZI6j) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Incantations](https://open.spotify.com/album/5CfNebrzhXfZqa5aRQlOPb) | 2:26 | 2024-04-08 |  |
 | [A Mask of My Own Face](https://open.spotify.com/track/6ibbHAoBrdqJxo345QGumd) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 3:30 | 2022-08-01 |  |
+| [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 | 2024-10-14 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2023-03-26 | 2023-12-14 |
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2024-09-19 |  |
@@ -40,6 +41,7 @@
 | [Dotab](https://open.spotify.com/track/4ODJ8ptwnVtxXs4d71eHNJ) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:34 | 2023-08-10 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Fictional Aisle](https://open.spotify.com/track/1qnELnw7Cw9Vdjj2p97YpC) | [Tall Boy Special](https://open.spotify.com/artist/2GAKJjxl7sHzVi5VTh2taZ) | [Fictional Aisle](https://open.spotify.com/album/6U35jxzTEJUMcAtsfp4206) | 3:18 | 2022-05-27 |  |
+| [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 | 2024-10-14 |  |
 | [For the Departed](https://open.spotify.com/track/5BZp6bbnf3BQ2s9YGkQMpV) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:40 | 2023-03-23 |  |
 | [Foreign Object](https://open.spotify.com/track/63yjXQBoVXuN3ePTXmNxBQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 2:51 | 2022-05-06 |  |
 | [Four Little Diamonds](https://open.spotify.com/track/6dEGo0qXo7dyFtPh0UjTNG) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:05 | 2024-01-02 |  |
@@ -96,8 +98,10 @@
 | [Second Boys Will Be First Choice \(Radio Version\)](https://open.spotify.com/track/7tOjifyNGd0iHaNrsPHaSD) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:15 | 2023-01-07 |  |
 | [Secret Messages](https://open.spotify.com/track/5wrSGPw1dbKsmZCM6gpqcS) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:43 | 2024-01-02 |  |
 | [Sex with a Ghost](https://open.spotify.com/track/1Y2583xYzwiEXDetAB7H1Q) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:00 | 2022-05-06 |  |
+| [Shia LaBeouf Live](https://open.spotify.com/track/3VMzQ4rh7FtfSuyjHIcuZR) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Shia LaBeouf Live](https://open.spotify.com/album/1iFafzOE0nGXb8eBvup1re) | 2:35 | 2024-10-14 |  |
 | [Sovietoblaster](https://open.spotify.com/track/2t8d5f6cR7QY8XrdRy1lsB) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz) | [Emigrantski Raggamuffin](https://open.spotify.com/album/1Zw5RQlTFL520baBQt5FDT) | 3:09 | 2022-05-06 |  |
 | [Spider](https://open.spotify.com/track/0TIkZpO9NBw8WYYRTDnHv5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Apollo 18](https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR) | 0:50 | 2022-05-06 | 2023-12-14 |
+| [Spirit Halloween Theme Song](https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 1:43 | 2024-10-14 |  |
 | [Starkiller](https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:49 | 2023-08-10 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 | 2023-03-28 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
@@ -111,6 +115,7 @@
 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2022-05-06 |  |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 | 2024-10-09 |  |
 | [The Communists Have the Music](https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The Communists Have the Music](https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr) | 2:27 | 2022-05-06 |  |
+| [The Cringe \(feat\. Patton Oswalt\)](https://open.spotify.com/track/3tHa6meN0d6j7GLtXX3cEX) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Patton Oswalt](https://open.spotify.com/artist/6YvKo1VtZxCoT8IkbAYswy) | [Crazy Ex\-Girlfriend: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2iDGoikRLMHrmEHe6p1T8P) | 2:35 | 2024-10-14 |  |
 | [The Home Depot Beat](https://open.spotify.com/track/4euxYgIl5XEqUj5WB9lHNq) | [The Home Depot](https://open.spotify.com/artist/7tzPysmGf12PwEIQ8toFU6) | [The Home Depot Beat](https://open.spotify.com/album/3cflHXbTyEWMDg1ylyO7SS) | 0:35 | 2022-05-06 |  |
 | [The Lady and the Tiger](https://open.spotify.com/track/1jVGFo4Bw14GDGc1ht4G4n) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:55 | 2022-05-06 |  |
 | [The March Of The Black Queen \- Remastered 2011](https://open.spotify.com/track/3meWD39fJLCiIFKV6TFzSL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL) | 6:32 | 2023-03-21 |  |
@@ -136,5 +141,6 @@
 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 | 2024-09-17 |  |
 | [You're Mine](https://open.spotify.com/track/23F2WO6H1ERmRp8aCEQE9y) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [You're Mine](https://open.spotify.com/album/4Qu9kYMmcXNNRipi1E9QC6) | 2:50 | 2022-06-13 |  |
 | [Your Father's Son](https://open.spotify.com/track/7eANxDUhdoTt5Wfn4EFYAv) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:42 | 2023-03-23 |  |
+| [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2023-05-22. Prior content cannot be recovered.

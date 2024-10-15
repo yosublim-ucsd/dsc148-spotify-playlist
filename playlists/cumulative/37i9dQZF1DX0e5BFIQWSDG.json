@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 167885,
       "name": "1+1",
       "url": "https://open.spotify.com/track/6GujKDj7JIaPwMi990CkIK"
@@ -142,6 +142,24 @@
       "duration_ms": 180000,
       "name": "Aeroplano",
       "url": "https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg"
+    },
+    {
+      "album": {
+        "name": "Agapi Mou Me Dioxneis",
+        "url": "https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170257,
+      "name": "Agapi Mou Me Dioxneis",
+      "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
     },
     {
       "album": {
@@ -322,7 +340,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 132000,
       "name": "Aristourgima",
       "url": "https://open.spotify.com/track/4lwRh4qMQvANHm1OcgB4Tg"
@@ -792,7 +810,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 207719,
       "name": "Grace Kelly",
       "url": "https://open.spotify.com/track/5tBpNcPoCTHYVVfOK2ZgAb"
@@ -1112,10 +1130,32 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 164831,
       "name": "KOPRITIS",
       "url": "https://open.spotify.com/track/26iieiRiqhzXfBquk8sm6N"
+    },
+    {
+      "album": {
+        "name": "KRIMI 2",
+        "url": "https://open.spotify.com/album/3xx7MD39dCOlWHghCG262D"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "KRIMI 2",
+      "url": "https://open.spotify.com/track/0NMilOjQW10H4gykCfrwfP"
     },
     {
       "album": {
@@ -1244,6 +1284,28 @@
       "duration_ms": 180000,
       "name": "LALE",
       "url": "https://open.spotify.com/track/2LNf69ZnFFK6qKH9qW3GSK"
+    },
+    {
+      "album": {
+        "name": "Lebron",
+        "url": "https://open.spotify.com/album/3vtNYVA89ySfe7X1ZPzVZW"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Lebron",
+      "url": "https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg"
     },
     {
       "album": {
@@ -1554,7 +1616,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 151573,
       "name": "MYKONOS",
       "url": "https://open.spotify.com/track/4pFoAd8J9FpN7TADclqL3d"
@@ -1576,6 +1638,58 @@
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
+    },
+    {
+      "album": {
+        "name": "TO THRASITATO EP",
+        "url": "https://open.spotify.com/album/5nCSGUywctnLogqsnHis79"
+      },
+      "artists": [
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "ODYDOZE",
+          "url": "https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "O Thrasis",
+      "url": "https://open.spotify.com/track/5HH5Qt2k9OVaQF6On6t4pf"
+    },
+    {
+      "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/2DrhB6TPEqGZK0xVah9Nzy"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176709,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/6Y3vVTKOJFWCgBbzp9YPU2"
     },
     {
       "album": {
@@ -1961,6 +2075,28 @@
     },
     {
       "album": {
+        "name": "Skrofa",
+        "url": "https://open.spotify.com/album/5mLxKIz9199YkZvyzC7plC"
+      },
+      "artists": [
+        {
+          "name": "ATC Coco",
+          "url": "https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq"
+        },
+        {
+          "name": "Megrel",
+          "url": "https://open.spotify.com/artist/1K4CMTKtUibci2mZOIqFqx"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Skrofa",
+      "url": "https://open.spotify.com/track/3jMYVOiX7gAt2gFal1VL9T"
+    },
+    {
+      "album": {
         "name": "SOUKOU",
         "url": "https://open.spotify.com/album/2dvoZNko18fOtSL1X2PEiz"
       },
@@ -2116,7 +2252,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"

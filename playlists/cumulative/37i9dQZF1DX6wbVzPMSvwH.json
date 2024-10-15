@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 225000,
       "name": "Dewi Pelita",
       "url": "https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 229110,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/6a1mt15RL1Y3FxeU6Zoh3W"
@@ -1209,6 +1209,28 @@
     },
     {
       "album": {
+        "name": "Itu Aku (feat. The Adams)",
+        "url": "https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        },
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287038,
+      "name": "Itu Aku (feat. The Adams)",
+      "url": "https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70"
+    },
+    {
+      "album": {
         "name": "Jakarta Hari Ini",
         "url": "https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq"
       },
@@ -1394,6 +1416,24 @@
       "duration_ms": 317795,
       "name": "Kala Cinta Menggoda - When Love Seduces",
       "url": "https://open.spotify.com/track/06appkVEXqR9RY21CUWX7U"
+    },
+    {
+      "album": {
+        "name": "Kamu Kerja Apa?",
+        "url": "https://open.spotify.com/album/2icA7FSlPwshS7eY4Gufu9"
+      },
+      "artists": [
+        {
+          "name": "dr.pm",
+          "url": "https://open.spotify.com/artist/6K8PNgfYdYhkfiOrBYaqWq"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214310,
+      "name": "Kamu Kerja Apa?",
+      "url": "https://open.spotify.com/track/2VAG9mkivGstvcX75f8TtA"
     },
     {
       "album": {
@@ -2178,7 +2218,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 199761,
       "name": "Ragu?",
       "url": "https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl"
@@ -2592,6 +2632,24 @@
       "duration_ms": 205000,
       "name": "switch",
       "url": "https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth"
+    },
+    {
+      "album": {
+        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233630,
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "album": {

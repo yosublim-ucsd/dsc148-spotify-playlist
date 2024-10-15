@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,873 likes - 86 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,875 likes - 86 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

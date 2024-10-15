@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "I Want To Be With You",
+        "url": "https://open.spotify.com/album/3aDWgiykjPhsVwepM3yNaG"
+      },
+      "artists": [
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        },
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
       },
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 188033,
       "name": "Love,Maybe(Japanese ver.)",
       "url": "https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm"

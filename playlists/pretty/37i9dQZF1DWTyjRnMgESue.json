@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 80318,
+  "num_followers": 80344,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Maine/The Sink",
-        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 224371,
       "name": "Skin",
       "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Maine/The Sink",
+        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 293389,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fighting For",
-        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
       "artists": [
         {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 285791,
-      "name": "I Figured We'd Go Dancin'",
-      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -915,6 +899,22 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Fighting For",
+        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 285791,
+      "name": "I Figured We'd Go Dancin'",
+      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fighting For - Hailey Whitters Version",
-        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 249523,
-      "name": "Fighting For - (Hailey Whitters Version)",
-      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Honeymind",
         "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
       },
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Fighting For - Hailey Whitters Version",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "little me",
         "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 249138,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 190195,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 190195,
-      "name": "Fields",
-      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "Carry You On",
-      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Carry You On",
+      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Belau",
-  "num_followers": 13755,
+  "num_followers": 13758,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "SZORONGOK",
+        "url": "https://open.spotify.com/album/2KQ4vDGWOGkYeo8XiFH00m"
+      },
+      "artists": [
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "SZORONGOK",
+      "url": "https://open.spotify.com/track/6qrJ9qETfaFnn74G5CLfIl"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -455,26 +475,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "SZORONGOK",
-        "url": "https://open.spotify.com/album/2KQ4vDGWOGkYeo8XiFH00m"
-      },
-      "artists": [
-        {
-          "name": "Beatrick",
-          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
-        },
-        {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "SZORONGOK",
-      "url": "https://open.spotify.com/track/6qrJ9qETfaFnn74G5CLfIl"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Mengyelejev",
         "url": "https://open.spotify.com/album/5p1oiSCrqASJ8uAaGiaWQa"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "B\u00e1rcsak",
-        "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
+        "name": "Only Mine",
+        "url": "https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM"
       },
       "artists": [
         {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+          "name": "M\u00f6rk",
+          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
         }
       ],
-      "duration_ms": 146691,
-      "name": "B\u00e1rcsak",
-      "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
+      "duration_ms": 282925,
+      "name": "Only Mine",
+      "url": "https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "B\u00e1rcsak",
+        "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 146691,
+      "name": "B\u00e1rcsak",
+      "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "Od\u00fa",
         "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 210005,
       "name": "Od\u00fa",
       "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Only Mine",
-        "url": "https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        }
-      ],
-      "duration_ms": 282925,
-      "name": "Only Mine",
-      "url": "https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "K\u00d6NNYCSEPP",
-        "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "K\u00d6NNYCSEPP",
-      "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
       },
@@ -671,6 +655,26 @@
       "duration_ms": 183000,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Hull\u00f3csillag",
+        "url": "https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        },
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 198947,
+      "name": "Hull\u00f3csillag",
+      "url": "https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -699,22 +703,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Hull\u00f3csillag",
-        "url": "https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI"
+        "name": "K\u00d6NNYCSEPP",
+        "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
       },
       "artists": [
         {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        },
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
         }
       ],
-      "duration_ms": 198947,
-      "name": "Hull\u00f3csillag",
-      "url": "https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63"
+      "duration_ms": 149812,
+      "name": "K\u00d6NNYCSEPP",
+      "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "H\u00e9jan\u00e1sz",
-        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+        "name": "Ugyanitt v\u00e1rlak",
+        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "Margaret Island",
+          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
         }
       ],
-      "duration_ms": 188230,
-      "name": "H\u00e9jan\u00e1sz",
-      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+      "duration_ms": 197500,
+      "name": "Ugyanitt v\u00e1rlak",
+      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
         "name": "Soha",
         "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 212432,
       "name": "Soha",
       "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
-        "name": "Ugyanitt v\u00e1rlak",
-        "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
-      },
-      "artists": [
-        {
-          "name": "Margaret Island",
-          "url": "https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Ugyanitt v\u00e1rlak",
-      "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "pontnem",
-        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 205980,
-      "name": "pontnem",
-      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "KEIKO",
         "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 302538,
       "name": "Bez\u00e1rul",
       "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "pontnem",
+        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 205980,
+      "name": "pontnem",
+      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
     },
     {
       "added_at": "2024-10-04 09:54:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-10-04 09:54:25",
       "album": {
-        "name": "Szeretnival\u00f3ja",
-        "url": "https://open.spotify.com/album/3pl8usrU9H4xHT8UG8ePbU"
-      },
-      "artists": [
-        {
-          "name": "Kiscsillag",
-          "url": "https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6"
-        }
-      ],
-      "duration_ms": 240497,
-      "name": "Szeretnival\u00f3ja",
-      "url": "https://open.spotify.com/track/0ws1t4YPXjUxdZrDxUguj6"
-    },
-    {
-      "added_at": "2024-10-04 09:54:25",
-      "album": {
         "name": "CSILLAGT\u00daRA",
         "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 219474,
       "name": "CSILLAGT\u00daRA",
       "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
+    },
+    {
+      "added_at": "2024-10-04 09:54:25",
+      "album": {
+        "name": "Szeretnival\u00f3ja",
+        "url": "https://open.spotify.com/album/3pl8usrU9H4xHT8UG8ePbU"
+      },
+      "artists": [
+        {
+          "name": "Kiscsillag",
+          "url": "https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6"
+        }
+      ],
+      "duration_ms": 240497,
+      "name": "Szeretnival\u00f3ja",
+      "url": "https://open.spotify.com/track/0ws1t4YPXjUxdZrDxUguj6"
     },
     {
       "added_at": "2024-10-04 09:54:25",

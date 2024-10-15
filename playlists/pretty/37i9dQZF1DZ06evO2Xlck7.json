@@ -1,12 +1,12 @@
 {
-  "description": "This Is Finch. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 3046,
+  "description": "This is Finch. The essential tracks, all in one playlist.",
+  "num_followers": 3047,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAWh43NQpAO89citLicxD+u",
+  "snapshot_id": "ZwsNgAAAAABQXH4rXbCNHjToWGOO0JDa",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Back To Oblivion",
-      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 321306,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+      "duration_ms": 203466,
+      "name": "Back To Oblivion",
+      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
     },
     {
       "added_at": null,

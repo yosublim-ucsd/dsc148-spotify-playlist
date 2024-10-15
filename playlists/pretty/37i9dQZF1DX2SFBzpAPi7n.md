@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Zuka\(주카\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,295 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,296 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 27 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
 | 28 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 |
 | 29 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
-| 30 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
+| 30 | [Congratulations](https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 3:49 |
 | 31 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 32 | [LALALALA \(Rock Ver.\)](https://open.spotify.com/track/20FfCMC46eOIIrxCUdSNZT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:07 |
 | 33 | [Karma](https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:12 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 37 | [Star](https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lovely Runner, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP) | 3:38 |
 | 38 | [Growing Pain](https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:20 |
 | 39 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 |
-| 40 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 |
-| 41 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
+| 40 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
+| 41 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 |
 | 42 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 |
 | 43 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 |
 | 44 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 68 | [Nothin' Without You](https://open.spotify.com/track/2hV74m69tD0OavP0g6TEn6) | [Hangsung](https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh) | [Nothin' Without You](https://open.spotify.com/album/59KZBxgwyG3TaNQ8LjmIbO) | 2:42 |
 | 69 | [NAN CHUN](https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN](https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb) | 3:49 |
 | 70 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 |
-| 71 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
-| 72 | [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 |
-| 73 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 |
-| 74 | [Golden Hour](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Golden Hour \- SM STATION : NCT LAB](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) | 3:19 |
+| 71 | [Golden Hour](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Golden Hour \- SM STATION : NCT LAB](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) | 3:19 |
+| 72 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
+| 73 | [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 |
+| 74 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 |
 | 75 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 |
 | 76 | [Good Bones](https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:40 |
 | 77 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 82 | [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 |
 | 83 | [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 |
 | 84 | [better \(with you\)](https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [better \(with you\)](https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn) | 2:26 |
-| 85 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 |
-| 86 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 |
+| 85 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 |
+| 86 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 |
 | 87 | [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 |
 | 88 | [WHERE AM I](https://open.spotify.com/track/0Kwlndk1WSXrHQrI7J1DJ5) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 3:37 |
-| 89 | [Wonder](https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:56 |
-| 90 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 |
-| 91 | [dried flower](https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [dried flower](https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC) | 3:35 |
+| 89 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 |
+| 90 | [dried flower](https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [dried flower](https://open.spotify.com/album/2I3cgfx30fAcg5OPyLRWmC) | 3:35 |
+| 91 | [Wonder](https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:56 |
 | 92 | [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 |
-| 93 | [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 |
-| 94 | [OOTD](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 2:56 |
-| 95 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 |
-| 96 | [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 |
-| 97 | [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 |
-| 98 | [Blue Moon](https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Once in a BLUE MOON](https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4) | 3:35 |
-| 99 | [Guard You](https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:17 |
-| 100 | [Harmony of Stars](https://open.spotify.com/track/1b2jcwnf3JwuyWiG3xTPsp) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 3:29 |
+| 93 | [OOTD](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 2:56 |
+| 94 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 |
+| 95 | [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 |
+| 96 | [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 |
+| 97 | [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 |
+| 98 | [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 |
+| 99 | [Blue Moon](https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Once in a BLUE MOON](https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4) | 3:35 |
+| 100 | [Guard You](https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:17 |
 
 Snapshot ID: `Zwi03QAAAAA2LC18YERSXnWAOuecVzlt`

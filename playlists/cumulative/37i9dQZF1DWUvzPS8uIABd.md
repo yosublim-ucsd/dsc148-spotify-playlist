@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Erika Vikman.
 
-247 songs - 12 hr 12 min
+248 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Katson autiota hiekkarantaa \(Vain elämää kausi 15\)](https://open.spotify.com/track/35O0nNVj5r5XvTaeLNxsHe) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN) | [Katson autiota hiekkarantaa \(Vain elämää kausi 15\)](https://open.spotify.com/album/4beEYaAPl84EIN9lUWibS3) | 2:59 | 2024-10-04 | 2024-10-11 |
 | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy) | 2:54 | 2024-10-04 | 2024-10-11 |
 | [Kauniita](https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Kauniita](https://open.spotify.com/album/2o5j2odPtpeJ1idbTWnQW5) | 3:15 | 2024-08-22 | 2024-10-04 |
+| [Keinukaruselli](https://open.spotify.com/track/1wBdSxF924y8J1l4k3VNzo) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Keinukaruselli](https://open.spotify.com/album/20S6N1DTN3xuwTWC8HpsId) | 3:08 | 2024-10-14 |  |
 | [Kerron sulle kaiken](https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Kerron sulle kaiken](https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1) | 2:53 | 2024-07-02 | 2024-08-23 |
 | [Kersantti Karoliina \- Vain Elämää kausi 15](https://open.spotify.com/track/2mJeWCdojQWnLXNzMxOeZR) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Kersantti Karoliina \- Vain Elämää kausi 15](https://open.spotify.com/album/6zdYBbU5P59YH1hREKzqNz) | 2:19 | 2024-09-13 | 2024-09-20 |
 | [Kertaakaan](https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Kertaakaan](https://open.spotify.com/album/2s09JoTcTRY11KbaQid3RV) | 2:24 | 2024-07-02 | 2024-07-12 |
@@ -126,7 +127,7 @@
 | [Me ollaan siskot](https://open.spotify.com/track/4oyeTpI7bkjkpldKOk4PU2) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5) | [Me ollaan siskot](https://open.spotify.com/album/74gp6EnHAcwSQX6PW0l50u) | 2:56 | 2024-08-29 | 2024-09-13 |
 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 | 2024-07-25 |  |
 | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 | 2024-07-02 | 2024-09-20 |
-| [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 | 2024-10-03 |  |
+| [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 | 2024-10-03 | 2024-10-15 |
 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 | 2024-09-13 |  |
 | [Mitä helvettii mä teen tääl](https://open.spotify.com/track/4O2Hi3g9RzZV9xKIIosRAv) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Mitä helvettii mä teen tääl](https://open.spotify.com/album/3osIWRkcvBQ6QGBiMCH5I2) | 3:07 | 2024-08-15 | 2024-09-06 |
 | [Mitä mä teen?](https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9) | [Varkemaa](https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7) | [Mitä mä teen? \(sped up\)](https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy) | 3:39 | 2024-07-16 | 2024-08-16 |

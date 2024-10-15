@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Erika Isac",
-  "num_followers": 19111,
+  "num_followers": 19115,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "Genera\u021bia de suflet",
+        "url": "https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "Genera\u021bia de suflet",
+      "url": "https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "Geamu Jos",
         "url": "https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 151741,
       "name": "Geamu Jos",
       "url": "https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "Genera\u021bia de suflet",
-        "url": "https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0"
-      },
-      "artists": [
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "Genera\u021bia de suflet",
-      "url": "https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "Un vibe",
+        "url": "https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        },
+        {
+          "name": "Seredinschi",
+          "url": "https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN"
+        }
+      ],
+      "duration_ms": 139192,
+      "name": "Un vibe",
+      "url": "https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "Cel mai frumos show",
         "url": "https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 174066,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "Un vibe",
-        "url": "https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG"
-      },
-      "artists": [
-        {
-          "name": "Criss Blaziny",
-          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
-        },
-        {
-          "name": "Seredinschi",
-          "url": "https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN"
-        }
-      ],
-      "duration_ms": 139192,
-      "name": "Un vibe",
-      "url": "https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m"
     },
     {
       "added_at": "2024-10-10 21:00:00",

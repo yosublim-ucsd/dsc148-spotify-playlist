@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28180,
+  "num_followers": 28187,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Jurassik Funk",
-        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
-      },
-      "artists": [
-        {
-          "name": "Jurassik Funk",
-          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Pick Up On Your Line",
-      "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "La Iguana en el Jard\u00edn",
         "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 184111,
       "name": "Estoy Contento, Nena",
       "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Jurassik Funk",
+        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
+      },
+      "artists": [
+        {
+          "name": "Jurassik Funk",
+          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Pick Up On Your Line",
+      "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 210566,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Inmunidad",
-        "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
-      },
-      "artists": [
-        {
-          "name": "Milhojas",
-          "url": "https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb"
-        }
-      ],
-      "duration_ms": 211654,
-      "name": "Al Otro Lado",
-      "url": "https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Amor Inocente",
         "url": "https://open.spotify.com/album/7pWtehv340syIcZaXSZclR"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 227931,
       "name": "Amor Inocente",
       "url": "https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Inmunidad",
+        "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
+      },
+      "artists": [
+        {
+          "name": "Milhojas",
+          "url": "https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb"
+        }
+      ],
+      "duration_ms": 211654,
+      "name": "Al Otro Lado",
+      "url": "https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "See you",
         "url": "https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 210012,
       "name": "See you",
       "url": "https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Impar",
+        "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
+      },
+      "artists": [
+        {
+          "name": "Maleboux",
+          "url": "https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "El Reino",
         "url": "https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 215480,
       "name": "Agitando",
       "url": "https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Impar",
-        "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
-      },
-      "artists": [
-        {
-          "name": "Maleboux",
-          "url": "https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI"
     },
     {
       "added_at": "2024-08-26 13:43:56",

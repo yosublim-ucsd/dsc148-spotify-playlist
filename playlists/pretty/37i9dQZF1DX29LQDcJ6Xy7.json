@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 336233,
+  "num_followers": 336300,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Digital Gods",
         "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 206346,
       "name": "D4TM",
       "url": "https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Hollow (Project Regeneration)",
-        "url": "https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Hollow (Project Regeneration)",
-      "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Tech Noir",
         "url": "https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 262244,
       "name": "Tech Noir",
       "url": "https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Hollow (Project Regeneration)",
+        "url": "https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Hollow (Project Regeneration)",
+      "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
     },
     {
       "added_at": "2024-07-05 16:33:33",

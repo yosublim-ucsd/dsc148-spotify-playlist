@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Christopher, Lee Young Ji\)
 
-201 songs - 10 hr 41 min
+202 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 | 2021-12-20 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-12-20 | 2022-06-23 |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-06 |  |
+| [I Want To Be With You](https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen), [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [I Want To Be With You](https://open.spotify.com/album/3aDWgiykjPhsVwepM3yNaG) | 4:30 | 2024-10-14 |  |
 | [IDOL](https://open.spotify.com/track/03iCbZaM4OkRR4We6wIzvx) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:20 | 2021-12-20 |  |
 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 | 2022-07-22 | 2024-04-19 |
 | [In the morning \- English Ver.](https://open.spotify.com/track/4GNMnhLF0sfDxXbEjAl2TA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [In the morning \(English Ver.\)](https://open.spotify.com/album/5jDFUDs30zMukAEk81Fveg) | 2:52 | 2021-12-20 | 2022-06-01 |
@@ -110,7 +111,7 @@
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-10 |  |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 | 2021-12-20 | 2022-05-17 |
 | [Love me once again](https://open.spotify.com/track/7bfquwu5xobFp4axJkXVdg) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [YUN MIN SOO](https://open.spotify.com/artist/1FNZfvjCk9f579v5fBAPbP) | [Love me once again](https://open.spotify.com/album/4t6H6kJeG5QrElmIeDYZA4) | 5:24 | 2021-12-20 | 2022-01-22 |
-| [Love,Maybe\(Japanese ver.\)](https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 | 2023-04-07 |  |
+| [Love,Maybe\(Japanese ver.\)](https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 | 2023-04-07 | 2024-10-15 |
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-15 | 2024-08-14 |
 | [LUNATIC \(English Ver.\)](https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-02-16 | 2022-12-06 |
 | [Make the change](https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Make the change](https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY) | 3:07 | 2022-10-13 |  |

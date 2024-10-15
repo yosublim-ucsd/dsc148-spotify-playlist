@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship your way with the best South African Gospel music.  Cover: \"<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=sxwsJmh6TeufagqSrHPsww>Lebo Sekgobela</a>",
-  "num_followers": 684,
+  "num_followers": 745,
   "original_name": "South African Gospel",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-10-04 00:02:00",
       "album": {
+        "name": "Esphambanweni",
+        "url": "https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC"
+      },
+      "artists": [
+        {
+          "name": "Kelly Khumalo",
+          "url": "https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no"
+        },
+        {
+          "name": "Hlengiwe Mhlaba",
+          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
+        }
+      ],
+      "duration_ms": 383038,
+      "name": "Esphambanweni",
+      "url": "https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E"
+    },
+    {
+      "added_at": "2024-10-04 00:02:00",
+      "album": {
         "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
         "url": "https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 308210,
       "name": "Moyongcwele 2.0 (feat. Xolly Mncwango & Dumi Mkokstad)",
       "url": "https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ"
-    },
-    {
-      "added_at": "2024-10-04 00:02:00",
-      "album": {
-        "name": "Esphambanweni",
-        "url": "https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC"
-      },
-      "artists": [
-        {
-          "name": "Kelly Khumalo",
-          "url": "https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no"
-        },
-        {
-          "name": "Hlengiwe Mhlaba",
-          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
-        }
-      ],
-      "duration_ms": 383038,
-      "name": "Esphambanweni",
-      "url": "https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E"
     },
     {
       "added_at": "2024-10-04 00:02:00",

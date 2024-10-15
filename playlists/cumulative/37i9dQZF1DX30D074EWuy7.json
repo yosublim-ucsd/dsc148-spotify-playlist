@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Cucoma Combo",
+        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
+      },
+      "artists": [
+        {
+          "name": "Cucoma Combo",
+          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250625,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
+    },
+    {
+      "album": {
         "name": "Jeux de couleurs",
         "url": "https://open.spotify.com/album/4MHtt9xdDi88XL3NackV32"
       },
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 340093,
       "name": "Catania Experiment",
       "url": "https://open.spotify.com/track/4EZNflW5g6YyicH1yZmtZL"
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 197953,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
@@ -8106,7 +8124,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 213602,
+  "num_followers": 213745,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2024-08-01 22:06:14",
@@ -395,8 +395,8 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "La Guzm\u00e1n en Primera Fila",
-        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
+        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
+        "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Mi Peor Error - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
+      "duration_ms": 212638,
+      "name": "D\u00eda De Suerte",
+      "url": "https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8"
     },
     {
       "added_at": "2024-08-01 22:06:14",
@@ -579,8 +579,8 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
-        "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
+        "name": "La Guzm\u00e1n en Primera Fila",
+        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 212638,
-      "name": "D\u00eda De Suerte",
-      "url": "https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8"
+      "duration_ms": 245400,
+      "name": "Mi Peor Error - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
     },
     {
       "added_at": "2024-08-01 22:06:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 333253,
+      "name": "Te amar\u00e9 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
         "name": "+ Es + - El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 316080,
       "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
       "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 333253,
-      "name": "Te amar\u00e9 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU"
     },
     {
       "added_at": "2024-08-01 22:06:14",

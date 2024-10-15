@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Rapuh",
+        "url": "https://open.spotify.com/album/31K5Y7sAJQYs3IednXlD11"
+      },
+      "artists": [
+        {
+          "name": "EAR SUN",
+          "url": "https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215756,
+      "name": "Rapuh",
+      "url": "https://open.spotify.com/track/2zUSSJiMHe0nE3xMX1yDjO"
+    },
+    {
+      "album": {
         "name": "Rayuan Perempuan Gila",
         "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
       },
@@ -3302,7 +3320,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -3360,6 +3378,42 @@
       "duration_ms": 202000,
       "name": "Sekarang Hingga Nanti Kita Tua",
       "url": "https://open.spotify.com/track/2CZkyEQWgOv5pXmRvLsKwx"
+    },
+    {
+      "album": {
+        "name": "Sempat Tak Sempat",
+        "url": "https://open.spotify.com/album/00ZGpAUWegdAvVa35Bkj6V"
+      },
+      "artists": [
+        {
+          "name": "Rakhano",
+          "url": "https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215700,
+      "name": "Sempat Tak Sempat",
+      "url": "https://open.spotify.com/track/1PUcZVirD5GmvRol25TVpA"
+    },
+    {
+      "album": {
+        "name": "Semu",
+        "url": "https://open.spotify.com/album/0bRyjuRv6cRSTgdiFaqGJz"
+      },
+      "artists": [
+        {
+          "name": "AMAN",
+          "url": "https://open.spotify.com/artist/0lSCTcMXqOhQu7mNCTcMSA"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Semu",
+      "url": "https://open.spotify.com/track/2pBvFdXgF5Q7IOT2EvATWF"
     },
     {
       "album": {

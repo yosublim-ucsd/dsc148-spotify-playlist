@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Pakistani indie tracks on the rise\. Like this? More fresh discoveries in <a href="https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v?si=e68b04cda53a4431">Fresh Finds PK</a>\. Cover \- Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,860 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,862 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

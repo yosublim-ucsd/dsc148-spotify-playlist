@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Julieta Rada & iLe.",
-  "num_followers": 26012,
+  "num_followers": 26018,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "10 minutos",
-        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 202074,
-      "name": "10 minutos",
-      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -899,38 +899,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Lentamente",
-        "url": "https://open.spotify.com/album/4fuiyFO5Ne13pSGQbUAEBb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Drexler",
-          "url": "https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk"
-        }
-      ],
-      "duration_ms": 185375,
-      "name": "Lentamente",
-      "url": "https://open.spotify.com/track/0W2NldLwyqDdlA3zrdS6LE"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Porte\u00f1a",
-        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 254829,
-      "name": "Malagradecida",
-      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Si Me Voy Antes Que Vos",
         "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 151564,
       "name": "Si Me Voy Antes Que Vos",
       "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Lentamente",
+        "url": "https://open.spotify.com/album/4fuiyFO5Ne13pSGQbUAEBb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Drexler",
+          "url": "https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk"
+        }
+      ],
+      "duration_ms": 185375,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/0W2NldLwyqDdlA3zrdS6LE"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Del otro lado de la vidriera",
         "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 185853,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1063,22 +1047,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Arrullito",
-        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
+        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
       },
       "artists": [
         {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
         }
       ],
-      "duration_ms": 228271,
-      "name": "Arrullito",
-      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+      "duration_ms": 185853,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 216766,
       "name": "As\u00ed Sea",
       "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Arrullito",
+        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
+      },
+      "artists": [
+        {
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 228271,
+      "name": "Arrullito",
+      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
-        }
-      ],
-      "duration_ms": 142364,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
+        }
+      ],
+      "duration_ms": 142364,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Los Ancestros",
-        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Los Ancestros",
-      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Hunde",
         "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Neblina",
-        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
+        "name": "Los Ancestros",
+        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
       },
       "artists": [
         {
-          "name": "Camila y Silvio",
-          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
         }
       ],
-      "duration_ms": 191339,
-      "name": "Neblina",
-      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
+      "duration_ms": 250723,
+      "name": "Los Ancestros",
+      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
+      },
+      "artists": [
+        {
+          "name": "Camila y Silvio",
+          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
+        }
+      ],
+      "duration_ms": 191339,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Traviarca",
         "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Sim\u00f3n",
-        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
-      },
-      "artists": [
-        {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
-        }
-      ],
-      "duration_ms": 298751,
-      "name": "Sim\u00f3n",
-      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "EUCALIPTO",
         "url": "https://open.spotify.com/album/1cr1LtMh5mwohEogHuqQe7"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 84997,
       "name": "Alguien",
       "url": "https://open.spotify.com/track/6wieV3krzP6veSHdwAkOAL"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Sim\u00f3n",
+        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "duration_ms": 298751,
+      "name": "Sim\u00f3n",
+      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "La Mariposa",
         "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 109962,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Las palabras que no sientes",
-        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 148339,
-      "name": "Las palabras que no sientes",
-      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "FR\u00c1GIL",
-        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
-      },
-      "artists": [
-        {
-          "name": "Juan Cottet",
-          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Frascuelo",
-      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Duele la pena",
         "url": "https://open.spotify.com/album/3waHdfO9Z0jzpDRXwiOLLl"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 234452,
       "name": "Duele la pena",
       "url": "https://open.spotify.com/track/1eSuXXud0DDeKwIu3gC4l4"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "FR\u00c1GIL",
+        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
+      },
+      "artists": [
+        {
+          "name": "Juan Cottet",
+          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Frascuelo",
+      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Abanicos negros",
-        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Cuturi",
-          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
-        }
-      ],
-      "duration_ms": 162843,
-      "name": "Abanicos negros",
-      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Me Late",
         "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 206737,
       "name": "Me Late",
       "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Abanicos negros",
+        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Cuturi",
+          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
+        }
+      ],
+      "duration_ms": 162843,
+      "name": "Abanicos negros",
+      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
     },
     {
       "added_at": "2024-09-06 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 99949,
+  "num_followers": 100009,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
-      },
-      "artists": [
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
-        }
-      ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Melting Hazard",
         "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 306676,
       "name": "Melting Hazard",
       "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+      },
+      "artists": [
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Heaven Come Crashing",
+        "url": "https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Our Wretched Fantasy",
+      "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 293331,
       "name": "Calma",
       "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Heaven Come Crashing",
-        "url": "https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Our Wretched Fantasy",
-      "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Ten As One",
         "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
@@ -1331,22 +1351,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+        "name": "EA9633",
+        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
       },
       "artists": [
         {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+          "name": "Miyu Hosoi",
+          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
         }
       ],
-      "duration_ms": 273053,
-      "name": "Golden Apples Of The Sun",
-      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+      "duration_ms": 192920,
+      "name": "EA9633",
+      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Briefly Human",
         "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
       },
@@ -1399,54 +1431,6 @@
       "duration_ms": 404301,
       "name": "Artificial Body",
       "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "EA9633",
-        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hosoi",
-          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "EA9633",
-      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -1523,18 +1491,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
       "artists": [
         {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1551,6 +1519,38 @@
       "duration_ms": 251485,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Into The Echo",
+        "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Funk",
+          "url": "https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf"
+        }
+      ],
+      "duration_ms": 421021,
+      "name": "Dreamers (Part I)",
+      "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "M\u00f6bius (Aerial Ballet Created by Cie Xy)",
         "url": "https://open.spotify.com/album/3JltziBX9Nyfj86n7BWyz0"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 396049,
       "name": "Outline of a Distant Memory",
       "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Into The Echo",
-        "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Funk",
-          "url": "https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf"
-        }
-      ],
-      "duration_ms": 421021,
-      "name": "Dreamers (Part I)",
-      "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Outerland II",
-        "url": "https://open.spotify.com/album/2iMNkkCosQP2B1caimXt9I"
+        "name": "Nothing Will Last",
+        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
       },
       "artists": [
         {
-          "name": "Sundayman",
-          "url": "https://open.spotify.com/artist/4QBplENqCYmyjKCsVKOWRy"
+          "name": "Araceae",
+          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
         }
       ],
-      "duration_ms": 260075,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/68XYj0LKFtVKzqsQy8CdVP"
+      "duration_ms": 557261,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
     }
   ],
   "unique_name": "Electronic X",

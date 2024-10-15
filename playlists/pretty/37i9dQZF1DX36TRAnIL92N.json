@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 357426,
+  "num_followers": 357670,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
-        }
-      ],
-      "duration_ms": 238270,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        }
+      ],
+      "duration_ms": 238270,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -411,38 +411,34 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         }
       ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
+        "name": "Melodia",
+        "url": "https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw"
       },
       "artists": [
         {
           "name": "Space 92",
           "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         }
       ],
-      "duration_ms": 201569,
-      "name": "ORION",
-      "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
+      "duration_ms": 222043,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -475,26 +471,6 @@
       "duration_ms": 377370,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        }
-      ],
-      "duration_ms": 259023,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -547,18 +523,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Melodia",
-        "url": "https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
       },
       "artists": [
         {
           "name": "Space 92",
           "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         }
       ],
-      "duration_ms": 222043,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE"
+      "duration_ms": 201569,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -655,42 +655,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Latin Lovers (Joyhauser Remix & Original)",
-        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
-      },
-      "artists": [
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 275394,
-      "name": "Latin Lovers - Joyhauser Remix",
-      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
       },
@@ -711,6 +675,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Latin Lovers (Joyhauser Remix & Original)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 275394,
+      "name": "Latin Lovers - Joyhauser Remix",
+      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 195223,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Better Than U Thought",
-        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 189618,
-      "name": "Better Than U Thought",
-      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -799,6 +799,22 @@
       "duration_ms": 390447,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Better Than U Thought",
+        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 189618,
+      "name": "Better Than U Thought",
+      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 205652,
       "name": "Robot",
       "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2024-10-04 04:00:00",

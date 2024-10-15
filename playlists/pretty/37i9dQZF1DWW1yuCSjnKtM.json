@@ -1,15 +1,95 @@
 {
-  "description": "These ones are taking off \ud83d\ude80\ud83d\ude80\ud83d\ude80 Cover: KSI & Trippie Redd",
-  "num_followers": 152581,
+  "description": "These ones are taking off \ud83d\ude80\ud83d\ude80\ud83d\ude80 Cover: Nimino",
+  "num_followers": 152576,
   "original_name": "!!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwaw9wAAAAAviPj/BWZK6hrEd7kpdj46",
+  "snapshot_id": "ZwzZXwAAAACoxprUI/h+UldsB0ozxlcd",
   "tracks": [
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Thick Of It (feat. Trippie Redd) / Low",
         "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
@@ -29,23 +109,27 @@
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 171869,
-      "name": "Bed Chem",
-      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -61,55 +145,7 @@
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "KEHLANI (REMIX) [feat. Kehlani]",
         "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
@@ -153,103 +189,23 @@
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Why's this dealer?",
-        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
-      },
-      "artists": [
-        {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
-        }
-      ],
-      "duration_ms": 129571,
-      "name": "Why's this dealer?",
-      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Definitely Maybe",
-        "url": "https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Timeless - Deluxe",
-        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154504,
-      "name": "Criminals",
-      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6"
@@ -265,7 +221,135 @@
       "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
     },
     {
-      "added_at": "2024-10-09 16:36:06",
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Why's this dealer?",
+        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "duration_ms": 129571,
+      "name": "Why's this dealer?",
+      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "Blame It On The Rain (Sped Up)",
+        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Blame It on the Rain",
+      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
@@ -281,7 +365,23 @@
       "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
+      "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
+    },
+    {
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -301,7 +401,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "TOO COOL TO BE CARELESS",
         "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
@@ -317,23 +417,7 @@
       "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -349,7 +433,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -369,7 +453,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
@@ -385,7 +469,7 @@
       "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
@@ -401,7 +485,7 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -417,7 +501,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -433,23 +517,7 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Blame It On The Rain (Sped Up)",
-        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Blame It on the Rain",
-      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
@@ -465,7 +533,7 @@
       "url": "https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
@@ -481,7 +549,7 @@
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Hi Ren",
         "url": "https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA"
@@ -497,7 +565,7 @@
       "url": "https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
@@ -513,7 +581,7 @@
       "url": "https://open.spotify.com/track/1PJinuD1XfjgPxMipaM7LP"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
@@ -529,7 +597,7 @@
       "url": "https://open.spotify.com/track/0Nb5ft0OdmZMNJnaEkpxB6"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -561,7 +629,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
@@ -577,7 +645,7 @@
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -593,7 +661,7 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
@@ -613,7 +681,7 @@
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
@@ -629,23 +697,7 @@
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "ALL RED",
-        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "ALL RED",
-      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -661,7 +713,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -677,7 +729,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -693,7 +745,7 @@
       "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
@@ -709,7 +761,7 @@
       "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
@@ -725,7 +777,7 @@
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Pink Lemonade (Str8 Reload)",
         "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
@@ -745,7 +797,7 @@
       "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Angel Of My Dreams",
         "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
@@ -761,7 +813,7 @@
       "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "PICK UP THE PHONE (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
@@ -781,7 +833,7 @@
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -805,7 +857,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-10-07 10:17:41",
+      "added_at": "2024-10-14 08:42:07",
       "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
@@ -819,54 +871,6 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "Double Life (From \"Despicable Me 4\")",
-        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190782,
-      "name": "Double Life - From \"Despicable Me 4\"",
-      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
-    },
-    {
-      "added_at": "2024-10-07 10:17:41",
-      "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 74378,
-      "name": "misses",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     }
   ],
   "unique_name": "!!!",

@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 201040,
       "name": "D.B.D.B DEEP",
       "url": "https://open.spotify.com/track/2Zjlp1wupG8jrZvqNiVArZ"
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 197135,
       "name": "Daily News",
       "url": "https://open.spotify.com/track/2jTD2vdCc6VIFVIIe1siMA"
@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 164246,
       "name": "Don\u2019t Compare feat. Keem Hyo-Eun",
       "url": "https://open.spotify.com/track/27V7VhgUS19cML7JLq9sGB"
@@ -7382,7 +7382,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 120476,
       "name": "Early Morning",
       "url": "https://open.spotify.com/track/1ezAwe29BwDyc7qgjFGdqm"
@@ -9476,7 +9476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 197973,
       "name": "GIOTL",
       "url": "https://open.spotify.com/track/1Tj8jpYF0fSS3k0Q2LYUk1"
@@ -10660,7 +10660,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 136343,
       "name": "Hacuna girl",
       "url": "https://open.spotify.com/track/4gE6t1R2kJW7LKU2ZvkiAA"
@@ -11586,7 +11586,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 206440,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2Mh1JHlvCLtUiMH0YkkMBP"
@@ -12050,7 +12050,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 173892,
       "name": "hur (feat. C JAMM)",
       "url": "https://open.spotify.com/track/4E97uO8qzkfiCtqjPuuwfM"
@@ -12722,7 +12722,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 105893,
       "name": "idontfreestyle",
       "url": "https://open.spotify.com/track/0XqL9tfS3ODKKgiSmem8cR"
@@ -13707,6 +13707,24 @@
     },
     {
       "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/4tHUmg0RAKdjTuCNkakep3"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "K-PACK",
+      "url": "https://open.spotify.com/track/3EsYuYLmFZbo86auAUKOSi"
+    },
+    {
+      "album": {
         "name": "K-TOWN",
         "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
       },
@@ -13914,7 +13932,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 211213,
       "name": "Killawhale (feat. Keith Ape & JayAllday)",
       "url": "https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS"
@@ -15518,7 +15536,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 233013,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
@@ -19164,7 +19182,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 198275,
       "name": "On My Scars (feat.Lil Cherry, Dbo)",
       "url": "https://open.spotify.com/track/2nRXFF4FE6NhUo0Sy6uCBS"
@@ -20971,6 +20989,32 @@
     },
     {
       "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "\uadf8\ub0e5\ub178\ucc3d",
+          "url": "https://open.spotify.com/artist/7hRgLHQarkYdhYexNcnsRy"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Quagmire (Feat. The Quiett, \uadf8\ub0e5\ub178\ucc3d)",
+      "url": "https://open.spotify.com/track/3FJAhPrChb3ljPfYH3AaQo"
+    },
+    {
+      "album": {
         "name": "THE CORE TAPE, Vol. 1",
         "url": "https://open.spotify.com/album/5QTXZPqCQwsQd6sByRsXNH"
       },
@@ -21626,7 +21670,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 195093,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J"
@@ -22469,6 +22513,36 @@
     },
     {
       "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        },
+        {
+          "name": "Gganmo",
+          "url": "https://open.spotify.com/artist/6FtlNVIjvUcbfXvNgqFGvq"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228875,
+      "name": "s l i p s t r e a m (Feat. Luci Gang, Gganmo, Don Mills)",
+      "url": "https://open.spotify.com/track/2clkHuj4kalzXcIJZbNmoo"
+    },
+    {
+      "album": {
         "name": "RAD MILLI",
         "url": "https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg"
       },
@@ -23092,7 +23166,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 158152,
       "name": "She go",
       "url": "https://open.spotify.com/track/4FAwpdUi7WV8UAxkcllYks"
@@ -23997,6 +24071,24 @@
     },
     {
       "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Somozu Fever",
+      "url": "https://open.spotify.com/track/2elTeqDcnK2f6jttJotJx8"
+    },
+    {
+      "album": {
         "name": "Somozu Fury",
         "url": "https://open.spotify.com/album/6heXgTq8fkAfzBkDRWDDL8"
       },
@@ -24806,7 +24898,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 223480,
       "name": "Summer Time Perfect For MONCLER",
       "url": "https://open.spotify.com/track/4TCNdwl2kKv6VrlsI7djWG"
@@ -25958,7 +26050,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 209626,
       "name": "THE NICE FREESTYLE",
       "url": "https://open.spotify.com/track/4zXBEMN4LdPPwnAytHrxi2"
@@ -26494,6 +26586,24 @@
       "duration_ms": 180436,
       "name": "TO GO (Feat. Jay Park, DJ Soulscape)",
       "url": "https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh"
+    },
+    {
+      "album": {
+        "name": "to infinity and beyond",
+        "url": "https://open.spotify.com/album/1aOfA4iTHXFJTOW6TAr1NO"
+      },
+      "artists": [
+        {
+          "name": "Lil tachi",
+          "url": "https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "to infinity and beyond",
+      "url": "https://open.spotify.com/track/0L40xsgquFpCRd6Mwyx073"
     },
     {
       "album": {
@@ -27104,7 +27214,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 143826,
       "name": "Turtle (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ"
@@ -29060,6 +29170,28 @@
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
+    },
+    {
+      "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Wild Mess (Feat. XINSAYNE)",
+      "url": "https://open.spotify.com/track/3nyocYbiiwRQzpdg5pqjt5"
     },
     {
       "album": {

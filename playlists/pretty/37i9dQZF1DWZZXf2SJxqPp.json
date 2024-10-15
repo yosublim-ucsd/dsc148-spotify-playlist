@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 140944,
+  "num_followers": 140948,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Satingarona, Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
       "artists": [
         {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         },
         {
-          "name": "Laurene P Magnani",
-          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+          "name": "Fatnotronic",
+          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
         }
       ],
-      "duration_ms": 294499,
-      "name": "Agua fr\u00eda",
-      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+      "duration_ms": 300000,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Satingarona, Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Laurene P Magnani",
+          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+        }
+      ],
+      "duration_ms": 294499,
+      "name": "Agua fr\u00eda",
+      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 195840,
       "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
       "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Fatnotronic",
-          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Esperar Pra Ver",
-      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
     },
     {
       "added_at": "2024-03-07 19:13:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
-      },
-      "artists": [
-        {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
-        }
-      ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "It's alright",
         "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 196676,
       "name": "It's alright",
       "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+      },
+      "artists": [
+        {
+          "name": "Bon Lui",
+          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+        }
+      ],
+      "duration_ms": 319677,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 131660,
       "name": "Do Something!",
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2023-08-14 14:58:41",

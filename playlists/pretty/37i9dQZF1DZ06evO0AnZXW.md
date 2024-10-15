@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This Is XXXTENTACION\. Los temas esenciales, todos en una lista.
+> This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,946,971 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,947,005 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Off the Wall!](https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 3:23 |
 | 50 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 |
 
-Snapshot ID: `Zwm8AAAAAADtC77rPpaKSt4k7zQA6dFa`
+Snapshot ID: `ZwsNgAAAAAC2bgXf/Owq296njwYF/0+/`

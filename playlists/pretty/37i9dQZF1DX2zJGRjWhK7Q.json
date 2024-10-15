@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 205225,
+  "num_followers": 205273,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -132,6 +132,26 @@
       "added_at": "2024-09-24 20:30:16",
       "album": {
         "name": "Anthology",
+        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Colon Y Ruben Blades",
+          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
+        }
+      ],
+      "duration_ms": 443480,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Anthology",
         "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
       },
       "artists": [
@@ -167,22 +187,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Numero 7",
         "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
       },
@@ -199,22 +203,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Colon Y Ruben Blades",
-          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
         }
       ],
-      "duration_ms": 443480,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
     },
     {
       "added_at": "2024-09-24 20:30:16",

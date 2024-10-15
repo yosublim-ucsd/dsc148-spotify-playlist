@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 ### [This Is Sofía Reyes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO05RikU)
 
-> This is Sofía Reyes\. The essential tracks, all in one playlist.
+> This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,416 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,417 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 48 | [TICK TOCK](https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [TICK TOCK](https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb) | 2:51 |
 | 49 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 |
 | 50 | [Goofy, Pt\. 2 \- Remix](https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Goofy, Pt\. 2 \(Remix\)](https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC) | 3:21 |
-| 51 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
-| 52 | [1, 2, 3 \- Sped Up](https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sped Up Songs Vol\. 1](https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L) | 2:50 |
+| 51 | [1, 2, 3 \- Sped Up](https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sped Up Songs Vol\. 1](https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L) | 2:50 |
+| 52 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
 
-Snapshot ID: `Zwm8AAAAAABjAAP7NjAfA5l6g+e+g0JI`
+Snapshot ID: `ZwsNgAAAAABATJMsSy8lbh7vFdP+a5OO`

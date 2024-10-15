@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Camidoh
+> The big Hip\-Life hits rn\. Cover: Fameye
 
-225 songs - 15 hr 0 min
+226 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-04 |  |
 | [Atadwe](https://open.spotify.com/track/7xMqJPXwR4daIGNNz8BIjc) | [Papa Shee](https://open.spotify.com/artist/7uBklHGcjfKcyKHGzXS0NC) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:03 | 2020-02-20 | 2022-07-26 |
 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 | 2020-02-20 | 2024-03-04 |
+| [Atamfo](https://open.spotify.com/track/4FkhH9eS0w3OT1DfWRR1b5) | [Showbezzy](https://open.spotify.com/artist/7BelL3ykjT9gOHjMCf3yMu) | [Atamfo](https://open.spotify.com/album/6TIabBzxEmd9EPFKF0P7a9) | 2:36 | 2024-10-14 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2024-03-04 |  |
 | [Atia Donko](https://open.spotify.com/track/0q0vMCj9PqiHSfoY43R3xj) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 6:09 | 2020-02-20 | 2022-10-16 |
 | [Atia Donko](https://open.spotify.com/track/3T7MjI732gFvMvxMtTgEGS) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:09 | 2020-02-20 | 2022-07-29 |
@@ -227,7 +228,7 @@
 | [Wo Sisi Ye Woya](https://open.spotify.com/track/4gaDKm5JQYlo6DFOv3eHAF) | [T Blaze](https://open.spotify.com/artist/5WUHEAVt0NS7Zm0foNjiPX) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:04 | 2020-02-20 | 2022-07-27 |
 | [Wokye \(feat\. Lazy Dogg\)](https://open.spotify.com/track/5k33aBKKLT6Xc9eQ6CMXng) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm), [Lazy Dogg](https://open.spotify.com/artist/4YvXEljlIeW6g6irD5x2HV) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:20 | 2020-02-20 | 2022-04-20 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-09 | 2024-03-05 |
-| [Y3 Koom](https://open.spotify.com/track/3LgSUQM3AJDgCZwM01NKEt) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Y3 Koom](https://open.spotify.com/album/70nC8BoqNKcRaU2v52fQkT) | 3:42 | 2024-05-17 |  |
+| [Y3 Koom](https://open.spotify.com/track/3LgSUQM3AJDgCZwM01NKEt) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Y3 Koom](https://open.spotify.com/album/70nC8BoqNKcRaU2v52fQkT) | 3:42 | 2024-05-17 | 2024-10-15 |
 | [Yahooya \(feat\. Batman\)](https://open.spotify.com/track/2f31vW2Rp3390tlIZ0IHzl) | [Madfish](https://open.spotify.com/artist/1gqY62fiIU5MYeIy12oazi), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:53 | 2020-02-20 | 2022-07-27 |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2020-02-20 | 2024-03-05 |
 | [Yewo Nyame](https://open.spotify.com/track/4lzhsMF2TUWC2EOcjcJOPi) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Yewo Nyame](https://open.spotify.com/album/6jLXI6n0xkgCQ6OTDCozWr) | 4:00 | 2024-04-26 | 2024-05-03 |

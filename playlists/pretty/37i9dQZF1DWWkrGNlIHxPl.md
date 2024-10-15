@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Llunr
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,887 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,893 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 31 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 |
 | 32 | [Good Girl](https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Good Girl](https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80) | 3:02 |
 | 33 | [Sirens](https://open.spotify.com/track/4Y2UCKOJ7jvvgasA7FJSNE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Sirens](https://open.spotify.com/album/7h5gLixz0Kl723RxDr6Fcv) | 2:39 |
-| 34 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 |
-| 35 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 |
-| 36 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 |
-| 37 | [DISCO COWBOY](https://open.spotify.com/track/4ShbZVBX250TtUHH4PN88P) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [DISCO COWBOY](https://open.spotify.com/album/45P82N0aw6NUaDH8OyCPUm) | 2:38 |
-| 38 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 |
-| 39 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 |
-| 40 | [ROLLERCOASTER](https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ROLLERCOASTER](https://open.spotify.com/album/1XUuF8s801LBGjloJZDBsm) | 3:14 |
-| 41 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
-| 42 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
-| 43 | [Baroudeh](https://open.spotify.com/track/2YtYdhCh20iGSkI6oHHhor) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 2:35 |
-| 44 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
-| 45 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 |
-| 46 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
-| 47 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 |
-| 48 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
-| 49 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
-| 50 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
+| 34 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 |
+| 35 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 |
+| 36 | [DISCO COWBOY](https://open.spotify.com/track/4ShbZVBX250TtUHH4PN88P) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [DISCO COWBOY](https://open.spotify.com/album/45P82N0aw6NUaDH8OyCPUm) | 2:38 |
+| 37 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 |
+| 38 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 |
+| 39 | [ROLLERCOASTER](https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ROLLERCOASTER](https://open.spotify.com/album/1XUuF8s801LBGjloJZDBsm) | 3:14 |
+| 40 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
+| 41 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
+| 42 | [Baroudeh](https://open.spotify.com/track/2YtYdhCh20iGSkI6oHHhor) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 2:35 |
+| 43 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
+| 44 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 |
+| 45 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
+| 46 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 |
+| 47 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
+| 48 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
+| 49 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
 
-Snapshot ID: `ZwOY/gAAAADlpu4bkZwo9ZJPlblNy2vT`
+Snapshot ID: `Zw0NIAAAAADz/KtZixsyicS/Q7IDqOw2`

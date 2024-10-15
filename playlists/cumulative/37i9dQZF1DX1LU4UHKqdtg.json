@@ -11369,6 +11369,28 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
+        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
+    },
+    {
+      "album": {
         "name": "The 2nd Mini Album 'Summer Vibe'",
         "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
       },
@@ -15314,7 +15336,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 180520,
       "name": "RISE UP -Korean ver.-",
       "url": "https://open.spotify.com/track/5f6IUEQLR0gk6iiPccKqgP"
@@ -17343,7 +17365,7 @@
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200680,
+      "duration_ms": 201200,
       "name": "Spark - WINTER Solo",
       "url": "https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4"
     },

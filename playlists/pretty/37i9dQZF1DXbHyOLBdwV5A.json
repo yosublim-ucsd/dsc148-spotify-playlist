@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 123784,
+  "num_followers": 123795,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -955,46 +955,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Deus \u00c9 Bom o Tempo Todo",
-        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Deus \u00c9 Bom o Tempo Todo",
-      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "N\u00e3o Sou Merecedor (Remix)",
         "url": "https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8"
       },
@@ -1023,6 +983,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Sorrindo \u00e0 Toa (Remix)",
         "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 155142,
       "name": "Sorrindo \u00e0 Toa - Remix",
       "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Deus \u00c9 Bom o Tempo Todo",
+        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 160846,
+      "name": "Deus \u00c9 Bom o Tempo Todo",
+      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
     },
     {
       "added_at": "2024-08-30 03:01:00",

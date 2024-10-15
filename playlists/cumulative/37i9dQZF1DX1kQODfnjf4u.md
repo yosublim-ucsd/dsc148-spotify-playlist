@@ -2,13 +2,13 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: The Weeknd
+> 50 nejžhavějších hitů v České republice\. Cover: Hard Rico
 
-67 songs - 3 hr 11 min
+69 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-07-01 |  |
+| [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-07-01 | 2024-10-15 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-22 |  |
 | [až bude hořet](https://open.spotify.com/track/58fJfG0hk0vdapXWxljz20) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Paranoia](https://open.spotify.com/album/6q3dUM9Wv4fHo7ACGXgSNC) | 2:23 | 2024-07-01 |  |
 | [Baila](https://open.spotify.com/track/4USCgD3COcDf6KX1LNX3ga) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Baila](https://open.spotify.com/album/5ftQSOaSwf5KPnCzXGteJ6) | 2:38 | 2024-07-01 |  |
@@ -20,7 +20,7 @@
 | [cool](https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW) | [Grey256](https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM) | [cool](https://open.spotify.com/album/0lcEeyRb0qLz0ZDq2iZ37Y) | 3:00 | 2024-07-01 |  |
 | [Další kapitola](https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Další kapitola](https://open.spotify.com/album/2rnrJ3KKF1VKgwspYXS2oI) | 2:30 | 2024-07-01 | 2024-07-23 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-23 |  |
-| [DISTANC](https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 3:12 | 2024-09-16 |  |
+| [DISTANC](https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 3:12 | 2024-09-16 | 2024-10-15 |
 | [Dopamin](https://open.spotify.com/track/6AMZm12a1B2kpgN7qOA7Cy) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 2:44 | 2024-07-01 |  |
 | [DTB for Life](https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:31 | 2024-07-01 | 2024-07-23 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 | 2024-09-17 |
@@ -30,6 +30,7 @@
 | [FaceTime](https://open.spotify.com/track/7cygxRmLVXDCQWt15xdRXB) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [HRA1](https://open.spotify.com/album/5dvyybxV1Inueqg9XSSMXw) | 2:58 | 2024-07-01 | 2024-10-08 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-07-22 |  |
 | [Get Low](https://open.spotify.com/track/7BrC5U8OUWPHKR4QgzzoE6) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 3:23 | 2024-07-15 |  |
+| [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 | 2024-10-14 |  |
 | [Givenchy](https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Givenchy](https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE) | 3:01 | 2024-07-01 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-07-01 | 2024-07-16 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 | 2024-10-01 |
@@ -38,6 +39,7 @@
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-10-01 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-01 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 |  |
+| [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 | 2024-10-14 |  |
 | [KICKIN’ DOORS](https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [KICKIN’ DOORS](https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb) | 2:57 | 2024-07-01 |  |
 | [Království](https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 3:10 | 2024-07-01 |  |
 | [Kung\-fu](https://open.spotify.com/track/0odvlXjOnmtZ6sZ9CIIvbt) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 2:21 | 2024-09-16 |  |

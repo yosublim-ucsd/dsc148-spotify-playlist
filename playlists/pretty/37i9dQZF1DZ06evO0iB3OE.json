@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9149,
+  "num_followers": 9153,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAZLsq3v+8zrZbItHuBDVv0",
+  "snapshot_id": "ZwsNgAAAAAC+se5ODaAKCsfePbsjDKhH",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Rancho Bella Vista",
-        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
       "artists": [
-        {
-          "name": "Inteligencia Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
-        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 189687,
-      "name": "El Plebe del Dos de Oro",
-      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
+      "duration_ms": 186773,
+      "name": "Que No Se Apague la Lumbre",
+      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
     },
     {
       "added_at": null,
@@ -487,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
       "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 186773,
-      "name": "Que No Se Apague la Lumbre",
-      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
+      "duration_ms": 189687,
+      "name": "El Plebe del Dos de Oro",
+      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cama de Piedra (En Vivo)",
-        "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 200377,
-      "name": "La Cama de Piedra (En Vivo)",
-      "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 227322,
       "name": "La Muerte de Julio Beltr\u00e1n - En Vivo",
       "url": "https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cama de Piedra (En Vivo)",
+        "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 200377,
+      "name": "La Cama de Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "El Cisne",
-      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 135673,
       "name": "Qui\u00e9reme - En Vivo",
       "url": "https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "El Cisne",
+      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 186586,
-      "name": "La Captura Del Zar",
-      "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
+      "duration_ms": 182773,
+      "name": "Compa Alfredito",
+      "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 142093,
-      "name": "Gente del Macho",
-      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
+      "duration_ms": 129533,
+      "name": "Como en la Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 182773,
-      "name": "Compa Alfredito",
-      "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
+      "duration_ms": 186586,
+      "name": "La Captura Del Zar",
+      "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
     },
     {
       "added_at": null,
@@ -860,45 +860,29 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 129533,
-      "name": "Como en la Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
+      "duration_ms": 142093,
+      "name": "Gente del Macho",
+      "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
     },
     {
       "added_at": null,
       "album": {
-        "name": "La Vieja Escuela (EN VIVO)",
-        "url": "https://open.spotify.com/album/3MjYSZtHa2Eyr9Kxrqizmm"
+        "name": "La Tambora Va A Sonar",
+        "url": "https://open.spotify.com/album/2g95Xdn4llprlryyEPqTMw"
       },
       "artists": [
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         },
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        },
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "EL LOBITO DE SINALOA",
-          "url": "https://open.spotify.com/artist/53dntt9Kh7qwQNPimcwRxa"
-        },
-        {
-          "name": "Jorge Cordero",
-          "url": "https://open.spotify.com/artist/2QSIGTQtAMKIlTwNUQgsmy"
         }
       ],
-      "duration_ms": 4584000,
-      "name": "La Vieja Escuela (EN VIVO)",
-      "url": "https://open.spotify.com/track/7zYAULUec9oDIfAkCUe2Nc"
+      "duration_ms": 159782,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/5THowR37eGWTSo8FWhBNRd"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

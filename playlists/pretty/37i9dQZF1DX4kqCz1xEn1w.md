@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,406 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,419 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 55 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 |
 | 56 | [Fierce \- Live](https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 4:06 |
 | 57 | [Behold Him](https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him](https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy) | 4:41 |
-| 58 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
-| 59 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 |
+| 58 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 |
+| 59 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 |
 | 60 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 |
 | 61 | [Promise Keeper](https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:00 |
 | 62 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 67 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
 | 68 | [Exalted Over All \- Live](https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 6:23 |
 | 69 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 |
-| 70 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp) | 5:23 |
-| 71 | [Better Word \- Single Version](https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67) | 3:22 |
+| 70 | [Better Word \- Single Version](https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67) | 3:22 |
+| 71 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp) | 5:23 |
 | 72 | [Yes He Lives \- Live](https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Yes He Lives](https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0) | 4:45 |
 | 73 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 74 | [Faithful Now](https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Faithful Now](https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF) | 3:52 |

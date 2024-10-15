@@ -22718,9 +22718,31 @@
           "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
-      "date_added": "2024-10-03",
+      "date_added": "2024-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231702,
+      "name": "Tidal",
+      "url": "https://open.spotify.com/track/6YqIZ0DjF4ShTlCapRbupl"
+    },
+    {
+      "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-10-15",
       "duration_ms": 624574,
       "name": "Tidal - The Euphoric Mix",
       "url": "https://open.spotify.com/track/7Itjn9RYLYdtAonZdc9Mkp"

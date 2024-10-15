@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 20930,
+  "num_followers": 20961,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAC69NGIs4mH3RG8O1WC4K3X",
+  "snapshot_id": "ZwsNgAAAAAC9+pkgARYivrs6sA/ulNeq",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
         "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 139632,
       "name": "Fake Jammin",
       "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLUT ME OUT (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 203858,
-      "name": "SLUT ME OUT (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 174967,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLUT ME OUT (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 203858,
+      "name": "SLUT ME OUT (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 131965,
-      "name": "Ova Bad",
-      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I love freaks (Sexyy\u2019s Version)",
         "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 175748,
       "name": "I Might (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 131965,
+      "name": "Ova Bad",
+      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Drug Church",
-  "num_followers": 467651,
+  "num_followers": 467647,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "U Should Not Be Doing That / Facts",
-        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 206659,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 174000,
       "name": "Beg For More",
       "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "PRUDE",
         "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 167000,
       "name": "Yankee Trails",
       "url": "https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "DOWN N OUT",
         "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
       },
@@ -727,6 +743,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Demolition Man",
+        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -755,38 +787,6 @@
       "duration_ms": 166050,
       "name": "Wretched Trajectory",
       "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Nothing Would Change",
-        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 203774,
-      "name": "Nothing Would Change",
-      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Demolition Man",
-        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "Demolition Man",
-      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "If It Sucks, Turn It Up",
-        "url": "https://open.spotify.com/album/3Cjqmxw1nQFHc0p4rXkUAm"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 179470,
-      "name": "If It Sucks, Turn It Up",
-      "url": "https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Gift Horse",
         "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 195553,
       "name": "5168 Days",
       "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "If It Sucks, Turn It Up",
+        "url": "https://open.spotify.com/album/3Cjqmxw1nQFHc0p4rXkUAm"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 179470,
+      "name": "If It Sucks, Turn It Up",
+      "url": "https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "It Burns",
-        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 236878,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Elster Stares the Desert Down",
-        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 221347,
-      "name": "Elster Stares the Desert Down",
-      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 127185,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "It Burns",
+        "url": "https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 236878,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Elster Stares the Desert Down",
+        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 221347,
+      "name": "Elster Stares the Desert Down",
+      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Git Some Balls / Air Con",
-        "url": "https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 146578,
-      "name": "Git Some Balls",
-      "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "No Backbone",
         "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 137076,
       "name": "No Backbone",
       "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Git Some Balls / Air Con",
+        "url": "https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 146578,
+      "name": "Git Some Balls",
+      "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Should\u2019ve Been Me",
-        "url": "https://open.spotify.com/album/6A6xRfiOYgZkeLWCovSIJv"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 62723,
-      "name": "Should\u2019ve Been Me",
-      "url": "https://open.spotify.com/track/6SzyT5365B5XAuDHrTwLlB"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 165393,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Should\u2019ve Been Me",
+        "url": "https://open.spotify.com/album/6A6xRfiOYgZkeLWCovSIJv"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 62723,
+      "name": "Should\u2019ve Been Me",
+      "url": "https://open.spotify.com/track/6SzyT5365B5XAuDHrTwLlB"
     },
     {
       "added_at": "2024-10-10 17:06:38",

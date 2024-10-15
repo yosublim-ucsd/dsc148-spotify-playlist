@@ -3371,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220900,
+      "name": "One",
+      "url": "https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg"
+    },
+    {
+      "album": {
         "name": "ONE DAY",
         "url": "https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy"
       },
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 197933,
       "name": "\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI"

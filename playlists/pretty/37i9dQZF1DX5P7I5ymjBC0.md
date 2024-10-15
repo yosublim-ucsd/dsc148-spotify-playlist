@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,863 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,875 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 40 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 |
 | 41 | [Suprabhatam](https://open.spotify.com/track/6S9b1AoBkTC4K9I8jB58b8) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 4:01 |
 | 42 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
-| 43 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
-| 44 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
+| 43 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
+| 44 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 | 45 | [Kinaray \- Coke Studio Season 8](https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Kinaray \(Coke Studio Season 8\)](https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX) | 4:21 |
 | 46 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 47 | [Yariyaan](https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Yariyaan \- Single](https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV) | 5:11 |

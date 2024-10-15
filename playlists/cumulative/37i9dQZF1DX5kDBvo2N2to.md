@@ -4,14 +4,14 @@
 
 > låtarna som inte går att få nog av.
 
-185 songs - 10 hr 47 min
+186 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-28 | 2024-10-13 |
 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 | 2024-09-13 |  |
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-28 |  |
-| [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 |  |
+| [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-28 | 2024-09-13 |
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-06-28 | 2024-08-23 |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 |  |
@@ -52,6 +52,7 @@
 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 | 2024-06-28 |  |
 | [ENERGI](https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/670PVkgGQoiAqGdlT9O39j) | 3:13 | 2024-06-28 | 2024-08-23 |
 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 | 2024-09-19 |  |
+| [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 | 2024-10-10 |  |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-06-28 | 2024-08-16 |
 | [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 | 2024-10-10 |  |
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-13 |

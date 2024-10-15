@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 581549,
+  "num_followers": 581626,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Serie Inmortales - Daniel Santos Y Sus Amigos",
+        "url": "https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Las Cuarenta",
+      "url": "https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Serie Inmortales - Daniel Santos Y Sus Amigos",
-        "url": "https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Las Cuarenta",
-      "url": "https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "\u00bfC\u00f3mo Fue?",
-      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Frente a Frente de Tr\u00edos",
         "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 198310,
       "name": "Reg\u00e1lame Esta Noche",
       "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "\u00bfC\u00f3mo Fue?",
+      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Exitos de los Tres Reyes",
-        "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Esencial Ana y Victor",
         "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 185240,
       "name": "La Mentira",
       "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Exitos de los Tres Reyes",
+        "url": "https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 169773,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+        "name": "El Alma en Los Labios",
+        "url": "https://open.spotify.com/album/1qkPIJnQy21i1y8U9reW0z"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+      "duration_ms": 204636,
+      "name": "Ni\u00e9galo Todo",
+      "url": "https://open.spotify.com/track/1lQ82y5K95hQOfTxnEFTBe"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "El Alma en Los Labios",
-        "url": "https://open.spotify.com/album/1qkPIJnQy21i1y8U9reW0z"
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 204636,
-      "name": "Ni\u00e9galo Todo",
-      "url": "https://open.spotify.com/track/1lQ82y5K95hQOfTxnEFTBe"
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Noche criolla",
+        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "Ven aca (Bolero)",
+      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Esperare",
         "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Noche criolla",
-        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Ven aca (Bolero)",
-      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1479,50 +1463,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
       "artists": [
         {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Sortilegio",
-      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1543,6 +1495,54 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+      },
+      "artists": [
+        {
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Sortilegio",
+      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -1555,30 +1555,6 @@
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1611,6 +1587,30 @@
       "duration_ms": 156000,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 125000,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Boleros Tr\u00edos, Vol. 1",
+        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Siboney",
+          "url": "https://open.spotify.com/artist/0pLYvjogP9YspXH4ZQr14o"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 132672,
       "name": "Camino A San Miguel",
       "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Boleros Tr\u00edos, Vol. 1",
-        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Siboney",
-          "url": "https://open.spotify.com/artist/0pLYvjogP9YspXH4ZQr14o"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esmeralda Olasabal",
-        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Olasabal",
-          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
-        }
-      ],
-      "duration_ms": 241913,
-      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
-      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "40 Temas Originales",
         "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 191200,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esmeralda Olasabal",
+        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Olasabal",
+          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
+        }
+      ],
+      "duration_ms": 241913,
+      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
+      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Lo Esencial de Don Pedro Vargas",
-        "url": "https://open.spotify.com/album/4IE1G3yv3JXu5cZY4tpNcZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Vargas",
-          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Noches de Mazatl\u00e1n - Remasterizado",
-      "url": "https://open.spotify.com/track/7LuZKsgKH1PBqguxRqI5Ad"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Los Grandes \u00c9xitos de Luis Arcaraz",
         "url": "https://open.spotify.com/album/5212xtIwURSLaPL9XpsyQO"
       },
@@ -2135,18 +2119,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Caricias Cubanas (1955-1958)",
-        "url": "https://open.spotify.com/album/4mXwlEa4p6FTV5XQVVywry"
+        "name": "Lo Esencial de Don Pedro Vargas",
+        "url": "https://open.spotify.com/album/4IE1G3yv3JXu5cZY4tpNcZ"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Pedro Vargas",
+          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
         }
       ],
-      "duration_ms": 174210,
-      "name": "Vagar entre sombras (bolero)",
-      "url": "https://open.spotify.com/track/6d5CbZ5iQbq0rpw6YwzUyF"
+      "duration_ms": 182906,
+      "name": "Noches de Mazatl\u00e1n - Remasterizado",
+      "url": "https://open.spotify.com/track/7LuZKsgKH1PBqguxRqI5Ad"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2163,6 +2147,22 @@
       "duration_ms": 200320,
       "name": "Lazo Eterno",
       "url": "https://open.spotify.com/track/21VudhdjNioZOAvWWoo2ws"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Caricias Cubanas (1955-1958)",
+        "url": "https://open.spotify.com/album/4mXwlEa4p6FTV5XQVVywry"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 174210,
+      "name": "Vagar entre sombras (bolero)",
+      "url": "https://open.spotify.com/track/6d5CbZ5iQbq0rpw6YwzUyF"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Manzanillo (Remastered)",
-        "url": "https://open.spotify.com/album/7KAfIqpjfUZb3UiCQM3QiA"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 202307,
-      "name": "Manzanillo - Remastered",
-      "url": "https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
         "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 195906,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Manzanillo (Remastered)",
+        "url": "https://open.spotify.com/album/7KAfIqpjfUZb3UiCQM3QiA"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 202307,
+      "name": "Manzanillo - Remastered",
+      "url": "https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN TAN",
-        "url": "https://open.spotify.com/album/1Kb6SN47VZMIos58X7qNBe"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
-        }
-      ],
-      "duration_ms": 171710,
-      "name": "La Gloria Eres Tu",
-      "url": "https://open.spotify.com/track/6YHvFkBxyMrAYMcW8cdxn0"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club presents)",
         "url": "https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 294293,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN TAN",
+        "url": "https://open.spotify.com/album/1Kb6SN47VZMIos58X7qNBe"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 171710,
+      "name": "La Gloria Eres Tu",
+      "url": "https://open.spotify.com/track/6YHvFkBxyMrAYMcW8cdxn0"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
-        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
-          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "65 Aniversario",
         "url": "https://open.spotify.com/album/09GqM17oHYAcGLMHn6wE4Y"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 145533,
       "name": "Los Aretes De La Luna",
       "url": "https://open.spotify.com/track/6j7AavgVOm42wPdRU5zSsy"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw"
     },
     {
       "added_at": "2024-07-11 00:56:29",

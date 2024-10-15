@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 ### [This Is Jimmy Eat World](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25r82I)
 
-> This is Jimmy Eat World\. The essential tracks, all in one playlist.
+> This Is Jimmy Eat World\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,732 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,740 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [You Are Free](https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 4:14 |
 | 50 | [What Would I Say To You Now](https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 2:34 |
 
-Snapshot ID: `Zwm8AAAAAACMLwJAJS0DqivMstpYoVju`
+Snapshot ID: `ZwsNgAAAAAD0MyxhCXCNSZrXpp7nPzEL`

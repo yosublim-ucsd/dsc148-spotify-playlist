@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGmzwfdtC6F7kVpfsDwxbYxmFAVV7P",
+  "snapshot_id": "AAAGof314jGVqpaNU2/VGu7tYJ49OtJ7",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8855,6 +8855,54 @@
       "duration_ms": 175573,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a"
+    },
+    {
+      "added_at": "2024-10-14 22:19:17",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 126978,
+      "name": "New Low",
+      "url": "https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf"
+    },
+    {
+      "added_at": "2024-10-14 15:54:33",
+      "album": {
+        "name": "Mount Eerie",
+        "url": "https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 1031599,
+      "name": "I. The Sun",
+      "url": "https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c"
+    },
+    {
+      "added_at": "2024-10-14 15:55:47",
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
     }
   ],
   "unique_name": "Zacklog",

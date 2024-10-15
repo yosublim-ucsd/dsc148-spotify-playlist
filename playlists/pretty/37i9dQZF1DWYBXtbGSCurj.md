@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Raflow, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,742 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,726 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 6 | [Fardo Leve](https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Fardo Leve](https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v) | 2:05 |
 | 7 | [LOBO](https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [DiCastro](https://open.spotify.com/artist/4B0PCTFMn7yjoobr2b1WKm) | [Apocalipse](https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM) | 3:08 |
 | 8 | [Ainda Sinto Muito](https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:52 |
-| 9 | [812](https://open.spotify.com/track/0rfM2JNT44EDhy2FUdD6kr) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:31 |
+| 9 | [812](https://open.spotify.com/track/0rfM2JNT44EDhy2FUdD6kr) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Prod\. Calixto](https://open.spotify.com/artist/7KirEZG2gdnvibh5HWFXnE) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:31 |
 | 10 | [Bala e Fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Bala e Fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 |
 | 11 | [Tá Interessante \(200 Por Hora\)](https://open.spotify.com/track/7mzuvMZc2NnBS0dsJNYEzD) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá Interessante \(200 Por Hora\)](https://open.spotify.com/album/7tsXfedOhZSI3VxcZQXB0I) | 5:05 |
 | 12 | [A D I C T O <3](https://open.spotify.com/track/6LqZrpbGOaiSxciF7T9qPq) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7) | [A D I C T O <3](https://open.spotify.com/album/1ps2Q5sBq5Q3SiiJpYIh6u) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 28229,
+  "num_followers": 28231,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAD4wO4q4fgqGlMnfUz3lqtT",
+  "snapshot_id": "ZwsNgAAAAABGWgmQBA2QjUPYpcUsg6Su",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
         "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
       },
@@ -491,30 +491,6 @@
       "duration_ms": 181240,
       "name": "My Life - Single Version",
       "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 311506,
-      "name": "Diddley Daddy",
-      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
     },
     {
       "added_at": null,
@@ -539,6 +515,30 @@
       "duration_ms": 223946,
       "name": "Rockin' Daddy",
       "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 311506,
+      "name": "Diddley Daddy",
+      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 179040,
       "name": "Worried About My Baby",
       "url": "https://open.spotify.com/track/3liB9UAZasfLNoAMo6PphY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "I'm The Wolf",
+      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 183373,
       "name": "What A Woman",
       "url": "https://open.spotify.com/track/1ukHOyXTYjvDR3rKKpmnCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "I'm The Wolf",
-      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
     },
     {
       "added_at": null,
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 334320,
-      "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
+      "duration_ms": 175160,
+      "name": "Stop Using Me",
+      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 334320,
+      "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Message To The Young",
         "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
       },
@@ -824,25 +824,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Stop Using Me",
-      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "All My Life - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d"
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 191194,
       "name": "Color And Kind",
       "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 248693,
+      "name": "All My Life - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Rockin' the Blues - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/1LDkBbUMGP473q1VMY1Z6W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 160224,
       "name": "Chocolate Drop",
       "url": "https://open.spotify.com/track/4HnoJ54rGCjE8j5qkzDZS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Rockin' the Blues - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/1LDkBbUMGP473q1VMY1Z6W"
     },
     {
       "added_at": null,

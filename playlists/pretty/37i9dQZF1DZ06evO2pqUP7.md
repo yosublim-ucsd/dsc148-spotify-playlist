@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 ### [This Is Lunay](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pqUP7)
 
-> This Is Lunay\. Los temas esenciales, todos en una lista.
+> This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,044 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,048 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 32 | [Mi Llamada \(Remix\)](https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Mi Llamada \(Remix\)](https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA) | 6:54 |
 | 33 | [Mezcalito en copa](https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Mezcalito en copa](https://open.spotify.com/album/2skejlYNbtowtMpPbWibmE) | 3:06 |
 | 34 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
-| 35 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
-| 36 | [Mi Favorita](https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:49 |
+| 35 | [Mi Favorita](https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:49 |
+| 36 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
 | 37 | [Top Gone \(with Lunay\)](https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Top Gone \(with Lunay\)](https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO) | 3:14 |
 | 38 | [Fantasia Sexual](https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Fantasia Sexual](https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c) | 4:13 |
 | 39 | [TBC](https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 50 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 
-Snapshot ID: `Zwm8AAAAAABrgMWT9clfFns9Q7ykpMFU`
+Snapshot ID: `ZwsNgAAAAADzic0DdYJPiq+rYm44Movf`

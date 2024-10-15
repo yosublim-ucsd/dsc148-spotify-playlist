@@ -2,7 +2,7 @@
 
 ### [This Is Juice WRLD](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O09Hg)
 
-> This Is Juice WRLD\. Los temas esenciales, todos en una lista.
+> This is Juice WRLD\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 22 min
 

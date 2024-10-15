@@ -1,6 +1,6 @@
 {
   "description": "Bonitas, orgullosas y empoderadas \ud83c\udf37",
-  "num_followers": 303111,
+  "num_followers": 303203,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-05-02 20:10:01",
       "album": {
+        "name": "Mujer De Todos Mujer De Nadie",
+        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2024-05-02 20:10:01",
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2024-05-02 20:10:01",
-      "album": {
-        "name": "Mujer De Todos Mujer De Nadie",
-        "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
     },
     {
       "added_at": "2024-05-02 20:10:01",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-05-02 20:10:01",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+    },
+    {
+      "added_at": "2024-05-02 20:10:01",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2024-05-02 20:10:01",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2024-05-02 20:10:01",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-05-02 20:10:01",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 304200,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
+      "duration_ms": 228146,
+      "name": "Mi error, mi fantas\u00eda",
+      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
     },
     {
       "added_at": "2024-05-02 20:10:01",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-05-02 20:10:01",
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+      "duration_ms": 304200,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
     },
     {
       "added_at": "2024-05-02 20:10:01",

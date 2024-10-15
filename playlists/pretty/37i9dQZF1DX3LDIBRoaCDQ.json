@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1589470,
+  "num_followers": 1589584,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
-      },
-      "artists": [
-        {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Songs The Lord Taught Us",
         "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 183866,
       "name": "I Was A Teenage Werewolf - Remastered",
       "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Suspect Device",
-      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 208360,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/2utvK2CuAEXbUnPpV9ataH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Suspect Device",
+      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Rat Music for Rat People, Vol. 1",
         "url": "https://open.spotify.com/album/3kPFgmYVQaJs9n3WIaAAfl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 137480,
       "name": "Don't Care / Live Fast, Die Young",
       "url": "https://open.spotify.com/track/2ZXFb4Ymu5pplhKScRy5Hi"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2024-01-11 00:51:37",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Ramones (Expanded)",
+        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Blitzkrieg Bop - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Ramones (Expanded)",
-        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Blitzkrieg Bop - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Love Bites (Special Edition)",
         "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
       },
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 91240,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
     },
     {
       "added_at": "2022-11-28 15:26:19",

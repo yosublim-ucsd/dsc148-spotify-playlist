@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 90387,
+  "num_followers": 90437,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Picadillo A La Criolla",
+        "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Temperatura",
+      "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Determination",
         "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 252066,
       "name": "Se\u00f1ora Ley",
       "url": "https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Picadillo A La Criolla",
-        "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Temperatura",
-      "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Salsa Y Control",
+        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Salsa Y Control",
+      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Maelo...El \u00danico",
         "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 252000,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Salsa Y Control",
-        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Salsa Y Control",
-      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
     },
     {
       "added_at": "2024-06-24 22:23:31",

@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Pappy Kojo
 
-641 songs - 1 day 8 hr 14 min
+642 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Next Move](https://open.spotify.com/track/349xUXpwkSwnNif0xxECZR) | [Forever Boy](https://open.spotify.com/artist/1lyZ6cpt2PAztZxbZzx7iz), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Next Move](https://open.spotify.com/album/0psr5kCPCMwyjvtdsURhmu) | 2:42 | 2023-06-09 | 2023-06-23 |
 | [Ninja Gaiden Flow](https://open.spotify.com/track/2vsWbKaOyWEU8Fc0gIbq3n) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [Let's Start a Riot](https://open.spotify.com/album/5qwUm4V3XqyEgOMTRgMQto) | 2:27 | 2023-12-15 | 2024-01-05 |
 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 | 2022-07-21 | 2024-03-22 |
+| [NLF \(Breakfast\) \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\) \- Remix](https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [NLF \(Breakfast\) \[Remix\] \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\)](https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II) | 4:26 | 2024-10-14 |  |
 | [No Dullin’](https://open.spotify.com/track/0moft9DUJaniO4PgZJr9Bu) | [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [No Dullin'/ This Year](https://open.spotify.com/album/350S6c0i4V3rI5qHdLtNZA) | 2:45 | 2024-03-15 | 2024-03-22 |
 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 | 2022-06-24 | 2023-04-21 |
 | [No Go Go](https://open.spotify.com/track/4rS1Qms4p6GBVreXZvvpAb) | [Isolirium](https://open.spotify.com/artist/1PvBL0xHCwNYbhRnfkuinf), [Dr\. Pushkin](https://open.spotify.com/artist/7hujJAta8Q5KMgvwOfqXsF), [Ataman Nikita](https://open.spotify.com/artist/43hMrB8pbLJqwGzSkAMFdY), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [No Go Go](https://open.spotify.com/album/0up3cENYdB9bLN3fWqICga) | 2:53 | 2024-02-16 | 2024-03-08 |

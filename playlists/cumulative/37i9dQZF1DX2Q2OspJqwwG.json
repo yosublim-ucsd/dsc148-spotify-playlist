@@ -259,6 +259,28 @@
     },
     {
       "album": {
+        "name": "Antidot",
+        "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
+      },
+      "artists": [
+        {
+          "name": "Pepy",
+          "url": "https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Antidot",
+      "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
+    },
+    {
+      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
       },
@@ -766,7 +788,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 203835,
       "name": "De la dela",
       "url": "https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7"
@@ -784,7 +806,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB"
@@ -1377,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/2gAspt9uteUDYLHBkcnGJ6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
+    },
+    {
+      "album": {
         "name": "Hitana",
         "url": "https://open.spotify.com/album/11WSvWVNkU7HL4OYqerYnL"
       },
@@ -1810,7 +1850,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 145617,
       "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
@@ -2018,7 +2058,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 179393,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp"
@@ -2424,7 +2464,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 197987,
       "name": "Nu Pl\u00e2nge",
       "url": "https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv"
@@ -2691,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Renunta la el",
+        "url": "https://open.spotify.com/album/27VR6lYLmK8Nfkc6kyKifN"
+      },
+      "artists": [
+        {
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Renunta la el",
+      "url": "https://open.spotify.com/track/66UDeXHgan2znzgkwWhFar"
+    },
+    {
+      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -2927,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "Sokeres",
+        "url": "https://open.spotify.com/album/7nvLstyYM3GHCTrOAfnEcA"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Sokeres",
+      "url": "https://open.spotify.com/track/1xdXpQ8rELO312ruPkaTpH"
+    },
+    {
+      "album": {
         "name": "someday i'll get it",
         "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
@@ -2942,6 +3018,24 @@
       "duration_ms": 94750,
       "name": "someday i'll get it",
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+    },
+    {
+      "album": {
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
     },
     {
       "album": {

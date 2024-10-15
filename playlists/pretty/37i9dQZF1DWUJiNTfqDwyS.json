@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Gojira",
-  "num_followers": 377670,
+  "num_followers": 377667,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Somebody Told Me",
-        "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 199477,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 248400,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 199477,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 210639,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
     },
     {
       "added_at": "2024-09-13 04:00:00",

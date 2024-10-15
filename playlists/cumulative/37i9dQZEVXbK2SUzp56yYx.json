@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173431,
+      "name": "1-800-hot-n-fun",
+      "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
+    },
+    {
+      "album": {
         "name": "12 AM",
         "url": "https://open.spotify.com/album/6mKN8JQ2EYqHaYqGWkbZgq"
       },
@@ -274,7 +292,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 98000,
       "name": "A-What",
       "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
@@ -336,6 +354,28 @@
       "duration_ms": 165600,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN"
+    },
+    {
+      "album": {
+        "name": "Again (feat. XXXTENTACION)",
+        "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193961,
+      "name": "Again (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
     },
     {
       "album": {
@@ -1976,7 +2016,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 205714,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/1ATLkckuO7t1xb6KY4s72I"
@@ -8616,7 +8656,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 151872,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/2A8PTPJSAmuJENg6Y7gp31"
@@ -9314,7 +9354,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 258013,
       "name": "Woops",
       "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"
@@ -11126,6 +11166,24 @@
       "duration_ms": 106000,
       "name": "\u0433\u043e\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/3OT0OE6syV3wS5xSr1jqKc"
+    },
+    {
+      "album": {
+        "name": "\u0413\u043e\u043d\u043a-\u041a\u043e\u043d\u0433",
+        "url": "https://open.spotify.com/album/0xnEbeSiugfsHYnSxNoh1T"
+      },
+      "artists": [
+        {
+          "name": "UNIK",
+          "url": "https://open.spotify.com/artist/6eX7pwdlhxZRfQjGatcUZ2"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199830,
+      "name": "\u0413\u043e\u043d\u043a-\u041a\u043e\u043d\u0433",
+      "url": "https://open.spotify.com/track/5xcbPD4goJOLumvbMoqXVV"
     },
     {
       "album": {
@@ -16548,6 +16606,24 @@
       "duration_ms": 137714,
       "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
+    },
+    {
+      "album": {
+        "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
+      },
+      "artists": [
+        {
+          "name": "Okean Elzy",
+          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270119,
+      "name": "\u042f\u043a \u043d\u0456\u043a\u043e\u043b\u0438",
+      "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
     },
     {
       "album": {

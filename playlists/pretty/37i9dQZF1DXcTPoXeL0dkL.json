@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 204724,
+  "num_followers": 204766,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "La Creciente",
+      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Grandes Hits - Los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
+      "duration_ms": 288493,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
+        "name": "Grandes Hits - Los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 182666,
-      "name": "La Creciente",
-      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
+      "duration_ms": 288194,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
     },
     {
       "added_at": "2024-07-12 22:13:52",

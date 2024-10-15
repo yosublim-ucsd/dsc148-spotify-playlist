@@ -2,7 +2,7 @@
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This is Emei\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Emei\. The essential tracks, all in one playlist.
 
 25 songs - 58 min 36 sec
 

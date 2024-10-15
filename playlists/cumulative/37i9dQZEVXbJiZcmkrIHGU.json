@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -5395,7 +5395,7 @@
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164998,
+      "duration_ms": 164991,
       "name": "BAD",
       "url": "https://open.spotify.com/track/3sIG4gEXMRxPch5b19h7Ne"
     },
@@ -7528,7 +7528,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -19684,7 +19684,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 160427,
       "name": "F\u00dcR IMMER",
       "url": "https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS"
@@ -23600,7 +23600,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -33352,7 +33352,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 226151,
       "name": "Meer",
       "url": "https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn"
@@ -34670,7 +34670,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 156143,
       "name": "mit dir ist es anders",
       "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
@@ -41990,7 +41990,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -49060,7 +49060,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -49846,7 +49846,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -54896,7 +54896,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 141600,
       "name": "WAHH QZENG",
       "url": "https://open.spotify.com/track/1bFvFr4H39lE3hZk49r7g6"
@@ -58746,6 +58746,32 @@
       "duration_ms": 134000,
       "name": "Zeit fliegt (feat. Fergy53)",
       "url": "https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU"
+    },
+    {
+      "album": {
+        "name": "EIN SCHRITT UND ICH FALL",
+        "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "ZEIT, DASS SICH WAS DREHT",
+      "url": "https://open.spotify.com/track/7fc7Z9hY2hzimmFvo2JO8p"
     },
     {
       "album": {

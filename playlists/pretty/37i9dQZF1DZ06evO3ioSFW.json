@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 466331,
+  "num_followers": 466447,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAALmZm70AB0JK9AOYSa71b/",
+  "snapshot_id": "ZwsNgAAAAADfPhvT5Z50MfC26ostlQNd",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "En Su Lugar (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carlos Rivera",
         "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 208800,
       "name": "En el Amor No Se Manda (with Yuridia)",
       "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "En Su Lugar (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6"
     },
     {
       "added_at": null,

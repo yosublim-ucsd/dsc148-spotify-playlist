@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: Bu Kolthoum
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,612 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,624 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 26 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 |
 | 27 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
 | 28 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
-| 29 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 |
-| 30 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 |
+| 29 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 |
+| 30 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 |
 | 31 | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [R3](https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4), [Tayeb Santo](https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD) | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl) | 3:50 |
 | 32 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 33 | [WELAD ELMAGANEN](https://open.spotify.com/track/5BLk1nq9Z0Fj9hIFA4FYOx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:18 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 47 | [Al Taman](https://open.spotify.com/track/0890Wmyp53lDUwv0F1rU6c) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Wardenclyph](https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h) | [Al Taman](https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF) | 2:10 |
 | 48 | [العيد الكبير](https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [العيد الكبير](https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR) | 2:35 |
 | 49 | [Khaii](https://open.spotify.com/track/5FI6PVrIr8FIVYugbkxrfB) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Dumya Bilaa Khie6aan](https://open.spotify.com/album/7a0TT2UfzgfyelNv0IVKYD) | 3:03 |
-| 50 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 |
-| 51 | [Hajes](https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP) | 4:00 |
+| 50 | [Hajes](https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP) | 4:00 |
+| 51 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 |
 
 Snapshot ID: `ZvLYWAAAAAAksHKt11xvqOfNfhcXRs4j`

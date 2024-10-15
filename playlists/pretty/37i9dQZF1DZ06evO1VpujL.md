@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,240 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,249 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 47 | [Days Like These](https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 |
 | 48 | [Corrupted](https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 |
 
-Snapshot ID: `Zwm8AAAAAACS/QvBe9DYyGqTVMENJkjj`
+Snapshot ID: `ZwsNgAAAAABGeU/RSLcxOu4WnZBcokeu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 290,953 likes - 43 songs - 2 hr 27 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 290,938 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 8 | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a) | 2:33 |
 | 9 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
 | 10 | [Freaky Feed Me](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Freaky Feed Me / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 |
-| 11 | [Love in the Middle of a Firefight \(feat\. Brendon Urie\) \- Eleganto Remix](https://open.spotify.com/track/3ed6tRNrf5ebsSbpx6EtsH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [Money Sucks, Friends Rule \(10 Year Remix EP\)](https://open.spotify.com/album/6nXQhzy1PjTZGpPmnwNtDH) | 4:07 |
+| 11 | [Love in the Middle of a Firefight \(feat\. Brendon Urie\) \- Eleganto Remix](https://open.spotify.com/track/3ed6tRNrf5ebsSbpx6EtsH) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [Money Sucks, Friends Rule \(10 Year Remix EP\)](https://open.spotify.com/album/6nXQhzy1PjTZGpPmnwNtDH) | 4:06 |
 | 12 | [Like Sunshine](https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Like Sunshine](https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1) | 2:43 |
 | 13 | [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 |
 | 14 | [Touch](https://open.spotify.com/track/4f6oR2hRHLPZPajRrXeCLZ) | [KAYA](https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ), [NIYA](https://open.spotify.com/artist/3kl4bR5CCJkf1OdTvUgMGZ) | [Touch](https://open.spotify.com/album/2qeusg4t9ELOMAAJvFOVeP) | 2:55 |

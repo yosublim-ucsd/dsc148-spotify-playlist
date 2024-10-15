@@ -4,7 +4,7 @@
 
 > Waktu Indonesia bagian mager dan dengar lagu\-lagu enak.
 
-134 songs - 8 hr 22 min
+136 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 | 2023-06-07 | 2024-05-09 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-12-14 | 2024-04-19 |
 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2023-12-11 |  |
-| [Different Cities](https://open.spotify.com/track/18fcLoyTylM1MDyOc7s5av) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [Different Cities](https://open.spotify.com/album/6guyJDIbIkZcVrz9l6lmaQ) | 3:04 | 2024-09-12 |  |
+| [Different Cities](https://open.spotify.com/track/18fcLoyTylM1MDyOc7s5av) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [Different Cities](https://open.spotify.com/album/6guyJDIbIkZcVrz9l6lmaQ) | 3:04 | 2024-09-12 | 2024-10-15 |
 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 | 2024-03-26 |  |
 | [Fantasy](https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Fantasy](https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP) | 3:31 | 2024-01-03 | 2024-05-16 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-08-15 |  |
@@ -53,6 +53,7 @@
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2022-12-14 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-12-14 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2022-12-14 |  |
+| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-10-14 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2022-12-14 | 2024-04-19 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-06-07 | 2023-09-26 |
 | [I Don’t Wanna Go Back Home](https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [I Don’t Wanna Go Back Home](https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu) | 4:24 | 2024-04-03 | 2024-05-07 |
@@ -71,7 +72,7 @@
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-09-09 |  |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2022-12-14 |  |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-12-11 | 2024-05-16 |
-| [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 | 2024-07-31 |  |
+| [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 | 2024-07-31 | 2024-10-15 |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-06-18 | 2023-12-11 |
 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 | 2024-04-03 | 2024-05-07 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-14 | 2024-09-10 |
@@ -97,6 +98,7 @@
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2022-12-14 |  |
 | [Restless Love](https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Restless Love](https://open.spotify.com/album/1KEGwBbnXAnbBjPWkeC1Pl) | 3:50 | 2022-12-14 | 2023-01-10 |
 | [Ride](https://open.spotify.com/track/37HhnXqIRFSSJXWsysl6B7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:01 | 2022-12-14 | 2023-04-07 |
+| [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-10-14 |  |
 | [Rubik](https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Rubik](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 2:13 | 2022-12-14 | 2023-01-10 |
 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2022-12-14 | 2024-10-09 |
 | [Santai](https://open.spotify.com/track/3VdEnnRIfnDaKKq4xjlMCn) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [NonaRia](https://open.spotify.com/album/4v8NgbV1DNNItOJzT7Tywu) | 2:32 | 2023-01-11 | 2023-02-24 |

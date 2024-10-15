@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 284698,
+  "num_followers": 284840,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -557,6 +557,26 @@
       "url": "https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -579,26 +599,6 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -925,30 +925,6 @@
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
-      "added_at": "2024-04-23 00:20:09",
-      "album": {
-        "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4RunvFZUr0PFdzg3VWINMD"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 292544,
-      "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6onn77nAEdFVIbI0gIlXjH"
-    },
-    {
       "added_at": "2023-02-03 04:49:29",
       "album": {
         "name": "Porque Yo",
@@ -983,6 +959,30 @@
       "duration_ms": 284915,
       "name": "Un Canto",
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
+    },
+    {
+      "added_at": "2024-04-23 00:20:09",
+      "album": {
+        "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4RunvFZUr0PFdzg3VWINMD"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 292544,
+      "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6onn77nAEdFVIbI0gIlXjH"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1157,20 +1157,24 @@
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
-      "added_at": "2024-01-11 03:44:06",
+      "added_at": "2022-09-19 13:45:43",
       "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+        "name": "Fiera",
+        "url": "https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc"
       },
       "artists": [
         {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+          "name": "Electropico",
+          "url": "https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK"
+        },
+        {
+          "name": "Mr. Pauer",
+          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
         }
       ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+      "duration_ms": 170329,
+      "name": "Pacifico Soy",
+      "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
     },
     {
       "added_at": "2023-03-31 18:14:20",
@@ -1193,24 +1197,20 @@
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
-      "added_at": "2022-09-19 13:45:43",
+      "added_at": "2024-01-11 03:44:06",
       "album": {
-        "name": "Fiera",
-        "url": "https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc"
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
       },
       "artists": [
         {
-          "name": "Electropico",
-          "url": "https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK"
-        },
-        {
-          "name": "Mr. Pauer",
-          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
         }
       ],
-      "duration_ms": 170329,
-      "name": "Pacifico Soy",
-      "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
       "added_at": "2022-06-15 04:26:09",

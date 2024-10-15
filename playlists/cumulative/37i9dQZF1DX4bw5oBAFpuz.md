@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-482 songs - 1 day 3 hr 51 min
+483 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,12 +340,13 @@
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2023-02-23 | 2023-04-07 |
 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 | 2023-02-23 |  |
 | [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 |  |
-| [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 |  |
+| [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 | 2024-10-15 |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2023-02-23 | 2023-04-26 |
 | [Selfish Ways \- Acoustic](https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Selfish Ways \(Acoustic\)](https://open.spotify.com/album/1F4rojYzrIQvsD6xNU1dTC) | 2:40 | 2023-04-25 | 2024-03-20 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2024-03-21 |  |
 | [Set In Stone](https://open.spotify.com/track/5fmf2sDbU6cbodUM6On6wg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:41 | 2023-02-23 |  |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2023-02-23 |  |
+| [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 | 2024-10-14 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2023-02-23 | 2023-07-15 |
 | [Shatterproof](https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv) | 2:29 | 2024-03-21 |  |
 | [Shatterproof \- Acoustic](https://open.spotify.com/track/513W9H23o8w42uqAHglMlM) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof \(Acoustic\)](https://open.spotify.com/album/21GW5aF4xNYmzMNLjREhZy) | 2:35 | 2023-09-07 | 2024-03-27 |

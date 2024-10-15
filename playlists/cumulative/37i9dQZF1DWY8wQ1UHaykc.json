@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Lebih Dari Bintang",
+        "url": "https://open.spotify.com/album/6Pgmq2CRu66fYZK74b9c6C"
+      },
+      "artists": [
+        {
+          "name": "Lyla",
+          "url": "https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230739,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5qp8vPqA5Vbz9VqKQ8stCN"
+    },
+    {
+      "album": {
         "name": "Luka Cinta & Merdeka",
         "url": "https://open.spotify.com/album/0e3Uf5EZr7LLzpl19UbJ8N"
       },

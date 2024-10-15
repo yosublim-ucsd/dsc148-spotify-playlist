@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Sanullim\(산울림\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,087 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,078 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 42 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 |
 | 43 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
 | 44 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 |
-| 45 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 |
-| 46 | [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 |
-| 47 | [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 |
-| 48 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 |
+| 45 | [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 |
+| 46 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 |
+| 47 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 |
+| 48 | [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 |
 | 49 | [Supernova](https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Supernova](https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe) | 4:19 |
 | 50 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
 

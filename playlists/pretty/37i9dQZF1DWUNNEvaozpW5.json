@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Alejo con Kutxi Romero.",
-  "num_followers": 584529,
+  "num_followers": 584559,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Maneras De Vivir",
         "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
       },
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Jugar Al Gua",
-        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Flojos de pantal\u00f3n",
-      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Marines A Pleno Sol",
         "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 192106,
       "name": "El imperio contraataca",
       "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Jugar Al Gua",
+        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Flojos de pantal\u00f3n",
+      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Bailar\u00e9 sobre tu tumba",
+        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+      },
+      "artists": [
+        {
+          "name": "Siniestro Total",
+          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Bailar\u00e9 sobre tu tumba",
+      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Devu\u00e9lveme a mi chica",
         "url": "https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Bailar\u00e9 sobre tu tumba",
-        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
       },
       "artists": [
         {
-          "name": "Siniestro Total",
-          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Bailar\u00e9 sobre tu tumba",
-      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 337666,
       "name": "Corazon de mimbre",
       "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "El doble de tu mitad",
-        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
-      },
-      "artists": [
-        {
-          "name": "Rulo y la contrabanda",
-          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Insurreccion (En Directo)",
         "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 134200,
       "name": "Insurreccion (En Directo)",
       "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "El doble de tu mitad",
+        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
     },
     {
       "added_at": "2024-10-10 22:00:00",

@@ -2908,10 +2908,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 203952,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/390gklCmVREtgzEVf3L3CU"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2BkwErxEfjc7a8MXtU8GyB"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203952,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/6oFEizgUZD7x6QSbjkqD7b"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Becky and the Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,025 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,037 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

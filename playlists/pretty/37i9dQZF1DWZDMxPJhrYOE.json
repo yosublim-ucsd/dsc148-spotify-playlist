@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105090,
+  "num_followers": 105087,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -307,6 +307,22 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Stars Will Align",
         "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
       },
@@ -427,42 +427,6 @@
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Doblexx\u00f3",
-        "url": "https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Doblexx\u00f3",
-      "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -487,6 +451,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Doblexx\u00f3",
+        "url": "https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Doblexx\u00f3",
+      "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+      "duration_ms": 200966,
+      "name": "Someone In This Room (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -887,22 +891,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 200966,
-      "name": "Someone In This Room (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "C,XOXO - Magic City Edition",
         "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
       },
@@ -1015,6 +1015,42 @@
       "duration_ms": 216471,
       "name": "GODSPEED",
       "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1039,38 +1075,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "I think about it all the time featuring bon iver",
-      "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1187,18 +1203,38 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+        "name": "Take Me to the Beach (feat. Baker Boy)",
+        "url": "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
         }
       ],
-      "duration_ms": 164700,
-      "name": "Isn\u2019t That Enough",
-      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
+      "duration_ms": 185352,
+      "name": "Take Me to the Beach (feat. Baker Boy)",
+      "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "SOMEONE TO YOU",
+        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 179854,
+      "name": "SOMEONE TO YOU",
+      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1219,6 +1255,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Karate Kid",
+      "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
@@ -1235,18 +1287,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "SOMEONE TO YOU",
-        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
       "artists": [
         {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 179854,
-      "name": "SOMEONE TO YOU",
-      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+      "duration_ms": 164700,
+      "name": "Isn\u2019t That Enough",
+      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1307,38 +1359,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Moon Music (Full Moon Edition)",
-        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Karate Kid",
-      "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "The Alexander Technique",
         "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
@@ -1351,22 +1371,6 @@
       "duration_ms": 153637,
       "name": "2008",
       "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 237213,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1387,22 +1391,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Leon",
         "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
       },
@@ -1419,22 +1407,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Take Me to the Beach (feat. Baker Boy)",
-        "url": "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw"
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Baker Boy",
-          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 185352,
-      "name": "Take Me to the Beach (feat. Baker Boy)",
-      "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
+      "duration_ms": 237213,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
     }
   ],
   "unique_name": "De nye",

@@ -2,9 +2,9 @@
 
 ### [Sunny dnb](https://open.spotify.com/playlist/37i9dQZF1DXaS51xPOw5FD)
 
-> Euphoric drum & bass tracks for raving in the sunshine!
+> Euphoric drum & bass tracks for raving in the sunshine! Lens at Drumsheds
 
-223 songs - 13 hr 41 min
+224 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 | 2022-08-05 | 2023-07-22 |
 | [Jazz Tone](https://open.spotify.com/track/0mCTA8JPToKZ4fXn75kIiD) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Jazz Tone](https://open.spotify.com/album/4LHeAyYBE49kgZJe2sYjw6) | 4:03 | 2024-04-04 | 2024-05-10 |
 | [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 | 2022-08-05 | 2024-04-05 |
+| [Jungle Diva](https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Jungle Diva](https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK) | 3:09 | 2024-10-14 |  |
 | [Just One Second \- Apex Remix](https://open.spotify.com/track/11IS9sbmnAqSdLQaEvZGbb) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal) | [Sick Music](https://open.spotify.com/album/5m7RGCRrbEhHCrCkNsRPN5) | 6:17 | 2022-08-05 | 2023-09-07 |
 | [Just One Second \- Apex Remix](https://open.spotify.com/track/18IVOQQ6apJcij5vHgWmEz) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Apex](https://open.spotify.com/artist/7pQD0AmPKG2tkjzDauKkqq) | [Sick Music](https://open.spotify.com/album/5XURKVwvLzvpebY0MwMYrg) | 6:17 | 2023-09-11 | 2024-04-19 |
 | [Kites](https://open.spotify.com/track/5wngvewYbGMedJ6y86xz0O) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Kites](https://open.spotify.com/album/6tQleNjbmmM1GxJB9Rka2S) | 3:39 | 2024-04-04 |  |
@@ -125,7 +126,7 @@
 | [Let It Breathe](https://open.spotify.com/track/6U0JZJpmm2oVcExBoincx4) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Playing the Changes](https://open.spotify.com/album/5QCAY2iAs2KWejnwlMGEsD) | 4:49 | 2024-04-04 | 2024-05-10 |
 | [Let Me Hold You](https://open.spotify.com/track/5soWKIkC6GnpZT99IatCYq) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:22 | 2023-08-25 | 2024-04-19 |
 | [Let Me Hold You](https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 3:22 | 2022-08-05 | 2023-09-07 |
-| [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ) | 2:40 | 2023-08-11 |  |
+| [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ) | 2:40 | 2023-08-11 | 2024-10-15 |
 | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\)](https://open.spotify.com/track/2UXmF5eo4HeqMTERZyceQN) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\)](https://open.spotify.com/album/5GjPpUvdeZzPxFw8eAueIn) | 2:42 | 2024-04-04 |  |
 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 | 2023-06-30 |  |
 | [LK \(Carol Carolina Bela\)](https://open.spotify.com/track/4QmpVtxnJZ5ZV6sO72nrDu) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [XRS](https://open.spotify.com/artist/5ygGHl3fcjSnPYYJE9x1P0), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [In Rotation](https://open.spotify.com/album/409Mx0Ize6hZ7m5E7exzm3) | 5:29 | 2023-09-22 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: INFEKT
 
-798 songs - 1 day 20 hr 19 min
+799 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [HUSTLE](https://open.spotify.com/track/4auf8M6t7Y9kiHcqutCGgP) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [HUSTLE](https://open.spotify.com/album/1hInf7nLuHuVCEqCK5ymCr) | 2:48 | 2024-09-20 |  |
 | [Hyperdrive](https://open.spotify.com/track/0MAz9ic5HYosDQIjdKUDjX) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M) | [Hyperdrive](https://open.spotify.com/album/07oOBedaL4K63cb5yfu6tl) | 3:09 | 2023-06-23 | 2024-02-03 |
 | [Hypnotic](https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Hypnotic EP](https://open.spotify.com/album/3YX26AlAsr09SsX7adaLwY) | 2:56 | 2022-10-21 | 2022-12-08 |
-| [Hypnotic Cycle](https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Hypnotic Cycle](https://open.spotify.com/album/4zyAbKVLa8au49nyUv3e1r) | 3:02 | 2024-06-14 |  |
+| [Hypnotic Cycle](https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Hypnotic Cycle](https://open.spotify.com/album/4zyAbKVLa8au49nyUv3e1r) | 3:02 | 2024-06-14 | 2024-10-15 |
 | [I AM THE END](https://open.spotify.com/track/2QoSbqgBUCOLGUUL1LL9dc) | [AlienPark](https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R) | [THE END](https://open.spotify.com/album/6kLAKp1jOUcbcu3jKHVb3l) | 3:07 | 2024-03-15 | 2024-04-13 |
 | [I Can Feel It](https://open.spotify.com/track/4FZ4SAkkCrIqzaRqh7EVvM) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [I Can Feel It](https://open.spotify.com/album/1MPcz9Fd6Rce6zUV17Vwxe) | 3:28 | 2021-12-17 | 2022-09-11 |
 | [I Don't Care](https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [I Don't Care](https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw) | 3:55 | 2021-12-17 | 2022-10-29 |
@@ -594,6 +594,7 @@
 | [RUCKUS](https://open.spotify.com/track/3N3G4SseEefKjUWDEea65P) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Messinian](https://open.spotify.com/artist/79Np0PnytUJmeG5VRhop9u) | [RUCKUS](https://open.spotify.com/album/1DoaV3B3D0kIGOVwZELlzg) | 2:29 | 2023-10-23 | 2023-11-04 |
 | [Rude Boy \- EAZYBAKED Remix](https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rude Boy \(EAZYBAKED REMIX\)](https://open.spotify.com/album/1yf6gLN59wp1eWCCLqzQe7) | 3:39 | 2024-03-15 | 2024-10-05 |
 | [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-23 |  |
+| [RUINS](https://open.spotify.com/track/4VUzJE7vYVNUV5MIz6QXj9) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [RUINS](https://open.spotify.com/album/0v71G3Rt4u6eNMJ5sXk2nK) | 3:53 | 2024-10-11 |  |
 | [RUN DAT AGAIN](https://open.spotify.com/track/6eJNvhpwaeh5AoozuiSmtr) | [HURTBOX](https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6), [Aweminus](https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7) | [RUN DAT AGAIN](https://open.spotify.com/album/2JUHMebAGGbqSWIu7ZU7An) | 3:18 | 2024-10-04 |  |
 | [Run It](https://open.spotify.com/track/50ORNvMk1shGimoj02FBrj) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [Run It](https://open.spotify.com/album/2BILojmBtQCPOqer3QZgcT) | 4:20 | 2023-11-10 | 2023-11-18 |
 | [Run It Up](https://open.spotify.com/track/0iNUbvzTSxeTHT9DVaXrJa) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [Run It Up EP](https://open.spotify.com/album/6jixI1D9HqNBx5OpIPEMf8) | 3:02 | 2022-08-19 | 2022-12-17 |

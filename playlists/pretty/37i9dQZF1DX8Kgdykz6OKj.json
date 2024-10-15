@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1351781,
+  "num_followers": 1352411,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -519,18 +499,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -555,6 +539,22 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 136526,
       "name": "Midnight Schemes",
       "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Sega",
-        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 105577,
-      "name": "Sega",
-      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 105577,
+      "name": "Sega",
+      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "DADADOO",
-        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
-      },
-      "artists": [
-        {
-          "name": "Moka Only",
-          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "DADADOO",
-      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "DADADOO",
+        "url": "https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "DADADOO",
+      "url": "https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 200775,
+      "name": "Super Rare",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "Still Nothing Still - Deluxe",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -1715,26 +1735,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 200775,
-      "name": "Super Rare",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
         "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
       },
@@ -1747,26 +1747,6 @@
       "duration_ms": 193721,
       "name": "Menthol (Live) - Spotify Ten Version",
       "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "Nigga Dreams",
-        "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
-      },
-      "artists": [
-        {
-          "name": "Steelo",
-          "url": "https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Nigga Dreams",
-      "url": "https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1787,6 +1767,26 @@
       "duration_ms": 193362,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Nigga Dreams",
+        "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
+      },
+      "artists": [
+        {
+          "name": "Steelo",
+          "url": "https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Nigga Dreams",
+      "url": "https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Funkin' Around",
+        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 106933,
+      "name": "Funkin' Around",
+      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "Morning Walk",
         "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
       },
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Funkin' Around",
-        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 106933,
-      "name": "Funkin' Around",
-      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Premium",
         "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
       },
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "DaLouIsBack",
-        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 157201,
-      "name": "DaLouIsBack",
-      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "The New Groove: The Blue Note Remix Project Vol. 1",
         "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 413560,
       "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
       "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "DaLouIsBack",
+        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 157201,
+      "name": "DaLouIsBack",
+      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
     },
     {
       "added_at": "2024-10-11 06:46:18",

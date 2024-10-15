@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-41 songs - 2 hr 29 min
+42 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,5 +49,6 @@
 | [Why We Build the Wall](https://open.spotify.com/track/68oU2YXg4kwPpertTUFrC6) | [Patrick Page](https://open.spotify.com/artist/4Dk7zvn9NdF4TESEa8Bbbj), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:00 | 2023-03-31 |  |
 | [Workingman Unite](https://open.spotify.com/track/1VRobEk2Fpc9K2SeWTSTtq) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [I Will Win: Songs of the Wobblies](https://open.spotify.com/album/2iZE8lCvHwLpbGHgGuAM3s) | 2:08 | 2024-09-16 |  |
 | [Your Flag Decal Won't Get You into Heaven Anymore](https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:52 | 2023-05-10 |  |
+| [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-394 songs - 21 hr 32 min
+396 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 | 2024-01-06 |
 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 | 2024-02-17 |
 | [First Love](https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [First Love](https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw) | 2:17 | 2024-09-17 |  |
-| [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 | 2024-04-05 |  |
+| [Firstu Benchina](https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH) | [Firstu Benchina](https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY) | 3:00 | 2024-04-05 | 2024-10-15 |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 | 2024-01-05 |
 | [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 | 2023-06-29 | 2024-03-02 |
 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 | 2024-07-09 |
@@ -252,6 +252,7 @@
 | [Nanna Ee Manasali](https://open.spotify.com/track/18UgqzO5hjpMybau3AYAr6) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/3j6XqZfm7M268fshN0LOyC) | 3:59 | 2023-11-17 | 2024-05-14 |
 | [Nanna Ee Manasali](https://open.spotify.com/track/7FKBFLE1z4vmRt3hboeNVo) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/21ZjwUTDjh9XlbOZUWH73R) | 3:59 | 2023-11-17 | 2024-04-19 |
 | [Nanna Hrudaya](https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU), [Harshavardan HJ](https://open.spotify.com/artist/5TXJcIQdOZI3wyfcTxmXlX) | [Nanna Hrudaya \- Single](https://open.spotify.com/album/2aoIHWyOsoWZLgpOEREUM3) | 3:37 | 2023-06-29 | 2023-07-18 |
+| [Nanna Hudugi Nenapu](https://open.spotify.com/track/2DaCNqtHUw6tAdNBLhIoZR) | [Mayur Ambekallu](https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY), [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Bhanuprakash Jois](https://open.spotify.com/artist/6NrL0YoRUzbe4NWCHONnOB) | [Nanna Hudugi Nenapu](https://open.spotify.com/album/5LoOa3E7EOO8DfEMsbXOHz) | 3:18 | 2024-10-14 |  |
 | [Nanna Jeevana](https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK) | 2:16 | 2023-10-06 | 2024-04-05 |
 | [Nanna Jeevana](https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS) | 2:16 | 2023-10-06 | 2024-01-09 |
 | [Nanna Kannada](https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [Nanna Kannada](https://open.spotify.com/album/4LcpFWIzA5kFXryLKkLiH2) | 3:55 | 2022-04-01 | 2023-06-08 |
@@ -314,6 +315,7 @@
 | [Ondu Sundara Sanje](https://open.spotify.com/track/41Ibz02C8EK5qodYWFY74u) | [Imtiyaz Sultan](https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi), [Roopa Kotwal](https://open.spotify.com/artist/0zxUB0UxO3fGuXxsDyx3Il) | [Ondu Sundara Sanje](https://open.spotify.com/album/1xhYJaU6t8ke6MkVENpyT6) | 4:14 | 2024-02-21 | 2024-07-19 |
 | [ONTI NANU](https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN) | [ONTI NANU](https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf) | 4:30 | 2024-02-08 | 2024-02-20 |
 | [Oo Jeevave](https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q) | [Girish Prabhu](https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN) | [Oo Jeevave](https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA) | 3:06 | 2024-05-21 |  |
+| [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 | 2024-10-14 |  |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 | 2024-09-18 |
 | [Pakshi](https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl) | 2:57 | 2023-07-14 | 2024-02-15 |
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |
@@ -357,7 +359,7 @@
 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 | 2024-07-08 |  |
 | [Shambo Shiva Shankara](https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Shambo Shiva Shankara](https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD) | 2:22 | 2024-05-20 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
-| [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 | 2024-04-16 |  |
+| [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 | 2024-04-16 | 2024-10-15 |
 | [Shiva Shiva](https://open.spotify.com/track/6Uhwoz3nDGC4ih9y9t49Px) | [Dhananjay Keys](https://open.spotify.com/artist/4Kil8poSmTgXmNzSYKqMlY) | [Shiva Shiva](https://open.spotify.com/album/1D150acI9mxmtQKus3Xhau) | 2:58 | 2024-08-22 |  |
 | [Sindi Sarai](https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS) | [Amrapali Shindhe](https://open.spotify.com/artist/2qEUD5jyimcJVrCttLAjON) | [Sindi Sarai](https://open.spotify.com/album/2saJcd1WCzHnFDjjT8aL1E) | 3:15 | 2024-08-16 |  |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |

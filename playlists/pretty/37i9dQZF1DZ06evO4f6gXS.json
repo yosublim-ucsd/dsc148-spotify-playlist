@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Jones Girls. Los temas esenciales, todos en una lista.",
-  "num_followers": 3120,
+  "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
+  "num_followers": 3122,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAB6HvIM12TQ7laUVuJu6eL0",
+  "snapshot_id": "ZwsNgAAAAACqe62+nTozHFrjFKMohrP5",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Sweet Ecstasy",
-      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul Central, Vol. 1",
         "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
       },
@@ -559,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good to the Last Drop",
-        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
       "artists": [
         {
@@ -568,9 +552,25 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 190293,
-      "name": "My Own Special Way",
-      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
+      "duration_ms": 218493,
+      "name": "Sweet Ecstasy",
+      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 292640,
+      "name": "On Target",
+      "url": "https://open.spotify.com/track/4ZjJ0nO84GTgDXvRVUICiS"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
       "duration_ms": 252640,
       "name": "Better Things to Do",
       "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good to the Last Drop",
+        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "My Own Special Way",
+      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
     },
     {
       "added_at": null,
@@ -616,25 +632,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 292640,
-      "name": "On Target",
-      "url": "https://open.spotify.com/track/4ZjJ0nO84GTgDXvRVUICiS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+      "duration_ms": 300413,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 300413,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 231053,
       "name": "You're the Only Bargain I've Got",
       "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "What a Fool",
+      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "What a Fool",
-      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Target",
         "url": "https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 263973,
       "name": "I Can Make a Difference",
       "url": "https://open.spotify.com/track/6kHVUkihPT7sV5fdfb5wop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 168920,
       "name": "Don't Be Sorry Be Careful",
       "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good to the Last Drop",
+        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Learn How to Love",
+      "url": "https://open.spotify.com/track/4zy0jFArD4EwoFlhKkxcVa"
     }
   ],
   "unique_name": "This Is The Jones Girls",

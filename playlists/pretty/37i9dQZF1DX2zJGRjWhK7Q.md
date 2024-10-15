@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,225 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,273 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 5 | [Siempre Seré Guajiro](https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx) | [William Millan](https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj), [Saoco](https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1) | [Siempre Seré Guajiro](https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d) | 5:27 |
 | 6 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
 | 7 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
-| 8 | [Triste Y Vacía](https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ) | 6:10 |
-| 9 | [Sonido Bestial](https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A life time of Hits.\. \(Live At Centro De Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2) | 9:58 |
-| 10 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |
+| 8 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
+| 9 | [Triste Y Vacía](https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ) | 6:10 |
+| 10 | [Sonido Bestial](https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A life time of Hits.\. \(Live At Centro De Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2) | 9:58 |
 | 11 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
-| 12 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
+| 12 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |
 | 13 | [Lloraras \- Edit](https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Billo's Caracas Boys vs\. Dimension Latina](https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu) | 3:45 |
 | 14 | [Mujer Divina](https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho y Derecho \(Doin' It Right\)](https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX) | 4:55 |
 | 15 | [Yerberito Moderno](https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:41 |

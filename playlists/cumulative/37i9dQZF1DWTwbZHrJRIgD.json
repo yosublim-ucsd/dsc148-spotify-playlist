@@ -823,6 +823,32 @@
     },
     {
       "album": {
+        "name": "Chhaila",
+        "url": "https://open.spotify.com/album/7jt9ta30emHh5myR2YButg"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230192,
+      "name": "Chhaila",
+      "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
+    },
+    {
+      "album": {
         "name": "Chitta Suit",
         "url": "https://open.spotify.com/album/1WJ32Jw3ay7rck2hL8Jnsu"
       },

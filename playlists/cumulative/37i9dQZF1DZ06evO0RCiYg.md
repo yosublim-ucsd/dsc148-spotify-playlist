@@ -2,7 +2,7 @@
 
 ### [This Is Black Eyed Peas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
 
-> This is Black Eyed Peas\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
 77 songs - 5 hr 10 min
 

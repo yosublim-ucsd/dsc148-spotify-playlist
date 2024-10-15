@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Aline Barros\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Aline Barros",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 201038,
       "name": "Arca de No\u00e9",
       "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "Louvar \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh"
+    },
+    {
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 339373,
       "name": "O Nazareno",
       "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 392026,
       "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"

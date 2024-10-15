@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-250 songs - 16 hr 4 min
+251 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Lost Kingdoms](https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE) | 7:38 | 2023-10-19 | 2024-02-24 |
 | [Love Falls Down](https://open.spotify.com/track/4K9i7f2Wi3Fx0N5DhMxbIH) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/3FQbYHvVYJg6zX76gvUwDG) | 5:15 | 2022-07-05 | 2022-10-31 |
 | [Love Falls Down](https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ) | 5:15 | 2021-12-13 | 2022-07-29 |
+| [Love Is Alive](https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Love Is Alive](https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR) | 3:27 | 2024-10-14 |  |
 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 | 2022-04-28 |  |
 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 | 2024-04-11 |  |
 | [Mad Summer](https://open.spotify.com/track/3Hw79poBqN5zpzKLXGUPvq) | [RADIOHOP](https://open.spotify.com/artist/3fYO0rcTXXlIrXUwNmbslE) | [All We Do](https://open.spotify.com/album/37HdFg0cSWgRgsctFHkzuh) | 2:42 | 2024-06-28 |  |
@@ -218,7 +219,7 @@
 | [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 | 2021-12-13 | 2024-06-29 |
 | [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 | 2022-10-30 | 2024-04-19 |
 | [Time Flies \- 2023 Remaster](https://open.spotify.com/track/64Q73VKSbFLDsmYfhEjOIN) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Time Flies \(2023 Remaster\)](https://open.spotify.com/album/5W0uBJsVkQ9huOHetFI7WL) | 2:46 | 2023-10-03 |  |
-| [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2021-12-13 |  |
+| [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2021-12-13 | 2024-10-15 |
 | [Too Good](https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab) | 3:42 | 2022-09-30 |  |
 | [Too Good](https://open.spotify.com/track/3YZIh7XbGNwiVlUADWM8kt) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 3:42 | 2023-04-20 | 2024-04-19 |
 | [Toxic Love Affair](https://open.spotify.com/track/1l1oUS33fGuK1YKThB1bWD) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Sanguita](https://open.spotify.com/artist/596Z7VqyKPIb7kRE4hHjma) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:33 | 2021-12-13 | 2022-10-31 |

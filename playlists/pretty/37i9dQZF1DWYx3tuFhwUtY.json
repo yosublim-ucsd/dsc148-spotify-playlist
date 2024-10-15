@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138262,
+  "num_followers": 138267,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Move to San Francisco",
-        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 181492,
-      "name": "Move to San Francisco",
-      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "I Don't Know What You See In Me",
         "url": "https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219360,
       "name": "I Don't Know What You See In Me",
       "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Move to San Francisco",
+        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 181492,
+      "name": "Move to San Francisco",
+      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Ceiling / Border (CH. III)",
-        "url": "https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "The Ceiling",
-      "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Tasmania",
         "url": "https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 244253,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "The Ceiling / Border (CH. III)",
+        "url": "https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "The Ceiling",
+      "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Sand On The Beach",
-        "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 136510,
-      "name": "Sand On The Beach",
-      "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Nature Always Wins",
         "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 182210,
       "name": "Why Must A Building Burn?",
       "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Sand On The Beach",
+        "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 136510,
+      "name": "Sand On The Beach",
+      "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
     },
     {
       "added_at": "2024-07-12 23:20:36",

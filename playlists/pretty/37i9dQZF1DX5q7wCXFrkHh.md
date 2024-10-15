@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,369 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,451 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 47 | [Looking Up](https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:47 |
 | 48 | [And I Love Her](https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 9:25 |
 | 49 | [Vallåt från Jämtland](https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 1:54 |
-| 50 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
-| 51 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
+| 50 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
+| 51 | [In A Sentimental Mood](https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Plays Ellington](https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG) | 2:32 |
 | 52 | [Milestones](https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:32 |
 | 53 | [Rain](https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 4:14 |
 | 54 | [Night And Day](https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [John Simmons](https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9), [Alvin Stoller](https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 6:07 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 63 | [Contemplation](https://open.spotify.com/track/55GY76amiMF9wjAeto5vco) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 9:12 |
 | 64 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 |
 | 65 | [Someday My Prince Will Come](https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Someday My Prince Will Come](https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA) | 3:06 |
-| 66 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
-| 67 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
+| 66 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
+| 67 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
 | 68 | [My Blue Heaven](https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 3:10 |
 | 69 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
 | 70 | [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 |

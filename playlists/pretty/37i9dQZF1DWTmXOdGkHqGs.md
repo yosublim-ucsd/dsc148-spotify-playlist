@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,948 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,007 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 73 | [16 Toneladas \- Radio Edit](https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [16 Toneladas \(Radio Edit\)](https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc) | 4:30 |
 | 74 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
 | 75 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 |
-| 76 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
-| 77 | [Ya No Me Perteneces](https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK) | [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Black Power](https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0) | 4:27 |
+| 76 | [Ya No Me Perteneces](https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK) | [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Black Power](https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0) | 4:27 |
+| 77 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
 | 78 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 |
 | 79 | [Antes](https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Antes](https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f) | 3:58 |
 | 80 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 82 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 |
 | 83 | [20 años](https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Me Voy Pa'Chiriguaná \(Incluye el Éxito 20 Años\)](https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx) | 3:45 |
 | 84 | [FIESTA EN SAN BENITO](https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [FIESTA EN SAN BENITO](https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM) | 4:24 |
-| 85 | [Yo Soy Tu Maestro](https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 4:36 |
-| 86 | [Que Me Toque Una Cumbita \(La Cumbita\)](https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Pura Crema](https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW) | 3:47 |
+| 85 | [Que Me Toque Una Cumbita \(La Cumbita\)](https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Pura Crema](https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW) | 3:47 |
+| 86 | [Yo Soy Tu Maestro](https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 4:36 |
 | 87 | [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 |
 | 88 | [Ultimo Tren A Londres](https://open.spotify.com/track/1YDxxeMSdxXXiiiobyhYur) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:44 |
 | 89 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |

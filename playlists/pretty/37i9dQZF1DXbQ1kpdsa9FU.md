@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,282 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,449 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 72 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
 | 73 | [Won't He Do It \- Single Version](https://open.spotify.com/track/2TyUlM2ElcoGD2HTNIRNYr) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Won't He Do It](https://open.spotify.com/album/4u2z3RZJODIY8sM38nm5eF) | 3:03 |
 | 74 | [Freedom Hymn](https://open.spotify.com/track/1Nt5D8dtfIjovDpzWRhtXX) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Freedom Hymn](https://open.spotify.com/album/3yDLtdl8Pw9RlTNiUjSy98) | 3:08 |
-| 75 | [Don't Lose Heart](https://open.spotify.com/track/2RIjhcqCoUbl4D5y436PDy) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Don't Lose Heart](https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f) | 3:31 |
+| 75 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 |
 
 Snapshot ID: `Znd/hAAAAABaRXKGWeLCmbmDila4WTHT`

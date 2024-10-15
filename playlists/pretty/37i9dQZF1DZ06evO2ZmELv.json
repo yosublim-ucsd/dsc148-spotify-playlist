@@ -1,12 +1,12 @@
 {
-  "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
+  "description": "This Is Cheli Madrid. Los temas esenciales, todos en una lista.",
   "num_followers": 204,
   "original_name": "This Is Cheli Madrid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADi/nhZNabZfsQDUwzKmD9O",
+  "snapshot_id": "ZwsNgAAAAAB/WfnfxEeb2EG+8rfLsicM",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Recuerdo",
-        "url": "https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 181510,
-      "name": "Ya No Recuerdo",
-      "url": "https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 202250,
       "name": "No Volver\u00e9 - Versi\u00f3n Banda En Vivo",
       "url": "https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Recuerdo",
+        "url": "https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 181510,
+      "name": "Ya No Recuerdo",
+      "url": "https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu"
     },
     {
       "added_at": null,
@@ -367,6 +367,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Causa Perdida",
+        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 194047,
+      "name": "Causa Perdida",
+      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 229774,
+      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Metiste (En Vivo)",
         "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
       },
@@ -399,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
       "artists": [
         {
@@ -408,9 +440,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 229774,
-      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
+      "duration_ms": 193110,
+      "name": "Tu Gab\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9"
     },
     {
       "added_at": null,
@@ -435,38 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 184074,
-      "name": "Cuando El Destino - En Vivo",
-      "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Causa Perdida",
-        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 194047,
-      "name": "Causa Perdida",
-      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 198469,
       "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
       "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Me Cae",
-      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "Me Cae",
+      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancheritas Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 193110,
-      "name": "Tu Gab\u00e1n - En Vivo",
-      "url": "https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9"
+      "duration_ms": 184074,
+      "name": "Cuando El Destino - En Vivo",
+      "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+      "duration_ms": 161621,
+      "name": "Coraz\u00f3n De Oropel - En Vivo",
+      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 186624,
-      "name": "Chuchuluqueando - En Vivo",
-      "url": "https://open.spotify.com/track/2gAupLmtufI2V605ottAuV"
+      "duration_ms": 175125,
+      "name": "Con Rumbo Al Sur - En Vivo",
+      "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

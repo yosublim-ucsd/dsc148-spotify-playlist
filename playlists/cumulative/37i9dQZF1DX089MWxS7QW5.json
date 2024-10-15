@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Min Jiwoon(\ubbfc\uc9c0\uc6b4))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: SOLE(\uc3e0))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 186998,
       "name": "Baby Cat (Feat. Qim Isle)",
       "url": "https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 161739,
       "name": "Clumsy",
       "url": "https://open.spotify.com/track/6Ugempi5fDLDHBRLNFPUem"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 234418,
       "name": "COLORLESS (Feat. Sunnie) (Goddess of Victory: NIKKE Original Soundtrack)",
       "url": "https://open.spotify.com/track/3GUcwsSSt0kGzNbKr6PAHR"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 194998,
       "name": "Dedicated 2 U",
       "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
@@ -7285,6 +7285,24 @@
     },
     {
       "album": {
+        "name": "Four Leaf Clover",
+        "url": "https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156680,
+      "name": "Three Leaf Clover",
+      "url": "https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI"
+    },
+    {
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx"
       },
@@ -7394,6 +7412,24 @@
       "duration_ms": 230853,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ"
+    },
+    {
+      "album": {
+        "name": "VINYARD",
+        "url": "https://open.spotify.com/album/5fhKtZk3goKK4iTa7Nn3Gm"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207405,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm"
     },
     {
       "album": {
@@ -7578,7 +7614,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 191586,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/3ldE0Le2FD980EgrIdZQ9R"
@@ -7640,6 +7676,24 @@
       "duration_ms": 224946,
       "name": "Wash me",
       "url": "https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW"
+    },
+    {
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3a37GVxKenh2BxpgCdMP7c"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/0sVDqxhQaHPhMll6TddKq7"
     },
     {
       "album": {

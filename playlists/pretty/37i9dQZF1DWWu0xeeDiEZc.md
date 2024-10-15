@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,698 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,744 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 11 | [Five Little Ducks](https://open.spotify.com/track/6T15qWkGDGlE9vTkvoT4oZ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:32 |
 | 12 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 |
 | 13 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |
-| 14 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
-| 15 | [Be Our Guest](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 3:44 |
+| 14 | [Be Our Guest](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 3:44 |
+| 15 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
 | 16 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/025HtQSZfK801f3dnWsrRT) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Best Songs for Kids, Vol\. 2](https://open.spotify.com/album/5Kc5LSRMzVNFAHOEoSB8ml) | 1:00 |
 | 17 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 |
 | 18 | [Five Little Monkeys](https://open.spotify.com/track/475LPQIUiT6SqfwuqWYtU2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:08 |

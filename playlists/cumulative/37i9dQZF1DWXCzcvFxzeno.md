@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-178 songs - 14 hr 17 min
+179 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |
 | [Bomb Drop Rhythm](https://open.spotify.com/track/6NfF1hLZKtjAiacXN3ZKTE) | [JVRM](https://open.spotify.com/artist/5jtReR2dGUE1x3kxkTyfu7) | [Bomb Drop Rhythm](https://open.spotify.com/album/1y8NI4TIhiI2vYGrzf20nT) | 6:19 | 2024-07-14 | 2024-07-22 |
 | [Bounce Back](https://open.spotify.com/track/3H470QOFLgh6CuUj7CuhAL) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back](https://open.spotify.com/album/4XAscsjKLpfUBzzTWXAe9o) | 5:24 | 2024-04-09 |  |
+| [Bounce It](https://open.spotify.com/track/5bVoAjpheAtpRypUL6f2by) | [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0) | [Bounce It](https://open.spotify.com/album/6MggkvxUbJCzl1ZnF8uTqR) | 6:30 | 2024-10-14 |  |
 | [Boundless Space](https://open.spotify.com/track/0DGpsSqGVJO3VIx3dLg4d0) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Boundless Space](https://open.spotify.com/album/0IdE18mByur7VWWwrNB3Jz) | 6:19 | 2024-07-14 | 2024-09-08 |
 | [Break 42 \- Original Mix](https://open.spotify.com/track/4J0937OJLtaj7atAcOEMZy) | [URI](https://open.spotify.com/artist/7gGrcuMxnavGamcBRvhEXM) | [COLOR VA02](https://open.spotify.com/album/5hprpC8cms818kVtMFFZJv) | 5:58 | 2024-04-09 | 2024-05-26 |
 | [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 | 2024-04-09 | 2024-06-07 |
@@ -53,7 +54,7 @@
 | [Don’t Say A Word](https://open.spotify.com/track/0KhH0P4Gfs5h2wNB5gzPph) | [Kander](https://open.spotify.com/artist/3gSVZTpmVW2JKzngOCDXkd) | [R007](https://open.spotify.com/album/6VEgiBh9LDRQRIuznd8hcT) | 4:46 | 2024-04-09 | 2024-06-26 |
 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 | 2024-04-09 | 2024-07-15 |
 | [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-27 |  |
-| [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 |  |
+| [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 | 2024-10-15 |
 | [ESSEM!NJO](https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t) | [Noneoftheabove](https://open.spotify.com/artist/3O02ateaX0BgRKwB3D53Oa), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [TAR VARIOUS ARTISTS](https://open.spotify.com/album/1EcILTSariejjul2lWn1kl) | 6:30 | 2024-04-09 | 2024-04-19 |
 | [Fake Like That](https://open.spotify.com/track/1us1kcmAd3FUPJuMtEA57G) | [Azulo](https://open.spotify.com/artist/1T4SBodPtb9Wy2uLUEIF0I), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fake Like That](https://open.spotify.com/album/2GBtW5IAow0eNJVeCw5inu) | 3:44 | 2024-04-09 |  |
 | [Fall Down](https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F) | [Fall Down](https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO) | 2:52 | 2024-09-27 |  |

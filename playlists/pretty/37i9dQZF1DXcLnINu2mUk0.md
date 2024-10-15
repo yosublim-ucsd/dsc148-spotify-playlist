@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: CADU
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,452 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,453 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 14 | [+ Sexy](https://open.spotify.com/track/3NiMRKeDFvEOz9F8rWxt79) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo) | [+ Sexy](https://open.spotify.com/album/2JYKW1cUplK5NrxakDqnwc) | 2:49 |
 | 15 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
 | 16 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
-| 17 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
+| 17 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 18 | [Versos & Poesias \#6: Tempestade](https://open.spotify.com/track/5Khii1zkAIH9VwMOc4tfHW) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Tuty WAV3S](https://open.spotify.com/artist/6qYD3IE3CiWChPZSBWdtrh), [Aycire](https://open.spotify.com/artist/7orxrJSoOnNrb96ZN1T3cg), [Aurio Roberto](https://open.spotify.com/artist/1uy0s3JCAbiQs6Lriyac9M), [Ciri](https://open.spotify.com/artist/0q6rGrv1f7h8BkZgV4IXY8), [Mief](https://open.spotify.com/artist/2b1uu2tcXJL77DgsRCHBn2), [Damiana](https://open.spotify.com/artist/24S9KFl6KKWPPBH3GRdYc2), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Versos & Poesias \#6: Tempestade](https://open.spotify.com/album/0td3CflgP5l4MWeQqNYGvv) | 7:52 |
-| 19 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
+| 19 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 20 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
 | 21 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
-| 22 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
-| 23 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
+| 22 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
+| 23 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
 | 24 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
 | 25 | [Falta](https://open.spotify.com/track/0mrwjSTuSaj5rSKEKrd1AV) | [Lucas Davis](https://open.spotify.com/artist/6vO6Yhs4AFnGERI23LmHC5), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [Falta](https://open.spotify.com/album/2IfhQVVGAwd0qndVoS5X6V) | 2:48 |
 | 26 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |

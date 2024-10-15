@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,790 likes - 52 songs - 2 hr 49 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,791 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,12 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 44 | [Nobody Loves Me \- Soren Andrews Remix](https://open.spotify.com/track/3XqQ4xzVKjm4rTDVnilMmP) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi), [Soren Andrews](https://open.spotify.com/artist/7gaplH2bX8LOVNFel5Z3fg) | [We Are Siskin \[Deluxe\]](https://open.spotify.com/album/7DGo16v5b8KkohGXfNBUcs) | 3:36 |
 | 45 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 |
 | 46 | [Aluminium](https://open.spotify.com/track/4IZJMZRC8xVOoosOlZQir8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Aluminium](https://open.spotify.com/album/0e6L5FIX261tG8AiIVanso) | 3:52 |
-| 47 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
-| 48 | [Hurricane \(feat\. Lily Elise\) \- Rusko Remix](https://open.spotify.com/track/67vXyBUSWVf3Yym0IkoOpc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Money Sucks, Friends Rule \(10 Year Remix EP\)](https://open.spotify.com/album/6nXQhzy1PjTZGpPmnwNtDH) | 2:35 |
-| 49 | [KNIGHTS OF HEAVEN](https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [KNIGHTS OF HEAVEN](https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m) | 3:21 |
-| 50 | [Grave Digger \- Zach Zlov Remix](https://open.spotify.com/track/3ww5LkTMyheOLV5Yi46rap) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J), [Zach Zlov](https://open.spotify.com/artist/5fCukbPVqM76dJHp7WEahH) | [Grave Digger](https://open.spotify.com/album/0OhrpS8sJxYn8BKC6TqP46) | 3:12 |
-| 51 | [Listen](https://open.spotify.com/track/4uZb3LPohLwZQA99QYAL9V) | [Christian Neale](https://open.spotify.com/artist/6QL1OSVeGJ9idIf01bdnU6) | [Listen](https://open.spotify.com/album/1VuHgSrfGJlz0tjrVST3b1) | 4:45 |
-| 52 | [Ophidian](https://open.spotify.com/track/5sMShnxUXC9mrRskwQE8D0) | [TVLI](https://open.spotify.com/artist/5HuSOEpwCwZOEVcMNSq1Hj) | [Ophidian](https://open.spotify.com/album/23fYMemtDkshKzvu65HjNF) | 4:00 |
+| 47 | [sempiternal](https://open.spotify.com/track/3MImOdjfbzzFG3EYywSYT1) | [jcSubterfuge](https://open.spotify.com/artist/00xOgISXmnMDZ8NoU7SGUL) | [sempiternal](https://open.spotify.com/album/1wzXfVzGmt2ITohMtebcxe) | 3:46 |
+| 48 | [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 |
+| 49 | [Hurricane \(feat\. Lily Elise\) \- Rusko Remix](https://open.spotify.com/track/67vXyBUSWVf3Yym0IkoOpc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Money Sucks, Friends Rule \(10 Year Remix EP\)](https://open.spotify.com/album/6nXQhzy1PjTZGpPmnwNtDH) | 2:35 |
+| 50 | [KNIGHTS OF HEAVEN](https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [KNIGHTS OF HEAVEN](https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m) | 3:21 |
+| 51 | [Grave Digger \- Zach Zlov Remix](https://open.spotify.com/track/3ww5LkTMyheOLV5Yi46rap) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J), [Zach Zlov](https://open.spotify.com/artist/5fCukbPVqM76dJHp7WEahH) | [Grave Digger](https://open.spotify.com/album/0OhrpS8sJxYn8BKC6TqP46) | 3:12 |
+| 52 | [Listen](https://open.spotify.com/track/4uZb3LPohLwZQA99QYAL9V) | [Christian Neale](https://open.spotify.com/artist/6QL1OSVeGJ9idIf01bdnU6) | [Listen](https://open.spotify.com/album/1VuHgSrfGJlz0tjrVST3b1) | 4:45 |
+| 53 | [Ophidian](https://open.spotify.com/track/5sMShnxUXC9mrRskwQE8D0) | [TVLI](https://open.spotify.com/artist/5HuSOEpwCwZOEVcMNSq1Hj) | [Ophidian](https://open.spotify.com/album/23fYMemtDkshKzvu65HjNF) | 4:00 |
 
-Snapshot ID: `AABhO9MMVL77jWGtCF/17RzEGcQequoJ`
+Snapshot ID: `AABhPLE8z7rwKPcQ+ePE+QFTAS8UpzNJ`

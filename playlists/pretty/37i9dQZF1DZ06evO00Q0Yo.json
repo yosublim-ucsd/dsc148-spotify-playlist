@@ -1,12 +1,12 @@
 {
-  "description": "This Is Flo Milli. Los temas esenciales, todos en una lista.",
-  "num_followers": 18025,
+  "description": "This is Flo Milli. The essential tracks, all in one playlist.",
+  "num_followers": 18032,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAABt8FTYTS3jCs4IvoPTnTki",
+  "snapshot_id": "ZwsNgAAAAAC9H5W+7YaQsJ2fd4kJIsrE",
   "tracks": [
     {
       "added_at": null,
@@ -447,18 +447,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+        "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
+        "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
       },
       "artists": [
         {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 234991,
-      "name": "Not Friendly",
-      "url": "https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw"
+      "duration_ms": 182400,
+      "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
+      "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
     },
     {
       "added_at": null,
@@ -499,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 234991,
+      "name": "Not Friendly",
+      "url": "https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -519,34 +547,6 @@
       "duration_ms": 231898,
       "name": "Plain (feat. Lily Allen & Flo Milli)",
       "url": "https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
-        "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
-      "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Family (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Whole Family (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Gone Duh",
         "url": "https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 178973,
       "name": "Asthma Pump (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Family (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Whole Family (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI"
     }
   ],
   "unique_name": "This Is Flo Milli",

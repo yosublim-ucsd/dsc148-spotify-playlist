@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,170 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,332 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 95 | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 5:10 |
 | 96 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
 | 97 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 |
-| 98 | [TOGETHER](https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [TOGETHER](https://open.spotify.com/album/5ZXVSBUNbM34iNAqcFK8Hs) | 3:52 |
-| 99 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
+| 98 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
+| 99 | [TOGETHER](https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [TOGETHER](https://open.spotify.com/album/5ZXVSBUNbM34iNAqcFK8Hs) | 3:52 |
 | 100 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 |
 
 Snapshot ID: `ZwiiwAAAAACztl10YXnM3ZSirLcU4zCN`

@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113736,
+      "name": "El Bailongo en Lo del Rengo",
+      "url": "https://open.spotify.com/track/4JbQUJ6o0M80Q3GgvL87is"
+    },
+    {
+      "album": {
         "name": "El Buen Amor",
         "url": "https://open.spotify.com/album/2s5IEssk2imk49CDHNRFdA"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 213705,
       "name": "Mi Loco Amor",
       "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"

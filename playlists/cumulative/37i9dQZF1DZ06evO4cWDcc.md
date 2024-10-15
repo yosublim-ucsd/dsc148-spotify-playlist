@@ -2,7 +2,7 @@
 
 ### [This Is Jimi Hendrix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc)
 
-> This is Jimi Hendrix\. Todos os maiores hits em uma só playlist.
+> This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
 93 songs - 6 hr 19 min
 
@@ -11,9 +11,9 @@
 | [...And the Gods Made Love](https://open.spotify.com/track/4COmeKH1pLNNpXcgtMcyQH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 1:22 | 2024-05-26 | 2024-05-27 |
 | [Ain't No Telling](https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 1:48 | 2022-11-18 | 2024-07-22 |
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2022-11-04 |  |
-| [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 | 2022-11-04 | 2024-09-21 |
+| [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 | 2022-11-04 |  |
 | [Angel](https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Angel](https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c) | 4:23 | 2022-11-26 | 2024-07-27 |
-| [Angel \- Take 7](https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Angel \(Take 7\)](https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq) | 4:27 | 2024-07-27 |  |
+| [Angel \- Take 7](https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Angel \(Take 7\)](https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq) | 4:27 | 2024-07-27 | 2024-10-15 |
 | [Astro Man \- Takes 9 & 10](https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 2:51 | 2024-10-07 |  |
 | [Auld Lang Syne \- Live at the Fillmore East, NY \- 12/31/69 \- 2nd Set](https://open.spotify.com/track/3AqVSxLsEpGtg1NbqOiid9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 3:54 | 2022-12-21 | 2024-03-04 |
 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 | 2022-12-18 |  |

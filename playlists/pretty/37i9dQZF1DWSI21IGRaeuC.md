@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,692 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,731 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 63 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
 | 64 | [Reso Riddim](https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Reso Riddim EP](https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0) | 3:06 |
 | 65 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 |
-| 66 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
-| 67 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
+| 66 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
+| 67 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
 | 68 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 69 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
 | 70 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
-| 71 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
-| 72 | [Rave Culture](https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Rave Culture](https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX) | 6:21 |
+| 71 | [Rave Culture](https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Rave Culture](https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX) | 6:21 |
+| 72 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 73 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 74 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
 | 75 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 88 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 | 89 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 |
 | 90 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
-| 91 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
-| 92 | [Don't Stahp \- Edit](https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Don't Stahp \(Edit\)](https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D) | 3:48 |
+| 91 | [Don't Stahp \- Edit](https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Don't Stahp \(Edit\)](https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D) | 3:48 |
+| 92 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
 | 93 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
 | 94 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
 | 95 | [Seeder](https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Seeder](https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk) | 3:19 |

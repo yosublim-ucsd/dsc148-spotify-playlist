@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 44713,
+  "num_followers": 44723,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Los Orientales de Paramonga",
-        "url": "https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy"
-      },
-      "artists": [
-        {
-          "name": "Los Orientales de Paramonga",
-          "url": "https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c"
-        }
-      ],
-      "duration_ms": 151365,
-      "name": "Lobos al Escape",
-      "url": "https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Sonidos Gold",
         "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Los Orientales de Paramonga",
+        "url": "https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy"
+      },
+      "artists": [
+        {
+          "name": "Los Orientales de Paramonga",
+          "url": "https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c"
+        }
+      ],
+      "duration_ms": 151365,
+      "name": "Lobos al Escape",
+      "url": "https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL"
     },
     {
       "added_at": "2023-12-12 18:56:56",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
-      "added_at": "2023-02-28 04:34:35",
-      "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
-      },
-      "artists": [
-        {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
-        }
-      ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
-    },
-    {
       "added_at": "2023-03-16 23:13:46",
       "album": {
         "name": "Mi Gran Dolor",
@@ -1175,6 +1159,22 @@
       "duration_ms": 254908,
       "name": "Mi Gran Dolor",
       "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
+    },
+    {
+      "added_at": "2023-02-28 04:34:35",
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "La Era del GigaHertz",
-        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 306689,
-      "name": "La Era del GigaHertz",
-      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Dale Mel\u00f3n",
         "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 260678,
       "name": "Dale Mel\u00f3n",
       "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "La Era del GigaHertz",
+        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 306689,
+      "name": "La Era del GigaHertz",
+      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
     },
     {
       "added_at": "2023-03-17 17:16:44",
@@ -1683,6 +1683,38 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+      },
+      "artists": [
+        {
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+        }
+      ],
+      "duration_ms": 401929,
+      "name": "Cumbia Ocea\u0301nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X"
       },
@@ -1695,38 +1727,6 @@
       "duration_ms": 204693,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Qu\u00e9malo",
-        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 220986,
-      "name": "Que\u0301malo",
-      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
     }
   ],
   "unique_name": "TROPILOCO",

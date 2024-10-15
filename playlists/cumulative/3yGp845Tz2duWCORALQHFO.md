@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,198 songs - 2 day 16 hr 46 min
+1,199 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [See The Beauty](https://open.spotify.com/track/2XxlVxlCK6axtjW9B2UNIf) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P), [Collide1](https://open.spotify.com/artist/1BQkaDW3ZEpSzF75p5CCXg) | [See The Beauty](https://open.spotify.com/album/1z1UUmOP7mm4RpPKYJStja) | 3:06 | 2024-05-24 | 2024-06-01 |
 | [See You Sweat](https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [See You Sweat](https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i) | 3:29 | 2024-07-12 | 2024-07-19 |
 | [Seek Love \(On The Beach\) \- SOMETHING ELSE X eSQUIRE Remix](https://open.spotify.com/track/4TwnmyqP4xoRcjTDNEEYeR) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [SOMETHING ELSE](https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM), [eSQUIRE](https://open.spotify.com/artist/3ylDWGgq4Aj7CC9jWXboGC) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Kzkm3A9bdLDdm9mOBPdUf) | 5:40 | 2024-05-24 | 2024-06-01 |
+| [sempiternal](https://open.spotify.com/track/3MImOdjfbzzFG3EYywSYT1) | [jcSubterfuge](https://open.spotify.com/artist/00xOgISXmnMDZ8NoU7SGUL) | [sempiternal](https://open.spotify.com/album/1wzXfVzGmt2ITohMtebcxe) | 3:46 | 2024-10-14 |  |
 | [Serotonin](https://open.spotify.com/track/7aDHFnCbLPGWad7jpr8HBI) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Serotonin](https://open.spotify.com/album/1P8HAK4lKl0X0Td3S1hAA8) | 3:33 | 2024-09-10 | 2024-09-14 |
 | [Set It Right](https://open.spotify.com/track/2rMbvXyd1IqyjsXLDM1Gf8) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Sakura](https://open.spotify.com/album/1cLbOTIb1PV1Y3fX0pnwWZ) | 4:17 | 2024-09-12 | 2024-09-21 |
 | [Set Me Free](https://open.spotify.com/track/063TkfAMChBhF3gFLESksd) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ) | [Set Me Free](https://open.spotify.com/album/2IeGqOw0muKoFkdot0qiZm) | 2:42 | 2024-09-26 | 2024-10-05 |

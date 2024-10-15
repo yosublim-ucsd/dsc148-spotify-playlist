@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 82747,
+  "num_followers": 82771,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Baby C\u00ea \u00e9 Gata",
+        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 118976,
+      "name": "Baby C\u00ea \u00e9 Gata",
+      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 147692,
       "name": "N\u00e3o Discuto por Telefone",
       "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Baby C\u00ea \u00e9 Gata",
-        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 118976,
-      "name": "Baby C\u00ea \u00e9 Gata",
-      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -819,34 +819,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Moletom",
-        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
-      },
-      "artists": [
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 334153,
-      "name": "Moletom",
-      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Love (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/75CDVz8yhYyB920rQGszBf"
       },
@@ -899,6 +871,34 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Moletom",
+        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 334153,
+      "name": "Moletom",
+      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
     },
     {
       "added_at": "2024-08-16 03:01:00",

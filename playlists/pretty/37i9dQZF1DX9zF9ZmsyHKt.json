@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330853,
+  "num_followers": 330857,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Beijinho no Ombro",
-        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
-      },
-      "artists": [
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Beijinho no Ombro",
-      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 223266,
       "name": "Andan\u00e7a",
       "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Beijinho no Ombro",
+        "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Beijinho no Ombro",
+      "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "T\u00f4 Voltando",
+      "url": "https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Rouff",
         "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 280756,
       "name": "As Mais Braba",
       "url": "https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "T\u00f4 Voltando",
-      "url": "https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "O Velho E Bom Novo (Lado A)",
-        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Seja Gentil",
-      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204221,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "O Velho E Bom Novo (Lado A)",
+        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Seja Gentil",
+      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sol e Mar, Vol. 2",
         "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
       "artists": [
         {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 137608,
-      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -979,6 +963,22 @@
       "duration_ms": 142268,
       "name": "LoveSong",
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
     },
     {
       "added_at": "2022-10-07 03:01:33",

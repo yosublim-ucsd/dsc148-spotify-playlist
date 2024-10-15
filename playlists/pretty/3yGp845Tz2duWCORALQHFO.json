@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25790,
+  "num_followers": 25791,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhO9MMVL77jWGtCF/17RzEGcQequoJ",
+  "snapshot_id": "AABhPLE8z7rwKPcQ+ePE+QFTAS8UpzNJ",
   "tracks": [
     {
       "added_at": "2024-10-11 13:03:12",
@@ -915,6 +915,22 @@
       "duration_ms": 232058,
       "name": "Aluminium",
       "url": "https://open.spotify.com/track/4IZJMZRC8xVOoosOlZQir8"
+    },
+    {
+      "added_at": "2024-10-14 21:25:51",
+      "album": {
+        "name": "sempiternal",
+        "url": "https://open.spotify.com/album/1wzXfVzGmt2ITohMtebcxe"
+      },
+      "artists": [
+        {
+          "name": "jcSubterfuge",
+          "url": "https://open.spotify.com/artist/00xOgISXmnMDZ8NoU7SGUL"
+        }
+      ],
+      "duration_ms": 226868,
+      "name": "sempiternal",
+      "url": "https://open.spotify.com/track/3MImOdjfbzzFG3EYywSYT1"
     },
     {
       "added_at": "2024-10-11 13:03:12",

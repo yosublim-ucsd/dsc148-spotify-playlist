@@ -1,12 +1,12 @@
 {
-  "description": "This is Mot\u00f6rhead. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 195542,
+  "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
+  "num_followers": 195571,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAACnAdzxJlJuY2QRtmWc923E",
+  "snapshot_id": "ZwsNgAAAAACKjIDp14S8JNNRzI3XqoU5",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bomber Demos",
+        "url": "https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 209978,
+      "name": "Alligator - Bomber Demo",
+      "url": "https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Overkill (Expanded Edition)",
         "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 199249,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bomber Demos",
-        "url": "https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 209978,
-      "name": "Alligator - Bomber Demo",
-      "url": "https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV"
     }
   ],
   "unique_name": "This Is Mot\u00f6rhead",

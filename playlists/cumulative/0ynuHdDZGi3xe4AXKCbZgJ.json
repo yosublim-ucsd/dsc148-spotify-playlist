@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "The Queen Is Dead (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "There Is a Light That Never Goes Out - 2017 Master",
+      "url": "https://open.spotify.com/track/3mkS1alZdcdBQuIMad8aee"
+    },
+    {
+      "album": {
         "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
       },

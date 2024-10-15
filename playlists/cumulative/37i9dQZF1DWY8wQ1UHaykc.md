@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-179 songs - 12 hr 17 min
+180 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 | 2024-01-05 |  |
 | [Lekas](https://open.spotify.com/track/76dalAQTO59VXaVmOHeLV7) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:14 | 2024-08-22 |  |
 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 | 2024-01-05 |  |
+| [Magic](https://open.spotify.com/track/5qp8vPqA5Vbz9VqKQ8stCN) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Lebih Dari Bintang](https://open.spotify.com/album/6Pgmq2CRu66fYZK74b9c6C) | 3:50 | 2024-10-14 |  |
 | [Malaikat Juga Tahu](https://open.spotify.com/track/2mSZwPBXpTMbjiNHAKMUo7) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/0e3Uf5EZr7LLzpl19UbJ8N) | 5:24 | 2024-01-05 | 2024-04-19 |
 | [Malaikat Juga Tahu](https://open.spotify.com/track/4F0zagZIjtGtZpFhqggW7P) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/7xDITPT69DW3zhYUTwM50B) | 5:24 | 2024-04-19 |  |
 | [Malam Biru](https://open.spotify.com/track/6PY4SQue8uzeN3GrLaHwgF) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Sandhy Sondoro](https://open.spotify.com/album/24k3Yl1sgc3U9P2VpPDYpD) | 2:48 | 2024-01-05 |  |

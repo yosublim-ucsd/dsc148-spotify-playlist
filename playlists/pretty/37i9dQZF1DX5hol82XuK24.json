@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 445929,
+  "num_followers": 446165,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 187690,
-      "name": "Horseness Is The Whatness",
-      "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
+      "duration_ms": 284373,
+      "name": "You Want It Darker",
+      "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "You Want It Darker",
-        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 284373,
-      "name": "You Want It Darker",
-      "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
+      "duration_ms": 187690,
+      "name": "Horseness Is The Whatness",
+      "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "How Are You Feeling?",
-        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 269140,
-      "name": "How Are You Feeling?",
-      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 158593,
       "name": "Come 2 Me",
       "url": "https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "How Are You Feeling?",
+        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 269140,
+      "name": "How Are You Feeling?",
+      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 281663,
-      "name": "Mastermind Specialism",
-      "url": "https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 239519,
       "name": "Undress",
       "url": "https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 281663,
+      "name": "Mastermind Specialism",
+      "url": "https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 119396,
       "name": "Horror Scene (feat. aldn)",
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Coolshit Bullshit",
         "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 240759,
       "name": "Coolshit Bullshit",
       "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Double Negative",
         "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Tears In The Typing Pool [Demo]",
-        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 127832,
-      "name": "Tears In The Typing Pool [Demo]",
-      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 279000,
       "name": "Nightmares on Repeat",
       "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Tears In The Typing Pool [Demo]",
+        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 127832,
+      "name": "Tears In The Typing Pool [Demo]",
+      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Slowdance I",
-      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Ecstasy Homosexuality",
         "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 240335,
       "name": "Ecstasy Homosexuality - Radio Edit",
       "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 241332,
+      "name": "Slowdance I",
+      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Exposed to Some Light",
-        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
-      },
-      "artists": [
-        {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Exposed to Some Light",
-      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Spelling",
         "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 241133,
       "name": "Spelling",
       "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
     },
     {
       "added_at": "2024-09-13 13:43:33",

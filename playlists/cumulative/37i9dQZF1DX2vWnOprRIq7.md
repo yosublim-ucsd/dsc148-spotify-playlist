@@ -4,7 +4,7 @@
 
 > El lado electrónico del indie latino, featuring Rubio.
 
-273 songs - 16 hr 38 min
+274 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Fotográfica](https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Fotográfica](https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH) | 4:11 | 2023-10-06 | 2024-10-05 |
 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 | 2023-08-18 |  |
 | [Frecuencias](https://open.spotify.com/track/5tugFkaIU3eMiFyNDXpiAY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:50 | 2024-07-26 |  |
-| [fribRitni](https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [fribRitni](https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN) | 3:16 | 2023-09-29 |  |
+| [fribRitni](https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [fribRitni](https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN) | 3:16 | 2023-09-29 | 2024-10-15 |
 | [FRONTERAS](https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH) | [Yuls](https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS) | [FRONTERAS](https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8) | 3:33 | 2023-03-17 | 2023-08-31 |
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-10 |  |
 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 | 2023-08-25 |  |
@@ -200,6 +200,7 @@
 | [Pantano](https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA) | [Lalalas](https://open.spotify.com/artist/4I3IevY23wtsnyApeZP3Xi) | [Burbuja](https://open.spotify.com/album/2seHFJih4CwtUjk2dtDrhB) | 3:35 | 2023-03-17 | 2023-05-16 |
 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 | 2023-11-24 |  |
 | [Paris, Tal Vez?](https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Dime Precioso](https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW) | 4:33 | 2024-06-07 |  |
+| [Peligrosa \(Version Aerobica\)](https://open.spotify.com/track/6SG64UrZqNk7aXx8p4jj8p) | [Aerobica](https://open.spotify.com/artist/0Vdpq1MzMW6xiHjnrRb0bl), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9), [Pepo Fernandez](https://open.spotify.com/artist/0DR47gYDjSGYu5euwMRCmP), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Peligrosa \(Version Aerobica\)](https://open.spotify.com/album/2tPMHTtb0ycCVaAY5aQxRb) | 4:03 | 2024-10-14 |  |
 | [pensando en mí](https://open.spotify.com/track/32hmIJoOZOS1WM0LL9zzeM) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [q\*](https://open.spotify.com/album/3CC1TrFsBYU7aqEx0KmwkP) | 2:24 | 2023-11-10 |  |
 | [Perder Algo de Tiempo](https://open.spotify.com/track/3sWajgDFIB55nviApDU60D) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [Juan Campodonico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Perder Algo de Tiempo](https://open.spotify.com/album/2MwhdcY4yYtNpALVYx4l1c) | 3:11 | 2023-03-17 | 2023-09-02 |
 | [Perdido](https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Dime Precioso](https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW) | 3:32 | 2024-06-07 |  |

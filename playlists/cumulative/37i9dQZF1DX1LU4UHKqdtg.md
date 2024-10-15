@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: JENNIE
 
-1,227 songs - 2 day 17 hr 56 min
+1,228 songs - 2 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-01-23 | 2024-07-24 |
 | [Love you](https://open.spotify.com/track/3pJwqvHJQYADNaIZ7HNh1L) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Beyond:](https://open.spotify.com/album/0MaE5OlG8EDDkNczCgbnrF) | 3:10 | 2024-10-04 |  |
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-14 | 2023-11-10 |
+| [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-14 |  |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 | 2022-08-24 |
 | [Lovers or Enemies](https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Single Album ‘0 or 1’](https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca) | 2:42 | 2024-01-25 | 2024-02-23 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-03-08 | 2022-04-22 |
@@ -821,7 +822,7 @@
 | [Ride the Vibe \(Japanese Ver.\)](https://open.spotify.com/track/7cGPbFspknbvGM2be2eY2Z) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\)](https://open.spotify.com/album/1DMRtdHc6r0xkm9tAAHDN8) | 2:52 | 2024-07-09 | 2024-09-07 |
 | [RIDING \(feat\. 박현진\)](https://open.spotify.com/track/3gXYeDKkxDJYXviGNBMzLy) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Park Hyeon Jin](https://open.spotify.com/artist/4l7oDG5masdHj8IfySlVMK) | [Citymare, Cityzone](https://open.spotify.com/album/5VR3J5G2pBj1JziXjAW7zJ) | 3:10 | 2022-02-24 | 2022-03-23 |
 | [RINGO](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz) | 3:29 | 2023-09-26 | 2024-07-24 |
-| [RISE UP \-Korean ver.\-](https://open.spotify.com/track/5f6IUEQLR0gk6iiPccKqgP) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \-Korean ver.\-](https://open.spotify.com/album/5SsyK7yxt7AZd5uyNYAkSZ) | 3:00 | 2024-07-09 |  |
+| [RISE UP \-Korean ver.\-](https://open.spotify.com/track/5f6IUEQLR0gk6iiPccKqgP) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \-Korean ver.\-](https://open.spotify.com/album/5SsyK7yxt7AZd5uyNYAkSZ) | 3:00 | 2024-07-09 | 2024-10-15 |
 | [Road](https://open.spotify.com/track/3CA9qH8B09BtGw712dsRfi) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:56 | 2024-09-19 | 2024-09-26 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-23 | 2022-01-04 |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-23 | 2022-10-28 |
@@ -929,7 +930,7 @@
 | [Soñar \(Breaker\)](https://open.spotify.com/track/3zQKe6vQMBHmthdjLHnKya) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/3atDr2UW1WQBLzDsL5iOJT) | 2:53 | 2024-04-18 | 2024-08-30 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:53 | 2024-01-19 | 2024-04-19 |
 | [Space](https://open.spotify.com/track/5IAuN3Q4eXxMW9uDf5Nxtk) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Space](https://open.spotify.com/album/1FpyRuvTJs9K0HQAzZDwK4) | 3:12 | 2023-09-12 | 2023-09-27 |
-| [Spark \- WINTER Solo](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:20 | 2024-10-08 |  |
+| [Spark \- WINTER Solo](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:21 | 2024-10-08 |  |
 | [Sparkling](https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi) | 3:06 | 2022-07-11 | 2022-09-21 |
 | [Sparkling Night \- Japanese Version](https://open.spotify.com/track/4rvShGxg1udUhsxULfQdsx) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Sparkling Night \(Japanese Version\)](https://open.spotify.com/album/0SFEnp3CKoskcHwJveGKJz) | 2:55 | 2022-09-04 | 2022-11-03 |
 | [Special](https://open.spotify.com/track/7D98DR6SUkx8qpCgtczVmg) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Special](https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO) | 4:17 | 2024-04-26 | 2024-05-15 |

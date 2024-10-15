@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-620 songs - 1 day 18 hr 55 min
+621 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 | 2023-12-30 |  |
 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 | 2023-12-30 |  |
 | [Get Me Over You](https://open.spotify.com/track/7bewAo45qGMKe8sfvTJEoR) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Secada](https://open.spotify.com/album/3PkJHoLbpDhcnMiy2DDq9F) | 3:57 | 2023-12-30 |  |
-| [Get Used To Me](https://open.spotify.com/track/2hPv8ZMQUo99h3wGVfebzQ) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/4Zr5Edzh28GdL6RTi2Ovsl) | 3:16 | 2023-12-30 |  |
+| [Get Used To Me](https://open.spotify.com/track/2hPv8ZMQUo99h3wGVfebzQ) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/4Zr5Edzh28GdL6RTi2Ovsl) | 3:16 | 2023-12-30 | 2024-10-15 |
+| [Get Used To Me](https://open.spotify.com/track/3gZmeRaZOoooNWqfqKR0GO) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/3Bz3Kq37DkcJJT6JQCbWyA) | 3:16 | 2024-10-14 |  |
 | [Ghost Town](https://open.spotify.com/track/4V3aY13j3FUamYQ16TpWyO) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 4:13 | 2023-12-30 |  |
 | [Give A Little Love](https://open.spotify.com/track/20TTWmID7y6Bq7r6UnE5iW) | [Hammond & West](https://open.spotify.com/artist/5uMo9yQCfd9Fws49UlzgqJ) | [Hammond & West](https://open.spotify.com/album/6KVXPZQLVnlF8bt9iV5oDe) | 3:28 | 2023-12-30 |  |
 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 | 2023-12-30 |  |

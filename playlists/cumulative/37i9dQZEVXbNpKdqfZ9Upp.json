@@ -4754,7 +4754,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 171869,
       "name": "Bed Chem",
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
@@ -6792,7 +6792,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 186887,
       "name": "Call Center",
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
@@ -13129,6 +13129,32 @@
     },
     {
       "album": {
+        "name": "BA\u00d1O MAR\u00cdA",
+        "url": "https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152022,
+      "name": "EL \u00daNICO",
+      "url": "https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7"
+    },
+    {
+      "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
       },
@@ -13228,7 +13254,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 263600,
       "name": "ella brilla",
       "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
@@ -20014,7 +20040,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -39530,6 +39556,28 @@
       "duration_ms": 150365,
       "name": "Tal Vez Fui Yo",
       "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE"
     },
     {
       "album": {

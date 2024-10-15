@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: OSWALD",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: $OHO BANI",
   "name": "me right now",
   "tracks": [
     {
@@ -17236,7 +17236,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
@@ -19464,6 +19464,24 @@
       "duration_ms": 139206,
       "name": "IN THE CLUB",
       "url": "https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214466,
+      "name": "In The Shadow",
+      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
     },
     {
       "album": {
@@ -24488,7 +24506,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
@@ -29980,6 +29998,28 @@
       "duration_ms": 129293,
       "name": "Phat Butt",
       "url": "https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG"
+    },
+    {
+      "album": {
+        "name": "EIN SCHRITT UND ICH FALL",
+        "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Philippe Petit",
+      "url": "https://open.spotify.com/track/0gWy1JtLETbI3cIVRGEXQt"
     },
     {
       "album": {
@@ -38972,7 +39012,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
@@ -43586,6 +43626,32 @@
       "duration_ms": 234309,
       "name": "zeit zu gehen",
       "url": "https://open.spotify.com/track/1kcOpvFgvMrjZqYyBNrXRJ"
+    },
+    {
+      "album": {
+        "name": "EIN SCHRITT UND ICH FALL",
+        "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "ZEIT, DASS SICH WAS DREHT",
+      "url": "https://open.spotify.com/track/7fc7Z9hY2hzimmFvo2JO8p"
     },
     {
       "album": {

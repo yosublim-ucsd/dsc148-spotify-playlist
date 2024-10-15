@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 176017,
       "name": "Celine (with Kidd Keo)",
       "url": "https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66"
@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 204303,
       "name": "Duro De Verdad pt.2",
       "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
@@ -5447,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "GATA G",
+      "url": "https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx"
+    },
+    {
+      "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
       },
@@ -6372,7 +6390,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -13384,7 +13402,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 275520,
       "name": "Te Miro Para Ver Si Me Ves Mirarte",
       "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"

@@ -4,7 +4,7 @@
 
 > Mental illness
 
-43 songs - 2 hr 21 min
+44 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,5 +51,6 @@
 | [Who Can It Be Now?](https://open.spotify.com/track/5cOM0fTHceCkJVwuyHdMnk) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:20 | 2024-10-08 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 | 2024-09-16 |  |
 | [You May Be Right](https://open.spotify.com/track/7gMOe0gXYcELUoVugfMmHP) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 4:13 | 2024-09-16 |  |
+| [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

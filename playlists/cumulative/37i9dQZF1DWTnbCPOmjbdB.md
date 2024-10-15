@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Dawid Kwiatkowski
 
-209 songs - 9 hr 59 min
+210 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,9 @@
 | [Na drodze do wspomnień](https://open.spotify.com/track/0o47I063bicp11QIF3eY2E) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Na drodze do wspomnień](https://open.spotify.com/album/0JnlXIVqa3n8K3dUuMCTxk) | 3:30 | 2024-09-19 | 2024-10-04 |
 | [Na głęboką wodę](https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:34 | 2024-08-22 |  |
 | [na nowo](https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [na nowo](https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a) | 2:04 | 2024-08-09 | 2024-08-30 |
-| [Nad Morze](https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Nad Morze](https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h) | 2:20 | 2024-08-22 |  |
+| [Nad Morze](https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Nad Morze](https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h) | 2:20 | 2024-08-22 | 2024-10-15 |
 | [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/track/3Ugq1h32zAd2ILdNZMdCJp) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/album/00qlmn8FxtemR5WGnKLehA) | 2:35 | 2024-07-01 | 2024-08-10 |
+| [Naiwna Dziewucha](https://open.spotify.com/track/2N3ZrP2F4q6PHx8Ei1aepT) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Naiwna Dziewucha](https://open.spotify.com/album/2UzNFBcrhMDDGnkPNCZ3kL) | 2:09 | 2024-10-14 |  |
 | [Najlepszy miesiąc w roku](https://open.spotify.com/track/7iF5gvEJZVHArxumAc7rUy) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Najlepszy miesiąc w roku](https://open.spotify.com/album/6vtkxkhV5C2WVBaZb6Fs6j) | 2:53 | 2024-07-01 | 2024-07-05 |
 | [Nasze Święto](https://open.spotify.com/track/1glH8A4oyLdRK2UY77yA13) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Nasze Święto](https://open.spotify.com/album/2E62T54J5L1oWosbl6XfOV) | 2:55 | 2024-07-25 | 2024-08-02 |
 | [Naturalnie](https://open.spotify.com/track/0ITBfggasiPdkLgubB7NDk) | [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Naturalnie](https://open.spotify.com/album/2vERDQM1THyLRWAu5lbs4b) | 2:04 | 2024-08-08 | 2024-09-06 |

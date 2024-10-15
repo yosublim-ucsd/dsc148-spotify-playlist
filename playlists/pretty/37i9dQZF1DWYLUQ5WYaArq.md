@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Two heads are better than one\. A look back at  some iconic duos and duets\. Cover: Dolly Parton, Kenny Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,298 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,286 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

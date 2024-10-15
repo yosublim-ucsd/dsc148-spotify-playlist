@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-38 songs - 1 hr 57 min
+39 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2023-06-03 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [Suitcase Full of Cash](https://open.spotify.com/track/67O2bC5H2EzBqTEAM2Ztdr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:29 | 2024-10-03 |  |
+| [The Dismemberment Song](https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm) | [Blue Kid](https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN) | [Upright, Love](https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd) | 4:36 | 2024-10-14 |  |
 | [Wage Wars Get Rich Die Handsome \(The Jordan Lake Sessions Volume 5\)](https://open.spotify.com/track/4AcfUWv9nT3OP8V4dAZedQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volume 5](https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc) | 2:25 | 2023-01-09 |  |
 | [Weight of the World](https://open.spotify.com/track/3mBzmGcvEytNUsPHmpqtXZ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:13 | 2023-03-23 |  |
 | [Welcome to the Neighborhood!](https://open.spotify.com/track/4mqtbyIidkZQmpHveD0joq) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Welcome to the Neighborhood!](https://open.spotify.com/album/45otVgvLxy1cQ9UAWWHDJV) | 1:36 | 2023-03-28 |  |

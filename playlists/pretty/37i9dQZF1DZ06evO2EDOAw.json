@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4583,
+  "num_followers": 4586,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAA833MBVVPT0lt78oL9aBGR",
+  "snapshot_id": "ZwsNgAAAAADRiMcpEgJ37pPzMeXY5d8q",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dependable",
+        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 262211,
+      "name": "Dependable",
+      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 226693,
       "name": "Eagle - Live",
       "url": "https://open.spotify.com/track/0ud4zQVgIUszHUOpq8ZwOu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dependable",
-        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
-      },
-      "artists": [
-        {
-          "name": "Enkay Ogboruche",
-          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 262211,
-      "name": "Dependable",
-      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
     },
     {
       "added_at": null,
@@ -399,58 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My City - Single",
-        "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        },
-        {
-          "name": "J. Moss",
-          "url": "https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "21:03",
-          "url": "https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        },
-        {
-          "name": "Clareta Haddon",
-          "url": "https://open.spotify.com/artist/3VgTSNIqovF0AvCvxtQRt5"
-        },
-        {
-          "name": "Dorinda Clark-Cole",
-          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
-        },
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        },
-        {
-          "name": "Shelby 5",
-          "url": "https://open.spotify.com/artist/7cvQ26Fz2sz3iMcAc8HXaD"
-        }
-      ],
-      "duration_ms": 218207,
-      "name": "My City",
-      "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Has To Break (Live)",
         "url": "https://open.spotify.com/album/3LaQJBdbNWCJqmLD3UVYgQ"
       },
@@ -511,30 +459,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
+        "name": "My City - Single",
+        "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
       },
       "artists": [
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "J. Moss",
+          "url": "https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "Bryson Camper",
-          "url": "https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax"
+          "name": "21:03",
+          "url": "https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4"
         },
         {
-          "name": "Harmonious Gospel Choir",
-          "url": "https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Clareta Haddon",
+          "url": "https://open.spotify.com/artist/3VgTSNIqovF0AvCvxtQRt5"
+        },
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Shelby 5",
+          "url": "https://open.spotify.com/artist/7cvQ26Fz2sz3iMcAc8HXaD"
         }
       ],
-      "duration_ms": 162295,
-      "name": "U.S.A.",
-      "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
+      "duration_ms": 218207,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
     },
     {
       "added_at": null,
@@ -559,6 +531,34 @@
       "duration_ms": 294893,
       "name": "Worth It (feat. Kierra Sheard & Jawan Harris)",
       "url": "https://open.spotify.com/track/3qa9CI4W8SQf85VZzi7GIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Bryson Camper",
+          "url": "https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax"
+        },
+        {
+          "name": "Harmonious Gospel Choir",
+          "url": "https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "U.S.A.",
+      "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 205178,
-      "name": "Mo' Better",
-      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bold Right Life",
         "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
       },
@@ -703,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
       "artists": [
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Canton Jones",
-          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
         }
       ],
-      "duration_ms": 264346,
-      "name": "Repin My God",
-      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
+      "duration_ms": 205178,
+      "name": "Mo' Better",
+      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
       "duration_ms": 238733,
       "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Canton Jones",
+          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
+        }
+      ],
+      "duration_ms": 264346,
+      "name": "Repin My God",
+      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
     },
     {
       "added_at": null,
@@ -831,30 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
       "artists": [
         {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 282440,
-      "name": "So Glad",
-      "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
     },
     {
       "added_at": null,
@@ -895,22 +887,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
         },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 282440,
+      "name": "So Glad",
+      "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+      "duration_ms": 247825,
+      "name": "I Choose You (Live)",
+      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 247825,
-      "name": "I Choose You (Live)",
-      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -967,6 +967,26 @@
       "duration_ms": 276111,
       "name": "Done For Me (feat. Jekalyn Carr)",
       "url": "https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 310644,
+      "name": "Come A Little Closer - Live",
+      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
     },
     {
       "added_at": null,
@@ -1035,26 +1055,6 @@
       "duration_ms": 315533,
       "name": "Somehow (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthems & Glory (Live)",
-        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 310644,
-      "name": "Come A Little Closer - Live",
-      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
     },
     {
       "added_at": null,

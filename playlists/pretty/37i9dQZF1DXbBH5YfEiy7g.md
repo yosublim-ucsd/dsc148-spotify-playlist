@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=sxwsJmh6TeufagqSrHPsww>Lebo Sekgobela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 684 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 745 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 41 | [Lomhlengi Ungubani Na? \- Live](https://open.spotify.com/track/4Uo5mvOjTFcoLG0MNGsawH) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Filled \(Live\)](https://open.spotify.com/album/4WNEixgWBG6heUWA0tPYsh) | 2:30 |
 | 42 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 |
 | 43 | [Moya Wami \(Live\)](https://open.spotify.com/track/4V47lua1XD4rnzvPLeR4JZ) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Umusa \(Live\)](https://open.spotify.com/album/4YPlI2djfvKTgghrUgQS0V) | 8:36 |
-| 44 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 |
-| 45 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 |
+| 44 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 |
+| 45 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 |
 | 46 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 |
 | 47 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 |
 | 48 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 |

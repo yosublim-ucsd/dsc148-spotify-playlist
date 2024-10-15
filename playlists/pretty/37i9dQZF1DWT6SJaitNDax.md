@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: <a href="spotify:artist:3a1tBryiczPAZpgoZN9Rzg">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,792 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,049 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

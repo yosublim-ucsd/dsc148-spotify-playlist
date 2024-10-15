@@ -4,7 +4,7 @@
 
 > 
 
-771 songs - 1 day 13 hr 1 min
+772 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [1017 ALYX](https://open.spotify.com/track/2o7vrVIOh1tyqF7fNhDsR6) | [Mo Bangaz](https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg) | [1017 ALYX](https://open.spotify.com/album/33qHmaehzUCDzndn5in7q0) | 1:53 | 2023-02-03 | 2023-05-09 |
 | [11 Days](https://open.spotify.com/track/5tiO3HYnS6Fx2z3pwOCMXG) | [Mg Sleepy](https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW) | [Big Trippen](https://open.spotify.com/album/02SLNBw7hl1MQwX3m0jScL) | 1:43 | 2023-04-03 | 2023-05-09 |
 | [111](https://open.spotify.com/track/06wCd1Cm90zXYD4jIc8j3s) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [111](https://open.spotify.com/album/6yTaFKmXyDX0R7LpLyoktW) | 2:09 | 2023-01-11 | 2023-12-14 |
+| [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 | 2024-10-14 |  |
 | [14](https://open.spotify.com/track/3FjbqjPlAFa2FszNtXGGdh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:29 | 2022-07-28 | 2023-05-09 |
 | [2019](https://open.spotify.com/track/0qYotAhNzAECQYzv411A2C) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 2:20 | 2023-12-27 | 2024-03-05 |
 | [2020 Vision](https://open.spotify.com/track/6UlRHQJ3WT6VrIlKxSODNz) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [2020 Vision](https://open.spotify.com/album/5bkklyYbs2N8y3S7Uh08sO) | 2:45 | 2023-04-05 | 2023-05-09 |

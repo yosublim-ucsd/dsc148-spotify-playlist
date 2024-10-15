@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-140 songs - 5 hr 49 min
+141 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 | 2023-05-09 |  |
 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2023-05-09 |  |
 | [Arribar](https://open.spotify.com/track/6mqoZNxazZnSLm6Qh03eUu) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Arribar](https://open.spotify.com/album/61fEiZp23pZk77w6sLN9gz) | 2:18 | 2023-09-26 |  |
+| [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 | 2024-10-14 |  |
 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 | 2023-10-04 |  |
 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-04 |  |
 | [Barely Awake](https://open.spotify.com/track/7xKLiItra445rJi8Fehifn) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Barely Awake](https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt) | 2:19 | 2023-05-09 |  |
@@ -122,7 +123,7 @@
 | [teunok](https://open.spotify.com/track/382bYUbYKAIfyhZ0CQ9gek) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [teunok](https://open.spotify.com/album/2zR5ONJGefVeFM904jJ2HY) | 2:31 | 2023-09-11 | 2024-10-08 |
 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 | 2023-05-09 |  |
 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 | 2023-05-09 |  |
-| [The oak](https://open.spotify.com/track/5JcvLTlhEtDl3lPFs95xRM) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Fields](https://open.spotify.com/album/0bqMUUD910BVxrs4ENCuTC) | 2:04 | 2023-05-09 |  |
+| [The oak](https://open.spotify.com/track/5JcvLTlhEtDl3lPFs95xRM) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Fields](https://open.spotify.com/album/0bqMUUD910BVxrs4ENCuTC) | 2:04 | 2023-05-09 | 2024-10-15 |
 | [The Old Oak Tree](https://open.spotify.com/track/2od5AQ4KMmHTf4qXVij1Ry) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [The Old Oak Tree](https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo) | 2:19 | 2023-05-09 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-15 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2023-05-09 |  |

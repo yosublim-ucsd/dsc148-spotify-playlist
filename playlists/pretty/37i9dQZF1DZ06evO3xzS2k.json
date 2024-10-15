@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2381,
+  "num_followers": 2380,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAAh8k705c+NajFEu23MYxaq",
+  "snapshot_id": "ZwsNgAAAAAD/iUMifrJ3aYan7SC05Nbr",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 308600,
-      "name": "Downward Years to Come",
-      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 375933,
-      "name": "Mine Is Clouds",
-      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
+      "duration_ms": 375933,
+      "name": "Mine Is Clouds",
+      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,365 likes - 33 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,372 likes - 33 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 |
-| 2 | [I See Grace](https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [I See Grace](https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il) | 3:13 |
-| 3 | [Walking Free](https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:21 |
+| 2 | [Walking Free](https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:21 |
+| 3 | [I See Grace](https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [I See Grace](https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il) | 3:13 |
 | 4 | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22) | 3:46 |
 | 5 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
 | 6 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 16 | [What Mercy Did For Me \(feat\. Maranda Curtis & Jason Crabb\)](https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:43 |
 | 17 | [My Story Your Glory \- Micah Tyler Collab Version](https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [My Story Your Glory \(Expanded Edition\)](https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD) | 3:08 |
 | 18 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 |
-| 19 | [You Make Sense](https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:43 |
+| 19 | [Headed for the Mountain \(feat\. Phil King\)](https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 2:46 |
 | 20 | [My God Fights For Me \(feat\. Austin French & Nickie Conley\)](https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU), [Nickie Conley](https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:40 |
 | 21 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
 | 22 | [Last](https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
-| 23 | [Headed for the Mountain \(feat\. Phil King\)](https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 2:46 |
+| 23 | [You Make Sense](https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:43 |
 | 24 | [Love Lifted Me Up](https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:11 |
 | 25 | [The Flood](https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:20 |
 | 26 | [Directions](https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:33 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 32 | [Remember This](https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 4:19 |
 | 33 | [Southern Soul](https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 4:01 |
 
-Snapshot ID: `Zwm8AAAAAAC5wg2NMq+TgNfi2Wb2FuiX`
+Snapshot ID: `ZwsNgAAAAADrsWxNOZQG/w8IbUxXKQpd`

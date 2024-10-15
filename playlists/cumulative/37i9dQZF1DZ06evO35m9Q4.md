@@ -4,14 +4,15 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 23 min
+69 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't Gone 'N' Give up on Love \- Live at Montreux Casino, Montreux, Switzerland \- July 1985](https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live At Montreux 1982 & 1985](https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf) | 6:24 | 2022-08-05 |  |
+| [Ain't Gone 'N' Give up on Love](https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 6:06 | 2024-10-15 |  |
+| [Ain't Gone 'N' Give up on Love \- Live at Montreux Casino, Montreux, Switzerland \- July 1985](https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live At Montreux 1982 & 1985](https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf) | 6:24 | 2022-08-05 | 2024-10-15 |
 | [Albert's Shuffle \- Live](https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 7:07 | 2022-08-05 | 2023-09-26 |
-| [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 | 2024-04-23 |  |
-| [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 | 2022-08-05 | 2024-10-13 |
+| [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 | 2024-04-23 | 2024-10-15 |
+| [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 | 2022-08-05 |  |
 | [Boot Hill \- 1989 Version](https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:13 | 2022-11-23 |  |
 | [Born Under A Bad Sign \- Remastered 2024](https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Born Under A Bad Sign \- Remastered 2024](https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm) | 8:10 | 2024-08-24 |  |
 | [C.O.D\. \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/03OGCewZ3ZeyZNAzNkZSKo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 5:32 | 2022-08-05 | 2022-10-28 |

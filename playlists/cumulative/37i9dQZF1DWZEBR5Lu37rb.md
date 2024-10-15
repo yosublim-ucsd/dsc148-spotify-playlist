@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-231 songs - 16 hr 11 min
+232 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 | 2024-02-13 |  |
 | [Cinderella](https://open.spotify.com/track/08xsIKGLcAx6YtKFwWi5p7) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 4:17 | 2022-02-10 | 2023-02-15 |
 | [Coming Home](https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 2:54 | 2024-02-13 |  |
+| [Could This Be Love](https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 2:17 | 2024-10-14 |  |
 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 | 2024-02-13 |  |
 | [Djadja](https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2022-02-10 | 2024-02-14 |
 | [Don't Keep Me Waiting](https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Don't Keep Me Waiting](https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR) | 3:47 | 2022-02-10 |  |
@@ -114,7 +115,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2024-03-20 |  |
 | [Mpita Njia](https://open.spotify.com/track/0yPp2dCmjWnA7H9wjHUDXP) | [Alicios](https://open.spotify.com/artist/4uYpJ2jKc6127fK6y3Km2x), [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Alfa](https://open.spotify.com/album/4FnMISjKBEp87QlLHW43dC) | 4:06 | 2022-02-10 | 2024-02-14 |
 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 | 2024-02-13 |  |
-| [Mukwano Gwo](https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Angela Kalule](https://open.spotify.com/artist/5Avt6RWKqAxYiadur6sxYi) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 2:54 | 2024-02-13 |  |
+| [Mukwano Gwo](https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Angela Kalule](https://open.spotify.com/artist/5Avt6RWKqAxYiadur6sxYi) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 2:54 | 2024-02-13 | 2024-10-15 |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2024-03-20 | 2024-06-09 |
 | [My Baby \(feat\. Ayra Starr\)](https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:10 | 2024-03-20 | 2024-04-19 |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2024-03-20 |  |

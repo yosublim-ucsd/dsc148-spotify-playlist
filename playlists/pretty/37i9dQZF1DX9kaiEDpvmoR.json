@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92259,
+  "num_followers": 92265,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Don't Blame It On Me",
         "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Den jag kunde blivit - Den jag blev",
         "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
       },
@@ -539,18 +539,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         }
       ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+      "duration_ms": 155616,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -571,22 +575,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 155616,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Solen i den v\u00e4nstra",
         "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 293083,
       "name": "Solen i den v\u00e4nstra",
       "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Home (Truckstops and Airports)",
         "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
       },
       "artists": [
         {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
         }
       ],
-      "duration_ms": 200655,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+        "name": "When The Time Is Right",
+        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
       },
       "artists": [
         {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+          "name": "Dirty Loops",
+          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
+      "duration_ms": 285842,
+      "name": "When The Time Is Right",
+      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -963,34 +963,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "When The Time Is Right",
-        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
+        "name": "Hejd\u00e5 f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
       },
       "artists": [
         {
-          "name": "Dirty Loops",
-          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
         }
       ],
-      "duration_ms": 285842,
-      "name": "When The Time Is Right",
-      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
+      "duration_ms": 205125,
+      "name": "Hejd\u00e5 f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 168497,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1095,6 +1095,42 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 223241,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "No More Blues",
+      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "En v\u00e4n till mig",
         "url": "https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg"
       },
@@ -1143,26 +1179,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 223241,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 172166,
       "name": "Ge En Sol",
       "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "No More Blues",
-      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Roll On Buddy",
-        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Roll On Buddy",
-      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Tar det upp i topp",
         "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169200,
       "name": "Tar det upp i topp",
       "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1363,6 +1363,22 @@
       "duration_ms": 220800,
       "name": "Som en sprucken mandolin",
       "url": "https://open.spotify.com/track/6NmjnuBzH9lE7AzKDLwadl"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Passa dig",
+        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Passa dig",
+      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Passa dig",
-        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
-      },
-      "artists": [
-        {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "Passa dig",
-      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
       },
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Wasting Years",
+        "url": "https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw"
+      },
+      "artists": [
+        {
+          "name": "Ulf Nilsson",
+          "url": "https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV"
+        }
+      ],
+      "duration_ms": 225976,
+      "name": "Wasting Years",
+      "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Jag beh\u00f6ver dig",
         "url": "https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 286146,
       "name": "Jag beh\u00f6ver dig",
       "url": "https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
-      },
-      "artists": [
-        {
-          "name": "Lexi Berg",
-          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bermuda Triangle",
-      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
     }
   ],
   "unique_name": "Aktuellt",

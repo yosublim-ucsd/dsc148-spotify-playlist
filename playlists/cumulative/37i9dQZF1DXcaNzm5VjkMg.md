@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-133 songs - 9 hr 2 min
+135 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,8 @@
 | [Sampai Kita Tua](https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sampai Kita Tua](https://open.spotify.com/album/36d1v1naMDdU1RceuWKfyI) | 4:35 | 2023-06-20 |  |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-02-03 |  |
 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 | 2024-09-27 |  |
+| [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 | 2024-10-14 |  |
+| [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-10-14 |  |
 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-02-03 | 2024-09-28 |
 | [Semoga](https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [RAYA](https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80) | 4:29 | 2024-05-08 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2023-02-03 |  |

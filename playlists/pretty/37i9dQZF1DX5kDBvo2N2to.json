@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59174,
+  "num_followers": 59176,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Hur ska jag sova inatt",
+        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 161434,
+      "name": "Hur ska jag sova inatt",
+      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "8 Days",
         "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
       },
@@ -355,18 +371,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Hur ska jag sova inatt",
-        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+        "name": "Smile Boy",
+        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
       },
       "artists": [
         {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 161434,
-      "name": "Hur ska jag sova inatt",
-      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+      "duration_ms": 144840,
+      "name": "Smile Boy",
+      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -399,26 +419,6 @@
       "duration_ms": 204613,
       "name": "Thee Unknown",
       "url": "https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Smile Boy",
-        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Smile Boy",
-      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -507,22 +507,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
+        "name": "Habits (Stay High) - Spotify Singles",
+        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
       "artists": [
         {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 164628,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
+      "duration_ms": 211153,
+      "name": "Habits (Stay High) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -543,6 +539,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 164628,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "DETOX",
         "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 154782,
       "name": "DETOX",
       "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Habits (Stay High) - Spotify Singles",
-        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 211153,
-      "name": "Habits (Stay High) - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 224401,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "S\u00e4kra kort",
         "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224401,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Old Memories",
-        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Old Memories",
-      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Right?",
         "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176396,
       "name": "Right?",
       "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Old Memories",
+        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Old Memories",
+      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Kyss mig snabbt i otakt",
-        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "F\u00f6rlora",
-      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "APTIT",
         "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Kyss mig snabbt i otakt",
+        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "F\u00f6rlora",
+      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
         "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
       },
@@ -903,30 +903,6 @@
       "duration_ms": 230975,
       "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
       "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Javan",
-          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
-        },
-        {
-          "name": "Rivio",
-          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
-        },
-        {
-          "name": "Dean Andrew",
-          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -963,6 +939,30 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        },
+        {
+          "name": "Dean Andrew",
+          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 86622,
       "name": "u will be fine",
       "url": "https://open.spotify.com/track/3QxiHZEbiztQg4ItS8oNnI"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ditt safeword ikv\u00e4ll?",
+        "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "duration_ms": 132199,
+      "name": "Ditt safeword ikv\u00e4ll?",
+      "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ditt safeword ikv\u00e4ll?",
-        "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
       },
       "artists": [
         {
-          "name": "ANJI",
-          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 132199,
-      "name": "Ditt safeword ikv\u00e4ll?",
-      "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
+      "duration_ms": 328582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 159661,
       "name": "Rock'n'Roll",
       "url": "https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Goat",
-        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 328582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Mina v\u00e4nner v\u00e4xer upp",
-        "url": "https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY"
-      },
-      "artists": [
-        {
-          "name": "Karakou",
-          "url": "https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Sakerna som kan ta slut",
-      "url": "https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Passa dig",
         "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 148853,
       "name": "Passa dig",
       "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Mina v\u00e4nner v\u00e4xer upp",
+        "url": "https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY"
+      },
+      "artists": [
+        {
+          "name": "Karakou",
+          "url": "https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Sakerna som kan ta slut",
+      "url": "https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "luminary rainbows",
-        "url": "https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr"
-      },
-      "artists": [
-        {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
-        }
-      ],
-      "duration_ms": 292408,
-      "name": "luminary rainbows",
-      "url": "https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Ce Soir?",
         "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 198005,
       "name": "Ce Soir?",
       "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "luminary rainbows",
+        "url": "https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 292408,
+      "name": "luminary rainbows",
+      "url": "https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1335,6 +1335,22 @@
       "duration_ms": 150170,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Figure Out",
+        "url": "https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2"
+      },
+      "artists": [
+        {
+          "name": "Then Argus",
+          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
+        }
+      ],
+      "duration_ms": 183843,
+      "name": "Figure Out",
+      "url": "https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Figure Out",
-        "url": "https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2"
-      },
-      "artists": [
-        {
-          "name": "Then Argus",
-          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
-        }
-      ],
-      "duration_ms": 183843,
-      "name": "Figure Out",
-      "url": "https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "HON SA",
         "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
       },
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv"
+      },
+      "artists": [
+        {
+          "name": "IRMELI",
+          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
+        }
+      ],
+      "duration_ms": 132126,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Havet",
         "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
       },
@@ -1499,26 +1515,6 @@
       "duration_ms": 262976,
       "name": "Havet",
       "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Aff\u00e4ren (feat. Dolce)",
-        "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
-      },
-      "artists": [
-        {
-          "name": "Tjejdikter",
-          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
-        },
-        {
-          "name": "Dolce",
-          "url": "https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Aff\u00e4ren (feat. Dolce)",
-      "url": "https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx"
     }
   ],
   "unique_name": "p\u00e5 repeat",

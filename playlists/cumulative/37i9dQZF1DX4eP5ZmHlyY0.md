@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: KID PHENOMENON from EXILE TRIBE
 
-338 songs - 19 hr 32 min
+339 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Ocean](https://open.spotify.com/track/46UQWck0zzo98vT3I9nlxb) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva) | [Ocean](https://open.spotify.com/album/6ajt1XhJpEPr2aD2nb9LC6) | 2:28 | 2024-07-09 | 2024-09-19 |
 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 | 2023-12-19 | 2024-04-04 |
 | [OLD SCHOOL HUSTLE](https://open.spotify.com/track/2N9hMxfWXkmb5eaTFRY74j) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/3gAzzb2vZTvmDUbljdEDY1) | 2:59 | 2024-07-26 | 2024-07-31 |
+| [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2024-10-14 |  |
 | [ONE DAY](https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy) | 3:54 | 2024-04-09 | 2024-04-24 |
 | [OVERDRIVE](https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [OVERDRIVE](https://open.spotify.com/album/3VvUSMv126FUn8tyMak8WQ) | 3:18 | 2024-07-30 | 2024-09-04 |
 | [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 | 2024-03-05 | 2024-05-03 |
@@ -317,7 +318,7 @@
 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 | 2024-01-09 | 2024-02-01 |
 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 | 2023-11-23 | 2024-01-03 |
 | [ハピダン](https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ハピダン](https://open.spotify.com/album/1eBdG7mDWLP8VAhGaAlFyL) | 3:08 | 2023-11-23 | 2023-11-25 |
-| [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 | 2024-07-30 |  |
+| [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 | 2024-07-30 | 2024-10-15 |
 | [フレテ](https://open.spotify.com/track/5nyG0wVakDTYiqZMQGaUta) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [フレテ](https://open.spotify.com/album/2RGxcd9HcRGn2icyENk0u6) | 3:41 | 2024-04-16 | 2024-04-24 |
 | [ブサイ句なLove Song](https://open.spotify.com/track/2sKkEscUrrlKSVnvIWO0VH) | [学芸大青春](https://open.spotify.com/artist/64D6gZuhWsQqJlQ0hA6qGV) | [ブサイ句なLove Song](https://open.spotify.com/album/5rEBcg6jB7FWXIbQaOnRtz) | 4:00 | 2024-07-09 | 2024-07-27 |
 | [ブルーシャワー](https://open.spotify.com/track/4gne8ysQWECG4dc31eOxns) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ブルーシャワー](https://open.spotify.com/album/38W4W4LeARf30PZbkaCNzM) | 3:45 | 2024-04-23 | 2024-05-29 |

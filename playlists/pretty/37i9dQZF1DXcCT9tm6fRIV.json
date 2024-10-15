@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 241677,
+  "num_followers": 241696,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
-      },
-      "artists": [
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        },
-        {
-          "name": "Baffa-Berlingieri",
-          "url": "https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd"
-        }
-      ],
-      "duration_ms": 176880,
-      "name": "Pompas de Jab\u00f3n",
-      "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 221934,
       "name": "Chiquil\u00edn de Bach\u00edn",
       "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+        },
+        {
+          "name": "Baffa-Berlingieri",
+          "url": "https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Pompas de Jab\u00f3n",
+      "url": "https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "70 A\u00f1os de Tango",
         "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 177977,
       "name": "Sur",
       "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Detr\u00e1s de los Cerros",
-        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
+        "name": "Piazzolla & Amelita Baltar",
+        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
       },
       "artists": [
         {
-          "name": "Orquesta Los Crayones",
-          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         }
       ],
-      "duration_ms": 190615,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
+      "duration_ms": 276093,
+      "name": "Las Ciudades",
+      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1247,42 +1251,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+        "name": "Detr\u00e1s de los Cerros",
+        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
       },
       "artists": [
         {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+          "name": "Orquesta Los Crayones",
+          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
         }
       ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Piazzolla & Amelita Baltar",
-        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Las Ciudades",
-      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
+      "duration_ms": 190615,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1299,6 +1279,26 @@
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
+      },
+      "artists": [
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        }
+      ],
+      "duration_ms": 158487,
+      "name": "Desencuentro",
+      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "El Tango",
-        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
-      },
-      "artists": [
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        }
-      ],
-      "duration_ms": 158487,
-      "name": "Desencuentro",
-      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
     },
     {
       "added_at": "2024-08-02 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "This is Skillet. The essential tracks, all in one playlist.",
+  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
   "name": "This Is Skillet",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 242193,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 208233,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa"

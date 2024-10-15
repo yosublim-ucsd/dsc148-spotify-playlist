@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Marama, Nahuel Pennisi y Los Nocheros.
 
-181 songs - 10 hr 6 min
+182 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 | 2021-12-31 |  |
 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 | 2022-07-01 | 2024-04-19 |
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2021-12-31 |  |
+| [El Bailongo en Lo del Rengo](https://open.spotify.com/track/4JbQUJ6o0M80Q3GgvL87is) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 1:53 | 2024-10-14 |  |
 | [El Buen Amor](https://open.spotify.com/track/2CIKfgKkXhzkBwLhKGvstL) | [Andrés Clerc](https://open.spotify.com/artist/1OR1n8BM2O2WcV33F9M6hf), [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [El Buen Amor](https://open.spotify.com/album/2s5IEssk2imk49CDHNRFdA) | 3:14 | 2022-07-01 | 2024-09-27 |
 | [El Coya Dance](https://open.spotify.com/track/7oOFKgqS3oKmiBzMf5ODDq) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Carnavalito](https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH) | 2:35 | 2021-12-31 | 2022-04-29 |
 | [El Mismo Aire](https://open.spotify.com/track/6AAjuNnSGoXZZEZg5s17dv) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 2:47 | 2022-02-25 | 2024-08-17 |
@@ -111,7 +112,7 @@
 | [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Me Dicen La Carbonera](https://open.spotify.com/track/6Fh1wejYBoCiGDsbbkqT3m) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Me Dicen La Carbonera](https://open.spotify.com/album/72iTlanlX1X4kP8cYqv72X) | 2:31 | 2023-11-10 |  |
 | [Mi Fe](https://open.spotify.com/track/3SeELV9ls4SHFg6bsbNqW6) | [Los Rojas](https://open.spotify.com/artist/2Jro2lFfaK1LiUIIY8Ff48) | [Mi Fe](https://open.spotify.com/album/6OT3Ld1cSlVqhH7VoyYRmj) | 2:13 | 2021-12-31 |  |
-| [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
+| [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 | 2024-10-15 |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U) | 2:29 | 2022-07-01 | 2023-06-29 |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3qsDt6tpHNSWf7CsFCaOvm) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/4u0P9UEKJZzvU9bULx7LM0) | 2:29 | 2021-12-31 |  |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/5CdVPqzKaMfVNW4n4Kf1ug) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/68VpK263eWI3odk21VUfAt) | 2:29 | 2023-06-02 | 2024-04-19 |

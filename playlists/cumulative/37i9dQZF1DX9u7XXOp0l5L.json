@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -561,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ZfHkwHuoAZrlz7RMj0PDz"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD"
+    },
+    {
+      "album": {
         "name": "Blurred Lines (Deluxe)",
         "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
       },
@@ -878,7 +914,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 224673,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD"
@@ -1670,10 +1706,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 495400,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "album": {
+        "name": "Good Vibrations 40th Anniversary",
+        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
     },
     {
       "album": {
@@ -2161,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/0BUUt7nGsT6yp0nfvIuJi4"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "Jive Talkin'",
+      "url": "https://open.spotify.com/track/43LKyAhF9KyHnWROYtTY8s"
+    },
+    {
+      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
       },
@@ -2274,7 +2346,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 242200,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki"
@@ -2984,7 +3056,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 218093,
       "name": "Push The Button",
       "url": "https://open.spotify.com/track/3EDS89HeAhHiZKlljciK0a"
@@ -3266,7 +3338,7 @@
       ],
       "date_added": "2019-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
@@ -3606,7 +3678,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 203893,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
@@ -4139,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/6eEQ0sXVp92CmSL5SsfvY3"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168704,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/5cppeoXfiK59UEsEeOvuNo"
+    },
+    {
+      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -4270,6 +4360,32 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "album": {
+        "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
       "album": {

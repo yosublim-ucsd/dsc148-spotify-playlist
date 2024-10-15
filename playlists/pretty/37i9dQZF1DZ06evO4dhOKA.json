@@ -1,12 +1,12 @@
 {
   "description": "This Is Lalo Mora. Los temas esenciales, todos en una lista.",
-  "num_followers": 60280,
+  "num_followers": 60302,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAADsXNoMBl/5nCqS7aJ8mrO7",
+  "snapshot_id": "ZwsNgAAAAAAlK6KWIOW0RPLPh0GLEl59",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Corridos Bien Perrones",
         "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 197026,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X Aniversario",
-        "url": "https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 196385,
-      "name": "Se Vale Llorar",
-      "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 168773,
       "name": "Bajo Mil Llaves - En Vivo",
       "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Aniversario",
+        "url": "https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 196385,
+      "name": "Se Vale Llorar",
+      "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
     },
     {
       "added_at": null,

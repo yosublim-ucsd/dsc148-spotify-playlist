@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 201169,
+  "num_followers": 201329,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zwm8AAAAAAC5G4/debvdfk7Dog7YaJ3G",
+  "snapshot_id": "ZwsNgAAAAACHR6li5VH0QXPJM/jqzSKl",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't be sad",
-        "url": "https://open.spotify.com/album/08Usy71SUwQRT09A7LTTgg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 143672,
-      "name": "don't be sad",
-      "url": "https://open.spotify.com/track/02iW5boMzeBDVRI0dRE1Yw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/7jSZ6v4skvnBDh2ezEjPk3"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 216854,
       "name": "Drown",
       "url": "https://open.spotify.com/track/7zmGroa83F8IqoGdN36Anr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't be sad",
+        "url": "https://open.spotify.com/album/08Usy71SUwQRT09A7LTTgg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 143672,
+      "name": "don't be sad",
+      "url": "https://open.spotify.com/track/02iW5boMzeBDVRI0dRE1Yw"
     },
     {
       "added_at": null,

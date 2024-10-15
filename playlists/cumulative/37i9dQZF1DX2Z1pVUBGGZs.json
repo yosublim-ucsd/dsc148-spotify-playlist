@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "mine",
+        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196910,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
+    },
+    {
+      "album": {
         "name": "miss american dream",
         "url": "https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW"
       },

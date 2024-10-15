@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Errani e Paolini, trionfo a Pechino 🎾 Musica per non smettere mai di crederci 🏆 💪🏋️
+> Musica per non smettere mai di crederci 🏆 💪🏋️
 
 313 songs - 16 hr 30 min
 

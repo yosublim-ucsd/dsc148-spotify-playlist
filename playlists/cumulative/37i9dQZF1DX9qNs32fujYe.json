@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Seven Hours After Violet",
+        "url": "https://open.spotify.com/album/1lX1WLkZj0J2cp8e6aRtNU"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217859,
+      "name": "Cry....",
+      "url": "https://open.spotify.com/track/68AKlqDGwyC4jZhport6O6"
+    },
+    {
+      "album": {
         "name": "Metal Health",
         "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 272467,
       "name": "Hail To The King",
       "url": "https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l"

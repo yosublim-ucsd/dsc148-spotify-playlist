@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park)",
-  "num_followers": 1013947,
+  "num_followers": 1013861,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-14 02:37:30",
       "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2024-10-14 02:37:30",
-      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
+    {
+      "added_at": "2024-10-14 02:37:30",
+      "album": {
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
       "added_at": "2024-10-14 02:37:30",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-10-14 02:37:30",
       "album": {
-        "name": "Roses/Dandelion",
-        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
-    },
-    {
-      "added_at": "2024-10-14 02:37:30",
-      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 206613,
       "name": "Magic (Feat. JULIE of KISS OF LIFE)",
       "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
+    },
+    {
+      "added_at": "2024-10-14 02:37:30",
+      "album": {
+        "name": "Roses/Dandelion",
+        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
     },
     {
       "added_at": "2024-10-14 02:37:30",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-10-14 02:37:30",
       "album": {
-        "name": "Horizon - NCT LAB",
-        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 222706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2024-10-14 02:37:30",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-10-14 02:37:30",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
+      "duration_ms": 221680,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
     },
     {
       "added_at": "2024-10-14 02:37:30",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-10-14 02:37:30",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+        "name": "Horizon - NCT LAB",
+        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 221680,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
+      "duration_ms": 222706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
       "added_at": "2024-10-14 02:37:30",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2024-10-14 02:37:30",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 194320,
-      "name": "Wishing On You",
-      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
     }
   ],
   "unique_name": "TrenChill K-R&B",

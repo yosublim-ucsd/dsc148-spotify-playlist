@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129690,
+  "num_followers": 129696,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-10-14 01:00:00",
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
-    },
-    {
-      "added_at": "2024-10-14 01:00:00",
-      "album": {
-        "name": "Moonlit Floor",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2024-10-14 01:00:00",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+    },
+    {
+      "added_at": "2024-10-14 01:00:00",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2024-10-14 01:00:00",
-      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2024-10-14 01:00:00",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2024-10-14 01:00:00",
+      "album": {
         "name": "Room For You",
         "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
-    },
-    {
-      "added_at": "2024-10-14 01:00:00",
-      "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
+        "name": "Anything You Want",
+        "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 123556,
+      "name": "Anything You Want",
+      "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
+    },
+    {
+      "added_at": "2024-10-14 01:00:00",
+      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2024-10-14 01:00:00",
-      "album": {
-        "name": "Anything You Want",
-        "url": "https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 123556,
-      "name": "Anything You Want",
-      "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 202356,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
-    },
-    {
-      "added_at": "2024-10-14 01:00:00",
-      "album": {
         "name": "When I Get Old",
         "url": "https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 184732,
       "name": "When I Get Old",
       "url": "https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y"
+    },
+    {
+      "added_at": "2024-10-14 01:00:00",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 202356,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
-        "name": "can't slow down",
-        "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 175720,
-      "name": "can't slow down",
-      "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
     {
       "added_at": "2024-10-14 01:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-10-14 01:00:00",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+        "name": "can't slow down",
+        "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
+      "duration_ms": 175720,
+      "name": "can't slow down",
+      "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
     },
     {
       "added_at": "2024-10-14 01:00:00",

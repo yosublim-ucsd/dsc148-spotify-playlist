@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & La T y La M.",
-  "num_followers": 1162606,
+  "num_followers": 1162628,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         }
       ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "ELEUSECA",
-        "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
+        "name": "Lo Mejor del Amor",
+        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 136956,
-      "name": "ELEUSECA",
-      "url": "https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j"
+      "duration_ms": 167600,
+      "name": "Lo Mejor del Amor",
+      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1319,6 +1323,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "ELEUSECA",
+        "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "ELEUSECA",
+      "url": "https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Lo Mejor del Amor",
-        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Lo Mejor del Amor",
-      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1763,6 +1763,50 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Noche de Buenos Besos",
+        "url": "https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noche de Buenos Besos",
+      "url": "https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Prometiste Amor",
+        "url": "https://open.spotify.com/album/1sWE0CF50f2TzggG9txtoJ"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 135758,
+      "name": "Prometiste Amor",
+      "url": "https://open.spotify.com/track/444vRj4BYxrYalfAePwxRt"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Las 5",
         "url": "https://open.spotify.com/album/47h4ZaYwptWYx7jRYlKhJJ"
       },
@@ -1791,50 +1835,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Prometiste Amor",
-        "url": "https://open.spotify.com/album/1sWE0CF50f2TzggG9txtoJ"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 135758,
-      "name": "Prometiste Amor",
-      "url": "https://open.spotify.com/track/444vRj4BYxrYalfAePwxRt"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Noche de Buenos Besos",
-        "url": "https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "Dj Ronel",
-          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Noche de Buenos Besos",
-      "url": "https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Cumbia Cheta",
         "url": "https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn"
       },
@@ -1851,6 +1851,26 @@
       "duration_ms": 151500,
       "name": "Cumbia Cheta",
       "url": "https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Noche Fr\u00eda",
+        "url": "https://open.spotify.com/album/2GCWhv07264jkFMVI0NCX3"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1887,26 +1907,6 @@
       "duration_ms": 197161,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Noche Fr\u00eda",
-        "url": "https://open.spotify.com/album/2GCWhv07264jkFMVI0NCX3"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 184356,
-      "name": "Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1951,22 +1951,50 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "DEFINITIVA",
-        "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
+        "name": "Sin Valent\u00edn",
+        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
       "artists": [
         {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         },
         {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 192111,
-      "name": "DEFINITIVA",
-      "url": "https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb"
+      "duration_ms": 161874,
+      "name": "Sin Valent\u00edn",
+      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Te Olvidare en Silencio",
+        "url": "https://open.spotify.com/album/6oeVv8NbgkgGvALDrjoYsq"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 132527,
+      "name": "Te Olvidare en Silencio",
+      "url": "https://open.spotify.com/track/0Pr4sf4XaiGo1Fvoe7mLmm"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -2003,30 +2031,6 @@
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Te Olvidare en Silencio",
-        "url": "https://open.spotify.com/album/6oeVv8NbgkgGvALDrjoYsq"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 132527,
-      "name": "Te Olvidare en Silencio",
-      "url": "https://open.spotify.com/track/0Pr4sf4XaiGo1Fvoe7mLmm"
     },
     {
       "added_at": "2024-10-11 03:00:00",

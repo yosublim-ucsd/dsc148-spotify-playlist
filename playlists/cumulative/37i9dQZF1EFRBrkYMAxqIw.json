@@ -1285,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Alive And Feeling Fine",
+        "url": "https://open.spotify.com/album/6NQRmMazNOKi0IiIXlNzGh"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "The NGHBRS",
+          "url": "https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/1o41lANxFtrJFG5FuTmHfQ"
+    },
+    {
+      "album": {
         "name": "Alive and Feeling Fine",
         "url": "https://open.spotify.com/album/0NhWhLZutLeTq1cpqKfey7"
       },
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-15",
       "duration_ms": 190173,
       "name": "Like I Love You (feat. The NGHBRS)",
       "url": "https://open.spotify.com/track/6sPi3kYHqqNDfbMtGDyfiZ"

@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 77252,
+  "num_followers": 77282,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 563613,
-      "name": "Cool Struttin'",
-      "url": "https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 563613,
+      "name": "Cool Struttin'",
+      "url": "https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Sonny Rollins",
-        "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 478453,
-      "name": "Decision - Remastered 1999",
-      "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+        "name": "Sonny Rollins",
+        "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+      "duration_ms": 478453,
+      "name": "Decision - Remastered 1999",
+      "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Shades Of Redd (Remastered)",
-        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
-      },
-      "artists": [
-        {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "Melanie - Digital Remaster/2007",
-      "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201226,
       "name": "Down Home",
       "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Shades Of Redd (Remastered)",
+        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Melanie - Digital Remaster/2007",
+      "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
     },
     {
       "added_at": "2024-09-03 09:38:03",

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 60829,
+  "num_followers": 60856,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,38 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl"
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Junior Black",
+          "url": "https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa"
         }
       ],
-      "duration_ms": 154710,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
+      "duration_ms": 117667,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1107,42 +1119,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "Junior Black",
-          "url": "https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa"
-        }
-      ],
-      "duration_ms": 117667,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 154710,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
+      },
+      "artists": [
+        {
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
+        }
+      ],
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Wataqui",
         "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 154285,
       "name": "Wataqui",
       "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Barah\u00fanda",
-        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
-      },
-      "artists": [
-        {
-          "name": "Monge",
-          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
-        }
-      ],
-      "duration_ms": 139082,
-      "name": "Barah\u00fanda",
-      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1791,26 +1791,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ya Me Voy",
-        "url": "https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt"
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
       },
       "artists": [
         {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
         },
         {
-          "name": "Franklyn Watts",
-          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
-        },
-        {
-          "name": "Fuzzy Cufflinxxx",
-          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Ya Me Voy",
-      "url": "https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7"
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1831,22 +1827,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "Ya Me Voy",
+        "url": "https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "Franklyn Watts",
+          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+        },
+        {
+          "name": "Fuzzy Cufflinxxx",
+          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 205161,
+      "name": "Ya Me Voy",
+      "url": "https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1959,6 +1959,30 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Abra (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/7mgE77YtjcOFQiYKsu07ZQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 132824,
+      "name": "Abra (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/1rEbr1mNQaZZmed7qrC2zt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Esta Pegao",
         "url": "https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1"
       },
@@ -1975,26 +1999,6 @@
       "duration_ms": 150967,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Atardecer",
-        "url": "https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "NIINE",
-          "url": "https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8"
-        }
-      ],
-      "duration_ms": 131520,
-      "name": "Atardecer",
-      "url": "https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2"
     }
   ],
   "unique_name": "Latin House",

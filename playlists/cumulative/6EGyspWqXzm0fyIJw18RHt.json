@@ -153,6 +153,64 @@
     },
     {
       "album": {
+        "name": "Ghostbusters",
+        "url": "https://open.spotify.com/album/2FKg8WOQtN015jM0eiKrNz"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245973,
+      "name": "Ghostbusters - From \"Ghostbusters\"",
+      "url": "https://open.spotify.com/track/7MnxdIXJd4N4mHCTPNKhkX"
+    },
+    {
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "album": {
+        "name": "Embers of Beauty",
+        "url": "https://open.spotify.com/album/0Unube3XUOtZsDhXGmQ3yQ"
+      },
+      "artists": [
+        {
+          "name": "Moon Sisters",
+          "url": "https://open.spotify.com/artist/1ShxlsSSCyVCcrmXBd6Djf"
+        },
+        {
+          "name": "The Nostalgia Girls",
+          "url": "https://open.spotify.com/artist/0cgD9eoyZxiDAIPuWEqIm4"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100963,
+      "name": "Hex Girl",
+      "url": "https://open.spotify.com/track/4NFMIIgeniFgNfsB8Uj9Ta"
+    },
+    {
+      "album": {
         "name": "O R\u2019lyeh? I\u00e4, R\u2019lyeh!",
         "url": "https://open.spotify.com/album/7wuZENcvYK7TzE84CAqBjs"
       },
@@ -207,6 +265,42 @@
     },
     {
       "album": {
+        "name": "Monster Mash",
+        "url": "https://open.spotify.com/album/4t1p121vxYXR1qJfoOwtHQ"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/6GmL39a9OazWtyMkAbJz7v"
+    },
+    {
+      "album": {
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l"
+      },
+      "artists": [
+        {
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj"
+    },
+    {
+      "album": {
         "name": "Rough and Rowdy Ways",
         "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
       },
@@ -240,6 +334,60 @@
       "duration_ms": 227741,
       "name": "Necromancin Dancin",
       "url": "https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd"
+    },
+    {
+      "album": {
+        "name": "Monster Dance Party",
+        "url": "https://open.spotify.com/album/4Ucm5B1SXAUCRuuBFQUPWE"
+      },
+      "artists": [
+        {
+          "name": "Don Hinson & The Rigamorticians",
+          "url": "https://open.spotify.com/artist/6GNXV11gvYYegW2APslNlN"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Riboflavin-Flavored, Non-Carbonated, Polyunsaturated Blood",
+      "url": "https://open.spotify.com/track/1EIcNH1zUEr7sWCNK8Q0km"
+    },
+    {
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "album": {
+        "name": "Songs on the Computer",
+        "url": "https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH"
+      },
+      "artists": [
+        {
+          "name": "Nick Lutsko",
+          "url": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103877,
+      "name": "Spirit Halloween Theme Song",
+      "url": "https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW"
     },
     {
       "album": {
@@ -279,6 +427,42 @@
     },
     {
       "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Tim Curry",
+          "url": "https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204370,
+      "name": "Sweet Transvestite",
+      "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
+    },
+    {
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music",
+        "url": "https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84560,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41"
+    },
+    {
+      "album": {
         "name": "Bee Dee Gee's Hee Bee Bee Gees",
         "url": "https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ"
       },
@@ -312,6 +496,24 @@
       "duration_ms": 209466,
       "name": "Werewolves of London",
       "url": "https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu"
+    },
+    {
+      "album": {
+        "name": "Ooky Spooky",
+        "url": "https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq"
+      },
+      "artists": [
+        {
+          "name": "Aurelio Voltaire",
+          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Zombie Prostitute",
+      "url": "https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit"
     }
   ],
   "url": "https://open.spotify.com/playlist/6EGyspWqXzm0fyIJw18RHt"

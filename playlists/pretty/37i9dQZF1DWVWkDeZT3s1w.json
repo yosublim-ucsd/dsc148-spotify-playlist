@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 104826,
+  "num_followers": 104855,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Hombre (One Shot) [Remix]",
-        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
-      },
-      "artists": [
-        {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
-        },
-        {
-          "name": "Discan",
-          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Hombre (One Shot) - Remix",
-      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Sistema (Remix)",
         "url": "https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 240837,
       "name": "Sistema - Remix",
       "url": "https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Hombre (One Shot) [Remix]",
+        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Discan",
+          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Hombre (One Shot) - Remix",
+      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+      },
+      "artists": [
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
-      },
-      "artists": [
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Despiertas",
-        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
-      },
-      "artists": [
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "Despiertas",
-      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Cuarto De Siglo",
         "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 244177,
       "name": "Cuarto De Siglo",
       "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Despiertas",
+        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "Despiertas",
+      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5"
-      },
-      "artists": [
-        {
-          "name": "Fukin Keno",
-          "url": "https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tiempo Al Tiempo",
-      "url": "https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "REPRE$ENT",
         "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5"
+      },
+      "artists": [
+        {
+          "name": "Fukin Keno",
+          "url": "https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tiempo Al Tiempo",
+      "url": "https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz"
     },
     {
       "added_at": "2024-09-06 06:00:00",

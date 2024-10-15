@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 5 | [Heartworks](https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q) | 2:39 |
 | 6 | [Drunk Enough to Say That I Love You](https://open.spotify.com/track/4dzifrtt5uoB6Blb791hmL) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You](https://open.spotify.com/album/5l7yezoxX1ib8QBR5e4KfF) | 3:42 |
 | 7 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 |
-| 8 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
-| 9 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
+| 8 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
+| 9 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 |
 | 10 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
 | 11 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
 | 12 | [Funeral](https://open.spotify.com/track/4HzfzcuokhG7MqcJKWnSrg) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \- Deluxe](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:05 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 40 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 41 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
 
-Snapshot ID: `AbetCAAAAACrk3thaoEIyOM6B879qkeH`
+Snapshot ID: `AbeyqAAAAAAVfPYG+e+Za3Meql4Uo0JC`

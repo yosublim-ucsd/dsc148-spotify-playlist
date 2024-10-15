@@ -4,7 +4,7 @@
 
 > 日本語、韓国語、英語を巧みに操るトリリンガルラッパー／シンガー、ちゃんみな。独自の観点で時代を切り取るリリックとソリッドなラップが若い音楽ファンを中心に注目を集める彼女のオール・タイム・ベスト。
 
-89 songs - 4 hr 34 min
+90 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Doctor](https://open.spotify.com/track/3qz3m46mqtWEaq4XFthhOs) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Doctor](https://open.spotify.com/album/6dbjtqo0fhhacTIn3gMlIF) | 3:03 | 2023-08-15 |  |
 | [Don't Go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/2suqLGbLbOXB5dXLJQNhWP) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:37 | 2023-08-15 | 2024-04-19 |
 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/7GmxWLGbP4boCu8G1sOaTe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 2:37 | 2024-04-11 |  |
+| [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 | 2024-10-13 |  |
 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-26 |  |
 | [Friend Zone](https://open.spotify.com/track/3q26dR6hz2MXZBLV1HjvUb) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [CHOCOLATE](https://open.spotify.com/album/01wrkUtFTzOt4c4TmkFWat) | 3:08 | 2023-08-15 |  |
 | [FUCK LOVE](https://open.spotify.com/track/0rzkE5QrRa7V9dDpz0C11n) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:49 | 2023-08-15 | 2024-04-19 |

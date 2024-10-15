@@ -2,7 +2,7 @@
 
 ### [LOVE SONGS & CHILL \| TOP 100 SONGS](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
-> The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
+> The top 100 best love songs\. Dream away with the best love songs \. ❤️
 
 208 songs - 12 hr 59 min
 

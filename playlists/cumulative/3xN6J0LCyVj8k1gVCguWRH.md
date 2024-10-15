@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,040 songs - 9 day 11 hr 3 min
+4,042 songs - 9 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [anxious](https://open.spotify.com/track/03KUu2CCe6KFrK8gjNXnUf) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [anxious](https://open.spotify.com/album/31JjibvgnnAIQc3XmSqUml) | 2:45 | 2021-05-03 | 2021-05-20 |
 | [Anymore](https://open.spotify.com/track/2T7gtYzIThdJginLlSJR3m) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Anymore](https://open.spotify.com/album/73moeRMQ3awNQr1AzUDXzv) | 3:30 | 2020-02-12 | 2020-02-21 |
 | [Anyone Can Whistle](https://open.spotify.com/track/3SfyDvZVBwoE62wUe8G4gZ) | [Marya Zimmet](https://open.spotify.com/artist/2x4coUgJdbexlQAPLd5IeU) | [On the Road to Love](https://open.spotify.com/album/0ed1TQNPpdI4Zbp6ivZfM8) | 2:52 | 2021-07-16 | 2021-08-01 |
-| [Anything](https://open.spotify.com/track/2kGkt05RoVzZEK9vfAUhKN) | [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Anything](https://open.spotify.com/album/4wD5wHjGmC2OmReYsALMLO) | 2:17 | 2024-10-03 |  |
+| [Anything](https://open.spotify.com/track/2kGkt05RoVzZEK9vfAUhKN) | [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Anything](https://open.spotify.com/album/4wD5wHjGmC2OmReYsALMLO) | 2:17 | 2024-10-03 | 2024-10-15 |
 | [Anything](https://open.spotify.com/track/1sZsfFqQ9b7y3TKZ8053xg) | [Mark Pelli](https://open.spotify.com/artist/0nhJMRcwWkTzBugKJicOc5) | [Anything](https://open.spotify.com/album/1TTeDQLsUdfZGOPwtAejFx) | 3:12 | 2020-08-20 | 2020-09-04 |
 | [Anything at All](https://open.spotify.com/track/3BHxygHLzeD4E0e2aOvUnZ) | [Dennis Ellsworth](https://open.spotify.com/artist/3YZWrLzjRyroaj0DVpPEFd) | [Common Senseless](https://open.spotify.com/album/05orIX4AnAgUpjySS59JLR) | 3:54 | 2020-12-11 | 2020-12-26 |
 | [Anything for you](https://open.spotify.com/track/2IxgTJhO6jDEPXhIJUe7Gt) | [Yasmin Sydney](https://open.spotify.com/artist/2T3HsX4fhlZ8RNGqtVSZsC) | [Anything for you](https://open.spotify.com/album/6mOZ1ezzVVkmgWKGX6dRaG) | 3:12 | 2024-08-05 | 2024-08-15 |
@@ -956,6 +956,7 @@
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/7LRmDx4pMTQuOBBwRT1MCT) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Plead The 5th](https://open.spotify.com/album/56as8vSyIlRSTNoCgIJb4S) | 3:27 | 2020-08-20 | 2021-06-08 |
 | [Don't Say Goodbye](https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK) | 3:11 | 2019-10-09 | 2019-10-24 |
 | [Don't Stop](https://open.spotify.com/track/2uGlJ9lXs38UHnZWXcNk3C) | [45 Riots](https://open.spotify.com/artist/5cYyRSD0PnQjQLeTTACdVx), [Tyrik Ballard](https://open.spotify.com/artist/7DeISeiT53I2cjTEM4rpTG) | [Don't Stop](https://open.spotify.com/album/0Kmj4eZhHt1gyd1mmup6vp) | 2:35 | 2024-08-22 | 2024-09-02 |
+| [Don't Stop](https://open.spotify.com/track/4hVwfXGthJSmD5XOUHAUMF) | [Xero Music](https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd) | [Hood Boy Blues](https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf) | 3:22 | 2024-10-14 |  |
 | [Don't Trip](https://open.spotify.com/track/7DaEQTp3aHWqoXPG5MzdZl) | [Swelles](https://open.spotify.com/artist/3uRgUVvZ1p7oI1TLXwdKDl) | [Don't Trip](https://open.spotify.com/album/0mBX59kZ2z4wgbVvQtc0vq) | 2:50 | 2024-08-04 | 2024-08-16 |
 | [Don't Understand Why](https://open.spotify.com/track/038lrvLY3wWNxs4kQvgvgt) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [Don't Understand Why](https://open.spotify.com/album/5vq0A4GmKfJMKUGDhsDU4x) | 3:16 | 2024-05-18 | 2024-06-01 |
 | [Don't Walk Away](https://open.spotify.com/track/3blXEcEhVdb5k1tU8vIRol) | [Henry Aberson](https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G), [Jae Franklin](https://open.spotify.com/artist/4h4QCr7F35RDl59EbzfvY6), [Chris Campbell](https://open.spotify.com/artist/2F1lLjPmaF7n9zIYNvfF0f), [Cortez Johnson](https://open.spotify.com/artist/422UcSw4Z8Cqxyt24vGqTI) | [Don't Walk Away](https://open.spotify.com/album/4Efsth889W0V4adLUrrDR7) | 2:25 | 2023-07-14 | 2023-08-02 |
@@ -1563,6 +1564,7 @@
 | [Hold On](https://open.spotify.com/track/4NFg6HYKa0qj3Mv9a7Imzy) | [Maggie Reitan](https://open.spotify.com/artist/53DXlWD6ae0k30EAV6t5rk) | [Hold On](https://open.spotify.com/album/5DwDBcLVD2vpDOrzIaNlz8) | 3:20 | 2024-08-03 | 2024-08-15 |
 | [Hold On \(Change Is Comin'\)](https://open.spotify.com/track/3hl063NQxiuWyymhgaLf92) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Time For Healing](https://open.spotify.com/album/4hXec8HEn4R03xC3n2JDlf) | 4:20 | 2019-09-29\* | 2021-11-19 |
 | [Hold on to Me](https://open.spotify.com/track/7HfDcoZpW64alWikM7SWby) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Hold on to Me](https://open.spotify.com/album/4hNDyFz5uInKoR5FHpGyM3) | 3:40 | 2023-01-20 | 2023-02-11 |
+| [Hold Tight](https://open.spotify.com/track/4q7Vak7esNrzPQeDGT42qE) | [Bronx Soul Collective](https://open.spotify.com/artist/780eu4RGJcEvncrGnujoiW) | [Hold Tight](https://open.spotify.com/album/0YeN1Ug8pkXggdCg0ITvsD) | 3:16 | 2024-10-14 |  |
 | [Hold Your Lights Up](https://open.spotify.com/track/2BaoHGdwp5JVfqD9se6Un8) | [Kugman](https://open.spotify.com/artist/1KznfqgZOIhm5NpIC3IbzK) | [In My Way](https://open.spotify.com/album/4P7Xx3jrgtmrfsBU5ZFNFZ) | 4:24 | 2020-12-04 | 2020-12-19 |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2021-07-11 | 2024-04-21 |
 | [Holiday](https://open.spotify.com/track/0aF6uG5TmGKHdw3npNzoYm) | [Arianna Tsar](https://open.spotify.com/artist/62cSPuCVcFqdRrMMyguEC0) | [Holiday](https://open.spotify.com/album/0YhuSxNLbuesVoHZ4mgLQk) | 4:06 | 2023-12-01 | 2023-12-19 |
@@ -2594,7 +2596,7 @@
 | [one life, might live](https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:34 | 2020-08-20 | 2023-02-12 |
 | [one life, might live](https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:34 | 2023-07-21 | 2023-08-28 |
 | [One More](https://open.spotify.com/track/2zYoV7AkU76naZH26oFWJX) | [Adonis Bosso](https://open.spotify.com/artist/4HVUEF1MeCxJssoDsVMZy6), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [One More](https://open.spotify.com/album/5vHJDKOrdE4D7Hphndp5CH) | 4:02 | 2024-08-10 | 2024-08-23 |
-| [One More Change](https://open.spotify.com/track/7KOOTo9OlBH9DuN6rYbOVL) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [One More Change](https://open.spotify.com/album/1EaDcTXc8A4bFxk91lyBXm) | 2:20 | 2024-10-03 |  |
+| [One More Change](https://open.spotify.com/track/7KOOTo9OlBH9DuN6rYbOVL) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [One More Change](https://open.spotify.com/album/1EaDcTXc8A4bFxk91lyBXm) | 2:20 | 2024-10-03 | 2024-10-15 |
 | [One More Night](https://open.spotify.com/track/6P1JCV5JYg75u7YLq79BZc) | [Tessa Dalton](https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA) | [One More Night](https://open.spotify.com/album/3YZaDQREdy6DYgrrog6r2j) | 2:59 | 2024-05-25 | 2024-06-06 |
 | [One More Show](https://open.spotify.com/track/0d590dl0m0wDgOp9JpcsWV) | [Zach Bellas](https://open.spotify.com/artist/7H7cCi7OFGIehFeEdUufnt) | [One More Show](https://open.spotify.com/album/6a2xNdUkPXQrCmWF4OooZh) | 5:47 | 2024-09-26 | 2024-10-08 |
 | [One More Szn](https://open.spotify.com/track/1VT2y4ffCimUcjzfi7vjPS) | [WhitMo](https://open.spotify.com/artist/1pacBSmBxfwndRD8ulFjy3), [Mark Anthony](https://open.spotify.com/artist/5YjFotPhzSEnq1TaukuCQM) | [One More Szn](https://open.spotify.com/album/4C2PHcs4ASj9IJq6YdnvY3) | 3:17 | 2022-07-08 | 2022-07-27 |

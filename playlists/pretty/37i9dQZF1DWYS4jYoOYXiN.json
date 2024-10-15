@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 86997,
+  "num_followers": 87022,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Joey",
-        "url": "https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R"
+        "name": "I Like it Like That",
+        "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
       },
       "artists": [
         {
-          "name": "Joey Pastrana and His Orchestra",
-          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
         }
       ],
-      "duration_ms": 452373,
-      "name": "That's How Rumors Start",
-      "url": "https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe"
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R"
+      },
+      "artists": [
+        {
+          "name": "Joey Pastrana and His Orchestra",
+          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
+        }
+      ],
+      "duration_ms": 452373,
+      "name": "That's How Rumors Start",
+      "url": "https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "The Original Gangster",
         "url": "https://open.spotify.com/album/0Csv84dozue6SsmJxp9t2Y"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 321120,
       "name": "Eso Se Baila Asi",
       "url": "https://open.spotify.com/track/71pNDcd8132efh1p56PwUP"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "I Like it Like That",
-        "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
     },
     {
       "added_at": "2024-07-18 20:57:58",

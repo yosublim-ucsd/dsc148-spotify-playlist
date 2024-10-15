@@ -4,7 +4,7 @@
 
 > The African & Caribbean diaspora united\. Cover: Tyla
 
-538 songs - 1 day 4 hr 6 min
+539 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Distraction](https://open.spotify.com/track/51QvwLSOGEwOSNy1Di1RWD) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Distraction](https://open.spotify.com/album/2LwjCBojut6TtVqVikHO98) | 2:45 | 2023-07-21 | 2023-07-28 |
 | [Disturbing London Presents: Drip \(feat\. Tinie Tempah, Yxng Bane, Poundz, Ivorian Doll & The FaNaTiX\)](https://open.spotify.com/track/0FXAO3SeKt0jvvZWV7H8we) | [Disturbing London](https://open.spotify.com/artist/4S0NUtf6phGKjok1Km4y71), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK), [Poundz](https://open.spotify.com/artist/2jItxZsB8PA3vday7b0RLT), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1) | [Disturbing London Presents: Drip \(feat\. Tinie Tempah, Yxng Bane, Poundz, Ivorian Doll & The FaNaTiX\)](https://open.spotify.com/album/55XwTGyshcUBsK4etpcTV0) | 3:14 | 2022-02-28 | 2022-03-09 |
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-05-15 | 2023-07-21 |
-| [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2024-01-22 |  |
+| [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2024-01-22 | 2024-10-15 |
 | [DND](https://open.spotify.com/track/1IiQweiewfxYZ8Z78AtQnR) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [DND](https://open.spotify.com/album/6c6tV7K0jycgYp5KXwlP25) | 3:03 | 2023-07-27 | 2023-08-04 |
 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 | 2022-03-21 | 2022-07-18 |
 | [Dog Mout](https://open.spotify.com/track/5nWeo7ARPdLB2yJLEgH2D5) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Dog Mout](https://open.spotify.com/album/7i2e8sYjRNrJqNVKgmxaKo) | 3:32 | 2022-11-21 | 2023-02-01 |
@@ -404,6 +404,7 @@
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-03 | 2023-08-19 |
 | [Rewind](https://open.spotify.com/track/41NP4B0giu92OZIrR75vZh) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Rewind](https://open.spotify.com/album/2wz2qL6NmKPmD4n6d2cQ58) | 2:43 | 2022-05-06 | 2022-06-23 |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-15 | 2024-07-13 |
+| [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-10 |  |
 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 | 2022-01-24 | 2022-07-29 |
 | [Rio Grande](https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Rio Grande](https://open.spotify.com/album/1KQNMs6pSnaIuyBVi3r0Gh) | 2:58 | 2024-04-26 | 2024-06-04 |
 | [Rise](https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Rise](https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU) | 3:00 | 2022-08-18 | 2022-09-17 |

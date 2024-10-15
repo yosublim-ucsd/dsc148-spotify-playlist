@@ -19861,6 +19861,24 @@
     },
     {
       "album": {
+        "name": "sempiternal",
+        "url": "https://open.spotify.com/album/1wzXfVzGmt2ITohMtebcxe"
+      },
+      "artists": [
+        {
+          "name": "jcSubterfuge",
+          "url": "https://open.spotify.com/artist/00xOgISXmnMDZ8NoU7SGUL"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226868,
+      "name": "sempiternal",
+      "url": "https://open.spotify.com/track/3MImOdjfbzzFG3EYywSYT1"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/1P8HAK4lKl0X0Td3S1hAA8"
       },

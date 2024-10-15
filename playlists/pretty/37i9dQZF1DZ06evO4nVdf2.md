@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 ### [This Is Ximena Sariñana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nVdf2)
 
-> This Is Ximena Sariñana\. Los temas esenciales, todos en una lista.
+> This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,155 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,168 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 8 | [Godzilla \(feat\. Enrique Bunbury & Ximena Sariñana\)](https://open.spotify.com/track/7rbsQlwPWCnz72GdzVOi9h) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuclear](https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM) | 5:14 |
 | 9 | [Bombas](https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Bombas](https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV) | 4:05 |
 | 10 | [Histéricos](https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:33 |
-| 11 | [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 |
-| 12 | [Una Vez Más](https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 4:05 |
+| 11 | [Una Vez Más](https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 4:05 |
+| 12 | [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 |
 | 13 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 14 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
 | 15 | [Se Fue \- Con Ximena Sariñana y Elsa y Elmar](https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Se Fue \(Con Ximena Sariñana y Elsa y Elmar\)](https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K) | 4:07 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 21 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
 | 22 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
 | 23 | [Sin Ti No Puede Estar Tan Mal](https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:35 |
-| 24 | [Ojos Diamante](https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51) | 2:43 |
-| 25 | [Si Esto Es](https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 2:43 |
+| 24 | [Si Esto Es](https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 2:43 |
+| 25 | [Ojos Diamante](https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51) | 2:43 |
 | 26 | [Mediocre](https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:16 |
 | 27 | [Feliz Breakup](https://open.spotify.com/track/4VzzMRP8dhR7I5wK79oAWC) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Feliz Breakup](https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0) | 3:27 |
 | 28 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Valió la Pena](https://open.spotify.com/track/11C98dOgAwFCQPgg8KFgoO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol) | 2:46 |
 | 50 | [No Te Vayas](https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Te Vayas](https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb) | 3:26 |
 
-Snapshot ID: `Zwm8AAAAAAAsGdf8/s2kvr51Ttu+cnc9`
+Snapshot ID: `ZwsNgAAAAABNFoPINrFvImHJWArC2aGd`

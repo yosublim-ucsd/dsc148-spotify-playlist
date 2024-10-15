@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a> y <a href="spotify:artist:0rOLLmeuTbBAx7YKcVEECH">Gabriel EMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,604 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,614 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

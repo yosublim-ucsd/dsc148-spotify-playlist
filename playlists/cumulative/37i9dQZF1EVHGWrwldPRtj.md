@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVHGWrwldPRtj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Chill\-mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [Микс для релакса](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a> en meer
+> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a> и не только
 
 602 songs - 1 day 10 hr 2 min
 
