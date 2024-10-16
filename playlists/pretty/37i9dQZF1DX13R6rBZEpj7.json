@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 228258,
+  "num_followers": 228399,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -515,30 +515,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "DIY",
-        "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
-      },
-      "artists": [
-        {
-          "name": "Coki",
-          "url": "https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG"
-        },
-        {
-          "name": "Leotrix",
-          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 189295,
-      "name": "DIY - Old Skool Mix",
-      "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 118500,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "DIY",
+        "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
+      },
+      "artists": [
+        {
+          "name": "Coki",
+          "url": "https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG"
+        },
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "DIY - Old Skool Mix",
+      "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Affiliation",
         "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
@@ -1367,18 +1351,42 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
       "artists": [
         {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         }
       ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "This Sound",
+        "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
+      },
+      "artists": [
+        {
+          "name": "My Nu Leng",
+          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k"
+        }
+      ],
+      "duration_ms": 257390,
+      "name": "This Sound",
+      "url": "https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX"
     }
   ],
   "unique_name": "Bassline Bangers",

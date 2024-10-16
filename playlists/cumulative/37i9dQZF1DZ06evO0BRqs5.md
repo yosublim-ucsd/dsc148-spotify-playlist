@@ -2,13 +2,13 @@
 
 ### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is Eir Aoi\. The essential tracks, all in one playlist.
+> This Is Eir Aoi\. Los temas esenciales, todos en una lista.
 
 86 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-29 | 2024-10-02 |
+| [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-29 |  |
 | [AURORA](https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:20 | 2022-06-09 |  |
 | [BEYOND GAZE](https://open.spotify.com/track/1uvrwz8LwsnIWzBDKOCcax) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEYOND GAZE](https://open.spotify.com/album/2B2pcaBnC1VCQgyWcmhNXY) | 4:34 | 2024-07-04 | 2024-09-04 |
 | [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 | 2022-06-09 |  |
@@ -47,7 +47,7 @@
 | [SINGULARITY](https://open.spotify.com/track/0SD34sXHsm29Gm637omcuA) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:42 | 2022-06-11 | 2022-11-26 |
 | [Sora no Katachi](https://open.spotify.com/track/7GhTLLyrrns8UmV6ylKLb0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Sora no Katachi](https://open.spotify.com/album/1LoWkn6WHrpLI7YeBApeN7) | 4:15 | 2024-08-19 |  |
 | [UNLIMITED](https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:36 | 2022-06-09 | 2024-04-24 |
-| [YeLL](https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:20 | 2023-02-11 |  |
+| [YeLL](https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:20 | 2023-02-11 | 2024-10-16 |
 | [ずっとそばで](https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 | 2023-05-19 |  |
 | [アイリス](https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:07 | 2022-06-09 |  |
 | [アカツキ](https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:51 | 2022-06-09 |  |

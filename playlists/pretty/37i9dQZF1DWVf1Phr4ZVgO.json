@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1113755,
+  "num_followers": 1113946,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
+        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Rusty Dusty Blues",
+      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "Platinum Collection",
         "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 175866,
       "name": "Qu'est-ce que tu crois ?",
       "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
-        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
-        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Rusty Dusty Blues",
-      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
     },
     {
       "added_at": "2024-06-03 14:41:08",

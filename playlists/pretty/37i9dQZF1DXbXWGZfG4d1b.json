@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. Foto: Paul HIggs y Conociendo Rusia.",
-  "num_followers": 23590,
+  "num_followers": 23591,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Such A Witch",
-        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Such A Witch",
-      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Mejor Sin Miedo",
         "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Botella",
-        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
       },
       "artists": [
         {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
         }
       ],
-      "duration_ms": 132221,
-      "name": "Botella",
-      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -371,6 +355,22 @@
       "duration_ms": 195760,
       "name": "Una Propuesta",
       "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Botella",
+        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        }
+      ],
+      "duration_ms": 132221,
+      "name": "Botella",
+      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "El Hit",
-        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 193928,
-      "name": "El Hit",
-      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Mojigata",
         "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "El Hit",
+        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 193928,
+      "name": "El Hit",
+      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "VOLVER A CERO",
-        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
-      },
-      "artists": [
-        {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "VOLVER A CERO",
-      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Entre Sombras",
         "url": "https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 220350,
       "name": "La calma del cementerio",
       "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "VOLVER A CERO",
+        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "VOLVER A CERO",
+      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -655,6 +655,38 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Caminar en Cristal",
+        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 144179,
+      "name": "Caminar en Cristal",
+      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Sombra de Tibur\u00f3n",
+        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 195410,
+      "name": "Malos Sentimientos",
+      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "\u00a1COCOLICHE!",
         "url": "https://open.spotify.com/album/0UJ7FMovXa4A7wkB2sxq0R"
       },
@@ -687,38 +719,6 @@
       "duration_ms": 203136,
       "name": "siempre es para siempre",
       "url": "https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Caminar en Cristal",
-        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 144179,
-      "name": "Caminar en Cristal",
-      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Sombra de Tibur\u00f3n",
-        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 195410,
-      "name": "Malos Sentimientos",
-      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Creo que necesito ir a dar una vuelta",
-        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 192137,
-      "name": "Oh my goth",
-      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -855,18 +835,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+        "name": "Creo que necesito ir a dar una vuelta",
+        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+      "duration_ms": 192137,
+      "name": "Oh my goth",
+      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -899,26 +899,6 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Malambo de Acero",
-        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
-      },
-      "artists": [
-        {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        },
-        {
-          "name": "Tom Quintans",
-          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
-        }
-      ],
-      "duration_ms": 164236,
-      "name": "Malambo de Acero",
-      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -939,6 +919,26 @@
       "duration_ms": 205589,
       "name": "de la primavera",
       "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Malambo de Acero",
+        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        },
+        {
+          "name": "Tom Quintans",
+          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
+        }
+      ],
+      "duration_ms": 164236,
+      "name": "Malambo de Acero",
+      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1271,46 +1271,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Turbo",
-        "url": "https://open.spotify.com/album/49tEJtF1IL4DTjIDmGXTSN"
-      },
-      "artists": [
-        {
-          "name": "Lichi",
-          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        },
-        {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Turbo",
-      "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1351,18 +1311,42 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
       "artists": [
         {
-          "name": "Pretoria",
-          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
         }
       ],
-      "duration_ms": 194937,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Turbo",
+        "url": "https://open.spotify.com/album/49tEJtF1IL4DTjIDmGXTSN"
+      },
+      "artists": [
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        },
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
+      },
+      "artists": [
+        {
+          "name": "Pretoria",
+          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+        }
+      ],
+      "duration_ms": 194937,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Karma Dron",
         "url": "https://open.spotify.com/album/08nCJLqKbQUZOnMtbEuUCl"
       },
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Entre L\u00edneas",
-        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
-      },
-      "artists": [
-        {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Entre L\u00edneas",
-      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Pesadillas",
+        "url": "https://open.spotify.com/album/0S98zSKihNZ8WNw3KGluM8"
+      },
+      "artists": [
+        {
+          "name": "Puebla",
+          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
+        }
+      ],
+      "duration_ms": 142801,
+      "name": "Pesadillas",
+      "url": "https://open.spotify.com/track/1CD1rmHm8SsjewjqjqjGzW"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Distintas Frecuencias",
         "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Pesadillas",
-        "url": "https://open.spotify.com/album/0S98zSKihNZ8WNw3KGluM8"
+        "name": "Lago Eterno",
+        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
       "artists": [
         {
-          "name": "Puebla",
-          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         }
       ],
-      "duration_ms": 142801,
-      "name": "Pesadillas",
-      "url": "https://open.spotify.com/track/1CD1rmHm8SsjewjqjqjGzW"
+      "duration_ms": 128802,
+      "name": "Lago Eterno",
+      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1595,22 +1611,6 @@
       "duration_ms": 266472,
       "name": "No digas que no te avis\u00e9",
       "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Lago Eterno",
-        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 128802,
-      "name": "Lago Eterno",
-      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
     },
     {
       "added_at": "2024-10-11 03:00:00",

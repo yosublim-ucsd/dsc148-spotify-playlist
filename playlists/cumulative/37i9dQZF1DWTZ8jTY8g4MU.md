@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-250 songs - 16 hr 23 min
+251 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ya Aneedah](https://open.spotify.com/track/2VOd0JcjUA6dgEda5OeCP9) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ya Aneedah](https://open.spotify.com/album/2vjgjvXAO5BcXGV5CsjAul) | 3:44 | 2023-08-25 |  |
 | [Zalzalet Harb](https://open.spotify.com/track/5mqdUwdHxCR9vuYLvpmWH4) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Zalzalet Harb](https://open.spotify.com/album/0YmaVrDhj1gJqUcDfgRI9V) | 3:12 | 2023-05-12 | 2023-09-02 |
 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 | 2023-02-22 | 2023-09-22 |
+| [أجمل الحاضرين](https://open.spotify.com/track/1TJyLwBpYDb3XUX96jBn0m) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [أجمل الحاضرين](https://open.spotify.com/album/68ahwpxNs26XW5iZtdPk1g) | 4:06 | 2024-10-15 |  |
 | [أجمل شعور](https://open.spotify.com/track/73zGUwRQWhn1DbPBMmgsp1) | [متعب الفهادي](https://open.spotify.com/artist/1kZZtndQgpg4kKUQvg3jW4) | [أجمل شعور](https://open.spotify.com/album/2krMu42Lrnjsnut3NM0vhS) | 3:28 | 2023-09-01 | 2024-01-06 |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/3C0Hpz4Df64ZszZNODDaUV) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/1Sbqm44BUnM6FLJZhMeXov) | 4:18 | 2022-03-30 | 2022-11-03 |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/4eLMkrYnqxRGmNSchxoGy6) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/2wd6hOMXwP04aZU1cb9GCy) | 4:18 | 2022-08-31 | 2023-05-04 |

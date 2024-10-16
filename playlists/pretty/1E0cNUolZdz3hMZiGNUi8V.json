@@ -1,13 +1,53 @@
 {
   "description": "\ud83d\udd25 All the hottest hip hop tracks in one spot!",
-  "num_followers": 38862,
+  "num_followers": 38855,
   "original_name": "Hip Hop Weekly",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAe/qg+GFxtlaB6hHIvf4afncQ+WG+h",
+  "snapshot_id": "AAAfAb6Qsvrc9znCHjf6WghA5y89dfSB",
   "tracks": [
+    {
+      "added_at": "2024-10-12 00:29:12",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2024-10-15 21:08:11",
+      "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz"
+    },
     {
       "added_at": "2024-10-12 00:29:12",
       "album": {
@@ -31,6 +71,22 @@
     {
       "added_at": "2024-10-12 00:29:12",
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
+    },
+    {
+      "added_at": "2024-10-12 00:29:12",
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -47,22 +103,6 @@
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": "2024-10-12 00:29:12",
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "one of wun",
-      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
     },
     {
       "added_at": "2024-10-12 00:29:12",
@@ -1247,22 +1287,6 @@
       "duration_ms": 128132,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
-    },
-    {
-      "added_at": "2024-10-12 00:29:12",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     }
   ],
   "unique_name": "Hip Hop Weekly",

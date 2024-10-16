@@ -4,7 +4,7 @@
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-126 songs - 9 hr 16 min
+127 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Die Geschichte Einer Mutter](https://open.spotify.com/track/7KPPysjHZEvFDJSPTd1MKs) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 6:53 | 2021-10-01 |  |
 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 | 2021-10-01 | 2024-04-19 |
 | [Dive](https://open.spotify.com/track/0v8UvAhruTvkA90MR7039n) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:25 | 2021-10-01 | 2022-07-29 |
+| [Dozen](https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:12 | 2024-10-15 |  |
 | [Dream On](https://open.spotify.com/track/3pqV3WcYB3LCb9SaDgE3UX) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [Way Beyond Blue](https://open.spotify.com/album/4hcPh4wVibkzYUpsxSwGvJ) | 2:36 | 2021-10-01 |  |
 | [Echo's Answer](https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:11 | 2021-10-01 | 2024-04-19 |
 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 | 2021-10-01 | 2023-02-02 |
@@ -42,7 +43,7 @@
 | [For Love](https://open.spotify.com/track/2Fq7EkgIuXr3mzoZXJyRSn) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/4sy5PYpO6j5BgLajSMGcZD) | 3:29 | 2021-10-01 | 2022-07-29 |
 | [For Love](https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 3:29 | 2021-10-01 | 2024-04-19 |
 | [For the Damaged Coda](https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 2:37 | 2021-10-01 | 2024-04-19 |
-| [For the Damaged Coda](https://open.spotify.com/track/7jA5OcunWRSYXq98puhAX8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/5ozMQsDFl6QNqB2bGiMuHU) | 2:37 | 2021-10-01 |  |
+| [For the Damaged Coda](https://open.spotify.com/track/7jA5OcunWRSYXq98puhAX8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/5ozMQsDFl6QNqB2bGiMuHU) | 2:37 | 2021-10-01 | 2024-10-16 |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2021-10-01 | 2024-04-19 |
 | [Heaven Or Las Vegas](https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 4:58 | 2021-10-01 | 2024-08-31 |
 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 | 2021-10-01 |  |

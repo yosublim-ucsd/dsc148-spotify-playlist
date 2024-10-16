@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Christopher, Lee Young Ji)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: SEVENTEEN)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -2268,6 +2268,28 @@
       "duration_ms": 324880,
       "name": "Love me once again",
       "url": "https://open.spotify.com/track/7bfquwu5xobFp4axJkXVdg"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
+        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
       "album": {

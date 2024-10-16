@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 145627,
+  "num_followers": 145632,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADl6sz9tFGc15+O+2xdOaRP",
+  "snapshot_id": "ZwxfAAAAAAAmf80EtFajkiNhXk2f5HNl",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Country Music",
-        "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 271906,
-      "name": "Remind Me (with Carrie Underwood)",
-      "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
+      "duration_ms": 261600,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
       "added_at": null,
@@ -327,22 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+        "name": "This Is Country Music",
+        "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         },
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 261600,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
+      "duration_ms": 271906,
+      "name": "Remind Me (with Carrie Underwood)",
+      "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
     },
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Drunk and Hungover",
-      "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

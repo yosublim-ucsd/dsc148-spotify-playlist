@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,937 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,943 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 58 | [Hips Don't Lie \(feat\. Wyclef Jean\) \- Live \- December 2006](https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Shakira Oral Fixation Tour \(Live\)](https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ) | 7:16 |
 | 59 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
 | 60 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 |
-| 61 | [Empire State of Mind \(Part II\) Broken Down \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:18 |
-| 62 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
-| 63 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 |
+| 61 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
+| 62 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 |
+| 63 | [Empire State of Mind \(Part II\) Broken Down \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 4:18 |
 | 64 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 |
 | 65 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 |
 | 66 | [Everything \- Live from Madison Square Garden](https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé Meets Madison Square Garden](https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt) | 3:37 |

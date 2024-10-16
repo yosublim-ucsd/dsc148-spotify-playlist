@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-284 songs - 14 hr 22 min
+285 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
 | [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 |  |
 | [OLDRICH](https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx) | [OLDRICH](https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl) | 2:21 | 2023-08-22 |  |
+| [Omen](https://open.spotify.com/track/4O7ViZUUnynCDeIS1yCcE2) | [RuiijiKun](https://open.spotify.com/artist/34Kex8JSfMcDFqILq2vX0x) | [Omen](https://open.spotify.com/album/0zQQuUOZGdU4XKC7GXpJlB) | 2:49 | 2024-10-11 |  |
 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 | 2023-08-22 |  |
 | [Outta Here](https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Outta Here](https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3) | 2:35 | 2024-08-30 |  |
 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 | 2024-02-23 |  |
@@ -208,7 +209,7 @@
 | [Pure Souls](https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Pure Souls](https://open.spotify.com/album/1ae2rnSlKkul1mpG8bo2X1) | 2:20 | 2024-10-11 |  |
 | [Remote Frontiers](https://open.spotify.com/track/2IobuIcnIUtGqLqEV6is3K) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [Remote Frontiers](https://open.spotify.com/album/2zyYuvpthRJLXQEqGWgNiP) | 2:31 | 2024-03-20 | 2024-06-08 |
 | [Remote Frontiers](https://open.spotify.com/track/5DBod0aGdSpZPSvVZJ3LIY) | [Doctor Bionic](https://open.spotify.com/artist/3TPhgDRLSKmQM9Hrehaw4X) | [In The Infinite](https://open.spotify.com/album/009o4j48Se3I5pAU7yQAdC) | 2:31 | 2024-01-26 | 2024-04-19 |
-| [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 |  |
+| [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2023-08-22 | 2024-10-16 |
 | [Repose](https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Repose](https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5) | 2:28 | 2024-06-04 |  |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 |  |
 | [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 | 2023-09-22 |  |

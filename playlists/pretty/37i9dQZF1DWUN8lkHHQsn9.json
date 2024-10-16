@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:063D0MKbIbbBjKgtYRGBga\">Baasch</a>",
-  "num_followers": 43148,
+  "num_followers": 43147,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Pani Baudelaire",
-        "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
+        "name": "usa",
+        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        },
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
         }
       ],
-      "duration_ms": 177846,
-      "name": "Pani Baudelaire",
-      "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
+      "duration_ms": 129032,
+      "name": "usa",
+      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -463,22 +467,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "usa",
-        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
+        "name": "Pani Baudelaire",
+        "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
       },
       "artists": [
         {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
         }
       ],
-      "duration_ms": 129032,
-      "name": "usa",
-      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+      "duration_ms": 177846,
+      "name": "Pani Baudelaire",
+      "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "1986",
-        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 307146,
-      "name": "Dziewczyny",
-      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "Inspiracje",
         "url": "https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158030,
       "name": "Inspiracje",
       "url": "https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "1986",
+        "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 307146,
+      "name": "Dziewczyny",
+      "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
+        "name": "Bezsens",
+        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "Bezsens",
+      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
         "name": "dans mon coeur",
         "url": "https://open.spotify.com/album/34JJiGRjSOTYs28CS1MsDJ"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Bezsens",
-        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
         }
       ],
-      "duration_ms": 163076,
-      "name": "Bezsens",
-      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
+      "duration_ms": 97225,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 142500,
       "name": "deszcz",
       "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 97225,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Czas",
-        "url": "https://open.spotify.com/album/4GfdbuGAKQqlhUwh9Ck4D7"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 209624,
-      "name": "Czas",
-      "url": "https://open.spotify.com/track/1xvvV4XkkScqQpdOderIRs"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Czas",
+        "url": "https://open.spotify.com/album/4GfdbuGAKQqlhUwh9Ck4D7"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 209624,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/1xvvV4XkkScqQpdOderIRs"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "IKONA",
-        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "IKONA",
-      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "Straty",
         "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 194250,
       "name": "Dok\u0105d biegn\u0119",
       "url": "https://open.spotify.com/track/72fif1k16rwOEMH8l8MLVM"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "IKONA",
+        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "IKONA",
+      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 190827,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1279,34 +1279,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
       },
       "artists": [
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+      "duration_ms": 190827,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 183178,
       "name": "Przed siebie",
       "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "PARADOKS LP",
-        "url": "https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ"
+        "name": "OKO",
+        "url": "https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab"
       },
       "artists": [
         {
-          "name": "shane.",
-          "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
-        },
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 229639,
-      "name": "rozum/serce",
-      "url": "https://open.spotify.com/track/6JE7556vi3OAyL4McVtLN8"
+      "duration_ms": 211000,
+      "name": "Prawda",
+      "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1399,6 +1395,26 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
+        "name": "PARADOKS LP",
+        "url": "https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ"
+      },
+      "artists": [
+        {
+          "name": "shane.",
+          "url": "https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT"
+        },
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 229639,
+      "name": "rozum/serce",
+      "url": "https://open.spotify.com/track/6JE7556vi3OAyL4McVtLN8"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
         "name": "Re\u017cyser",
         "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 178890,
       "name": "Re\u017cyser",
       "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
-        "name": "OKO",
-        "url": "https://open.spotify.com/album/7AKfRwN2fngGqnaRqax8Ab"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Prawda",
-      "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "rozbijam si\u0119",
-        "url": "https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6"
-      },
-      "artists": [
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 212368,
-      "name": "rozbijam si\u0119",
-      "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
-    },
-    {
-      "added_at": "2024-10-07 22:00:00",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 179400,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+    },
+    {
+      "added_at": "2024-10-07 22:00:00",
+      "album": {
+        "name": "Ocal mnie",
+        "url": "https://open.spotify.com/album/1cRdFSqZmPeXGGs0krzWDW"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Ocal mnie",
+      "url": "https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "Ocal mnie",
-        "url": "https://open.spotify.com/album/1cRdFSqZmPeXGGs0krzWDW"
+        "name": "rozbijam si\u0119",
+        "url": "https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 149500,
-      "name": "Ocal mnie",
-      "url": "https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs"
+      "duration_ms": 212368,
+      "name": "rozbijam si\u0119",
+      "url": "https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "ABOUT US.",
-        "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
       "artists": [
         {
-          "name": "Ketiov",
-          "url": "https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR"
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
         }
       ],
-      "duration_ms": 165783,
-      "name": "Wczorajsza Skrajno\u015b\u0107",
-      "url": "https://open.spotify.com/track/6izw5ZldxPYys4xZK9CWgm"
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2024-10-07 22:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {
-        "name": "\u00c9CHO",
-        "url": "https://open.spotify.com/album/6T3TiVHvEfu7Oz8pjieI95"
+        "name": "ABOUT US.",
+        "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
       },
       "artists": [
         {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+          "name": "Ketiov",
+          "url": "https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR"
         }
       ],
-      "duration_ms": 279999,
-      "name": "les roses noires",
-      "url": "https://open.spotify.com/track/22GboJxbPd0ifja8gUQflF"
+      "duration_ms": 165783,
+      "name": "Wczorajsza Skrajno\u015b\u0107",
+      "url": "https://open.spotify.com/track/6izw5ZldxPYys4xZK9CWgm"
     }
   ],
   "unique_name": "GLOW Polska",

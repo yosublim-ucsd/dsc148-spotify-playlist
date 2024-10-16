@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 346293,
+  "num_followers": 346523,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 274520,
       "name": "Joy Of My Life",
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "simple times",
-      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Peace to All Who Enter Here",
         "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 222800,
       "name": "Wash Me Clean",
       "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "simple times",
+      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 232528,
       "name": "Black And White - Stripped",
       "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "To a T (Stripped)",
-        "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        }
-      ],
-      "duration_ms": 198385,
-      "name": "To a T - Stripped",
-      "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Picture This",
         "url": "https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 234800,
       "name": "95",
       "url": "https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "To a T (Stripped)",
+        "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "To a T - Stripped",
+      "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/5uetNbm1FlJdxsqigbMSB8"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/5uetNbm1FlJdxsqigbMSB8"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Heartbreak Hits",
-        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
-      },
-      "artists": [
-        {
-          "name": "Theo Katzman",
-          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
-        }
-      ],
-      "duration_ms": 221508,
-      "name": "Good to Be Alone",
-      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 194237,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/1si9NdGIgzOvt9iutjL7G3"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Heartbreak Hits",
+        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
+      },
+      "artists": [
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+        }
+      ],
+      "duration_ms": 221508,
+      "name": "Good to Be Alone",
+      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "If I Didn\u2019t Love You",
+        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "Tell Her You Love Her (feat. Mat Kearney)",
         "url": "https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 263053,
       "name": "Tell Her You Love Her (feat. Mat Kearney)",
       "url": "https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "If I Didn\u2019t Love You",
-        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 246350,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Bluebird (Acoustic)",
-        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 220637,
-      "name": "Bluebird - Acoustic",
-      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Bluebird (Acoustic)",
+        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 220637,
+      "name": "Bluebird - Acoustic",
+      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Blind Missiles",
         "url": "https://open.spotify.com/album/3ia3GpJPPwJPx1mvu1JCaR"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 201746,
       "name": "Blind Missiles",
       "url": "https://open.spotify.com/track/4iIoVlUgVqWmnJ85HoOD7J"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2731,18 +2731,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "Summer Somewhere",
+        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
         }
       ],
-      "duration_ms": 240958,
-      "name": "Just for Now",
-      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
+      "duration_ms": 183413,
+      "name": "Summer Somewhere",
+      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2763,18 +2763,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Summer Somewhere",
-        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Summer Somewhere",
-      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
+      "duration_ms": 240958,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -2963,22 +2963,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Songs From The Ashes (PT. 1)",
-        "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 282802,
-      "name": "Nobody Opened The Door",
-      "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Swollen (feat. Julia Gargano)",
         "url": "https://open.spotify.com/album/2FCf6fQqRvQt4L0CZOcAYq"
       },
@@ -2995,6 +2979,22 @@
       "duration_ms": 230917,
       "name": "Swollen (feat. Julia Gargano)",
       "url": "https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Songs From The Ashes (PT. 1)",
+        "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 282802,
+      "name": "Nobody Opened The Door",
+      "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 205958,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
         "name": "Sedona (The Voice Performance)",
         "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
       },
@@ -3059,22 +3075,6 @@
       "duration_ms": 153533,
       "name": "Love Is Tall",
       "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 205958,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3163,22 +3163,6 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
-        }
-      ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
         "name": "Shower With My Clothes On",
         "url": "https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA"
       },
@@ -3195,18 +3179,18 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Cadence",
-        "url": "https://open.spotify.com/album/6RE3b8CiVLvoTevcGDD86t"
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
       },
       "artists": [
         {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
         }
       ],
-      "duration_ms": 187380,
-      "name": "Cadence",
-      "url": "https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3"
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3223,6 +3207,22 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Cadence",
+        "url": "https://open.spotify.com/album/6RE3b8CiVLvoTevcGDD86t"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 187380,
+      "name": "Cadence",
+      "url": "https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3275,18 +3275,34 @@
     {
       "added_at": "2024-07-05 22:27:51",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn"
+        "name": "The Wire (Alternate Version)",
+        "url": "https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 226153,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58"
+      "duration_ms": 221063,
+      "name": "The Wire - Alternate Version",
+      "url": "https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru"
+    },
+    {
+      "added_at": "2024-07-05 22:27:51",
+      "album": {
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
     },
     {
       "added_at": "2024-07-05 22:27:51",
@@ -3303,22 +3319,6 @@
       "duration_ms": 206000,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/59crDqEUjV0UEI9QVlQn2B"
-    },
-    {
-      "added_at": "2024-07-05 22:27:51",
-      "album": {
-        "name": "The Wire (Alternate Version)",
-        "url": "https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 221063,
-      "name": "The Wire - Alternate Version",
-      "url": "https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru"
     }
   ],
   "unique_name": "Morning Coffee",

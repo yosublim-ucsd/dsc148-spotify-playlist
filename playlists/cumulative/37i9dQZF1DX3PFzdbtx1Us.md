@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-355 songs - 14 hr 8 min
+356 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [This Delicate Place \(Scaled Down Version\)](https://open.spotify.com/track/51sciSNx3f1TEXcAmL06j9) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/7xQ1rPbeUkKIDufhz2JY1B) | 2:40 | 2022-07-05 | 2023-05-16 |
 | [This Delicate Place \(Scaled Down Version\)](https://open.spotify.com/track/5V0CsDlHxo6ndcPiQx9M7z) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/3njakiCY6X4agMnUdpRmB7) | 2:40 | 2021-06-27 | 2022-07-29 |
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2024-04-17 |  |
+| [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 | 2024-10-15 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2023-05-15 |  |
 | [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-05-15 |  |
 | [Tranquillity](https://open.spotify.com/track/5R3VFevA9XCuAlRlqCazge) | [Conrad Sieverts](https://open.spotify.com/artist/0VMJjZwrZ7LRrSvBMSLuR8) | [Odd Ones](https://open.spotify.com/album/20QMaQsHVDroONJx8aFbfj) | 3:17 | 2021-06-27 | 2023-05-16 |

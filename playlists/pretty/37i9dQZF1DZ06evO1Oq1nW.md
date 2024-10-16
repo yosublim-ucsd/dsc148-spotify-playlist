@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,073 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,077 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 15 | [A Prayer](https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:21 |
 | 16 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
 | 17 | [Sunshine](https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:41 |
-| 18 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
-| 19 | [Your Body's Here with Me \(But Your Mind's on the Other Side of Town\)](https://open.spotify.com/track/17I6vlUf2z1747kHsGmEF0) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:46 |
+| 18 | [Your Body's Here with Me \(But Your Mind's on the Other Side of Town\)](https://open.spotify.com/track/17I6vlUf2z1747kHsGmEF0) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:46 |
+| 19 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
 | 20 | [Family Reunion](https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:55 |
 | 21 | [Time to Get Down](https://open.spotify.com/track/2mhVy5a8BmJ1t3YFk9DlWi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:52 |
 | 22 | [Let Me Touch You](https://open.spotify.com/track/5DqMdR9SmhgTRF0DsRI7fJ) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 4:52 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 25 | [Livin' for the Weekend](https://open.spotify.com/track/6FxjvmfQuS4DUuUC0yC4bo) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:36 |
 | 26 | [Your True Heart \(And Shining Star\)](https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 5:49 |
 | 27 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 |
-| 28 | [Sing A Happy Song](https://open.spotify.com/track/3HsBtrErYQjxf4Pv2p05Oy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 4:59 |
-| 29 | [Fading](https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Serious](https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG) | 6:46 |
+| 28 | [Fading](https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Serious](https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG) | 6:46 |
+| 29 | [Sing A Happy Song](https://open.spotify.com/track/3HsBtrErYQjxf4Pv2p05Oy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 4:59 |
 | 30 | [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 |
 | 31 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 |
-| 32 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 |
-| 33 | [Start Stoppin'](https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Last Word](https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt) | 4:09 |
+| 32 | [Start Stoppin'](https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Last Word](https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt) | 4:09 |
+| 33 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 |
 | 34 | [Let's Clean Up the Ghetto \- 12" Version](https://open.spotify.com/track/6kjxpTGe8HRD3TUJBqNEUK) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Archie Bell](https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK) | [The Essential MFSB](https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C) | 8:39 |
 | 35 | [Keep On Lovin' Me](https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 4:43 |
 | 36 | [I'll Be Sweeter Tomorrow \(Than I Was Today\)](https://open.spotify.com/track/704ko7ZDPIYq51VxFT7TJU) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 49 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
 | 50 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
 
-Snapshot ID: `ZwsNgAAAAAC85P2tdona3hl90fvVFgHe`
+Snapshot ID: `ZwxfAAAAAADlHqmTKdHgQf3bhjBC5GDz`

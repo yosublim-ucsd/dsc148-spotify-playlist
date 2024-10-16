@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-633 songs - 2 day 9 hr 9 min
+634 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Fervedouro Dois](https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Fervedouro Dois](https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz) | 4:01 | 2022-09-30 |  |
 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 | 2022-01-14 | 2022-07-29 |
 | [Ficus II](https://open.spotify.com/track/0gSMfmDg40ayq9jAMj779s) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Mokragora](https://open.spotify.com/album/4IfHDBllVvLfuVpxFvG19D) | 2:46 | 2021-10-20 |  |
+| [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 | 2024-10-16 |  |
 | [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 | 2021-11-12 |  |
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-20 |  |
 | [First Snow](https://open.spotify.com/track/2tlkgeydIqJnYpXleB9b3i) | [Ripperton](https://open.spotify.com/artist/3fdTyhMVXu3X3zErrj0sNm) | [Contrails](https://open.spotify.com/album/6GafgizmMcSo2OLpOZyz7g) | 5:33 | 2021-10-20 | 2022-07-29 |
@@ -455,7 +456,7 @@
 | [Say Something](https://open.spotify.com/track/18tjmT563WfmZ1AJPIccTG) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/6hN6JxLLqAS7VHBCGSySmy) | 2:38 | 2021-10-20 | 2024-04-19 |
 | [Say Something](https://open.spotify.com/track/43rqUnNFGNGZdRXjskdj5Z) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:38 | 2021-10-20 | 2024-02-03 |
 | [See](https://open.spotify.com/track/7KRmNCnkr1h0UnfmHdFaFD) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [Spiritual 2](https://open.spotify.com/album/1GRF6wjrtvSGqPiUgdvuyM) | 5:47 | 2021-10-20 | 2022-07-29 |
-| [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 | 2021-10-20 |  |
+| [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 | 2021-10-20 | 2024-10-16 |
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-10-20 |  |
 | [Sequenza](https://open.spotify.com/track/6jDj0HDUVYnM4USdMc3uMZ) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 9:56 | 2021-10-20 | 2022-07-29 |
 | [Seti](https://open.spotify.com/track/4fuRFa9zPi4r8nPq9i6ImX) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Music For Adverts \(And Short Films\)](https://open.spotify.com/album/2TohoQf8W42e71HRmi6S4Q) | 1:03 | 2021-10-20 | 2024-04-10 |

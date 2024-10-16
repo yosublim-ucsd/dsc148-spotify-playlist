@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-375 songs - 19 hr 37 min
+376 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Tesla](https://open.spotify.com/track/4v5gQ9AcTVVsIpPkS9OaDq) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Maxmillion](https://open.spotify.com/artist/3Swlqbun5ENqlTL8HI2dyM) | [Tesla](https://open.spotify.com/album/38tkDeMUQy1ZvnEGGXaW2J) | 2:49 | 2024-06-23 | 2024-08-20 |
 | [That Smoke](https://open.spotify.com/track/13aCZP9e5VctXLlmtWTEb5) | [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM), [Chuck Shadow](https://open.spotify.com/artist/0plb6fI8MnpTQAM0UDamB3), [Mr\. Fredo](https://open.spotify.com/artist/5WbzHStOs7a5DdQGP2KTnI) | [Blow Your Mind](https://open.spotify.com/album/5HGlhlqrjPPUoPJZhHbO7u) | 3:04 | 2023-12-31 | 2024-01-09 |
 | [The Chillin](https://open.spotify.com/track/6Qq5N8hCU5uyXfZzAUfW04) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [The Chillin](https://open.spotify.com/album/3EBd2NbygikDDzcv1dZoYX) | 2:20 | 2024-02-05 | 2024-06-24 |
+| [The Climb](https://open.spotify.com/track/7GSjImVncKoQdfSaRuJA5O) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Climb](https://open.spotify.com/album/4E1ZlybMwsR1RDGZgo8SNd) | 3:21 | 2024-10-15 |  |
 | [The Dance](https://open.spotify.com/track/4BktrFFvfODYFvNWUvJhBC) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [SGT\. Pokes](https://open.spotify.com/artist/2mdpTpHF9cGaSSrtoLwIZr) | [The Dance](https://open.spotify.com/album/5ug5gS7iYFoEMTvdcu3tAr) | 2:55 | 2024-02-17 | 2024-06-24 |
 | [THE DEALER](https://open.spotify.com/track/5prvyQRByXxJ0GFBcGVnNX) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [THE DEALER](https://open.spotify.com/album/1c5zRo1iIW0eMmP7YD70Ec) | 3:21 | 2024-06-23 | 2024-08-20 |
 | [The Funktion](https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Funktion](https://open.spotify.com/album/7r4rUHrAmjArs1NUKOJaOS) | 3:28 | 2023-12-31 | 2024-01-16 |

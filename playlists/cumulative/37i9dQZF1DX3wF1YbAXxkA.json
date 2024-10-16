@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Tomorrow Man",
+      "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Ein Prosit der Gem\u00fctlichkeit",
-  "num_followers": 428291,
+  "num_followers": 428288,
   "original_name": "Wiesn Party 2024",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
-      },
-      "artists": [
-        {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+      },
+      "artists": [
+        {
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Zum Greifen nah",
-        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+        "name": "Du Bist Mein Gl\u00fcck",
+        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Zum Greifen nah",
-      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+      "duration_ms": 216706,
+      "name": "Du bist mein Gl\u00fcck",
+      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Du Bist Mein Gl\u00fcck",
-        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
       "artists": [
         {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Du bist mein Gl\u00fcck",
-      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1063,26 +1063,6 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1179,22 +1159,6 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Ein Wort sagt mehr als 1000 Bilder",
-        "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 187053,
-      "name": "Geh mal Bier hol'n - GmBh",
-      "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
         "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
         "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
       },
@@ -1207,6 +1171,42 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
+        "name": "Ein Wort sagt mehr als 1000 Bilder",
+        "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 187053,
+      "name": "Geh mal Bier hol'n - GmBh",
+      "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
         "name": "Das Album",
         "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
       },
@@ -1327,6 +1311,30 @@
       "duration_ms": 229733,
       "name": "Anton aus Tirol",
       "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
+        "name": "Hoch die H\u00e4nde Wochenende",
+        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 174719,
+      "name": "Hoch die H\u00e4nde Wochenende",
+      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1355,26 +1363,18 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Hoch die H\u00e4nde Wochenende",
-        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 174719,
-      "name": "Hoch die H\u00e4nde Wochenende",
-      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Ein bisschen Frieden (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/4nmaiFwmUo5Pq1mXbWaIgI"
+        "name": "Mut zur Katastrophe (Gold Edition)",
+        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
       },
       "artists": [
         {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/1C5PhB7zfGmDKaYLLt5GYZ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Kerstin Ott",
+          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Ein bisschen Frieden - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ"
+      "duration_ms": 226133,
+      "name": "Regenbogenfarben",
+      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
     }
   ],
   "unique_name": "Wiesn Party 2024",

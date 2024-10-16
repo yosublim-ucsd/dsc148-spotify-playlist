@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of songs! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_GoodMorning\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-216 songs - 11 hr 33 min
+217 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2023-12-01 | 2024-06-24 |
 | [Bass Player's Brother](https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Bass Player's Brother](https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg) | 3:06 | 2024-08-10 |  |
 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 | 2023-12-01 | 2024-02-24 |
-| [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 | 2024-05-18 |  |
+| [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 | 2024-05-18 | 2024-10-16 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-07 |  |
 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 | 2024-06-10 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-03 |  |
@@ -28,6 +28,7 @@
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2023-12-01 | 2024-06-24 |
 | [Bop Ba](https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:32 | 2024-09-02 |  |
 | [Break For You](https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Break For You](https://open.spotify.com/album/6mRtETwPNimVfkeyKOMzBH) | 2:34 | 2023-12-01 | 2024-05-28 |
+| [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-10-15 |  |
 | [Brown Man](https://open.spotify.com/track/5cJyYDtFcRrGWUHDx8FHlv) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Brown Man](https://open.spotify.com/album/2tnaYm67AnMon2NL2M1Y1O) | 3:12 | 2024-09-29 |  |
 | [Bud Light The Way](https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:10 | 2024-04-07 | 2024-06-10 |
 | [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2023-12-01 | 2024-09-30 |

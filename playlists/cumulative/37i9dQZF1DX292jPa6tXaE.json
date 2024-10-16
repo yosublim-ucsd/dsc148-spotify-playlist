@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Sona Walia",
+  "description": "Discover the future of Punjabi Pop! Cover: Yuvi",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "G 63",
+        "url": "https://open.spotify.com/album/7MvOnpoBtLSHLMVbzg6DXe"
+      },
+      "artists": [
+        {
+          "name": "Opinder",
+          "url": "https://open.spotify.com/artist/6Lv0Ri7LyxuroFX2eipgH6"
+        },
+        {
+          "name": "Binner",
+          "url": "https://open.spotify.com/artist/0ch1aUFYRO1IaPbIhfNKIS"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166546,
+      "name": "G 63",
+      "url": "https://open.spotify.com/track/0TRCcR150yHzGbWNBymr1g"
+    },
+    {
+      "album": {
         "name": "Gaddiyan",
         "url": "https://open.spotify.com/album/37Plp46cfXasRIGta76cGn"
       },
@@ -944,6 +966,24 @@
       "duration_ms": 181363,
       "name": "Giftaan",
       "url": "https://open.spotify.com/track/28oAiyevDuOXVgJ6NY7HoG"
+    },
+    {
+      "album": {
+        "name": "Gym Flow",
+        "url": "https://open.spotify.com/album/0xL7koEUA8E8cNV5SgFJCF"
+      },
+      "artists": [
+        {
+          "name": "Yuvi",
+          "url": "https://open.spotify.com/artist/3xthAhsDWiuKrk3bIWMm1o"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127833,
+      "name": "Gym Flow",
+      "url": "https://open.spotify.com/track/7qPXqScbYBBD2n64p1IkDK"
     },
     {
       "album": {
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 211619,
       "name": "Ik Munda",
       "url": "https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7"
@@ -1868,7 +1908,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 231428,
       "name": "Roya Na Karin",
       "url": "https://open.spotify.com/track/3cLkIJGT6y64tuk1On97Lk"
@@ -1924,6 +1964,32 @@
       "duration_ms": 256799,
       "name": "Sara Pind Mittran Da",
       "url": "https://open.spotify.com/track/2WYFqWFRaI1m8PCsdwRA6w"
+    },
+    {
+      "album": {
+        "name": "Hype",
+        "url": "https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz"
+      },
+      "artists": [
+        {
+          "name": "Harry Dhaliwal",
+          "url": "https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK"
+        },
+        {
+          "name": "Hukam",
+          "url": "https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj"
+        },
+        {
+          "name": "Anwar Rai",
+          "url": "https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131989,
+      "name": "Sarpanchi",
+      "url": "https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf"
     },
     {
       "album": {
@@ -2180,7 +2246,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 170721,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/1J1gt3A9L8XLUKOYnNvOE5"

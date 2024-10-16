@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-366 songs - 21 hr 30 min
+367 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 | 2021-10-16 |  |
 | [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 | 2024-09-05 |
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
-| [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 |  |
+| [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 | 2024-10-16 |
 | [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-24 | 2024-09-05 |
 | [giza](https://open.spotify.com/track/6JSLJcMsjyx5aBQkCF8P1A) | [Sxmniak](https://open.spotify.com/artist/0NIcjfmIXKx1cOpF0VSLVr), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [giza](https://open.spotify.com/album/1wzM8tlioXRRl4XR8ILGe6) | 2:00 | 2021-10-16 |  |
 | [Glass Ripples](https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6) | [Himalayan Beach Ensemble](https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o) | [Glass Ripples](https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT) | 2:29 | 2022-01-07 | 2022-07-29 |
@@ -318,6 +318,7 @@
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Yutaka Hirasaka](https://open.spotify.com/artist/3rgTSkiIuwcEVRiik2cDP1) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |
 | [tears \(is this even real?\)](https://open.spotify.com/track/1WiKzAtJ6E1AGjk0VFiT1U) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 2:55 | 2021-10-16 | 2024-09-05 |
 | [tears \(is this even real?\)](https://open.spotify.com/track/6ig6L5YZmiASmRlXmVPMP1) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/32ebyrpYYaR2TQqOzAANwn) | 2:55 | 2021-10-16 | 2024-04-19 |
+| [Teclas Pálidas](https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx), [Nicolás Bacal](https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp) | [Nocturnos](https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9) | 5:27 | 2024-10-16 |  |
 | [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2022-09-30 |  |
 | [thank you](https://open.spotify.com/track/1Iz3CgXvBRtvBexnOfEk06) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [thank you](https://open.spotify.com/album/4t88BKiSoKTFiBQpWSurNw) | 1:41 | 2022-01-14 | 2024-08-20 |
 | [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 | 2024-07-17 | 2024-07-19 |

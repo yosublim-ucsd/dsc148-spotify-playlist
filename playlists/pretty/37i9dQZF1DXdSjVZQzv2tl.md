@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,738,739 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,739,156 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 10 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \- Ao Vivo](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 |
 | 11 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
 | 12 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 |
-| 13 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |
+| 13 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |
 | 14 | [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/3w392XWJ5bXzjcCR2Dmvqn) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Foi Intenso \(Ao Vivo\)](https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9) | 2:12 |
 | 15 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 |
 | 16 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |

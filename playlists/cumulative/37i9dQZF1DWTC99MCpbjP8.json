@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "As a Rose Blossom",
+        "url": "https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9"
+      },
+      "artists": [
+        {
+          "name": "Emile Cerise",
+          "url": "https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131433,
+      "name": "As a Rose Blossom",
+      "url": "https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6"
+    },
+    {
+      "album": {
         "name": "as the sun shines, dewdrops glisten",
         "url": "https://open.spotify.com/album/0vRufu0u2fR8A6H6GlUcTN"
       },

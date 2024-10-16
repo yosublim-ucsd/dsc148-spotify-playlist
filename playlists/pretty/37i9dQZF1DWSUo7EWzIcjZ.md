@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,026 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,025 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 18 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |
 | 19 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 20 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
-| 21 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
+| 21 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Mas](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
 | 22 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
 | 23 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
 | 24 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 25 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
-| 26 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Mas](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
+| 26 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 27 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
 | 28 | [Dile](https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 5:02 |
 | 29 | [Que? Aha!](https://open.spotify.com/track/7zFnaskZB4uWrfZijnZDFK) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:48 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 64 | [Con las Manos en la Masa](https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 4:02 |
 | 65 | [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 |
 | 66 | [La Nave Del Olvido](https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [100% Merengue '99](https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ) | 4:45 |
-| 67 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 |
+| 67 | [Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon](https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 6:19 |
 | 68 | [Morena / Los Diseñadores / Por Ella / El Equipo](https://open.spotify.com/track/2BgxqdufX10rDrxp0O2ECa) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:01 |
 | 69 | [Me Tiene Amarrao](https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:26 |
 | 70 | [Que Es Lo Que Tienes](https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 74 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 75 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
 | 76 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 |
-| 77 | [Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon](https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 6:19 |
+| 77 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 |
 | 78 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
 | 79 | [Juana la Cubana](https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:59 |
 | 80 | [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 |

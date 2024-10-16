@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-110 songs - 5 hr 15 min
+111 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2024-01-05 | 2024-07-03 |
 | [Falling in Love \- Bonus Version](https://open.spotify.com/track/0dqBY5e5A0KNTfds5tUpmQ) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 2:11 | 2024-01-05 |  |
 | [First Day on the Job \(Main Title\)](https://open.spotify.com/track/2Kv15dAAKw5bDXpG5kEEBN) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [Flamin' Hot \(Original Soundtrack\)](https://open.spotify.com/album/5DuzkMYUCMUt03jayDY4xm) | 0:51 | 2024-01-05 |  |
+| [Freskito](https://open.spotify.com/track/6twTVx1n5UKlJUo1530mHZ) | [Tomás Barreiro](https://open.spotify.com/artist/5zevXb8qqBBmO4HvTLUr5P) | [La Máquina \(Original Soundtrack\)](https://open.spotify.com/album/3KP9WyomLkp4wOQVOtWXgB) | 1:27 | 2024-10-15 |  |
 | [Gas in My Car](https://open.spotify.com/track/1t01O0Po7zHa2mTWzkjk8a) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm) | [The Ocean Avenue Block Party \(From "Bob's Burgers"\)](https://open.spotify.com/album/78bIHCIOlk7FGA1b0wj72g) | 5:07 | 2024-01-05 |  |
 | [Getting Better \- Remastered 2009](https://open.spotify.com/track/3LtOmWpTXLhilL5odoKysR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:48 | 2024-01-05 | 2024-07-03 |
 | [Girls, Girls, Girls](https://open.spotify.com/track/4qj8vXZyFP4XHv8HBBi8dz) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:30 | 2024-04-01 | 2024-07-03 |

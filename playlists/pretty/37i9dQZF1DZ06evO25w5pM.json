@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 18299,
+  "num_followers": 18300,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAA+Qoc1ksUmUwcFBidjlkP",
+  "snapshot_id": "ZwxfAAAAAAB/tb6YYHfsFu9UG9A9hIS/",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 433706,
-      "name": "Love's Winged Messenger",
-      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
+      "duration_ms": 297333,
+      "name": "Deeper than the Sky",
+      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 297333,
-      "name": "Deeper than the Sky",
-      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 324426,
+      "name": "Memories of an Angel",
+      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Memories of an Angel",
-      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 625760,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
+      "duration_ms": 217893,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 217893,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
+      "duration_ms": 625760,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
     },
     {
       "added_at": null,

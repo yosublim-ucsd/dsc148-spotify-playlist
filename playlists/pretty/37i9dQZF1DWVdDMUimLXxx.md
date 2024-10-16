@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,527 likes - 71 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,671 likes - 71 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 14 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 |
 | 15 | [Human Revolution](https://open.spotify.com/track/2sXXleqZhdiplnq4qEK3Xq) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:23 |
 | 16 | [Una Mañana De Cine](https://open.spotify.com/track/4MF2bWyLJ1s3SAXFJq71EM) | [Roberto Vetere](https://open.spotify.com/artist/5S2Js5ci1dHnRN86Dt6wmm) | [Evolution](https://open.spotify.com/album/2oPGweO8HecWmmIuAKDOXw) | 3:57 |
-| 17 | [Fate Calls](https://open.spotify.com/track/7wxMbXcPlFXyc6ualteU5k) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 1:58 |
+| 17 | [Fate Calls](https://open.spotify.com/track/7wxMbXcPlFXyc6ualteU5k) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 1:58 |
 | 18 | [Lost Empire](https://open.spotify.com/track/7FS3ODVO5LkK9eoI4G2kb8) | [David Celeste](https://open.spotify.com/artist/14elbOcXjl043MKBKQuGPS) | [Lost Empire](https://open.spotify.com/album/6s5cPCbFitanKRBHYNHjk9) | 3:43 |
 | 19 | [Film Credits](https://open.spotify.com/track/23jiGIG5I07XoBYujart9K) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:31 |
 | 20 | [Crossing Paths](https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Crossing Paths](https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c) | 3:01 |

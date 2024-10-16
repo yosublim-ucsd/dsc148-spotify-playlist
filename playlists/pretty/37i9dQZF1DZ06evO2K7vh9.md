@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 ### [This Is Lil Tecca](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2K7vh9)
 
-> This is Lil Tecca\. The essential tracks, all in one playlist.
+> This Is Lil Tecca\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,556 likes - 44 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,602 likes - 44 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 43 | [Memories in My Head](https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA) | [icyslug](https://open.spotify.com/artist/2JjRgfsTKxurqJfBz8FgZu), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Memories in My Head](https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw) | 3:11 |
 | 44 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 
-Snapshot ID: `ZwsNgAAAAADuUBYRX1MiMUvVoXYx5idh`
+Snapshot ID: `ZwxfAAAAAAAATXeatNMqikszr5xtmpe1`

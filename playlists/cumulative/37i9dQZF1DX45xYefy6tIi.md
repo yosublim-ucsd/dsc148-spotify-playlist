@@ -4,7 +4,7 @@
 
 > Jelly Roll and ESPN team up for a playlist celebrating “The Greatest Story Ever Played” as the hunt to crown a National Champion begins.
 
-496 songs - 1 day 6 hr 59 min
+497 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-08-05 | 2023-05-04 |
 | [Gangsta Shit](https://open.spotify.com/track/0WPWnm8ofOGnSETn6On0uN) | [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [The Professional](https://open.spotify.com/album/0Aice1NJH5gDPGZOKFKuwY) | 4:38 | 2022-05-16 | 2022-06-24 |
 | [Gassed Up](https://open.spotify.com/track/4nDGkRGsh7kZKWPFZnbqZN) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Gassed Up](https://open.spotify.com/album/7clgmM9ZocowFZof63wWP0) | 3:56 | 2023-11-13 | 2023-11-29 |
-| [Get By](https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By](https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW) | 2:40 | 2024-08-23 |  |
+| [Get By](https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By](https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW) | 2:40 | 2024-08-23 | 2024-10-16 |
+| [Get By \- College Football Edition](https://open.spotify.com/track/3UlylFCWSvSCpBqgwC6FCE) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By \(College Football Edition\)](https://open.spotify.com/album/1zQxGvgXQz9UzhEAvcY5k1) | 2:40 | 2024-10-15 |  |
 | [Get Up 10](https://open.spotify.com/track/2SWuoDJEc9V1GFKRuYT192) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4sDAyYEMhD2YyREWKxj3aD) | 3:51 | 2022-06-23 | 2022-08-06 |
 | [Getting Better](https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:46 | 2022-08-05 | 2023-05-04 |
 | [Gin And Juice](https://open.spotify.com/track/1rTdaeRbZSmcGo55Ku0JRo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [L.A\. Originals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fXBh2GyO3g4yNV8IcphEd) | 3:32 | 2022-05-16 | 2022-06-24 |

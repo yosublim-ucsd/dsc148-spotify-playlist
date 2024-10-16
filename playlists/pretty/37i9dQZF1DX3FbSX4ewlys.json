@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 41075,
+  "num_followers": 41110,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
       },
       "artists": [
         {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+      "duration_ms": 232666,
+      "name": "Quit Playing Games (With My Heart)",
+      "url": "https://open.spotify.com/track/0Uqs7ilt5kGX9NzFDWTBrP"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Quit Playing Games (With My Heart)",
-      "url": "https://open.spotify.com/track/0Uqs7ilt5kGX9NzFDWTBrP"
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "De Piel Negra",
         "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 206440,
       "name": "Eternamente Bella",
       "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
         }
       ],
-      "duration_ms": 204753,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
+      "duration_ms": 218504,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
       "artists": [
         {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 218504,
-      "name": "Erase / Rewind",
-      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
+      "duration_ms": 204753,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "Len",
-          "url": "https://open.spotify.com/artist/48myrQPAhsexXZVSN5YpL6"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 282893,
       "name": "Piel Morena",
       "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/48myrQPAhsexXZVSN5YpL6"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Ray of Light",
-      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 248226,
       "name": "Amor De Papel",
       "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
     },
     {
       "added_at": "2024-07-05 01:24:37",

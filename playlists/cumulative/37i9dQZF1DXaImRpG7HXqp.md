@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-775 songs - 1 day 9 hr 41 min
+776 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [In Love Again](https://open.spotify.com/track/3fPLzICJgsoHFWL17jCWb7) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Isla de Pascua](https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM) | 2:57 | 2022-01-19 | 2024-04-19 |
 | [In My Life](https://open.spotify.com/track/3iHl3j3lY8habgtnr7D9KT) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [In My Life](https://open.spotify.com/album/2v8kp1duuU3WEwWjy5n5OW) | 2:04 | 2022-06-17 | 2022-07-08 |
 | [In Plain Sight](https://open.spotify.com/track/697vac4mXVZkjw1FWJIviq) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [In Plain Sight](https://open.spotify.com/album/6R0B26rWs9Jkt3WfplPrdK) | 2:47 | 2024-02-02 |  |
-| [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
+| [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 | 2024-10-16 |
 | [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 | 2023-06-09 |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [In the rear window](https://open.spotify.com/track/3hXcJf4BHy6DikP6H5WSw4) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [In the rear window](https://open.spotify.com/album/2GXZud0uP8SSM4VCE0Z6eH) | 2:01 | 2024-02-02 |  |
@@ -395,6 +395,7 @@
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2021-12-08 | 2023-03-10 |
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 | 2024-07-19 |
+| [Looking Back](https://open.spotify.com/track/3TqzaJD4HmqMbkoE89KVqs) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Looking Back](https://open.spotify.com/album/3d2ciBnLO3mPNujDOpOTB7) | 2:36 | 2024-10-15 |  |
 | [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 | 2023-01-20 | 2023-05-23 |
 | [Looking Up](https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s) | 1:58 | 2023-05-12 | 2023-06-16 |
 | [Loomy Woods](https://open.spotify.com/track/2AWMZjZp5uoB4nJN8RLced) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Loomy Woods](https://open.spotify.com/album/34I5Dwjv7aAHVW66mXApP4) | 3:14 | 2023-05-12 | 2024-04-05 |
@@ -510,7 +511,7 @@
 | [Peaceful Serendipity](https://open.spotify.com/track/5xHRYoLiovEdivPfVfcIkj) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Peaceful Serendipity](https://open.spotify.com/album/38PZrESjNrvZr77Xv6zrcw) | 1:58 | 2024-02-02 | 2024-02-23 |
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2021-12-08 | 2022-04-06 |
 | [Pescadores](https://open.spotify.com/track/1kUaMtCK9JFPHUqPY9vEWN) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 2:47 | 2022-05-27 | 2022-08-05 |
-| [Peyton](https://open.spotify.com/track/5nUAFJs7AXuw8oALXh0wQX) | [Gabin Young](https://open.spotify.com/artist/3ZuB0jYTfhTCPaK6G9Ljfd) | [Peyton](https://open.spotify.com/album/7MGnQ4kVdBH0quMv2QY2LO) | 2:26 | 2023-01-06 |  |
+| [Peyton](https://open.spotify.com/track/5nUAFJs7AXuw8oALXh0wQX) | [Gabin Young](https://open.spotify.com/artist/3ZuB0jYTfhTCPaK6G9Ljfd) | [Peyton](https://open.spotify.com/album/7MGnQ4kVdBH0quMv2QY2LO) | 2:26 | 2023-01-06 | 2024-10-16 |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-08 | 2024-04-05 |
 | [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 | 2022-10-28 | 2023-04-28 |
 | [Pine Barrens](https://open.spotify.com/track/3K83TKlA6woUhq03vdliqz) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/0e1QAdLfpz2c0kXNVHF3vM) | 2:09 | 2022-10-28 | 2022-11-04 |

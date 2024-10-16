@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Charli xcx, Tyla, XG, The Kid LAROI, Jorja Smith  and more! cover: Charli xcx & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,227 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,248 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

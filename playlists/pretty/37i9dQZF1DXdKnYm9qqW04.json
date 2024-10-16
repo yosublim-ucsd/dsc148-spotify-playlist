@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2015.",
-  "num_followers": 175536,
+  "num_followers": 175610,
   "original_name": "Dance Hits of 2015",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 242068,
       "name": "Mind (feat. Kai)",
       "url": "https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2021-04-30 05:37:41",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2021-04-30 05:37:41",
       "album": {
-        "name": "Ganjaman",
-        "url": "https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Ganjaman",
-      "url": "https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2"
-    },
-    {
-      "added_at": "2021-04-30 05:37:41",
-      "album": {
         "name": "You Were Right",
         "url": "https://open.spotify.com/album/4sH5zgJ8ILdhAHo1lUaLdP"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 238646,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5yBTaAR2GZWCrDdUqkIuUh"
+    },
+    {
+      "added_at": "2021-04-30 05:37:41",
+      "album": {
+        "name": "Ganjaman",
+        "url": "https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Ganjaman",
+      "url": "https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2"
     },
     {
       "added_at": "2021-04-30 05:37:41",

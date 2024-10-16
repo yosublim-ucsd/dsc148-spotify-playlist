@@ -2,7 +2,7 @@
 
 ### [This Is Moneybagg Yo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21kuKR)
 
-> This is Moneybagg Yo\. The essential tracks, all in one playlist.
+> This Is Moneybagg Yo\. Los temas esenciales, todos en una lista.
 
 118 songs - 5 hr 32 min
 

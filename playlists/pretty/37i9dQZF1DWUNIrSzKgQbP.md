@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Falling leaves and cozy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663,136 likes - 84 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,664,360 likes - 84 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-517 songs - 21 hr 55 min
+518 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Break Of Day](https://open.spotify.com/track/0tLYax4z9smBlddTSfeguE) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Break Of Day](https://open.spotify.com/album/45VoYJoivXsCEwOI107vkI) | 2:26 | 2023-05-19 |  |
 | [Brescia](https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:45 | 2023-04-28 | 2023-06-23 |
 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-04-28 | 2023-06-23 |
-| [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2022-09-09 |  |
+| [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2022-09-09 | 2024-10-16 |
 | [Brume Silencieuse](https://open.spotify.com/track/0G4v5eDVkTMUmdn5VWqbEM) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [Brume Silencieuse](https://open.spotify.com/album/2PY9afUqaVNeCgrHjBjdjw) | 2:21 | 2022-06-17 | 2024-04-05 |
 | [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-28 | 2023-06-23 |
 | [Calida Brisa](https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Calida Brisa](https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp) | 1:55 | 2023-06-09 | 2023-09-14 |
@@ -386,6 +386,7 @@
 | [Rosales](https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Rosales](https://open.spotify.com/album/1b3lqDesHJ4gKr3WawAHrm) | 4:41 | 2022-12-09 | 2023-09-08 |
 | [Rosarium](https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Rosarium](https://open.spotify.com/album/3tHJOtzuJHpngvUnvsHBXL) | 2:25 | 2022-06-17 | 2022-12-24 |
 | [Rovinj](https://open.spotify.com/track/6hSTsBLxqXM0WQhrmxZRpf) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Rovinj](https://open.spotify.com/album/7gw510u1oc6OWOhENT0P7N) | 3:06 | 2024-06-14 | 2024-08-14 |
+| [Royan](https://open.spotify.com/track/5fIJtYm39OtXMAh4geauC9) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Royan](https://open.spotify.com/album/6E7enXaW0kX3sil3Uq6r6g) | 3:22 | 2024-10-15 |  |
 | [Rubato](https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Rubato](https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA) | 1:44 | 2023-01-06 | 2023-09-14 |
 | [Sage](https://open.spotify.com/track/3XsO2i5UGNZfSiyd3sGJ1Y) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [Sage](https://open.spotify.com/album/29Yl3TO5JAkkkoiqf8iEOd) | 2:43 | 2022-08-05 | 2023-12-15 |
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 | 2024-05-25 |

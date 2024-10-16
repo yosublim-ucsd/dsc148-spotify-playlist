@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 76985,
+  "num_followers": 77074,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2024-07-05 20:59:24",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+        "name": "The Devil Don't Sleep",
+        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
       },
       "artists": [
         {
           "name": "Brantley Gilbert",
           "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+      "duration_ms": 187760,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
     },
     {
       "added_at": "2024-07-05 20:59:24",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-07-05 20:59:24",
       "album": {
-        "name": "The Devil Don't Sleep",
-        "url": "https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb"
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
       "artists": [
         {
           "name": "Brantley Gilbert",
           "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 187760,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk"
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
       "added_at": "2024-07-05 20:59:24",

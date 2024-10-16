@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 197472,
+  "num_followers": 197578,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "25 Concierto Conmemorativo",
         "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 288800,
       "name": "Jesucristo basta",
       "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1647,30 +1647,6 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 279858,
-      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
-      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1755,6 +1731,30 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 279858,
+      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
+      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Santo Es Tu Nombre",
         "url": "https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP"
       },
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Cielo En La Tierra",
-        "url": "https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Cielo En La Tierra",
-      "url": "https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Eres Mi Pasi\u00f3n",
         "url": "https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz"
       },
@@ -1823,6 +1803,22 @@
       "duration_ms": 192130,
       "name": "Poema de salvaci\u00f3n",
       "url": "https://open.spotify.com/track/58MfbVYQQATU1ifuqjQsEj"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/0uwZ5P5zNmkvJDWjtrTM5Z"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 312084,
+      "name": "Mi Cristo Vive",
+      "url": "https://open.spotify.com/track/3r0HrAgIIyDgorXKYtmZE4"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

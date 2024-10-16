@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-813 songs - 1 day 11 hr 7 min
+815 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-19 |
 | [Cypress Castles](https://open.spotify.com/track/2f7VpoODTaBAeQMeGHqjRI) | [Fathomsong](https://open.spotify.com/artist/3koJbZXIy6hN5sOp9OMZFj) | [Effervescence](https://open.spotify.com/album/508xVNABZUOxcFBfEFeep5) | 2:35 | 2021-12-08 | 2022-05-11 |
 | [Cándida Sonata](https://open.spotify.com/track/4KoaZlljNMxtkFYVI9JRR1) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Cándida Sonata](https://open.spotify.com/album/0TxBfjer0Zm5m8Y8TtCl7V) | 2:46 | 2022-06-24 | 2022-11-18 |
-| [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-10 |  |
+| [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-10 | 2024-10-16 |
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 | 2024-09-03 |  |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-15 | 2022-11-18 |
@@ -331,6 +331,7 @@
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-05-26 | 2023-08-19 |
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-08-21 |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2022-03-25 | 2023-08-19 |
+| [In Search of Gems](https://open.spotify.com/track/10Ilz6KAPyPnizZvNApmsf) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [In Search of Gems](https://open.spotify.com/album/3Fq4PRvtCZkVm7QbatRWvX) | 2:32 | 2024-10-15 |  |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
 | [In vino veritas](https://open.spotify.com/track/6BjN3um3X3aF0xI0i29NY1) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [New Amsterdam](https://open.spotify.com/album/10FZBKArCxME3V2PB8C818) | 3:07 | 2022-07-15 | 2022-10-29 |
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-03-24 | 2024-05-25 |
@@ -439,7 +440,7 @@
 | [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2022-11-18 | 2024-05-04 |
 | [Maple Street](https://open.spotify.com/track/5GsNfOialI5ZsqmsuZ57CH) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Maple Street](https://open.spotify.com/album/2slEEFLv6zCH9BxsZWXNGc) | 2:33 | 2023-08-10 |  |
 | [Matira](https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Matira](https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN) | 2:20 | 2023-08-10 | 2024-06-01 |
-| [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-01-19 |  |
+| [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-01-19 | 2024-10-16 |
 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-02 |  |
 | [Melhor Coisa](https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Melhor Coisa](https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ) | 2:12 | 2023-04-21 |  |
 | [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 |  |
@@ -561,6 +562,7 @@
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-05-27 | 2022-09-17 |
 | [Pragmatique](https://open.spotify.com/track/4oOgOAn9AgPDygYgN8nXhc) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Pragmatique](https://open.spotify.com/album/7GJvN3Murt1srya715Qjut) | 2:03 | 2021-12-08 | 2022-06-17 |
 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 | 2024-05-24 |  |
+| [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 | 2024-10-15 |  |
 | [Presque l'amour](https://open.spotify.com/track/6ECDIq1iKLeAXisPMRyxMr) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Presque l'amour](https://open.spotify.com/album/6ndqkMdA8Uiu5ZbvrfEYiD) | 2:14 | 2021-12-08 | 2022-06-10 |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-21 |  |
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |
@@ -579,7 +581,7 @@
 | [Remember Me \- Acoustic Guitar Fingerstyle](https://open.spotify.com/track/4PJKrajpXGcWDKgloksMxl) | [Liu Musix](https://open.spotify.com/artist/32P70mYx8VgEtP4byzEjiI) | [Remember Me \(Acoustic Guitar Fingerstyle\)](https://open.spotify.com/album/7kx9txBwz5cAYn4ZzD5cF8) | 1:14 | 2022-06-10 | 2022-11-18 |
 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2022-10-07 | 2024-05-04 |
 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2022-11-25 | 2024-05-25 |
-| [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-24 |  |
+| [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-24 | 2024-10-16 |
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-25 | 2024-07-18 |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2022-09-16 | 2023-06-09 |

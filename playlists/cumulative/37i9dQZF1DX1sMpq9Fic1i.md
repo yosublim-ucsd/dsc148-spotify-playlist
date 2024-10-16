@@ -4,7 +4,7 @@
 
 > Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-46 songs - 4 hr 9 min
+49 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,14 @@
 | [BLUE LUCK \- Ver.01](https://open.spotify.com/track/3SE34kqmis3YB9P7S09T28) | [凪 誠士郎 \(CV.島﨑信長\)](https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m), [御影玲王 \(CV.内田雄馬\)](https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y), [剣城斬鉄 \(CV.興津和幸\)](https://open.spotify.com/artist/5OFrXH0AP6j7BEnokutBz2) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.1](https://open.spotify.com/album/0Rj0jhW3QFmC7F5Hh6NK0k) | 3:00 | 2024-05-14 |  |
 | [BLUE LUCK Ver.03](https://open.spotify.com/track/6HacwpkXkYQ9lQCyqFI9YY) | [千切豹馬 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/3Q5mbDEOzgcVvkWJCE2HQA), [鰐間淳壱 \(CV.鈴木崚汰\)](https://open.spotify.com/artist/5iBI8UR7K3F8sIPhJwTCZR), [鰐間計助 \(CV.鈴木崚汰\)](https://open.spotify.com/artist/6UnCFGwp8kBHhTTsUL5d8f) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.3](https://open.spotify.com/album/60xqWHyCH566o8O7G8uf9l) | 2:56 | 2024-07-16 |  |
 | [BLUE LUCK Ver.05](https://open.spotify.com/track/5c18e7c79JTnvIoiW36VAn) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:01 | 2024-09-17 |  |
+| [BLUE LUCK Ver.06](https://open.spotify.com/track/0OOQyUTf5GLoBh1xtLBmuK) | [潔 世一 \(CV.浦 和希\)](https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0), [蜂楽 廻 \(CV.海渡 翼\)](https://open.spotify.com/artist/6fnmf4FIORmnmc1DdDiI6F) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.6](https://open.spotify.com/album/6bJhh2kL2gvyCvPp8ZCCql) | 2:57 | 2024-10-15 |  |
 | [BLUELOCK](https://open.spotify.com/track/6o6BdgEE5mK8muWiRuMw4j) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:22 | 2023-06-22 |  |
 | [CHIGIRI](https://open.spotify.com/track/2bbLUl984baOGtljQ6uPiR) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:39 | 2023-06-22 |  |
 | [Despair](https://open.spotify.com/track/0mdgTQt3wfchbTm7d34SsR) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:26 | 2023-06-22 |  |
 | [Distorted Pleasure](https://open.spotify.com/track/7itXW9B5kOjtHAA2215uat) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:14 | 2023-06-22 |  |
 | [Farewell to KAIBUTSU](https://open.spotify.com/track/3mdbsLzskY9n7njsvWAVeT) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:50 | 2023-06-22 |  |
 | [Formidable Enemy](https://open.spotify.com/track/2LAL45DNefNXxeacUKergK) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:36 | 2023-06-22 |  |
+| [FRIENdSTER](https://open.spotify.com/track/3j2eXR6RhbwNFPB5ZLNt1Z) | [潔 世一 \(CV.浦 和希\)](https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0), [蜂楽 廻 \(CV.海渡 翼\)](https://open.spotify.com/artist/6fnmf4FIORmnmc1DdDiI6F) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.6](https://open.spotify.com/album/6bJhh2kL2gvyCvPp8ZCCql) | 3:28 | 2024-10-15 |  |
 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 | 2023-06-22 |  |
 | [Kick Off](https://open.spotify.com/track/0dpKc2wZhvWRtrUogyp06P) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 1:38 | 2023-06-22 | 2024-09-18 |
 | [Monsters](https://open.spotify.com/track/5W1vf2mP0x2fnEnbK7jydv) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:57 | 2023-06-22 |  |
@@ -52,6 +54,7 @@
 | [傍若のカリスマ](https://open.spotify.com/track/6ubI9ALQi6TQYZm7tVPDAi) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [傍若のカリスマ](https://open.spotify.com/album/6D0tjjeezuKCQbAyiGILDj) | 4:25 | 2024-10-01 |  |
 | [戦神](https://open.spotify.com/track/3dSWfBqzDQfCLth30powdR) | [凪 誠士郎 \(CV.島﨑信長\)](https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m), [御影玲王 \(CV.内田雄馬\)](https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y), [剣城斬鉄 \(CV.興津和幸\)](https://open.spotify.com/artist/5OFrXH0AP6j7BEnokutBz2) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.1](https://open.spotify.com/album/0Rj0jhW3QFmC7F5Hh6NK0k) | 3:35 | 2024-05-14 |  |
 | [暴風とプロメテウス](https://open.spotify.com/track/6zVQTG4XWUQa7fyF8PIVGl) | [TEAM Z](https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54) | [TVアニメ『ブルーロック』キャラクターソングミニアルバム Vol.1](https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm) | 3:09 | 2023-06-22 |  |
+| [潔 世一 スペシャルボイスコメント](https://open.spotify.com/track/33asd86TYk4AjBy0my38Xl) | [潔 世一\(CV.浦 和希\)](https://open.spotify.com/artist/6SRtRCsHwqr3CSrwk2NNUp) | [潔 世一 スペシャルボイスコメント](https://open.spotify.com/album/512cCkIzwW7pn96xQO41mr) | 0:19 | 2024-10-15 |  |
 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2024-09-17 |  |
 | [羅実組曲](https://open.spotify.com/track/5VfUWuQS6SVaLJPTgJpcpC) | [千切豹馬 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/3Q5mbDEOzgcVvkWJCE2HQA), [鰐間淳壱 \(CV.鈴木崚汰\)](https://open.spotify.com/artist/5iBI8UR7K3F8sIPhJwTCZR), [鰐間計助 \(CV.鈴木崚汰\)](https://open.spotify.com/artist/6UnCFGwp8kBHhTTsUL5d8f) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.3](https://open.spotify.com/album/60xqWHyCH566o8O7G8uf9l) | 3:43 | 2024-07-16 |  |
 

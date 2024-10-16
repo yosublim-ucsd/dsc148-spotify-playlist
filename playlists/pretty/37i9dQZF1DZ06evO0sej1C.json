@@ -1,12 +1,12 @@
 {
-  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 41252,
+  "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
+  "num_followers": 41275,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADNQElP/+5SM/Rkfo+DdfTV",
+  "snapshot_id": "ZwxfAAAAAACc8HKO2vjBFfe/cHKR2ykV",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Sur de la Noche",
+        "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        }
+      ],
+      "duration_ms": 163100,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -299,34 +327,6 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Sur de la Noche",
-        "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Jose Macario",
-          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
-        }
-      ],
-      "duration_ms": 163100,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 225923,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LQRA Session #3",
+        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "LQRA Session #3",
+      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Me Pas\u00f3",
         "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 239500,
       "name": "Se Me Pas\u00f3",
       "url": "https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #3",
-        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "LQRA Session #3",
-      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Chip S (Metal Version)",
-      "url": "https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que Qued\u00f3",
         "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 207464,
       "name": "Lo Que Qued\u00f3",
       "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Me Olvid\u00e9",
-        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "De Ti Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
     },
     {
       "added_at": null,
@@ -1051,6 +1031,26 @@
       "duration_ms": 171807,
       "name": "Alto Calibre",
       "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Me Olvid\u00e9",
+        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "De Ti Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Levant\u00e9",
-        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Me Levant\u00e9",
-      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
     },
     {
       "added_at": null,

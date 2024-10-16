@@ -3151,6 +3151,28 @@
     },
     {
       "album": {
+        "name": "Decime cu\u00e1l fue",
+        "url": "https://open.spotify.com/album/6vWqTZWOH11IP1aE05ZjJ7"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156852,
+      "name": "Decime cu\u00e1l fue",
+      "url": "https://open.spotify.com/track/0bRDBNVBszuxoxTyEjpa4e"
+    },
+    {
+      "album": {
         "name": "DEFINITIVA",
         "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
       },

@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "L'Autre",
+        "url": "https://open.spotify.com/album/35oeDD8qQMFl7xznpqymDc"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322760,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/3Znw6uf5RObcwcXK7DDuyq"
+    },
+    {
+      "album": {
         "name": "Grain de sable",
         "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 207493,
       "name": "Le Dernier Jour du Disco",
       "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"

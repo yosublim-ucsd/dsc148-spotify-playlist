@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Pommelien Thijs & MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,179 likes - 89 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,190 likes - 89 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-207 songs - 9 hr 6 min
+208 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 | 2024-01-09 |  |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2023-10-27 | 2024-03-08 |
 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 | 2023-10-27 |  |
+| [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 | 2024-10-15 |  |
 | [Cadence of Night](https://open.spotify.com/track/5VKcVJGoyODnQh2Hgctid7) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Cadence of Night](https://open.spotify.com/album/7MOMEoZkkcVXF9WkAqnbVi) | 2:22 | 2024-02-05 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2023-10-27 |  |
 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2023-10-27 | 2024-02-22 |
@@ -49,7 +50,7 @@
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2023-10-27 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2023-10-27 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2023-10-27 |  |
-| [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2023-10-27 |  |
+| [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2023-10-27 | 2024-10-16 |
 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-10-27 |  |
 | [Domande](https://open.spotify.com/track/3PCrufS6uFrm7Q6ArBW1nf) | [Flavio Nisi](https://open.spotify.com/artist/2CXAIegHBPc71Wr9GTIAz5) | [Domande](https://open.spotify.com/album/7c7ES2lzWaTQQJZ8nBIozl) | 2:31 | 2023-10-27 |  |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2023-10-27 |  |
@@ -58,7 +59,7 @@
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2023-10-27 |  |
 | [Escapism](https://open.spotify.com/track/5WkclLoutSWdqdYjCcLAbD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Escapism](https://open.spotify.com/album/7hXxxaiE5ruteHtSHz1EVu) | 2:31 | 2023-10-27 |  |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2023-10-27 |  |
-| [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-10-27 |  |
+| [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-10-27 | 2024-10-16 |
 | [Fabric of Summer](https://open.spotify.com/track/5u8JFIiwYnvlvOluXoyANy) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Fabric of Summer](https://open.spotify.com/album/0qnLxjGGBmnIjmOo6D2ZVY) | 2:14 | 2023-10-27 |  |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-27 |  |
 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 | 2024-05-01 |  |

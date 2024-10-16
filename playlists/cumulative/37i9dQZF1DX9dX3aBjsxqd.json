@@ -1381,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Robert Schumann: Zart und mit Ausdruck (from Fantasiest\u00fccke Op. 73)",
+        "url": "https://open.spotify.com/album/0ZZrIPEcOXSDgQ84RjJewG"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian-Pierre La Marca",
+          "url": "https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j"
+        },
+        {
+          "name": "Jean-Fr\u00e9d\u00e9ric Neuburger",
+          "url": "https://open.spotify.com/artist/6jsH3z7JbQRNQjjmTcy7Wy"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "Fantasiest\u00fccke",
+      "url": "https://open.spotify.com/track/2nmrVF0Wuytjbum7IhDCvV"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/53YngitfGka6Bt402uaLsV"
       },

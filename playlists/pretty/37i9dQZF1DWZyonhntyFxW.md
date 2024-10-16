@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > الخطة ملوك من اللفه انا استاهل منكوا الصقفة\. غلاف: مهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,450 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,546 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 |
+| 1 | [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 |
 | 2 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
 | 3 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
 | 4 | [ATTA3](https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [ATTA3](https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt) | 2:26 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 18 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
 | 19 | [VINI](https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:04 |
 | 20 | [99](https://open.spotify.com/track/6bozqRXCia64pVDU7FfZMM) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:15 |
-| 21 | [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 |
+| 21 | [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 |
 | 22 | [Matghebsh](https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5) | [Ramez Naguib](https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Yemken](https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri) | 2:27 |
 | 23 | [SHHHH](https://open.spotify.com/track/5jMqDJwBXQHR1V13q3YKme) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 1:40 |
 | 24 | [سكة](https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [سكة](https://open.spotify.com/album/5EHEsSOcBExuVkeMKayq45) | 3:14 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 27 | [Meen \(feat\. Rafiek\)](https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [من الرماد](https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp) | 2:45 |
 | 28 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
 | 29 | [El Ters](https://open.spotify.com/track/2u7ORPqITjz66HLu7cMH3v) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Ters](https://open.spotify.com/album/0aIsZHl5cV4NO9MkpdECxh) | 2:29 |
-| 30 | [Il Mond](https://open.spotify.com/track/3FEvxirJwF3NLAJi16RHbP) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:38 |
+| 30 | [Il Mond](https://open.spotify.com/track/3FEvxirJwF3NLAJi16RHbP) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:38 |
 | 31 | [HERO](https://open.spotify.com/track/5iCZDlejNhUKyIQMMwml5l) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [KHOD](https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY) | 2:29 |
 | 32 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 |
 | 33 | [Baklem El Amar](https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa) | [Moga](https://open.spotify.com/album/74pPbkercbdyczbWsW5ZcA) | 2:31 |

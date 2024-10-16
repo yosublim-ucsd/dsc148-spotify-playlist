@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Your favorite holiday tunes, like you've never heard before. Cover: Laufey",
+  "description": "Your favorite holiday tunes, like you've never heard before. Cover: Dasha",
   "name": "Spotify Singles: Holiday Collection",
   "tracks": [
     {
@@ -610,6 +610,24 @@
     {
       "album": {
         "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+    },
+    {
+      "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a"
       },
       "artists": [
@@ -642,6 +660,24 @@
       "duration_ms": 184693,
       "name": "El Burrito Sabanero - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5YXTITnbibiZbdo3maG39v"
+    },
+    {
+      "album": {
+        "name": "Emanuel - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Emanuel - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
     },
     {
       "album": {
@@ -844,6 +880,24 @@
       "duration_ms": 163367,
       "name": "Have Yourself A Merry Little Christmas (feat. Danielle Brooks) - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/66bAZCmayomM3GGDdhz6ir"
+    },
+    {
+      "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
     },
     {
       "album": {
@@ -1647,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "River (It's Coming On Christmas)",
+        "url": "https://open.spotify.com/album/6yVzXPP3unDEJcb2OKxhuA"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162392,
+      "name": "River (It's Coming On Christmas)",
+      "url": "https://open.spotify.com/track/3CQRItEPfTkBTbr6QJoY8n"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4ecvpp0mbSwKEUWHAPngLV"
       },
@@ -1752,6 +1824,24 @@
       "duration_ms": 96852,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/2lhlItQCi2mgtJVl80RPWY"
+    },
+    {
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
       "album": {

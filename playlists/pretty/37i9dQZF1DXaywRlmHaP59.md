@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,437 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,461 likes - 48 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 36 | [Shou Helou](https://open.spotify.com/track/51hN3ScR3uO358mhvpYJ8F) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/20U2djwMNxfe8iQzHp2KdG) | 3:31 |
 | 37 | [Akrab Chakhes](https://open.spotify.com/track/6BNoktQeQbGasv1QdbLrH0) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Akrab Chakhes](https://open.spotify.com/album/3HrfuIuppioPOPh4NS9bED) | 3:29 |
 | 38 | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/album/3C5WDsRahXqn1rCMj7Rm5e) | 1:31 |
-| 39 | [Sakat El Warak](https://open.spotify.com/track/6WVXAAOsu7Jg37jBTp1gJl) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Sakat El Warak](https://open.spotify.com/album/3pm7fVcs0XheAw7HqOik6O) | 3:59 |
-| 40 | [Bukra Ahla](https://open.spotify.com/track/52XkiamJRqW7uFLoJkCMLk) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/7AtI3mqZDFTInh0Y6YbJA5) | 2:40 |
-| 41 | [Haidi El Deni](https://open.spotify.com/track/7hKkXTH1AxbXUdaL6JKO6x) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Haidi El Deni](https://open.spotify.com/album/0Ni1cqGaCfX7HE6T6Vzi4j) | 3:43 |
-| 42 | [Khserna Baad](https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj), [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Khserna Baad](https://open.spotify.com/album/1dPEbDDxEC6GU5u7B9zlqE) | 3:07 |
-| 43 | [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 |
-| 44 | [Mesh Taye'](https://open.spotify.com/track/57MzJQAKcizIPuwcUBgyQ2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/5RNSMpD6G7GGt4maIdDu1F) | 2:54 |
-| 45 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
-| 46 | [Madi Ehtarak](https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA) | [Jad Khalife](https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL) | [Madi Ehtarak](https://open.spotify.com/album/6f5EHF9aWtW8ro88V1Q8QX) | 4:05 |
-| 47 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 |
-| 48 | [Ya Mdallaa](https://open.spotify.com/track/3NjPre3o7IrY1OkBG97Opc) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/5VoAawJAUcU1ExRvABtQJJ) | 2:57 |
-| 49 | [Han AlAn](https://open.spotify.com/track/2MaVjzNUXijqQM9ULZMRzq) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Han AlAn](https://open.spotify.com/album/1ew6D40gSEKZKWxbNGXAvC) | 3:40 |
-| 50 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 |
+| 39 | [Bukra Ahla](https://open.spotify.com/track/52XkiamJRqW7uFLoJkCMLk) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/7AtI3mqZDFTInh0Y6YbJA5) | 2:40 |
+| 40 | [Haidi El Deni](https://open.spotify.com/track/7hKkXTH1AxbXUdaL6JKO6x) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Haidi El Deni](https://open.spotify.com/album/0Ni1cqGaCfX7HE6T6Vzi4j) | 3:43 |
+| 41 | [Khserna Baad](https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj), [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Khserna Baad](https://open.spotify.com/album/1dPEbDDxEC6GU5u7B9zlqE) | 3:07 |
+| 42 | [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 |
+| 43 | [Mesh Taye'](https://open.spotify.com/track/57MzJQAKcizIPuwcUBgyQ2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/5RNSMpD6G7GGt4maIdDu1F) | 2:54 |
+| 44 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
+| 45 | [Madi Ehtarak](https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA) | [Jad Khalife](https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL) | [Madi Ehtarak](https://open.spotify.com/album/6f5EHF9aWtW8ro88V1Q8QX) | 4:05 |
+| 46 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 |
+| 47 | [Ya Mdallaa](https://open.spotify.com/track/3NjPre3o7IrY1OkBG97Opc) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/5VoAawJAUcU1ExRvABtQJJ) | 2:57 |
+| 48 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 |
 
-Snapshot ID: `ZwTR0QAAAAB7vVAqpZIb/1uqkZWz5h3W`
+Snapshot ID: `Zw50AAAAAAAADp1kn3FWCQ4B1gJmvH3g`

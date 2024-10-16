@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
-  "num_followers": 62659,
+  "num_followers": 62665,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "Hombres De Hierro",
         "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 279625,
       "name": "Hombres De Hierro",
       "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 435040,
-      "name": "The Chicken",
-      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 435040,
+      "name": "The Chicken",
+      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Bebamos de las Copas Lindas",
-        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+        "name": "Desinformation",
+        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         }
       ],
-      "duration_ms": 207300,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
+      "duration_ms": 245750,
+      "name": "Desinformation",
+      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Desinformation",
-        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 245750,
-      "name": "Desinformation",
-      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Desglosando el Tiempo",
-        "url": "https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 286910,
-      "name": "Desglosando el Tiempo",
-      "url": "https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Ruta",
         "url": "https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
+        "name": "Todo Es As\u00ed",
+        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
+      },
+      "artists": [
+        {
+          "name": "DOMA",
+          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
+        }
+      ],
+      "duration_ms": 230132,
+      "name": "Todo Es As\u00ed",
+      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
         "name": "The Lady in Red",
         "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Todo Es As\u00ed",
-        "url": "https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K"
+        "name": "Desglosando el Tiempo",
+        "url": "https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8"
       },
       "artists": [
         {
-          "name": "DOMA",
-          "url": "https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         }
       ],
-      "duration_ms": 230132,
-      "name": "Todo Es As\u00ed",
-      "url": "https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4"
+      "duration_ms": 286910,
+      "name": "Desglosando el Tiempo",
+      "url": "https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Tenia Tanto Para Darte",
-        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 263144,
-      "name": "Tenia Tanto Para Darte",
-      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 239280,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
     },
     {
       "added_at": "2024-10-03 20:51:05",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-10-03 20:51:05",
       "album": {
-        "name": "Estamos Tranki",
-        "url": "https://open.spotify.com/album/1jemq69R5q7bw7iYEsBc8C"
-      },
-      "artists": [
-        {
-          "name": "Taffari Nadal",
-          "url": "https://open.spotify.com/artist/6U154kMe4SHMG7g2IdffvJ"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 225132,
-      "name": "Estamos Tranki",
-      "url": "https://open.spotify.com/track/38wxRRTxiw31ISUh5izhTa"
-    },
-    {
-      "added_at": "2024-10-03 20:51:05",
-      "album": {
         "name": "En Vivo Teatro Caupolic\u00e1n",
         "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
       },
@@ -1551,6 +1531,22 @@
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
+    },
+    {
+      "added_at": "2024-10-03 20:51:05",
+      "album": {
+        "name": "Momento Tiempo",
+        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
+      },
+      "artists": [
+        {
+          "name": "Delfines de Etiopia",
+          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
+        }
+      ],
+      "duration_ms": 259373,
+      "name": "De Tanto Caminar",
+      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
     },
     {
       "added_at": "2024-10-03 20:51:05",

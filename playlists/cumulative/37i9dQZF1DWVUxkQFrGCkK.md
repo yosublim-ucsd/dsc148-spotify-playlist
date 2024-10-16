@@ -4,14 +4,14 @@
 
 > AP x CC
 
-714 songs - 2 day 3 hr 31 min
+714 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-22 |  |
 | [1994](https://open.spotify.com/track/6hZ84FsTMVnKcFg4NL8Jdx) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [1994](https://open.spotify.com/album/6Ad8xLIOBY6b2mG1jIenwa) | 5:09 | 2023-06-29 | 2023-08-02 |
 | [2 Roots](https://open.spotify.com/track/2rixeRSqKJP98HHOsLnHhr) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [2 Roots](https://open.spotify.com/album/1eT3yt0QMBaM8GT6N8e3Wp) | 6:49 | 2024-07-04 | 2024-08-16 |
-| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-09-26 |  |
+| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 | 2024-09-26 |  |
 | [2Sides \- Crackazat Remix](https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [2Sides \(Crackazat Remix\)](https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L) | 5:17 | 2023-10-19 | 2024-06-21 |
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-05 |  |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-13 | 2024-01-05 |

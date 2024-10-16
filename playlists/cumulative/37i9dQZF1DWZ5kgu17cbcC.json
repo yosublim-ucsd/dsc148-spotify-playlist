@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "La M\u00e1quina (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KP9WyomLkp4wOQVOtWXgB"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Barreiro",
+          "url": "https://open.spotify.com/artist/5zevXb8qqBBmO4HvTLUr5P"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87125,
+      "name": "Freskito",
+      "url": "https://open.spotify.com/track/6twTVx1n5UKlJUo1530mHZ"
+    },
+    {
+      "album": {
         "name": "The Ocean Avenue Block Party (From \"Bob's Burgers\")",
         "url": "https://open.spotify.com/album/78bIHCIOlk7FGA1b0wj72g"
       },

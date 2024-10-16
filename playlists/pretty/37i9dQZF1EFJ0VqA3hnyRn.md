@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336 likes - 256 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 256 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 58 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
 | 59 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
 | 60 | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/track/3clw56k8jqFaXnwdejV4Yo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/album/4Y6jkhla5dLnq9vfPI7gmX) | 3:37 |
-| 61 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 |
-| 62 | [How We Roll](https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 3:19 |
+| 61 | [How We Roll](https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 3:19 |
+| 62 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 |
 | 63 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 64 | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/track/1qJjofprTOxvqkIAdDixaP) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [For Everybody \(feat\. Wiz Khalifa & R\. City\)](https://open.spotify.com/album/2FOoa928JSQv3n6vQ5CKDY) | 4:28 |
 | 65 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 154 | [Super Villain](https://open.spotify.com/track/3JKSCrtSnNdVWDACLVffRh) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Somewhere On The Other Side Of Nowhere](https://open.spotify.com/album/3sHUnrTHcNRTQurrUEoDbz) | 3:45 |
 | 155 | [Another One](https://open.spotify.com/track/6k63UfdOYsPWgwojWyKfwv) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:45 |
 | 156 | [Put It on Ya \(feat\. Chris J\)](https://open.spotify.com/track/2m0dyKic2V40cSkuO9CNm7) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Chris J](https://open.spotify.com/artist/6AU5hm7RJo0j9pmsNOeJKB) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:17 |
-| 157 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 |
-| 158 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 157 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 158 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 |
 | 159 | [369 \(feat\. B.o.B.\)](https://open.spotify.com/track/6hRxkub3GwimKCrH8MJ3y2) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:31 |
 | 160 | [Thirty8](https://open.spotify.com/track/4nZPglLs2fEvrIVTZpKasy) | [Robnhood Tra](https://open.spotify.com/artist/3U6QnM9NTNaBkuPAQmINy2) | [Ferrari N A Junkyard](https://open.spotify.com/album/5S7J1RszqzExaf0HyJk5zP) | 3:07 |
 | 161 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 255 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 256 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbeyigAAAABBHiwjs0JYDRGJs8BeQ8+G`
+Snapshot ID: `Abe4KgAAAAASD8noQpcd/GJ2LtDoevO4`

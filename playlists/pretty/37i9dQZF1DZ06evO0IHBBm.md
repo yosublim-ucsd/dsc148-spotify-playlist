@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 ### [This Is Damares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IHBBm)
 
-> This is Damares\. The essential tracks, all in one playlist.
+> This is Damares\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,958 likes - 47 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,965 likes - 47 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 46 | [Vai Ficar Bem](https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Ficar Bem](https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg) | 1:56 |
 | 47 | [A Vitória É Nossa](https://open.spotify.com/track/4aZg1QEy7wttKHv4fRQ6U9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Vitória É Nossa](https://open.spotify.com/album/0KUAv9wADrfuAPwf84DJrv) | 3:16 |
 
-Snapshot ID: `ZwsNgAAAAACWCzPpH1dLcVZ6zk+gqwTV`
+Snapshot ID: `ZwxfAAAAAAAw+gYpt9GR/rtqEKB5iwaE`

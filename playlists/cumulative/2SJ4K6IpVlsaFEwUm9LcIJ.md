@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-318 songs - 16 hr 55 min
+319 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-07-30 | 2024-09-08 |
 | [Just My Love And I](https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [When It Was Done](https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF) | 2:18 | 2024-03-11 | 2024-05-16 |
 | [Kanon](https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [Lost Marbles and Exploded Evidence](https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw) | 3:20 | 2024-07-12 | 2024-09-08 |
+| [Klonkmelodin](https://open.spotify.com/track/1MdoqTzAV9BPbw1ZbZw9iU) | [Sagor & Swing](https://open.spotify.com/artist/3KIUFqenyBNPkZIQjVnfdX) | [Melodier och fåglar](https://open.spotify.com/album/0f9hohz1u0EeHY8j8RBAQH) | 2:03 | 2024-10-15 |  |
 | [Know by Heart](https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:53 | 2024-04-12 | 2024-05-16 |
 | [Komodo](https://open.spotify.com/track/2gDGX6ANP3GF9uMwuA4GMy) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:06 | 2024-09-07 |  |
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-29 | 2024-09-08 |

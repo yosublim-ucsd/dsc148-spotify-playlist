@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,539 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,588 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 42 | [Back Bend \(Remix\)](https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts) | [Subance](https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv), [Uncle Ellis](https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx) | [Back Bend \(Remix\)](https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW) | 3:05 |
 | 43 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 44 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 |
-| 45 | [Give It to Ya](https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Give It to Ya](https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc) | 2:52 |
+| 45 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 46 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
-| 47 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
+| 47 | [Give It to Ya](https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Give It to Ya](https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc) | 2:52 |
 | 48 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
 | 49 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
 | 50 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 90 | [Allez](https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Allez](https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax) | 3:38 |
 | 91 | [Bless This Party](https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:50 |
 | 92 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
-| 93 | [Differentology \(Ready for the Road\)](https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Differentology](https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a) | 4:20 |
+| 93 | [Jumbo Jet](https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:53 |
 | 94 | [Dingolay](https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Dingolay](https://open.spotify.com/album/1iavPUafWYJWcstenET7ex) | 3:27 |
 | 95 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
 | 96 | [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 |
 | 97 | [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 |
 | 98 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
-| 99 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
-| 100 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 99 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 100 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 
 Snapshot ID: `ZrEwDwAAAABbc1zB5E4OPeyPG1m0NgYO`

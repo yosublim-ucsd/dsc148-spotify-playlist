@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,836 likes - 137 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,927 likes - 137 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 20 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \- Original Video Game Soundtrack](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
 | 21 | [The Fallen Brother](https://open.spotify.com/track/1Y0LhaqOcaUFxF3VBGD9Qy) | [Gerard Marino](https://open.spotify.com/artist/7xZsnJ0ry5xKWJg0AjP9rC) | [God of War: Ghost of Sparta \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5yN2kJh22LtZVn55wVMH7h) | 1:16 |
 | 22 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
-| 23 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 |
+| 23 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 |
 | 24 | [Astro](https://open.spotify.com/track/54JLst9pXCA0BeBLcLe018) | [Kenneth C M Young](https://open.spotify.com/artist/0dGaEL3mjJlsHo0663gZjE) | [ASTRO BOT \(Original Soundtrack\)](https://open.spotify.com/album/0TrNstPaeRP0BI4Q5qCclZ) | 4:19 |
 | 25 | [Assassin's Creed IV Black Flag Main Theme](https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Original Game Soundtrack\)](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) | 2:13 |
 | 26 | [Overture to the Unwritten \(from "Hogwarts Legacy"\)](https://open.spotify.com/track/4u3Idn4PRAINifJ5lgzZDx) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa), [J Scott Rakozy](https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N), [Peter Murray](https://open.spotify.com/artist/4OmBmVt6D1vpEF32YC9gWL), [Hogwarts Legacy](https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2) | [Hogwarts Legacy \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) | 5:00 |

@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "The Nature of Peace",
+        "url": "https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV"
+      },
+      "artists": [
+        {
+          "name": "Ethereva",
+          "url": "https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "The Nature of Peace",
+      "url": "https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B"
+    },
+    {
+      "album": {
         "name": "The Sky",
         "url": "https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg"
       },

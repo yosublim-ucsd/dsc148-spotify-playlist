@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -24355,6 +24355,28 @@
     },
     {
       "album": {
+        "name": "I think about it all the time featuring bon iver",
+        "url": "https://open.spotify.com/album/3fLeZG6kziJwK5J0brDjuc"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200030,
+      "name": "I think about it all the time featuring bon iver",
+      "url": "https://open.spotify.com/track/63NhLtWQ6UxCRIu1k8uSwQ"
+    },
+    {
+      "album": {
         "name": "I Think I Left the Stove On",
         "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
       },
@@ -26802,10 +26824,32 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 269473,
       "name": "Just A Western",
       "url": "https://open.spotify.com/track/34of90TBvf1ItuoFxUyruy"
+    },
+    {
+      "album": {
+        "name": "Just A Western (Boy Harsher Remix)",
+        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241379,
+      "name": "Just A Western - Boy Harsher Remix",
+      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
     },
     {
       "album": {
@@ -34874,6 +34918,24 @@
       "duration_ms": 205580,
       "name": "not cool anymore,",
       "url": "https://open.spotify.com/track/4iabzEk5WL3yipdTR7uohI"
+    },
+    {
+      "album": {
+        "name": "Not in Love",
+        "url": "https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Not in Love",
+      "url": "https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU"
     },
     {
       "album": {

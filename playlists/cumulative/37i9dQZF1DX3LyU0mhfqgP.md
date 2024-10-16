@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Lauren Sanderson
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Emma Nolde
 
 1,323 songs - 2 day 23 hr 19 min
 

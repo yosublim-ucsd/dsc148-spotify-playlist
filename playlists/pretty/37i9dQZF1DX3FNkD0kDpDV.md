@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Unlock the Beats of ADE 2024! Prepare for an unforgettable experience as we spotlight the electrifying tracks from 2,500+ artists who will define this year's 1,000+ ADE events\. This is your exclusive sneak peek into this years’ line\-up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,981 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,937 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 1 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 2 | [what ur looking for \- Amaliah Remix](https://open.spotify.com/track/4DNPGuIMmmTtXx6YQh0ZS0) | [La La](https://open.spotify.com/artist/2k4MX5x2LmAOKmYl3BtuW5), [Amaliah](https://open.spotify.com/artist/5AAsEhGqZPvRhe423mdfN9) | [what ur looking for \(Amaliah Remix\)](https://open.spotify.com/album/4bUAx3eO0CuKXVsyNXPRAu) | 5:45 |
 | 3 | [Bænce \- NIKS Remix](https://open.spotify.com/track/6JCn2uqzjChA4JX4oYX6Tx) | [131bpm](https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6), [NIKS](https://open.spotify.com/artist/4agdFRCRYyF5xpqg5rThPt) | [Bænce \(NIKS Remix\)](https://open.spotify.com/album/2ZQjtJCr648kVNBt3faEuk) | 5:38 |
 | 4 | [Love Seeking \- Club Mix Edit](https://open.spotify.com/track/4gmuAScr81iFxHjhzt1WTa) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 5:25 |

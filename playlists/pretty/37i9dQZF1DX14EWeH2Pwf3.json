@@ -1,12 +1,12 @@
 {
   "description": "Night Skinny in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
-  "num_followers": 972890,
+  "num_followers": 973020,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwkByAAAAAD9SxYEVlRc8bRTo8O8BkwX",
+  "snapshot_id": "Zw5F9AAAAACS7p3a8Edaa3wueDffTFRR",
   "tracks": [
     {
       "added_at": "2024-10-10 23:01:00",
@@ -20,17 +20,21 @@
           "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
         },
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         },
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 147150,
-      "name": "Trema (feat. Tedua & Lazza)",
-      "url": "https://open.spotify.com/track/53Fv4ViRUlvuMOhu7QVjZV"
+      "duration_ms": 179545,
+      "name": "Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",
+      "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
     },
     {
       "added_at": "2024-10-10 23:01:00",
@@ -199,34 +203,6 @@
     {
       "added_at": "2024-10-10 23:01:00",
       "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 179545,
-      "name": "Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",
-      "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
-    },
-    {
-      "added_at": "2024-10-10 23:01:00",
-      "album": {
         "name": "40 GRADI",
         "url": "https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St"
       },
@@ -259,6 +235,34 @@
       "duration_ms": 149473,
       "name": "CHIARA",
       "url": "https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj"
+    },
+    {
+      "added_at": "2024-10-10 23:01:00",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Good girl (feat. Rkomi, Ernia & Bresh)",
+      "url": "https://open.spotify.com/track/3O71vkxPcYjozstB6cR5H0"
     },
     {
       "added_at": "2024-10-10 23:01:00",
@@ -359,6 +363,30 @@
     {
       "added_at": "2024-10-10 23:01:00",
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 147150,
+      "name": "Trema (feat. Tedua & Lazza)",
+      "url": "https://open.spotify.com/track/53Fv4ViRUlvuMOhu7QVjZV"
+    },
+    {
+      "added_at": "2024-10-10 23:01:00",
+      "album": {
         "name": "VRP",
         "url": "https://open.spotify.com/album/4oTYBWPm6T9j3VarNwnyy5"
       },
@@ -395,34 +423,6 @@
       "duration_ms": 144210,
       "name": "TT LE GIRLZ (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
-    },
-    {
-      "added_at": "2024-10-10 23:01:00",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Good girl (feat. Rkomi, Ernia & Bresh)",
-      "url": "https://open.spotify.com/track/3O71vkxPcYjozstB6cR5H0"
     },
     {
       "added_at": "2024-10-10 23:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-10-10 23:01:00",
       "album": {
-        "name": "CAFF\u00c8 AMARO",
-        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        }
-      ],
-      "duration_ms": 119850,
-      "name": "CAFF\u00c8 AMARO",
-      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
-    },
-    {
-      "added_at": "2024-10-10 23:01:00",
-      "album": {
         "name": "DINASTIA",
         "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-10-10 23:01:00",
       "album": {
-        "name": "Sex Appeal",
-        "url": "https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO"
+        "name": "CAFF\u00c8 AMARO",
+        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
       },
       "artists": [
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
         }
       ],
-      "duration_ms": 144657,
-      "name": "Sex Appeal",
-      "url": "https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG"
+      "duration_ms": 119850,
+      "name": "CAFF\u00c8 AMARO",
+      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
     },
     {
       "added_at": "2024-10-10 23:01:00",
@@ -987,34 +971,6 @@
     {
       "added_at": "2024-10-10 23:01:00",
       "album": {
-        "name": "All Eyes On Me",
-        "url": "https://open.spotify.com/album/579OpjO7wqx6uJOWclCmlY"
-      },
-      "artists": [
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/39B0ENqezVhqQNBY6zdXGl"
-    },
-    {
-      "added_at": "2024-10-10 23:01:00",
-      "album": {
         "name": "COPACABANA",
         "url": "https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ"
       },
@@ -1047,6 +1003,50 @@
       "duration_ms": 174146,
       "name": "CUORI SPEZZATI",
       "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
+    },
+    {
+      "added_at": "2024-10-10 23:01:00",
+      "album": {
+        "name": "Sex Appeal",
+        "url": "https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Sex Appeal",
+      "url": "https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG"
+    },
+    {
+      "added_at": "2024-10-10 23:01:00",
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/579OpjO7wqx6uJOWclCmlY"
+      },
+      "artists": [
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/39B0ENqezVhqQNBY6zdXGl"
     }
   ],
   "unique_name": "Plus Ultra",

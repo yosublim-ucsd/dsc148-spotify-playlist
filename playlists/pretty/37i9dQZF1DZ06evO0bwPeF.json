@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8477,
+  "num_followers": 8479,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAD7s0VJkWdTm72glLYZZ44/",
+  "snapshot_id": "ZwxfAAAAAADM/V8YN6kQGvyp98LSIaD9",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
+      "duration_ms": 179226,
+      "name": "Repetition",
+      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Repetition",
-      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
+      "duration_ms": 206773,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
       "duration_ms": 263000,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 168856,
+      "name": "Make-Up",
+      "url": "https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD"
     }
   ],
   "unique_name": "This Is Helmet",

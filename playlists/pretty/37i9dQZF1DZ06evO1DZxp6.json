@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 216330,
+  "num_followers": 216399,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAO77c5lA0GVvekB1rJ8xWi",
+  "snapshot_id": "ZwxfAAAAAABPfxmUoH0IRtmfCvHagNp4",
   "tracks": [
     {
       "added_at": null,
@@ -679,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Momentos",
-        "url": "https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49"
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
       },
       "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ"
+      "duration_ms": 218920,
+      "name": "Pa' Bailar (Siempre Quiero Mas)",
+      "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
     },
     {
       "added_at": null,
@@ -711,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Dulce",
-        "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
+        "name": "Los Momentos",
+        "url": "https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49"
       },
       "artists": [
-        {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Pa' Bailar (Siempre Quiero Mas)",
-      "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
+      "duration_ms": 209000,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ"
     },
     {
       "added_at": null,

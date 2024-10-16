@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-133 songs - 7 hr 10 min
+134 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 | 2024-06-27 |  |
 | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/track/5107Vxr0Cz7tNWf5lY2n6O) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/album/2k9ErKiTKBZZEOszz2g49C) | 3:24 | 2024-08-08 | 2024-10-15 |
 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2024-06-27 |  |
-| [It's a Beautiful Dream](https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 2:53 | 2024-06-27 |  |
+| [It's a Beautiful Dream](https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 2:53 | 2024-06-27 | 2024-10-16 |
 | [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 | 2024-06-27 |  |
 | [Jag borde gå](https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jag borde gå](https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw) | 3:37 | 2024-10-10 |  |
 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 | 2024-09-12 | 2024-09-27 |
@@ -118,6 +118,7 @@
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-19 |  |
 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 | 2024-06-27 |  |
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2024-08-25 |
+| [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 |  |
 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2024-06-27 |  |
 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2024-06-27 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-06-27 |  |

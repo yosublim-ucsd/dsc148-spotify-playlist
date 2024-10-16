@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,213 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,218 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 36 | [Complémentaires](https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Complémentaires](https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde) | 3:12 |
 | 37 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
 | 38 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 |
-| 39 | [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 |
-| 40 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
+| 39 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
+| 40 | [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 |
 | 41 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
 | 42 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
 | 43 | [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 |
 | 44 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
-| 45 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 |
-| 46 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 |
-| 47 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 |
+| 45 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 |
+| 46 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 |
+| 47 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 |
 | 48 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
 | 49 | [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 |
 | 50 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 |

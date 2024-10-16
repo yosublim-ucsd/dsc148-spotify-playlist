@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más trendy, o sea Luck Ra.
 
-594 songs - 1 day 6 hr 19 min
+595 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-05-12 | 2023-06-24 |
 | [De Repente](https://open.spotify.com/track/2rdIwRAiQUigchIXOCzshk) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [De Repente](https://open.spotify.com/album/0YnFmayvcgCGZlaXjGsaKq) | 3:34 | 2024-06-28 | 2024-08-24 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-05 |  |
+| [Decime cuál fue](https://open.spotify.com/track/0bRDBNVBszuxoxTyEjpa4e) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [ARA](https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff) | [Decime cuál fue](https://open.spotify.com/album/6vWqTZWOH11IP1aE05ZjJ7) | 2:36 | 2024-10-15 |  |
 | [DEFINITIVA](https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [DEFINITIVA](https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI) | 3:12 | 2023-11-14 | 2024-02-17 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Deja de Llorar \(Remix\)](https://open.spotify.com/album/3ZCFRZG7ZPYRhbMrid7BR5) | 3:17 | 2024-07-19 |  |
 | [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 | 2023-05-12 | 2023-10-10 |

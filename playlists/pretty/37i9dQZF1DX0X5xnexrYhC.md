@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,838 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,829 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 58 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
 | 59 | [Hypocrite](https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hypocrite](https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP) | 2:43 |
 | 60 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
-| 61 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
-| 62 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
+| 61 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
+| 62 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
 | 63 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 |
 | 64 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 |
 | 65 | [Bitches These Days](https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Bitches These Days](https://open.spotify.com/album/0B3EG9By8Xd8gTcNUYh0Wo) | 2:23 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 68 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
 | 69 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |
 | 70 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
-| 71 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
-| 72 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 71 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 72 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
 | 73 | [Mailly](https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Mailly](https://open.spotify.com/album/6VZFN9g6d1XbLS7KwXJ9GE) | 4:17 |
 | 74 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 |
 | 75 | [In Hell](https://open.spotify.com/track/5WCi2int1WNpd2pRXZfdoM) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [In Hell](https://open.spotify.com/album/2ubxkET6GOdWdVzabt0s5a) | 3:06 |

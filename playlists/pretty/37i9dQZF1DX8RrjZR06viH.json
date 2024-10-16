@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 91757,
+  "num_followers": 91823,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Revolve",
+        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 209078,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Hellig",
         "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 219672,
       "name": "Hellig",
       "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "wildflower",
-        "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
-      },
-      "artists": [
-        {
-          "name": "leoleo",
-          "url": "https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh"
-        }
-      ],
-      "duration_ms": 174692,
-      "name": "wildflower",
-      "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -599,22 +599,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
-        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+        "name": "wildflower",
+        "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        },
-        {
-          "name": "Lars Vaular",
-          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+          "name": "leoleo",
+          "url": "https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh"
         }
       ],
-      "duration_ms": 220333,
-      "name": "S\u00e5 easy",
-      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+      "duration_ms": 174692,
+      "name": "wildflower",
+      "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -635,6 +631,42 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
+        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        },
+        {
+          "name": "Lars Vaular",
+          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "S\u00e5 easy",
+      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Kor e du?",
         "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 200798,
       "name": "Kor e du?",
       "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Mamma sa det ordne se for snille piker",
-        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 205655,
-      "name": "Mamma sa det ordne se for snille piker",
-      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -683,22 +699,6 @@
       "duration_ms": 144706,
       "name": "HJERTET MITT ER HELT OK",
       "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Revolve",
-        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 209078,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -739,6 +739,38 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Mamma sa det ordne se for snille piker",
+        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 205655,
+      "name": "Mamma sa det ordne se for snille piker",
+      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -755,22 +787,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Fr\u00f8ken Oslo V",
         "url": "https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 127817,
       "name": "Fr\u00f8ken Oslo V",
       "url": "https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "25 bare fem \u00e5r til",
-        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "25 bare fem \u00e5r til",
-      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Har du glemt meg?",
+        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Har du glemt meg?",
+      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 169248,
       "name": "Sommer i Norge",
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Har du glemt meg?",
-        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Har du glemt meg?",
-      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+        "name": "Hva vi kunne bli",
+        "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
         }
       ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
+      "duration_ms": 175360,
+      "name": "Hva vi kunne bli",
+      "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Som sommaren",
+        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 228624,
+      "name": "Som sommaren",
+      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Langt av sted",
         "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
       },
@@ -1107,6 +1123,22 @@
       "duration_ms": 160813,
       "name": "Langt av sted",
       "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Synd synd synd",
+        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Synd synd synd",
+      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1127,22 +1159,6 @@
       "duration_ms": 174461,
       "name": "Sommartid",
       "url": "https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Synd synd synd",
-        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Synd synd synd",
-      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Hva vi kunne bli",
-        "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Hva vi kunne bli",
-      "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "The Last Sad Song",
         "url": "https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6"
       },
@@ -1223,34 +1223,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "I don't want nobody but your body",
-        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 171733,
-      "name": "I don't want nobody but your body",
-      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "S\u00e5nn som deg",
-        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 204529,
-      "name": "S\u00e5nn som deg",
-      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 180906,
       "name": "Ti tusen",
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "I don't want nobody but your body",
+        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "I don't want nobody but your body",
+      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "S\u00e5nn som deg",
+        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 204529,
+      "name": "S\u00e5nn som deg",
+      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Vendepunkt",
         "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v"
-      },
-      "artists": [
-        {
-          "name": "Malin Pettersen",
-          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
-        }
-      ],
-      "duration_ms": 194822,
-      "name": "Number and a Street",
-      "url": "https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
       },
@@ -1455,18 +1439,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v"
       },
       "artists": [
         {
-          "name": "Metteson",
-          "url": "https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD"
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
         }
       ],
-      "duration_ms": 216062,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c"
+      "duration_ms": 194822,
+      "name": "Number and a Street",
+      "url": "https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

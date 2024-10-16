@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVaTlEoUtILX.md) - [plain]
 
 > Listen to the soundtracks of Romance in the House\. \(가족X멜로의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 733 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 736 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVaTlEoUtILX.md) - [plain]
 | 48 | [다 줄꺼야\(Acustic Version\)](https://open.spotify.com/track/6bJqfAFMGxMTkCcc3ca25g) | [Jo Kyu Man](https://open.spotify.com/artist/7tmHTqQAf5iH8kkEnu1bIw) | [다 줄꺼야](https://open.spotify.com/album/0soexvjx2g1EeCHgpgIFAc) | 4:02 |
 | 49 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 |
 | 50 | [Curated by Kim Jisu](https://open.spotify.com/track/4gAl9Dgmbp299EvCzVeCuX) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:36 |
-| 51 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 |
+| 51 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 |
 | 52 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 |
 | 53 | [지친 하루 \(2014 월간 윤종신 12월호\)](https://open.spotify.com/track/1ysNefO59Cx5lQgK1LwS7a) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [지친 하루 \(2014 월간 윤종신 12월호\)](https://open.spotify.com/album/0MMNRbhA4kAPcP5fI8docC) | 4:33 |
 | 54 | [We Are The Champions](https://open.spotify.com/track/6ceLJHWkvMM3oc0Ftodrdm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Stone Cold Classics](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 3:01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173432,
+  "num_followers": 173424,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAB504KCMvqP6H+7K6jUu0VE",
+  "snapshot_id": "ZwxfAAAAAACIvzeSNXz0TI/ZZUmveXvj",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 40",
-        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP World Tour",
         "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 175000,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ"
     },
     {
       "added_at": null,

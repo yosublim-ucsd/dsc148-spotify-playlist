@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,566 likes - 566 songs - 1 day 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,583 likes - 566 songs - 1 day 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 31711,
+  "num_followers": 31721,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "La Villa",
-        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
           "name": "Palmasur",
           "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
+      "duration_ms": 113333,
+      "name": "Vibrando Alto En Tulum",
+      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -579,22 +599,6 @@
       "duration_ms": 93000,
       "name": "Ukelele At Night",
       "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -671,22 +675,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
       },
       "artists": [
         {
           "name": "Palmasur",
           "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 113333,
-      "name": "Vibrando Alto En Tulum",
-      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -723,8 +723,8 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -855,8 +855,8 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Canciones Para Ver Las Nubes Pasar",
         "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Rossa Nova",
         "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 148965,
       "name": "Rossa Nova",
       "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "she is",
-        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
-      },
-      "artists": [
-        {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
-        }
-      ],
-      "duration_ms": 232514,
-      "name": "she is",
-      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1155,22 +1139,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "The Sparkle",
-        "url": "https://open.spotify.com/album/6UtFReEMBvLfWl60ypdETH"
+        "name": "she is",
+        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
       },
       "artists": [
         {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
         }
       ],
-      "duration_ms": 140307,
-      "name": "The Sparkle",
-      "url": "https://open.spotify.com/track/46fuglHiG9HoQ5k3vmoFT0"
+      "duration_ms": 232514,
+      "name": "she is",
+      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1195,22 +1191,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Dreaming of summer",
         "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 95040,
       "name": "Dreaming of summer",
       "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "The Sparkle",
+        "url": "https://open.spotify.com/album/6UtFReEMBvLfWl60ypdETH"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "The Sparkle",
+      "url": "https://open.spotify.com/track/46fuglHiG9HoQ5k3vmoFT0"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "love season",
-        "url": "https://open.spotify.com/album/5X7qJbYsCQTK1zNsmfr3sj"
-      },
-      "artists": [
-        {
-          "name": "misty tapes",
-          "url": "https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "love season",
-      "url": "https://open.spotify.com/track/0D88i3rYIK5HgvhzX3j0Tp"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "van life",
         "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 135714,
       "name": "van life",
       "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "love season",
+        "url": "https://open.spotify.com/album/5X7qJbYsCQTK1zNsmfr3sj"
+      },
+      "artists": [
+        {
+          "name": "misty tapes",
+          "url": "https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "love season",
+      "url": "https://open.spotify.com/track/0D88i3rYIK5HgvhzX3j0Tp"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
-      },
-      "artists": [
-        {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
-        }
-      ],
-      "duration_ms": 136941,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "loops",
         "url": "https://open.spotify.com/album/2Uvp5ZnXyGccIYToYWZFw9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 109723,
       "name": "loops",
       "url": "https://open.spotify.com/track/5sGeSqPsAZrvYepdIv0myf"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1447,58 +1447,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Viscaria Corto",
-        "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Viscaria Corto",
-      "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
-      },
-      "artists": [
-        {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
-        }
-      ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
-      },
-      "artists": [
-        {
-          "name": "slider beats",
-          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "bumpz",
         "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
       },
@@ -1519,6 +1467,58 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Viscaria Corto",
+        "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "URCHN",
+          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Viscaria Corto",
+      "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
+      },
+      "artists": [
+        {
+          "name": "slider beats",
+          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "somewhere, nowhere.",
         "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 112663,
       "name": "i shouldn't have done that...",
       "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
-      },
-      "artists": [
-        {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Dusk Jazz Delight",
-        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica Relajante",
-          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Dusk Jazz Delight",
-      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Dusk Jazz Delight",
+        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Relajante",
+          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Dusk Jazz Delight",
+      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
     },
     {
       "added_at": "2024-09-27 06:00:00",

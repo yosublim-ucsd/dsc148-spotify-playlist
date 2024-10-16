@@ -1,12 +1,12 @@
 {
-  "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 34279,
+  "description": "This Is AFI. Los temas esenciales, todos en una lista.",
+  "num_followers": 34283,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAC1S3HZ+CKaQDAo7tl90fO4",
+  "snapshot_id": "ZwxfAAAAAADnZ8jngrP7v3NB6lTP0qp7",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Rabbits Are Roadkill On Rt. 37",
-      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+      "duration_ms": 177373,
+      "name": "17 Crimes",
+      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+        "name": "Sing The Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 177373,
-      "name": "17 Crimes",
-      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
+      "duration_ms": 228440,
+      "name": "Rabbits Are Roadkill On Rt. 37",
+      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
     },
     {
       "added_at": null,

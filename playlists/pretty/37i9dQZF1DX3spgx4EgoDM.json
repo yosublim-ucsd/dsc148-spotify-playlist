@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 164173,
+  "num_followers": 164192,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Mentirosa Remix",
-        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 179405,
-      "name": "Mentirosa Remix",
-      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -299,18 +295,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+        "name": "Mentirosa Remix",
+        "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+      "duration_ms": 179405,
+      "name": "Mentirosa Remix",
+      "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "Vida de Rico",
         "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
@@ -655,22 +655,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
         }
       ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -695,18 +691,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
       "artists": [
         {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Fake Lover",
+        "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "Plato \u00danico Bailable",
         "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
@@ -1479,6 +1499,22 @@
       "duration_ms": 156520,
       "name": "Cosecha de Mujeres",
       "url": "https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1503,38 +1539,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "Fake Lover",
-        "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1551,22 +1567,6 @@
       "duration_ms": 254733,
       "name": "De Paisano a Paisano",
       "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
         "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 253960,
       "name": "Mujer Traicionera",
       "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     }
   ],
   "unique_name": "Cocina con Cumbia",

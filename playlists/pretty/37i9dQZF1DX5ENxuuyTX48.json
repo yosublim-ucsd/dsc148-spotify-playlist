@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Regina Song, hongjoin",
-  "num_followers": 21271,
+  "num_followers": 21282,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Kupu - Kupu",
-        "url": "https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr"
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 242090,
-      "name": "Kupu - Kupu",
-      "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+      "duration_ms": 242000,
+      "name": "Hati-Hati di Jalan",
+      "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+        "name": "Kupu - Kupu",
+        "url": "https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Hati-Hati di Jalan",
-      "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
+      "duration_ms": 242090,
+      "name": "Kupu - Kupu",
+      "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Angin Rindu",
-        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
-      },
-      "artists": [
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 258148,
-      "name": "Angin Rindu",
-      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
     },
     {
       "added_at": "2024-10-03 17:00:00",

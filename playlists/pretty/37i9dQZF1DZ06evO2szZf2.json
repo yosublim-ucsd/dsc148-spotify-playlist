@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34674,
+  "description": "This Is Mc Dricka. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 34671,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAVdOU6AeKWnL/UD64y3CIf",
+  "snapshot_id": "ZwxfAAAAAABjqtMpoi/WIifSbyCBjGgE",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bate Com Vontade (Remix)",
+        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
+      },
+      "artists": [
+        {
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Tarik Lima",
+          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
+        }
+      ],
+      "duration_ms": 144915,
+      "name": "Bate Com Vontade - Remix",
+      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set 1.0 Dieguinho Nvi",
         "url": "https://open.spotify.com/album/5wIjV4nUx1IFn88A2LBxbJ"
       },
@@ -775,46 +799,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bate Com Vontade (Remix)",
-        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
+        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
       },
       "artists": [
-        {
-          "name": "Dad\u00e1 Bolad\u00e3o",
-          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
-        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Tarik Lima",
-          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Bate Com Vontade - Remix",
-      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
         },
         {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
         }
       ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
+      "duration_ms": 162764,
+      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
     },
     {
       "added_at": null,
@@ -871,30 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
       },
       "artists": [
         {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
         }
       ],
-      "duration_ms": 162764,
-      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
     },
     {
       "added_at": null,
@@ -1227,34 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soca Com Press\u00e3o",
-        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
-      },
-      "artists": [
-        {
-          "name": "Mc Troia",
-          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
-        },
-        {
-          "name": "Mc Terror",
-          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 140231,
-      "name": "Soca Com Press\u00e3o",
-      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rave Don't Start Now",
         "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
       },
@@ -1283,6 +1255,34 @@
       "duration_ms": 237230,
       "name": "Rave Don't Start Now",
       "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soca Com Press\u00e3o",
+        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
+      },
+      "artists": [
+        {
+          "name": "Mc Troia",
+          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+        },
+        {
+          "name": "Mc Terror",
+          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 140231,
+      "name": "Soca Com Press\u00e3o",
+      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
     },
     {
       "added_at": null,
@@ -1583,26 +1583,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vegas (Remix Piseiro)",
-        "url": "https://open.spotify.com/album/4u6EMgeXtdjrWmqLtGGetF"
+        "name": "CORO COM CO\u00c7A",
+        "url": "https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8"
       },
       "artists": [
         {
-          "name": "DJKCASSIANO",
-          "url": "https://open.spotify.com/artist/6wYLeA1MJc6EUSzMhBVHiS"
-        },
-        {
-          "name": "DJ Malicia",
-          "url": "https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Dj Juninho da Espanha",
+          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 141196,
-      "name": "Vegas (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/2oIKtW4w96tCcmiUfJmCND"
+      "duration_ms": 177230,
+      "name": "J\u00c1 ERA TARDE",
+      "url": "https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X"
     }
   ],
   "unique_name": "This Is Mc Dricka",

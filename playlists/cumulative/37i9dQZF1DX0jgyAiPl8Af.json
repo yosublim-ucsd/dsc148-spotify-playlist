@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 135027,
       "name": "Da Capo",
       "url": "https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC"
@@ -5839,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "In Search of Gems",
+        "url": "https://open.spotify.com/album/3Fq4PRvtCZkVm7QbatRWvX"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152581,
+      "name": "In Search of Gems",
+      "url": "https://open.spotify.com/track/10Ilz6KAPyPnizZvNApmsf"
+    },
+    {
+      "album": {
         "name": "Pinus Halepensis",
         "url": "https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C"
       },
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 162725,
       "name": "Maybe Tomorrow It Will Change",
       "url": "https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6"
@@ -9987,6 +10005,24 @@
     },
     {
       "album": {
+        "name": "Present in Time",
+        "url": "https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW"
+      },
+      "artists": [
+        {
+          "name": "Enzo Costa",
+          "url": "https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149858,
+      "name": "Present in Time",
+      "url": "https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp"
+    },
+    {
+      "album": {
         "name": "Presque l'amour",
         "url": "https://open.spotify.com/album/6ndqkMdA8Uiu5ZbvrfEYiD"
       },
@@ -10322,7 +10358,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 164426,
       "name": "Repos profond",
       "url": "https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN"

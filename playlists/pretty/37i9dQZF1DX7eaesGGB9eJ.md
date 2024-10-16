@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,517 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,614 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 25 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE) | [El Chivo](https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7) | [Si Ladran No Muerden](https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J) | 4:26 |
 | 26 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
 | 27 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
-| 28 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
-| 29 | [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 |
+| 28 | [Soy](https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:15 |
+| 29 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
 | 30 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
 | 31 | [La Pelotona](https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:41 |
 | 32 | [El Juego De La Vida](https://open.spotify.com/track/6oYf94congSsVFk0rnzAyi) | [Dyablo](https://open.spotify.com/artist/7eU5CvFPPiqSqnKiNmZNy7), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [Tattoo Ink](https://open.spotify.com/artist/5LV3lhUmy78NqTd18z943J), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Los Soldados](https://open.spotify.com/artist/68nr1Frui8Av2C8QXa0Z6n), [Mr\. Sancho](https://open.spotify.com/artist/4tSvkaLfya4H6Lf1LBwqzc), [C\-4](https://open.spotify.com/artist/67pafnH8RmmaUgKbXgLRGu), [Ghettomain & Pride](https://open.spotify.com/artist/4VVv4xjknAGii3ZIzWn2Pj), [KDC](https://open.spotify.com/artist/5caJ4jP84rqxI8JJzW8kK0), [Spanky Loco](https://open.spotify.com/artist/1k3e4JvpJQFxuhI8ZRuwh4), [Conejo](https://open.spotify.com/artist/3cIVmhYdLBP5KjI2KqwBSe), [Sangre Mala](https://open.spotify.com/artist/6bXfCfzIZgeoflEGvAsYZi), [Brown Boy](https://open.spotify.com/artist/0Ug6OsFk2B0mLvXrpmpRs6) | [Southwest Hustlers](https://open.spotify.com/album/4utWZTryXASMr29Y5FA1uk) | 5:00 |

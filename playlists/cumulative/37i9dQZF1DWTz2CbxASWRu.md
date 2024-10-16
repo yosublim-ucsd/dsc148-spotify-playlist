@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-571 songs - 1 day 18 hr 4 min
+573 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Gwyra Mi](https://open.spotify.com/track/7uy1oI6Q8mcYw58CnRTbO8) | [Ramiro Musotto](https://open.spotify.com/artist/0FwKk6r4TvmTCGENmx7Sdk) | [Civilizacao & Barbarye](https://open.spotify.com/album/6mi9muszLIxpFzwHDDTX5U) | 4:32 | 2023-07-10 |  |
 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 | 2023-07-10 | 2024-02-02 |
 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/3f8PJ21mO5LJoFJvdXYwFf) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI) | 3:46 | 2024-03-08 |  |
+| [Habibi Taal](https://open.spotify.com/track/4YNoMqHMhY4HYFVNbDKfUU) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/6V4ed5KMWm6F5lYNhQxH9W) | 3:18 | 2024-10-16 |  |
 | [Halo Halo Bandung \- Kusuma Hati](https://open.spotify.com/track/66d7WTeB4ffVBXNMGzA6zC) | [S Harni Dkk](https://open.spotify.com/artist/2yevmzIoGDqsSCwdK3oJgk) | [Potong Padi](https://open.spotify.com/album/4x3uhJG8kanuCai1CUZq0b) | 6:09 | 2024-05-24 | 2024-08-09 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2023-07-10 |  |
 | [Helelyos](https://open.spotify.com/track/1Qc84oCY8WZFQkyxY8bnZQ) | [Mitra Sumara](https://open.spotify.com/artist/3bbQStte1OsVxENTTxMFfd) | [Tahdig](https://open.spotify.com/album/0KX975WwN6lVXzf9aSmtCG) | 4:37 | 2024-03-08 |  |
@@ -411,7 +412,7 @@
 | [Popcorn Andino](https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 5:19 | 2023-07-10 | 2024-04-19 |
 | [Povo M\`povo](https://open.spotify.com/track/41YENX4uiIqiuNzaczGvqw) | [Monoswezi](https://open.spotify.com/artist/5CiNsR3D1igH6Ant0jVNFW) | [Monoswezi Yanga](https://open.spotify.com/album/0QqxzQWrfgOFBJljmRBoRx) | 6:03 | 2024-03-08 |  |
 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 | 2023-07-10 | 2024-04-19 |
-| [Pà Pá Pà](https://open.spotify.com/track/4cc9XctJ4WrRxWWWBXIHm4) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Pà Pá Pà](https://open.spotify.com/album/7IwqmMHLyPbRfPG8788M4s) | 3:22 | 2024-03-08 |  |
+| [Pà Pá Pà](https://open.spotify.com/track/4cc9XctJ4WrRxWWWBXIHm4) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Pà Pá Pà](https://open.spotify.com/album/7IwqmMHLyPbRfPG8788M4s) | 3:22 | 2024-03-08 | 2024-10-16 |
 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 | 2024-03-08 |  |
 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2023-07-10 |  |
 | [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/track/5z9W5BFUJmwkPGww6rfFUo) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:18 | 2023-07-10 |  |
@@ -481,7 +482,7 @@
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-07-10 | 2024-04-19 |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2023-07-10 |  |
 | [Sueños De Libertad](https://open.spotify.com/track/13wni7XVGxszlUbQ9tByJK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:33 | 2024-03-08 |  |
-| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 |  |
+| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 | 2024-10-16 |
 | [Suumo](https://open.spotify.com/track/41jAZRB7AjJZNOzAgCkvrM) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:14 | 2024-03-08 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2023-07-10 |  |
 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs), [Hide & Smile](https://open.spotify.com/artist/19WmN3fivUDmFsGcxXmlQ8) | [Ta Lassa](https://open.spotify.com/album/6EnZA0e6ioxGM68gWinLlv) | 6:16 | 2023-07-10 | 2023-09-24 |
@@ -565,6 +566,7 @@
 | [Where Did I Go](https://open.spotify.com/track/502Lk36T2bamkc5uUMVdMf) | [Yaatri](https://open.spotify.com/artist/4ggZOKKOXRF9Mihf4guWeZ) | [Lucid](https://open.spotify.com/album/5FGLXKlm7FVURtWeaTRPqM) | 6:36 | 2024-03-08 |  |
 | [Wires](https://open.spotify.com/track/51VWrOnuL89xwoazeOZyXd) | [Owiny Sigoma Band](https://open.spotify.com/artist/1C5MZsDbfzAMgDg0mOxCdY) | [Owiny Sigoma Band](https://open.spotify.com/album/0G1c2cJe2ELtarbBoTUd4B) | 4:33 | 2023-07-10 | 2024-04-19 |
 | [World A Music](https://open.spotify.com/track/2SE11vmjbi7j5QKJ885ib6) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/4LAY1FlsUIxoYTcDDgwLta) | 5:45 | 2023-07-10 | 2024-04-19 |
+| [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 | 2024-10-16 |  |
 | [Yakané](https://open.spotify.com/track/0d6CeZnOV7rSRYSBFXd2f1) | [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [Yakané](https://open.spotify.com/album/0zRuZfJCMdMvDGvH6WUqJS) | 3:17 | 2024-03-08 |  |
 | [Yale](https://open.spotify.com/track/00VHqKIeXGsZjoVLzanwlx) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Yale](https://open.spotify.com/album/69aWtxaNpf4Tm2sCsGB4Qi) | 4:30 | 2023-07-10 | 2024-04-19 |
 | [Yalifu](https://open.spotify.com/track/0UIIfBkoZRqCpH3bYB48bG) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Darandi](https://open.spotify.com/album/5M9rWqxnoCKmWekSkxQca7) | 4:29 | 2024-03-08 |  |

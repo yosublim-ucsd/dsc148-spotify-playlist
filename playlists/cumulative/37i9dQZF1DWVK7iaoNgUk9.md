@@ -8,12 +8,12 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Não\) Quero Me Apaixonar](https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:49 | 2024-08-30 | 2024-10-13 |
+| [\(Não\) Quero Me Apaixonar](https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:49 | 2024-08-30 |  |
 | [A Gente Só Conhece Quando Termina](https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [A Gente Só Conhece Quando Termina](https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT) | 2:36 | 2024-04-02 | 2024-06-01 |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2023-10-06 |  |
 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 | 2023-10-06 |  |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2023-10-06 |  |
-| [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 | 2024-06-14 |  |
+| [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 | 2024-06-14 | 2024-10-16 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-03-08 |  |
 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 | 2024-04-02 |  |
 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 | 2023-10-06 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,449 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,629 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 11 | [10,000 Reasons \(Bless The Lord\) \[Radio Version\] \- Radio Version/Live](https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 4:16 |
 | 12 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 |
 | 13 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 |
-| 14 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
-| 15 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 |
+| 14 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 |
+| 15 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
 | 16 | [Rescue Story](https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:57 |
 | 17 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5OqnfFu7rdE3DEe0GoWkd7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:45 |
 | 18 | [Shout to the Lord \- Live](https://open.spotify.com/track/52mdbM1tueoC8UnYvZ9uTX) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Shout to the Lord \(Live\)](https://open.spotify.com/album/1oAH2mzkbV5UY9FvloQVHa) | 4:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 60 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 61 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:27 |
 | 62 | [The Stand \- Live](https://open.spotify.com/track/7HdvPclBiBpuUzpERTYfxK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [United We Stand \(Live\)](https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f) | 6:51 |
-| 63 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
-| 64 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 |
+| 63 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 |
+| 64 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
 | 65 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 |
 | 66 | [Fear is Not My Future \- Radio Version](https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Fear is Not My Future \(Radio Version\)](https://open.spotify.com/album/4CuurdO1lDLMmHDjfzRdmk) | 4:02 |
 | 67 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:41 |

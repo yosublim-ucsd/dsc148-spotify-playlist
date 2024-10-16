@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA at Drumsheds ",
-  "num_followers": 63760,
+  "num_followers": 63788,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,18 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Run (Part 1)",
-        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
         }
       ],
-      "duration_ms": 135085,
-      "name": "Run (Part 1)",
-      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2024-10-14 12:37:48",
@@ -511,18 +507,22 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+        "name": "Run (Part 1)",
+        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
       "artists": [
         {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
         }
       ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+      "duration_ms": 135085,
+      "name": "Run (Part 1)",
+      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
       "added_at": "2024-10-14 12:37:48",

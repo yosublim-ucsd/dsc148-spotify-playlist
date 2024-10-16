@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,207 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,221 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,29 +14,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 4 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 |
 | 5 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 |
 | 6 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 |
-| 7 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
-| 8 | [Another Season Alone](https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Another Season Alone](https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8) | 3:12 |
-| 9 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
-| 10 | [HUSH](https://open.spotify.com/track/2Sz9UBfeZ0N0h9H6gUtblz) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [HUSH](https://open.spotify.com/album/5t0Iro1tcxCXEq4sxpuFlf) | 2:27 |
-| 11 | [Unstable](https://open.spotify.com/track/2PsKMjaliyVtRtqa5yhh1j) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Unstable](https://open.spotify.com/album/2xTREBmE4i3u1Tq7OkfjrR) | 2:36 |
-| 12 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 |
-| 13 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 |
-| 14 | [Where You Are](https://open.spotify.com/track/6hYLwcur3csaL9ztenvl3a) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Where You Are](https://open.spotify.com/album/45ns7SNpDKkcLIL4Hkg2wa) | 3:07 |
-| 15 | [Needy](https://open.spotify.com/track/06agoohw6Mb5urlj6cRRTO) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz), [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Needy](https://open.spotify.com/album/70zDeVxgnEDkfInmR6UMEB) | 2:09 |
-| 16 | [Something In The Water](https://open.spotify.com/track/2gtq1m7LaAv7i4eLzFznvZ) | [XUZZ](https://open.spotify.com/artist/4gWJD7DpQvQUE5LPeFkP9I) | [Something In The Water](https://open.spotify.com/album/18LtIwGTpy76PZL1atnhjM) | 2:32 |
-| 17 | [I'll Be Lonely](https://open.spotify.com/track/6rDGPcJCeJd9qSoIMwrRpV) | [Hana Markson](https://open.spotify.com/artist/4pDJsRsflZ7i6igwUvhyzN) | [I'll Be Lonely](https://open.spotify.com/album/50jn9TYzTzTVFWlP4vMSKm) | 2:33 |
-| 18 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
-| 19 | [The Border](https://open.spotify.com/track/5FW4knPYJ9YdJEqlR1yfQ3) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [The Border](https://open.spotify.com/album/5zGSQPMJZOk8yFknVMsqlR) | 2:48 |
-| 20 | [Flames](https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Flames](https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc) | 2:47 |
-| 21 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
+| 7 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
+| 8 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
+| 9 | [Another Season Alone](https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Another Season Alone](https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8) | 3:12 |
+| 10 | [Where You Are](https://open.spotify.com/track/6hYLwcur3csaL9ztenvl3a) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Where You Are](https://open.spotify.com/album/45ns7SNpDKkcLIL4Hkg2wa) | 3:07 |
+| 11 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
+| 12 | [HUSH](https://open.spotify.com/track/2Sz9UBfeZ0N0h9H6gUtblz) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [HUSH](https://open.spotify.com/album/5t0Iro1tcxCXEq4sxpuFlf) | 2:27 |
+| 13 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 |
+| 14 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 |
+| 15 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
+| 16 | [Unstable](https://open.spotify.com/track/2PsKMjaliyVtRtqa5yhh1j) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Unstable](https://open.spotify.com/album/2xTREBmE4i3u1Tq7OkfjrR) | 2:36 |
+| 17 | [Needy](https://open.spotify.com/track/06agoohw6Mb5urlj6cRRTO) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz), [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Needy](https://open.spotify.com/album/70zDeVxgnEDkfInmR6UMEB) | 2:09 |
+| 18 | [Something In The Water](https://open.spotify.com/track/2gtq1m7LaAv7i4eLzFznvZ) | [XUZZ](https://open.spotify.com/artist/4gWJD7DpQvQUE5LPeFkP9I) | [Something In The Water](https://open.spotify.com/album/18LtIwGTpy76PZL1atnhjM) | 2:32 |
+| 19 | [Flames](https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Flames](https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc) | 2:47 |
+| 20 | [I'll Be Lonely](https://open.spotify.com/track/6rDGPcJCeJd9qSoIMwrRpV) | [Hana Markson](https://open.spotify.com/artist/4pDJsRsflZ7i6igwUvhyzN) | [I'll Be Lonely](https://open.spotify.com/album/50jn9TYzTzTVFWlP4vMSKm) | 2:33 |
+| 21 | [The Border](https://open.spotify.com/track/5FW4knPYJ9YdJEqlR1yfQ3) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [The Border](https://open.spotify.com/album/5zGSQPMJZOk8yFknVMsqlR) | 2:48 |
 | 22 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 23 | [SKIN](https://open.spotify.com/track/1sUZGI4pAL0YAX1Kj7q99R) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl), [Jordan Everett](https://open.spotify.com/artist/2YSPK0T0sY2lSkZ7NL9Joz) | [SKIN](https://open.spotify.com/album/7qJzXSYlhboxC0xmWHE5xr) | 2:25 |
+| 23 | [Real](https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr) | [Theeth](https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj) | [Real](https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO) | 2:50 |
 | 24 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 25 | [Would It Kill You \(Just To Hold Me\)](https://open.spotify.com/track/7xngofBPnnBHUik12uTaZD) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [Would It Kill You \(Just To Hold Me\)](https://open.spotify.com/album/5Cr0g3RdEeIyKxppmFK8nO) | 3:25 |
 | 26 | [Say It To The Moon](https://open.spotify.com/track/5rSIyqbK49D5JxVoxKsgrT) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Say It To The Moon](https://open.spotify.com/album/2oV2iY4OBVaji5xy1F3ikI) | 3:35 |
-| 27 | [Pocket](https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Pocket](https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP) | 3:25 |
-| 28 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 |
-| 29 | [Real](https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr) | [Theeth](https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj) | [Real](https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO) | 2:50 |
+| 27 | [SKIN](https://open.spotify.com/track/1sUZGI4pAL0YAX1Kj7q99R) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl), [Jordan Everett](https://open.spotify.com/artist/2YSPK0T0sY2lSkZ7NL9Joz) | [SKIN](https://open.spotify.com/album/7qJzXSYlhboxC0xmWHE5xr) | 2:25 |
+| 28 | [Pocket](https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Pocket](https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP) | 3:25 |
+| 29 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 |
 | 30 | [Vertigo](https://open.spotify.com/track/7rXoYO9p0BgS1s3p82JE2Y) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Vertigo](https://open.spotify.com/album/4hWMMsSetBRPXevbBwrGCN) | 2:07 |
 | 31 | [Porcelain](https://open.spotify.com/track/0EBgf7rDE0RXJhMKF12z92) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Porcelain](https://open.spotify.com/album/4X1TXs71LSQtlLQeL4uPNR) | 2:30 |
 | 32 | [Balance](https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Halfway to Paradise](https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Alright](https://open.spotify.com/track/0AazkVdlIwovoo9jWqD43C) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Alright](https://open.spotify.com/album/1vZf3dvBU8SihumKUSSzrS) | 3:06 |
 | 100 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
 
-Snapshot ID: `ZwhqvAAAAAAZilJjmcwRZPbnZPTLC7CL`
+Snapshot ID: `Zw3asAAAAADMs0iA6JxfToEPBEiHlk0q`

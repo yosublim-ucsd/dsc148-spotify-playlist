@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,557 likes - 61 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,629 likes - 61 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 | 50 | [eye\-water](https://open.spotify.com/track/2UTbrDhTXrVmXidoUR81Q6) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:01 |
 | 51 | [cóunter・attàck\-mˈænkάɪnd](https://open.spotify.com/track/2n5e6fzpiFzPqRelhruHTj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 6:06 |
 | 52 | [So ist es immer](https://open.spotify.com/track/6h5xFKEgxlD7QEHxEFMjgJ) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 4:49 |
-| 53 | [心臓を捧げよ!](https://open.spotify.com/track/5bIZNB6e83zaYYFHOe1YHz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:41 |
+| 53 | [心臓を捧げよ！](https://open.spotify.com/track/5bIZNB6e83zaYYFHOe1YHz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:41 |
 | 54 | [Barricades](https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 3:41 |
 | 55 | [YouSeeBIGGIRL/T:T](https://open.spotify.com/track/2Xoe9mGmWbwESLjqq9OdYF) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 5:59 |
 | 56 | [Call of Silence](https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 2:58 |

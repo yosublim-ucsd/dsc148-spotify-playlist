@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 148053,
       "name": "ALL RED",
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 379533,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 249685,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/6SMlsMWdjrDCfG6M3uHtty"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 177600,
       "name": "Despu\u00e9s De La 1",
       "url": "https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra"
@@ -3306,6 +3306,44 @@
       "duration_ms": 260120,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+    },
+    {
+      "album": {
+        "name": "DRUGITE OTKACHALKI",
+        "url": "https://open.spotify.com/album/0bJbaYWFK6M9bAos4bCrZW"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Ilian Boyd",
+          "url": "https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u"
+        },
+        {
+          "name": "Emil TRF",
+          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
+        },
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2"
+        },
+        {
+          "name": "Dim4ou",
+          "url": "https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV"
+        },
+        {
+          "name": "Atanas Kolev",
+          "url": "https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273088,
+      "name": "DRUGITE OTKACHALKI",
+      "url": "https://open.spotify.com/track/2SN3kNjOORlCqMLev26bxh"
     },
     {
       "album": {
@@ -4548,7 +4586,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
@@ -4751,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel Original Soundtrack (Part 1)",
         "url": "https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy"
       },
@@ -4920,7 +4976,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 214098,
       "name": "Her",
       "url": "https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU"
@@ -8025,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Mr.DaiMiPariteSi",
+        "url": "https://open.spotify.com/album/3XuZIFWmG2Wv6z1ZwkhDRo"
+      },
+      "artists": [
+        {
+          "name": "Shunaka",
+          "url": "https://open.spotify.com/artist/5yawwjGbFGcVtn22j8OHA6"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Mr.DaiMiPariteSi",
+      "url": "https://open.spotify.com/track/5d2LH0wRa7BfRapaJsjx9F"
+    },
+    {
+      "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
       },
@@ -8978,7 +9052,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 199165,
       "name": "Or What",
       "url": "https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz"
@@ -10818,7 +10892,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 183999,
       "name": "Si Ai - Marshmello & UKAY Remix",
       "url": "https://open.spotify.com/track/6QiMlAAWY6CV1ItB9oAgF2"
@@ -10906,6 +10980,28 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
     },
     {
       "album": {
@@ -12546,6 +12642,28 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "album": {
@@ -15239,6 +15357,32 @@
     },
     {
       "album": {
+        "name": "\u0417\u0430\u043a\u044a\u0441\u043d\u044f",
+        "url": "https://open.spotify.com/album/3IjD58cSODRmxZvOwh2wru"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Slavi Trifonov",
+          "url": "https://open.spotify.com/artist/4hcbbb8RBjFjCuMhmVv1b9"
+        },
+        {
+          "name": "Ku-Ku Band",
+          "url": "https://open.spotify.com/artist/6dTTAcKWN7BmRGAmmAsdeX"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262998,
+      "name": "\u0417\u0430\u043a\u044a\u0441\u043d\u044f",
+      "url": "https://open.spotify.com/track/61J0JDkMW2ni0IuuALYqiS"
+    },
+    {
+      "album": {
         "name": "GALENAXX",
         "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
       },
@@ -16355,6 +16499,28 @@
     },
     {
       "album": {
+        "name": "\u0422\u0438\u0445\u043e",
+        "url": "https://open.spotify.com/album/2P6FL5HblT4PPpwyz6fcj0"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
+        },
+        {
+          "name": "ymprl",
+          "url": "https://open.spotify.com/artist/4RUbWmEkJdH4HjzXWfEME6"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "\u0422\u0438\u0445\u043e",
+      "url": "https://open.spotify.com/track/1QEUBFEhI2dzxEX0VFBz2t"
+    },
+    {
+      "album": {
         "name": "GALENAXX",
         "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
       },
@@ -16508,7 +16674,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 162758,
       "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/1lVyaRHwjyoWd9YZqybJEq"

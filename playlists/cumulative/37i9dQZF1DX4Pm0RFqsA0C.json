@@ -1310,6 +1310,24 @@
     {
       "album": {
         "name": "Invitation",
+        "url": "https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223738,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2wbJw0ROn1S11TVtjEa4IT"
+    },
+    {
+      "album": {
+        "name": "Invitation",
         "url": "https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4"
       },
       "artists": [
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 215849,
       "name": "\ub9d0\ud558\uc790\uba74",
       "url": "https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu"

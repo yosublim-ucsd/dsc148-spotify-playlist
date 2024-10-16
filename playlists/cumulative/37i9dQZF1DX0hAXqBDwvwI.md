@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-732 songs - 2 day 0 hr 2 min
+734 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 | 2024-04-16 |  |
 | [Gift](https://open.spotify.com/track/76gAyGyyhDuHh2r4TdHKaP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス / Gift](https://open.spotify.com/album/6kC9BUz7ObZ0PR0IRR1BpC) | 4:02 | 2024-10-08 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-07-28 | 2022-10-19 |
-| [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-03 |  |
+| [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-03 | 2024-10-16 |
 | [Give It Up?](https://open.spotify.com/track/6dJqNfKmEz64garAEuZBtp) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [天地創造デザイン部 オープニングテーマ「Give It Up?」](https://open.spotify.com/album/1H15O04NKnUoS3NWBYeXgm) | 2:48 | 2022-07-05 | 2022-07-07 |
 | [Go Live!](https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Go Live!](https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv) | 3:50 | 2022-07-26 | 2022-07-28 |
 | [Go\-Getters](https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Go\-Getters](https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa) | 3:15 | 2024-10-08 |  |
@@ -378,6 +378,7 @@
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-06-14 | 2022-06-27 |
 | [Wake Up, Get Up, Get Out There](https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 4:37 | 2022-09-15 | 2024-04-08 |
 | [WALK \- movie ver.](https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [夏の夢/WALK](https://open.spotify.com/album/03sgjxuA0soDPpj5Kzf2e1) | 3:44 | 2022-07-26 | 2022-07-29 |
+| [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-10-15 |  |
 | [We'll Be Alright \(Movie Edit\)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 4:18 | 2022-06-14 | 2022-07-14 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-06-25 | 2024-06-27 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-04-12 | 2024-04-11 |
@@ -510,7 +511,7 @@
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2024-04-16 | 2024-07-03 |
 | [フリイジア](https://open.spotify.com/track/6to6TiKkMz1o7fGyxw8se5) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [フリイジア](https://open.spotify.com/album/02TujguAC4HGXKOjpieyVZ) | 4:13 | 2022-06-14 | 2022-07-13 |
 | [フリーズ](https://open.spotify.com/track/4mo6p1gcnsQKWs41hAs0Cc) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [フリーズ](https://open.spotify.com/album/2qNDkWASOt1cfAfFaVZG7H) | 4:10 | 2022-06-03 | 2022-07-23 |
-| [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-10-08 |  |
+| [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-10-08 | 2024-10-16 |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2022-10-19 | 2024-04-19 |
 | [ブルーバード](https://open.spotify.com/track/2aWtTHMBKdd6NfKT2GMfiK) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [超いきものばかり〜てんねん記念メンバーズBESTセレクション〜](https://open.spotify.com/album/7bMXGMS8lpWmwlG3eBCfgc) | 3:37 | 2022-06-03 | 2023-07-19 |
 | [ブルーバード](https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [My song Your song](https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm) | 3:38 | 2022-06-03 | 2022-07-29 |
@@ -518,6 +519,7 @@
 | [ブレイキングブレイジング](https://open.spotify.com/track/6vJkrNdMYGJSh5IduOfFpR) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ブレイキングブレイジング](https://open.spotify.com/album/31fkJFiqOBrxwsFbSJcOwN) | 4:12 | 2022-06-14 | 2022-07-01 |
 | [プランA](https://open.spotify.com/track/6uotAIXMVlxBnZITXs5dmm) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [プランA](https://open.spotify.com/album/0xw4GL428TN0eAioPvBIFo) | 3:36 | 2024-10-08 |  |
 | [プリズム](https://open.spotify.com/track/12ZIRTS8x9RBgasDg3q27J) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [プリズム](https://open.spotify.com/album/3Ud2OrKusc7FiNytIiH1Br) | 3:58 | 2022-06-21 | 2022-07-19 |
+| [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-10-15 |  |
 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 | 2022-06-03 | 2024-04-19 |
 | [ポラリス](https://open.spotify.com/track/6drUY5MlA6NpZcpotC7aQP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ポラリス \(Special Edition\)](https://open.spotify.com/album/3DDZz3ervHrqqw5cIb71eF) | 3:44 | 2022-06-03 | 2022-07-28 |
 | [ポラリス](https://open.spotify.com/track/48VySM1VNdPh91Z2fWZ0nY) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ポラリス](https://open.spotify.com/album/1imvG87701X6k98cskMb1G) | 4:21 | 2022-07-05 | 2022-07-11 |

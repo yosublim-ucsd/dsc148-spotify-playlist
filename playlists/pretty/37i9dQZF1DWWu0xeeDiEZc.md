@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,744 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,764 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 7 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Moana \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 8 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 9 | [Hakuna Matata](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 |
-| 10 | [Down By The Bay](https://open.spotify.com/track/6jTZGXH1cOQM3jhh07ZE1y) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:08 |
-| 11 | [Five Little Ducks](https://open.spotify.com/track/6T15qWkGDGlE9vTkvoT4oZ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:32 |
+| 10 | [Five Little Ducks](https://open.spotify.com/track/6T15qWkGDGlE9vTkvoT4oZ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:32 |
+| 11 | [Down By The Bay](https://open.spotify.com/track/6jTZGXH1cOQM3jhh07ZE1y) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:08 |
 | 12 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 |
 | 13 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |
 | 14 | [Be Our Guest](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 3:44 |

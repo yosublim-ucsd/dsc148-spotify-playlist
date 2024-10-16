@@ -2487,6 +2487,28 @@
     },
     {
       "album": {
+        "name": "Agatha All Along: Vol. 1 (Episodes 1-5) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180791,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5AlqGtj7IAJnyGmWFS0Z7D"
+    },
+    {
+      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },

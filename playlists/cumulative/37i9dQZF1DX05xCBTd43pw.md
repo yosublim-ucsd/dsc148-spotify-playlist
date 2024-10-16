@@ -109,7 +109,7 @@
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
 | [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 |  |
-| [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2024-10-14 |
+| [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 |  |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 |  |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
 | [silver lining](https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [silver lining](https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5) | 3:42 | 2024-06-27 | 2024-10-04 |
@@ -138,6 +138,6 @@
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-12 |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 |  |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |
-| [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 |  |
+| [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 | 2024-10-16 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Evolving together",
+        "url": "https://open.spotify.com/album/1UV7XM5VZURHFwSn8yP8Rv"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173122,
+      "name": "Evolving together",
+      "url": "https://open.spotify.com/track/18MkUvPFs2F7dW6SUOQv2M"
+    },
+    {
+      "album": {
         "name": "Happy Days Are Long Awaited",
         "url": "https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf"
       },

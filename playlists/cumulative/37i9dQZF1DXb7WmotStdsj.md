@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment.
 
-215 songs - 17 hr 25 min
+216 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/track/70XpKD6dYj12OWVx05ecQ0) | [Cheb Iyad](https://open.spotify.com/artist/2gqYRgONuLee9PC6qnAD0n), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/album/6FEJQrNJi728zBsHUMgWtZ) | 6:02 | 2023-08-25 |  |
 | [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 | 2023-02-09 | 2023-05-02 |
 | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/track/2z1eSaF4tmNJlzIrL6cupW) | [Ramzi 31](https://open.spotify.com/artist/52lAkeBbNbBfC529dteQNm) | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P) | 7:05 | 2022-09-20 | 2022-12-01 |
-| [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 |  |
+| [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 | 2024-10-16 |
 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 | 2022-09-20 | 2023-07-28 |
 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 | 2022-12-29 |  |
 | [Moul Karsan](https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Moul Karsan](https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC) | 10:00 | 2022-03-08 | 2024-01-19 |
@@ -163,6 +163,7 @@
 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 | 2023-10-11 |  |
 | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/track/5yqlKsyNTsJ9FyneSZVIbm) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Nrohlah Wela Yjini L'essentiel Yrangéni](https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno) | 5:16 | 2022-09-20 | 2022-12-27 |
 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 | 2021-10-19 | 2024-02-17 |
+| [OMRI](https://open.spotify.com/track/08hX3lnqw1Nj2qhaNZ3dPM) | [Acim Music](https://open.spotify.com/artist/2i5v6LrS28a8RVj2e4jZCb) | [OMRI](https://open.spotify.com/album/1Wki9YbkZwOvhrAYbOtn65) | 3:02 | 2024-10-15 |  |
 | [Raki Dalmetni](https://open.spotify.com/track/5ZneftpoYQtDYac23jXLQA) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Raki Dalmetni](https://open.spotify.com/album/5Wse1dL3VSYfQTnB9Z4dkq) | 4:57 | 2022-09-20 | 2023-05-26 |
 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 |  |
 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 |  |

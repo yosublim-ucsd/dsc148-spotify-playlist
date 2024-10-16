@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 148 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 148 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,16 +109,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 99 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 |
 | 100 | [Start Again](https://open.spotify.com/track/3oFmFx3iK3nurxkoFop2Md) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jesse Fink](https://open.spotify.com/artist/7tMI1lr95LzkzRPElGDAlJ) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:47 |
 | 101 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 |
-| 102 | [when you're older](https://open.spotify.com/track/5eFoGE7suEgqgDDaAZiWDc) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [when you're older](https://open.spotify.com/album/4Rt1dnxFH98AwYEraIYbio) | 2:23 |
-| 103 | [OH MY!](https://open.spotify.com/track/6vX0pfXyDgG34SofgP93Hp) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:31 |
-| 104 | [Invisible](https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Invisible](https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn) | 3:17 |
+| 102 | [Invisible](https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Invisible](https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn) | 3:17 |
+| 103 | [when you're older](https://open.spotify.com/track/5eFoGE7suEgqgDDaAZiWDc) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [when you're older](https://open.spotify.com/album/4Rt1dnxFH98AwYEraIYbio) | 2:23 |
+| 104 | [OH MY!](https://open.spotify.com/track/6vX0pfXyDgG34SofgP93Hp) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:31 |
 | 105 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 |
 | 106 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
 | 107 | [High School](https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [High School](https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh) | 2:34 |
-| 108 | [Waterfall](https://open.spotify.com/track/3uAqz4hbag8RrL1v2kzgn1) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/4uINqK7mi5spfI23cy5GXx) | 2:59 |
-| 109 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
-| 110 | [My My](https://open.spotify.com/track/1mXZmBOb4wPusZQ0gUG8Ui) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/4P0pCYWGTLTJMzrEFGJ0WM) | 3:02 |
-| 111 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
+| 108 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
+| 109 | [Waterfall](https://open.spotify.com/track/3uAqz4hbag8RrL1v2kzgn1) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/4uINqK7mi5spfI23cy5GXx) | 2:59 |
+| 110 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
+| 111 | [My My](https://open.spotify.com/track/1mXZmBOb4wPusZQ0gUG8Ui) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/4P0pCYWGTLTJMzrEFGJ0WM) | 3:02 |
 | 112 | [Turn It Up Slow](https://open.spotify.com/track/4XXErZuhTruaAy5FTa6tYM) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 4:23 |
 | 113 | [Ways To Go](https://open.spotify.com/track/362mICSCjlQZztf36d0aMN) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Ways To Go](https://open.spotify.com/album/6a7ShVrxXLT6tXUGLaltAT) | 2:35 |
 | 114 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 130 | [Haunt Me](https://open.spotify.com/track/2TuTlcE2yrwZGFlowFYwIZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:06 |
 | 131 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
 | 132 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
-| 133 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 |
-| 134 | [Die For Me](https://open.spotify.com/track/1Ccf57DxueCpaJ85Rx7LDV) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:57 |
+| 133 | [Die For Me](https://open.spotify.com/track/1Ccf57DxueCpaJ85Rx7LDV) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:57 |
+| 134 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 |
 | 135 | [Nightlight](https://open.spotify.com/track/2plkDAkfLGShUrvdimPNIb) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:06 |
 | 136 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 |
 | 137 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 147 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 | 148 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 |
 
-Snapshot ID: `AbeyigAAAABJp0bV3uW5tKGFcpRD+ziI`
+Snapshot ID: `Abe4KgAAAADyN5RC1ZIpJ/En6kRk6J0Z`

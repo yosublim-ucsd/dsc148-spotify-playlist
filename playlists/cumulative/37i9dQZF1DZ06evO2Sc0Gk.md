@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-139 songs - 7 hr 0 min
+140 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Oh My Gawd](https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd](https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0) | 3:00 | 2024-09-06 |  |
 | [Oh My Gawd](https://open.spotify.com/track/5CHXbSS76okOT6NeuEY9gr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd](https://open.spotify.com/album/2zTCpBjXqGaZwwdSCSXc2R) | 3:00 | 2021-12-28 | 2023-12-15 |
 | [Oh My Gawd](https://open.spotify.com/track/4hsnbG3sdTy3qdTbRVmxdz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Oh My Gawd](https://open.spotify.com/album/2WLszfdXrG7iUFrFEfxa5s) | 3:00 | 2023-12-14 | 2024-06-03 |
-| [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad) | 3:28 | 2023-10-10 |  |
+| [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 | 2024-10-16 |  |
+| [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad) | 3:28 | 2023-10-10 | 2024-10-16 |
 | [Olúwa Jọ̀](https://open.spotify.com/track/5EFwsWY7fy06eS2q2vSUT4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 1:18 | 2023-11-10 | 2024-02-10 |
 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 | 2023-12-13 |  |
 | [One Night](https://open.spotify.com/track/2YveHqx6LTWwB4mXWxOz3j) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Pain, Love, & What Comes After](https://open.spotify.com/album/5RiGPPLI0n9E7D3IBee4ob) | 2:35 | 2022-01-03 | 2022-02-10 |

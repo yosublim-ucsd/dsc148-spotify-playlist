@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 49792,
+  "num_followers": 49799,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADt8NCG9bLNpvSE8hDXMCsW",
+  "snapshot_id": "ZwxfAAAAAAAnwBaT1NaghMdOT7V5UZPz",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "You've Been in Love Too Long - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call It Home, Vol. 1",
         "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "You've Been in Love Too Long - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Longing In Their Hearts",
         "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
       },
@@ -323,42 +323,6 @@
       "duration_ms": 219866,
       "name": "Dimming Of The Day",
       "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "John Prine (Live)",
-        "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Angel from Montgomery (feat. Bonnie Raitt) - Live",
-      "url": "https://open.spotify.com/track/53OnUdsF4yWSaUevfD3EjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y"
     },
     {
       "added_at": null,
@@ -379,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 271133,
       "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
       "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "John Prine (Live)",
+        "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Angel from Montgomery (feat. Bonnie Raitt) - Live",
+      "url": "https://open.spotify.com/track/53OnUdsF4yWSaUevfD3EjW"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
+        "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "Kisses Sweeter than Wine",
+      "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Struck Down",
         "url": "https://open.spotify.com/album/11aQjI3ljmhxZgN8TpY2PQ"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 235880,
       "name": "Nothing in Rambling (ft. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/56jJMIHBDFXxYGOgZImEFC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
-        "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "Kisses Sweeter than Wine",
-      "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
     },
     {
       "added_at": null,

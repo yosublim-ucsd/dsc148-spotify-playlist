@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Lee Mujin",
+  "description": "Future K-Pop hits! Cover: Xdinary Heroes",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -13045,6 +13045,24 @@
     },
     {
       "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205571,
+      "name": "Night before the end",
+      "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
+    },
+    {
+      "album": {
         "name": "The Story : RETOLD",
         "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
       },
@@ -14946,6 +14964,24 @@
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
+    },
+    {
+      "album": {
+        "name": "R.E.M",
+        "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,621 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,684 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 57 | [Can't Get the Best of Me](https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Skull & Bones](https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2) | 4:14 |
 | 58 | [This Means War!! \(feat\. Ozzy Osbourne\)](https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 4:35 |
 | 59 | [Fight Like A Brave](https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Uplift Mofo Party Plan](https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F) | 3:53 |
-| 60 | [Fallin'](https://open.spotify.com/track/5H1KBkH6YC1qo8RXlLDeuw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Judgment Night](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 4:25 |
+| 60 | [Toxic \- Explicit Album Version](https://open.spotify.com/track/3sWbIVUEdY2YyXzJoNj2zs) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Toxic](https://open.spotify.com/album/69AH8JXzq2Tf3VTkAoEPjT) | 2:46 |
 
 Snapshot ID: `Zv8S3AAAAABxQ6CMmQQctRy4/NxgZVHV`

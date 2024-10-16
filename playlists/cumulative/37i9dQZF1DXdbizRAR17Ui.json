@@ -3539,6 +3539,28 @@
     },
     {
       "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
+    },
+    {
+      "album": {
         "name": "Luminous Spaces",
         "url": "https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F"
       },
@@ -5822,7 +5844,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 243100,
       "name": "Swim",
       "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"

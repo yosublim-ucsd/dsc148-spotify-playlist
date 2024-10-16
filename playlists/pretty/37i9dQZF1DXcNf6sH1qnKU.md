@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,759 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,894 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 12 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
 | 13 | [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 |
 | 14 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
-| 15 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
+| 15 | [Dozen](https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:12 |
 | 16 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 |
 | 17 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
 | 18 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 32 | [Pearl](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
 | 33 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
 | 34 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 |
-| 35 | [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 |
-| 36 | [She's Unreal](https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 5:18 |
+| 35 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
+| 36 | [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 |
 | 37 | [Into The Ether](https://open.spotify.com/track/0MllKGT9TEHf7AH0BJhEVj) | [Secret Shine](https://open.spotify.com/artist/7ebUhQ5S6ELUODQpOX7GcV) | [Untouched](https://open.spotify.com/album/6rHa81gotpmu3XYL3aY50H) | 4:42 |
 | 38 | [Die Geschichte Einer Mutter](https://open.spotify.com/track/7KPPysjHZEvFDJSPTd1MKs) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 6:53 |
 | 39 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
 | 40 | [Pearl \- Edit](https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:50 |
 | 41 | [Chlorine Dream](https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L) | [Spirea X](https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb) | [Chlorine Dream](https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1) | 4:24 |
 | 42 | [Anne with an E](https://open.spotify.com/track/6Vookb0CmTJyKM2Axi6J1Z) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [Belong](https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ) | 4:07 |
-| 43 | [Valentine](https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [You See Colours](https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz) | 4:52 |
-| 44 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
-| 45 | [Dream On](https://open.spotify.com/track/3pqV3WcYB3LCb9SaDgE3UX) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [Way Beyond Blue](https://open.spotify.com/album/4hcPh4wVibkzYUpsxSwGvJ) | 2:36 |
-| 46 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 |
-| 47 | [Outdoor Miner](https://open.spotify.com/track/2WzZo5zzYL1sn8vjTUnXWV) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [For Love](https://open.spotify.com/album/1h0ppp7vyFT9hNrY5DMj2L) | 2:51 |
-| 48 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 |
-| 49 | [Yam Yam](https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH) | 3:36 |
-| 50 | [For the Damaged Coda](https://open.spotify.com/track/7jA5OcunWRSYXq98puhAX8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/5ozMQsDFl6QNqB2bGiMuHU) | 2:37 |
+| 43 | [She's Unreal](https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 5:18 |
+| 44 | [Valentine](https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [You See Colours](https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz) | 4:52 |
+| 45 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
+| 46 | [Dream On](https://open.spotify.com/track/3pqV3WcYB3LCb9SaDgE3UX) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [Way Beyond Blue](https://open.spotify.com/album/4hcPh4wVibkzYUpsxSwGvJ) | 2:36 |
+| 47 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 |
+| 48 | [Outdoor Miner](https://open.spotify.com/track/2WzZo5zzYL1sn8vjTUnXWV) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [For Love](https://open.spotify.com/album/1h0ppp7vyFT9hNrY5DMj2L) | 2:51 |
+| 49 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 |
+| 50 | [Yam Yam](https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH) | 3:36 |
 
-Snapshot ID: `ZtI3mwAAAABTh99liymA0Dw0rK9ZSvUX`
+Snapshot ID: `Zw3kLAAAAAADRzfuMwaSBjNHQJgUD2gH`

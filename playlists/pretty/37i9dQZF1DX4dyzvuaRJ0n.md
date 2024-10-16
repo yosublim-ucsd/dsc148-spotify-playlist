@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: RÜFUS DU SOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,815,035 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,814,832 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 32 | [Follow The Light](https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Follow The Light](https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8) | 3:12 |
 | 33 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 |
 | 34 | [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 |
-| 35 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 35 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 36 | [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 |
 | 37 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
 | 38 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 |

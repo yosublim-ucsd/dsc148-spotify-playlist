@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: PUGNI
 
-176 songs - 8 hr 36 min
+177 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [L'ETÀ D'ORO](https://open.spotify.com/track/1BIYMcbLkm9Wo9NKudb3jn) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [L'ETÀ D'ORO](https://open.spotify.com/album/0CcJbA8NY3XXl4xozCPg3Z) | 3:03 | 2024-06-27 | 2024-07-12 |
 | [LA DOMANDA GIUSTA](https://open.spotify.com/track/6pOuWoEdYpBw74fP42F1Tv) | [Giulia Leone](https://open.spotify.com/artist/5xyfvolNQ8DukvHXKjHxRd) | [LA DOMANDA GIUSTA](https://open.spotify.com/album/0Nt0bzksswpMespk6o895G) | 2:58 | 2024-06-27 | 2024-07-05 |
 | [La metà](https://open.spotify.com/track/2mxb9ZHTc9BL1lwOcqmE9B) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [BUIO](https://open.spotify.com/album/4iZjs32KpHJmRKduhU5Zar) | 3:24 | 2024-06-27 | 2024-07-05 |
-| [La ricompensa](https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [La ricompensa della mangusta](https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP) | 3:20 | 2024-10-03 |  |
+| [La ricompensa](https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [La ricompensa della mangusta](https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP) | 3:20 | 2024-10-03 | 2024-10-16 |
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 |  |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [LASCIAMI QUI](https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX) | [SAMUSPINA](https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy) | [LASCIAMI QUI](https://open.spotify.com/album/4mDXbcq1TQz6pgVWvWmuIl) | 3:36 | 2024-08-29 | 2024-09-27 |
@@ -120,6 +120,7 @@
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 | 2024-10-11 |
 | [Papapa](https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN) | [200x100furo](https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ), [999folo](https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS) | [Papapa](https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv) | 2:42 | 2024-08-01 | 2024-09-27 |
+| [PARTITA A SCACCHI](https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [PARTITA A SCACCHI](https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49) | 3:08 | 2024-10-10 |  |
 | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 |  |
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |
 | [Pennette alla vodka](https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk) | [L'operazione Camarillo](https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4) | [Pennette alla vodka](https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s) | 3:01 | 2024-10-03 |  |

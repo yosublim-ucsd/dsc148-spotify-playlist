@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,363 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,376 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 16 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
 | 17 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 18 | [Lakou](https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng) | [Tafa Mi\-Soleil](https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt) | [Lakou](https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3) | 3:12 |
-| 19 | [Done For Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/3zvdunLVg4aZN1xo9PqOxF) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:55 |
-| 20 | [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 |
+| 19 | [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 |
+| 20 | [Done For Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/3zvdunLVg4aZN1xo9PqOxF) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:55 |
 | 21 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 |
 | 22 | [Kabe](https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Nomis \(FR\)](https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V) | [Kabe](https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh) | 3:32 |
 | 23 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |

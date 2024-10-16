@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=wdppI\-fhS1qjt9pyyAggSQ>Judikay</a>
 
-401 songs - 1 day 15 hr 26 min
+402 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [MAJO](https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [MAJO](https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec) | 2:53 | 2023-12-15 | 2024-01-15 |
 | [Making Me](https://open.spotify.com/track/1dzDNpfxZs4uunBbSfrhP7) | [Tee Supreme](https://open.spotify.com/artist/6RqXGNrD0Sob28HXBsjqTk), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Making Me](https://open.spotify.com/album/4Lwj9GfrvpYFAlrXYnhj9O) | 2:47 | 2024-05-14 | 2024-05-24 |
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-21 | 2024-09-14 |
+| [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 | 2024-10-11 |  |
 | [Maranatha](https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 6:35 | 2023-01-27 | 2024-03-16 |
 | [Melodies](https://open.spotify.com/track/1Evjgpabe7O551q1MGZ1Qb) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Melodies](https://open.spotify.com/album/2wfiWkB0R8e3PaJNsMxKNA) | 2:34 | 2024-10-11 |  |
 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 | 2022-06-09 | 2023-06-16 |
@@ -353,7 +354,7 @@
 | [Wade In The Water \- Live](https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Black History Project \(Live from London\)](https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6) | 3:19 | 2022-06-09 | 2024-02-09 |
 | [Waiting](https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Waiting](https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy) | 3:21 | 2023-10-13 | 2023-10-23 |
 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 | 2024-04-05 | 2024-06-20 |
-| [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 |  |
+| [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 | 2024-10-16 |
 | [Water Run Away My Eyes](https://open.spotify.com/track/6L1aJvQ16EN7KxKSe6iEwW) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 4:16 | 2023-12-05 | 2023-12-11 |
 | [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 | 2023-12-05 | 2024-09-06 |
 | [Waymaker \- Bonus Track, Live](https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65) | 8:20 | 2024-09-06 |  |

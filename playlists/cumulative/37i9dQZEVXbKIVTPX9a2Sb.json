@@ -8582,7 +8582,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 220566,
       "name": "Dovidenia",
       "url": "https://open.spotify.com/track/0aBdBSOuzJKQzV011nZUqz"
@@ -21928,7 +21928,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 216825,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
@@ -24983,6 +24983,28 @@
     },
     {
       "album": {
+        "name": "PAY DAY",
+        "url": "https://open.spotify.com/album/3xTWRg13N6RjR9Y92MwT6T"
+      },
+      "artists": [
+        {
+          "name": "P.A.T.",
+          "url": "https://open.spotify.com/artist/6rGGxP2TgRe3vhRh0y9oQd"
+        },
+        {
+          "name": "Erik Tresor",
+          "url": "https://open.spotify.com/artist/76z2fhVxDD2qsS2RJlHs1v"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ot\u010dina",
+      "url": "https://open.spotify.com/track/1DaPZv9UsI21qktLuN7h0U"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -25822,7 +25844,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"

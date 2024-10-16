@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 158168,
       "name": "Cavandoli",
       "url": "https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT"
@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 218500,
       "name": "Endless skies",
       "url": "https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190655,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV"
@@ -11833,6 +11833,24 @@
     },
     {
       "album": {
+        "name": "The evolving mind",
+        "url": "https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134981,
+      "name": "The evolving mind",
+      "url": "https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ"
+    },
+    {
+      "album": {
         "name": "the fairy's dance",
         "url": "https://open.spotify.com/album/3jqtmlqUYRg095KlIIfXCS"
       },
@@ -13378,7 +13396,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 136118,
       "name": "Watching North",
       "url": "https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO"

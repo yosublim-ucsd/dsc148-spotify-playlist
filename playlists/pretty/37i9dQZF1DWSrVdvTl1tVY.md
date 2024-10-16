@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! The Martinez Brothers & PAWSA at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,663 likes - 123 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,661 likes - 123 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

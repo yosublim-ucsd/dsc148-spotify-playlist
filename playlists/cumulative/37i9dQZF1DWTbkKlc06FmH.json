@@ -8336,7 +8336,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 213933,
       "name": "Miley",
       "url": "https://open.spotify.com/track/3XOD4lBBCFU1qea6zvdqvZ"
@@ -10602,7 +10602,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 219720,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/7t1RsXYNkgYUtxyJ2sLqsz"
@@ -10862,6 +10862,24 @@
       "duration_ms": 205728,
       "name": "pure",
       "url": "https://open.spotify.com/track/63TFuwZlCpaK4Y5BTqJFFP"
+    },
+    {
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "album": {
@@ -13058,7 +13076,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190788,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4W5H8Vo3sldHA5blNXqb6U"
@@ -16205,6 +16223,28 @@
     },
     {
       "album": {
+        "name": "\u306a\u3093\u3067\u3082\u306a\u3044",
+        "url": "https://open.spotify.com/album/04Cm1VbTisn57QjTejhES8"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "Varria",
+          "url": "https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135405,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044",
+      "url": "https://open.spotify.com/track/5P4B6Qvtojsw8wfp5rUeaT"
+    },
+    {
+      "album": {
         "name": "\u306f\u3058\u3081\u3066\u306e\u611f\u60c5",
         "url": "https://open.spotify.com/album/2j1MD5IIdvez25IymO55rA"
       },
@@ -17904,6 +17944,24 @@
       "duration_ms": 220236,
       "name": "\u982c\u6756",
       "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "album": {

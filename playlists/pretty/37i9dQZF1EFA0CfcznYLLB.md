@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,815 likes - 315 songs - 16 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,814 likes - 315 songs - 16 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,8 +220,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 210 | [Depend On Me \(feat\. Lil Tjay\)](https://open.spotify.com/track/0Ry4dvZkm8QR0wANziFIuo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:31 |
 | 211 | [Before The Checks \(feat\. Casey Veggies\)](https://open.spotify.com/track/53e92lm5ZHU0aeLmTzbMcu) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 3:44 |
 | 212 | [Bend Ya Knees](https://open.spotify.com/track/0kvL0N0jZWOg98jE7FLzIn) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 2:57 |
-| 213 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
-| 214 | [Ride With Shordie](https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:01 |
+| 213 | [Ride With Shordie](https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:01 |
+| 214 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 |
 | 215 | [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 |
 | 216 | [Touchdown \(feat\. Peezy & Murda Beatz\)](https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:52 |
 | 217 | [Trap Star](https://open.spotify.com/track/39MJKyP5VPNP3kattTx9iO) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:22 |
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 258 | [Hood Bitch Aesthetic](https://open.spotify.com/track/2rVMvrKpFmnpVRxRNWIywy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Hood Bitch Aesthetic](https://open.spotify.com/album/6am3JP04WcRJlPeqIYJJVj) | 3:14 |
 | 259 | [Me Too](https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:28 |
 | 260 | [Go See](https://open.spotify.com/track/634bqf7Pi4ojBuZVldB4kS) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 2:17 |
-| 261 | [The Other Ones \(feat\. Rapsody\)](https://open.spotify.com/track/0u48wTfTCL8z1hVgrnthzh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:38 |
-| 262 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
+| 261 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
+| 262 | [The Other Ones \(feat\. Rapsody\)](https://open.spotify.com/track/0u48wTfTCL8z1hVgrnthzh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:38 |
 | 263 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
 | 264 | [Blowing The Speakers](https://open.spotify.com/track/794HAqmMJaLZAFWiNhXhaL) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event 2: The Wrath of God \(Reloaded\)](https://open.spotify.com/album/5igW9I1J6tjmUWHN6PGLte) | 3:18 |
 | 265 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 314 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 315 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbeyigAAAADkn4hRQY/dM7hkKryV9MBY`
+Snapshot ID: `Abe4NAAAAADl5hStvrn+UCGHO1Tqm15W`

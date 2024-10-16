@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-342 songs - 1 day 6 hr 29 min
+343 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 | 2020-07-07\* |  |
 | [a brighter summer day](https://open.spotify.com/track/1yTZWhqVuhPYDAMT4kPTsI) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 1:43 | 2020-07-07\* | 2022-07-29 |
 | [A Possible Tomorrow](https://open.spotify.com/track/0Wg1ezw01TCSpgOcv7fzKP) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl) | 6:31 | 2022-01-11 | 2022-07-28 |
-| [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 |  |
+| [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 | 2024-10-16 |
 | [Aguirre: Aguirre: Aguirre](https://open.spotify.com/track/0D05yzrvbMvwkwcfn574Ka) | [Popol Vuh](https://open.spotify.com/artist/5zeiqAaIiDrjiDch33A2lT) | [Earth's Answer](https://open.spotify.com/album/5QYUZ04RI4hNsnvUu21apI) | 6:22 | 2021-02-25 | 2022-04-19 |
 | [Airglow](https://open.spotify.com/track/0htBZY6Vii4sbeu6vXrUMe) | [Efence](https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld) | [Lost Future](https://open.spotify.com/album/6fsWcJePfjC3FGNj5qF34i) | 3:41 | 2020-07-07\* | 2021-03-02 |
 | [Alborada do alén](https://open.spotify.com/track/5vxqhMfBHfKy4uOMnlGgsy) | [Moura](https://open.spotify.com/artist/0gUTcqiogophrLtO9UNPYW), [Elena Vázquez](https://open.spotify.com/artist/1wE27L8WdKipJoDTpqL8NB) | [Axexan, espreitan](https://open.spotify.com/album/7ESdKLT2LfrMzBF5tUzzbK) | 3:06 | 2022-06-08 | 2022-07-29 |
@@ -102,6 +102,7 @@
 | [Falter\-Lamento](https://open.spotify.com/track/7IsLF9UfixejwMV7VJMirJ) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Nachtstücke](https://open.spotify.com/album/4lK6jOyd1SgurwBmKJ19eJ) | 6:18 | 2020-10-20 | 2022-07-23 |
 | [Far out](https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL) | [Lunar Ship](https://open.spotify.com/artist/2oBpQUmHc0cQX0s1TsGL7U) | [Far out](https://open.spotify.com/album/3xOe5NLs8W2YFLZqAOjlAQ) | 4:02 | 2020-11-05 | 2022-07-28 |
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-04-28 | 2022-07-29 |
+| [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 | 2024-10-16 |  |
 | [First Day](https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl), [Max de Wardener](https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG) | [The Power \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72) | 1:36 | 2021-04-17 | 2022-07-29 |
 | [First Encounter](https://open.spotify.com/track/2kk3Lyl3HUNcNqNvfGGiYr) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Arrival \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/07dwFvc0yjd7N4K2SvxQUd) | 4:49 | 2021-01-31 | 2022-07-09 |
 | [First Encounter](https://open.spotify.com/track/7Et10xE2nh3VG94O1948Zh) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Arrival \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GDfBsNm22NeGSP2vQDWnO) | 4:49 | 2021-10-20 | 2024-04-19 |

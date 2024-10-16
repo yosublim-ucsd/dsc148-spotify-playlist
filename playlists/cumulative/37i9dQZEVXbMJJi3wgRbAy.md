@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-878 songs - 1 day 22 hr 26 min
+879 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-02-18 | 2022-08-31 |
 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-09-28 |  |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-09-29 | 2022-01-30 |
+| [Feeling My Mind \- Radio Edit](https://open.spotify.com/track/54GIpKWCbM8qNRp0DVk7U0) | [Joe Mesmar](https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua) | [Feeling My Mind](https://open.spotify.com/album/0WfI1jaUbJKuhqgHCaepmm) | 4:28 | 2024-10-15 |  |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-02-24 | 2022-05-08 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-10-01 | 2023-07-16 |
 | [FERNET](https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [FERNET](https://open.spotify.com/album/0UbxWnBpJKoUj4jmSFwUnc) | 3:12 | 2022-07-30 | 2023-04-22 |
@@ -388,7 +389,7 @@
 | [La Medicina Nº 9](https://open.spotify.com/track/3yN6KXgZZfe6SVjRytj5Z2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 3:45 | 2024-09-13 | 2024-09-15 |
 | [La Melodía de Dios](https://open.spotify.com/track/31xVuaxFElzKPIp6Z9HT5N) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/19TeDDWnbWJqtd4NyPI3jk) | 4:45 | 2021-11-06 | 2021-11-08 |
 | [La Melodía de Dios](https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 4:45 | 2022-11-05 | 2022-11-08 |
-| [La Morocha](https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:14 | 2024-02-03 |  |
+| [La Morocha](https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:14 | 2024-02-03 | 2024-10-16 |
 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 | 2023-08-15 | 2024-02-04 |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-11 | 2023-05-03 |
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2021-08-09 | 2021-09-05 |

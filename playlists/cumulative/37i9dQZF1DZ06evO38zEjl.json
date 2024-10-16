@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
+  "description": "This is Jon Hassell. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Jon Hassell",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 702146,
       "name": "Darbari Bridge",
       "url": "https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 313980,
       "name": "Empire IV",
       "url": "https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 261173,
       "name": "Miracle Steps",
       "url": "https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 453120,
       "name": "Wing Melodies",
       "url": "https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb"

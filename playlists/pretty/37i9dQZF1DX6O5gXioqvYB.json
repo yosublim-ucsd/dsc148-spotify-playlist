@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: PUGNI",
-  "num_followers": 33688,
+  "num_followers": 33692,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "luci dell'autostrada",
-        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
-      },
-      "artists": [
-        {
-          "name": "Biava",
-          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "luci dell'autostrada",
-      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Pasquale (guarda i cantieri)",
         "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 154200,
       "name": "Pasquale (guarda i cantieri)",
       "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "luci dell'autostrada",
+        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
+      },
+      "artists": [
+        {
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "luci dell'autostrada",
+      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "U mari",
-        "url": "https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec"
-      },
-      "artists": [
-        {
-          "name": "Anna Castiglia",
-          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "U mari",
-      "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "LACRIME E CEMENTO",
         "url": "https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "soli soli",
-        "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
-      },
-      "artists": [
-        {
-          "name": "Giuze",
-          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "soli soli",
-      "url": "https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "ATTACCHI DI PANICO",
         "url": "https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 179500,
       "name": "ATTACCHI DI PANICO",
       "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "U mari",
+        "url": "https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec"
+      },
+      "artists": [
+        {
+          "name": "Anna Castiglia",
+          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
+        }
+      ],
+      "duration_ms": 166216,
+      "name": "U mari",
+      "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "soli soli",
+        "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "soli soli",
+      "url": "https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Maldini",
+        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
+      },
+      "artists": [
+        {
+          "name": "Migliorini",
+          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
+        }
+      ],
+      "duration_ms": 190578,
+      "name": "Maldini",
+      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Ondeggiando",
         "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Maldini",
-        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
-      },
-      "artists": [
-        {
-          "name": "Migliorini",
-          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
-        }
-      ],
-      "duration_ms": 190578,
-      "name": "Maldini",
-      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "BRONCIO",
         "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 159586,
       "name": "SUPERORGASMO",
       "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "ALICE+",
+        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "ALICE+",
+      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "ROCCASECCA",
-        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
-      },
-      "artists": [
-        {
-          "name": "Teseghella",
-          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
-        }
-      ],
-      "duration_ms": 157624,
-      "name": "Penso Penso Penso",
-      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": ") ) ) echo ( ( ( (",
         "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
       },
@@ -767,34 +767,50 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "ALICE+",
-        "url": "https://open.spotify.com/album/6NSx4CI3u5ejunZLxvCjAT"
+        "name": "ROCCASECCA",
+        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
       },
       "artists": [
         {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
         }
       ],
-      "duration_ms": 122666,
-      "name": "ALICE+",
-      "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
+      "duration_ms": 157624,
+      "name": "Penso Penso Penso",
+      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
     },
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Sale",
-        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
+        "name": "Sotto",
+        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
       },
       "artists": [
         {
-          "name": "r\u00f6a",
-          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
+          "name": "R\u00cdA",
+          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Sale",
-      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
+      "duration_ms": 152000,
+      "name": "Sotto",
+      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "PARTITA A SCACCHI",
+        "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "PARTITA A SCACCHI",
+      "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -819,6 +835,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
+      },
+      "artists": [
+        {
+          "name": "r\u00f6a",
+          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
         "name": "Cu'mme",
         "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
       },
@@ -839,22 +871,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Sotto",
-        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
-      },
-      "artists": [
-        {
-          "name": "R\u00cdA",
-          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sotto",
-      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Bagno",
         "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
       },
@@ -867,6 +883,22 @@
       "duration_ms": 276521,
       "name": "Bagno",
       "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
+      },
+      "artists": [
+        {
+          "name": "Nuela",
+          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -899,22 +931,6 @@
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
-      },
-      "artists": [
-        {
-          "name": "Nuela",
-          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -983,22 +999,6 @@
       "duration_ms": 159567,
       "name": "zagara",
       "url": "https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
-        "name": "La ricompensa della mangusta",
-        "url": "https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP"
-      },
-      "artists": [
-        {
-          "name": "Missey",
-          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "La ricompensa",
-      "url": "https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe"
     }
   ],
   "unique_name": "Scuola Indie",

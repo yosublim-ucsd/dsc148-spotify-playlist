@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Afra
 
-76 songs - 3 hr 47 min
+77 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-02 | 2024-07-12 |
 | [ILTIMAS X SUBMARINER](https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [ILTIMAS X SUBMARINER](https://open.spotify.com/album/43yjmZvIXU6NjFoMul1Uw2) | 3:01 | 2024-07-02 |  |
-| [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-07-02 |  |
+| [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 | 2024-10-15 |  |
+| [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-07-02 | 2024-10-16 |
 | [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 | 2024-08-27 |  |
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-07-29 |  |
 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-14 |  |

@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-262 songs - 19 hr 59 min
+266 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Boyfriend](https://open.spotify.com/track/4TRvZ3a6QTEKbq1CsUePJp) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [No\. 1 Fan](https://open.spotify.com/album/7plmL8rLmskhVCJ4uXWjXG) | 4:22 | 2021-06-03 | 2023-09-10 |
 | [Boyfriend](https://open.spotify.com/track/653dmD0lND0VfoxLxbU48x) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [Boyfriend](https://open.spotify.com/album/4qm27iiZNdS6giAUHhdstW) | 4:22 | 2021-06-03 | 2023-04-22 |
 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 | 2020-10-29\* |  |
+| [Calendar](https://open.spotify.com/track/0f5zmYlqbw8szBtaVZhnGE) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:48 | 2024-10-15 |  |
 | [Catch The Breeze](https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:19 | 2020-10-29\* |  |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2021-06-03 | 2024-04-19 |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 | 2020-10-29\* |  |
@@ -52,6 +53,7 @@
 | [Donuts](https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 6:23 | 2021-06-03 | 2024-04-19 |
 | [Donuts](https://open.spotify.com/track/6PAe4Nm3jot97kAnYphzGC) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Donuts](https://open.spotify.com/album/2bKLw82RUcPpXKnRoIlaj0) | 6:23 | 2020-10-29\* |  |
 | [Donuts](https://open.spotify.com/track/7g9ms4Y9RBYgV5qqoj7STl) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Donuts](https://open.spotify.com/album/1p51ayQhDK3EahsuDEmVgx) | 6:23 | 2021-06-03 | 2022-11-13 |
+| [Dozen](https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 5:12 | 2024-10-15 |  |
 | [Drain Cosmetics](https://open.spotify.com/track/2dIXaDSmad5KrAX4DEXYny) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [Serena\-Maneesh](https://open.spotify.com/album/5Op3sgXfa2wPGDzySdXKyH) | 3:41 | 2021-06-03 | 2024-04-19 |
 | [Drain Cosmetics](https://open.spotify.com/track/3UymNkS2B7jiUb4ga5URLU) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [Serena\-Maneesh](https://open.spotify.com/album/5zEpLOYybmHfJYYJOQ8kId) | 3:41 | 2020-10-29\* |  |
 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 | 2020-10-29\* |  |
@@ -157,6 +159,7 @@
 | [Polyfusion](https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 6:23 | 2021-06-03 | 2024-04-19 |
 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 | 2024-08-19 |  |
 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 | 2023-04-12 |  |
+| [Raindrop](https://open.spotify.com/track/6t56M2FiiLhebISr4GJwvF) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 4:04 | 2024-10-15 |  |
 | [Rave Down](https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj) | [Swervedriver](https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu) | [Raise](https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw) | 5:06 | 2020-10-29\* |  |
 | [Record Still Spinning](https://open.spotify.com/track/0DbK7EyGqza8QqzKpYZTCo) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3rU0SnUhb72OOyxaSM5c99) | 3:29 | 2021-06-03 | 2023-04-29 |
 | [Record Still Spinning](https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5) | 3:29 | 2021-06-03 | 2024-04-19 |
@@ -267,6 +270,7 @@
 | [When The Sun Hits](https://open.spotify.com/track/7wE4l1GNxjE2kOmlsx0PcA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 4:47 | 2020-10-29\* |  |
 | [When the Sun Hits](https://open.spotify.com/track/7aXUzHn4A6fGKofVPGCoeT) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 4:47 | 2021-06-03 | 2022-11-13 |
 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 | 2021-04-01 |  |
+| [Wishes](https://open.spotify.com/track/5hhgmepThtS3PoPIGsA5Ui) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 3:33 | 2024-10-15 |  |
 | [You Tear the World in Two \(Woodhouse Studio LP Demo\) \- Remastered](https://open.spotify.com/track/7I4Ebjrwu8ZRXKd2yizyro) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [You Tear the World in Two \(Woodhouse Studio LP Demo\) \[Remastered\]](https://open.spotify.com/album/5X2ZlpiHUls5qnhYWOQb1M) | 2:33 | 2020-10-29\* |  |
 | [You Tear the World in Two \- Woodhouse Studio LP Demo \- Remastered](https://open.spotify.com/track/5pDey3D5oUHwFqoHHlT4nl) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness \(30th Anniversary Reissue\)](https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c) | 2:33 | 2021-06-03 | 2024-04-19 |
 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 | 2020-10-29\* |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 40140,
+  "num_followers": 40147,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAC45FzlGpA4pnQaewEHsoLh",
+  "snapshot_id": "ZwxfAAAAAAAwhozvO/OdDKLHrDoWtfzP",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rock your hips (with Saweetie)",
-        "url": "https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "rock your hips (with Saweetie)",
-      "url": "https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
         "url": "https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rock your hips (with Saweetie)",
+        "url": "https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "rock your hips (with Saweetie)",
+      "url": "https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast (Motion)",
-        "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Fast (Motion)",
-      "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Richtivities",
         "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 176401,
       "name": "Richtivities",
       "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast (Motion)",
+        "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Fast (Motion)",
+      "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
     },
     {
       "added_at": null,
@@ -563,6 +563,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
+        "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
+      "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE SINGLE LIFE",
         "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
       },
@@ -575,26 +603,6 @@
       "duration_ms": 134760,
       "name": "BO$$ CHICK",
       "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUST RE'D UP 3",
-        "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 156276,
-      "name": "SHE PRETTY (WITH SAWEETIE)",
-      "url": "https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S"
     },
     {
       "added_at": null,
@@ -619,22 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+        "name": "JUST RE'D UP 3",
+        "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+      "duration_ms": 156276,
+      "name": "SHE PRETTY (WITH SAWEETIE)",
+      "url": "https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S"
     },
     {
       "added_at": null,
@@ -655,6 +663,26 @@
       "duration_ms": 152241,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "added_at": null,
@@ -703,34 +731,6 @@
       "duration_ms": 214536,
       "name": "Move (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
-        "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
-      "url": "https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "Tip Toes (feat. Quavo)",
-      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 208235,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
     },
     {
       "added_at": null,
@@ -1047,30 +1047,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
-        "url": "https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM"
+        "name": "Pissed",
+        "url": "https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9"
       },
       "artists": [
         {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 201248,
-      "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
-      "url": "https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS"
+      "duration_ms": 135621,
+      "name": "Pissed",
+      "url": "https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6"
     }
   ],
   "unique_name": "This Is Saweetie",

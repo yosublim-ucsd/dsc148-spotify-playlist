@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Nippa",
-  "num_followers": 150165,
+  "num_followers": 150203,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "My Man",
-        "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "My Man",
-      "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "eyes wide open",
         "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 153648,
       "name": "eyes wide open",
       "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "duration_ms": 127802,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -703,22 +703,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Life Size",
-        "url": "https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC"
+        "name": "Eating out",
+        "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         },
         {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
         }
       ],
-      "duration_ms": 151306,
-      "name": "Life Size",
-      "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
+      "duration_ms": 173369,
+      "name": "Eating out",
+      "url": "https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -763,22 +763,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Eating out",
-        "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
+        "name": "Life Size",
+        "url": "https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC"
       },
       "artists": [
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         },
         {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
         }
       ],
-      "duration_ms": 173369,
-      "name": "Eating out",
-      "url": "https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979"
+      "duration_ms": 151306,
+      "name": "Life Size",
+      "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -851,8 +851,8 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "SUNSET BLVD",
-        "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
+        "name": "SAFE FLIGHT",
+        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 159131,
-      "name": "SUNSET BLVD",
-      "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
+      "duration_ms": 149400,
+      "name": "LYTM",
+      "url": "https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "A Million Ways",
-        "url": "https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 184901,
-      "name": "A Million Ways",
-      "url": "https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Escape Plan",
         "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 215249,
       "name": "Escape Plan",
       "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "A Million Ways",
+        "url": "https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 184901,
+      "name": "A Million Ways",
+      "url": "https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn"
     },
     {
       "added_at": "2024-10-03 23:00:00",

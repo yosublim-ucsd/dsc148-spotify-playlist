@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx">Sonder Onderbroeke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,323 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,329 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 34 | [Android](https://open.spotify.com/track/5UtLO5eNEB3MsrQNm77ZW2) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Android](https://open.spotify.com/album/0g6q1QEe0BlQfUBQ2ubdct) | 3:32 |
 | 35 | [Wasted Youth](https://open.spotify.com/track/0XD9UC6nzrScLTJ6tfQWAi) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Wasted Youth](https://open.spotify.com/album/7imWELlUcoALiDL1L67PcV) | 4:07 |
 | 36 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
-| 37 | [Alleen \- Remastered 2024](https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ewigheid \(Remastered 2024\)](https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa) | 4:00 |
-| 38 | [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 |
+| 37 | [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 |
+| 38 | [Alleen \- Remastered 2024](https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ewigheid \(Remastered 2024\)](https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa) | 4:00 |
 | 39 | [ZAR](https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [ZAR](https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX) | 3:27 |
 | 40 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
 | 41 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
-| 42 | [Adrenalien](https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W) | [veervol](https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE) | [Adrenalien](https://open.spotify.com/album/2q1PhrnKgBP10Rvx2CdPjh) | 4:12 |
-| 43 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
+| 42 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
+| 43 | [Adrenalien](https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W) | [veervol](https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE) | [Adrenalien](https://open.spotify.com/album/2q1PhrnKgBP10Rvx2CdPjh) | 4:12 |
 | 44 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
 | 45 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
 | 46 | [The Wire](https://open.spotify.com/track/6Di0vZd85nU8V9K2e7fHd9) | [Run Into Waves](https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ) | [The Wire](https://open.spotify.com/album/1lsx1zOJrWs99uiwruqQtM) | 2:47 |
 | 47 | [Wild Shit](https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty) | [Kalden Berg](https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j), [Elsie Binx](https://open.spotify.com/artist/4M1tL6FG4dlmXPJi8lZaQl) | [Wild Shit](https://open.spotify.com/album/04q9b5UM40J6nVEzKE5zOR) | 3:12 |
 | 48 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
 | 49 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
-| 50 | [Gee My Jou Alles](https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Gee My Jou Alles](https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD) | 3:32 |
+| 50 | [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 |
 
 Snapshot ID: `ZwhOYAAAAADr2Bntda6TlGmozVeM4Sbt`

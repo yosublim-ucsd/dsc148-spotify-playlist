@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-282 songs - 13 hr 1 min
+283 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Street Lights](https://open.spotify.com/track/4MJpaD8vXN3d9APFeE1FMJ) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 3:03 | 2020-10-20\* | 2023-09-09 |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2020-10-20\* | 2023-09-09 |
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* | 2024-07-30 |
+| [Summer Breeze](https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD) | [Marnie Jacobs](https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ) | [Summer Breeze](https://open.spotify.com/album/1p28qRVa6fZdnp6Y7CUHJd) | 2:18 | 2024-10-15 |  |
 | [Summer Snow](https://open.spotify.com/track/4953EuU1fRqRQBFsYNsMHs) | [Renata Szabo](https://open.spotify.com/artist/2Ld6f08VOXx90E5Lu2dLwv) | [Summer Snow](https://open.spotify.com/album/63utaJVYnUlUgpS00dkCC2) | 2:44 | 2020-10-20\* | 2023-09-09 |
 | [Summervale](https://open.spotify.com/track/3G7DGzqvFHsFMlsq7OddLH) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Summervale](https://open.spotify.com/album/6BXD9agE1HlJzyNw7NuLrq) | 2:25 | 2023-11-13 |  |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-09-08 |  |

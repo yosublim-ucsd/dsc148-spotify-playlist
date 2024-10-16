@@ -1531,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Tu Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357680,
+      "name": "No Hay Lugar Mas Alto (feat. Christine D Clario)",
+      "url": "https://open.spotify.com/track/2gssWCnDOyxRxNfIw1eYLH"
+    },
+    {
+      "album": {
         "name": "Como En El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
       },
@@ -2352,7 +2374,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 351542,
       "name": "Yo Te Busco",
       "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"

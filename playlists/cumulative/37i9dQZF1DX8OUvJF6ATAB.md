@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-339 songs - 1 day 5 hr 46 min
+340 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 | 2021-10-06 |  |
 | [Fading In](https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6) | [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Fading In And Out](https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh) | 3:01 | 2022-03-11 |  |
 | [FEEL](https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:27 | 2021-10-06 |  |
+| [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 | 2024-10-16 |  |
 | [Fire Walk](https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9) | [Komodo Kolektif](https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo) | [Lost Transmissions From the Off\-World Territories](https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ) | 3:57 | 2021-10-06 |  |
 | [Flottant](https://open.spotify.com/track/4oOTrDB0frtRDf5MUYY448) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [III](https://open.spotify.com/album/3K3VQ3NSIZl79vMXgiZ3T3) | 6:02 | 2021-10-06 | 2022-07-28 |
 | [Flow in the Back](https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.8](https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s) | 3:40 | 2022-04-12 |  |
@@ -304,7 +305,7 @@
 | [Tilting On Windmills](https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Tilting On Windmills](https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg) | 8:18 | 2021-10-06 |  |
 | [Timeless](https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Cycles](https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD) | 4:51 | 2022-08-03 |  |
 | [Timorous Bitster](https://open.spotify.com/track/37EpxPDawpWkUK6oZcR3ka) | [Disjecta](https://open.spotify.com/artist/5hkjh4uNB1fItsgLDJOVG5) | [Clean Pit & Lid](https://open.spotify.com/album/25lKzjvLD2qJMOPw1N7jyj) | 3:18 | 2021-10-06 | 2022-07-10 |
-| [Titán](https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz) | [Chema Macazaga](https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN) | [Paisajes en Saturno](https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1) | 6:24 | 2023-04-21 |  |
+| [Titán](https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz) | [Chema Macazaga](https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN) | [Paisajes en Saturno](https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1) | 6:24 | 2023-04-21 | 2024-10-16 |
 | [Toi](https://open.spotify.com/track/3wV0yjBvoUBEVMBPBoOlfR) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/5l69NsahjgyhPCZNzVVGls) | 5:50 | 2021-10-06 | 2022-07-29 |
 | [Toi](https://open.spotify.com/track/4gdw4paCuFB5JPisEPUQg7) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 5:50 | 2021-10-06 | 2022-09-02 |
 | [Travel](https://open.spotify.com/track/0SnD5awSAVP2Kn4bAFdXDY) | [Concepción Huerta](https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa) | [Personal Territories](https://open.spotify.com/album/4nfCaPmruDp3PiVjBivLzc) | 3:44 | 2022-12-21 | 2023-02-16 |

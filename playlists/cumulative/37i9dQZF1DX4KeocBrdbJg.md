@@ -4,7 +4,7 @@
 
 > te tqm Moo Deng ✨
 
-645 songs - 1 day 11 hr 15 min
+647 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/0O3ow3j5y8q3ykRs2K2n1b) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/album/4nmIEe2NyoIJ5mxlDMcTCo) | 3:46 | 2024-01-11 | 2024-02-23 |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-02-16 | 2024-08-29 |
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-10-04 | 2023-01-17 |
+| [DURO](https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [DURO](https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW) | 2:45 | 2024-10-16 |  |
 | [Duro 2 Horas](https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc) | [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn) | [Duro 2 Horas](https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF) | 2:20 | 2022-06-14 | 2022-07-12 |
 | [Easy Rider](https://open.spotify.com/track/0Wa5sHWcFlZNjyALlmLhQG) | [Royal Intention](https://open.spotify.com/artist/72yWzDmSEaSArHnLcRY6SS) | [Easy Rider](https://open.spotify.com/album/4QiLsDYI2Ec42hhx0UyzEC) | 3:05 | 2024-10-08 |  |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-10-17 | 2024-03-16 |
@@ -234,7 +235,7 @@
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-10-25 | 2024-02-10 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-31 | 2022-07-29 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-06-14 | 2023-05-10 |
-| [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-11 |  |
+| [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-11 | 2024-10-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-16 | 2022-10-02 |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-08-30 | 2024-02-23 |
 | [Goat](https://open.spotify.com/track/2SFZGMtVHnnyGVE0oRDNCR) | [Maphex Deck](https://open.spotify.com/artist/3PBNAKDPAOCSrLvWP5ZlWT) | [Goat](https://open.spotify.com/album/7zbNYwErg2xmBLAtcmmQSa) | 6:33 | 2022-10-13 | 2022-10-26 |
@@ -293,6 +294,7 @@
 | [KEEP IT UP](https://open.spotify.com/track/6x5GkDddrOaBTmX55yU12Y) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [KEEP IT UP](https://open.spotify.com/album/05WGAVWDAoG8uoyCSee8IQ) | 2:46 | 2024-05-17 | 2024-06-29 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 | 2022-12-24 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-10 | 2023-12-02 |
+| [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-10-16 |  |
 | [La B Es De Bellaka](https://open.spotify.com/track/0SUMky81PpkC1mYSl1UPNq) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Salon Sandunga](https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [La B Es De Bellaka](https://open.spotify.com/album/2qg17ULjiGLq2C28wWvwKT) | 2:26 | 2023-08-30 | 2023-09-24 |
 | [La bebe](https://open.spotify.com/track/1yeN7zkjU0DU1SGEwvxMEk) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L) | 3:43 | 2022-08-25 | 2022-11-23 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-02-10 | 2024-03-07 |
@@ -336,7 +338,7 @@
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-22 | 2023-06-07 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-11 | 2024-07-27 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-07 | 2024-01-12 |
-| [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-02-28 |  |
+| [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-02-28 | 2024-10-16 |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-04-19 | 2023-06-07 |
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-07-11 |  |
 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/35rRaw5fX2QGUqhmpAmfor) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/album/02U7QUnz3HGzH2NRSsfUUt) | 2:17 | 2024-05-31 | 2024-07-05 |

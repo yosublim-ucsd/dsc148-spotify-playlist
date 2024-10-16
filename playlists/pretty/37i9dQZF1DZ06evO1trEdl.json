@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6126,
+  "num_followers": 6125,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABrd8DjlWXPLCtG4t9go+g+",
+  "snapshot_id": "ZwxfAAAAAAAi2S5WHEIYHF2aKkpgXLjK",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits (Re-recorded)",
-        "url": "https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 174653,
-      "name": "T.S.O.P. - The Sound Of Philadelphia - Rerecorded",
-      "url": "https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT"
+      "duration_ms": 293906,
+      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
+      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "Greatest Hits (Re-recorded)",
+        "url": "https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 293906,
-      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
-      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+      "duration_ms": 174653,
+      "name": "T.S.O.P. - The Sound Of Philadelphia - Rerecorded",
+      "url": "https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+      "duration_ms": 203986,
+      "name": "Get Your Love Back",
+      "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 239160,
       "name": "Jump The Gun",
       "url": "https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Get Your Love Back",
-      "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
+        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Gee Baby (I'm Sorry)",
+      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 151786,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
-        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "Gee Baby (I'm Sorry)",
-      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
-      },
-      "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "End Titles",
-      "url": "https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -659,34 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
       },
       "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
+      "duration_ms": 137573,
+      "name": "End Titles",
+      "url": "https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA"
     },
     {
       "added_at": null,
@@ -739,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uplifting Soul Classics",
-        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
       "artists": [
         {
@@ -748,15 +716,15 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 159626,
-      "name": "There's So Much Love All Around Me",
-      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+      "duration_ms": 244626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Look in My Eyes",
-        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -764,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 137866,
-      "name": "Drivin' Me Mad",
-      "url": "https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE"
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -787,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
       },
       "artists": [
         {
@@ -796,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Who Is She and What Is She to You",
-      "url": "https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys"
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
     },
     {
       "added_at": null,
@@ -815,6 +783,38 @@
       "duration_ms": 277320,
       "name": "Together",
       "url": "https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 137866,
+      "name": "Drivin' Me Mad",
+      "url": "https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Who Is She and What Is She to You",
+      "url": "https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys"
     },
     {
       "added_at": null,

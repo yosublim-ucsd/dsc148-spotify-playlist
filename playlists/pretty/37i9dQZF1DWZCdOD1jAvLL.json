@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Kasablanca",
-  "num_followers": 247654,
+  "num_followers": 247689,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "VHS RAVE",
         "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
       },
@@ -891,18 +907,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -923,26 +943,6 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -995,6 +995,30 @@
       "duration_ms": 200787,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1055,30 +1079,6 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Time To Say Goodbye",
         "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Dress Code",
-        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Dress Code",
-      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Horny",
         "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 182812,
       "name": "Horny",
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Dress Code",
+      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Feels Like You",
         "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 202758,
       "name": "Feels Like You",
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "As The Beat Goes Onnn",
+        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 159283,
+      "name": "As The Beat Goes Onnn",
+      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bogeyman",
-        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Bogeyman",
-      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bogeyman",
+        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Bogeyman",
+      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2327,22 +2327,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+        "name": "Biggest Regret (feat. Bbyafricka)",
+        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         },
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
         }
       ],
-      "duration_ms": 190232,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
+      "duration_ms": 230613,
+      "name": "Biggest Regret (feat. Bbyafricka)",
+      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2387,26 +2387,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Biggest Regret (feat. Bbyafricka)",
-        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Biggest Regret (feat. Bbyafricka)",
-      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Vibrate / On The Ground",
         "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
       },
@@ -2423,6 +2403,26 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2447,6 +2447,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
       },
@@ -2467,26 +2487,6 @@
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2024-10-11 04:00:00",

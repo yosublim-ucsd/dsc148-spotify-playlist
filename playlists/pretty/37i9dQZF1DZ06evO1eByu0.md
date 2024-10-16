@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros。アーティストの代表曲をひとつのプレイリストに。
+> This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,630 likes - 52 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,631 likes - 52 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,19 +46,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 36 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 |
 | 37 | [Bem\-Aventurado \(Blessed\)](https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:08 |
 | 38 | [Poder Pra Salvar \(Mighty to Save\)](https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:59 |
-| 39 | [Sem Limites](https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Adorai \(Os Melhores Momentos\)](https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow) | 4:01 |
-| 40 | [Lugar Seguro](https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:10 |
+| 39 | [Lugar Seguro](https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:10 |
+| 40 | [Sem Limites](https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Adorai \(Os Melhores Momentos\)](https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow) | 4:01 |
 | 41 | [Te Adorar é o Meu Prazer](https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:34 |
-| 42 | [Reverencia \- En Vivo](https://open.spotify.com/track/3nYbR4yt07haMUeEMFq5hE) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reverencia \- En Vivo](https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt) | 6:34 |
-| 43 | [Samuel](https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:40 |
+| 42 | [Samuel](https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:40 |
+| 43 | [Reverencia \- En Vivo](https://open.spotify.com/track/3nYbR4yt07haMUeEMFq5hE) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reverencia \- En Vivo](https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt) | 6:34 |
 | 44 | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb) | 3:45 |
 | 45 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 |
 | 46 | [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 |
 | 47 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
 | 48 | [Habrá Victoria](https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Habrá Victoria](https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU) | 4:07 |
 | 49 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 |
-| 50 | [Jehová Jireh](https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jehová Jireh](https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK) | 5:36 |
-| 51 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
+| 50 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
+| 51 | [Jehová Jireh](https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jehová Jireh](https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK) | 5:36 |
 | 52 | [Louvar é Bom Demais](https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:57 |
 
-Snapshot ID: `ZwsNgAAAAADli2yO3XyT1XGLoG1wNbBa`
+Snapshot ID: `ZwxfAAAAAAAHkRMrA0daxwwX/TPt8b1E`

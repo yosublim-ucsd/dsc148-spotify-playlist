@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,878 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,881 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 9 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
 | 10 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 11 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
-| 12 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
-| 13 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
+| 12 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
+| 13 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
 | 14 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
 | 15 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
 | 16 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 42 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
 | 43 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 44 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 |
-| 45 | [about you](https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [about you](https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri) | 2:50 |
-| 46 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 |
-| 47 | [I Wish](https://open.spotify.com/track/7LyDoYFZdP1XuvExLNFATf) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [I Wish](https://open.spotify.com/album/7mUDOrFkwYlWCWbRPCzrer) | 2:33 |
-| 48 | [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 |
-| 49 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 |
+| 45 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 |
+| 46 | [about you](https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [about you](https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri) | 2:50 |
+| 47 | [Winter Dance](https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Winter Dance](https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR) | 2:45 |
+| 48 | [I Wish](https://open.spotify.com/track/7LyDoYFZdP1XuvExLNFATf) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [I Wish](https://open.spotify.com/album/7mUDOrFkwYlWCWbRPCzrer) | 2:33 |
+| 49 | [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 |
 | 50 | [I pray](https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Romance is a Bonus Book OST Part.4](https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU) | 3:47 |
 
 Snapshot ID: `ZwUTHwAAAAANHy1fjnvrxxvkEE2R8T59`

@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 74977,
       "name": "I Say A Little Prayer",
       "url": "https://open.spotify.com/track/5EX3FKSygguEMobMVHM3Og"
@@ -500,10 +500,36 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 63372,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo"
+    },
+    {
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Norman Gimbel",
+          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
+        },
+        {
+          "name": "Charles Fox",
+          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63372,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
     },
     {
       "album": {
@@ -770,7 +796,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 237705,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"

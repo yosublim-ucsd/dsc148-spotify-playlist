@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,951 likes - 48 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,012 likes - 48 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 24 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elio Revé Y Su Charangón](https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
 | 25 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 | 26 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
-| 27 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
+| 27 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
 | 28 | [Esto te pone la cabeza mala](https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Te pone la cabeza mala](https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v) | 4:08 |
-| 29 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
+| 29 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 | 30 | [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 |
 | 31 | [Señora](https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [El Charanguero Mayor](https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4) | 6:32 |
 | 32 | [Esa Soy Yo](https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [La Aplanadora de Cuba](https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG) | 5:03 |

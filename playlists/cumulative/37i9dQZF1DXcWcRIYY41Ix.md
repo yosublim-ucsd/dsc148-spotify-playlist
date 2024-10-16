@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-682 songs - 1 day 16 hr 42 min
+683 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,12 +200,13 @@
 | [El Camino](https://open.spotify.com/track/2mPC1Y8qVCEK0Mm5Sku46g) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [El Camino](https://open.spotify.com/album/1Mccf8ij7YNdgvHkuOsVSi) | 3:34 | 2021-12-24 | 2022-07-29 |
 | [El Camino](https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [El Camino](https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz) | 3:34 | 2022-07-22 | 2023-06-17 |
 | [El Capricho](https://open.spotify.com/track/5QGTb92k46cyQlJDWo2Y7F) | [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [El Capricho](https://open.spotify.com/album/0xLKNZOfJs1fehyGCfHU0O) | 4:25 | 2022-04-01 | 2022-04-21 |
+| [El cielo de tu boca](https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN) | [Bruno Sotos](https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8) | [El chico de Andratx](https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU) | 2:33 | 2024-10-11 |  |
 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 | 2024-07-05 |  |
 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 | 2022-07-22 | 2024-03-02 |
 | [El don de la ternura](https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [El don de la ternura](https://open.spotify.com/album/4NchRZ46MzLJaTfN9ugXwu) | 4:57 | 2021-12-24 | 2022-07-27 |
 | [El enemigo](https://open.spotify.com/track/1z2PsIPTnUng2WGmxpTMSD) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [El enemigo](https://open.spotify.com/album/1q9OcAi9pBIlY8YzzPKRYF) | 4:04 | 2022-05-27 | 2022-07-01 |
 | [El Estallido](https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Blanca la Almendrita](https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5), [María del Tango](https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU) | [El Estallido](https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8) | 3:45 | 2021-12-24 |  |
-| [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 | 2024-07-05 |  |
+| [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 | 2024-07-05 | 2024-10-16 |
 | [El Incendio](https://open.spotify.com/track/3zS5XBRjrShQHdNEm1VBbi) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [El Incendio](https://open.spotify.com/album/416M3NiP0nm7feY21N6xZv) | 3:53 | 2023-06-30 | 2023-10-01 |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-12-24 | 2022-07-27 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-07-22 | 2023-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
-  "num_followers": 110219,
+  "num_followers": 110228,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAB8I9oq1+yGEtKq50yB6Xc1",
+  "snapshot_id": "ZwxfAAAAAABSpQzHI75XFLj26B76uJ6m",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149695,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Belicones (En vivo)",
         "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 150200,
       "name": "Bien Belicones (En vivo)",
       "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149695,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mollete (En Vivo)",
-        "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
       "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 125400,
-      "name": "El Mollete (En Vivo)",
-      "url": "https://open.spotify.com/track/0rpdG6Pg0AjxHiIzwnvUMq"
+      "duration_ms": 132328,
+      "name": "Aqui En Mi Corazon Tu Mandas",
+      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+        "name": "El Mollete (En Vivo)",
+        "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
       },
       "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 132328,
-      "name": "Aqui En Mi Corazon Tu Mandas",
-      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
+      "duration_ms": 125400,
+      "name": "El Mollete (En Vivo)",
+      "url": "https://open.spotify.com/track/0rpdG6Pg0AjxHiIzwnvUMq"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 273920,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184957,
       "name": "Jimenez",
       "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
     },
     {
       "added_at": null,

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: eill
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Qrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,072 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,077 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kakumei Zenya](https://open.spotify.com/track/76DBtBel5B2u8qvUszcj9f) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:08 |
-| 2 | [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 |
-| 3 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
-| 4 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 |
-| 5 | [LONELY](https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [LONELY](https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ) | 4:46 |
-| 6 | [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 |
+| 1 | [Hush My Heart](https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Hush My Heart](https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI) | 2:56 |
+| 2 | [Kakumei Zenya](https://open.spotify.com/track/76DBtBel5B2u8qvUszcj9f) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:08 |
+| 3 | [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 |
+| 4 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
+| 5 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 |
+| 6 | [LONELY](https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [LONELY](https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ) | 4:46 |
 | 7 | [Bad Bitch 美学 Remix](https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 6:09 |
 | 8 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 9 | [Tokyo Calling](https://open.spotify.com/track/2ZVDVwltoFAwqdhCxbvdKg) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [on my Side](https://open.spotify.com/track/77XGISIFuoGSCHnmfK72iA) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [on my Side](https://open.spotify.com/album/6akYERAOFyOAh6lyyT1dID) | 3:24 |
 | 50 | [Kung\-Fu](https://open.spotify.com/track/3VMMT6mr9WxmZvqjHxBGnL) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Orca](https://open.spotify.com/album/2VrTtwRYJgE8c6Xug3QeRH) | 3:02 |
 
-Snapshot ID: `ZwVI8AAAAAAZ3WBzrZlO6RNf7OVw4lEQ`
+Snapshot ID: `Zw6DngAAAACxzZHot7tKnw8AvJdEdqgM`

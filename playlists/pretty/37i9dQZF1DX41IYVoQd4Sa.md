@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: גבריאל גיא
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,483 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,492 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 39 | [בבוקר](https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [בבוקר](https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12) | 2:54 |
 | 40 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 |
 | 41 | [הלוך ושוב](https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [לחיות](https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL) | 4:16 |
-| 42 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 |
-| 43 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
+| 42 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
+| 43 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 |
 | 44 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
 | 45 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
 | 46 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
-| 47 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
-| 48 | [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \- בארבי Live](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 |
-| 49 | [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 |
-| 50 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 47 | [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \- בארבי Live](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 |
+| 48 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
+| 49 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 50 | [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 |
 | 51 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
 | 52 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
 | 53 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |

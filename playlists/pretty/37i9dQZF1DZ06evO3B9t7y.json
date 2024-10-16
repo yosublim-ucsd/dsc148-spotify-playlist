@@ -1,12 +1,12 @@
 {
   "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
-  "num_followers": 970848,
+  "num_followers": 971127,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABZuDg+eVUSZYhRwceBEDIv",
+  "snapshot_id": "ZwxfAAAAAACDEwg+ibEVk87uolnmfa8e",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Si Tu Amor No Vuelve - En Vivo",
-      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 174206,
       "name": "Por culpa de un tercero",
       "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Si Tu Amor No Vuelve - En Vivo",
+      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "Pedazo De Tonto",
-      "url": "https://open.spotify.com/track/3jasf0mJzfHDxP5q3ZNpPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 180857,
       "name": "Nos Extra\u00f1o (En Vivo)",
       "url": "https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "Pedazo De Tonto",
+      "url": "https://open.spotify.com/track/3jasf0mJzfHDxP5q3ZNpPx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,641 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,749 likes - 50 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 12 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
 | 13 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 |
 | 14 | [How ?](https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Sabrina Chyld](https://open.spotify.com/artist/1n8Uva7Ya0TGB7hJoAOopU) | [Bruno & The Birds](https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD) | 6:37 |
-| 15 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 |
-| 16 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
+| 15 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
+| 16 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 |
 | 17 | [Unprepared](https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e) | [Zinyo](https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Unprepared](https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3) | 6:45 |
 | 18 | [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 |
 | 19 | [Can't Give Up Now \(feat\. EarfulSoul\)](https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Can't Give Up Now \(EarfulSoul\)](https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO) | 7:26 |

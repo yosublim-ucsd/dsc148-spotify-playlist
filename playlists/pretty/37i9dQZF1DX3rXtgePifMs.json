@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 115276,
+  "num_followers": 115314,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Henge",
+        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Universal Credit (Deluxe)",
         "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 188360,
       "name": "Protein v2",
       "url": "https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Henge",
-        "url": "https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6vWKSlMiyGlsWzRw8REBxE"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "no sleep in LA",
-        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Lute",
-          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
-        }
-      ],
-      "duration_ms": 212282,
-      "name": "cracked screen",
-      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Just Wanna Dance",
         "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "no sleep in LA",
+        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        }
+      ],
+      "duration_ms": 212282,
+      "name": "cracked screen",
+      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
+    },
+    {
       "added_at": "2023-12-01 18:29:06",
       "album": {
         "name": "Vem com tudo",
@@ -1083,18 +1099,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
+        "name": "Why You Waiting?",
+        "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
       },
       "artists": [
         {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
         }
       ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
+      "duration_ms": 155071,
+      "name": "Why You Waiting?",
+      "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1123,30 +1147,6 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Why You Waiting?",
-        "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
-      },
-      "artists": [
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        },
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Agent Sasco (Assassin)",
-          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
-        }
-      ],
-      "duration_ms": 155071,
-      "name": "Why You Waiting?",
-      "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1321,6 +1321,22 @@
       "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "DOOLALLY",
+        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "DOOLALLY",
+      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
+    },
+    {
       "added_at": "2024-05-03 21:11:33",
       "album": {
         "name": "Running Water",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "DOOLALLY",
-        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
-      },
-      "artists": [
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "DOOLALLY",
-      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Powder",
         "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
       },
@@ -1371,26 +1371,6 @@
       "duration_ms": 206680,
       "name": "Powder",
       "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1411,6 +1391,26 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "I Can't Stay",
-        "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
-      },
-      "artists": [
-        {
-          "name": "Charli Brix",
-          "url": "https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8"
-        },
-        {
-          "name": "Visages",
-          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
-        },
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        }
-      ],
-      "duration_ms": 257828,
-      "name": "I Can't Stay",
-      "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1863,18 +1839,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
+        "name": "I Can't Stay",
+        "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
       },
       "artists": [
         {
-          "name": "Charlotte Devaney",
-          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
+          "name": "Charli Brix",
+          "url": "https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        },
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
         }
       ],
-      "duration_ms": 148674,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
+      "duration_ms": 257828,
+      "name": "I Can't Stay",
+      "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1911,6 +1895,22 @@
       "duration_ms": 131320,
       "name": "I Go Get It",
       "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Devaney",
+          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
+        }
+      ],
+      "duration_ms": 148674,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
     },
     {
       "added_at": "2023-11-20 15:00:00",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3r997y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3r997y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3r997y)
 
-### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
+### [This Is 鬼頭明里](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is Akari Kito\. The essential tracks, all in one playlist.
+> This is 鬼頭明里\. The essential tracks, all in one playlist.
 
 78 songs - 5 hr 11 min
 
@@ -60,8 +60,8 @@
 | [Oxidation](https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:24 | 2022-10-13 |  |
 | [Rock the Floor](https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:36 | 2024-08-30 |  |
 | [Star Arc](https://open.spotify.com/track/2Mst4G1cUGZVO5O11PsFCg) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:20 | 2023-02-14 | 2023-03-13 |
-| [Star Arc](https://open.spotify.com/track/4rVJe6WIRlmH808XDC3rYq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:20 | 2022-06-11 | 2024-10-12 |
-| [Swinging Heart](https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:29 | 2022-06-09 |  |
+| [Star Arc](https://open.spotify.com/track/4rVJe6WIRlmH808XDC3rYq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:20 | 2022-06-11 |  |
+| [Swinging Heart](https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:29 | 2022-06-09 | 2024-10-16 |
 | [Swinging Heart](https://open.spotify.com/track/6MHr4fc3cDjNZVBbyRYPSm) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:29 | 2022-08-17 | 2023-09-16 |
 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 | 2022-06-09 |  |
 | [The One](https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:55 | 2022-06-09 |  |

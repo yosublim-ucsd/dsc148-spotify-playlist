@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-391 songs - 17 hr 23 min
+393 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Gone to seed](https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Gone to seed](https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K) | 2:24 | 2022-12-23 | 2023-03-31 |
 | [Harvest](https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu) | [Esther Lopez](https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc) | [Harvest](https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc) | 2:19 | 2023-08-11 |  |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-03-10 | 2023-08-26 |
+| [Hasta que me olvides](https://open.spotify.com/track/2V7xlx5Huxh4Q6bPofibNH) | [Mateo Varela](https://open.spotify.com/artist/69xxT258WnlYNSEt01Dh5w) | [Hasta que me olvides](https://open.spotify.com/album/7HTw6KTSo3VUvA9NIl4y8v) | 4:44 | 2024-10-15 |  |
 | [Have Faith In What Will Be](https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Have Faith In What Will Be](https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV) | 3:18 | 2023-10-27 | 2024-04-06 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-08-26 |
 | [Hearts Entwined \(Ethereal Guitar\)](https://open.spotify.com/track/5OFG5SN0E8D0oQptaD9wTp) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Hearts Entwined \(Ethereal Guitar\)](https://open.spotify.com/album/3d5sBqzj7y36pGyGr39JnK) | 3:57 | 2022-07-22 | 2022-07-29 |
@@ -251,6 +252,7 @@
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 |  |
 | [Prelude 1 by Heitor Villa\-Lobos](https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu) | [Brad Rau](https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ) | [Guitar Night](https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy) | 5:20 | 2022-11-25 | 2023-05-27 |
 | [Preludio Saudade: La Catedral](https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Georg Gulyás](https://open.spotify.com/artist/2lh2SgZKvD8KiJxZ2vomJC) | [Georg Gulyás Plays Barrios](https://open.spotify.com/album/1mYz7NymOSukKdtbhOrw6V) | 2:23 | 2022-11-25 | 2023-03-10 |
+| [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 | 2024-10-15 |  |
 | [Primrose](https://open.spotify.com/track/0LQs4d7gVIBlqKCbWuF2R1) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [Primrose](https://open.spotify.com/album/5Gh7vqOzgceuNfyFBzR4nT) | 2:48 | 2021-12-10 | 2024-04-06 |
 | [Promise](https://open.spotify.com/track/7a26pDubE6apyx3BucvKKt) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [Promise](https://open.spotify.com/album/2CZN9ANjx4cG4L9EywcLmM) | 1:44 | 2023-06-22 | 2023-08-26 |
 | [Pure](https://open.spotify.com/track/30ewiyV6LGLIZGTnc7Qp6x) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure](https://open.spotify.com/album/0Jmejo26ly5NAcFf65B8Kj) | 2:38 | 2023-05-26 | 2023-06-16 |

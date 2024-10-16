@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 163005,
+  "num_followers": 163026,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 273680,
       "name": "Encore et encore - Remastered",
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Tiago",
-      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 197706,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Miroirs",
-        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
       },
       "artists": [
         {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
         }
       ],
-      "duration_ms": 156413,
-      "name": "Celui qui part",
-      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+      "duration_ms": 178786,
+      "name": "Tiago",
+      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215160,
       "name": "Le pouvoir des fleurs",
       "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Dis-Moi Encore Que Tu M'Aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Grain de sable",
         "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 171213,
       "name": "La femme chocolat",
       "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Dis-Moi Encore Que Tu M'Aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
     },
     {
       "added_at": "2024-05-23 22:00:00",

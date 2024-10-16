@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1245798,
+  "num_followers": 1245964,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-08-16 15:09:21",
       "album": {
-        "name": "From New York To Paris",
-        "url": "https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 330746,
-      "name": "I Will Wait For You",
-      "url": "https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV"
-    },
-    {
-      "added_at": "2024-08-16 15:09:21",
-      "album": {
         "name": "Secrets of My Heart",
         "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 192531,
       "name": "My True Love Is You",
       "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
+    },
+    {
+      "added_at": "2024-08-16 15:09:21",
+      "album": {
+        "name": "From New York To Paris",
+        "url": "https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 330746,
+      "name": "I Will Wait For You",
+      "url": "https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV"
     },
     {
       "added_at": "2024-08-16 15:09:21",
@@ -547,22 +547,18 @@
     {
       "added_at": "2024-08-16 15:09:21",
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+        "name": "You Go to My Head",
+        "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 250293,
-      "name": "Come Rain or Come Shine (with John Mayer)",
-      "url": "https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c"
+      "duration_ms": 239026,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
     },
     {
       "added_at": "2024-08-16 15:09:21",
@@ -583,18 +579,22 @@
     {
       "added_at": "2024-08-16 15:09:21",
       "album": {
-        "name": "You Go to My Head",
-        "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
+        "name": "Partners (Deluxe)",
+        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 239026,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
+      "duration_ms": 250293,
+      "name": "Come Rain or Come Shine (with John Mayer)",
+      "url": "https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c"
     },
     {
       "added_at": "2024-08-16 15:09:21",
@@ -759,6 +759,38 @@
     {
       "added_at": "2024-08-16 15:09:21",
       "album": {
+        "name": "An Evening with/ Andy James & John Patitucci",
+        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
+      },
+      "artists": [
+        {
+          "name": "Andy James",
+          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 263282,
+      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
+      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
+    },
+    {
+      "added_at": "2024-08-16 15:09:21",
+      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
@@ -791,38 +823,6 @@
       "duration_ms": 222533,
       "name": "Wild Is Love",
       "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
-    },
-    {
-      "added_at": "2024-08-16 15:09:21",
-      "album": {
-        "name": "An Evening with/ Andy James & John Patitucci",
-        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
-      },
-      "artists": [
-        {
-          "name": "Andy James",
-          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        }
-      ],
-      "duration_ms": 263282,
-      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
-      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
       "added_at": "2024-08-16 15:09:21",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-16 15:09:21",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
-    },
-    {
-      "added_at": "2024-08-16 15:09:21",
-      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
+    },
+    {
+      "added_at": "2024-08-16 15:09:21",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
     },
     {
       "added_at": "2024-08-16 15:09:21",

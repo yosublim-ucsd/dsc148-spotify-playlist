@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Whitechapel",
-  "num_followers": 226964,
+  "num_followers": 227136,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Pernicious",
         "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 315178,
       "name": "Pernicious",
       "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Righteous Man",
+        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 228444,
+      "name": "Righteous Man",
+      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Sing to the Grave",
         "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 383037,
       "name": "The Orphan",
       "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Righteous Man",
-        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 228444,
-      "name": "Righteous Man",
-      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1055,26 +1055,6 @@
       "duration_ms": 262000,
       "name": "Wounds Never Healed",
       "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Dead Man's Diary",
-        "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 279060,
-      "name": "Dead Man's Diary",
-      "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1187,6 +1167,42 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Dead Man's Diary",
+        "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 279060,
+      "name": "Dead Man's Diary",
+      "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
+      },
+      "artists": [
+        {
+          "name": "Darko US",
+          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+        }
+      ],
+      "duration_ms": 244088,
+      "name": "Chrome Moon",
+      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "A Hill to Die Upon",
         "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 274826,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
-      },
-      "artists": [
-        {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
-        }
-      ],
-      "duration_ms": 244088,
-      "name": "Chrome Moon",
-      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "The Price of Pain",
-        "url": "https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75"
-      },
-      "artists": [
-        {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
-        }
-      ],
-      "duration_ms": 220668,
-      "name": "The Price of Pain",
-      "url": "https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 283741,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Price of Pain",
+        "url": "https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 220668,
+      "name": "The Price of Pain",
+      "url": "https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn"
+        "name": "Cut Off The Head",
+        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
       "artists": [
         {
-          "name": "Saltwound",
-          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 208935,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E"
+      "duration_ms": 210352,
+      "name": "Cut off the Head",
+      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Cut Off The Head",
-        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn"
       },
       "artists": [
         {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
         }
       ],
-      "duration_ms": 210352,
-      "name": "Cut off the Head",
-      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
+      "duration_ms": 208935,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "No One's Above",
-        "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
-      },
-      "artists": [
-        {
-          "name": "Abbie Falls",
-          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "No One's Above",
-      "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Banshee",
         "url": "https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 190530,
       "name": "Banshee",
       "url": "https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "No One's Above",
+        "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
+      },
+      "artists": [
+        {
+          "name": "Abbie Falls",
+          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "No One's Above",
+      "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "ARGOS",
-        "url": "https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC"
-      },
-      "artists": [
-        {
-          "name": "NOCTURNAL BLOODLUST",
-          "url": "https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N"
-        }
-      ],
-      "duration_ms": 372386,
-      "name": "Cremation (feat. PK of Prompts)",
-      "url": "https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Bullets in My Teeth",
         "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 295714,
       "name": "Bullets in My Teeth",
       "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "ARGOS",
+        "url": "https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC"
+      },
+      "artists": [
+        {
+          "name": "NOCTURNAL BLOODLUST",
+          "url": "https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N"
+        }
+      ],
+      "duration_ms": 372386,
+      "name": "Cremation (feat. PK of Prompts)",
+      "url": "https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Under the Curse of the One God",
-        "url": "https://open.spotify.com/album/608ApQjbgAV0HFIIpO5bxA"
-      },
-      "artists": [
-        {
-          "name": "Nile",
-          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
-        }
-      ],
-      "duration_ms": 285146,
-      "name": "Under the Curse of the One God",
-      "url": "https://open.spotify.com/track/1f7mdLZTP8taPKMZknvj3z"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 238222,
       "name": "Forest of Lust",
       "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Under the Curse of the One God",
+        "url": "https://open.spotify.com/album/608ApQjbgAV0HFIIpO5bxA"
+      },
+      "artists": [
+        {
+          "name": "Nile",
+          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
+        }
+      ],
+      "duration_ms": 285146,
+      "name": "Under the Curse of the One God",
+      "url": "https://open.spotify.com/track/1f7mdLZTP8taPKMZknvj3z"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "On Wings of Carnage",
+        "url": "https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB"
+      },
+      "artists": [
+        {
+          "name": "Corpsegrinder",
+          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "On Wings of Carnage",
+      "url": "https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "From Nothing",
         "url": "https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 203706,
       "name": "Into the Abyss",
       "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "On Wings of Carnage",
-        "url": "https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB"
-      },
-      "artists": [
-        {
-          "name": "Corpsegrinder",
-          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "On Wings of Carnage",
-      "url": "https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Identity Crisis",
+        "url": "https://open.spotify.com/album/2vN8qDjk9qmL5OcIzTBeYy"
+      },
+      "artists": [
+        {
+          "name": "No Life",
+          "url": "https://open.spotify.com/artist/1AV6c2X9NdJqzPpSr7JziK"
+        }
+      ],
+      "duration_ms": 183602,
+      "name": "Identity Crisis",
+      "url": "https://open.spotify.com/track/01KtFi2zoOVCi3xyH9q5OC"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Chasm",
         "url": "https://open.spotify.com/album/1Gtldn9jGWjonq7XNNOgYT"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 200500,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/6BHqiA6bAdo544sqdeCTvy"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Identity Crisis",
-        "url": "https://open.spotify.com/album/2vN8qDjk9qmL5OcIzTBeYy"
-      },
-      "artists": [
-        {
-          "name": "No Life",
-          "url": "https://open.spotify.com/artist/1AV6c2X9NdJqzPpSr7JziK"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Identity Crisis",
-      "url": "https://open.spotify.com/track/01KtFi2zoOVCi3xyH9q5OC"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2443,6 +2443,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Deadly Potential",
+        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
+      },
+      "artists": [
+        {
+          "name": "Unseen Faith",
+          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
+        },
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Deadly Potential",
+      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Sentenced",
         "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
       },
@@ -2507,58 +2527,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Deadly Potential",
-        "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
+        "name": "Complete Control",
+        "url": "https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa"
       },
       "artists": [
         {
-          "name": "Unseen Faith",
-          "url": "https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V"
-        },
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+          "name": "Misery Index",
+          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Deadly Potential",
-      "url": "https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Full Blossom",
-        "url": "https://open.spotify.com/album/0dirzcT6E6vAphhNU3vgUK"
-      },
-      "artists": [
-        {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
-        }
-      ],
-      "duration_ms": 272290,
-      "name": "Full Blossom",
-      "url": "https://open.spotify.com/track/4Krk9GaYtNQtuh4u8dT0nX"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Plague Bringer (Inhuman Rework)",
-        "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
-      },
-      "artists": [
-        {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 205562,
-      "name": "Plague Bringer - Inhuman Rework",
-      "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
+      "duration_ms": 292320,
+      "name": "Administer the Dagger",
+      "url": "https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2579,22 +2559,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Complete Control",
-        "url": "https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa"
-      },
-      "artists": [
-        {
-          "name": "Misery Index",
-          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
-        }
-      ],
-      "duration_ms": 292320,
-      "name": "Administer the Dagger",
-      "url": "https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Cathedral",
         "url": "https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK"
       },
@@ -2607,6 +2571,22 @@
       "duration_ms": 175000,
       "name": "Cathedral",
       "url": "https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Full Blossom",
+        "url": "https://open.spotify.com/album/0dirzcT6E6vAphhNU3vgUK"
+      },
+      "artists": [
+        {
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+        }
+      ],
+      "duration_ms": 272290,
+      "name": "Full Blossom",
+      "url": "https://open.spotify.com/track/4Krk9GaYtNQtuh4u8dT0nX"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2651,6 +2631,26 @@
       "duration_ms": 214621,
       "name": "Mother's Repine",
       "url": "https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Plague Bringer (Inhuman Rework)",
+        "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 205562,
+      "name": "Plague Bringer - Inhuman Rework",
+      "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Not Immediately Life Threatening",
-        "url": "https://open.spotify.com/album/2i7E89VVLSIGwBOEuwrxpP"
-      },
-      "artists": [
-        {
-          "name": "Party Cannon",
-          "url": "https://open.spotify.com/artist/5Oz5WX5xkESHBH5I4Wp09C"
-        }
-      ],
-      "duration_ms": 269161,
-      "name": "Not Immediately Life Threatening",
-      "url": "https://open.spotify.com/track/2wdNw7kMd8mZFs62OueQNU"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Ignorance Is Fear",
         "url": "https://open.spotify.com/album/1xJx5MGrw9Z73I3jWWLXp8"
       },
@@ -2847,6 +2831,22 @@
       "duration_ms": 181626,
       "name": "Ignorance Is Fear",
       "url": "https://open.spotify.com/track/6ZlQfPJNxAXY9mp2sSoSQc"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Not Immediately Life Threatening",
+        "url": "https://open.spotify.com/album/2i7E89VVLSIGwBOEuwrxpP"
+      },
+      "artists": [
+        {
+          "name": "Party Cannon",
+          "url": "https://open.spotify.com/artist/5Oz5WX5xkESHBH5I4Wp09C"
+        }
+      ],
+      "duration_ms": 269161,
+      "name": "Not Immediately Life Threatening",
+      "url": "https://open.spotify.com/track/2wdNw7kMd8mZFs62OueQNU"
     },
     {
       "added_at": "2024-09-20 04:00:00",

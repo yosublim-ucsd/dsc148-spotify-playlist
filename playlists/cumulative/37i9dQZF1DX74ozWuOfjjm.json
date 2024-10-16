@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to women at full volume. Cover: Fazerdaze",
+  "description": "Listen to women at full volume. Cover: Larissa Lambert",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -4529,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Good Guys",
+        "url": "https://open.spotify.com/album/30u1jamcuxRgwq8SaZps6n"
+      },
+      "artists": [
+        {
+          "name": "Jujulipps",
+          "url": "https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155531,
+      "name": "Good Guys",
+      "url": "https://open.spotify.com/track/3lMHrOUPxDqNJQXL5cNpHk"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R"
       },
@@ -8778,7 +8796,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 224577,
       "name": "Omen",
       "url": "https://open.spotify.com/track/0BKhef93QmTKCW4ub1lNNa"
@@ -8966,6 +8984,24 @@
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+    },
+    {
+      "album": {
+        "name": "One More Step",
+        "url": "https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "One More Step",
+      "url": "https://open.spotify.com/track/5ah0lStBk74Qb8pgSeLupG"
     },
     {
       "album": {
@@ -9709,6 +9745,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO"
+      },
+      "artists": [
+        {
+          "name": "Theeth",
+          "url": "https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170431,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr"
+    },
+    {
+      "album": {
         "name": "Red Earth Dirt",
         "url": "https://open.spotify.com/album/6hpjwCa1aIihRixuYzQOC2"
       },
@@ -9760,6 +9814,24 @@
       "duration_ms": 201421,
       "name": "Rerun",
       "url": "https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e"
+    },
+    {
+      "album": {
+        "name": "Stiletto",
+        "url": "https://open.spotify.com/album/4N2vNjHPArJKgVEjpjgAcq"
+      },
+      "artists": [
+        {
+          "name": "Gut Health",
+          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/2nXVWSPnltpTQhRCEUzYXF"
     },
     {
       "album": {
@@ -11530,7 +11602,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 172901,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk"
@@ -11570,6 +11642,24 @@
       "duration_ms": 257967,
       "name": "The Ballad Of Ruby Wednesday",
       "url": "https://open.spotify.com/track/2vWFHTrkEMLtKntgcSLAvb"
+    },
+    {
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/5zGSQPMJZOk8yFknVMsqlR"
+      },
+      "artists": [
+        {
+          "name": "HANNI",
+          "url": "https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "The Border",
+      "url": "https://open.spotify.com/track/5FW4knPYJ9YdJEqlR1yfQ3"
     },
     {
       "album": {
@@ -12556,7 +12646,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 125906,
       "name": "Want U Here",
       "url": "https://open.spotify.com/track/6MEBRR6soqnEWUGlJuPXqm"
@@ -13068,7 +13158,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190454,
       "name": "Wish I Knew",
       "url": "https://open.spotify.com/track/5UvSwQxQbr10bikEeB1U2b"
@@ -13410,7 +13500,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 174626,
       "name": "YOUR PART IN MY STORY IS OVER",
       "url": "https://open.spotify.com/track/0DYuwkXIJice7DEQ1jmaNx"

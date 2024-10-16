@@ -4,11 +4,11 @@
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-132 songs - 13 hr 55 min
+132 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-10-02 |  |
+| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 | 2024-10-02 |  |
 | [A Little Suntin Suntin](https://open.spotify.com/track/5LpQBcRooC7Ig5SomUO7Qf) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Feel The Music](https://open.spotify.com/album/3R38w0nQOzuI5mcGPNivxm) | 5:37 | 2024-03-22 |  |
 | [ADD SUV \(feat\. Pharrell Williams\) \- Armand Van Helden Club Remix](https://open.spotify.com/track/7kE1g5T0Mmc84izq9DirqZ) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [ADD SUV](https://open.spotify.com/album/7iAhrXrGRbPcXWL6E8xiIW) | 4:44 | 2023-12-27 |  |
 | [Adome Nyueto \- Bosq Edit](https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Togo Soul 70](https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk) | 8:12 | 2023-12-27 |  |

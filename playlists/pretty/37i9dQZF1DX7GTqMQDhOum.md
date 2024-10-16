@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,914 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,050 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 13 | [回顧](https://open.spotify.com/track/0IjUsYosfTdFU4gcpMYeyb) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:23 |
 | 14 | [青い窓の中の少女](https://open.spotify.com/track/6HXW0eWv95WhmEspylekmN) | [Takatsugu Muramatsu](https://open.spotify.com/artist/2FdBheCRIgBMhygsbki1mO) | [思い出のマーニー サントラ音楽集](https://open.spotify.com/album/58944XvsZq3PcXKWYZieGn) | 0:57 |
 | 15 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
-| 16 | [カントリー・ロード\(主題歌\)](https://open.spotify.com/track/2kVW2Vx8Y7cnKLt3N2WEWq) | [本名陽子](https://open.spotify.com/artist/6Sjyx1ilVnUtyFWOPTPKFc) | [耳をすませば サウンドトラック](https://open.spotify.com/album/4TdLIaxqRYKEzkVLZt5Jbc) | 4:24 |
+| 16 | [カントリー・ロード（主題歌）](https://open.spotify.com/track/2kVW2Vx8Y7cnKLt3N2WEWq) | [本名陽子](https://open.spotify.com/artist/6Sjyx1ilVnUtyFWOPTPKFc) | [耳をすませば サウンドトラック](https://open.spotify.com/album/4TdLIaxqRYKEzkVLZt5Jbc) | 4:24 |
 | 17 | [さよならの夏～コクリコ坂から～](https://open.spotify.com/track/7H6XelNUoK8FAejLzpgUoo) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [コクリコ坂から サウンドトラック](https://open.spotify.com/album/6N2Hk0dlWdmc9W24Do3Wsp) | 4:08 |
 | 18 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 |
 | 19 | [あの日の川](https://open.spotify.com/track/3PoeXl585o5ZcbtgDfn8r8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:13 |

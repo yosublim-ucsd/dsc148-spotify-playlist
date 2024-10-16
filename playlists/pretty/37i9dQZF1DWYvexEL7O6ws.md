@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,032 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,036 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 2 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 |
 | 3 | [Goodbyes \(Myrrh\)](https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Goodbyes \(Myrrh\)](https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD) | 3:30 |
 | 4 | [Spill The Tea](https://open.spotify.com/track/1iguChASZXHGVIpf96tb3B) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Spill The Tea](https://open.spotify.com/album/6vnz3Rk20X8evaJJuVl5AO) | 2:35 |
-| 5 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 |
-| 6 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
+| 5 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
+| 6 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 |
 | 7 | [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 4:38 |
 | 8 | [fashion week](https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [fashion week](https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl) | 1:54 |
 | 9 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 100 | [LET'S GET MARRIED](https://open.spotify.com/track/01TaTQJrnJmq0cpufjcJV0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 3:44 |
 | 101 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 |
 
-Snapshot ID: `ZwluqgAAAABKSBKo6Nxb0P6N95Ed+Duo`
+Snapshot ID: `Zw68QwAAAADjZkMRTgkWX9ourftBe3Cy`

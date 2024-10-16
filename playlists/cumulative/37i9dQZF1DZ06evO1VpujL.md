@@ -2,7 +2,7 @@
 
 ### [This Is Skindred](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VpujL)
 
-> This is Skindred\. The essential tracks, all in one playlist.
+> This Is Skindred\. Todas as faixas essenciais numa única playlist.
 
 48 songs - 2 hr 48 min
 

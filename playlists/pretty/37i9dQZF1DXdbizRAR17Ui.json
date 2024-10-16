@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 198146,
+  "num_followers": 198157,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Volume",
-      "url": "https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Protector",
         "url": "https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm"
       },
@@ -579,6 +563,38 @@
       "duration_ms": 289193,
       "name": "Protector",
       "url": "https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Riddles",
+        "url": "https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -599,22 +615,6 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Riddles",
-        "url": "https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC"
-      },
-      "artists": [
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -859,18 +859,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
       },
       "artists": [
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
         }
       ],
-      "duration_ms": 243100,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
     }
   ],
   "unique_name": "4AM Chillout",

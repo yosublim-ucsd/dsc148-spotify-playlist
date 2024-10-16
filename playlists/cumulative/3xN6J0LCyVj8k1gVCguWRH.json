@@ -5886,7 +5886,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 185301,
       "name": "Baddest Boy",
       "url": "https://open.spotify.com/track/44Usz5cCidLXur3mab4UQl"
@@ -19948,7 +19948,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 233133,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/2m7w9QvLoyudSX08ySHtRN"
@@ -22916,7 +22916,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 175955,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/0pn19uG6B1oU4YOOYe63O2"
@@ -32700,7 +32700,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190093,
       "name": "I've Searched",
       "url": "https://open.spotify.com/track/64qqab7wvA9fAJFS9B6yI8"
@@ -33870,7 +33870,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 226353,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/48wJ1fRHY7oef7fCmXDrs2"
@@ -35044,7 +35044,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 204022,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/6Z4gq2S4loT2N6AcBP8F4M"
@@ -36670,7 +36670,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 194000,
       "name": "Laced up Dreams",
       "url": "https://open.spotify.com/track/5t3lLccCF5X1lSG2d2WCzt"
@@ -47719,6 +47719,24 @@
     },
     {
       "album": {
+        "name": "Not Freaking Out",
+        "url": "https://open.spotify.com/album/2mZV4b751X85YVTKNm40uU"
+      },
+      "artists": [
+        {
+          "name": "JDimock",
+          "url": "https://open.spotify.com/artist/3VJPbbjAjBSJFYRUKLVzZD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Not Freaking Out",
+      "url": "https://open.spotify.com/track/2TQcJFGy4WIqY4RbolDYUz"
+    },
+    {
+      "album": {
         "name": "Not Friends",
         "url": "https://open.spotify.com/album/4cZ0OfgCfVj00eTE74W87V"
       },
@@ -50444,7 +50462,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 171850,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/0HewxPGtFmZIeoCsyyK2na"
@@ -54944,7 +54962,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 176207,
       "name": "Restart Again",
       "url": "https://open.spotify.com/track/55tkSW9sxztVBVDwzPkaSg"
@@ -57292,7 +57310,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 198453,
       "name": "Scream",
       "url": "https://open.spotify.com/track/2OAJnmXNbxFoQe7kmwgTKB"
@@ -61436,7 +61454,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 155906,
       "name": "Statue",
       "url": "https://open.spotify.com/track/6Lcf1fDmfpt2toZLxaLaMF"
@@ -63968,7 +63986,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 272580,
       "name": "Sweetly Into You",
       "url": "https://open.spotify.com/track/4kTYmLYsGafNKHmoKGBFR4"
@@ -67641,6 +67659,24 @@
     },
     {
       "album": {
+        "name": "Tied To You",
+        "url": "https://open.spotify.com/album/1glLyrDFBwTwsurwQiQlrh"
+      },
+      "artists": [
+        {
+          "name": "Isak Thomas and The Stoop Boys",
+          "url": "https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Tied To You",
+      "url": "https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a"
+    },
+    {
+      "album": {
         "name": "Tiger Stripes",
         "url": "https://open.spotify.com/album/5R5dXGurhNE129cI5SUBuz"
       },
@@ -68252,6 +68288,24 @@
       "duration_ms": 162418,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5teCdkYMc6KUO5bxECHk8m"
+    },
+    {
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/7KNPVZRhnzKht5AE9k1X8C"
+      },
+      "artists": [
+        {
+          "name": "Star Chiild",
+          "url": "https://open.spotify.com/artist/00T1zbpVuqlTeQD0Q47kfp"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/2p5uH4NCmcR1PyDSukj9in"
     },
     {
       "album": {
@@ -74814,7 +74868,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 259297,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/7A89QIe2Gf2ctDUHuwrDLt"

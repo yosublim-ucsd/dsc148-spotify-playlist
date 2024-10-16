@@ -4,7 +4,7 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أميمة طالب
 
-194 songs - 13 hr 51 min
+195 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-22 | 2024-07-05 |
 | [Al Aajab Fi Al Hawa](https://open.spotify.com/track/0zfS7Bbn6YilaptU6fb3r1) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Aajab Fi Al Hawa](https://open.spotify.com/album/3lZfmx2Wp1GpolaXboUYZw) | 5:23 | 2024-04-18 | 2024-09-06 |
 | [Al Hob Al Abadi](https://open.spotify.com/track/6vkY5teXdfYxRaxEcQh48d) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Hob Al Abadi](https://open.spotify.com/album/5VICXQWh9ziCz38ABNiFms) | 4:37 | 2024-04-18 |  |
-| [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 |  |
+| [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 | 2024-10-16 |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-07 | 2023-08-28 |
 | [Alam Aloshag](https://open.spotify.com/track/1zgIuawYbW1aRZ9MTTmnwt) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Alam Aloshag](https://open.spotify.com/album/3j2GXRSfXtgyL2QtQnP32F) | 2:39 | 2024-05-15 |  |
 | [Alfin Bab](https://open.spotify.com/track/0xwJYYm0zG7580yqF5KDpR) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alfin Bab](https://open.spotify.com/album/0k3gP9ljtof6e1BJ1WH0Pa) | 4:45 | 2024-04-18 |  |
@@ -28,6 +28,7 @@
 | [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 | 2023-11-08 |  |
 | [AlNeskha AlJadeeda](https://open.spotify.com/track/3GLLxqMO9eL5eoHuySMQGR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/1TpetQdfC6a5nZEK75VvLL) | 4:00 | 2022-12-08 | 2023-02-15 |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-05-08 | 2023-07-28 |
+| [Ana Akbar Men Kalam Ely](https://open.spotify.com/track/0XLP04Gnei7eCA33w2czkN) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ana Akbar Men Kalam Ely](https://open.spotify.com/album/0yvVg9Nvu8of38AXaexOBD) | 6:10 | 2024-10-15 |  |
 | [Anazer Al Shobak](https://open.spotify.com/track/2TknqlPsUyLXkljtqw3LYW) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Anazer Al Shobak](https://open.spotify.com/album/62v0FmhF6h77bAoQUBrMmP) | 4:18 | 2024-07-04 |  |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-10-12 |
 | [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-15 |  |

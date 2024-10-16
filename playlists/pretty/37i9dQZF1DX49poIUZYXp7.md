@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Madeline Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,833 likes - 129 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,881 likes - 129 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

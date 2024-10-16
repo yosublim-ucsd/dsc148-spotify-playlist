@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,786 likes - 64 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,792 likes - 64 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 56 | [Kindness](https://open.spotify.com/track/3iREQC4iWn8DBZ70suGEZO) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [菊次郎の夏 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4lizcoUr7yhsaM79lOtgs9) | 1:57 |
 | 57 | [MKWAJU 1981\-2009](https://open.spotify.com/track/6W7CmoNq6mBrW6xRfn5YxQ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [ミニマリズム](https://open.spotify.com/album/4o2DXsb3rM4PWU2DtWLVhL) | 4:55 |
 | 58 | [WAVE](https://open.spotify.com/track/0xqVGGeww9N3lKNNeppyU0) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ミニマリズム 2](https://open.spotify.com/album/1T3q09tNWjloYmlymnI12C) | 5:05 |
-| 59 | [バレエ音楽 春の祭典, 第 1部: 大地礼賛 序奏](https://open.spotify.com/track/0OfUv1kyRQfdqaZlPoR1iF) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Tokyo Symphony Orchestra](https://open.spotify.com/artist/7aEZ4wPWZg1X5NzZVt2Yre) | [ストラヴィンスキー:バレエ音楽「春の祭典」](https://open.spotify.com/album/1bQM88cflt1yptF6APKQ1U) | 3:13 |
+| 59 | [バレエ音楽 春の祭典, 第 1部: 大地礼賛 序奏](https://open.spotify.com/track/0OfUv1kyRQfdqaZlPoR1iF) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Tokyo Symphony Orchestra](https://open.spotify.com/artist/7aEZ4wPWZg1X5NzZVt2Yre) | [ストラヴィンスキー：バレエ音楽「春の祭典」](https://open.spotify.com/album/1bQM88cflt1yptF6APKQ1U) | 3:13 |
 | 60 | [TRI\-AD for Large Orchestra](https://open.spotify.com/track/4H0FAXrRBToxTL22u4lvHX) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [ミニマリズム 3](https://open.spotify.com/album/4FVZteYjRnxYYJmNiEogD7) | 11:28 |
 | 61 | [Friends \- Live](https://open.spotify.com/track/2mTnbwTikQfI9oTeM6W56D) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II ～Orchestra Nights～ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 3:57 |
 | 62 | [Tango X.T.C\. \- Live](https://open.spotify.com/track/2WjQJbP0aYjc2k5r35bQif) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II ～Orchestra Nights～ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 4:52 |

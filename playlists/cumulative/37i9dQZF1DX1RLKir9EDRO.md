@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: Selût  Çizim: Isu Kim
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: UZUM3 x Robin Çizim: Isu Kim
 
-824 songs - 1 day 21 hr 58 min
+828 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [Hayalet](https://open.spotify.com/track/4wrNOh6gyFxr4mF6uMebE4) | [Berk Uçar](https://open.spotify.com/artist/1ZbJNjbClrxLy2nayQOIj1) | [Hayalet](https://open.spotify.com/album/74bIgogWlSQ66gb0sogxy8) | 2:51 | 2023-01-10 | 2023-06-28 |
 | [Hayaller](https://open.spotify.com/track/1XeTg3sVZZxy5YftQS2Fp9) | [Minai](https://open.spotify.com/artist/0uSKmfIgCQcWNKdFzZRVOh) | [Hayaller](https://open.spotify.com/album/3wXCksrzi7Ta4tVOAtLKKx) | 3:06 | 2021-12-03 | 2022-01-20 |
 | [Hayat](https://open.spotify.com/track/0AQVWqBbMuOvoRThGWKDHE) | [Aybüke Poçan](https://open.spotify.com/artist/57rQZpIPdlavJHPyiIckCy) | [Hayat](https://open.spotify.com/album/5b28X5NFqJLVvoyOl3kbVQ) | 3:57 | 2023-01-10 | 2024-01-10 |
-| [Hayat Böyle Güzel](https://open.spotify.com/track/5eAcHLzFAYj7YFCWRWGsRo) | [insan semih](https://open.spotify.com/artist/3sa5809pIfAZP7U0uagGwq) | [Hayat Böyle Güzel](https://open.spotify.com/album/56Ab1Rilp8zaymnwooiVwP) | 3:11 | 2024-08-13 |  |
+| [Hayat Böyle Güzel](https://open.spotify.com/track/5eAcHLzFAYj7YFCWRWGsRo) | [insan semih](https://open.spotify.com/artist/3sa5809pIfAZP7U0uagGwq) | [Hayat Böyle Güzel](https://open.spotify.com/album/56Ab1Rilp8zaymnwooiVwP) | 3:11 | 2024-08-13 | 2024-10-16 |
 | [Hayat Sarhoş](https://open.spotify.com/track/2zQmmWh4b6zRamh32XYEnn) | [Onur Güney Kumaş](https://open.spotify.com/artist/7oy3wXyFI2DQ88QfXVESOC) | [Baykuşun Vakti](https://open.spotify.com/album/0raPKOl6uSHy5UMkTs34z4) | 4:02 | 2024-01-09 | 2024-02-07 |
 | [Hayatta](https://open.spotify.com/track/1Q0HfRyIGCdq9I6vw1dBha) | [Kana Kana](https://open.spotify.com/artist/79m8TbKxx4eO0G80RgmZox) | [Hayatta](https://open.spotify.com/album/48VBtPnNx3xWPbr55I8nra) | 3:58 | 2023-04-11 | 2023-11-16 |
 | [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 3:57 | 2022-02-17 | 2023-01-11 |
@@ -362,6 +362,7 @@
 | [Huzursuzum](https://open.spotify.com/track/0bucnJ2Y0KkCpjKtiLnRVb) | [Adil Anıl](https://open.spotify.com/artist/6aRtp01vIjoYkN2Ryourez) | [Huzursuzum](https://open.spotify.com/album/5Eo4fWrvSN3oM0aRrerOKy) | 4:23 | 2024-05-22 | 2024-07-10 |
 | [Hücre](https://open.spotify.com/track/0vBRgzFjzlCxfBnEAQi6mF) | [Mai Devran](https://open.spotify.com/artist/1d3JnRB284OJP64vtOYble) | [Hücre](https://open.spotify.com/album/5SUmGKb0pfK6WNNPyVt040) | 4:16 | 2022-01-19 | 2022-07-20 |
 | [I](https://open.spotify.com/track/5tp3TGwRQtiA1NclIq3mVC) | [Irmak Ecem](https://open.spotify.com/artist/3lEkrfob4dSfzWtK5jdqHg) | [I](https://open.spotify.com/album/4RyhrM9WSJaUO7hbcFLX7D) | 3:56 | 2024-01-30 | 2024-02-21 |
+| [I Don’t Want To!](https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I Don’t Want To!](https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1) | 2:59 | 2024-10-15 |  |
 | [IDK](https://open.spotify.com/track/57VHmDczK9GuiShhnlup3e) | [BASSALIKA](https://open.spotify.com/artist/0fYVPyjSA1z53Vt1gGP6kv) | [IDK](https://open.spotify.com/album/0HOFCFgeQfEIc6qjZcGpOw) | 5:28 | 2022-01-19 | 2022-03-23 |
 | [iki vücut tek gibi](https://open.spotify.com/track/7tknodE6jLdEmGPEwlBtRU) | [Görkem Açıkalın](https://open.spotify.com/artist/6woXN62V7Eb40ytrQ4sEb8) | [iki vücut tek gibi](https://open.spotify.com/album/5dTogtRPjVIDEiF93CZndc) | 3:15 | 2022-02-27 | 2022-09-21 |
 | [Intro](https://open.spotify.com/track/2mTrxvD0cUsk8AhCC4JXiw) | [Yanlış Yaptık](https://open.spotify.com/artist/5Vabjxcl0yL2hhWvgissvq) | [Intro](https://open.spotify.com/album/2WWM2D4kknOWl4Q63YwDAC) | 1:05 | 2024-07-23 | 2024-08-26 |
@@ -405,6 +406,7 @@
 | [Kasırgalar](https://open.spotify.com/track/43fBpH05DhiCjE39wRijll) | [Furkan Karaca](https://open.spotify.com/artist/154sxvjuoeibGo8PClKou4) | [Kasırgalar](https://open.spotify.com/album/4DybPip64tieTJCy7iCSuM) | 4:17 | 2023-01-24 | 2024-01-10 |
 | [Kaybeder Ruhuma](https://open.spotify.com/track/54uTaZOnqhFV123GWsgbMK) | [İsa Özkocaman](https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ) | [Kaybeder Ruhuma](https://open.spotify.com/album/5m0kmSNqZxRvRL4szBMRze) | 3:03 | 2024-07-23 | 2024-09-25 |
 | [Kayboldum](https://open.spotify.com/track/3ybD8itWhQ6tAhvsij6exP) | [Bulutlar](https://open.spotify.com/artist/25MrrXb71oupZ8MHi6t61E) | [Kayboldum](https://open.spotify.com/album/0gYl4JaPvq3Et1tpL4AFBA) | 3:56 | 2023-05-30 | 2024-01-10 |
+| [Kayboldum](https://open.spotify.com/track/6MUFIWyt6sV2k4hbFzh858) | [Lavta](https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa) | [Kayboldum](https://open.spotify.com/album/1TXdBtCIGWc4Y2hxTq2lBr) | 3:11 | 2024-10-15 |  |
 | [Kayboldum](https://open.spotify.com/track/1X4GNJ0aUviuVXKJlB5CWw) | [Monokrom](https://open.spotify.com/artist/2OVhnZ8BjobPncG96UGBpm) | [Kayboldum](https://open.spotify.com/album/6LYgKJ74TN9PYG4Cw0u0uE) | 3:15 | 2022-08-16 | 2022-09-21 |
 | [Kaybolmadan](https://open.spotify.com/track/53pHSu17a9Mgwkt4UufHtZ) | [safi](https://open.spotify.com/artist/3nmRQdXFw7C78LzvtMc2z9) | [Kaybolmadan](https://open.spotify.com/album/1bUT4H9rtSnvVjK6x2RuYP) | 2:36 | 2024-06-18 | 2024-07-31 |
 | [Kaybolmuş Gibiyim](https://open.spotify.com/track/1IbnMGClWDGlJbCAYH7UNK) | [Rağmen](https://open.spotify.com/artist/6qL71yr04MXc7DgwS06yJC) | [Kaybolmuş Gibiyim](https://open.spotify.com/album/2pIVfG2AoiAznfoLhjSRDC) | 6:04 | 2024-05-07 | 2024-06-12 |
@@ -491,6 +493,7 @@
 | [Mutlu Ol.](https://open.spotify.com/track/1VKMzXFelJ366PYExXZs0h) | [Gizem Ekiz](https://open.spotify.com/artist/1kL7oMXt0au1LkSNJcjvul) | [Mutlu Ol.](https://open.spotify.com/album/7nBMaHsqdB0qsgYPI160SY) | 3:08 | 2024-06-04 | 2024-07-10 |
 | [Mutluluk Bizim](https://open.spotify.com/track/7uoTayR7oZ7eo8i6qiWyKQ) | [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Mutluluk Bizim](https://open.spotify.com/album/5TqdStIvA3RsxshJHx4lIi) | 3:52 | 2024-03-19 | 2024-05-23 |
 | [Mutluluğa Daha Var](https://open.spotify.com/track/39cLWgn0CuIibXzQ8TKM2b) | [Berkin](https://open.spotify.com/artist/1wrAKkqEJkSkbWYCZeeezl) | [Mutluluğa Daha Var](https://open.spotify.com/album/4qc3BK23ZWObzNaVd5IY1P) | 2:37 | 2023-03-21 | 2024-01-10 |
+| [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-15 |  |
 | [Naber](https://open.spotify.com/track/6zhWElcrLmVxlKdXIbNXiD) | [Lil Owlin](https://open.spotify.com/artist/1Bzu1eOwBjXO2RmWqdiyC3) | [Naber](https://open.spotify.com/album/07jRNZgNyBTfJemZmdBgBt) | 2:22 | 2023-01-10 | 2023-03-08 |
 | [naber? ben iyi değilim](https://open.spotify.com/track/0fFy6ctIZaq81JTssewNa3) | [randova](https://open.spotify.com/artist/78hRvcGcI0TNiG5UkX2VqC) | [naber? ben iyi değilim](https://open.spotify.com/album/2nBttzH3nS6COXkI36V46K) | 2:15 | 2024-01-09 | 2024-02-14 |
 | [Nasıl aklımda olabilirsin hala?](https://open.spotify.com/track/2BnqmhzrHNttHhSrrjToGE) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Nasıl aklımda olabilirsin hala?](https://open.spotify.com/album/6CtQiQHYty475TzIuAP5jW) | 1:46 | 2024-06-04 | 2024-06-19 |
@@ -503,6 +506,7 @@
 | [Ne Gerek Var](https://open.spotify.com/track/4XKLIkG0iKCkGJlOZJ27Pz) | [Yeryüzü Tanıkları](https://open.spotify.com/artist/1SKKvDMopx9iXoK1CAa9AT) | [Ne Gerek Var](https://open.spotify.com/album/2n4YwwCHjJAXqpGVPif6G4) | 3:37 | 2024-01-09 | 2024-03-13 |
 | [Ne Güzeldik Aslında](https://open.spotify.com/track/5tKOvYAdBMjBQgECKQpUNl) | [Hasan Kutan](https://open.spotify.com/artist/4JANYRn1io9jc8aPjjVpX8) | [Ne Güzeldik Aslında](https://open.spotify.com/album/2FQZpm1MWJmtxATFbemW68) | 3:10 | 2024-02-20 | 2024-03-20 |
 | [Ne Neşesi Kaldı Ne Dengesi](https://open.spotify.com/track/6Lvb3wPQS591bAylxuxqnx) | [Görkem Karabudak](https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp) | [Ne Neşesi Kaldı Ne Dengesi](https://open.spotify.com/album/5BjgZBoRi5EHDUsoRQFL0h) | 3:51 | 2022-03-03 | 2022-08-17 |
+| [Ne Senle Ne Sensiz](https://open.spotify.com/track/0uxGe3LBeI8uzkKbEhdb42) | [Gülşah Kömür](https://open.spotify.com/artist/0rFRdFCCe5YQKYZ7Oew9Vi) | [Ne Senle Ne Sensiz](https://open.spotify.com/album/6ndlwMgCxShmdPDgEAcUir) | 2:45 | 2024-10-15 |  |
 | [Ne Yaptıysam Senin İçin](https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB) | [Durukan Betses](https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid) | [Ne Yaptıysam Senin İçin](https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD) | 4:52 | 2024-01-30 | 2024-03-27 |
 | [Neden](https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/0JGlcbYf5ks7g6yF4mY2F1) | 1:55 | 2023-05-30 | 2023-06-21 |
 | [Neden](https://open.spotify.com/track/6pLhHqfrzl7jqNaUlR4CeA) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/03IlNgchMUH2YbCUtn8SYF) | 1:55 | 2023-06-20 | 2023-11-30 |
@@ -513,7 +517,7 @@
 | [Nerdesin](https://open.spotify.com/track/09yeyEYyPN7VuplcRON1pF) | [Evin İçinde](https://open.spotify.com/artist/5TcnabL7etsZriEUUhJWXq) | [Nerdesin](https://open.spotify.com/album/5XQywmpOZsrceTHJWpUsRR) | 4:38 | 2021-12-03 | 2022-01-20 |
 | [Nereye](https://open.spotify.com/track/1U4iTJD3CSeC9wyXre7eVg) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Nereye](https://open.spotify.com/album/6Lu5nYsp3ze0zBixZRKWbf) | 3:19 | 2024-01-09 | 2024-03-27 |
 | [Neye Yarar](https://open.spotify.com/track/4MIjdqBLy28dxTC0vmnxpK) | [Dağhan](https://open.spotify.com/artist/7xCwwe68vYCtbsLSuOXU0o) | [Neye Yarar](https://open.spotify.com/album/08QjVxEwP42FctF0YCBXnB) | 3:41 | 2024-01-30 | 2024-04-10 |
-| [Niye Bu Haldeyiz](https://open.spotify.com/track/2YvxzMLc0DJHX4aOiWAwPW) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Niye Bu Haldeyiz](https://open.spotify.com/album/4w8Kkm13HCgCnMb6Ca5YNX) | 2:47 | 2024-07-23 |  |
+| [Niye Bu Haldeyiz](https://open.spotify.com/track/2YvxzMLc0DJHX4aOiWAwPW) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Niye Bu Haldeyiz](https://open.spotify.com/album/4w8Kkm13HCgCnMb6Ca5YNX) | 2:47 | 2024-07-23 | 2024-10-16 |
 | [Nokta](https://open.spotify.com/track/18Z6HfEcenfShrhAQDuYxj) | [Deniz Özdoğru](https://open.spotify.com/artist/2WKoyW8hQoq5Sbd2jTKyPy) | [Nokta](https://open.spotify.com/album/7q6syuZOnGoPNL2m1acLde) | 2:31 | 2024-01-09 | 2024-02-21 |
 | [O Kapıyı Kapattım](https://open.spotify.com/track/4Ils1HXshfyQZrtsWXVwbN) | [Boğaç](https://open.spotify.com/artist/5iXZUefIu52gTtengVUea6) | [O Kapıyı Kapattım](https://open.spotify.com/album/2RikwWueEvLXoLxpvngBh6) | 2:24 | 2023-11-14 | 2023-11-30 |
 | [Okyanus](https://open.spotify.com/track/36ODzYKJegikMntYROHpLW) | [Exint](https://open.spotify.com/artist/36G225fM7Y6pj789z02FOu) | [Okyanus](https://open.spotify.com/album/2pW0EoCdsPLweL0x4SeSD3) | 2:28 | 2024-07-23 | 2024-10-09 |
@@ -626,7 +630,7 @@
 | [Sersefil](https://open.spotify.com/track/6iD3qLKRgzxAS0uBhZvcLa) | [Nicelatte](https://open.spotify.com/artist/5QFWw9YCsZzcVF4FXRPpHu) | [Sersefil](https://open.spotify.com/album/1Vvrybv643Qom7iy0r5opm) | 3:31 | 2023-01-10 | 2024-01-10 |
 | [Sessizliğin İçinde](https://open.spotify.com/track/2JgSWuRTpHRqlTEX56pdjn) | [Teoman Bölükbaşı](https://open.spotify.com/artist/6ZtiVsr3MEX78r1IDtWVvg) | [D1K](https://open.spotify.com/album/0530Xi6Ri3OHxOclqCKeSe) | 3:43 | 2024-07-09 | 2024-08-14 |
 | [Sev Beni](https://open.spotify.com/track/7FinqWBptFnHIkjcoj13ON) | [Zebra](https://open.spotify.com/artist/1PWLGGhrPsDzP0sGkjdKCR) | [Sev Beni](https://open.spotify.com/album/2lSDFAaK3MOh8wLLFwCzHT) | 3:01 | 2022-05-05 | 2023-01-11 |
-| [Sevgin Gereksiz](https://open.spotify.com/track/4sOhhUODzlax5hYWR4G0g4) | [Ezgi Kardelen](https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP) | [Sevgin Gereksiz](https://open.spotify.com/album/0iieJlsrLNyqFitzJcVXB7) | 3:42 | 2024-07-09 |  |
+| [Sevgin Gereksiz](https://open.spotify.com/track/4sOhhUODzlax5hYWR4G0g4) | [Ezgi Kardelen](https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP) | [Sevgin Gereksiz](https://open.spotify.com/album/0iieJlsrLNyqFitzJcVXB7) | 3:42 | 2024-07-09 | 2024-10-16 |
 | [Sevgin Öldürüyor](https://open.spotify.com/track/3f7sPtcFxe6bruJIrqx9mD) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Sevgin Öldürüyor](https://open.spotify.com/album/2Fs2bQci7mqXelZj6BumvS) | 3:22 | 2021-12-03 | 2022-01-20 |
 | [Sevilecek Herkes Aşıktır Belki](https://open.spotify.com/track/7HnMOluCmEqydqgxmRUBED) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Sevilecek Herkes Aşıktır Belki](https://open.spotify.com/album/2ZPlYRFY8vWHraC0etUIEM) | 3:32 | 2022-04-29 | 2023-01-11 |
 | [Seviyorum!](https://open.spotify.com/track/0JlTSEmVFPxNQTyj3wzOxs) | [Evren Kıran](https://open.spotify.com/artist/3Nff90UoDBARwBRcDnFAk7) | [Seviyorum!](https://open.spotify.com/album/4KLNYPaGLG7zLo4ykSWBMB) | 3:23 | 2024-06-04 | 2024-07-24 |
@@ -719,7 +723,7 @@
 | [Yalnız Ölücem Ben](https://open.spotify.com/track/72doHknIJ994ajo7UFbFxH) | [Erdem Ocak](https://open.spotify.com/artist/0y3MWTIiClCDh4BlMMTsut) | [Yalnız Ölücem Ben](https://open.spotify.com/album/7Dlg5xsWcnYZX5wVDzQ86d) | 3:44 | 2021-12-03 | 2022-01-20 |
 | [Yalnızlık](https://open.spotify.com/track/4aFF2TG1OROHmckokhzqti) | [Buğrahan Çayır](https://open.spotify.com/artist/0blTamgBnByiuZ1BesveMV) | [Yalnızlık](https://open.spotify.com/album/4KDxZil2SOvRUDyqWEKlr2) | 3:19 | 2022-03-17 | 2023-01-11 |
 | [Yalnızlık](https://open.spotify.com/track/0Sz8xueIDngXd1c0RarRWh) | [Fazla](https://open.spotify.com/artist/2L2T3hsT5q4LeHustz2Pkt) | [Yalnızlık](https://open.spotify.com/album/6ZN6JAbR2h4GVf06anzYb4) | 4:14 | 2023-01-17 | 2023-03-08 |
-| [Yalnızlık Bitti](https://open.spotify.com/track/1H6spUcMctsvSMQMPu4r8s) | [Eskisi Gibi](https://open.spotify.com/artist/64olFkVC4M0xidEEKX52VH) | [Yalnızlık Bitti](https://open.spotify.com/album/6aycRYjXHazHuto64HY06w) | 3:22 | 2024-08-13 |  |
+| [Yalnızlık Bitti](https://open.spotify.com/track/1H6spUcMctsvSMQMPu4r8s) | [Eskisi Gibi](https://open.spotify.com/artist/64olFkVC4M0xidEEKX52VH) | [Yalnızlık Bitti](https://open.spotify.com/album/6aycRYjXHazHuto64HY06w) | 3:22 | 2024-08-13 | 2024-10-16 |
 | [Yalnızlıktan](https://open.spotify.com/track/3g4rBzpGpY7O39s3kTt5Vc) | [kuzey](https://open.spotify.com/artist/72NOjzZWUgNIjneAPQxmNI) | [Yalnızlıktan](https://open.spotify.com/album/1T6WUn6PRhRUuK8qaVpTkV) | 2:32 | 2024-07-30 | 2024-09-18 |
 | [Yan](https://open.spotify.com/track/5f2aNJj7NcQFnX51czbYUQ) | [Kaan Bagi](https://open.spotify.com/artist/3Ul30gs2pZ85BLgINncPHK) | [Yan](https://open.spotify.com/album/5aMPC5xPnm8ZchwB2gxSAy) | 2:25 | 2024-03-12 | 2024-05-01 |
 | [Yanamam](https://open.spotify.com/track/2FwwiVvLGigPDzCfXTBggb) | [Bilge Su](https://open.spotify.com/artist/7omNgxR3HnKtIGQHiEW8eY) | [Yanamam](https://open.spotify.com/album/3kOiXJBneRK5tZbadJPiUt) | 4:14 | 2021-12-03 | 2022-03-04 |

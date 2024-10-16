@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Aur\u00e9lie",
+        "url": "https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ"
+      },
+      "artists": [
+        {
+          "name": "Phil Stent",
+          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124416,
+      "name": "Aur\u00e9lie",
+      "url": "https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r"
+    },
+    {
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV"
       },
@@ -596,6 +614,24 @@
       "duration_ms": 114000,
       "name": "Caminando en junio",
       "url": "https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm"
+    },
+    {
+      "album": {
+        "name": "Caminos de Paz",
+        "url": "https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166892,
+      "name": "Caminos de Paz",
+      "url": "https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK"
     },
     {
       "album": {

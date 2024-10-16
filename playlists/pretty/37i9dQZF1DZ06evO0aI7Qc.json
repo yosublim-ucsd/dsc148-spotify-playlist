@@ -1,12 +1,12 @@
 {
-  "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 333308,
+  "description": "This Is Luis R Conriquez. Los temas esenciales, todos en una lista.",
+  "num_followers": 333507,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAxN0moRj7BqycNfH679PUI",
+  "snapshot_id": "ZwxfAAAAAAA7RGrGX6YfW1B7vFnr600E",
   "tracks": [
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traigo El Mando",
-        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 182911,
-      "name": "Traigo El Mando",
-      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paz en Este Amor",
         "url": "https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 202385,
       "name": "Paz en Este Amor",
       "url": "https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     }
   ],
   "unique_name": "This Is Luis R Conriquez",

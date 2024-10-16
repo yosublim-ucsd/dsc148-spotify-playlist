@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Sanullim(\uc0b0\uc6b8\ub9bc) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Cloud koh(\uad6c\ub984)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2409,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "Dancing In the Rain (Wendy Wander Remake)",
+        "url": "https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246750,
+      "name": "Dancing In the Rain - Wendy Wander Remake",
+      "url": "https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T"
+    },
+    {
+      "album": {
         "name": "Pairing",
         "url": "https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya"
       },
@@ -4700,7 +4722,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 231991,
       "name": "Hand",
       "url": "https://open.spotify.com/track/6WbBMCJjrOzpur6T7czLrK"
@@ -7088,6 +7110,24 @@
       "duration_ms": 243022,
       "name": "Love in TV World",
       "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
+    },
+    {
+      "album": {
+        "name": "Love letter",
+        "url": "https://open.spotify.com/album/1PtHh5uwtCqVziHfkkXFY5"
+      },
+      "artists": [
+        {
+          "name": "DALDAM",
+          "url": "https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Love letter",
+      "url": "https://open.spotify.com/track/6ilYsOd0s4HLgUWmByEb8b"
     },
     {
       "album": {
@@ -9790,7 +9830,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 239212,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/0dGJsHDjZiQBCpAoKf9XAR"
@@ -10582,6 +10622,24 @@
       "duration_ms": 238000,
       "name": "Sketch",
       "url": "https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt"
+    },
+    {
+      "album": {
+        "name": "sky, hands, balloons",
+        "url": "https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "sky, hands, balloons",
+      "url": "https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d"
     },
     {
       "album": {
@@ -11570,7 +11628,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 259428,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946"
@@ -12238,6 +12296,24 @@
       "duration_ms": 279142,
       "name": "This is Beta Testing",
       "url": "https://open.spotify.com/track/5QeEwW9YF2VMaWJ5hjkKOo"
+    },
+    {
+      "album": {
+        "name": "Four Leaf Clover",
+        "url": "https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156680,
+      "name": "Three Leaf Clover",
+      "url": "https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI"
     },
     {
       "album": {
@@ -13220,7 +13296,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 202127,
       "name": "What shall I do?",
       "url": "https://open.spotify.com/track/61ji5EjeyFDm9U1oeTGmcD"

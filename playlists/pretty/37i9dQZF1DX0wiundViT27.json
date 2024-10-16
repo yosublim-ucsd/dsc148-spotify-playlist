@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611284,
+  "num_followers": 611278,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 162666,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 223173,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "HOW 2 GET AWAY WITH MURDER",
-        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+        "name": "Things Are Different Now",
+        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
       "artists": [
         {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
         }
       ],
-      "duration_ms": 178217,
-      "name": "HOW 2 GET AWAY WITH MURDER",
-      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
+      "duration_ms": 174428,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -555,34 +555,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Things Are Different Now",
-        "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
       },
       "artists": [
         {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 174428,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -603,6 +587,22 @@
       "duration_ms": 271515,
       "name": "Don't Tell Me (feat. Ann Wilson)",
       "url": "https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Keep Me Fed",
-        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "INSIDE",
-        "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
+        "name": "In Times New Roman...",
+        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
       },
       "artists": [
         {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 154025,
-      "name": "INSIDE",
-      "url": "https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T"
+      "duration_ms": 202776,
+      "name": "Paper Machete",
+      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "In Times New Roman...",
-        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
         }
       ],
-      "duration_ms": 202776,
-      "name": "Paper Machete",
-      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
+      "duration_ms": 154025,
+      "name": "INSIDE",
+      "url": "https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Landmines",
-        "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 175767,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Garden State Vampire",
         "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 191390,
       "name": "Shadow in the Sun",
       "url": "https://open.spotify.com/track/588EtZ99qVxlMWiqRnc41x"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "clairbourne practice",
-        "url": "https://open.spotify.com/album/2yVBjpKNmNUTK6RACxnBF6"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "clairbourne practice",
-      "url": "https://open.spotify.com/track/0WOkDmX7J2SGm8MDe2rWBc"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "clairbourne practice",
+        "url": "https://open.spotify.com/album/2yVBjpKNmNUTK6RACxnBF6"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "clairbourne practice",
+      "url": "https://open.spotify.com/track/0WOkDmX7J2SGm8MDe2rWBc"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1291,6 +1291,22 @@
       "duration_ms": 247320,
       "name": "Love From The Other Side - Edit",
       "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1383,22 +1399,6 @@
       "duration_ms": 239103,
       "name": "Taking Me Back",
       "url": "https://open.spotify.com/track/37FjxvMhMjt3YRecpx7HsC"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+        "name": "Too Late to Start Over",
+        "url": "https://open.spotify.com/album/64qrzqncu8wFubOIsUPuFk"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+      "duration_ms": 220215,
+      "name": "Little Cup",
+      "url": "https://open.spotify.com/track/6uZIOBN8nph3sYzYgkGPt0"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Too Late to Start Over",
-        "url": "https://open.spotify.com/album/64qrzqncu8wFubOIsUPuFk"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 220215,
-      "name": "Little Cup",
-      "url": "https://open.spotify.com/track/6uZIOBN8nph3sYzYgkGPt0"
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     }
   ],
   "unique_name": "Rock Me Up",

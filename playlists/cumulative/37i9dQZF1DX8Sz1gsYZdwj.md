@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-206 songs - 9 hr 52 min
+208 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-06-30 |  |
 | [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 | 2024-02-05 |  |
 | [Archangel's Lullaby](https://open.spotify.com/track/1UeEULIBhrFzy8WhI3FrMF) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Children's Cello](https://open.spotify.com/album/3n3Pw80jcR51Ymw8CBp7Bu) | 1:39 | 2021-11-09 | 2023-09-30 |
+| [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 | 2024-10-15 |  |
 | [As Ballad](https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stay In The Dark](https://open.spotify.com/album/7nGEHv8P2Ys8D7g6Hn1i10) | 4:53 | 2021-11-09 | 2022-02-01 |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2023-09-29 |  |
 | [Azul](https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Azul](https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc) | 2:00 | 2023-09-29 |  |
@@ -38,6 +39,7 @@
 | [Blow The Wind Southerly \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/5NHQ6e1JkQ5zsvzIRkqDhh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 2:22 | 2021-11-09 | 2022-02-22 |
 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 | 2021-11-09 | 2023-03-18 |
 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 | 2023-09-29 |  |
+| [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 | 2024-10-15 |  |
 | [Carousel \- Strings Version](https://open.spotify.com/track/3W1U17Hz2IVhMTUa1EB4I6) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Ave Nocturne](https://open.spotify.com/album/4RPFZQL9B6r2NK8or2s2pG) | 2:18 | 2021-11-09 | 2022-01-25 |
 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2023-11-20 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2023-09-29 |  |

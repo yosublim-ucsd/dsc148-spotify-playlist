@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 25.
 
-112 songs - 6 hr 4 min
+113 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-09-16 |  |
 | [The End](https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:14 | 2024-09-16 |  |
 | [Today](https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Today](https://open.spotify.com/album/7ipTPuIfLGHeL1Nmu0LiYN) | 3:04 | 2024-09-16 |  |
+| [Tomorrow Man](https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 2:46 | 2024-10-15 |  |
 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 | 2024-09-16 |  |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-09-16 |  |
 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 | 2024-09-16 |  |

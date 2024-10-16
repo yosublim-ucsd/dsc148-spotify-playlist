@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,061 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 29 | [ドラえもんのうた](https://open.spotify.com/track/2KOlWlyl0iZ4aFcvUQOsPN) | [大杉久美子](https://open.spotify.com/artist/4m9E6QuKZkgXk6TTeuB4gd), [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:57 |
 | 30 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
 | 31 | [サザエさん一家](https://open.spotify.com/track/1TgBRjzoQDtyzeVc08FFyI) | [宇野ゆう子](https://open.spotify.com/artist/3vztmeg6tDx8dJohekt4l4) | [サザエさん](https://open.spotify.com/album/0OYfnYKIrEjcvHEPkfSK7n) | 3:28 |
-| 32 | [陽だまり](https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ) | [Kozo Murashita](https://open.spotify.com/artist/1LfONXXt0ekrr4FoA93CPz) | [七夕夜想曲〜村下孝蔵最高選曲集　其の壱](https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW) | 4:01 |
-| 33 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 |
+| 32 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 |
+| 33 | [陽だまり](https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ) | [Kozo Murashita](https://open.spotify.com/artist/1LfONXXt0ekrr4FoA93CPz) | [七夕夜想曲〜村下孝蔵最高選曲集　其の壱](https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW) | 4:01 |
 | 34 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 35 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
 | 36 | [はじめてのチュウ](https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL) | [あんしんパパ](https://open.spotify.com/artist/2TREGA3AQEMeHdG7q8cCXf) | [藤子・F・不二雄 生誕90周年 藤子・F・不二雄 TV MUSIC HISTORY II \-藤子・F・不二雄作品集2\-](https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc) | 4:25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Dragon Ash",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: UVERworld",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 331013,
       "name": "-EP6- THE TITAN",
       "url": "https://open.spotify.com/track/5TKW0FTjfPIHd9mSfidzn3"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 228700,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2ElIOMmJFVGE2l4rZsRjsy"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends feat. VIGORMAN",
       "url": "https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd"
@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "PHOENIX (Movie Ver.)",
+        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "PHOENIX (Movie Ver.)",
+      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+    },
+    {
+      "album": {
         "name": "PLAYDEAD",
         "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
       },
@@ -3560,6 +3578,24 @@
       "duration_ms": 180710,
       "name": "Q2 feat. Kenta Koie from Crossfaith",
       "url": "https://open.spotify.com/track/32pKVWSIZyqYKeG5npImtr"
+    },
+    {
+      "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/44LudOcruib8E2QoacG6I8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
     },
     {
       "album": {
@@ -4124,7 +4160,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 222066,
       "name": "Silent World feat. KYONO, Ryu (Ryu Matsuyama)",
       "url": "https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L"
@@ -5204,7 +5240,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 187791,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh"
@@ -5990,7 +6026,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 197946,
       "name": "\u5c71\u5d50",
       "url": "https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a"

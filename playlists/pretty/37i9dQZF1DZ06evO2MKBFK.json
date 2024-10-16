@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 613540,
+  "num_followers": 613520,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACNWhdkTTKkBrBlbl0HRYcq",
+  "snapshot_id": "ZwxfAAAAAAAHaTccKH3nZgLxGAMGhi0r",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Sunset Glow",
+      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 231293,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 204920,
-      "name": "Sunset Glow",
-      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,

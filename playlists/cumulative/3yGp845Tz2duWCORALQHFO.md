@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,199 songs - 2 day 16 hr 50 min
+1,200 songs - 2 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,6 +791,7 @@
 | [One Step Further](https://open.spotify.com/track/3DwW4LN2fXDZ3TzRVpJLKN) | [Sam Rose](https://open.spotify.com/artist/5ZOoKzwItyJOLXhBqpRrru), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [One Step Further](https://open.spotify.com/album/2qVAzbzezaU6TBZaynFHtc) | 4:07 | 2024-07-12 | 2024-07-19 |
 | [One Thing](https://open.spotify.com/track/3Q8hbWH6nDCK050NOWPQaC) | [Camisado](https://open.spotify.com/artist/0pvlpkTlSafv0eKyGQ2HtS) | [One Thing](https://open.spotify.com/album/3yrUclsTFchuxo2c4VYUPb) | 2:24 | 2024-07-19 | 2024-07-27 |
 | [Ones I Used To Love](https://open.spotify.com/track/1roWNMBhbOCqcZSFJ6Oky4) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [Ones I Used To Love](https://open.spotify.com/album/4aaQd3RxMnCof42QZVqq17) | 3:29 | 2024-07-25 | 2024-08-02 |
+| [Only U](https://open.spotify.com/track/2mbAYauz4IJJK7K5a81pQh) | [Malixe](https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh) | [Only U](https://open.spotify.com/album/4CbtHucn3enxtxGZZOwBK4) | 2:34 | 2024-10-15 |  |
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-06-07 | 2024-06-17 |
 | [Only You](https://open.spotify.com/track/319z2E4S17l8llbZ0MW2rF) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Only You](https://open.spotify.com/album/6nZ7ri5ZEYPVttOzlqNy1s) | 4:28 | 2024-09-05 | 2024-09-21 |
 | [Ophidian](https://open.spotify.com/track/5sMShnxUXC9mrRskwQE8D0) | [TVLI](https://open.spotify.com/artist/5HuSOEpwCwZOEVcMNSq1Hj) | [Ophidian](https://open.spotify.com/album/23fYMemtDkshKzvu65HjNF) | 4:00 | 2024-10-11 |  |

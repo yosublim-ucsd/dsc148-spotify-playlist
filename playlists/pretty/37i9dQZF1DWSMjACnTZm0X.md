@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Uncle Waffles
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,071 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,084 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 43 | [Concussion \- Remix](https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Concussion \- Remix](https://open.spotify.com/album/21nupdfTnGduMsVXIyuc9u) | 2:38 |
 | 44 | [Sugar](https://open.spotify.com/track/0EFOT4wLwR4AZBGMTg3Ne3) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Sugar](https://open.spotify.com/album/6ewzGgAnMYgU7RmE3XWw0T) | 2:18 |
 | 45 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 |
-| 46 | [Ammunition](https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv) | [Tooslim](https://open.spotify.com/artist/1u84jZFjE4XgwG0HJ43WZR), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ammunition](https://open.spotify.com/album/6kfirirfpHequnP9iMRHA1) | 2:28 |
+| 46 | [Ammunition](https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv) | [TooslimSZN](https://open.spotify.com/artist/2f88pRXaCG6ZHi7clAx8J1), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ammunition](https://open.spotify.com/album/6kfirirfpHequnP9iMRHA1) | 2:28 |
 | 47 | [Don't Stress Me](https://open.spotify.com/track/3jYMQXkFS3Ln24CrL1MSIr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Don't Stress Me](https://open.spotify.com/album/182d8u0WRY0NorZrjemzXX) | 2:53 |
 | 48 | [Konji](https://open.spotify.com/track/6AiQ9EcX0YrRGHiLRzheVi) | [Zubest](https://open.spotify.com/artist/4CCTdUK6kBA31iAxvaHYR3), [Riskykid intl](https://open.spotify.com/artist/0S2CMyMqMgiEg7VST0w4Uc) | [Konji](https://open.spotify.com/album/1K72cPsM1nhkYG8EMMmPfA) | 3:01 |
 | 49 | [Woman](https://open.spotify.com/track/7jrVAXjL1xbfmeoAx391aI) | [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Troy Venus](https://open.spotify.com/artist/53FQtNOvSpOjkNKh7vCvgs) | [Love or Lust](https://open.spotify.com/album/7wwIAB9QJEuVYb4iHfOPoN) | 2:45 |

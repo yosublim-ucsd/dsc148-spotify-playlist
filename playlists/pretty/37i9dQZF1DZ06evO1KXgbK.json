@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249171,
+  "num_followers": 249172,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACXvdMSeYDAmX7DVhryyWYB",
+  "snapshot_id": "ZwxfAAAAAAAPqfQKMZ94XIIwPSNwMt/w",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eagle When She Flies",
         "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 206306,
       "name": "Rockin' Years (with Ricky Van Shelton)",
       "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 203427,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 153920,
       "name": "The Pain of Loving You - 2015 Remaster",
       "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
     },
     {
       "added_at": null,
@@ -967,30 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Possession Gets Too Strong",
-        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Dolly Parton & Family",
-          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
-        },
-        {
-          "name": "Louis Owens",
-          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
-        }
-      ],
-      "duration_ms": 129364,
-      "name": "When Possession Gets Too Strong",
-      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Possession Gets Too Strong",
+        "url": "https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Louis Owens",
+          "url": "https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns"
+        }
+      ],
+      "duration_ms": 129364,
+      "name": "When Possession Gets Too Strong",
+      "url": "https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ"
     },
     {
       "added_at": null,

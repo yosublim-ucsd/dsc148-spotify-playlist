@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,579 songs - 3 day 15 hr 11 min
+1,580 songs - 3 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-13 |
 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-28 | 2024-10-12 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-16 | 2024-09-29 |
-| [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-22 |  |
+| [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-22 | 2024-10-16 |
 | [eternal sunshine](https://open.spotify.com/track/2waUyWiimcCeA8DbJH8BtT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:30 | 2024-03-09 | 2024-03-11 |
 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 | 2024-03-10 | 2024-03-14 |
 | [Euphoria](https://open.spotify.com/track/3p6hnejEQYXkiTO1lAzVc0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 3:48 | 2021-05-29 | 2021-05-30 |
@@ -838,6 +838,7 @@
 | [Love You Different \(feat\. BEAM\)](https://open.spotify.com/track/27UcQ6dAvQrgH9C880rCM3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:06 | 2021-03-27 | 2021-03-29 |
 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-04-16 | 2024-05-26 |
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2022-03-27 | 2022-08-17 |
+| [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-15 |  |
 | [Love/Hate Letter To Alcohol \(with Fleet Foxes\)](https://open.spotify.com/track/6R9c642Hs3tOdLowjYaWt2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:03 | 2022-06-04 | 2022-06-06 |
 | [LOVED YOU](https://open.spotify.com/track/6pKbRl6JErq6Ck2PBWcLse) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 2:27 | 2022-03-04 | 2022-03-07 |
 | [Lovely Touch](https://open.spotify.com/track/5xBlyMehStMvqToNTDxVFT) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:15 | 2022-05-31 | 2022-07-02 |
@@ -1331,7 +1332,7 @@
 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-08-12 | 2023-09-09 |
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-18 | 2023-11-20 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-12 | 2022-03-31 |
-| [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-05 |  |
+| [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-05 | 2024-10-16 |
 | [TAIJI](https://open.spotify.com/track/4kTZPPL28sYltXKMJramko) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:13 | 2021-11-13 | 2021-11-16 |
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2021-03-27\* | 2021-04-02 |
 | [Take My Breath](https://open.spotify.com/track/1v4Jh705vsTcn74IMDNa4s) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:00 | 2022-12-17 | 2022-12-22 |
@@ -1506,7 +1507,7 @@
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-20 |  |
 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 | 2024-07-24 |  |
 | [Who \(Beautiful Mind Remix\)](https://open.spotify.com/track/2isRbZIIU4PqPrECffn7QO) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:57 | 2024-07-24 |  |
-| [Who \(Funky Remix\)](https://open.spotify.com/track/7KZNgri6Jxw88FAfATw6i9) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 3:08 | 2024-07-24 | 2024-10-15 |
+| [Who \(Funky Remix\)](https://open.spotify.com/track/7KZNgri6Jxw88FAfATw6i9) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 3:08 | 2024-07-24 |  |
 | [Who \(Instrumental\)](https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:50 | 2024-07-24 |  |
 | [Who \(Rock Remix\)](https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:51 | 2024-07-24 |  |
 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 | 2024-07-24 |  |

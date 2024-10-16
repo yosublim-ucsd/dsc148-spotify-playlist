@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 93940,
+  "num_followers": 93959,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Right There / Holy Ghost",
-        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 177885,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -463,22 +467,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+        "name": "Right There / Holy Ghost",
+        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
       },
       "artists": [
         {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
         }
       ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+      "duration_ms": 177885,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
     },
     {
       "added_at": "2023-10-26 20:41:14",

@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 51854,
+  "num_followers": 51852,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Ms. Fat Booty",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ms. Fat Booty",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Grinding All My Life",
-      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Grinding All My Life",
+      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
       "artists": [
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1467,46 +1471,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
         }
       ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "The Confidence Of Knowing",
-        "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "J. Rawls",
-          "url": "https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag"
-        },
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 324375,
-      "name": "SWAT",
-      "url": "https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98"
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1539,6 +1515,30 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "The Confidence Of Knowing",
+        "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "J. Rawls",
+          "url": "https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag"
+        },
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 324375,
+      "name": "SWAT",
+      "url": "https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Flatline (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Flatline (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "What's Life (From \"Liberated / Music For the Movement Vol. 3\")",
         "url": "https://open.spotify.com/album/6UzuK8kBzwIpKbEex4BouB"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 191088,
       "name": "What's Life - From \"Liberated / Music For the Movement Vol. 3\"",
       "url": "https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Flatline (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Flatline (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Miss My Dawgs",
         "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
       },
@@ -2083,6 +2063,26 @@
       "duration_ms": 157639,
       "name": "Pain & Strife (feat. Offset)",
       "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "luvu222",
         "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 236799,
       "name": "Not For Nothing (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "added_at": "2024-09-13 03:01:00",

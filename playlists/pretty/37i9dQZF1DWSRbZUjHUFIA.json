@@ -1,6 +1,6 @@
 {
   "description": "Keep your workout 100 with these Hip Hop motivators.",
-  "num_followers": 93550,
+  "num_followers": 93580,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-10-11 03:24:07",
       "album": {
+        "name": "Take Me to the Beach (feat. Baker Boy)",
+        "url": "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "duration_ms": 185352,
+      "name": "Take Me to the Beach (feat. Baker Boy)",
+      "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
+    },
+    {
+      "added_at": "2024-10-11 03:24:07",
+      "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 178153,
       "name": "What\u2019s Next",
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
-    },
-    {
-      "added_at": "2024-10-11 03:24:07",
-      "album": {
-        "name": "Take Me to the Beach (feat. Baker Boy)",
-        "url": "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Baker Boy",
-          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
-        }
-      ],
-      "duration_ms": 185352,
-      "name": "Take Me to the Beach (feat. Baker Boy)",
-      "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
     },
     {
       "added_at": "2024-10-11 03:24:07",

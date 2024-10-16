@@ -2,7 +2,7 @@
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This Is Deorro\. Los temas esenciales, todos en una lista.
+> This is Deorro\. The essential tracks, all in one playlist.
 
 55 songs - 2 hr 59 min
 
@@ -48,7 +48,7 @@
 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 | 2024-08-08 |  |
 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 | 2024-08-08 |  |
 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 | 2024-08-31 |  |
-| [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 | 2024-08-08 |  |
+| [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 | 2024-08-08 | 2024-10-16 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2024-08-08 |  |
 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 | 2024-08-08 |  |
 | [Se Vuelve Loca](https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 2:52 | 2024-08-08 |  |
@@ -62,6 +62,6 @@
 | [Yee](https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Yee](https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF) | 2:48 | 2024-08-08 |  |
 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2024-08-08 |  |
 | [You Are Not Alone \(feat\. Dear Sara\)](https://open.spotify.com/track/310TW3iypnMo8laEWughHb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Reflect](https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx) | 3:09 | 2024-08-08 |  |
-| [¡MAS CRAZY!](https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [¡MAS CRAZY!](https://open.spotify.com/album/5rSmIwMeJMNV2eBK6JJvQx) | 2:34 | 2024-08-08 | 2024-10-01 |
+| [¡MAS CRAZY!](https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [¡MAS CRAZY!](https://open.spotify.com/album/5rSmIwMeJMNV2eBK6JJvQx) | 2:34 | 2024-08-08 |  |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

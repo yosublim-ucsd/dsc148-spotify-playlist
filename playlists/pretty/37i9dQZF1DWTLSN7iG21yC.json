@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 901475,
+  "num_followers": 901434,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-09-20 14:05:11",
-      "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
       "added_at": "2024-08-28 15:36:32",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
@@ -91,6 +75,22 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-09-20 14:05:11",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -163,18 +163,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -207,6 +211,22 @@
       "duration_ms": 200379,
       "name": "ocean eyes",
       "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2024-08-28 15:36:32",
@@ -243,38 +263,18 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -315,6 +315,22 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2024-09-20 14:05:11",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -397,10 +413,10 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2024-09-20 14:05:11",
+      "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
       "artists": [
         {
@@ -408,9 +424,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+      "duration_ms": 192317,
+      "name": "Hammer to the Heart",
+      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -463,22 +479,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 191185,
-      "name": "Used To Be Young",
-      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -523,6 +507,38 @@
       "duration_ms": 210251,
       "name": "the 1",
       "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 191185,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -559,22 +575,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Hammer to the Heart",
-      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Love On",
         "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 177156,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 177156,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "dancing in the kitchen",
+        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 208599,
+      "name": "dancing in the kitchen",
+      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 169656,
       "name": "These Tears",
       "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "dancing in the kitchen",
-        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 208599,
-      "name": "dancing in the kitchen",
-      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "UNHEALTHY - Deluxe",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "What Did I Do?",
+        "url": "https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I"
+      },
+      "artists": [
+        {
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "What Did I Do?",
+      "url": "https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Sway My Way (with Amy Shark)",
         "url": "https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 136842,
       "name": "Sway My Way (with Amy Shark)",
       "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "What Did I Do?",
-        "url": "https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I"
-      },
-      "artists": [
-        {
-          "name": "Hayd",
-          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "What Did I Do?",
-      "url": "https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2437,22 +2437,6 @@
       "url": "https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx"
     },
     {
-      "added_at": "2024-08-28 15:41:03",
-      "album": {
-        "name": "Family Business",
-        "url": "https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Guy I Used To Be",
-      "url": "https://open.spotify.com/track/7IJLHEe92bCcwRJiS2ZYfZ"
-    },
-    {
       "added_at": "2024-08-12 14:52:05",
       "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
@@ -2491,6 +2475,22 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2024-08-28 15:41:03",
+      "album": {
+        "name": "Family Business",
+        "url": "https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Guy I Used To Be",
+      "url": "https://open.spotify.com/track/7IJLHEe92bCcwRJiS2ZYfZ"
     },
     {
       "added_at": "2024-08-12 14:52:05",

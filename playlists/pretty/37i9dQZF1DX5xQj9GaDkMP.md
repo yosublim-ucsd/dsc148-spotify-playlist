@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,021 likes - 99 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,022 likes - 99 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Throwback Thursday with FM COCOLO: 1998年特集](https://open.spotify.com/episode/3HqrR5DbOKhEcyOZlqe9TM) | [Spotify "スローバックTHURSDAY with FM COCOLO"](https://open.spotify.com/show/4S3eXAVbG6i2eGwimwLG4I) | [Spotify "スローバックTHURSDAY with FM COCOLO"](https://open.spotify.com/album/4S3eXAVbG6i2eGwimwLG4I) | 21:46 |
-| 2 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 \~SUPER BEST OF GLAY\~](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
+| 2 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
 | 3 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 |
 | 4 | [Automatic](https://open.spotify.com/track/1wLvwJisZFxQYqjWJ6x16t) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Automatic / time will tell](https://open.spotify.com/album/2wXEWu8WAfXMQvbDb5vzJv) | 5:12 |
 | 5 | [つつみ込むように･･･](https://open.spotify.com/track/2YMbBShmkH9LvW3hKztcVZ) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [つつみ込むように・・・](https://open.spotify.com/album/64UxqPFvBs10eOq73xwdtp) | 5:50 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 19 | [終わりなき旅](https://open.spotify.com/track/3XfCKKcnArQSyJnZGP7ymx) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [DISCOVERY](https://open.spotify.com/album/0Flc2u2vyWHvk1BGpyviPN) | 7:04 |
 | 20 | [きっと どこかで](https://open.spotify.com/track/2QfPCoGiMLH3MO1uZoX08G) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [TUBEst III](https://open.spotify.com/album/3CB8oSYDZ4doCelAX1hkaz) | 3:32 |
 | 21 | [WHITE BREATH](https://open.spotify.com/track/3GGST52oLSrF4DaLtVYMCI) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [B☆E☆S☆T](https://open.spotify.com/album/5xtB4tKFlwdMVFWhnlUWVE) | 3:58 |
-| 22 | [BE WITH YOU](https://open.spotify.com/track/1hyoaoivd41SwktGKkx7rX) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 \~SUPER BEST OF GLAY\~](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 5:12 |
+| 22 | [BE WITH YOU](https://open.spotify.com/track/1hyoaoivd41SwktGKkx7rX) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 5:12 |
 | 23 | [The Boy Is Mine \- Radio Edit](https://open.spotify.com/track/30lxTiMzVRxp6wLcTn6awC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Hip Hop & R'N'B Anthems](https://open.spotify.com/album/1UxFnrtqZqQXqO9EfpXHFu) | 4:00 |
 | 24 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
 | 25 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |

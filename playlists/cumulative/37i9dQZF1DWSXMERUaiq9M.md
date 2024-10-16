@@ -4,7 +4,7 @@
 
 > T&T like dynamite 🧨  aka the hottest trance & techno tunes of the moment!
 
-348 songs - 22 hr 2 min
+349 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 |  |
 | [Elektra](https://open.spotify.com/track/01e8d1lr1fFyPuIGOCRnRG) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [White Keys Vol.2](https://open.spotify.com/album/73JNp7GCaS3sh9QBCY6uOY) | 7:05 | 2023-08-10 | 2023-08-19 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-03-10 | 2023-06-06 |
-| [Entertain Me](https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Entertain Me](https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy) | 2:50 | 2024-07-25 |  |
+| [Entertain Me](https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Entertain Me](https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy) | 2:50 | 2024-07-25 | 2024-10-16 |
 | [Escape](https://open.spotify.com/track/4S2hhb5EKBmlBU7cFigCJS) | [Van Der Karsten](https://open.spotify.com/artist/3TiyEX77D6OFTvSfx5WDEE), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Escape](https://open.spotify.com/album/0gDQGarNIcKfzFVQITe8t2) | 2:46 | 2024-08-22 | 2024-09-17 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 |  |
 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 | 2023-03-10 | 2023-04-19 |
@@ -299,6 +299,7 @@
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |
 | [Stereoscopic](https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Stereoscopic](https://open.spotify.com/album/6Z5OBUXv1C51O9aVVU5tM4) | 4:36 | 2023-09-21 | 2023-09-30 |
 | [Still Need U](https://open.spotify.com/track/2z0aTFF696oXVdN1sfzKi7) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [In Your Arms](https://open.spotify.com/album/5u6OdIduUpROG052H662kO) | 3:18 | 2024-02-22 | 2024-03-23 |
+| [Stolen Dance \- Hypertechno](https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Stolen Dance \(Hypertechno\)](https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0) | 3:08 | 2024-10-10 |  |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-03-10 | 2023-08-26 |
 | [Sucker](https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Sucker](https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS) | 2:03 | 2024-06-27 |  |
 | [Survive It](https://open.spotify.com/track/5iq8BZoCP05ihLpMVUB6VA) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Survive It](https://open.spotify.com/album/2zN2U5xYnIrWYx4vl4wW6Y) | 2:53 | 2024-08-12 | 2024-10-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: sanjay.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,226 likes - 105 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,210 likes - 105 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 32 | [KATATOKI](https://open.spotify.com/track/3glLtPjGGpTXPk5CSJ2MVJ) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [J.I.D](https://open.spotify.com/artist/7bTn84XuezOf5kzCED8UCK) | [WONDER BOY'S AKUMU CLUB](https://open.spotify.com/album/3VnHOAsrH9dBq8TbVmHkGL) | 3:32 |
 | 33 | [Masterpiece](https://open.spotify.com/track/4WRmIspO9vbk869r4A6bxu) | [Wish Master](https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE), [Datkid](https://open.spotify.com/artist/5kLeLeHA3K7hvJL0lg7WeS) | [Masterpiece](https://open.spotify.com/album/30OoAMkeZRubWgOzVzM56O) | 2:48 |
 | 34 | [Keep Going \(And Don't Forget\)](https://open.spotify.com/track/0L91LicotwTmW73OtnSBWy) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [14KT](https://open.spotify.com/artist/5S8L0diSZfnelH2OH2VVIf) | [Reel Speakers](https://open.spotify.com/album/42BW56jChd7zVwviXD5VTg) | 2:37 |
-| 35 | [Capital Gains](https://open.spotify.com/track/2URNopbH21ugLNbyt0iX8V) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb), [Pro Dillinger](https://open.spotify.com/artist/7iTgKob0QAhPFudE0itzrY) | [Hair Brained Schemes](https://open.spotify.com/album/19Luu1HN36BKgtr7XxX5Xx) | 3:15 |
+| 35 | [Capital Gains](https://open.spotify.com/track/2URNopbH21ugLNbyt0iX8V) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb), [Pro Dillinger](https://open.spotify.com/artist/7iTgKob0QAhPFudE0itzrY) | [Hare Brained Schemes](https://open.spotify.com/album/19Luu1HN36BKgtr7XxX5Xx) | 3:15 |
 | 36 | [DADADOO](https://open.spotify.com/track/0eYWFMi3v00NOx0tt9ONWI) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [DADADOO](https://open.spotify.com/album/7jThw9jJDU3UitZRESpvGC) | 2:51 |
 | 37 | [Never](https://open.spotify.com/track/4pqVBjvvUUfbGFCty1rNiP) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Never](https://open.spotify.com/album/4CvgegRSDCKH3hvCPxiJvP) | 3:32 |
 | 38 | [221](https://open.spotify.com/track/3IcDdDTTLmCOtgbgWHVg5f) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [221](https://open.spotify.com/album/3KJ5QvU7qZBKix94O4ncQC) | 3:15 |

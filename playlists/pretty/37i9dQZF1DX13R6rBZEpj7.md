@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,258 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,399 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 23 | [KEEP IT ROLLING](https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [KEEP IT ROLLING](https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH) | 3:19 |
 | 24 | [Cutty Dub 23](https://open.spotify.com/track/4btfN4wAlOCadvxFztH9bm) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Cutty Dub 23](https://open.spotify.com/album/2GWudukTcN6t7xhMzHigkq) | 4:22 |
 | 25 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 |
-| 26 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 |
-| 27 | [Get Out](https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy) | [Get Out](https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH) | 1:58 |
+| 26 | [Get Out](https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy) | [Get Out](https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH) | 1:58 |
+| 27 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 |
 | 28 | [Sick Of The Chatter](https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Sick Of The Chatter](https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp) | 3:27 |
 | 29 | [Friday Nights \(efan Remix\)](https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT) | [Friday Nights \(efan Remix\)](https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6) | 3:26 |
 | 30 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 65 | [Songs Of Praise \- Radio Edit](https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Songs Of Praise](https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv) | 2:56 |
 | 66 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 67 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
-| 68 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
-| 69 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
-| 70 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 |
+| 68 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
+| 69 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
+| 70 | [This Sound](https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Kaya](https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k) | [This Sound](https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws) | 4:17 |
 
 Snapshot ID: `Zv8h8AAAAAA3NFa1QBUCjF+X6RmrjFqk`

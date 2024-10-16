@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-108 songs - 4 hr 38 min
+111 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bosses Linking With Bosses](https://open.spotify.com/track/5w2HEVe6nQnn9yYCjeCBfu) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 2:10 | 2023-07-24 | 2024-05-21 |
 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 | 2023-08-18 | 2024-05-21 |
 | [Brand New](https://open.spotify.com/track/1VdYuaX09Fl8wJbGKloAfA) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/6PXO9lWb0jxlBYtYvTk6Uc) | 3:02 | 2023-09-28 |  |
+| [BUSINESS IS BUSINESS](https://open.spotify.com/track/3oMNeqnhaXx96vip9Udsw7) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Trauma Tone](https://open.spotify.com/artist/5hbmx6kYC3b7lHWkbvs455) | [TMZ](https://open.spotify.com/album/6Z8BUrS5QTkofkDvhh4zGN) | 2:08 | 2024-10-15 |  |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2024-01-19 |  |
 | [Celebrity Status](https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Celebrity Status](https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF) | 1:26 | 2023-09-08 | 2024-06-19 |
 | [Collective Nights](https://open.spotify.com/track/6Rb2FMI2mVyc8vuNpjDNRo) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Rio Circa 2020](https://open.spotify.com/album/4ACoNEslRfttCqfj0LI4w0) | 2:46 | 2024-05-20 |  |
@@ -64,6 +65,7 @@
 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 | 2024-06-14 |  |
 | [Hot Sauce](https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Hot Sauce](https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV) | 2:15 | 2024-03-25 | 2024-06-19 |
 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 | 2024-01-19 |  |
+| [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 | 2024-10-15 |  |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2024-05-21 |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2023-06-23 | 2024-01-20 |
 | [Let's Go](https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Let's Go](https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO) | 2:20 | 2024-01-19 | 2024-04-25 |
@@ -85,6 +87,7 @@
 | [Psilocybin](https://open.spotify.com/track/4yiMqpWedLgroh2cGXcT2v) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Psilocybin](https://open.spotify.com/album/2a2X4S69knPtrLufy84coS) | 2:18 | 2023-09-29 |  |
 | [Psilocybin](https://open.spotify.com/track/6VEEzKXbaLIzRjCYXYlzi6) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [GHETTO](https://open.spotify.com/album/0aLRZQl5n4zKvejDignqyK) | 2:18 | 2023-10-13 | 2024-06-15 |
 | [raise your hands](https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv) | 1:28 | 2024-10-10 |  |
+| [Really Jimmy?](https://open.spotify.com/track/7l5BOk1PkUOwoDbHMTmWXw) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Really Jimmy?](https://open.spotify.com/album/21Ab1Dhiv8sRxliLUuyK1g) | 1:51 | 2024-10-15 |  |
 | [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 | 2024-06-01 |  |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2024-01-12 |  |
 | [Ronaldo](https://open.spotify.com/track/4VFOroA9oZTguLwg7dKDLL) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 1:53 | 2024-03-10 |  |

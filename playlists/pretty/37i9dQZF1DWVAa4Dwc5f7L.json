@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo",
-  "num_followers": 394346,
+  "num_followers": 394376,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "No Es Normal",
         "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 181894,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+        "name": "La Vida Da Vuelta",
+        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 286520,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+      "duration_ms": 162882,
+      "name": "La Vida Da Vuelta",
+      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Merengue De Amor Vol.1",
         "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 250400,
       "name": "Que Cara M\u00e1s Bonita",
       "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "La Vida Da Vuelta",
-        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 162882,
-      "name": "La Vida Da Vuelta",
-      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
         "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 244000,
       "name": "Una Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
-      },
-      "artists": [
-        {
-          "name": "Yosi Fuentes",
-          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "QUIERO",
         "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 227646,
       "name": "QUIERO",
       "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
+      },
+      "artists": [
+        {
+          "name": "Yosi Fuentes",
+          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
     },
     {
       "added_at": "2024-08-23 04:00:00",

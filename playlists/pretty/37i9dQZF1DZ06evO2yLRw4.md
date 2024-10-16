@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,320 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,328 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 32 | [flagpole sitta](https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [BRAINDEAD](https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv) | 3:35 |
 | 33 | [California Halo Blue](https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:53 |
 | 34 | [Seven Sticks of Dynamite](https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 4:06 |
-| 35 | [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 |
-| 36 | [Dark Matter](https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod) | 2:35 |
+| 35 | [Dark Matter](https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod) | 2:35 |
+| 36 | [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 |
 | 37 | [Slam \(Angel Miners\)](https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 4:48 |
 | 38 | [We Are All Insane](https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm) | 3:31 |
 | 39 | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Groove Continental: Side A](https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 50 | [Miracle Man](https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:23 |
 | 51 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 
-Snapshot ID: `ZwsNgAAAAAA7O12u9XeOp0X10HdCUD+7`
+Snapshot ID: `ZwxfAAAAAADn+dtc+SKoMLG6/+ZCFyxs`

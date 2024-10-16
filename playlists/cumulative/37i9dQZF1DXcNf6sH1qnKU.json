@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Eyedazzler",
+        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312537,
+      "name": "Dozen",
+      "url": "https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv"
+    },
+    {
+      "album": {
         "name": "Way Beyond Blue",
         "url": "https://open.spotify.com/album/4hcPh4wVibkzYUpsxSwGvJ"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 157000,
       "name": "For the Damaged Coda",
       "url": "https://open.spotify.com/track/7jA5OcunWRSYXq98puhAX8"

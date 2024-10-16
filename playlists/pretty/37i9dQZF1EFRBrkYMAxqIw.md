@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 61 | [Just Because I'm Okay](https://open.spotify.com/track/6czPBedtyYptPzCs9puGhq) | [Harvest Son](https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/1r60ujMAc6UEVCrOtembWK) | 3:17 |
 | 62 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
 | 63 | [Origami](https://open.spotify.com/track/3ptUPCHJcd54Yd57BH4pnX) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Origami](https://open.spotify.com/album/6h7sxgwYeFRWodzvuFd5T4) | 3:19 |
-| 64 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
-| 65 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/6eP1RwJU8t1F11kpg0Dg4Y) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:34 |
+| 64 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/6eP1RwJU8t1F11kpg0Dg4Y) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:34 |
+| 65 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
 | 66 | [He Won't Know](https://open.spotify.com/track/033PfaPCfbVDHCEHCRKfRF) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [He Won't Know](https://open.spotify.com/album/3oJ8BFFJ19MPMvjl4qk7wc) | 3:24 |
 | 67 | [Someday Best](https://open.spotify.com/track/379vGZukU3B77EWs8uXbfO) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:13 |
 | 68 | [Boys Do Cry](https://open.spotify.com/track/1gK4smjjI1rJWH8KzStaRI) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/1Y9CHStZf17ywRzOYAhYhC) | 2:46 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 107 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 108 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AbeyqAAAAADVvOot2iRu0kLdjdqnx5pl`
+Snapshot ID: `Abe4FgAAAADD1ZGpUdLnKByAMfgsQmz7`

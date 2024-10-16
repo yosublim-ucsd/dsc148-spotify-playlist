@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 122430,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 122462,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAD6z7B8GhaIbqJQ61sGIfgF",
+  "snapshot_id": "ZwxfAAAAAAAmy5GS+6CvKWH+3hh3U7NQ",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 137386,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
+      "duration_ms": 154786,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 154786,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
+      "duration_ms": 137386,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
     },
     {
       "added_at": null,

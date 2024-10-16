@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 56 min
+73 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ay Les Voy de Nuevo \(En Vivo\)](https://open.spotify.com/track/3WYLaOOQs6OlZtWb2VYrRZ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 3:15 | 2024-01-29 |  |
 | [Bien Pilas \- En Vivo](https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Bien Pilas \(En Vivo\)](https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg) | 1:58 | 2024-01-29 |  |
 | [Bueno para Lo Mal](https://open.spotify.com/track/32K8tXYpqGNPPcMYQyx8Ml) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Hombres de Ley](https://open.spotify.com/artist/1rX6xWlSLwHejshQZzJPnv) | [Bueno para Lo Mal](https://open.spotify.com/album/4LVOHVtCGN4OxBCmKkplpl) | 4:33 | 2024-01-29 |  |
-| [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 | 2024-01-29 |  |
+| [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 | 2024-01-29 | 2024-10-16 |
 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 | 2024-01-29 |  |
 | [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 | 2024-01-29 |  |
@@ -76,6 +76,7 @@
 | [Situaciones de la Calle](https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:25 | 2024-01-29 |  |
 | [Soy Chapito Soy Amigo \(En Vivo\)](https://open.spotify.com/track/0Y0lKXho3LtYi6vcEG4Esf) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:22 | 2024-01-29 | 2024-04-10 |
 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 | 2024-01-29 |  |
+| [Turbo Cheyenne \(En Vivo\)](https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:36 | 2024-10-16 |  |
 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 |  |
 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 | 2024-01-29 |  |
 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 | 2024-01-29 | 2024-07-27 |

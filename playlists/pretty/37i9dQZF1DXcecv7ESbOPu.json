@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 216575,
+  "num_followers": 216577,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Winter Baby / New Jersey Blues",
+        "url": "https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 152770,
+      "name": "Winter Baby / New Jersey Blues",
+      "url": "https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -919,7 +935,7 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "SAMESAME",
+        "name": "SAMESAME feat. Izza Gara",
         "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
       },
       "artists": [
@@ -933,7 +949,7 @@
         }
       ],
       "duration_ms": 218181,
-      "name": "SAMESAME",
+      "name": "SAMESAME (feat. Izza Gara)",
       "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
     },
     {

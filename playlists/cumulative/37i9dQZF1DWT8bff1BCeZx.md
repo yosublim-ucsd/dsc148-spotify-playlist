@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-171 songs - 13 hr 19 min
+172 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-08-04 |  |
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2023-04-06 | 2023-07-02 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 |  |
-| [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 |  |
+| [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 | 2024-10-16 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-06-25 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 | 2024-05-21 |
 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 | 2024-10-11 |  |
@@ -158,6 +158,7 @@
 | [Umbrella](https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Membrane](https://open.spotify.com/artist/0tRGPaX1RkNsyDbz42Vtsg), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [Umbrella](https://open.spotify.com/album/5oAg51Z7DMqZvqnuW4390Z) | 3:08 | 2024-09-13 |  |
 | [W.O.W \(Walking On Water\) \- Reprise](https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [W.O.W \(Walking On Water\) \[Reprise\]](https://open.spotify.com/album/5ferhImBZxXX8CSe2f7Gf8) | 8:04 | 2023-09-29 | 2023-10-09 |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 | 2024-09-27 |
+| [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:26 | 2024-04-12 | 2024-04-19 |
 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 | 2023-04-06 | 2023-12-15 |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123709,
+  "num_followers": 123702,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "TFDI",
         "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 306466,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Still as the Night",
-        "url": "https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa"
-      },
-      "artists": [
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        }
-      ],
-      "duration_ms": 197239,
-      "name": "Still as the Night",
-      "url": "https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Still as the Night",
+        "url": "https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 197239,
+      "name": "Still as the Night",
+      "url": "https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "little light (acoustic version)",
-        "url": "https://open.spotify.com/album/5Ge3ITd23jArA863UlzHP9"
-      },
-      "artists": [
-        {
-          "name": "Lewis Watson",
-          "url": "https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R"
-        }
-      ],
-      "duration_ms": 256415,
-      "name": "little light - acoustic version",
-      "url": "https://open.spotify.com/track/6PRotAx0lUWP0bHBr6jm42"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "call me when you land",
         "url": "https://open.spotify.com/album/3IJmWElpsCmDmzZyemFc1h"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 92453,
       "name": "call me when you land",
       "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "little light (acoustic version)",
+        "url": "https://open.spotify.com/album/5Ge3ITd23jArA863UlzHP9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Watson",
+          "url": "https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R"
+        }
+      ],
+      "duration_ms": 256415,
+      "name": "little light - acoustic version",
+      "url": "https://open.spotify.com/track/6PRotAx0lUWP0bHBr6jm42"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Colors (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 323008,
-      "name": "Colors - Acoustic",
-      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 199179,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Colors (Acoustic)",
+        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 323008,
+      "name": "Colors - Acoustic",
+      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 196200,
       "name": "The Bad Guy",
       "url": "https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Chapter 2",
+        "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Sophia",
+      "url": "https://open.spotify.com/track/093KMwH96ZwZRZn2lKoX9Z"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Funeral (feat. James Bay)",
         "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 154013,
       "name": "Funeral (feat. James Bay)",
       "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Chapter 2",
-        "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Sophia",
-      "url": "https://open.spotify.com/track/093KMwH96ZwZRZn2lKoX9Z"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

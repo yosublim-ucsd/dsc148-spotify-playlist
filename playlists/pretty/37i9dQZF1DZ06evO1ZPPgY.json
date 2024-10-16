@@ -1,12 +1,12 @@
 {
-  "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 220972,
+  "description": "This Is Barry White. Los temas esenciales, todos en una lista.",
+  "num_followers": 220988,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACWnclagq5c6C7IaPgaPa4c",
+  "snapshot_id": "ZwxfAAAAAAAYA3kVlH8v+ngMPPhToncw",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 184466,
-      "name": "More Than Anything, You're My Everything",
-      "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
+      "duration_ms": 237426,
+      "name": "It's Only Love Doing Its Thing",
+      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 237426,
-      "name": "It's Only Love Doing Its Thing",
-      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
+      "duration_ms": 184466,
+      "name": "More Than Anything, You're My Everything",
+      "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
     },
     {
       "added_at": null,

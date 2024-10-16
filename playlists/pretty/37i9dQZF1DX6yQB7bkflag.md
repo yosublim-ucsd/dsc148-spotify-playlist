@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,159 likes - 132 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,145 likes - 132 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

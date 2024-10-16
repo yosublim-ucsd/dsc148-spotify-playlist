@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-102 songs - 8 hr 34 min
+103 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-02-03 |  |
 | [Rindu Tapi Jauh](https://open.spotify.com/track/3SbYOFXV6n6C7FxJVWISY9) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Rindu Tapi Jauh](https://open.spotify.com/album/6eJl7AILdiuhn6Ur8qE4Zh) | 4:04 | 2024-05-17 |  |
 | [Saktenane](https://open.spotify.com/track/38JRCDnXTA9XG58jJnhh6l) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane](https://open.spotify.com/album/5RFmA98QgQqRBtEcErNAUX) | 5:21 | 2023-09-13 |  |
+| [Saktenane 3 \- Acoustic Version](https://open.spotify.com/track/0BSwdsK4gbsIS0ZPbMybgz) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane 3 \(Acoustic Version\)](https://open.spotify.com/album/4B484BneJhZhZzSzj6SFSV) | 6:17 | 2024-10-15 |  |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2021-09-08 |  |
 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-13 |  |
 | [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 | 2023-04-13 |  |

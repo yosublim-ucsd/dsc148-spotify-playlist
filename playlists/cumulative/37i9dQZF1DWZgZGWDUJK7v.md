@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: This is a Campus Romance Series\(대충 캠퍼스로맨스임\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-218 songs - 13 hr 16 min
+219 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8) | 3:13 | 2024-08-10 |  |
 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 | 2022-06-20 | 2024-08-11 |
 | [Missing you at the night](https://open.spotify.com/track/2yligKIUYBMtw9XW8CfjN2) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Oh, Boy! OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/1uhGglTdvY0sFWq99dCEyw) | 3:18 | 2023-06-13 | 2024-08-11 |
-| [Monologue](https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP) | [JaeHan](https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv) | [A Shoulder to Cry On \(Original Audio Drama Soundtrack\)](https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC) | 3:13 | 2024-04-05 |  |
+| [Monologue](https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP) | [JaeHan](https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv) | [A Shoulder to Cry On \(Original Audio Drama Soundtrack\)](https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC) | 3:13 | 2024-04-05 | 2024-10-16 |
 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 | 2022-05-09 | 2024-05-10 |
 | [Moonlit Nights](https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [Naver Webtoon Nano Machine OST Part\. 1](https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2) | 4:15 | 2024-08-10 |  |
 | [My 20th Twenty](https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe) | [Park Jin Joo](https://open.spotify.com/artist/05AYUT9lXm5E4N2Z2wVlXm) | [My 20th Twenty \(Original Webdrama Sountrack, Pt\. 1\)](https://open.spotify.com/album/71EhGfqFpVNw0fsLfgyyfx) | 3:42 | 2023-04-18 | 2024-09-30 |
@@ -138,6 +138,7 @@
 | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz) | 3:07 | 2023-06-13 |  |
 | [Pont Alexandre iii \(Nth Romance X KIMMUSEUM\)](https://open.spotify.com/track/1JfGO5Y59Ly5KK5cjncV1r) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Pont Alexandre iii \(Nth Romance X KIMMUSEUM\)](https://open.spotify.com/album/2LhHwUyIqFp8dlJc6OGxGT) | 2:45 | 2022-05-09 | 2023-12-11 |
 | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR) | 3:37 | 2022-09-19 | 2024-08-11 |
+| [Remember my love \(Bunny and Guys X Solji\)](https://open.spotify.com/track/4oBgJxXgZjd9b46yt6sCEO) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Remember my love \(Bunny and Guys X Solji\)](https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O) | 3:34 | 2024-10-10 |  |
 | [Reminisce](https://open.spotify.com/track/1sEzRGv6CMdCDjaAskPDCR) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Reminisce](https://open.spotify.com/album/1Cw2pkPhAdMgC4Rbxvw3hY) | 4:04 | 2023-05-15 | 2024-04-19 |
 | [Reminisce](https://open.spotify.com/track/4rawC7AAxKfUdDB75IVTXu) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Reminisce](https://open.spotify.com/album/6FJeK4tNoD7IOBVdSOr3Zq) | 4:04 | 2023-01-13 | 2024-05-10 |
 | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/track/5qYNQiXaRyUV2JBux6kIXv) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/album/15WI2IO8kqv9cChrbc65A2) | 3:27 | 2022-05-09 | 2023-12-11 |

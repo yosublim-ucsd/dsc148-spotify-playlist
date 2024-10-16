@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: Jay Park\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: KISS OF LIFE\)
 
 760 songs - 1 day 16 hr 30 min
 

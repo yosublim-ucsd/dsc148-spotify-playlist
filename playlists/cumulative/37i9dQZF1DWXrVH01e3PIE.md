@@ -4,7 +4,7 @@
 
 > KHEA & C.R.O  en la casa del Trap Argentino.
 
-337 songs - 16 hr 5 min
+338 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 | 2023-02-17 | 2024-04-27 |
 | [Star](https://open.spotify.com/track/6VSt5xYZtM9576SbMBZG1l) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Star](https://open.spotify.com/album/0fyBNvSaylRBFIjtIzLopH) | 3:16 | 2022-01-21 | 2023-01-14 |
 | [SUBIDÓN](https://open.spotify.com/track/1ssssn5yKcbad3IDFHMON4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [SUBIDÓN](https://open.spotify.com/album/4CWTxKNjbnjbSr71MIiFxF) | 2:18 | 2023-08-04 | 2024-02-17 |
+| [SUNDAY](https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SUNDAY](https://open.spotify.com/album/6OQCwKo6nKn6qGmZ11VZMN) | 2:56 | 2024-10-15 |  |
 | [Superpoderes](https://open.spotify.com/track/4BHCQ6e9Ig5fpPqQuLMNHl) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Superpoderes](https://open.spotify.com/album/1mcR90ap9C4fw4UihjXvNt) | 2:39 | 2022-08-26 | 2023-05-27 |
 | [Surfeando el Tsunami](https://open.spotify.com/track/5VxQlDyKX3gpdOXKTXUngX) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Surfeando el Tsunami](https://open.spotify.com/album/6zeSnARpo1iYSwPhgdfKdv) | 2:41 | 2022-01-21 | 2023-10-21 |
 | [T.O.P](https://open.spotify.com/track/0n7FYkpKt7bQ61jolNhV78) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [T.O.P](https://open.spotify.com/album/6WWovEYDB1vBgqhSG8LfDB) | 2:39 | 2022-08-19 | 2022-09-03 |

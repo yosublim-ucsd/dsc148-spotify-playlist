@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 444746,
+  "num_followers": 444770,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Si Me Voy (with The Mar\u00edas)",
         "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
       },
@@ -59,22 +79,6 @@
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -103,22 +107,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 243234,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "Disco de Oro",
-      "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "Disco de Oro",
+      "url": "https://open.spotify.com/track/1Wm8HQmsWZr1JFqnNLdhMI"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Primer encuentro",
         "url": "https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm"
       },
@@ -755,6 +735,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 187640,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -807,22 +823,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 192340,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Algo Especial",
-        "url": "https://open.spotify.com/album/4BcuC8fbH9k6kQtBsTLpx0"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Algo Especial",
-      "url": "https://open.spotify.com/track/6iolHBXBb1PpgvOP4jPlpr"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 215807,
       "name": "Ya no nos hablamos",
       "url": "https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Algo Especial",
+        "url": "https://open.spotify.com/album/4BcuC8fbH9k6kQtBsTLpx0"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Algo Especial",
+      "url": "https://open.spotify.com/track/6iolHBXBb1PpgvOP4jPlpr"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Un d\u00eda m\u00e1s",
         "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 202126,
       "name": "Un d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "La Ternura",
         "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 199173,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
       "artists": [
         {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         }
       ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 198914,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "G CLASS",
         "url": "https://open.spotify.com/album/5R8MCA9qPj2nulH42BeCHE"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 194039,
       "name": "G CLASS",
       "url": "https://open.spotify.com/track/0HaADF00v1QZQr5tcY4URU"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 198914,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
     },
     {
       "added_at": "2024-10-04 04:00:00",

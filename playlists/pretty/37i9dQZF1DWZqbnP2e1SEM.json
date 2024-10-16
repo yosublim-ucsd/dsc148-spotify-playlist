@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321190,
+  "num_followers": 321184,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1519,42 +1519,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 157595,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 187883,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "EYAH (You'll Be Alright)",
         "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
       },
@@ -1575,6 +1539,42 @@
       "duration_ms": 175748,
       "name": "EYAH (You'll Be Alright)",
       "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 187883,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 157595,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sima Agua (feat. Mayra Andrade)",
-        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Sima Agua (feat. Mayra Andrade)",
-      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "The Miracle Makers",
         "url": "https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44"
       },
@@ -1695,18 +1675,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
+        "name": "Sima Agua (feat. Mayra Andrade)",
+        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
       },
       "artists": [
         {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
         }
       ],
-      "duration_ms": 182143,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
+      "duration_ms": 227333,
+      "name": "Sima Agua (feat. Mayra Andrade)",
+      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "All My Ladies",
-        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
       },
       "artists": [
         {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         }
       ],
-      "duration_ms": 153840,
-      "name": "All My Ladies",
-      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
+      "duration_ms": 182143,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1755,6 +1739,22 @@
       "duration_ms": 223384,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "All My Ladies",
+        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "All My Ladies",
+      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 218507,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1947,22 +1947,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+        "name": "Back (feat. Flirta D)",
+        "url": "https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         },
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
         }
       ],
-      "duration_ms": 198019,
-      "name": "Waiting For Tonight",
-      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+      "duration_ms": 187927,
+      "name": "Back (feat. Flirta D)",
+      "url": "https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF"
     }
   ],
   "unique_name": "Island Anthems",

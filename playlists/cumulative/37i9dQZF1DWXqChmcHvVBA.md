@@ -4,7 +4,7 @@
 
 > No es cumbia, tampoco reggaetón\. Foto: Kenia OS & La Joaqui.
 
-233 songs - 10 hr 48 min
+234 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ando RKT \(feat\. Keko DJ\)](https://open.spotify.com/track/4YeVTQkFFMUM3HHnkMGLhG) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [Ando RKT \(feat\. Keko DJ\)](https://open.spotify.com/album/2vx8AxbgNe0dV5vOvhHyYq) | 2:30 | 2024-02-26 | 2024-04-08 |
 | [Ando RKT \- Remix](https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [Ando RKT \(Remix\)](https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt) | 2:30 | 2023-12-15 |  |
 | [Anoche Te Llamé Borracho](https://open.spotify.com/track/5LwCCgRzAkxyTEbb3NyTV0) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Anoche Te Llamé Borracho](https://open.spotify.com/album/0YHyAx4Fh3P6k81WyoLW2b) | 2:25 | 2024-02-16 | 2024-05-18 |
+| [Antes Que Me Vaya](https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Celda 4](https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW) | 3:35 | 2024-10-15 |  |
 | [Asi Vivo](https://open.spotify.com/track/43LYVil5JvuBvKn7AYq8lO) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Asi Vivo](https://open.spotify.com/album/5hFFCg6NPxoYKLqZcj48Fo) | 2:38 | 2024-08-23 |  |
 | [Auto Al Piso](https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Auto Al Piso](https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy) | 2:54 | 2023-12-15 | 2024-09-21 |
 | [Azote \- Remix](https://open.spotify.com/track/6862W0OJNwhytsXSpCQZ5k) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Azote \(Remix\)](https://open.spotify.com/album/7uFvIYuaRywnVcpPKYNd5y) | 3:46 | 2023-12-15 |  |

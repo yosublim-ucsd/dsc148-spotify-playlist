@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Happy New Year",
+        "url": "https://open.spotify.com/album/0TyHvhfwR8cUIXOEmp9t2o"
+      },
+      "artists": [
+        {
+          "name": "Daniel Patarava",
+          "url": "https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/5xA2xOTd3QgI2QfqXD3Wcm"
+    },
+    {
+      "album": {
         "name": "Have I Told You Lately",
         "url": "https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu"
       },

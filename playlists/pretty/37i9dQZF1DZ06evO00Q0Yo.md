@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli\. The essential tracks, all in one playlist.
+> This is Flo Milli\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,032 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,040 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 15 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
 | 16 | [Edible \(feat\. Gunna\)](https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:56 |
 | 17 | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bundles 2 \(feat\. Flo Milli, Taylor Girlz\)](https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O) | 3:20 |
-| 18 | [DUH!](https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 2:11 |
-| 19 | [Whole Package \(feat\. Flo Milli\)](https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 2:26 |
+| 18 | [Whole Package \(feat\. Flo Milli\)](https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 2:26 |
+| 19 | [DUH!](https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 2:11 |
 | 20 | [Neva \(feat\. Monaleo\)](https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:37 |
 | 21 | [Bed Time](https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:48 |
 | 22 | [Special \(feat\. Skilla Baby & Flo Milli\)](https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Special \(feat\. Skilla Baby & Flo Milli\)](https://open.spotify.com/album/4dmYcRXZCVL4W98DoRTbJe) | 2:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 50 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Girls Gone Duh](https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A) | 2:58 |
 | 51 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
 
-Snapshot ID: `ZwsNgAAAAAC9H5W+7YaQsJ2fd4kJIsrE`
+Snapshot ID: `ZwxfAAAAAADuZC6xxmGTdztlj3yu2uit`

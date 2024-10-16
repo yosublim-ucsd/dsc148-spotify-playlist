@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 80344,
+  "num_followers": 80368,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "The Mountain Is You",
-        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "The Mountain Is You",
-      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "The Mountain Is You",
+        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 196210,
+      "name": "The Mountain Is You",
+      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 190195,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1087,6 +1083,26 @@
       "duration_ms": 249523,
       "name": "Fighting For - (Hailey Whitters Version)",
       "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
       },
       "artists": [
         {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 190195,
-      "name": "Fields",
-      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1223,34 +1239,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
       },
       "artists": [
         {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191566,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

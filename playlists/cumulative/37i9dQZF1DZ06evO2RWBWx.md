@@ -2,7 +2,7 @@
 
 ### [This Is imase](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx)
 
-> This is imase。アーティストの代表曲をひとつのプレイリストに。
+> This Is imase\. Los temas esenciales, todos en una lista.
 
 38 songs - 2 hr 7 min
 

@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-528 songs - 22 hr 36 min
+530 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-12-07 | 2022-05-21 |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2023-10-05 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-12-07 | 2022-03-18 |
+| [Hope Eternal](https://open.spotify.com/track/6GvQPlQorNwMFqDS3DkLbU) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Hope Eternal](https://open.spotify.com/album/4ROGSC2ytUc4aDKP2tyMOJ) | 2:48 | 2024-10-15 |  |
 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 | 2024-01-05 |  |
 | [Hopeful](https://open.spotify.com/track/2Gy4DgPptxn1ERnqefNTSM) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Hopeful](https://open.spotify.com/album/0Qw7YmBKDoghXSWtZ9Zj67) | 2:59 | 2024-08-23 |  |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-06-07 |  |
@@ -285,7 +286,7 @@
 | [Melodrome](https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Melodrome](https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk) | 2:51 | 2021-12-07 | 2022-02-16 |
 | [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2021-12-07 | 2023-01-27 |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-12-07 | 2023-10-05 |
-| [Memoirs](https://open.spotify.com/track/1GMMCBRboxvDYnm7oOFBNO) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Memoirs](https://open.spotify.com/album/2IgIZfVGaNycbjNv6egtRe) | 2:03 | 2022-10-14 |  |
+| [Memoirs](https://open.spotify.com/track/1GMMCBRboxvDYnm7oOFBNO) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Memoirs](https://open.spotify.com/album/2IgIZfVGaNycbjNv6egtRe) | 2:03 | 2022-10-14 | 2024-10-16 |
 | [Memories](https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Memories](https://open.spotify.com/album/10jbRX3Xdwagm2xs54Gb4j) | 2:00 | 2022-01-18 | 2023-10-05 |
 | [Mend Fences](https://open.spotify.com/track/0tORg30nNgobvxNPeS2J5r) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [2 6/8's](https://open.spotify.com/album/1nOBI1Q1nABv8n0LAf7z4b) | 3:00 | 2023-01-26 | 2024-03-20 |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-12-07 | 2024-09-25 |
@@ -484,6 +485,7 @@
 | [The Wanderer](https://open.spotify.com/track/6BUuhyI6wqIO3N0FMopfOC) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Wanderer](https://open.spotify.com/album/0aBHhkCZz14KhXojiJHHWl) | 3:30 | 2024-02-13 |  |
 | [The wind](https://open.spotify.com/track/7FKB0MIXYg8Umwa1UWt2ur) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [The wind](https://open.spotify.com/album/4veQnMsuik4JKs5msFYX94) | 2:06 | 2023-10-23 |  |
 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 | 2022-06-07 | 2023-10-05 |
+| [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 | 2024-10-15 |  |
 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 | 2022-10-14 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2022-12-22 | 2024-05-24 |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-22 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,554 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,552 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manasaagide](https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2), [Abhishek Bangera](https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D) | [Manasaagide](https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO) | 2:38 |
 | 2 | [Sanchari](https://open.spotify.com/track/35Y4JnKCyaRFEvAjSJ8da9) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Sanchari](https://open.spotify.com/album/4GYgujBBza8uMCuPAxxiTi) | 5:02 |
-| 3 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 |
+| 3 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 |
 | 4 | [Mande Bisi](https://open.spotify.com/track/3rwZ5L9pB3uCVXAPIVNg2L) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [RaiSon](https://open.spotify.com/artist/7BeOC4noWoC7o7zTeHkVJc) | [Mande Bisi](https://open.spotify.com/album/7zYHOKb68Hj6oZ6nM4WB5p) | 3:32 |
 | 5 | [Nanna Hudugi Nenapu](https://open.spotify.com/track/2DaCNqtHUw6tAdNBLhIoZR) | [Mayur Ambekallu](https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY), [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Bhanuprakash Jois](https://open.spotify.com/artist/6NrL0YoRUzbe4NWCHONnOB) | [Nanna Hudugi Nenapu](https://open.spotify.com/album/5LoOa3E7EOO8DfEMsbXOHz) | 3:18 |
 | 6 | [Asali Banna](https://open.spotify.com/track/0cRfO2sZOvRj5j1OwsVvak) | [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg), [DJ Lethal A](https://open.spotify.com/artist/6RVM49jvPqk6em0FMPZQ8X) | [Asali Banna](https://open.spotify.com/album/3f36xHYgOHnm652MFWCyBP) | 3:50 |

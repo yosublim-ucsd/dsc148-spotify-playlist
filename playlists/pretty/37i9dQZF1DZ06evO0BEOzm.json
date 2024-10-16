@@ -1,12 +1,12 @@
 {
-  "description": "This Is Megan Thee Stallion. Los temas esenciales, todos en una lista.",
-  "num_followers": 287595,
+  "description": "This is Megan Thee Stallion. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 287648,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAwPVP1M6lQ1I6QrB6I0EZR",
+  "snapshot_id": "ZwxfAAAAAADI86QuJ7mDs48qTGktj7Jl",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 113429,
-      "name": "Megan's Piano",
-      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+      "duration_ms": 118518,
+      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
     },
     {
       "added_at": null,
@@ -259,6 +263,22 @@
       "duration_ms": 206461,
       "name": "B.A.S. (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 113429,
+      "name": "Megan's Piano",
+      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
     },
     {
       "added_at": null,
@@ -295,26 +315,6 @@
       "duration_ms": 171067,
       "name": "Body",
       "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "HOW I LOOK (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
     },
     {
       "added_at": null,
@@ -587,26 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
-        "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
-      "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
+      "duration_ms": 154433,
+      "name": "Ungrateful (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
     },
     {
       "added_at": null,
@@ -627,22 +623,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+        "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+        "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
       },
       "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 154433,
-      "name": "Ungrateful (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
+      "duration_ms": 207000,
+      "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+      "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 172155,
+      "name": "Gift & A Curse",
+      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 172155,
-      "name": "Gift & A Curse",
-      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
     },
     {
       "added_at": null,

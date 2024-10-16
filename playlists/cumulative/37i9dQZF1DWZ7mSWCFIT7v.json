@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Do Lixo Ouri\u00e7o Ganha",
+        "url": "https://open.spotify.com/album/31f68bZVdnBFx6nhjkzwQZ"
+      },
+      "artists": [
+        {
+          "name": "Raar",
+          "url": "https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "Do Lixo Ouri\u00e7o Ganha",
+      "url": "https://open.spotify.com/track/5v9aevluGi1W5ti4hLOuEg"
+    },
+    {
+      "album": {
         "name": "Ardour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
       },
@@ -6432,7 +6450,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 152827,
       "name": "Wiegenmusik",
       "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"

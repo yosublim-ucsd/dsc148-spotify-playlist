@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,513,202 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,513,154 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 51 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
 | 52 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 |
 | 53 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 |
-| 54 | [Rei do Luau \- Infusão](https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 2:54 |
-| 55 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
+| 54 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
+| 55 | [Rei do Luau \- Infusão](https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 2:54 |
 | 56 | [Espera a Primavera \- Acústico](https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Espera a Primavera \(Acústico\)](https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4) | 4:14 |
 | 57 | [Energia Surreal \- Acústica](https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Energia Surreal \(Acústica\)](https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc) | 2:57 |
 | 58 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |

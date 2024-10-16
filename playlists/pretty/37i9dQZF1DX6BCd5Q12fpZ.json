@@ -419,6 +419,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
+      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
-      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Hold Me Closer (Eurovision Version)",
-        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Hold Me Closer - Eurovision Version",
-      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 173812,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Hold Me Closer (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Hold Me Closer - Eurovision Version",
+      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Grand Prix - Greatest Hits",
-        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
-      },
-      "artists": [
-        {
-          "name": "The Eurosingers",
-          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
-        }
-      ],
-      "duration_ms": 181355,
-      "name": "A-Ba-Ni-Bi - 1978, Israel",
-      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Is It True?",
         "url": "https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180573,
       "name": "Is It True?",
       "url": "https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Grand Prix - Greatest Hits",
+        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
+      },
+      "artists": [
+        {
+          "name": "The Eurosingers",
+          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
+        }
+      ],
+      "duration_ms": 181355,
+      "name": "A-Ba-Ni-Bi - 1978, Israel",
+      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "She Got Me",
+        "url": "https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "She Got Me",
+      "url": "https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "It's Been a While",
         "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 168960,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "You are the only one",
-        "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
-      },
-      "artists": [
-        {
-          "name": "Sergey Lazarev",
-          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
-        }
-      ],
-      "duration_ms": 186891,
-      "name": "You are the only one",
-      "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
     }
   ],
   "unique_name": "Eurovision Party",

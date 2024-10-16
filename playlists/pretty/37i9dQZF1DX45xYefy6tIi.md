@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Jelly Roll and ESPN team up for a playlist celebrating “The Greatest Story Ever Played” as the hunt to crown a National Champion begins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,245 likes - 89 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,300 likes - 89 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get By](https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By](https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW) | 2:40 |
+| 1 | [Get By \- College Football Edition](https://open.spotify.com/track/3UlylFCWSvSCpBqgwC6FCE) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By \(College Football Edition\)](https://open.spotify.com/album/1zQxGvgXQz9UzhEAvcY5k1) | 2:40 |
 | 2 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 |
 | 3 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 4 | [Somebody Save Me \(feat\. Jelly Roll\)](https://open.spotify.com/track/7Hhyd8Qcm5jMDvj1YCpMhW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Somebody Save Me \(feat\. Jelly Roll\)](https://open.spotify.com/album/0B2lD0gY47LYXSxPOzxrXh) | 3:50 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 88 | [STRANGE FRIENDS](https://open.spotify.com/track/3FW4X3cgPYtL7yla6YyPfu) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [STRANGE FRIENDS](https://open.spotify.com/album/4t7gJ5vOuIDtQtULQcqKR5) | 2:34 |
 | 89 | [the me i was](https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:00 |
 
-Snapshot ID: `ZwiiwAAAAAB7QR1V/SDXd3fTYWO2QdH+`
+Snapshot ID: `Zw7YhQAAAACbkzuoQnZRbpkvHXkywu0l`

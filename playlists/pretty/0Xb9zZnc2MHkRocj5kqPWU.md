@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,365 likes - 151 songs - 8 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,362 likes - 151 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

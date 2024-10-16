@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Sultan Al Murshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,860 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,865 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 23 | [Regoaak](https://open.spotify.com/track/0WDQvg1SEL6rgwfFmgxHe7) | [Hatem Fahmy](https://open.spotify.com/artist/1cAEzDzhESfOrcN9lPQXIR) | [Regoaak](https://open.spotify.com/album/2I2ni6BEYpQlCgahVaKa3R) | 3:35 |
 | 24 | [Enta Eli](https://open.spotify.com/track/3J7sclIMiseZABX8RedFoh) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Enta Eli](https://open.spotify.com/album/4si6u0GkICCUzzthCzSkzq) | 2:34 |
 | 25 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 |
-| 26 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 |
+| 26 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 |
 | 27 | [ولا صحبه احلى](https://open.spotify.com/track/5abjiC8O2jUGyXhFozLhOc) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [ولا صحبه احلى](https://open.spotify.com/album/4SP39vn0J6IBX3HlnPNqGO) | 3:21 |
 | 28 | [Kam Molahza](https://open.spotify.com/track/4ZCLvKj9wtAX5HE0TWBihS) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [كام ملاحظة](https://open.spotify.com/album/4N1Lhxoue6GRiMnUtaWrIk) | 3:15 |
 | 29 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 |

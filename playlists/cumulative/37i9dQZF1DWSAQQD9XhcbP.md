@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-136 songs - 7 hr 33 min
+137 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Driving Home for Christmas](https://open.spotify.com/track/5IVrfmg1eeDdHCD4TJZwvK) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Driving Home for Christmas](https://open.spotify.com/album/1q9hcTbgfH9d2rWK82sbIr) | 3:48 | 2021-12-23 | 2022-11-11 |
 | [Driving Home for Christmas](https://open.spotify.com/track/6oAbElppy9E7hcp5Wjvh3T) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:48 | 2021-12-23 | 2022-11-12 |
 | [Driving Home for Christmas](https://open.spotify.com/track/70j4eEbliNTlcjMc3ZUPIR) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Driving Home for Christmas](https://open.spotify.com/album/3lkwhwqbhPzmraMH7uDJ72) | 3:48 | 2021-12-23 | 2022-07-29 |
+| [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 | 2024-10-15 |  |
 | [First Christmas](https://open.spotify.com/track/2CE1KhKOw23t0CLjfHUPN0) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [First Christmas](https://open.spotify.com/album/4DwaF4awFjl0lum2icD9S1) | 3:25 | 2022-11-12 |  |
 | [first winter](https://open.spotify.com/track/2G6D7SyHsZ727FDjUoDTrL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 2:56 | 2021-12-23 | 2022-11-13 |
 | [first winter](https://open.spotify.com/track/2yvLGTo8QhsyJ7S5XK6XE5) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7vQqhPBC5yTwK8rNHChhEA) | 2:56 | 2021-12-23 |  |
@@ -63,7 +64,7 @@
 | [I Believe in Father Christmas \- 2017 \- Remaster](https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [The Anthology: A Musical Journey](https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr) | 3:33 | 2022-12-05 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-23 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/1w9L9fIwzau66Old8bYW5F) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:23 | 2022-12-05 | 2024-04-19 |
-| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/1ipD9uq7lzGAwGjfjXzdoa) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 2:51 | 2021-12-23 |  |
+| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/1ipD9uq7lzGAwGjfjXzdoa) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 2:51 | 2021-12-23 | 2024-10-16 |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 | 2022-11-12 |  |
 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 | 2022-11-12 |  |
 | [I Saw Mommy Kissing Santa Claus \- Spotify Holiday Single](https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH) | 2:02 | 2021-12-23 |  |

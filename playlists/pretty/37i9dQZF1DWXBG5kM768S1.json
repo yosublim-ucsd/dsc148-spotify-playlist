@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 76412,
+  "num_followers": 76423,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 230973,
       "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
       "artists": [
         {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
         }
       ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Dragens hule",
-        "url": "https://open.spotify.com/album/4PMO17zfBf0xj3mfle6R4t"
-      },
-      "artists": [
-        {
-          "name": "deLillos",
-          "url": "https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "Dragens hule - Single Edit",
-      "url": "https://open.spotify.com/track/4eC9J68hN55GgCRhj7Y32Y"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Aldri i livet",
         "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Dragens hule",
+        "url": "https://open.spotify.com/album/4PMO17zfBf0xj3mfle6R4t"
+      },
+      "artists": [
+        {
+          "name": "deLillos",
+          "url": "https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N"
+        }
+      ],
+      "duration_ms": 205517,
+      "name": "Dragens hule - Single Edit",
+      "url": "https://open.spotify.com/track/4eC9J68hN55GgCRhj7Y32Y"
     }
   ],
   "unique_name": "Norske viser",

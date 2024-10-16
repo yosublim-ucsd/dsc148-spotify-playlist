@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80640,
+  "num_followers": 80666,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "One Sixty",
+        "url": "https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "One Sixty",
+      "url": "https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "JOY (Push The Button)",
         "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 200930,
       "name": "My World",
       "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "One Sixty",
-        "url": "https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "One Sixty",
-      "url": "https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 198189,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "PASSION - VIP",
         "url": "https://open.spotify.com/album/3W74zsPQTF9P6hI6i67mvq"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 152450,
       "name": "PASSION - VIP",
       "url": "https://open.spotify.com/track/72sGTK4uLQvW7n73nG2Kw6"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 198189,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Stop Dawdling / The Streets",
-        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
         }
       ],
-      "duration_ms": 265454,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
+      "duration_ms": 253960,
+      "name": "Business As Usual (night shift mix)",
+      "url": "https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma"
     }
   ],
   "unique_name": "New UK Garage",

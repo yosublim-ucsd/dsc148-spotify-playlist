@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70058,
+  "num_followers": 70057,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACJsQlzkrzDQznjFG1bKa4e",
+  "snapshot_id": "ZwxfAAAAAADZRZ4kSdc7AVgiGLT/3PXa",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 219831,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clair Obscur",
         "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 245866,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 219831,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 146598,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broken Boy (feat. Iggy Pop)",
         "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 146598,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 158400,
-      "name": "I'm Going Away Smiling",
-      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
+      "duration_ms": 163013,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+      "duration_ms": 158400,
+      "name": "I'm Going Away Smiling",
+      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tainted Lunch",
         "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 69389,
       "name": "Rules of the Game",
       "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 150453,
-      "name": "La Javanaise",
-      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arista Heritage Series: Iggy Pop",
-        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 167560,
-      "name": "I'm Bored",
-      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
+      "duration_ms": 150453,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
     },
     {
       "added_at": null,

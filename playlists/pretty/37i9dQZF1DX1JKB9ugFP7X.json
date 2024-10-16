@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24202,
+  "num_followers": 24209,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Qu\u00e9 Bueno Que Llegaste",
-        "url": "https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        },
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        }
-      ],
-      "duration_ms": 275522,
-      "name": "Qu\u00e9 Bueno Que Llegaste",
-      "url": "https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 160677,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0H6YdUU7vTO69drCvWkdyr"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 Bueno Que Llegaste",
+        "url": "https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        }
+      ],
+      "duration_ms": 275522,
+      "name": "Qu\u00e9 Bueno Que Llegaste",
+      "url": "https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 301120,
-      "name": "La Casa del Amor Nocturno",
-      "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 255591,
       "name": "la noche de ayer",
       "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 301120,
+      "name": "La Casa del Amor Nocturno",
+      "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "PURA",
         "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 134425,
       "name": "PURA",
       "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Borracha en un Ba\u00f1o Ajeno",
         "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 240531,
       "name": "Borracha en un Ba\u00f1o Ajeno",
       "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 332542,
       "name": "Teoria Espacial (Remix)",
       "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "POKITO",
-        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "POKITO",
-      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "POKITO",
+        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Regresar\u00e1s \u2606",
-        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Regresar\u00e1s \u2606",
-      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Emocionalmente Tuya",
         "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 250475,
       "name": "Emocionalmente Tuya",
       "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Regresar\u00e1s \u2606",
+        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Regresar\u00e1s \u2606",
+      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
       },
       "artists": [
         {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
       "artists": [
         {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
         }
       ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     }
   ],
   "unique_name": "ElectroPop",

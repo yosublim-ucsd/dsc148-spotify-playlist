@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-306 songs - 20 hr 12 min
+307 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [La Invasión](https://open.spotify.com/track/7uqeuY4SURHXcZRWZtDLZB) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Háblame de Horror](https://open.spotify.com/album/2rX58yPHKhvLx9pHWzQiH1) | 2:34 | 2021-09-24 | 2022-07-21 |
 | [La Llorona](https://open.spotify.com/track/5BMX18foe41Ize8rIPOnpz) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [La Llorona](https://open.spotify.com/album/4QXBFcxkFAE7PJKO1HUzJz) | 4:01 | 2021-09-24 | 2022-07-29 |
 | [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 | 2021-09-24 | 2024-04-19 |
-| [La Marcha de la Bronca](https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs) | [Gervasio](https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW) | [Gervasio](https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O) | 4:01 | 2021-09-24 |  |
+| [La Marcha de la Bronca](https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs) | [Gervasio](https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW) | [Gervasio](https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O) | 4:01 | 2021-09-24 | 2024-10-16 |
 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 | 2021-09-24 |  |
 | [La Maza](https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Cuba Classics 1: Silvio Rodriguez](https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD) | 5:51 | 2021-09-24 |  |
 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 | 2021-09-24 |  |
@@ -299,6 +299,7 @@
 | [Sólo Le Pido A Dios](https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Desenchufado](https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI) | 4:08 | 2021-09-24 | 2024-04-19 |
 | [Tantas Tierras](https://open.spotify.com/track/0OrHVtEKQKRyAvJrqVLEKt) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 4:23 | 2024-10-07 |  |
 | [Te Esperé](https://open.spotify.com/track/5sFypobYt8cfnqN6o96nxF) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Te Esperé](https://open.spotify.com/album/2VjZbi68lWBFE2WkChGviu) | 3:25 | 2021-09-24 | 2022-07-25 |
+| [Tenía Razón](https://open.spotify.com/track/70w46IqgWmwPxikD1gqUjh) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Rompecabezas](https://open.spotify.com/album/3KNvp3z1tf0eL7xZ5NzAQD) | 4:05 | 2024-10-15 |  |
 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2022-03-18 |  |
 | [Tlatelolco \- En Vivo](https://open.spotify.com/track/6vGkFecQbCUoHXXswCpsPH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.Efectivos del Rock, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4dSsKeQQP2D3LbnIKiBBHc) | 5:12 | 2021-09-24 | 2022-07-02 |
 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 | 2021-09-24 |  |

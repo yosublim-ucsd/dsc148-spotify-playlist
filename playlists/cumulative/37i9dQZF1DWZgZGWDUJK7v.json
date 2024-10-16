@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 193500,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP"
@@ -2394,6 +2394,24 @@
       "duration_ms": 217813,
       "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
       "url": "https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT"
+    },
+    {
+      "album": {
+        "name": "Remember my love (Bunny and Guys X Solji)",
+        "url": "https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O"
+      },
+      "artists": [
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Remember my love (Bunny and Guys X Solji)",
+      "url": "https://open.spotify.com/track/4oBgJxXgZjd9b46yt6sCEO"
     },
     {
       "album": {

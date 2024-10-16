@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Omar Courtz.
 
-958 songs - 2 day 4 hr 38 min
+959 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2021-12-17 | 2022-12-21 |
 | [Tamagotchi](https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/1Z6JQqwz2U8Py6lsYh8j8P) | 2:31 | 2023-02-24 | 2023-03-02 |
 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL), [Sticks House](https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 | 2023-03-01 | 2023-09-30 |
+| [TAMBIÉN](https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 2:19 | 2024-10-15 |  |
 | [Tapate \(with Ak4:20\)](https://open.spotify.com/track/4tckYfU2DJXdCqBlLWdiEX) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Tapate \(with Ak4:20\)](https://open.spotify.com/album/1iiK3tCDF1N66QxF4YSJfg) | 3:11 | 2022-09-02 | 2022-09-10 |
 | [Tarea](https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 2:31 | 2023-11-17 | 2023-11-25 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-13 |  |

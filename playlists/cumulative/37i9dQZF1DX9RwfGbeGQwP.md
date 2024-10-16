@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,479 songs - 2 day 7 hr 41 min
+1,480 songs - 2 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [capricorn](https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [capricorn](https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG) | 2:04 | 2023-02-24 |  |
 | [Caribbean Cruise](https://open.spotify.com/track/3HNl45sHxFMUV7QnhuyBjS) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c), [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj), [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Caribbean Cruise](https://open.spotify.com/album/3HEHUhIOaoelkGUdppj3uF) | 2:19 | 2022-07-22 | 2022-11-12 |
 | [Carlton u better dance](https://open.spotify.com/track/5SUBn3zy2t5jAk0WoHAi6N) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Carlton u better dance](https://open.spotify.com/album/4oGguYP7Iio2dzXXbNs3JU) | 2:46 | 2022-10-28 |  |
+| [carp](https://open.spotify.com/track/5sHYEt9ctuosoiYxthnk06) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [carp](https://open.spotify.com/album/1R4FoRXITc8vJkKRtFsNf2) | 1:47 | 2024-10-04 |  |
 | [cascade](https://open.spotify.com/track/66DPObizbVuxeLf2yjvCx2) | [sound butler](https://open.spotify.com/artist/6aSAkIrQshhK1BKhiPxh0O) | [the sound is served](https://open.spotify.com/album/1czaSl9IOCmuP1RthQq6p4) | 2:38 | 2022-01-27 | 2022-09-30 |
 | [Cashmere](https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Cashmere](https://open.spotify.com/album/1MtYJCV0I8jNyWabqS7t3M) | 2:23 | 2022-05-13 | 2022-11-26 |
 | [Cassis](https://open.spotify.com/track/0fERk8rJySrdXAFYwzfJ50) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Cassis](https://open.spotify.com/album/5x6ya97jZmSdOnIEwD6g7f) | 2:04 | 2022-08-19 | 2023-01-13 |
@@ -1201,7 +1202,7 @@
 | [Stacks](https://open.spotify.com/track/7eN7K7LEeMS0zC1leXHa2G) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Stacks](https://open.spotify.com/album/1contCImnUdQuH7V4sH76R) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 | 2024-05-18 |
-| [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 |  |
+| [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 | 2024-10-16 |
 | [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-07-09 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 | 2024-05-18 |

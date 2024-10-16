@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4022432,
+  "num_followers": 4022276,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "It Will Rain",
         "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197732,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Malibu Nights",
         "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 286928,
       "name": "Malibu Nights",
       "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 210863,
       "name": "Forever",
       "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 347525,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "glisten",
         "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 169973,
       "name": "all the kids are depressed",
       "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Violent",
         "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 230320,
       "name": "If I Could Fly",
       "url": "https://open.spotify.com/track/5CRVwXGikmqzoRO6q7FeAg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 214525,
-      "name": "Paper Houses",
-      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Unlearn (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 155361,
       "name": "Unlearn (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 214525,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "bad ones",
-      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 204376,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "bad ones",
+      "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Chapter One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 223561,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Chapter One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 168586,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "5AM (Expanded Edition)",
-        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
       },
@@ -2783,6 +2767,22 @@
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "5AM (Expanded Edition)",
+        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "OFF",
-        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 159885,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Corrs Unplugged",
         "url": "https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 349666,
       "name": "Everybody Hurts - MTV Unplugged Live Version",
       "url": "https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 159885,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Nerve",
-        "url": "https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Nerve",
-      "url": "https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Everything Is Wrong",
         "url": "https://open.spotify.com/album/4JgnH6sdkW0fv3jU4ZgcT0"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 254000,
       "name": "When It's Cold I'd Like to Die",
       "url": "https://open.spotify.com/track/50I6fV2otuiDmigTtN6WMY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Meet The Vamps",
-        "url": "https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 218804,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5sdTTy6GnSHRJfWI2ZvAGe"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Meet The Vamps",
+        "url": "https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 218804,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5sdTTy6GnSHRJfWI2ZvAGe"
     },
     {
       "added_at": "2024-05-22 11:00:00",

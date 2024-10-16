@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Zudizilla\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 817 likes - 45 songs - 2 hr 49 min
 
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 13 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
 | 14 | [Faça a Coisa Certa](https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:14 |
 | 15 | [Steez](https://open.spotify.com/track/2pl34rFhkva9jvDMkReTxm) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Steez](https://open.spotify.com/album/5OSxlvN0gkzU3bpa17OXYy) | 2:55 |
-| 16 | [Uhuru](https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:26 |
+| 16 | [Nuvens](https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:48 |
 | 17 | [Pequenas Coisas](https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:16 |
 | 18 | [Intro 11](https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:14 |
 | 19 | [SONHOS IMPERIAIS](https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:18 |
-| 20 | [Nuvens](https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:48 |
+| 20 | [Uhuru](https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:26 |
 | 21 | [Alvo](https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:38 |
 | 22 | [Foco nos Planos](https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:56 |
 | 23 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 44 | [SALVE](https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:08 |
 | 45 | [TELA EM BRANCO](https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Monique Brito](https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:19 |
 
-Snapshot ID: `ZwsNgAAAAAAWesgofKcXhDoHmCt8atH+`
+Snapshot ID: `ZwxfAAAAAACpXNOJccuSx51Ljd4rrllW`

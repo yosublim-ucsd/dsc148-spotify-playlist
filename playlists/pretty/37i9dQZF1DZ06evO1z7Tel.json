@@ -1,12 +1,12 @@
 {
   "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
-  "num_followers": 33441,
+  "num_followers": 33449,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADcgX0kUL9ukLfSJuGWnd32",
+  "snapshot_id": "ZwxfAAAAAACWhn591tNZCdlBmVE2Qeur",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 176280,
-      "name": "El Vengador de Federales",
-      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
+      "duration_ms": 142160,
+      "name": "El Taxista Enamorado",
+      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 142160,
-      "name": "El Taxista Enamorado",
-      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Rosa De Castilla",
-        "url": "https://open.spotify.com/album/0Yt7GYHYoJseY90TbBqmZP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Se Vende Esta Casa",
-      "url": "https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 215186,
       "name": "El Capitan Fantasma",
       "url": "https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Rosa De Castilla",
+        "url": "https://open.spotify.com/album/0Yt7GYHYoJseY90TbBqmZP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Se Vende Esta Casa",
+      "url": "https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Cheque Al Portador",
-      "url": "https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 164053,
       "name": "Jorge Y El Comandante",
       "url": "https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Cheque Al Portador",
+      "url": "https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "El Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -475,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "El Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos De Carlos y Jose Vol. 1",
+        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "El Pasito Vaquero",
+      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches Eternas",
         "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
       },
@@ -487,6 +503,22 @@
       "duration_ms": 149826,
       "name": "El Sauce Y La Palma",
       "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Los Dos Contrabandos",
+      "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
     },
     {
       "added_at": null,
@@ -523,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Los Dos Contrabandos",
-      "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -555,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos De Carlos y Jose Vol. 1",
-        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
       "artists": [
         {
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 163786,
-      "name": "El Pasito Vaquero",
-      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 164826,
       "name": "Dos Seres Que Se Aman",
       "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "Dos Cruces En La Curva",
-      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168386,
-      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
-      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 193567,
-      "name": "Con Cartitas",
-      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
+      "duration_ms": 168386,
+      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
+      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gallo De San Juan",
-        "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 198626,
-      "name": "El Gallo De San Juan",
-      "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
+      "duration_ms": 193567,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 226786,
       "name": "Luis Mart\u00ednez De La Campana",
       "url": "https://open.spotify.com/track/32tVey2lJ2rOXiX7myvmE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gallo De San Juan",
+        "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "El Gallo De San Juan",
+      "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
     },
     {
       "added_at": null,

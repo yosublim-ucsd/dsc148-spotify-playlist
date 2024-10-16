@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Ayberk Serin
 
-139 songs - 6 hr 42 min
+140 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 | 2024-09-05 | 2024-09-28 |
 | [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 | 2024-06-20 |  |
 | [Hayal Etmek Güzel \- Surf Arabesk 1.3](https://open.spotify.com/track/2ETGa2vlZx4UBySs8S9qum) | [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hayal Etmek Güzel \(Surf Arabesk 1.3\)](https://open.spotify.com/album/1XxwfbQ5Km783RjWnm72HL) | 4:29 | 2024-06-20 |  |
+| [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 |  |
 | [İSTER MİYİM](https://open.spotify.com/track/56vARurB1wKqEtBgyt8PCx) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [İSTER MİYİM](https://open.spotify.com/album/0ilySrs4AofRXkf2wmWCsF) | 2:01 | 2024-06-20 | 2024-09-06 |
 | [İstila](https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [DANS İLLÜZYON](https://open.spotify.com/album/5jBFycgr33bOZb68ET8XfB) | 3:21 | 2024-06-20 | 2024-08-09 |
 | [Kalbim Vazgeçer mi?](https://open.spotify.com/track/008H1sk94IpxHMBCKmFmGI) | [Pınar Çubukçu](https://open.spotify.com/artist/0KrM666qwols9GarWiIMCD) | [Kalbim Vazgeçer mi?](https://open.spotify.com/album/7gPUDvmlP1T8ZKxYylVgHA) | 2:58 | 2024-09-05 | 2024-10-04 |
@@ -102,7 +103,7 @@
 | [Sevmişsin Gibi](https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk) | [Berkay Akman](https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1) | [Sevmişsin Gibi](https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW) | 3:05 | 2024-09-05 |  |
 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 | 2024-06-20 |  |
 | [Sonu Gelmesin](https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Sonu Gelmesin](https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj) | 2:57 | 2024-06-20 | 2024-09-16 |
-| [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
+| [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 | 2024-10-16 |
 | [Sosyopat Gülümseme](https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS) | [Sla](https://open.spotify.com/artist/24STYbqPydEIyXy8ys6VWB) | [Sosyopat Gülümseme](https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY) | 2:41 | 2024-07-12 | 2024-09-28 |
 | [Söyle](https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Söyle](https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S) | 2:32 | 2024-08-29 |  |
 | [söyle](https://open.spotify.com/track/0FzsSOV5EykJCiENiwA7CC) | [val](https://open.spotify.com/artist/5ykHN9vzOjk9a2AhjoPCUK), [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [söyle](https://open.spotify.com/album/2FYQF7rXRJr2Fs6XH3UZUM) | 3:21 | 2024-10-03 |  |

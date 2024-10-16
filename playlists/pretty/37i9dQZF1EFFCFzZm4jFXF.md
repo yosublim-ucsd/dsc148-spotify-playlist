@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 104 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 104 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 37 | [Your Eyes](https://open.spotify.com/track/5A0adi2wTWMlyLnsnC67MZ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:30 |
 | 38 | [Love Language](https://open.spotify.com/track/5RuUO9oLyJkgJMR5Vttn5G) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Love Language](https://open.spotify.com/album/2NAHu9dxwtIzNonKlFkiLQ) | 2:41 |
 | 39 | [The First Time](https://open.spotify.com/track/2I52iM20qEsd8Mupt25m1D) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Run to You](https://open.spotify.com/album/3EGJG8H67Ud2gvXVXjZkVt) | 3:47 |
-| 40 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
-| 41 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
+| 40 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
+| 41 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
 | 42 | [Saint of the Sinners](https://open.spotify.com/track/15ZpJOwfqGx6jbL4ruBeKp) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Confessional](https://open.spotify.com/album/4woFkP5VY3AY27DgZHBlgt) | 3:53 |
 | 43 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
 | 44 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 103 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 104 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbeyigAAAAAugg+0gtMYcGjp/n6HxBrT`
+Snapshot ID: `Abe4KgAAAADH95gPIZ2Cb6kqe6VOs0fT`

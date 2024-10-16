@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-187 songs - 11 hr 20 min
+188 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [how](https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:03 | 2022-09-15 | 2024-09-15 |
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2021-10-15 |  |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-10-15 |  |
-| [I Love Vertigo](https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Ludi](https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA) | 2:26 | 2021-10-15 | 2024-10-12 |
+| [I Love Vertigo](https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Ludi](https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA) | 2:26 | 2021-10-15 |  |
 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 | 2021-10-15 |  |
 | [I'm Dancing](https://open.spotify.com/track/7gGObhepvI410Fys1avsdp) | [Shabason & Krgovich](https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [I'm Dancing](https://open.spotify.com/album/1kZq4hmlccE9YqnrWJoJDc) | 5:31 | 2022-09-30 | 2024-06-03 |
 | [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 | 2021-10-15 | 2024-04-19 |
@@ -96,6 +96,7 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-01-14 | 2024-07-10 |
 | [Je t'aime encore](https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Je t'aime encore](https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ) | 3:37 | 2021-10-15 |  |
 | [Johnson](https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Johnson](https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg) | 5:38 | 2021-10-15 |  |
+| [Jumpstart](https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Jumpstart](https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD) | 2:51 | 2024-10-16 |  |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-29 |  |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-04-07 | 2024-07-10 |
 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2021-10-15 |  |
@@ -175,7 +176,7 @@
 | [Thrill](https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 4:20 | 2021-10-15 | 2024-04-19 |
 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 | 2021-10-15 |  |
 | [Too Much to Ask](https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/1X9OLhwnm7q3WK7DTL32hz) | 3:47 | 2021-10-15 | 2023-08-09 |
-| [Torch Song](https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Torch Song](https://open.spotify.com/album/0AgXsf94oHMjniz8qk4vqq) | 2:30 | 2021-10-15 |  |
+| [Torch Song](https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Torch Song](https://open.spotify.com/album/0AgXsf94oHMjniz8qk4vqq) | 2:30 | 2021-10-15 | 2024-10-16 |
 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 | 2022-04-18 |  |
 | [Trouble](https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Trouble / In My Head](https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja) | 3:06 | 2023-06-02 |  |
 | [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 | 2021-10-15 |  |
@@ -193,7 +194,7 @@
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-10-15 |  |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2021-10-15 |  |
 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 | 2022-01-21 | 2024-04-19 |
-| [Wonderful](https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Wonderful](https://open.spotify.com/album/5d4kZu2NTyeW7qzHUYrhid) | 2:58 | 2021-10-15 |  |
+| [Wonderful](https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Wonderful](https://open.spotify.com/album/5d4kZu2NTyeW7qzHUYrhid) | 2:58 | 2021-10-15 | 2024-10-16 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2021-10-15 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

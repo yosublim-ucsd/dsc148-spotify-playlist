@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-155 songs - 9 hr 42 min
+157 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Asmalibrasi](https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Asmalibrasi](https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw) | 4:14 | 2022-12-13 |  |
 | [Badai Telah Berlalu](https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Badai Telah Berlalu](https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9) | 4:55 | 2023-04-17 |  |
 | [Bahagia](https://open.spotify.com/track/31swUEisRXt0oEz3iM6MOy) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Bahagia](https://open.spotify.com/album/6DDxznSldww5bW8Zbi9EGg) | 3:42 | 2022-12-13 |  |
-| [Balada Insan Muda](https://open.spotify.com/track/7rt1ze8gO84v4k9vBvb7JB) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [Balada Insan Muda](https://open.spotify.com/album/6fo5cucV7PIbbnwT1Okx2I) | 4:53 | 2022-12-13 |  |
+| [Balada Insan Muda](https://open.spotify.com/track/7rt1ze8gO84v4k9vBvb7JB) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [Balada Insan Muda](https://open.spotify.com/album/6fo5cucV7PIbbnwT1Okx2I) | 4:53 | 2022-12-13 | 2024-10-16 |
 | [Bandung](https://open.spotify.com/track/7itshdCnfN3pbP88rQYHIr) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:47 | 2022-12-13 | 2024-06-19 |
 | [BARU](https://open.spotify.com/track/7GnbOaxU0kJSsI8HPHJ4jD) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [BARU](https://open.spotify.com/album/25wyGu62YUYxavEz9b1p2s) | 3:54 | 2023-03-14 | 2023-03-23 |
 | [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-06-05 |  |
@@ -68,7 +68,7 @@
 | [High School in Jakarta](https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/3QtwI1FUvH2kCD9Y5HaG9y) | 3:39 | 2022-12-13 |  |
 | [Hoolala](https://open.spotify.com/track/7misIHyXm0bSSXQTVoeKAD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:15 | 2022-12-13 | 2023-08-09 |
 | [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 | 2022-12-13 | 2023-06-08 |
-| [Inikah Cinta](https://open.spotify.com/track/6YsXid1FOtqxPlQB85xq7w) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/3oea1a9yO8jCAyEg47fQpT) | 3:44 | 2024-02-01 |  |
+| [Inikah Cinta](https://open.spotify.com/track/6YsXid1FOtqxPlQB85xq7w) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/3oea1a9yO8jCAyEg47fQpT) | 3:44 | 2024-02-01 | 2024-10-16 |
 | [Inikah Cinta](https://open.spotify.com/track/7r5qxtubYpPXYNSLX8CoGr) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu) | [Inikah Cinta](https://open.spotify.com/album/77q9eYQmTvAbuAWRLM1eof) | 3:45 | 2022-12-13 | 2024-04-19 |
 | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v) | 4:47 | 2024-10-14 |  |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-02-23 | 2023-04-18 |
@@ -98,6 +98,7 @@
 | [LESTARI MERDU](https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 4:47 | 2022-12-13 | 2024-07-06 |
 | [Lifetime \(Dimension\)](https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Green Banana](https://open.spotify.com/album/2h4MnsFmmZdXsqXqPESDc8) | 3:36 | 2023-09-20 | 2023-11-16 |
 | [love for u \(❤️4U\)](https://open.spotify.com/track/1cU7aqkCntWTZVcMusnHp1) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [love for u \(❤️4U\)](https://open.spotify.com/album/2mHmxlzaXf0yEuab0Up6wq) | 2:32 | 2024-01-31 | 2024-05-07 |
+| [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 | 2024-10-15 |  |
 | [Lugu](https://open.spotify.com/track/0VpYj9jndkaPDthq4edPyE) | [Celine & Nadya](https://open.spotify.com/artist/4OGf00YGOzQiuIjQdhiYTy) | [Love, Youth, You, Ch\. 1](https://open.spotify.com/album/7j9m5lJCGc6PTyFH9KimAz) | 3:17 | 2024-09-02 |  |
 | [MAMONEY](https://open.spotify.com/track/6wWzU1FELh7ioiuQtMZ7NA) | [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7) | [MAMONEY](https://open.spotify.com/album/5j8kr0to3ALKqG9K8knJZD) | 3:04 | 2022-12-13 | 2023-11-16 |
 | [Manusia Kuat](https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:04 | 2022-12-13 |  |
@@ -161,6 +162,7 @@
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2022-12-13 |  |
 | [Tunggu Aku](https://open.spotify.com/track/1lIGMeQY4mQRZmiZCGukDl) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 3:22 | 2023-07-13 |  |
 | [Tunggu Aku Di Jakarta](https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 5:07 | 2022-12-13 |  |
+| [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-15 |  |
 | [Yang Kusayang](https://open.spotify.com/track/07u51YjzguLY8v8XHQaBMd) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Yang Kusayang](https://open.spotify.com/album/4sZAdMtWkGYd1wI643Y2on) | 4:22 | 2022-12-13 | 2023-09-21 |
 | [You](https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [You](https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR) | 4:04 | 2022-12-13 | 2023-01-10 |
 

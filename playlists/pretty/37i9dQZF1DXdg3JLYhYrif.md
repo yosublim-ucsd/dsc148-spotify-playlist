@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,387 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,425 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 25 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
 | 26 | [Eu Quero Tchu Eu Quero Tcha](https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Eu Quero Tchu Eu Quero Tcha \- Single](https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt) | 2:39 |
 | 27 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 |
-| 28 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
-| 29 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
+| 28 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
+| 29 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 | 30 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
 | 31 | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b) | 3:26 |
 | 32 | [Meu Mundo](https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Hariel](https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [18K](https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo) | 4:44 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 55 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
 | 56 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
 | 57 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
-| 58 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
-| 59 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
+| 58 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
+| 59 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
 | 60 | [Caraca, Muleke!](https://open.spotify.com/track/5M8rc7DOM5MW1F8eP0OX9a) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Outro Dia, Outra História](https://open.spotify.com/album/78dAGSAzdGeWr7VmZIJdOB) | 2:50 |
 
 Snapshot ID: `ZIxWeAAAAABWUBpU08tSuug2aobmX1gF`

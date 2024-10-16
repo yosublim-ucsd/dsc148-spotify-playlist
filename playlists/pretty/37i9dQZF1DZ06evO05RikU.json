@@ -1,12 +1,12 @@
 {
   "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
-  "num_followers": 42417,
+  "num_followers": 42424,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABATJMsSy8lbh7vFdP+a5OO",
+  "snapshot_id": "ZwxfAAAAAAAWWJIgLP46BLLUllmRpF2v",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/4Dx4Nil4fH76FqRgEEWjwD"
-        }
-      ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/0R2cYqQ0pwNJ3Ii1kzj0kF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/4Dx4Nil4fH76FqRgEEWjwD"
+        }
+      ],
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/0R2cYqQ0pwNJ3Ii1kzj0kF"
     },
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 232655,
-      "name": "Lo siento (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 188333,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 232655,
+      "name": "Lo siento (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
     },
     {
       "added_at": null,

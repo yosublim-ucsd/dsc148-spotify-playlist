@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 210860,
       "name": "90s Rap Mashup",
       "url": "https://open.spotify.com/track/067ogyD1BIeZDh4UD0yV3Y"
@@ -7105,6 +7105,28 @@
     },
     {
       "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2jRlzfdS8kJ7t9S3Ee8YHp"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -8839,6 +8861,28 @@
     },
     {
       "album": {
+        "name": "California Gold",
+        "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
+    },
+    {
+      "album": {
         "name": "Oppenheimer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
       },
@@ -9207,6 +9251,24 @@
     },
     {
       "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -9338,7 +9400,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 230320,
       "name": "Ceci n'est pas une chanson triste",
       "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
@@ -10979,6 +11041,32 @@
     },
     {
       "album": {
+        "name": "COOLIN",
+        "url": "https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "COOLIN",
+      "url": "https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -12544,7 +12632,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
@@ -13216,6 +13304,24 @@
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
+    },
+    {
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
+      },
+      "artists": [
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
       "album": {
@@ -17810,7 +17916,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 104886,
       "name": "For Me",
       "url": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP"
@@ -17954,7 +18060,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT"
@@ -21793,6 +21899,24 @@
     },
     {
       "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -24948,6 +25072,28 @@
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
     },
     {
       "album": {
@@ -30542,7 +30688,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -31824,7 +31970,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 200785,
       "name": "Love Me Back",
       "url": "https://open.spotify.com/track/4t43d4WVhoUU9FZTq8tZmL"
@@ -41367,6 +41513,24 @@
     },
     {
       "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179034,
+      "name": "POUR ELLE",
+      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
+    },
+    {
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -41528,6 +41692,24 @@
       "duration_ms": 164571,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
+    },
+    {
+      "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2nrJYak41L06ktuU9hTJ7J"
     },
     {
       "album": {
@@ -42584,6 +42766,24 @@
     {
       "album": {
         "name": "Quitter",
+        "url": "https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz"
+    },
+    {
+      "album": {
+        "name": "Quitter",
         "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
       },
       "artists": [
@@ -42594,7 +42794,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
@@ -47747,6 +47947,24 @@
     },
     {
       "album": {
+        "name": "MAJESTIC",
+        "url": "https://open.spotify.com/album/4lZ9HpPoT0IvoMRkVH76FQ"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228256,
+      "name": "Sohneya",
+      "url": "https://open.spotify.com/track/1SGxa85INJEyH5SNA5r2OA"
+    },
+    {
+      "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
@@ -47882,7 +48100,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -48548,7 +48766,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -49536,6 +49754,24 @@
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "album": {
+        "name": "Suit and Tie (Sixteen Tons)",
+        "url": "https://open.spotify.com/album/0HFq313JlYDuIR4Viv51JF"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129560,
+      "name": "Suit and Tie (Sixteen Tons)",
+      "url": "https://open.spotify.com/track/0Q1lKJvnvThBEFTUpkDNsd"
     },
     {
       "album": {
@@ -51986,7 +52222,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -53456,7 +53692,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -53802,6 +54038,28 @@
       "duration_ms": 100367,
       "name": "TIMELESS (PLAYBOI CARTI x The Weeknd)",
       "url": "https://open.spotify.com/track/2Qyn3zKIq2S0gmMZJPvpzy"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "album": {
@@ -57672,7 +57930,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

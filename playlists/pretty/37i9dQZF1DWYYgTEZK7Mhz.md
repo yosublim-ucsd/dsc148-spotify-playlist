@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,314 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,327 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 28 | [Stessa spiaggia stesso mare](https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH) | [Piero Focaccia](https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK) | [Stessa spiaggia stesso mare](https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK) | 3:00 |
 | 29 | [Tintarella di luna](https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Ritratto di Mina: I singoli, Vol\. 1](https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN) | 2:59 |
 | 30 | [Pezzetini di bikini](https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Jolly LPJ 5018](https://open.spotify.com/album/1RR8kDBBb6wwYoOzTqv9VI) | 2:15 |
-| 31 | [Pinne, Fucile Ed Occhiali](https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:39 |
-| 32 | [Sei Diventata Nera](https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [I Marcellos Ferial](https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj) | 2:13 |
+| 31 | [Sei Diventata Nera](https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [I Marcellos Ferial](https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj) | 2:13 |
+| 32 | [Pinne, Fucile Ed Occhiali](https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:39 |
 | 33 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
 | 34 | [Andavo A Cento All'Ora](https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS) | 2:32 |
 | 35 | [Saint\-Tropez Twist](https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Peppino Di Capri](https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec) | 2:17 |

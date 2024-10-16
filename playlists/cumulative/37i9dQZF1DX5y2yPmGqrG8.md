@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-566 songs - 2 day 5 hr 58 min
+568 songs - 2 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [BTM Blau](https://open.spotify.com/track/4dkmuKPFVIDziqQK7BrbGb) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [BTM Blau](https://open.spotify.com/album/6zugigBgYg8n1bKNWP1Zka) | 2:22 | 2022-10-14 | 2022-10-28 |
 | [Burning Love](https://open.spotify.com/track/0YjoKktjL95d6bCszZits7) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Burning Love](https://open.spotify.com/album/7MLEP4Ik41myE0hJnFcjt2) | 5:50 | 2022-08-13 | 2022-09-28 |
 | [C.N.C.S.](https://open.spotify.com/track/2ZiiKpgE7q6BjCQ4tfr0dN) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 6:31 | 2021-10-06 | 2022-06-03 |
-| [C2 \- Misplaced in time](https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 2\)](https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm) | 4:42 | 2023-12-20 |  |
+| [C2 \- Misplaced in time](https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 2\)](https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm) | 4:42 | 2023-12-20 | 2024-10-16 |
 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 | 2022-03-30 | 2023-02-27 |
 | [Cabaraú](https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0) | 6:32 | 2022-03-30 | 2022-07-18 |
 | [Caged At Last](https://open.spotify.com/track/6SruU1URjdHmZQmo4oMBjo) | [Mister Water Wet](https://open.spotify.com/artist/5aqEOu3QIHCuqyYCVm9rwB) | [Top Natural Drum](https://open.spotify.com/album/2ljEWiS1VCpgLw9amVDLri) | 3:43 | 2023-01-12 | 2023-02-15 |
@@ -194,12 +194,13 @@
 | [Fallin Into Space](https://open.spotify.com/track/0mRI398jCGgDuJXoG79LSz) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:58 | 2022-03-30 | 2022-07-24 |
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2021-10-06 | 2022-02-17 |
 | [Fata Morgana 1](https://open.spotify.com/track/3mhaYYLCf3Eex5FzveLZ8S) | [Mynoda](https://open.spotify.com/artist/37TSFFv4sH9ssEk93pMPt4), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Fata Morgana](https://open.spotify.com/album/6CuNkx8H00E0nMAauEN4R4) | 16:29 | 2023-03-28 | 2023-05-09 |
-| [Fear of Flying](https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 5:39 | 2023-05-12 |  |
+| [Fear of Flying](https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 5:39 | 2023-05-12 | 2024-10-16 |
 | [Fearless](https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Fearless](https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd) | 8:02 | 2021-10-06 | 2022-06-01 |
 | [FEEL](https://open.spotify.com/track/2YtT1ROTQiF50xImbf0qnn) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 4:33 | 2021-10-06 | 2022-07-26 |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2021-10-06 | 2022-07-22 |
 | [Ferrum 3 \- Ana Quiroga remix](https://open.spotify.com/track/7hGNSYoNjrnpVSv9ddESvW) | [Electric Indigo](https://open.spotify.com/artist/7LnjB0MNQa2DC8MdvCWzlX), [Ana Quiroga](https://open.spotify.com/artist/0LzpbCP5pDAT9j35TevWVv) | [Ferrum Remixes](https://open.spotify.com/album/011RKSn3NBimE3w4QKzssl) | 4:37 | 2022-10-14 | 2022-10-28 |
 | [Fervedouro Dois](https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Fervedouro Dois](https://open.spotify.com/album/0OTWp01TdoAAqh6md5vOYz) | 4:01 | 2022-10-01 | 2022-10-15 |
+| [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 | 2024-10-16 |  |
 | [figure profane](https://open.spotify.com/track/5eibZ6ynR9JNS40QmSstwc) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Zach Frampton](https://open.spotify.com/artist/7FpvWkmacEAy2mmeCA0yLr) | [figure profane](https://open.spotify.com/album/60nhWK5jV15FUKzhwff7J5) | 4:23 | 2022-02-18 | 2022-07-29 |
 | [Fin août, début septembre](https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [Afterpoem](https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl) | 1:58 | 2023-03-03 | 2023-04-23 |
 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 | 2022-03-30 | 2022-08-01 |
@@ -464,6 +465,7 @@
 | [Tales From The Trash Stratum](https://open.spotify.com/track/7JIZlB5oRPiesFJpB0GIUZ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 3:28 | 2022-10-14 | 2022-10-28 |
 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 | 2022-01-13 | 2022-07-13 |
 | [Tchengo](https://open.spotify.com/track/1wtQAV53Hwb6Yh0W2eAkvn) | [Loop Guru](https://open.spotify.com/artist/0y46raHPv0ngB5KfMhS7lV) | [Duniya](https://open.spotify.com/album/1I9JHmK9pK9IvMtsqEdTYe) | 6:22 | 2021-10-06 | 2022-04-20 |
+| [Teclas Pálidas](https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm) | [Ismael Pinkler](https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx), [Nicolás Bacal](https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp) | [Nocturnos](https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9) | 5:27 | 2024-10-16 |  |
 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 | 2022-09-03 | 2022-10-15 |
 | [th1 \[evnslower\]](https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [th1 \[evnslower\]](https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4) | 11:08 | 2024-09-04 |  |
 | [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 | 2024-08-12 |  |

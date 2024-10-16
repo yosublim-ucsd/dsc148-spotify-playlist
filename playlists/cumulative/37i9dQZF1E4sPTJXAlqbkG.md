@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Summer Walker, Jhené Aiko, Tory Lanez and more
+> With Summer Walker, Jhené Aiko, Sonder and more
 
 613 songs - 1 day 10 hr 46 min
 

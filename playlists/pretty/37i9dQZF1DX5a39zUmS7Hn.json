@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Cure",
-  "num_followers": 503695,
+  "num_followers": 503937,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-08-28 23:20:30",
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+        "name": "The Wall (Remastered)",
+        "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+      "duration_ms": 379213,
+      "name": "Comfortably Numb - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
     },
     {
       "added_at": "2024-08-28 23:20:30",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-08-28 23:20:30",
       "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
+    },
+    {
+      "added_at": "2024-08-28 23:20:30",
+      "album": {
         "name": "Be Here Now (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
       },
@@ -751,34 +767,18 @@
     {
       "added_at": "2024-08-28 23:20:30",
       "album": {
-        "name": "The Wall (Remastered)",
-        "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g"
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 379213,
-      "name": "Comfortably Numb - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
-    },
-    {
-      "added_at": "2024-08-28 23:20:30",
-      "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": "2024-08-28 23:20:30",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-28 23:20:30",
       "album": {
-        "name": "Sound Affects",
-        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "That's Entertainment",
-      "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
-    },
-    {
-      "added_at": "2024-08-28 23:20:30",
-      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2024-08-28 23:20:30",
+      "album": {
+        "name": "Sound Affects",
+        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "That's Entertainment",
+      "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
     },
     {
       "added_at": "2024-08-28 23:20:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-28 23:20:30",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
-    },
-    {
-      "added_at": "2024-08-28 23:20:30",
-      "album": {
         "name": "The Seldom Seen Kid",
         "url": "https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 394173,
       "name": "One Day Like This",
       "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
+    },
+    {
+      "added_at": "2024-08-28 23:20:30",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
     }
   ],
   "unique_name": "Legends Only",

@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
@@ -3696,7 +3696,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 249000,
       "name": "Angu Vaana Konilu - From \"ARM\"",
       "url": "https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS"
@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 132922,
       "name": "Automotivo da Turbulencia",
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
@@ -4766,6 +4766,32 @@
       "duration_ms": 186950,
       "name": "Aynen",
       "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
+    },
+    {
+      "album": {
+        "name": "Devara Part 1 [TELUGU]",
+        "url": "https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174088,
+      "name": "Ayudha Pooja [TELUGU]",
+      "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
     },
     {
       "album": {
@@ -8205,6 +8231,28 @@
     },
     {
       "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2jRlzfdS8kJ7t9S3Ee8YHp"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -9374,7 +9422,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
@@ -9660,10 +9708,28 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
+    },
+    {
+      "album": {
+        "name": "Can\u0131n Beni \u00c7ekti",
+        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193621,
+      "name": "Can\u0131n Beni \u00c7ekti",
+      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
     },
     {
       "album": {
@@ -9898,6 +9964,24 @@
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/4gZQPeoBzKNWKhIJuZYbwA"
+    },
+    {
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
       "album": {
@@ -11036,7 +11120,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
@@ -13752,6 +13836,28 @@
       "duration_ms": 182400,
       "name": "Dhundhala",
       "url": "https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ"
+    },
+    {
+      "album": {
+        "name": "Dia 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3JfBVupnDt9rPcJGzO5Nzs"
+      },
+      "artists": [
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199893,
+      "name": "Dia 1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3hOEoT2oxqpfFe7sjQrsgA"
     },
     {
       "album": {
@@ -22155,6 +22261,24 @@
     },
     {
       "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
         "name": "Heer Ranjha",
         "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
       },
@@ -24316,6 +24440,28 @@
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
     },
     {
       "album": {
@@ -27708,7 +27854,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
@@ -28048,6 +28194,24 @@
       "duration_ms": 210894,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "album": {
@@ -30290,6 +30454,24 @@
       "duration_ms": 178812,
       "name": "Liar",
       "url": "https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy"
+    },
+    {
+      "album": {
+        "name": "LID",
+        "url": "https://open.spotify.com/album/7KAE2VKLE6BMQIvhri7Ylf"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "LID",
+      "url": "https://open.spotify.com/track/5U8jvRKKzcc3XjBB2CNZaZ"
     },
     {
       "album": {
@@ -34290,7 +34472,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
@@ -37368,7 +37550,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 200423,
       "name": "Na\u00e7ar",
       "url": "https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph"
@@ -37848,7 +38030,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 277944,
       "name": "Nina",
       "url": "https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt"
@@ -46358,7 +46540,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
@@ -48873,6 +49055,28 @@
     },
     {
       "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "album": {
         "name": "YOUNGSTA",
         "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
       },
@@ -49854,6 +50058,24 @@
       "duration_ms": 194582,
       "name": "Solteiro For\u00e7ado - Boiadeira Internacional",
       "url": "https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR"
+    },
+    {
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
       "album": {
@@ -53520,7 +53742,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -54412,6 +54634,28 @@
       "duration_ms": 183047,
       "name": "Time Traveller",
       "url": "https://open.spotify.com/track/4IlemV6RBqoeleMsPiT9t4"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "album": {
@@ -55428,6 +55672,28 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "album": {
+        "name": "Tu Boda",
+        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Tu Boda",
+      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
       "album": {
@@ -57732,7 +57998,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 101420,
       "name": "void - super slowed",
       "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"

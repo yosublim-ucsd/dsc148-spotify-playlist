@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 143 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 143 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 11 | [Run to You](https://open.spotify.com/track/2SOUTN8rzGAkBr001HqAXe) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:37 |
 | 12 | [Surround Me](https://open.spotify.com/track/4aai1PoVGPcspMhmzOzpZN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:52 |
 | 13 | [Wish On An Eyelash](https://open.spotify.com/track/2XrMjGhpgMZp5qzD4iThEp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 0:58 |
-| 14 | [Raising Hell \(feat\. Big Freedia\)](https://open.spotify.com/track/14wPnCr1Z8CIHBVpnpcTVt) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:49 |
-| 15 | [Don't Let It Break Your Heart](https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:24 |
-| 16 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
+| 14 | [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 |
+| 15 | [Raising Hell \(feat\. Big Freedia\)](https://open.spotify.com/track/14wPnCr1Z8CIHBVpnpcTVt) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:49 |
+| 16 | [Don't Let It Break Your Heart](https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Walls](https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9) | 3:24 |
 | 17 | [True Feeling](https://open.spotify.com/track/6R1ArLLvqPvS3AHg9YgmrQ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:59 |
 | 18 | [Healing Hands](https://open.spotify.com/track/5NFkxKc6RO3qGuCdyVvKJb) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [LIFE](https://open.spotify.com/album/5NPUViV7mLNEGSsRBsdhpe) | 4:10 |
 | 19 | [Poetry](https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 4:09 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 142 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 143 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AbeygAAAAAB3mzDLMto9HOluuJwDyxaC`
+Snapshot ID: `Abe4NAAAAACbOLbNISnd7eQRNIWiSPaK`

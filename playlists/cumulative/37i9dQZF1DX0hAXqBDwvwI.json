@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 212476,
       "name": "give it back",
       "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
@@ -6913,6 +6913,28 @@
     },
     {
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u4e43\u30ea\u30ea\u30b5(CV: \u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz"
+        },
+        {
+          "name": "\u6a58 \u7f8e\u82b1\u8389(CV: \u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x"
+    },
+    {
+      "album": {
         "name": "Weathering With You",
         "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
       },
@@ -9380,7 +9402,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 246223,
       "name": "\u30d6\u30e9\u30c3\u30af\u30dc\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR"
@@ -9514,6 +9536,24 @@
       "duration_ms": 238666,
       "name": "\u30d7\u30ea\u30ba\u30e0",
       "url": "https://open.spotify.com/track/12ZIRTS8x9RBgasDg3q27J"
+    },
+    {
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230524,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
     },
     {
       "album": {

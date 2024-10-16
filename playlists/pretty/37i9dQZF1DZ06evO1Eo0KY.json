@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 485,
+  "num_followers": 486,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAVKqcX6NMT2x+Jofc70Q5p",
+  "snapshot_id": "ZwxfAAAAAADdR5pCHgbBANalZE7S4gEn",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 175507,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Latin Quarter, Pt. 1",
         "url": "https://open.spotify.com/album/664jQP42bq5pirZyL7ED02"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 137525,
       "name": "Razors",
       "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 175507,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
     },
     {
       "added_at": null,
@@ -667,22 +667,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+        "name": "OV3\u00b2",
+        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
       },
       "artists": [
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
         }
       ],
-      "duration_ms": 160362,
-      "name": "The Shocker",
-      "url": "https://open.spotify.com/track/6r9ZDxL5ioMRrrSaBO5seN"
+      "duration_ms": 155516,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
     },
     {
       "added_at": null,
@@ -707,26 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OV3\u00b2",
-        "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
         {
-          "name": "Di-Meh",
-          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
         }
       ],
-      "duration_ms": 155516,
-      "name": "True Religion",
-      "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
+      "duration_ms": 160362,
+      "name": "The Shocker",
+      "url": "https://open.spotify.com/track/6r9ZDxL5ioMRrrSaBO5seN"
     },
     {
       "added_at": null,
@@ -879,22 +879,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surf School",
-        "url": "https://open.spotify.com/album/6tt1KtheN86vec3CXvRZUz"
+        "name": "Death & Taxes",
+        "url": "https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT"
       },
       "artists": [
         {
-          "name": "Trankil Trankil",
-          "url": "https://open.spotify.com/artist/4oOS6koasRcz1xoStp1tgq"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Death & Taxes",
+      "url": "https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 222947,
-      "name": "Philosophe",
-      "url": "https://open.spotify.com/track/5zCHfnRrvOxttkKlJOLL3w"
+      "duration_ms": 168000,
+      "name": "YOD Body",
+      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
     },
     {
       "added_at": null,
@@ -919,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+        "name": "Surf School",
+        "url": "https://open.spotify.com/album/6tt1KtheN86vec3CXvRZUz"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Trankil Trankil",
+          "url": "https://open.spotify.com/artist/4oOS6koasRcz1xoStp1tgq"
         },
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 168000,
-      "name": "YOD Body",
-      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
+      "duration_ms": 222947,
+      "name": "Philosophe",
+      "url": "https://open.spotify.com/track/5zCHfnRrvOxttkKlJOLL3w"
     },
     {
       "added_at": null,
@@ -963,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death & Taxes",
-        "url": "https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT"
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
       "artists": [
         {
@@ -972,13 +992,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         }
       ],
-      "duration_ms": 190728,
-      "name": "Death & Taxes",
-      "url": "https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U"
+      "duration_ms": 179642,
+      "name": "Deliver Us from Evil (Remix)",
+      "url": "https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF"
     },
     {
       "added_at": null,
@@ -999,26 +1019,6 @@
       "duration_ms": 156981,
       "name": "Rent Due",
       "url": "https://open.spotify.com/track/1jUoM50qHfx2RnyaprnaIC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "Deliver Us from Evil (Remix)",
-      "url": "https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF"
     },
     {
       "added_at": null,

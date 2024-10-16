@@ -16831,6 +16831,24 @@
     },
     {
       "album": {
+        "name": "Only U",
+        "url": "https://open.spotify.com/album/4CbtHucn3enxtxGZZOwBK4"
+      },
+      "artists": [
+        {
+          "name": "Malixe",
+          "url": "https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/2mbAYauz4IJJK7K5a81pQh"
+    },
+    {
+      "album": {
         "name": "Only Way Is Up (feat. Izzy Bizu)",
         "url": "https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD"
       },

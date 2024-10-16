@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 30214,
+  "num_followers": 30218,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
-      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "War And Peace",
         "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Suzi Quatro",
-        "url": "https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW"
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
       },
       "artists": [
         {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Can the Can",
-      "url": "https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK"
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y"
+      "duration_ms": 214400,
+      "name": "Can the Can",
+      "url": "https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Back and Fourth",
         "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 238146,
       "name": "Bad Bad Boy",
       "url": "https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Suzi Quatro",
-        "url": "https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW"
+        "name": "The Complete UK Recordings",
+        "url": "https://open.spotify.com/album/3gyK04qL9Si5MgCidiVy1V"
       },
       "artists": [
         {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 233413,
-      "name": "48 Crash",
-      "url": "https://open.spotify.com/track/5DPVU9xTKDC2CizYp5WXT2"
+      "duration_ms": 241572,
+      "name": "The Wall Street Shuffle",
+      "url": "https://open.spotify.com/track/3HyZGwZAq9oQJQBzSyjs7Q"
     },
     {
       "added_at": "2024-07-12 14:53:15",

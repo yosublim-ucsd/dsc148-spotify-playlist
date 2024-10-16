@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Harmony of Stars",
       "url": "https://open.spotify.com/track/1b2jcwnf3JwuyWiG3xTPsp"
@@ -6420,7 +6420,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 225949,
       "name": "light",
       "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
@@ -9000,7 +9000,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
@@ -11638,6 +11638,24 @@
       "duration_ms": 240293,
       "name": "Till The End",
       "url": "https://open.spotify.com/track/6346CzN9QIthoAXNlhmDw4"
+    },
+    {
+      "album": {
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190784,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3SfryNlBaUld6yNcpUxzpS"
     },
     {
       "album": {

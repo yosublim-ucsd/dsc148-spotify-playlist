@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Saktenane 3 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4B484BneJhZhZzSzj6SFSV"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        },
+        {
+          "name": "Destya Eka",
+          "url": "https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377704,
+      "name": "Saktenane 3 - Acoustic Version",
+      "url": "https://open.spotify.com/track/0BSwdsK4gbsIS0ZPbMybgz"
+    },
+    {
+      "album": {
         "name": "Sampek Tuwek",
         "url": "https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD"
       },

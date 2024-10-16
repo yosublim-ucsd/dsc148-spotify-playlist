@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: LIT Killah & Nicki Nicole",
-  "num_followers": 665772,
+  "num_followers": 665771,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "GATA G",
+      "url": "https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 228916,
       "name": "ESE VATO",
       "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
-        "name": "EL CANTANTE DEL GHETTO",
-        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "GATA G",
-      "url": "https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 119354,
-      "name": "Detr\u00e1s del DJ",
-      "url": "https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 119354,
+      "name": "Detr\u00e1s del DJ",
+      "url": "https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "Fumando",
         "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "EL VIBE",
-        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 171552,
-      "name": "EL VIBE",
-      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "BEACHY",
         "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
@@ -2071,6 +2051,26 @@
       "duration_ms": 168000,
       "name": "BEACHY",
       "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "EL VIBE",
+        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 171552,
+      "name": "EL VIBE",
+      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "MALEANTE (feat. Yandel)",
+      "url": "https://open.spotify.com/track/2XoMzrF1UUnHKJoh7bhLMV"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
         "name": "Good Energy (Remix)",
         "url": "https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1"
       },
@@ -2283,26 +2303,6 @@
       "duration_ms": 214906,
       "name": "Good Energy - Remix",
       "url": "https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
-        "name": "EL CANTANTE DEL GHETTO",
-        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "MALEANTE (feat. Yandel)",
-      "url": "https://open.spotify.com/track/2XoMzrF1UUnHKJoh7bhLMV"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2591,30 +2591,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Afro Vibes",
-        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
       },
@@ -2635,6 +2611,30 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Uff",
-        "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "Uff",
-      "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "POEMA A TUS PROBLEMAS",
         "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 209857,
       "name": "POEMA A TUS PROBLEMAS",
       "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "Uff",
+      "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2803,6 +2803,22 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
+        "name": "ALMA</3",
+        "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 144260,
+      "name": "ALMA</3",
+      "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
         "name": "Mi Shorty",
         "url": "https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ"
       },
@@ -2831,30 +2847,6 @@
       "duration_ms": 186306,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
-        "name": "Dame Un Break (Remix)",
-        "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 262219,
-      "name": "Dame Un Break - Remix",
-      "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
     }
   ],
   "unique_name": "Vibras",

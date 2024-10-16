@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22331,
+  "num_followers": 22353,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABR5nCtHcSjAxut42LmNlZc",
+  "snapshot_id": "ZwxfAAAAAABPfGCOvCHO2PcDkwdrys8d",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 176457,
+      "name": "Papillon - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 161258,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 176457,
-      "name": "Papillon - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
     },
     {
       "added_at": null,
@@ -243,10 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly With His Song",
-        "url": "https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ"
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
       "artists": [
+        {
+          "name": "Norman Gimbel",
+          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
+        },
+        {
+          "name": "Charles Fox",
+          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
+        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
@@ -254,23 +262,7 @@
       ],
       "duration_ms": 63372,
       "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 200297,
-      "name": "The Way It Was",
-      "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
+      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
     },
     {
       "added_at": null,
@@ -291,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 245919,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -323,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
       "artists": [
         {
@@ -332,9 +308,25 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 133647,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+      "duration_ms": 245919,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 200297,
+      "name": "The Way It Was",
+      "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
     },
     {
       "added_at": null,
@@ -351,6 +343,22 @@
       "duration_ms": 138795,
       "name": "When the Bells Ring",
       "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 133647,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
     },
     {
       "added_at": null,
@@ -391,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 216625,
-      "name": "Story of You",
-      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -419,6 +411,22 @@
       "duration_ms": 190308,
       "name": "Shine - Solo Piano Version",
       "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 216625,
+      "name": "Story of You",
+      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
     },
     {
       "added_at": null,
@@ -535,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 154372,
-      "name": "Truth Vibrations",
-      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -563,6 +555,22 @@
       "duration_ms": 170337,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 154372,
+      "name": "Truth Vibrations",
+      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
     },
     {
       "added_at": null,
@@ -599,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 142402,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -631,26 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
       "artists": [
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "Hal David",
-          "url": "https://open.spotify.com/artist/4SneDShROaEhPgKm12KZ3W"
-        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 74977,
-      "name": "I Say A Little Prayer",
-      "url": "https://open.spotify.com/track/5EX3FKSygguEMobMVHM3Og"
+      "duration_ms": 142402,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD"
     },
     {
       "added_at": null,
@@ -671,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
+        "name": "Stolen Lullabies",
+        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
       "artists": [
+        {
+          "name": "The Gagliano Strings",
+          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
+        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 222048,
-      "name": "St Andrews",
-      "url": "https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0"
+      "duration_ms": 112072,
+      "name": "A Wondrous Path",
+      "url": "https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql"
     },
     {
       "added_at": null,
@@ -703,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stolen Lullabies",
-        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
       "artists": [
-        {
-          "name": "The Gagliano Strings",
-          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
-        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 112072,
-      "name": "A Wondrous Path",
-      "url": "https://open.spotify.com/track/4LCktC1BeDa10GK1BwqKql"
+      "duration_ms": 222048,
+      "name": "St Andrews",
+      "url": "https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0"
     },
     {
       "added_at": null,
@@ -887,6 +871,22 @@
       "duration_ms": 188697,
       "name": "Colours - Solo Piano Version",
       "url": "https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 237705,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
     }
   ],
   "unique_name": "This Is Alexis Ffrench",

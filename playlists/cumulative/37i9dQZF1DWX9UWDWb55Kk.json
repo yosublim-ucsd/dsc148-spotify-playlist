@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Drawing Room",
+        "url": "https://open.spotify.com/album/5M9BayikE0SjNp4PNpVZtr"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269479,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1i6mTfj9Nn2bYMsrkdqdSc"
+    },
+    {
+      "album": {
         "name": "Cinema Olympia - Caetano Raro & In\u00e9dito 67-74",
         "url": "https://open.spotify.com/album/2xl8IQKN9XCMoRl7xh30JI"
       },
@@ -958,26 +976,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250933,
-      "name": "Baby",
+      "name": "Baby - Ao Vivo",
       "url": "https://open.spotify.com/track/1tUZOu3WGC8aSaZ84oyGDf"
-    },
-    {
-      "album": {
-        "name": "Drawing Room",
-        "url": "https://open.spotify.com/album/5M9BayikE0SjNp4PNpVZtr"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "date_added": "2023-10-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 269479,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1i6mTfj9Nn2bYMsrkdqdSc"
     },
     {
       "album": {

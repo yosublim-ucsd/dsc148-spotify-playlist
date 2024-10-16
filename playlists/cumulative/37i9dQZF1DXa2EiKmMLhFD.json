@@ -4319,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Tunggu Apa Lagi",
+        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219352,
+      "name": "Tunggu Apa Lagi",
+      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
+    },
+    {
+      "album": {
         "name": "Tunjukkan Cintamu",
         "url": "https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD"
       },

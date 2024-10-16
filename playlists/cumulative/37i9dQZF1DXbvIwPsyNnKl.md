@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Robeldo Timido
 
-191 songs - 10 hr 54 min
+192 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Bad Type](https://open.spotify.com/track/1Nf8lo7CKSJLGHi4uT8EvL) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Guns and Roses](https://open.spotify.com/album/5P3G3lpZQ5ZJvLEC4Gyodh) | 3:07 | 2023-12-06 | 2024-02-15 |
 | [BAI NA BAI](https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV) | [Jae Bourgeoisie](https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na), [Izey Bleu](https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t) | [BAI NA BAI](https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD) | 2:35 | 2023-11-08 | 2024-02-29 |
+| [Bakante](https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT) | [Omar Baliw](https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K), [Rhyne](https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4) | [Bakante](https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO) | 4:04 | 2024-10-15 |  |
 | [Binibini](https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Binibini](https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp) | 2:34 | 2024-06-12 | 2024-08-15 |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 | 2024-02-22 |
 | [Blue Dreams](https://open.spotify.com/track/5pVvdDwAZxmUAJQt3XHwnG) | [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Blue Dreams](https://open.spotify.com/album/4i465DRqEPPqTS1nSRhPRG) | 3:49 | 2024-01-24 | 2024-08-29 |

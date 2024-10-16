@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 124 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 224 likes - 124 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 7 | [Heaven](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Heaven](https://open.spotify.com/album/20hpXtqd02hIOkQ8Xoj4dM) | 2:04 |
 | 8 | [Mixed Emotions](https://open.spotify.com/track/4kVpdy4mnZ8FLPw0hGV8hk) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:44 |
 | 9 | [Runaway](https://open.spotify.com/track/72RjHoPZPW3LZHgVS4akIy) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:42 |
-| 10 | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 |
-| 11 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
+| 10 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
+| 11 | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 |
 | 12 | [Angel \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7lO4AytU02GtoKMFWeMvyR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Wide Awake](https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY) | 3:09 |
 | 13 | [Rely On Me](https://open.spotify.com/track/5TRKlUDbL1cASdoB2YEqcM) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 2:54 |
 | 14 | [Air I Breathe \- Sub Focus & Wilkinson](https://open.spotify.com/track/0B6pOWMK4fV4YYtbe7cpHg) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Portals](https://open.spotify.com/album/6SC0Omssa5QQtX22zlZGEG) | 4:10 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 123 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 124 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbeyqAAAAADYd0ylQNEX0B9Mt+HJELUQ`
+Snapshot ID: `Abe4PgAAAACnoN8We5R5bV5+Si7JpRHg`

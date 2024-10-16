@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,837 likes - 220 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,866 likes - 220 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 8 | [A Different Man \- Main Theme](https://open.spotify.com/track/7JSvyls135zXrVKEUtafiF) | [Umberto Smerilli](https://open.spotify.com/artist/1A2bAcT6vy5YrPmSUoTPyM) | [A Different Man \(Original Soundtrack\)](https://open.spotify.com/album/4hdRS0jBzTz9VkXkiovchf) | 2:50 |
 | 9 | [Closing \(We Live in Time Original Soundtrack\)](https://open.spotify.com/track/08ojlcnkBKIdYfmMpBo0XS) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [Closing \(We Live in Time Original Soundtrack\)](https://open.spotify.com/album/2DZsp3qLJw4LTS5u7WnHQW) | 1:55 |
 | 10 | [Valhalla](https://open.spotify.com/track/2iwMiWOLogxv9JvecBWYm3) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Omer Benyamin](https://open.spotify.com/artist/40hRguYmaIZ2y3BpdvgvII), [Steven Doar](https://open.spotify.com/artist/4PMgWcJWZlbsMc4AcbRrtt) | [Twilight of the Gods \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0AfVESlPyukgMkyWo4ipnQ) | 2:34 |
-| 11 | [Lighting the Beacon](https://open.spotify.com/track/2JGvfDCxZ4ME4DsTrRDszP) | [Roshan Gunga](https://open.spotify.com/artist/0XayfES1TP4oDcGmHYvfRO) | [Sweet Bobby: My Catfish Nightmare \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2IOc87b2yNr5IBEcyGHm8f) | 2:06 |
-| 12 | [You Knew](https://open.spotify.com/track/24OoQEToYc8mjMEyvptY6T) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Girl Haunts Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29pZbUCJmvKBSa6iTczKEm) | 1:24 |
-| 13 | [Jellyfish](https://open.spotify.com/track/3XBpnyK546ZdM0w2QBYof2) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lL4G46M9Pxu5wnkSRnoj7) | 1:40 |
-| 14 | [Killer Heat Suite](https://open.spotify.com/track/2hG4QenRwieCio8bnFxHPG) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e) | [Killer Heat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bNe1b9Ycnx50d4DGZZ6MA) | 3:32 |
-| 15 | [Aubervilliers\-aux\-Bois](https://open.spotify.com/track/7tK7AtExPOydFQpGZTkZZd) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [White Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r7nwnLUzn5CBHzoaxJ8N3) | 2:18 |
+| 11 | [Aubervilliers\-aux\-Bois](https://open.spotify.com/track/7tK7AtExPOydFQpGZTkZZd) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [White Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r7nwnLUzn5CBHzoaxJ8N3) | 2:18 |
+| 12 | [Lighting the Beacon](https://open.spotify.com/track/2JGvfDCxZ4ME4DsTrRDszP) | [Roshan Gunga](https://open.spotify.com/artist/0XayfES1TP4oDcGmHYvfRO) | [Sweet Bobby: My Catfish Nightmare \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2IOc87b2yNr5IBEcyGHm8f) | 2:06 |
+| 13 | [You Knew](https://open.spotify.com/track/24OoQEToYc8mjMEyvptY6T) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Girl Haunts Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29pZbUCJmvKBSa6iTczKEm) | 1:24 |
+| 14 | [Jellyfish](https://open.spotify.com/track/3XBpnyK546ZdM0w2QBYof2) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lL4G46M9Pxu5wnkSRnoj7) | 1:40 |
+| 15 | [Killer Heat Suite](https://open.spotify.com/track/2hG4QenRwieCio8bnFxHPG) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e) | [Killer Heat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bNe1b9Ycnx50d4DGZZ6MA) | 3:32 |
 | 16 | [Scherzo for a Flightless Bird \(The Penguin Theme\) \- from "The Penguin"](https://open.spotify.com/track/7sQAaSaESzHulF3xt0aLtE) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [Scherzo for a Flightless Bird \(The Penguin Theme\) \[from "The Penguin"\]](https://open.spotify.com/album/21sLLNt7hoR9ceMYUKIJ9C) | 3:14 |
 | 17 | [Uprising Ending](https://open.spotify.com/track/6KACuXAi0TR3zoVXebB76J) | [Cho Young\-Wuk](https://open.spotify.com/artist/0qUHwGKZS1Q1hTe2Zbt2L6) | [Uprising \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HZHK6M97lJjHWPBAhOiIX) | 5:11 |
 | 18 | [Sudden Death \- Main Title](https://open.spotify.com/track/7eByZcYR5iXNmzF1zKnlVA) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Sudden Death \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6lM3Pee6BPwG3eUqfbYOXm) | 3:06 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 219 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 |
 | 220 | [Ripples in the Sand](https://open.spotify.com/track/6YuwwEkKJAbFm4QlBT4Xas) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Paul's Dream \(Dune: Music from the Soundtrack\)](https://open.spotify.com/album/5NPENYJdwcFMwMBlwyfw32) | 5:14 |
 
-Snapshot ID: `ZwkW0gAAAADnz3BQlyoz5EJi+uIOvTqm`
+Snapshot ID: `Zw4d2wAAAAB98zE3Xwm99BcRJeeUXFq1`

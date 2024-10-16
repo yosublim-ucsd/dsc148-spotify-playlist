@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,573 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,580 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 27 | [I've Been Waiting \- Live](https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Purpose Worship](https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH) | [Believe \(Live\)](https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4) | 7:08 |
 | 28 | [Happy \- Live](https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:18 |
 | 29 | [Fill Me Up / Overflow \- Medley/1 Mic 1 Take](https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [1 Mic 1 Take](https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1) | 5:07 |
-| 30 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
-| 31 | [Agnus Dei \- Live](https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 1:25 |
+| 30 | [Agnus Dei \- Live](https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 1:25 |
+| 31 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
 | 32 | [Forever At Your Feet](https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:23 |
 | 33 | [THIS IS A MOVE \(LIVE FROM GREENSBORO\)](https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TEAR OFF THE ROOF \(LIVE FROM THE HOLY CITY\)](https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A) | 7:08 |
-| 34 | [Gotta Believe](https://open.spotify.com/track/0N4upknEA6H03wbFoumjh8) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 2:50 |
-| 35 | [Burdens Down \- Live](https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:22 |
+| 34 | [Burdens Down \- Live](https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:22 |
+| 35 | [Gotta Believe](https://open.spotify.com/track/0N4upknEA6H03wbFoumjh8) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 2:50 |
 | 36 | [The Blood Hymns Medley \- Live](https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:47 |
 | 37 | [Hallelujah \(You Get The Glory\) \- Live](https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 2:44 |
 | 38 | [I Have Decided](https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 | 50 | [One Hallelujah](https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Hallelujah](https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn) | 5:45 |
 
-Snapshot ID: `ZwsNgAAAAACgkdfnFyWil2TTwLR/6Q0g`
+Snapshot ID: `ZwxfAAAAAABAJIcFFBWMQ84be5emrYfi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2024! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,071 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,067 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 94 | [Nota 100](https://open.spotify.com/track/3XqGBLVhC04xNCxRXB2pvF) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 2:48 |
 | 95 | [Rosa \(feat\. CONAN OSIRIS\)](https://open.spotify.com/track/0w224dseDmkVEslHsZfkG3) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [Rosa \(feat\. CONAN OSIRIS\)](https://open.spotify.com/album/210jbUrguMRYKHil7qrPLE) | 2:52 |
 | 96 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
-| 97 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 |
-| 98 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 |
+| 97 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 |
+| 98 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 |
 | 99 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
 | 100 | [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 |
 

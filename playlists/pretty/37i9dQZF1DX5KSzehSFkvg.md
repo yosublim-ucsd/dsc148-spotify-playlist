@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,654 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,680 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 29 | [BAMBARA](https://open.spotify.com/track/5EBSvoppcZtLqZ7kif2Mhz) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BAMBARA](https://open.spotify.com/album/4ZhiN2qHatPIIVWS6yWkLt) | 2:22 |
 | 30 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 |
 | 31 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
-| 32 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
-| 33 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
-| 34 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM \(الحمام\)](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 |
-| 35 | [Alwad Alwad](https://open.spotify.com/track/6n9pFAqPUrwgRa5IHwOePU) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Alwad Alwad](https://open.spotify.com/album/0eu7XFjwieYf4qXt3VCjwD) | 3:54 |
-| 36 | [jouj wjouh](https://open.spotify.com/track/7og4nJoCVU3AT67bR9l5hL) | [khalil guenich](https://open.spotify.com/artist/3ypFeqG4YdmOcibtlJynvd) | [jouj wjouh](https://open.spotify.com/album/70i2vMQAEKAp6wHqJfALY8) | 2:13 |
-| 37 | [Njik Droka](https://open.spotify.com/track/4qU4foaNOXg1Ngn7UPuv2W) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Njik Droka](https://open.spotify.com/album/48wSJobohI95jmrSt30KCD) | 2:53 |
-| 38 | [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 |
-| 39 | [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 |
-| 40 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 |
+| 32 | [Ana W Nti](https://open.spotify.com/track/4980zLaGgwv5ZE2K5Xv5BR) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Ana W Nti](https://open.spotify.com/album/2QQlptEkrMrBUH3uYshPHq) | 4:05 |
+| 33 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
+| 34 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
+| 35 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM \(الحمام\)](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 |
+| 36 | [Alwad Alwad](https://open.spotify.com/track/6n9pFAqPUrwgRa5IHwOePU) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Alwad Alwad](https://open.spotify.com/album/0eu7XFjwieYf4qXt3VCjwD) | 3:54 |
+| 37 | [jouj wjouh](https://open.spotify.com/track/7og4nJoCVU3AT67bR9l5hL) | [khalil guenich](https://open.spotify.com/artist/3ypFeqG4YdmOcibtlJynvd) | [jouj wjouh](https://open.spotify.com/album/70i2vMQAEKAp6wHqJfALY8) | 2:13 |
+| 38 | [Njik Droka](https://open.spotify.com/track/4qU4foaNOXg1Ngn7UPuv2W) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Njik Droka](https://open.spotify.com/album/48wSJobohI95jmrSt30KCD) | 2:53 |
+| 39 | [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 |
+| 40 | [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 |
 | 41 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
 | 42 | [Toxicomane](https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Toxicomane](https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS) | 3:36 |
-| 43 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 |
+| 43 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 |
 | 44 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
 | 45 | [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 |
 | 46 | [Ness Lil](https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ness Lil](https://open.spotify.com/album/63EmbDWn9juvJwL4iqgmPx) | 3:24 |
-| 47 | [FEL HAWA SAWA](https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE) | [Larbi Imghrane](https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg), [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [FEL HAWA SAWA](https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es) | 3:12 |
-| 48 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 |
-| 49 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
-| 50 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 |
+| 47 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 |
+| 48 | [FEL HAWA SAWA](https://open.spotify.com/track/6dWnQFvP0rj5VgTdKEHtBE) | [Larbi Imghrane](https://open.spotify.com/artist/1YVSmUGMeeVFoA54ZX1vvg), [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [FEL HAWA SAWA](https://open.spotify.com/album/07uJOfbHCHwkQ3x3hlW1Es) | 3:12 |
+| 49 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 |
+| 50 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
 
-Snapshot ID: `ZwkwqQAAAADq7UksSkNjRx1j9/UT42nc`
+Snapshot ID: `Zw5QhQAAAADw8P4/+6FWF9I45qjqJ6G2`

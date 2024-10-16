@@ -1,12 +1,12 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180089,
+  "num_followers": 180091,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAAA6OQGf4O9ZsLkiP98PiER4",
+  "snapshot_id": "Zw7XwQAAAAB2nygULo3R3UZhmQhO7SAm",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 131416,
       "name": "Agatha's Theme - From \"Agatha All Along\"",
       "url": "https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590"
+    },
+    {
+      "added_at": "2024-10-15 20:59:45",
+      "album": {
+        "name": "Agatha All Along: Vol. 1 (Episodes 1-5) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "duration_ms": 180791,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5AlqGtj7IAJnyGmWFS0Z7D"
     },
     {
       "added_at": "2024-07-25 18:31:54",

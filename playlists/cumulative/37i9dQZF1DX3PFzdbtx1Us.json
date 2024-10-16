@@ -5965,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "Time in its fury",
+        "url": "https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL"
+      },
+      "artists": [
+        {
+          "name": "Liu Ju",
+          "url": "https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143803,
+      "name": "Time in its fury",
+      "url": "https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v"
+    },
+    {
+      "album": {
         "name": "Toivoa",
         "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
       },

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Tambora, Vol. 1",
+        "url": "https://open.spotify.com/album/48CCYGuCWQO4Nn2BstScwL"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156107,
+      "name": "Albur De Amor",
+      "url": "https://open.spotify.com/track/7DrnMoeK7R06HnZ2TWkEOw"
+    },
+    {
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
       },
@@ -906,7 +924,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 195744,
       "name": "El Moro De Cumpas",
       "url": "https://open.spotify.com/track/3LcZFk2Mv84t0176FQFi5y"

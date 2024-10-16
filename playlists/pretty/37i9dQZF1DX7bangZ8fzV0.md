@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=XeeVnwcDRLK\-7fn3mXNm4g">Eloff</a> en <a href="https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=vwpvgRPdQZ6B\_qW6sI0dTA">Die Piesangskille</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,278 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,341 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

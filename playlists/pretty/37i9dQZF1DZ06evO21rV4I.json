@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 131690,
+  "num_followers": 131724,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACoXar1a8IPY36yjcQQ/K5y",
+  "snapshot_id": "ZwxfAAAAAAC3PCkC4CxssXdTRSR5IaNa",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 183745,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 175346,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
     },
     {
       "added_at": null,
@@ -759,6 +759,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 209672,
+      "name": "Slip N Slide (feat. Skillibeng & Shenseea)",
+      "url": "https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -791,46 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 209672,
-      "name": "Slip N Slide (feat. Skillibeng & Shenseea)",
-      "url": "https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -851,6 +851,30 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Wow (feat. Skepta & Naira Marley)",
+      "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
     },
     {
       "added_at": null,
@@ -887,30 +911,6 @@
       "duration_ms": 181360,
       "name": "Anoti",
       "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Wow (feat. Skepta & Naira Marley)",
-      "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
     },
     {
       "added_at": null,

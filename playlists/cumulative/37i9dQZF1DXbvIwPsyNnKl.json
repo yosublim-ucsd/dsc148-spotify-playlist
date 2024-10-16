@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Bakante",
+        "url": "https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO"
+      },
+      "artists": [
+        {
+          "name": "Omar Baliw",
+          "url": "https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K"
+        },
+        {
+          "name": "Rhyne",
+          "url": "https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Bakante",
+      "url": "https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT"
+    },
+    {
+      "album": {
         "name": "Binibini",
         "url": "https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp"
       },

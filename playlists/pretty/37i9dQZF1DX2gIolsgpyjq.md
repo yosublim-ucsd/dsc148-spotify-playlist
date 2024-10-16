@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: DJ Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,568 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,579 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
+| 1 | [SAMESAME \(feat\. Izza Gara\)](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME feat\. Izza Gara](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 2 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 |
 | 3 | [Take A Walk](https://open.spotify.com/track/1Sd05WKDL1UfoFiA1TOW6L) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take A Walk](https://open.spotify.com/album/5TUPt6XwD9k6gzttJfNMtR) | 2:17 |
 | 4 | [Voodoo Doll](https://open.spotify.com/track/6nblOy1zFcmxpw2nTjY4hZ) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Voodoo Doll](https://open.spotify.com/album/0qRL7wsgL4lbxJ8VBrLzyS) | 2:49 |

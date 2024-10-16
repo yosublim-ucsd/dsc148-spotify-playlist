@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43673,
+  "num_followers": 43672,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADNz26irfGdD1i0Bz/FQmmk",
+  "snapshot_id": "ZwxfAAAAAAAGoNZT43XLLZReaGf+LFAw",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 174120,
-      "name": "Doylestown Girl",
-      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+      "duration_ms": 174120,
+      "name": "Doylestown Girl",
+      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 234426,
-      "name": "I See Monsters",
-      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 340666,
-      "name": "English Girls Approximately",
-      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+      "duration_ms": 234426,
+      "name": "I See Monsters",
+      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -648,9 +632,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 367386,
-      "name": "Out of the Woods",
-      "url": "https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV"
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
-        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "Wasted Years - Live from Glasgow",
-      "url": "https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
+        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
       },
       "artists": [
         {
@@ -712,9 +696,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+      "duration_ms": 219870,
+      "name": "Wasted Years - Live from Glasgow",
+      "url": "https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 367386,
+      "name": "Out of the Woods",
+      "url": "https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+        "name": "London Calling - Live from London, UK. 2023",
+        "url": "https://open.spotify.com/album/4ofCLLMFuWdkd9OxmaKFkV"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+      "duration_ms": 256683,
+      "name": "London Calling - Live from London, UK. 2023",
+      "url": "https://open.spotify.com/track/0y7Zb8fAua487G50WZiH5C"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "London Calling - Live from London, UK. 2023",
-        "url": "https://open.spotify.com/album/4ofCLLMFuWdkd9OxmaKFkV"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 256683,
-      "name": "London Calling - Live from London, UK. 2023",
-      "url": "https://open.spotify.com/track/0y7Zb8fAua487G50WZiH5C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Do Not Feel Like Being Good",
         "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 195440,
       "name": "How Much Light",
       "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Talk About Work",
+        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148555,
+      "name": "A Talk About Work",
+      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
+    },
+    {
+      "album": {
         "name": "A Train to Cannes",
         "url": "https://open.spotify.com/album/7I75eKv2H6qCe26EFS5dsj"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 335020,
       "name": "Early Mornings",
       "url": "https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 251656,
       "name": "Echoes of Elegance",
       "url": "https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm"
@@ -1470,6 +1488,24 @@
       "duration_ms": 186053,
       "name": "English Rose",
       "url": "https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T"
     },
     {
       "album": {
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 249022,
       "name": "Hills Are Green",
       "url": "https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0"
@@ -2961,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0gUm4JyHLjyIaXTDLJkveo"
+      },
+      "artists": [
+        {
+          "name": "Thomas Bennett",
+          "url": "https://open.spotify.com/artist/5GuqShztxJJiHn0YWjjtyh"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171192,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2Yv5PViJgDuusnrMNh8DA0"
+    },
+    {
+      "album": {
         "name": "Le jardin de l'espoir",
         "url": "https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv"
       },
@@ -2976,6 +3030,24 @@
       "duration_ms": 263530,
       "name": "Le jardin de l'espoir",
       "url": "https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN"
+    },
+    {
+      "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182561,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
     },
     {
       "album": {
@@ -3876,7 +3948,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 254920,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn"
@@ -5861,6 +5933,24 @@
     },
     {
       "album": {
+        "name": "Until Next Time",
+        "url": "https://open.spotify.com/album/59us8LdqXgvfW6JPo1x4WM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Berg",
+          "url": "https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Until Next Time",
+      "url": "https://open.spotify.com/track/4eNupeNIVl9QUodeqss3JV"
+    },
+    {
+      "album": {
         "name": "Inner Peace",
         "url": "https://open.spotify.com/album/5kJ4YhodZnsl11AWeh71Rs"
       },
@@ -6168,7 +6258,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 219615,
       "name": "Who Can Tell",
       "url": "https://open.spotify.com/track/6GpJYnZJXbi8BRZgUxa5Pt"

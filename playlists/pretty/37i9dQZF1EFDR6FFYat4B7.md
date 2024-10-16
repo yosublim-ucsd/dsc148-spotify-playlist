@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 145 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 145 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 89 | [last piece](https://open.spotify.com/track/2Z8SpRWDcWCrRBBoX6z80Z) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 |
 | 90 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
 | 91 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 |
-| 92 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
-| 93 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
+| 92 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
+| 93 | [Boomerang](https://open.spotify.com/track/7EFXzio24ra2XJLuL1yCkk) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:49 |
 | 94 | [Not Ashamed](https://open.spotify.com/track/4YXaPCTIZiK1jk2QfW9zTX) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 4:00 |
 | 95 | [Maria](https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:34 |
 | 96 | [What You Do to Me](https://open.spotify.com/track/75spKLi9TpyyleewmxLR36) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:36 |
@@ -138,10 +138,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 128 | [Superhuman](https://open.spotify.com/track/087AijlT1LgtZSXZbisZrg) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:21 |
 | 129 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 130 | [Make It Out Alive](https://open.spotify.com/track/1kbfcooO47ftBttfOg5EZG) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \- Deluxe](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:03 |
-| 131 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
-| 132 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
-| 133 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 |
-| 134 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 131 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 132 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
+| 133 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
+| 134 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 |
 | 135 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
 | 136 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
 | 137 | [Yellow Roses](https://open.spotify.com/track/2yt43ADauCZ5pvjFEMWcC3) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:46 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 144 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 |
 | 145 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbeygAAAAAC8RNuZKCWnsJJjkHpiiN5r`
+Snapshot ID: `Abe4NAAAAAC3Cw9rKONLnCjZTp06UlIH`

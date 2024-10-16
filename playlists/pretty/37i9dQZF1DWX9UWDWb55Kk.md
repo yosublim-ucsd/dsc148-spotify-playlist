@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,104 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,088 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 180 | [I Don't Care](https://open.spotify.com/track/2iDlNifHBSkiRv07XV5iD9) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [Break](https://open.spotify.com/album/6g10dg2gIRvdJdxUpCV2ao) | 2:53 |
 | 181 | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn) | 3:01 |
 | 182 | [Satisfy Your Fantasy](https://open.spotify.com/track/7uEcwJ33XVgYJC9dif3ZlK) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 7:04 |
-| 183 | [Baby](https://open.spotify.com/track/1tUZOu3WGC8aSaZ84oyGDf) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Cinema Olympia \- Caetano Raro & Inédito 67\-74](https://open.spotify.com/album/2xl8IQKN9XCMoRl7xh30JI) | 4:10 |
+| 183 | [Baby \- Ao Vivo](https://open.spotify.com/track/1tUZOu3WGC8aSaZ84oyGDf) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Cinema Olympia \- Caetano Raro & Inédito 67\-74](https://open.spotify.com/album/2xl8IQKN9XCMoRl7xh30JI) | 4:10 |
 | 184 | [Serpiente](https://open.spotify.com/track/3lfjEYa6aSrgLs5h1104ke) | [Valley Latini](https://open.spotify.com/artist/5DnCnPsWy386r3wryWijVX), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Serpiente](https://open.spotify.com/album/2XzLyh80ovdgcWXlMjIM4X) | 2:52 |
 | 185 | [I Will Love Again](https://open.spotify.com/track/7ycZyTgLYjYVhVVEiVuCep) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Bride](https://open.spotify.com/album/0FOJVGWk7r4QKYCP1hCCEq) | 5:14 |
 | 186 | [So So](https://open.spotify.com/track/7s9xtALBX5o96TjRB7R078) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [So So](https://open.spotify.com/album/6jpd8mseja2OVaHniWe0Oa) | 2:05 |

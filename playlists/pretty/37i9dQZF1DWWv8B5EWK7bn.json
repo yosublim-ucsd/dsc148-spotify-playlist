@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 190885,
+  "num_followers": 190966,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "Slime Patrol 2",
@@ -695,6 +679,22 @@
       "duration_ms": 214941,
       "name": "You Know I Got That / Wont Stop Callin",
       "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2024-08-16 20:06:32",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
-      "added_at": "2024-06-27 18:33:54",
-      "album": {
-        "name": "ECRP - Bonus Track",
-        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "ECRP - Bonus Track",
-      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "Inner Song",
@@ -805,28 +789,20 @@
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
     },
     {
-      "added_at": "2024-04-22 20:13:36",
+      "added_at": "2024-06-27 18:33:54",
       "album": {
-        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+        "name": "ECRP - Bonus Track",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
         }
       ],
-      "duration_ms": 257273,
-      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
+      "duration_ms": 236440,
+      "name": "ECRP - Bonus Track",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
     },
     {
       "added_at": "2024-01-11 03:53:36",
@@ -873,6 +849,30 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
+      "added_at": "2024-04-22 20:13:36",
+      "album": {
+        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 257273,
+      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
+    },
+    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -905,6 +905,26 @@
       "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
+      "added_at": "2023-10-27 23:56:32",
+      "album": {
+        "name": "There is only love and fear",
+        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
+      },
+      "artists": [
+        {
+          "name": "Bex Burch",
+          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Dawn blessings",
+      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -927,26 +947,6 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
-    },
-    {
-      "added_at": "2023-10-27 23:56:32",
-      "album": {
-        "name": "There is only love and fear",
-        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
-      },
-      "artists": [
-        {
-          "name": "Bex Burch",
-          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Dawn blessings",
-      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
     },
     {
       "added_at": "2023-06-02 00:24:20",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2023-09-25 01:38:39",
       "album": {
         "name": "The Path",
@@ -1227,6 +1211,22 @@
       "duration_ms": 262560,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2023-05-22 18:30:22",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Eleg\u00eda",
-        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
-      },
-      "artists": [
-        {
-          "name": "Siniestra Pandora",
-          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
-        }
-      ],
-      "duration_ms": 227178,
-      "name": "Pagano",
-      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
-    },
-    {
       "added_at": "2022-08-13 01:40:58",
       "album": {
         "name": "NIGHT CRAWLING",
@@ -1275,6 +1259,22 @@
       "duration_ms": 293706,
       "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
     },
     {
       "added_at": "2024-06-24 14:36:20",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+    },
+    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -1357,22 +1373,6 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
-    },
-    {
       "added_at": "2023-10-23 19:41:11",
       "album": {
         "name": "Pearlies",
@@ -1425,20 +1409,20 @@
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
-      "added_at": "2024-06-13 00:32:04",
+      "added_at": "2024-03-05 06:00:54",
       "album": {
-        "name": "Me Gustas Pero No Te Quiero",
-        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
       },
       "artists": [
         {
-          "name": "RONCO",
-          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 210912,
-      "name": "Me Gustas Pero No Te Quiero",
-      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
       "added_at": "2023-03-31 19:24:48",
@@ -1475,6 +1459,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2024-06-13 00:32:04",
+      "album": {
+        "name": "Me Gustas Pero No Te Quiero",
+        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
+      },
+      "artists": [
+        {
+          "name": "RONCO",
+          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Me Gustas Pero No Te Quiero",
+      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
-      "added_at": "2022-02-09 04:03:27",
-      "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
-      },
-      "artists": [
-        {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
-    },
-    {
       "added_at": "2022-08-25 19:38:46",
       "album": {
         "name": "A Liberdade \u00e9 Cara",
@@ -1727,6 +1711,22 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2023-11-13 17:30:13",

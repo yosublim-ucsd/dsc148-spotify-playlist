@@ -1,13 +1,29 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 643523,
+  "num_followers": 643490,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsxEEAAAAACnvClvyODkVK48X+zpwKmn",
+  "snapshot_id": "Zw7HFAAAAABPmbwDIXv0CRBlA0YH9Bsa",
   "tracks": [
+    {
+      "added_at": "2024-10-15 19:48:36",
+      "album": {
+        "name": "Pok\u00e9mon | Make You Shine",
+        "url": "https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 199021,
+      "name": "Make You Shine",
+      "url": "https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7"
+    },
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {

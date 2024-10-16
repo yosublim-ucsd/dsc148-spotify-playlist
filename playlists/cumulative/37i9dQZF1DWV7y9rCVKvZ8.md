@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-231 songs - 13 hr 55 min
+232 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bad Child](https://open.spotify.com/track/1qCmZnC1FUpNgOydIzqIPC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Bad Child/Can't Be Happy All The Time](https://open.spotify.com/album/6Z7DGRyzIlsq7kXNXQF3Yd) | 3:41 | 2023-03-22 | 2023-10-12 |
 | [Badai Telah Berlalu](https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Badai Telah Berlalu](https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9) | 4:55 | 2023-04-17 |  |
 | [Ballroom Extravaganza](https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Ballroom Extravaganza](https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke) | 3:09 | 2023-03-22 | 2023-10-12 |
-| [Beranjak Dewasa](https://open.spotify.com/track/3FPlY1uqTe1oFfIgI0BnoA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 4:57 | 2023-03-22 |  |
+| [Beranjak Dewasa](https://open.spotify.com/track/3FPlY1uqTe1oFfIgI0BnoA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 4:57 | 2023-03-22 | 2024-10-16 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-27 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-03-22 | 2023-11-16 |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-06-24 |  |
@@ -225,6 +225,7 @@
 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 | 2023-06-18 | 2023-12-07 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-08 |  |
 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 | 2024-01-17 | 2024-06-06 |
+| [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-15 |  |
 | [Turn The Lights On](https://open.spotify.com/track/05wxO6vaz6J7ycXloB4qOs) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Turn The Lights On](https://open.spotify.com/album/3lA9TFTcgcKviBmx0k6Mk0) | 3:25 | 2023-03-22 | 2023-04-18 |
 | [Under The Same Moon](https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL) | [Myla](https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj) | [Sweet Melodies](https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB) | 3:31 | 2024-07-24 |  |
 | [Untungnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:02 | 2024-08-07 |  |

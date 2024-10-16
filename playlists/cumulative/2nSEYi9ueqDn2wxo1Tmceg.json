@@ -4445,6 +4445,28 @@
     },
     {
       "album": {
+        "name": "Defense",
+        "url": "https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Cindy Lee",
+          "url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275120,
+      "name": "Defense",
+      "url": "https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy"
+    },
+    {
+      "album": {
         "name": "Harmonics",
         "url": "https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00"
       },

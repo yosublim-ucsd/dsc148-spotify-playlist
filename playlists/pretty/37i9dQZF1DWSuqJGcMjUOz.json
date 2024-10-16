@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6477,
+  "num_followers": 6473,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 331746,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 276662,
       "name": "Y peut mouiller",
       "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 331746,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Erreur",
-        "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
-      },
-      "artists": [
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 199415,
-      "name": "Erreur",
-      "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c7a s'invente pas",
         "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Erreur",
+        "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 199415,
+      "name": "Erreur",
+      "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "C'est pire et c'est mieux",
         "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Le monde est fou",
-        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
+        "name": "En roulant vers Perc\u00e9",
+        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
       },
       "artists": [
         {
-          "name": "Alfa Rococo",
-          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
         }
       ],
-      "duration_ms": 244200,
-      "name": "Le monde est fou",
-      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+      "duration_ms": 243236,
+      "name": "En roulant vers Perc\u00e9",
+      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "En roulant vers Perc\u00e9",
-        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
       },
       "artists": [
         {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
         }
       ],
-      "duration_ms": 243236,
-      "name": "En roulant vers Perc\u00e9",
-      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
+      "duration_ms": 244200,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Revoir le monde",
-        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
-      },
-      "artists": [
-        {
-          "name": "Michelle & Les Gar\u00e7ons",
-          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Revoir le monde",
-      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Utenat",
         "url": "https://open.spotify.com/album/5Rjt8pAtA42H4wivAO7qFZ"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 196253,
       "name": "J'AI FAILLI",
       "url": "https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Revoir le monde",
+        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
+      },
+      "artists": [
+        {
+          "name": "Michelle & Les Gar\u00e7ons",
+          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "Revoir le monde",
+      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "R.B.",
-        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
-      },
-      "artists": [
-        {
-          "name": "Population II",
-          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
-        }
-      ],
-      "duration_ms": 289959,
-      "name": "R.B.",
-      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Kizavibe",
         "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 230570,
       "name": "Soso",
       "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "R.B.",
+        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "duration_ms": 289959,
+      "name": "R.B.",
+      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Tralala",
         "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 263440,
       "name": "Tralala",
       "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
     },
     {
       "added_at": "2024-06-19 20:38:05",

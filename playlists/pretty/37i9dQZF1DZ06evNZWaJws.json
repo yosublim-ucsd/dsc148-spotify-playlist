@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 312945,
+  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
+  "num_followers": 312987,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAC34I93+RVsr2jRKq1N4dbz",
+  "snapshot_id": "ZwxfAAAAAAC1hwwQva1bhK/zsuBqROrJ",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ram\u00f3n Arellano",
         "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 193844,
       "name": "Ram\u00f3n Arellano",
       "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "El Regreso Del Chapo",
-      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197013,
       "name": "Desde Que Te Amo",
       "url": "https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "El Regreso Del Chapo",
+      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
     },
     {
       "added_at": null,

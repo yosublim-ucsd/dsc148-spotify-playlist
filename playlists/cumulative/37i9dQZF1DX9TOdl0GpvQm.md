@@ -4,7 +4,7 @@
 
 > Walk the threshold into the netherworld...
 
-256 songs - 18 hr 58 min
+257 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Fair by the Sea](https://open.spotify.com/track/0g3bxwZ1zrlZZUrsmz7xIR) | [Concretism](https://open.spotify.com/artist/4xNzWuRiCOPDrIObm7gdG2) | [Wyrd Kalendar](https://open.spotify.com/album/1eTmM4qDyRxI8gxS6aQLgA) | 3:48 | 2021-10-27 |  |
 | [Fearless](https://open.spotify.com/track/0E5Qd7mge1e9gfkCKfGOUR) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 8:02 | 2021-10-27 | 2023-02-03 |
 | [Fearless](https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:02 | 2021-10-27 | 2024-04-19 |
+| [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 | 2024-10-16 |  |
 | [First Day](https://open.spotify.com/track/3TytFmyZIc3ryS5C7nPCkY) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl), [Max de Wardener](https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG) | [The Power \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nhibUlacUH8dTYXKwE4ui) | 1:36 | 2021-10-27 | 2023-04-29 |
 | [First Day](https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl), [Max de Wardener](https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG) | [The Power \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Ii8EDJc135TrI3uwSPbUk) | 1:36 | 2021-10-27 | 2024-04-19 |
 | [First Day](https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl), [Max de Wardener](https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG) | [The Power \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72) | 1:36 | 2021-10-27 |  |
@@ -208,7 +209,7 @@
 | [The Black Drop](https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i) | [Mount Vernon Arts Lab](https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY) | [Séance at Hobs Lane](https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6) | 3:13 | 2021-10-27 |  |
 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 | 2021-10-27 |  |
 | [The Bloodwren pt\. II](https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b) | [Ceiling Spirits](https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB) | [The Bloodwren pt\. II](https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF) | 8:16 | 2024-02-02 |  |
-| [The Burned Wretch](https://open.spotify.com/track/6AHp595UrB4D6oORflyENV) | [IX Tab](https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT) | [The Outer Church](https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP) | 5:27 | 2021-10-27 |  |
+| [The Burned Wretch](https://open.spotify.com/track/6AHp595UrB4D6oORflyENV) | [IX Tab](https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT) | [The Outer Church](https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP) | 5:27 | 2021-10-27 | 2024-10-16 |
 | [The First I love You](https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:26 | 2021-10-27 | 2023-04-09 |
 | [The First I love You](https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 2:26 | 2021-10-27 | 2024-04-19 |
 | [The Gone Away](https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:01 | 2021-10-27 |  |

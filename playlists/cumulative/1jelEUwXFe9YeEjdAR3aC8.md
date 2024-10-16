@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-684 songs - 1 day 14 hr 14 min
+685 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-10-03 | 2023-02-23 |
 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 | 2023-07-03 | 2023-08-29 |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-27 | 2023-04-25 |
+| [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-10-15 |  |
 | [Breathe](https://open.spotify.com/track/4SrL8u7Eh3KGPbDXgJehzd) | [SoLonely](https://open.spotify.com/artist/5wLADFwrz9AGUJotefFzPv) | [Breathe](https://open.spotify.com/album/7lSabaWXX4SJmsfMNialqq) | 2:01 | 2022-10-17 | 2022-10-25 |
 | [Breathe \(Acoustic\)](https://open.spotify.com/track/2JdfEXsJlBQ6Gt52MGIpwW) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Breathe \(Acoustic\)](https://open.spotify.com/album/7FkDyK4xh5xoUw7HsXL54V) | 3:21 | 2022-08-08 | 2022-08-16 |
 | [Broken](https://open.spotify.com/track/33hZkfmf3htC29yqvoebZa) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Highways & Hurricanes](https://open.spotify.com/album/5Z5I6Y9dP7Ja6740ZbLDt8) | 3:52 | 2023-06-04 | 2023-06-13 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 ### [This Is Summer Walker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO30JqGN)
 
-> This is Summer Walker\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,545 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,591 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 42 | [+1 \(404\) 476\-6404](https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [+1 \(404\) 476\-6404](https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX) | 0:48 |
 | 43 | [SWV \(with NO1\-NOAH\)](https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:02 |
 
-Snapshot ID: `ZwsNgAAAAABSGzfdaD1/0pS9T85vSY++`
+Snapshot ID: `ZwxfAAAAAACSSJiGetpry7oYrGUfOW3n`

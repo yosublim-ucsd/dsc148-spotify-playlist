@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new music from baby bugs, mxmtoon, maggie rogers & more 🐛🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,991 likes - 108 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,081 likes - 108 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

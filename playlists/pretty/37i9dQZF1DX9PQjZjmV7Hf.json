@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 52711,
+  "num_followers": 52737,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 208874,
+      "name": "FUCCWITCHU",
+      "url": "https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 185155,
       "name": "Effortless",
       "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 208874,
-      "name": "FUCCWITCHU",
-      "url": "https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam"
     }
   ],
   "unique_name": "James Harden's Taste",

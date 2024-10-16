@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 219551,
       "name": "Combo",
       "url": "https://open.spotify.com/track/2ehtxaFn31gfhARCEn8QtA"
@@ -3275,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n"
+    },
+    {
+      "album": {
         "name": "GGUM",
         "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
       },
@@ -3492,6 +3510,24 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187213,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb"
     },
     {
       "album": {
@@ -5640,7 +5676,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 165587,
       "name": "Melt Down",
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"

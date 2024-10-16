@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-346 songs - 1 day 0 hr 6 min
+347 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Love Now, Again](https://open.spotify.com/track/1NoWuTa2yd2fmXqIbALVri) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 3:17 | 2024-03-01 | 2024-04-05 |
 | [Love Spirit \- Yu Su Remix](https://open.spotify.com/track/1ksLjsHA4AptdyIQc4DY3e) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Love Spirit \(Yu Su Remix\)](https://open.spotify.com/album/0QKDXRJuoxDYA50rcOKxXu) | 3:21 | 2021-11-24 | 2022-07-19 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-12 | 2024-08-04 |
+| [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 | 2024-08-22 |  |
 | [Luminous Spaces \- Edit](https://open.spotify.com/track/7nbLUoUimkbWVQqsZ1mkp8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Luminous Spaces](https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F) | 4:40 | 2021-11-24 | 2022-06-29 |
 | [Maestro](https://open.spotify.com/track/6XuSPyqImdcUV7xYzVRxf5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Maestro](https://open.spotify.com/album/0nN7VMZ3B8UlKxet6ktFnU) | 3:28 | 2021-11-24 | 2022-07-29 |
 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 | 2024-03-01 | 2024-06-08 |
@@ -307,7 +308,7 @@
 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 | 2021-11-24 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/3c7s8EXeQpSRfy9UtZ6lN5) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Sunshine](https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2) | 2:19 | 2024-08-16 |  |
 | [Swarm](https://open.spotify.com/track/24RVLhKVJv7jivoVTTQhD3) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Swarm](https://open.spotify.com/album/7lQ7md6HKhxlI9Axyw4d8Y) | 4:28 | 2021-11-24 | 2022-05-31 |
-| [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2024-06-07 |  |
+| [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2024-06-07 | 2024-10-16 |
 | [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-11-24 | 2022-01-08 |
 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 | 2022-04-21 | 2023-07-28 |
 | [Tastes Like Freedom \- Carista Remix](https://open.spotify.com/track/6g6KLTBmnhBgW77yjuybp3) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Carista](https://open.spotify.com/artist/7HbRQEEsvAKurr1v8YjwzZ) | [Tastes Like Freedom: Remixed](https://open.spotify.com/album/3ptgEd1eqt661mb8uCunB1) | 4:54 | 2021-11-24 | 2022-07-29 |

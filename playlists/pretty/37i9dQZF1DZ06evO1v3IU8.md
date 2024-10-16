@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 ### [This Is Banda MS de Sergio Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1v3IU8)
 
-> This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
+> This Is Banda MS de Sergio Lizárraga\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,093 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,210 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 50 | [La Última Sombra](https://open.spotify.com/track/5UlcSU0MIFY2AhXpIcN9of) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:42 |
 | 51 | [Solo Que Lo Dudes](https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Solo Que Lo Dudes](https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP) | 2:39 |
 
-Snapshot ID: `ZwsNgAAAAAAK4iZr52fry1zsNrYsRo/I`
+Snapshot ID: `ZwxfAAAAAABhm5BnE6RmSGGkWAWwB6Ji`

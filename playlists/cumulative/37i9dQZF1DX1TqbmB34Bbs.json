@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: \ub358\ubc00\uc2a4(Don Mills)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: \ucfe4\ub514\ud310\ub2e4(Khundi Panda)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -9520,7 +9520,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 212993,
       "name": "Go (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/10vaWkTHEGPfSkiH9Z7Ndk"
@@ -11812,7 +11812,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 257687,
       "name": "I Get Lifted X Beenzino",
       "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
@@ -12040,7 +12040,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 212000,
       "name": "I've been lost but I've finally made it",
       "url": "https://open.spotify.com/track/0zR3l0IVW1UceNtVPxKZ5J"
@@ -19984,7 +19984,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "RACE",
       "url": "https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe"
@@ -22728,6 +22728,24 @@
       "duration_ms": 172375,
       "name": "Somozu Fever",
       "url": "https://open.spotify.com/track/41U4WfkQ19MJUPux9zNBBJ"
+    },
+    {
+      "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Somozu Fever",
+      "url": "https://open.spotify.com/track/2elTeqDcnK2f6jttJotJx8"
     },
     {
       "album": {
@@ -27178,6 +27196,28 @@
       "duration_ms": 141112,
       "name": "Wickr me",
       "url": "https://open.spotify.com/track/5XimtZf04ma86lV3bNQSRk"
+    },
+    {
+      "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Wild Mess (Feat. XINSAYNE)",
+      "url": "https://open.spotify.com/track/3nyocYbiiwRQzpdg5pqjt5"
     },
     {
       "album": {

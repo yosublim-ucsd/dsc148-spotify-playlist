@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 547788,
+  "num_followers": 547857,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 236293,
       "name": "King For A Day",
       "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
+        "name": "Tonight (demo)",
+        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Tonight (demo)",
+      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
         "name": "Tell Me About Tomorrow",
         "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Tonight (demo)",
-        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+        "name": "Withering",
+        "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
       },
       "artists": [
         {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Tonight (demo)",
-      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
+      "duration_ms": 164483,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1359,22 +1375,6 @@
       "duration_ms": 149333,
       "name": "TEETH (feat. Diggy Graves)",
       "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
-        "name": "Withering",
-        "url": "https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 164483,
-      "name": "Leave Her",
-      "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
     },
     {
       "added_at": "2024-09-30 16:15:22",

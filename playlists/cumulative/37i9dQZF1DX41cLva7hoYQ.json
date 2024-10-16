@@ -258,7 +258,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 209896,
       "name": "A Gentle Reminder",
       "url": "https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6"
@@ -298,6 +298,24 @@
       "duration_ms": 176731,
       "name": "A Life Remembered",
       "url": "https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t"
+    },
+    {
+      "album": {
+        "name": "A Lonely Walk",
+        "url": "https://open.spotify.com/album/7z3Ybpfqcbdjv5riUCh05d"
+      },
+      "artists": [
+        {
+          "name": "Herman Fred Trio",
+          "url": "https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "A Lonely Walk",
+      "url": "https://open.spotify.com/track/2BY6E8FQnKEtZKp6zxguv5"
     },
     {
       "album": {
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 183757,
       "name": "Always a Lady",
       "url": "https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 181256,
       "name": "Caithness",
       "url": "https://open.spotify.com/track/6qmiDC8t6n6J817uqAhMYE"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 125239,
       "name": "Carey",
       "url": "https://open.spotify.com/track/5KjUmRrLUBDEE9v5aCtIiS"
@@ -2794,10 +2812,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 203480,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1VXahXA1DTUj5sbi2oBpGI"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183562,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1"
     },
     {
       "album": {
@@ -2906,6 +2942,42 @@
       "duration_ms": 185517,
       "name": "Empty Embrace",
       "url": "https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX"
+    },
+    {
+      "album": {
+        "name": "End of Spring",
+        "url": "https://open.spotify.com/album/2ASeVSvK1auCf1b3wc625S"
+      },
+      "artists": [
+        {
+          "name": "Ivory Soul Trio",
+          "url": "https://open.spotify.com/artist/7vlqwJS24ZLOhYA0SDLoe7"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156841,
+      "name": "End of Spring",
+      "url": "https://open.spotify.com/track/5WT0ix5s8hhENzQseg8j0t"
+    },
+    {
+      "album": {
+        "name": "Endless Days",
+        "url": "https://open.spotify.com/album/1n1D2WiBN1G3bC4YNrsU6J"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Endless Days",
+      "url": "https://open.spotify.com/track/4XDwiR78GhH02o4SIqXOj7"
     },
     {
       "album": {
@@ -3604,7 +3676,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 193256,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
@@ -5106,6 +5178,24 @@
     {
       "album": {
         "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/6MgDYMCTMpcYitsHVjzCMp"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/38ncOMtYWke1G2W7PMtT8v"
+    },
+    {
+      "album": {
+        "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d"
       },
       "artists": [
@@ -6430,7 +6520,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 213037,
       "name": "Memories Of Her Music",
       "url": "https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw"
@@ -8230,7 +8320,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 206854,
       "name": "Pretty Ballad",
       "url": "https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI"
@@ -8489,6 +8579,24 @@
     },
     {
       "album": {
+        "name": "Rings",
+        "url": "https://open.spotify.com/album/0ppGENHJJybWJm8AauZlL6"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215962,
+      "name": "Rings",
+      "url": "https://open.spotify.com/track/37ikivEOR5mMYes9Lx7X6y"
+    },
+    {
+      "album": {
         "name": "Romancing",
         "url": "https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS"
       },
@@ -8572,7 +8680,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 207663,
       "name": "Sails",
       "url": "https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz"
@@ -11560,7 +11668,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 178640,
       "name": "Weary Whispers",
       "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
@@ -12064,7 +12172,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 198165,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8"

@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 83629,
+  "num_followers": 83653,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Everglow",
-      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Bitter Sweet Love (Deluxe)",
-        "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 204962,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Resolution - EP",
         "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 256389,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Bitter Sweet Love (Deluxe)",
+        "url": "https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 204962,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Undiscovered (International Version)",
-        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/71LzkFemz0B8nmk8LcFyUg"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Bright Eyes",
         "url": "https://open.spotify.com/album/6ZJO6pcpBWKNgPilbT50cy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 171226,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/3KZlVBckUXU3qCmi0h0VHf"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Undiscovered (International Version)",
+        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/71LzkFemz0B8nmk8LcFyUg"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Shatterproof",
-        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
-      },
-      "artists": [
-        {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
-        }
-      ],
-      "duration_ms": 149320,
-      "name": "Shatterproof",
-      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "HILDA",
         "url": "https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj"
       },
@@ -1619,22 +1603,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Jamie Lawson",
-        "url": "https://open.spotify.com/album/0xgnGJbAUWGc89cevj0NUh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 201295,
-      "name": "Wasn't Expecting That",
-      "url": "https://open.spotify.com/track/0DIcd7djiVGT4RYbTIlsoJ"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "emotionally unavailable",
         "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
       },
@@ -1647,6 +1615,38 @@
       "duration_ms": 182958,
       "name": "we're not kids anymore",
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Shatterproof",
+        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 149320,
+      "name": "Shatterproof",
+      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Jamie Lawson",
+        "url": "https://open.spotify.com/album/0xgnGJbAUWGc89cevj0NUh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 201295,
+      "name": "Wasn't Expecting That",
+      "url": "https://open.spotify.com/track/0DIcd7djiVGT4RYbTIlsoJ"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "ROND\u00c9",
+        "url": "https://open.spotify.com/album/2sSHHrTuj2PdyjHyQJsCtj"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 216544,
+      "name": "Why Do You Care",
+      "url": "https://open.spotify.com/track/3oDn64B3LsqBfcvQA5UJrh"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
       },
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "ROND\u00c9",
-        "url": "https://open.spotify.com/album/2sSHHrTuj2PdyjHyQJsCtj"
-      },
-      "artists": [
-        {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
-        }
-      ],
-      "duration_ms": 216544,
-      "name": "Why Do You Care",
-      "url": "https://open.spotify.com/track/3oDn64B3LsqBfcvQA5UJrh"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "So Good To Me",
         "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 158677,
       "name": "So Good To Me - Radio Edit",
       "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 229697,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -1847,6 +1831,22 @@
       "duration_ms": 170868,
       "name": "Wish You Well (Feat. Bernard Fanning)",
       "url": "https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 229697,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "Ready For The Sky",
+        "url": "https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "duration_ms": 197475,
+      "name": "Ready For The Sky",
+      "url": "https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "Baby It's You",
         "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 221643,
       "name": "Here With You - Acoustic",
       "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Ready For The Sky",
-        "url": "https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4"
-      },
-      "artists": [
-        {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
-        }
-      ],
-      "duration_ms": 197475,
-      "name": "Ready For The Sky",
-      "url": "https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Queen For A Day",
-        "url": "https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Run Away Together",
-      "url": "https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 216320,
       "name": "In The Water",
       "url": "https://open.spotify.com/track/3nC1Jx1lyGzmZ5uVwd20st"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Queen For A Day",
+        "url": "https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Run Away Together",
+      "url": "https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr"
-      },
-      "artists": [
-        {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Under Bridges That You Built for Me",
         "url": "https://open.spotify.com/album/73EyE4D0ijagZHApIY7B2a"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 152637,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/3StL2jKfcfZBD1oc1tm25j"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 195355,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "After The Hurricane - Greatest Hits & More",
         "url": "https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 270200,
       "name": "Blue Bittersweet",
       "url": "https://open.spotify.com/track/31MtA1bmM3PsiAX1sur7rM"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 195355,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 290986,
       "name": "Trade it for the Night",
       "url": "https://open.spotify.com/track/5FdxCyHx8CSiP9TOS7oM0i"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2859,6 +2859,22 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "Only Smith & Burrows Is Good Enough",
+        "url": "https://open.spotify.com/album/7mueFpE0ElhVLHaxQDtuOB"
+      },
+      "artists": [
+        {
+          "name": "Smith & Burrows",
+          "url": "https://open.spotify.com/artist/7adu8fQmtoTq8O8BXQIq9L"
+        }
+      ],
+      "duration_ms": 203766,
+      "name": "All The Best Moves",
+      "url": "https://open.spotify.com/track/7C6ONRhow0K5PqvKmqOiAi"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -2875,22 +2891,6 @@
       "duration_ms": 170882,
       "name": "Hurricane - Acoustic Version",
       "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Only Smith & Burrows Is Good Enough",
-        "url": "https://open.spotify.com/album/7mueFpE0ElhVLHaxQDtuOB"
-      },
-      "artists": [
-        {
-          "name": "Smith & Burrows",
-          "url": "https://open.spotify.com/artist/7adu8fQmtoTq8O8BXQIq9L"
-        }
-      ],
-      "duration_ms": 203766,
-      "name": "All The Best Moves",
-      "url": "https://open.spotify.com/track/7C6ONRhow0K5PqvKmqOiAi"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Ballad Of Easy Rider",
-        "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "Ballad Of Easy Rider",
-      "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Away From Here",
         "url": "https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 284320,
       "name": "The Poetry Man",
       "url": "https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Ballad Of Easy Rider",
+        "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "Ballad Of Easy Rider",
+      "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 185254,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Now That We\u2019ve Found Love",
         "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
       },
@@ -3107,6 +3091,22 @@
       "duration_ms": 154176,
       "name": "Now That We\u2019ve Found Love",
       "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 185254,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3227,6 +3227,22 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
+      },
+      "artists": [
+        {
+          "name": "Morpheus",
+          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
+        }
+      ],
+      "duration_ms": 204634,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "Armada Acoustic 2017",
         "url": "https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr"
       },
@@ -3247,22 +3263,6 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
-      },
-      "artists": [
-        {
-          "name": "Morpheus",
-          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
-        }
-      ],
-      "duration_ms": 204634,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3303,6 +3303,22 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "= - Tour Edition",
         "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
       },
@@ -3315,22 +3331,6 @@
       "duration_ms": 231546,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Wandering Heart",
-        "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wandering Heart",
-      "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3351,18 +3351,18 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+        "name": "Wandering Heart",
+        "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
       },
       "artists": [
         {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
+      "duration_ms": 200840,
+      "name": "Wandering Heart",
+      "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3383,22 +3383,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "The Wait Is Over!",
-        "url": "https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY"
-      },
-      "artists": [
-        {
-          "name": "Matthew Crosby",
-          "url": "https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "The Wait Is Over!",
-      "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Can't Love",
         "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
       },
@@ -3411,6 +3395,22 @@
       "duration_ms": 173040,
       "name": "Can't Love",
       "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "The Wait Is Over!",
+        "url": "https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY"
+      },
+      "artists": [
+        {
+          "name": "Matthew Crosby",
+          "url": "https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "The Wait Is Over!",
+      "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3495,6 +3495,42 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 213161,
+      "name": "Happy in Hindsight",
+      "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Make More Sound",
+        "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+        },
+        {
+          "name": "David Boucher",
+          "url": "https://open.spotify.com/artist/63Jl5AavWHBgiamzO0yPd2"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Make More Sound",
+      "url": "https://open.spotify.com/track/1wshSNJUeTN1TYmNiljSJ5"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
         "name": "Taken by Surprise",
         "url": "https://open.spotify.com/album/0XCDf4QYg0U8l8fnbu36WF"
       },
@@ -3523,58 +3559,6 @@
       "duration_ms": 180859,
       "name": "DON.T - Acoustic",
       "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Make More Sound",
-        "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
-      },
-      "artists": [
-        {
-          "name": "Jacqueline Govaert",
-          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
-        },
-        {
-          "name": "David Boucher",
-          "url": "https://open.spotify.com/artist/63Jl5AavWHBgiamzO0yPd2"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Make More Sound",
-      "url": "https://open.spotify.com/track/1wshSNJUeTN1TYmNiljSJ5"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 213161,
-      "name": "Happy in Hindsight",
-      "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
-        "name": "Too Young Too Dumb",
-        "url": "https://open.spotify.com/album/1ag0kvvPtIEE4qcw0j9ZYo"
-      },
-      "artists": [
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "California Stars",
-      "url": "https://open.spotify.com/track/370uyPhDzFob479OYuRYCe"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3611,6 +3595,22 @@
       "duration_ms": 210283,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1VsltuFeMjASOFW8lIvmcr"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "Too Young Too Dumb",
+        "url": "https://open.spotify.com/album/1ag0kvvPtIEE4qcw0j9ZYo"
+      },
+      "artists": [
+        {
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "California Stars",
+      "url": "https://open.spotify.com/track/370uyPhDzFob479OYuRYCe"
     },
     {
       "added_at": "2024-10-14 22:00:00",
@@ -3747,22 +3747,6 @@
     {
       "added_at": "2024-10-14 22:00:00",
       "album": {
-        "name": "weed & videogames",
-        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
-      },
-      "artists": [
-        {
-          "name": "Joe Buck",
-          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
-        }
-      ],
-      "duration_ms": 183715,
-      "name": "weed & videogames",
-      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
-    },
-    {
-      "added_at": "2024-10-14 22:00:00",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
       },
@@ -3791,6 +3775,22 @@
       "duration_ms": 227657,
       "name": "Seatbelts",
       "url": "https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY"
+    },
+    {
+      "added_at": "2024-10-14 22:00:00",
+      "album": {
+        "name": "weed & videogames",
+        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
+      },
+      "artists": [
+        {
+          "name": "Joe Buck",
+          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
+        }
+      ],
+      "duration_ms": 183715,
+      "name": "weed & videogames",
+      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
     },
     {
       "added_at": "2024-10-14 22:00:00",

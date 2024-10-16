@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Ljuset",
+        "url": "https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK"
+      },
+      "artists": [
+        {
+          "name": "Farsj\u00f6n",
+          "url": "https://open.spotify.com/artist/0mYGczNydCc7aRdaPwkafJ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142575,
+      "name": "Ljuset",
+      "url": "https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F"
+    },
+    {
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc"
       },

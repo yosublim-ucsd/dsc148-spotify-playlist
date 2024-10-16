@@ -2,7 +2,7 @@
 
 ### [This Is Little Simz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
 
-> This is Little Simz\. Tutti i brani in un'unica playlist.
+> This is Little Simz\. The essential tracks, all in one playlist.
 
 80 songs - 4 hr 33 min
 

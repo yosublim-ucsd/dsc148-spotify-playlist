@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,398 likes - 544 songs - 1 day 8 hr 44 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,394 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 |
+| 1 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 |
 | 2 | [aquatic ambience](https://open.spotify.com/track/4Nk7Mof1w4q2vk160DYEoc) | [Scizzie](https://open.spotify.com/artist/53msUMObYuyAsfh4IUsO9P) | [aquatic ambience](https://open.spotify.com/album/1Qa7TotTQ8dfnvM6lfnSoS) | 2:03 |
 | 3 | [テレビステーション / TV Station](https://open.spotify.com/track/2fx7zfnMLl9DFekQjzOk00) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Ape Escape 3 \- Originape Soundtracks / サルゲッチュ3・オリジサル・サウンドトラック](https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe) | 1:53 |
 | 4 | [それで、どっちからきたっけ](https://open.spotify.com/track/4yRMZHEyqCWnC97KNxdnVv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 |
@@ -380,7 +380,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 370 | [Space Ship:Strut](https://open.spotify.com/track/73Mdb7OSErlEVK49VjKylY) | [SEGA](https://open.spotify.com/artist/2FFxcgW8c4Yuurl5x113lR), [Kenichi Tokoi](https://open.spotify.com/artist/1Y73QxsnDJIhoyNZoB9B9L) | [Space Channel 5 20th Anniversary GyunGyun Selection \[Original Soundtrack\]](https://open.spotify.com/album/1f2P8AFHIHrA3u8ggGBHmu) | 3:11 |
 | 371 | [Beautiful Ruin \(Summer Salt\)](https://open.spotify.com/track/4YvpddCxctptllExpJaqu1) | [Masafumi Takada](https://open.spotify.com/artist/6u08wRMmY0Myz8HaNbIOQb) | [Danganronpa 2: Goodbye Despair Original Soundtrack](https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l) | 3:47 |
 | 372 | [Gathers Under Night...](https://open.spotify.com/track/0WfEx2kLPC8moG3yvqcOUh) | [来兎](https://open.spotify.com/artist/4gvNo6XIRTD2N0l75sY6II) | [UNDER NIGHT IN\-BIRTH Exe:Late Original Sound Track](https://open.spotify.com/album/7v6em35qvPSLRmZgyd2TDQ) | 1:37 |
-| 373 | [Spring colors](https://open.spotify.com/track/1FJgrGTfUEQkCXfKCU4OY9) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 2:34 |
+| 373 | [Spring colors](https://open.spotify.com/track/1FJgrGTfUEQkCXfKCU4OY9) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 2:34 |
 | 374 | [My Merry Maybe \-Spring colors\-](https://open.spotify.com/track/3ycEZtLrvWG7SY6oL1w6tY) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry Maybe](https://open.spotify.com/album/0HKXxNvvVRPynB2t5S3w3S) | 1:47 |
 | 375 | [You Are My Music](https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [Sushi \(4004\)](https://open.spotify.com/album/4hpBGLRgpvJhGO3mzpKsAY) | 5:16 |
 | 376 | [Short Cake](https://open.spotify.com/track/1ouSifO7fsHVXNT12JyDxh) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Very Very Nice! And Short Cake](https://open.spotify.com/album/5QxvxgbVJT6pFBU6FpObOb) | 1:39 |
@@ -509,7 +509,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 499 | [EXPERT SHOT](https://open.spotify.com/track/71YRmXoWT5yMoIk1VSdJRm) | [井内 竜次](https://open.spotify.com/artist/0vsM9neNy0iOoS1aqqXb4X) | [Super Monkey Ball: Banana Blitz HD Original Sound Track](https://open.spotify.com/album/6oEjg92P4rujUZTN7KjoE0) | 2:55 |
 | 500 | [Water Melodies](https://open.spotify.com/track/2o0kRmDSysLGPfsBEGhfso) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV), [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:11 |
 | 501 | [haze](https://open.spotify.com/track/1ZrRl6YBahKYghwC6I8v3n) | [zts](https://open.spotify.com/artist/3YIQSdcvL9Wy0esjnpGML0) | [うみねこのなく頃に musicbox Red\(disc b\)](https://open.spotify.com/album/2PH9On9xCA42JSYzkJvI2X) | 5:31 |
-| 502 | [TAE](https://open.spotify.com/track/6zRckSPn5vvXBkIlBEd8my) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:35 |
+| 502 | [TAE](https://open.spotify.com/track/6zRckSPn5vvXBkIlBEd8my) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:35 |
 | 503 | [Game Over](https://open.spotify.com/track/44nUUJbjiwDFPRSEmNNZ7m) | [BAKGROUND](https://open.spotify.com/artist/3ZKoKSGZu4rDSFXmS6loHK) | [Unsaved Data Lost](https://open.spotify.com/album/6jlisySHooJxbd89kmKfLR) | 2:57 |
 | 504 | [☆メニュータイプチェンジ☆](https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 |
 | 505 | [Blink](https://open.spotify.com/track/2tw1yqOp0BU90yqjvvaqDZ) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Blink](https://open.spotify.com/album/691DX9ret2m7zCTJLbIct4) | 3:48 |

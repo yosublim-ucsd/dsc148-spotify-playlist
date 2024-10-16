@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28377,
+  "num_followers": 28373,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Cecilia Lind",
+        "url": "https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 101631,
+      "name": "Cecilia Lind",
+      "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "\u00c4nnu en dag",
         "url": "https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 146400,
       "name": "\u00c4nnu en dag",
       "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Cecilia Lind",
-        "url": "https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 101631,
-      "name": "Cecilia Lind",
-      "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -259,6 +259,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "HBB",
+        "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "HBB",
+      "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "LUANDA",
         "url": "https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe"
       },
@@ -327,22 +347,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "HBB",
-        "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
       },
       "artists": [
         {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        },
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 146750,
-      "name": "HBB",
-      "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "SOLDAT",
         "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 139071,
       "name": "SOLDAT",
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "KrissyB",
-        "url": "https://open.spotify.com/album/5Ye9jBwvEjQhl71G7Er6mK"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 149968,
-      "name": "KrissyB",
-      "url": "https://open.spotify.com/track/4voviKzmOwZLNvbiSdjFF6"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -475,6 +459,22 @@
       "duration_ms": 155160,
       "name": "Welou (Better Days)",
       "url": "https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "KrissyB",
+        "url": "https://open.spotify.com/album/5Ye9jBwvEjQhl71G7Er6mK"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 149968,
+      "name": "KrissyB",
+      "url": "https://open.spotify.com/track/4voviKzmOwZLNvbiSdjFF6"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "PRAPAPA",
-        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 124812,
-      "name": "PRAPAPA",
-      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Frossa",
         "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Norge Elsker Rap",
         "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Whina",
+        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Whina",
+      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
       },
@@ -919,26 +935,6 @@
       "duration_ms": 123149,
       "name": "MANDANA",
       "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "S\u00e4g Mig",
-        "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "S\u00e4g Mig",
-      "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -959,18 +955,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Whina",
-        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
+        "name": "S\u00e4g Mig",
+        "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
         }
       ],
-      "duration_ms": 156453,
-      "name": "Whina",
-      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+      "duration_ms": 135000,
+      "name": "S\u00e4g Mig",
+      "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "LA LIGA",
+        "url": "https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "LA LIGA",
+      "url": "https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "LA LIGA",
-        "url": "https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "LA LIGA",
-      "url": "https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Pennen & Sverdet",
-        "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
       "artists": [
         {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        },
-        {
-          "name": "Tshawe",
-          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 131381,
-      "name": "F\u00f8lg lyden",
-      "url": "https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx"
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Det var aldri meg",
-        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+        "name": "Pennen & Sverdet",
+        "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
       },
       "artists": [
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Ment for hverandre",
-      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+      "duration_ms": 131381,
+      "name": "F\u00f8lg lyden",
+      "url": "https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "FRANK LUCAS",
-        "url": "https://open.spotify.com/album/4Oekris7A02U6hAfmcRr98"
-      },
-      "artists": [
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "FRANK LUCAS",
-      "url": "https://open.spotify.com/track/6DOV07jomdnvi5esdmjiQu"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Tappar kontroll",
         "url": "https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "FRANK LUCAS",
+        "url": "https://open.spotify.com/album/4Oekris7A02U6hAfmcRr98"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "FRANK LUCAS",
+      "url": "https://open.spotify.com/track/6DOV07jomdnvi5esdmjiQu"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Jeg trenger en h\u00e5nd",
-        "url": "https://open.spotify.com/album/1sd7fcWWSynMuG7tt4hWZF"
-      },
-      "artists": [
-        {
-          "name": "Myra",
-          "url": "https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5"
-        }
-      ],
-      "duration_ms": 203291,
-      "name": "Jeg trenger en h\u00e5nd",
-      "url": "https://open.spotify.com/track/1287cAJWH8eGbshOCpKhZq"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 164812,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Jeg trenger en h\u00e5nd",
+        "url": "https://open.spotify.com/album/1sd7fcWWSynMuG7tt4hWZF"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5"
+        }
+      ],
+      "duration_ms": 203291,
+      "name": "Jeg trenger en h\u00e5nd",
+      "url": "https://open.spotify.com/track/1287cAJWH8eGbshOCpKhZq"
     },
     {
       "added_at": "2024-10-10 22:00:00",

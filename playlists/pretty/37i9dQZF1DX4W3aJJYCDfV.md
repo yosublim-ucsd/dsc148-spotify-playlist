@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx ft\. Ariana Grande \(pictured\), Nao, Odeal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,025 likes - 121 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,048 likes - 121 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 40 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 |
 | 41 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 |
 | 42 | [CHROMA 007 STEALL](https://open.spotify.com/track/4O6j6Dzz2M7Y0qf6hDMWrt) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0) | [CHROMA 007](https://open.spotify.com/album/2HSmpeyuel16OScotn2RDF) | 5:40 |
-| 43 | [TARDIS \- hardest](https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TARDIS \(hardest\)](https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L) | 4:33 |
+| 43 | [TARDIS \(hardest\)](https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TARDIS \(hardest\)](https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L) | 4:33 |
 | 44 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 |
 | 45 | [Just Like That](https://open.spotify.com/track/7lkty9PPa9DyezSj5aVI3T) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Just Like That](https://open.spotify.com/album/7Ix18Y6dOfDbCHl5pstpQ2) | 2:35 |
 | 46 | [Sex Drugs Whatever](https://open.spotify.com/track/0CsYbDQXRAVZ6kHn4rDakN) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Wonderland](https://open.spotify.com/album/48NcXzz8dPbKReTUjTNQHv) | 3:18 |

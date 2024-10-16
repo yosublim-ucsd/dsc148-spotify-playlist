@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 619649,
+  "num_followers": 619690,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Crosses",
-      "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Fingers To The Bone",
-      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Cold Little Heart (Acoustic)",
         "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 269386,
       "name": "Cold Little Heart - Acoustic",
       "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Fingers To The Bone",
+      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -847,38 +847,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -891,6 +859,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -955,6 +939,22 @@
       "duration_ms": 208893,
       "name": "Steady",
       "url": "https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Pet Parade",
         "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 225373,
       "name": "Coconut Skins",
       "url": "https://open.spotify.com/track/4CVP2pvqUxH9tExsHJnzV9"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1147,6 +1131,22 @@
       "duration_ms": 326493,
       "name": "Julep",
       "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "The Place I Left Behind",
+        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
+      },
+      "artists": [
+        {
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "The Place I Left Behind",
+      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Falling Faster Than You Can Run",
         "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 249579,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Place I Left Behind",
-        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 244840,
-      "name": "The Place I Left Behind",
-      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Snowden's Jig (Genuine Negro Jig)",
-      "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 292160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/3FJ46AfhOr2TyfhVTlK1sj"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Snowden's Jig (Genuine Negro Jig)",
+      "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
     },
     {
       "added_at": "2024-08-28 14:08:37",

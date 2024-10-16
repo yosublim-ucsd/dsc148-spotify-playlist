@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 79830,
+  "num_followers": 79845,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAhWHHhDnnesZQGK1oFjLoc",
+  "snapshot_id": "ZwxfAAAAAAAmyr5Gvc73RDMPh99GUIKF",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Built to Fall",
-      "url": "https://open.spotify.com/track/6yRh9h4Kc00PnrAuVYRAkq"
+      "duration_ms": 218400,
+      "name": "Endless Night",
+      "url": "https://open.spotify.com/track/7yi6fynaCi2lWhjcOfcHz5"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Endless Night",
-      "url": "https://open.spotify.com/track/7yi6fynaCi2lWhjcOfcHz5"
+      "duration_ms": 188186,
+      "name": "Built to Fall",
+      "url": "https://open.spotify.com/track/6yRh9h4Kc00PnrAuVYRAkq"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 204570,
-      "name": "Scattering The Ashes",
-      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 266173,
       "name": "Through Blood and Dirt and Bone",
       "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 204570,
+      "name": "Scattering The Ashes",
+      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 340288,
-      "name": "Amongst The Shadows & The Stones",
-      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 269853,
       "name": "Brave This Storm",
       "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 340288,
+      "name": "Amongst The Shadows & The Stones",
+      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
     },
     {
       "added_at": null,

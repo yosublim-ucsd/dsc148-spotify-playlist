@@ -1,12 +1,12 @@
 {
-  "description": "This Is Chiquis. Los temas esenciales, todos en una lista.",
-  "num_followers": 5250,
+  "description": "This is Chiquis. The essential tracks, all in one playlist.",
+  "num_followers": 5251,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADDK2Zqw9dlUnUts33k1jJJ",
+  "snapshot_id": "ZwxfAAAAAAB4fc8GaA5CLB7sWHFSlVdf",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "MAS Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
+      "duration_ms": 326330,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "MAS Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
         }
       ],
-      "duration_ms": 326330,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
+      "duration_ms": 183413,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Vas a Volver",
-      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 187866,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 136613,
+      "name": "Me Mocho Un Huevo",
+      "url": "https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje a la Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
       },
@@ -627,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Amanecer Con Alguien",
-        "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Quiero Amanecer Con Alguien",
-      "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
       },
@@ -659,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs"
+        "name": "Quiero Amanecer Con Alguien",
+        "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
       },
       "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 136613,
-      "name": "Me Mocho Un Huevo",
-      "url": "https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U"
+      "duration_ms": 196440,
+      "name": "Quiero Amanecer Con Alguien",
+      "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An\u00edmate Y Ver\u00e1s",
-        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "An\u00edmate Y Ver\u00e1s",
-      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 203013,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An\u00edmate Y Ver\u00e1s",
+        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 144226,
+      "name": "An\u00edmate Y Ver\u00e1s",
+      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
     },
     {
       "added_at": null,

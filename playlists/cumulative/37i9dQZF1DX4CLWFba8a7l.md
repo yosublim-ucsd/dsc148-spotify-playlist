@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-118 songs - 6 hr 30 min
+119 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-12 |  |
 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 | 2024-05-31 |  |
 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-05-31 |  |
-| [Blood on the Stage](https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Blood on the Stage](https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp) | 3:54 | 2024-08-30 |  |
+| [Blood on the Stage](https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Blood on the Stage](https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp) | 3:54 | 2024-08-30 | 2024-10-16 |
 | [Boarding Pass](https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [MAJORDOMO](https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq) | 3:37 | 2024-08-30 | 2024-09-23 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-09 |
 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 | 2024-05-31 | 2024-07-18 |
@@ -37,6 +37,7 @@
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2024-05-31 | 2024-07-27 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2024-05-31 |  |
 | [Don't Know](https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Don't Know](https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26) | 2:12 | 2024-05-31 |  |
+| [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 | 2024-08-30 |  |
 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 | 2024-05-31 | 2024-09-03 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-05-31 |  |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-31 |  |

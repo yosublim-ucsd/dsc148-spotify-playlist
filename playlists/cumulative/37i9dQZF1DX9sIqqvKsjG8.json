@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 138019,
       "name": "Cupola Quadrata",
       "url": "https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6"
@@ -7522,7 +7522,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 187943,
       "name": "Lira",
       "url": "https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6"
@@ -8674,7 +8674,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 197883,
       "name": "Motion",
       "url": "https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin"
@@ -9470,6 +9470,24 @@
       "duration_ms": 190058,
       "name": "Onironautas",
       "url": "https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV"
+    },
+    {
+      "album": {
+        "name": "Only Illusions",
+        "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
+      },
+      "artists": [
+        {
+          "name": "Duke Wolverine",
+          "url": "https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146515,
+      "name": "Only Illusions",
+      "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
     },
     {
       "album": {
@@ -13024,7 +13042,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 142166,
       "name": "Sunday Hour",
       "url": "https://open.spotify.com/track/2xnpQjGerUpem80YNQq8My"
@@ -14332,7 +14350,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 230606,
       "name": "Tracing the Sky",
       "url": "https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx"
@@ -15182,7 +15200,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 134019,
       "name": "Venetian Spring",
       "url": "https://open.spotify.com/track/03MQLVWZhp4MTuM1HVnnSg"

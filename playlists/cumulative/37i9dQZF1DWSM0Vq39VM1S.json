@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/7mQtJGYkOBOSKmDNGLKJiV"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300106,
+      "name": "3WW",
+      "url": "https://open.spotify.com/track/4LabjsmVYy7bI3F6oLIdLn"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -132,6 +150,24 @@
       "duration_ms": 331829,
       "name": "A Part of Us - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3E71Cnxd9WRnZhWC1THHTq"
+    },
+    {
+      "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "album": {
@@ -442,7 +478,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/4UmuBF2XzW3EkO0rfrnYNO"
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 210177,
       "name": "I Wanna Dance With Somebody",
       "url": "https://open.spotify.com/track/5fXs1nXoJzOdJDkl8fOBTI"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 364533,
       "name": "Satellite Anthem Icarus",
       "url": "https://open.spotify.com/track/4b3i2rXFZx9JqQQq9KuVAj"
@@ -2418,7 +2454,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 201808,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"

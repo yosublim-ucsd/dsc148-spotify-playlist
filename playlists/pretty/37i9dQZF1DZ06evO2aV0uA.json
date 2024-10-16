@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 131121,
+  "num_followers": 131145,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAADpmGkgJCWtBwwUhh7iUtjP",
+  "snapshot_id": "ZwxfAAAAAADUfZH00Oix9iawhecnRrPs",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Floods of Triton",
-        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 269583,
-      "name": "Floods of Triton",
-      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resolution",
         "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
       },
@@ -147,22 +127,6 @@
       "duration_ms": 270693,
       "name": "Ghost Walking",
       "url": "https://open.spotify.com/track/7ox7vxy21ttBt1o7xIp1Si"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "512",
-      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
     },
     {
       "added_at": null,
@@ -183,6 +147,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "512",
+      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Floods of Triton",
+        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 269583,
+      "name": "Floods of Triton",
+      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sacrament (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 215240,
       "name": "Descending",
       "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes of the Wake (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 219815,
+      "name": "Now You've Got Something to Die For",
+      "url": "https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp"
     },
     {
       "added_at": null,
@@ -231,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes of the Wake (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 219815,
-      "name": "Now You've Got Something to Die For",
-      "url": "https://open.spotify.com/track/53CYNxzR49G438rPaKFOIp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacrament (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 328200,
       "name": "Blacken the Cursed Sun",
       "url": "https://open.spotify.com/track/0pCIJphJDddTWn6svXyQeD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes of the Wake (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 240244,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/36F2K4UDhheP6UWu1rOK9d"
     },
     {
       "added_at": null,
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes of the Wake (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 240244,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/36F2K4UDhheP6UWu1rOK9d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 226493,
       "name": "Set To Fail",
       "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes of the Wake (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 278016,
+      "name": "The Faded Line",
+      "url": "https://open.spotify.com/track/1pTvDwpyvTbYXzmxyjfoXa"
     },
     {
       "added_at": null,
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes of the Wake (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 278016,
-      "name": "The Faded Line",
-      "url": "https://open.spotify.com/track/1pTvDwpyvTbYXzmxyjfoXa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 275924,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes of the Wake (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 263703,
+      "name": "Blood Of The Scribe",
+      "url": "https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
       "duration_ms": 271120,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ashes of the Wake (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 263703,
-      "name": "Blood Of The Scribe",
-      "url": "https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY"
     },
     {
       "added_at": null,

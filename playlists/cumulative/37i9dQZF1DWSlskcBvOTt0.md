@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-765 songs - 2 day 20 hr 41 min
+766 songs - 2 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
-| [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 |  |
+| [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 | 2024-10-16 |
 | [Medieval \- LP Giobbi Remix](https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Temple Of Dreams \(Remixes Part 3\)](https://open.spotify.com/album/06hdt6bc2zFnFccUCa4GCR) | 3:41 | 2023-10-27 | 2024-07-13 |
 | [Megatron](https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Megatron EP](https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp) | 5:59 | 2024-06-28 | 2024-07-27 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 | 2023-03-19 |
@@ -571,6 +571,7 @@
 | [Rej](https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV) | 2:39 | 2023-11-17 | 2024-04-16 |
 | [Rej](https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv) | 2:39 | 2023-10-20 | 2023-11-04 |
 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 | 2023-06-16 | 2023-07-09 |
+| [Release Me \(feat\. Jules Buckley\)](https://open.spotify.com/track/37IB9gTLJognX12EMMvR9T) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Paul Harris](https://open.spotify.com/artist/46jtIbj72oWxiUY2CQvSJd), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Release Me \(feat\. Jules Buckley\)](https://open.spotify.com/album/6Ed6m6dNICFco8Jx8BxH6X) | 3:23 | 2024-10-11 |  |
 | [Remedy](https://open.spotify.com/track/0oI6klVUYygTlvjB9GQ24q) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Remedy](https://open.spotify.com/album/5b3EIYM6fSPHOsyaJoM6Cv) | 6:11 | 2024-03-26 | 2024-05-21 |
 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 | 2023-04-21 | 2024-04-19 |
 | [REMIND ME \- Booka Shade Remix](https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [REMIND ME \(Booka Shade Remix\)](https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu) | 5:53 | 2022-12-16 | 2023-01-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: JENNIE",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ITZY",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -354,6 +354,24 @@
       "duration_ms": 169559,
       "name": "A Kind Of Magic - Coke Studio Session",
       "url": "https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "A Sleepless Night",
+      "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
     },
     {
       "album": {
@@ -6144,7 +6162,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 213266,
       "name": "EVERBLUE",
       "url": "https://open.spotify.com/track/0keXePnRUdhwH7Pmrt7lqq"
@@ -7303,6 +7321,24 @@
     },
     {
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n"
+    },
+    {
+      "album": {
         "name": "ACT 1, SCENE 1",
         "url": "https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH"
       },
@@ -7738,6 +7774,24 @@
       "duration_ms": 210080,
       "name": "Goes on",
       "url": "https://open.spotify.com/track/2Y9KdZldoTAXBfy5P9IcdU"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187213,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb"
     },
     {
       "album": {
@@ -12885,6 +12939,24 @@
     },
     {
       "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205571,
+      "name": "Night before the end",
+      "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
+    },
+    {
+      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -14794,7 +14866,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
@@ -14812,7 +14884,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 191920,
       "name": "R.O.P (Reign of Peace) (Prod. Czaer)",
       "url": "https://open.spotify.com/track/5zeymtMpRizOaSL5mPkNSk"
@@ -19768,7 +19840,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 202969,
       "name": "trampoline",
       "url": "https://open.spotify.com/track/3Om8AyxxhSpTAHQIfmmfpi"
@@ -20738,7 +20810,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 191826,
       "name": "Walk",
       "url": "https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw"
@@ -21182,7 +21254,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -21428,6 +21500,24 @@
       "duration_ms": 191280,
       "name": "Will",
       "url": "https://open.spotify.com/track/4T6ZOGt9c250Xz1CpZColk"
+    },
+    {
+      "album": {
+        "name": "Will -Korean version-",
+        "url": "https://open.spotify.com/album/4Pl0T6jHMRaGMamkg14mVZ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Will -Korean version-",
+      "url": "https://open.spotify.com/track/5bFmrudRoxSGLVLH9ZEkKW"
     },
     {
       "album": {

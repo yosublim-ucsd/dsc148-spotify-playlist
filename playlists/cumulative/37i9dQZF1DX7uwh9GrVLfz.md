@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: SpecialThanks
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: OCHA∞ME
 
-791 songs - 1 day 18 hr 7 min
+792 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-13 | 2024-04-01 |
 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 | 2022-05-19 |  |
 | [つばさ](https://open.spotify.com/track/6UVsdfH8fHX2oYEfpQJ5NV) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 4:33 | 2022-05-12 | 2023-01-06 |
-| [なぜ今日天気が悪い](https://open.spotify.com/track/6TorBlsYdhjPchFOZDyt95) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [なぜ今日天気が悪い](https://open.spotify.com/album/55B3St6M2drUy59u67UABa) | 2:54 | 2023-07-13 |  |
+| [なぜ今日天気が悪い](https://open.spotify.com/track/6TorBlsYdhjPchFOZDyt95) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [なぜ今日天気が悪い](https://open.spotify.com/album/55B3St6M2drUy59u67UABa) | 2:54 | 2023-07-13 | 2024-10-16 |
 | [ならば青春よ](https://open.spotify.com/track/25OeqQAsSTAb3CAmz03Cml) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [ロックンロール](https://open.spotify.com/album/4nxJ8v0MRVSAdBWtlWYOuk) | 3:29 | 2022-05-19 | 2022-07-28 |
 | [ひとつの曲ができるまで](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [輝くもの天より堕ち](https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK) | 2:24 | 2024-07-30 |  |
 | [ふざけてナイト](https://open.spotify.com/track/7zuAxJE5oNaGLdxcJfThZB) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ふざけてナイト](https://open.spotify.com/album/1REZLVcg3jVMBW2xj1yt4W) | 1:38 | 2024-03-05 | 2024-03-07 |
@@ -626,6 +626,7 @@
 | [サイケデリックな彼女](https://open.spotify.com/track/3nZyIZW08LJLUlwxa8d6Lh) | [THE HAMIDA SHE’S](https://open.spotify.com/artist/4joyyVcWcBimHEgquIi4x4) | [純情讃歌](https://open.spotify.com/album/7oL0JRcOeBbw5p419a1mTU) | 1:51 | 2024-02-20 | 2024-02-28 |
 | [サイコーサイコー](https://open.spotify.com/track/1oL4bX4VeHl3wgOPSXK7xQ) | [3SET\-BOB](https://open.spotify.com/artist/4WcDR835C8UDz2Ul0L7lt6) | [サイコーサイコー](https://open.spotify.com/album/19lzPEo30rzNkKUayXwmbe) | 3:58 | 2023-06-13 | 2023-06-28 |
 | [サバシスター's THEME \- 2024 ver.](https://open.spotify.com/track/1cvy3uzdTG80BJK31OG9CK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:32 | 2024-03-07 | 2024-09-04 |
+| [サラダデイズ](https://open.spotify.com/track/2jNPFA1UeTt4KtRlbwQXyZ) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [walk on the boat](https://open.spotify.com/album/2BskKoJuiayJ271zOvBCNh) | 3:10 | 2024-10-15 |  |
 | [サラバ!](https://open.spotify.com/track/52UewcDEkdImgLW0C3F6L0) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [サラバ!](https://open.spotify.com/album/1NyAWXMA2vd5IJegmhQppV) | 3:11 | 2022-05-12 | 2022-07-25 |
 | [サルバドルサーガ](https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc) | [サルバドルサーガ](https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY) | 3:15 | 2024-02-27 | 2024-03-01 |
 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2022-08-16 |  |

@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-365 songs - 15 hr 43 min
+366 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Ever After](https://open.spotify.com/track/1Pcu09TxRuwvNzbUzCEYs7) | [Maver Lein](https://open.spotify.com/artist/2SDz69jJ0A53L45StqQ70J) | [Ever After](https://open.spotify.com/album/3Jdajqk2ela7MPVa21k1M3) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [Evergreen](https://open.spotify.com/track/4HzivF3sC2UOqdwJrXJZfS) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Evergreen](https://open.spotify.com/album/1oxn9yAdHV1mnebQ2kFxkj) | 2:49 | 2022-08-19 | 2022-10-29 |
 | [Everytime](https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Everytime](https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48) | 2:16 | 2024-05-10 |  |
+| [Evolving together](https://open.spotify.com/track/18MkUvPFs2F7dW6SUOQv2M) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Evolving together](https://open.spotify.com/album/1UV7XM5VZURHFwSn8yP8Rv) | 2:53 | 2024-10-15 |  |
 | [Excelsior](https://open.spotify.com/track/4iFR7YK1CfJDoLlUde5WnP) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Happy Days Are Long Awaited](https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf) | 3:26 | 2022-03-04 | 2022-04-06 |
 | [Fair Game](https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Fair Game](https://open.spotify.com/album/7rSE3kCkuQwPHaIXyJU3L8) | 2:51 | 2022-03-04 | 2022-07-08 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |

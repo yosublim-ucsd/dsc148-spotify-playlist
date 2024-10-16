@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With LaShun Pace, Kirk Franklin & The Family, Tasha Page-Lockhart and more",
+  "description": "With Norman Hutchins, Marvin Winans, Chicago Mass Choir and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 209106,
       "name": "A Testimony",
       "url": "https://open.spotify.com/track/7q0V0bHEZXdICefcpHq2vI"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Act Like You Know",
       "url": "https://open.spotify.com/track/42hwIg34ZMXbI5G47UY5Vu"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 153426,
       "name": "Another Day's Journey",
       "url": "https://open.spotify.com/track/0M4MNjhaNVOpk5H3UFZK1e"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 370480,
       "name": "Back II Eden",
       "url": "https://open.spotify.com/track/6xZjmlwgIk0tMwo8buLuzH"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 385985,
       "name": "Draw Me Close/Thy Will Be Done",
       "url": "https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1"
@@ -6732,7 +6732,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 407946,
       "name": "God Is",
       "url": "https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY"
@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190106,
       "name": "He Wants It All - Acoustic Version",
       "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
@@ -9572,7 +9572,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 343480,
       "name": "Hold to God's Unchanging Hand",
       "url": "https://open.spotify.com/track/2FXjqWJzTRbnxahixKy89h"
@@ -10008,7 +10008,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 288253,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/6QPvpe1V68qwu90iCjGFkS"
@@ -10886,7 +10886,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
@@ -11345,6 +11345,24 @@
     },
     {
       "album": {
+        "name": "I Sing Because I'm Happy",
+        "url": "https://open.spotify.com/album/36VDCIbRts1ltm1VB50nFl"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329506,
+      "name": "I Sing Because I'm Happy",
+      "url": "https://open.spotify.com/track/4hMQ1qZRtAQAtLIgYjRmA0"
+    },
+    {
+      "album": {
         "name": "Press Forward: Singing Through a Pandemic",
         "url": "https://open.spotify.com/album/7kBUk0uILsuwPpMI6qPY9I"
       },
@@ -11490,7 +11508,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 421220,
       "name": "I Threw In The Towel",
       "url": "https://open.spotify.com/track/13BNT5tyNkMGQUxYKijweO"
@@ -11520,7 +11538,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 289500,
       "name": "I Threw in the Towel - Radio Edit",
       "url": "https://open.spotify.com/track/3zdaL9qdMNcGi0kCRE4WlD"
@@ -12174,7 +12192,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 241698,
       "name": "I'll Always Be Thankful (Live)",
       "url": "https://open.spotify.com/track/0WHBbnfUWNSjEX400PFjxe"
@@ -14085,6 +14103,24 @@
     },
     {
       "album": {
+        "name": "Saved By His Love",
+        "url": "https://open.spotify.com/album/58i1EUR2iUis8ANfrxfw9W"
+      },
+      "artists": [
+        {
+          "name": "The O'Neal Twins",
+          "url": "https://open.spotify.com/artist/1yjEUmBZfBdQPjC1u9hQTI"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469533,
+      "name": "Jesus Dropped The Charges",
+      "url": "https://open.spotify.com/track/3lQdDQVk2FTqA2NK3wMXTa"
+    },
+    {
+      "album": {
         "name": "Nobody but You",
         "url": "https://open.spotify.com/album/0bGII8Qu64tXhPGu6uCPuq"
       },
@@ -14460,7 +14496,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 326200,
       "name": "Jesus Promised",
       "url": "https://open.spotify.com/track/5ChzdXaPje0hx7qruHOb9C"
@@ -14754,7 +14790,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 403426,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2hNFryDQo4b0HEmYA9HNo6"
@@ -17316,7 +17352,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 456600,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/7fXBwwL8kzFfyIxSt05DAl"
@@ -17432,7 +17468,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 278426,
       "name": "Maybe God Is Tryin' To Tell You Somethin' - From \"The Color Purple\" Soundtrack",
       "url": "https://open.spotify.com/track/4JXiNTDq6OGkyp5aZ7X7cn"
@@ -18364,7 +18400,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 282985,
       "name": "My Soul Loves Jesus",
       "url": "https://open.spotify.com/track/2FPhJsu5y3yWSjJ2gl4Ole"
@@ -19934,7 +19970,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 323200,
       "name": "Only God Can Do It",
       "url": "https://open.spotify.com/track/4DgYXg6xO0yekLn6BzWHpA"
@@ -21446,7 +21482,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 223396,
       "name": "Reach",
       "url": "https://open.spotify.com/track/5YpUWchb0Zs9Rkp3lvgEAY"
@@ -21508,7 +21544,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 317607,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
@@ -23634,7 +23670,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 293253,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/3IUvdsPAW6kaYfh7V2waek"
@@ -23974,7 +24010,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 297936,
       "name": "STILL GON' TRUST",
       "url": "https://open.spotify.com/track/6Mx0N67OO4rW3g0IXfJ7no"
@@ -24718,7 +24754,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 318800,
       "name": "Tell Him Yes v1.1",
       "url": "https://open.spotify.com/track/0UcdBfbJYyjfLxsRs0rOOS"
@@ -26424,7 +26460,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 304226,
       "name": "There'S A Leak In This Old Building",
       "url": "https://open.spotify.com/track/6sPkXf8cl3c48U4ZFVyd3B"
@@ -26875,6 +26911,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/4l40xbbwT18kZlanwGxCM2"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4ZNeV5cSLIASoJCaLgPZRS"
+    },
+    {
+      "album": {
         "name": "Expectations: I'll Praise",
         "url": "https://open.spotify.com/album/1leFEcXybxtHnnbkc5WPLG"
       },
@@ -26970,6 +27024,24 @@
       "duration_ms": 292137,
       "name": "Trade it All",
       "url": "https://open.spotify.com/track/2b0pTG6VvqNwbRO6PkBF8g"
+    },
+    {
+      "album": {
+        "name": "I'm Glad About It",
+        "url": "https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg"
+      },
+      "artists": [
+        {
+          "name": "Rev. Timothy Wright",
+          "url": "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384800,
+      "name": "Trouble Don't Last Always",
+      "url": "https://open.spotify.com/track/515MCqErErWXBz8h35i3uj"
     },
     {
       "album": {
@@ -27732,7 +27804,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 225192,
       "name": "Wait (Radio Edit)",
       "url": "https://open.spotify.com/track/3uiHj1PHzUYA80Ow2bwgqx"
@@ -27948,7 +28020,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 483786,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/0iHROg0uOUy4dD0xXU4LCr"
@@ -28288,7 +28360,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 151573,
       "name": "What A Beautiful Name - A Cappella Version",
       "url": "https://open.spotify.com/track/2J2pgeCxen6pU1Zm7bXjWb"
@@ -28808,7 +28880,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 319611,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/0eTK3BDNAujJ6fGJw1Cy39"
@@ -29658,7 +29730,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 204960,
       "name": "You Gave Me Hope",
       "url": "https://open.spotify.com/track/4EqNAhbSJoanTrdX2GJE2C"

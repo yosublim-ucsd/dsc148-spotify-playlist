@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,039 likes - 68 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,051 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

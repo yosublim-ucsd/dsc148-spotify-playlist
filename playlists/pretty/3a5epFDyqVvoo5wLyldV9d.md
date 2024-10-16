@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 807 songs - 2 day 15 hr 15 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 807 songs - 2 day 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

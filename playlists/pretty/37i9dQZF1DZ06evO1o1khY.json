@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 22241,
+  "num_followers": 22298,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABRo1Hao3H16Qq4u2mallAd",
+  "snapshot_id": "ZwxfAAAAAADtg6z5WzuQQXwbp4MXo/vu",
   "tracks": [
     {
       "added_at": null,
@@ -791,30 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
@@ -835,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 170711,
-      "name": "Out Loud Thinking",
-      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foxes Only",
         "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
       },
@@ -867,6 +827,46 @@
       "duration_ms": 143992,
       "name": "Embarrassing (feat. GloRilla)",
       "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 170711,
+      "name": "Out Loud Thinking",
+      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 21 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 22 | [Rag Mop](https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Best Of The Ames](https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0) | 2:46 |
 | 23 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
-| 24 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
-| 25 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
+| 24 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
+| 25 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
 | 26 | [I'm Forever Blowing Bubbles](https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:36 |
 | 27 | [Standing On the Corner](https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 2:51 |
 | 28 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |

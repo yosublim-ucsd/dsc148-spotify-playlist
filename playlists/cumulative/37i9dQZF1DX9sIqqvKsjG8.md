@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-902 songs - 1 day 14 hr 35 min
+903 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-04 | 2023-10-07 |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-10-05 |
 | [crystal creek](https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [chateau & crystal creek](https://open.spotify.com/album/27ZmGbSDeBUUb7G6f9Wllj) | 2:27 | 2022-07-19 |  |
-| [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-03-30 |  |
+| [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-03-30 | 2024-10-16 |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-06 |
 | [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-07 | 2022-07-20 |
@@ -423,7 +423,7 @@
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-02-14 | 2022-06-08 |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-12-07 | 2023-07-26 |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-08-26 |
-| [Lira](https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Elegía de la Juventud](https://open.spotify.com/album/1pcymuDxT29Yg9a9Uy1IMT) | 3:07 | 2022-09-12 |  |
+| [Lira](https://open.spotify.com/track/6qXXV5IzR4C1qUkkZFeTJ6) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Elegía de la Juventud](https://open.spotify.com/album/1pcymuDxT29Yg9a9Uy1IMT) | 3:07 | 2022-09-12 | 2024-10-16 |
 | [Little Home](https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Different Kinds of Silence](https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a) | 2:51 | 2023-02-20 | 2023-09-23 |
 | [Little Home](https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Little Home](https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM) | 2:51 | 2021-12-07 | 2023-02-23 |
 | [Little House](https://open.spotify.com/track/1du82wujEl1RLyjyRZujhJ) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Little House](https://open.spotify.com/album/4C3JuSNctoAqBbFKKBxH4F) | 2:57 | 2021-12-07 | 2022-03-17 |
@@ -487,7 +487,7 @@
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-16 | 2023-07-26 |
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2021-12-07 | 2022-08-26 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 | 2024-07-30 |
-| [Motion](https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Motion](https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw) | 3:17 | 2022-11-11 |  |
+| [Motion](https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Motion](https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw) | 3:17 | 2022-11-11 | 2024-10-16 |
 | [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-14 |  |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-15 |  |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2021-12-07 | 2022-10-05 |
@@ -532,6 +532,7 @@
 | [One Minute](https://open.spotify.com/track/0UFrBSY1gbFvQdfcfufXRG) | [OIYYIO](https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag) | [One Minute](https://open.spotify.com/album/3F6uVFyE6av5f6CWFcq2kv) | 2:26 | 2024-08-20 |  |
 | [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 | 2023-11-20 |  |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 | 2022-09-24 |
+| [Only Illusions](https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Only Illusions](https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B) | 2:26 | 2024-10-15 |  |
 | [Only My Truth](https://open.spotify.com/track/63WeYLkKYPF3ybwkvlGEGB) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Only My Truth](https://open.spotify.com/album/3Zi9UxcwNDiI9SFKw5af9h) | 2:10 | 2023-01-26 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-07 | 2022-05-06 |
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-26 |  |
@@ -728,7 +729,7 @@
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2021-12-07 | 2022-12-22 |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-02-13 |  |
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-02-01 | 2023-03-21 |
-| [Sunday Hour](https://open.spotify.com/track/2xnpQjGerUpem80YNQq8My) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Sunday Hour](https://open.spotify.com/album/2637sHeBWYBvH8sx7sLISA) | 2:22 | 2022-07-19 |  |
+| [Sunday Hour](https://open.spotify.com/track/2xnpQjGerUpem80YNQq8My) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Sunday Hour](https://open.spotify.com/album/2637sHeBWYBvH8sx7sLISA) | 2:22 | 2022-07-19 | 2024-10-16 |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 | 2023-09-30 |
 | [Supine](https://open.spotify.com/track/4ldRxzeHrTWwBXyWTII5Hu) | [15.](https://open.spotify.com/artist/1D41XVo659DXvNYktKnn6e) | [Supine](https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb) | 2:04 | 2022-03-16 | 2023-09-23 |
 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 | 2021-12-07 | 2023-05-10 |
@@ -800,7 +801,7 @@
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-21 | 2023-09-23 |
 | [Toronga](https://open.spotify.com/track/2tbmw8XLMswKEHrHqaKXYE) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Toronga](https://open.spotify.com/album/55BmNPTpkvRZ1GiPSwzXrk) | 2:26 | 2022-08-09 | 2023-09-26 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 | 2022-05-06 |
-| [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2022-09-12 |  |
+| [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2022-09-12 | 2024-10-16 |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2021-12-07 | 2022-10-25 |
 | [Transitions](https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o) | [Amélie Doret](https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0) | [Transitions](https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX) | 2:40 | 2021-12-07 | 2022-08-26 |
 | [Transnistria](https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Transnistria](https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2) | 1:56 | 2022-03-01 | 2023-07-26 |
@@ -847,7 +848,7 @@
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2021-12-07 | 2022-09-24 |
 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 | 2021-12-07 | 2022-04-21 |
 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 | 2024-03-25 |  |
-| [Venetian Spring](https://open.spotify.com/track/03MQLVWZhp4MTuM1HVnnSg) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Venetian Spring](https://open.spotify.com/album/4WrgnfcDX4dbiqQwZBhejU) | 2:14 | 2022-04-28 |  |
+| [Venetian Spring](https://open.spotify.com/track/03MQLVWZhp4MTuM1HVnnSg) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Venetian Spring](https://open.spotify.com/album/4WrgnfcDX4dbiqQwZBhejU) | 2:14 | 2022-04-28 | 2024-10-16 |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-12-07 | 2024-04-04 |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2021-12-07 | 2023-09-23 |
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 | 2022-09-24 |

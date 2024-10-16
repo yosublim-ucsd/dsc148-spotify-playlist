@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5244,
+  "num_followers": 5245,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABE1/Lz7YxeqZNJkcnKVHW8",
+  "snapshot_id": "ZwxfAAAAAAC6V7/c+PZraqH53B3i0FoH",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Friends",
-        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
       "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 197468,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
     },
     {
       "added_at": null,
@@ -519,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+        "name": "Girl Friends",
+        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
       },
       "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 285690,
-      "name": "Great Rain",
-      "url": "https://open.spotify.com/track/06KVyBpihkWpiiMpu8SJGY"
+      "duration_ms": 197468,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
     },
     {
       "added_at": null,
@@ -551,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
       "artists": [
         {
@@ -560,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 240605,
-      "name": "Dumb It Down",
-      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
+      "duration_ms": 285690,
+      "name": "Great Rain",
+      "url": "https://open.spotify.com/track/06KVyBpihkWpiiMpu8SJGY"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 319458,
-      "name": "Promised Myself",
-      "url": "https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b"
+      "duration_ms": 240605,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 319458,
+      "name": "Promised Myself",
+      "url": "https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 181160,
       "name": "Ka-Ching",
       "url": "https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "One I Love",
-      "url": "https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU"
     },
     {
       "added_at": null,
@@ -712,9 +696,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 276395,
-      "name": "Down On Bended Knee",
-      "url": "https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu"
+      "duration_ms": 204180,
+      "name": "Tell The Devil",
+      "url": "https://open.spotify.com/track/2fXKnAjBEEcDiVzu52yvFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "One I Love",
+      "url": "https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU"
     },
     {
       "added_at": null,

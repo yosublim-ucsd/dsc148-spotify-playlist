@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 ### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
 
-> This is Barry White\. The essential tracks, all in one playlist.
+> This Is Barry White\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,972 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,988 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 14 | [I'll Do For You Anything You Want Me To](https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:10 |
 | 15 | [Practice What You Preach](https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love Songs](https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE) | 3:59 |
 | 16 | [In Your Wildest Dreams \(feat\. Barry White\) \- Radio Edit](https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Wildest Dreams \(Expanded Version\)](https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN) | 3:48 |
-| 17 | [More Than Anything, You're My Everything](https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 3:04 |
+| 17 | [It's Only Love Doing Its Thing](https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 3:57 |
 | 18 | [Don't Make Me Wait Too Long](https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:19 |
-| 19 | [It's Only Love Doing Its Thing](https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 3:57 |
+| 19 | [More Than Anything, You're My Everything](https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 3:04 |
 | 20 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
 | 21 | [Lady, Sweet Lady](https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 5:40 |
 | 22 | [It's Ecstasy When You Lay Down Next To Me](https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 6:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [The Erotic Garden \- After Hours Version Of Secret Garden](https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Unlimited](https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua) | 8:52 |
 | 50 | [I Can't Believe You Love Me](https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 10:21 |
 
-Snapshot ID: `ZwsNgAAAAACWnclagq5c6C7IaPgaPa4c`
+Snapshot ID: `ZwxfAAAAAAAYA3kVlH8v+ngMPPhToncw`

@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-167 songs - 7 hr 56 min
+168 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [On You](https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [On You](https://open.spotify.com/album/0yrgidyI4lTZGvA6JA9tww) | 1:59 | 2023-11-03 | 2024-02-03 |
 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2024-01-12 |  |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-16 |  |
+| [Or What](https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 3:19 | 2024-10-15 |  |
 | [Out](https://open.spotify.com/track/21ValWkHiLg5Ja6anGyI3C) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne) | [Out](https://open.spotify.com/album/5QGXJ3qiF2CGhy2rKJsxme) | 1:57 | 2024-03-22 |  |
 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 | 2023-11-24 | 2024-01-20 |
 | [P.O.T.](https://open.spotify.com/track/1f2B3Jzi8EVIkqJJSS59T2) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne) | [P.O.T.](https://open.spotify.com/album/4Y1HjVzkf1dEe6NYJ3qdNc) | 2:29 | 2024-02-23 |  |

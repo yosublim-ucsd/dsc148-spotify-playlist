@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 551690,
+  "num_followers": 551844,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACB5CXZxPEVk5g37ihhOpfv",
+  "snapshot_id": "ZwxfAAAAAABVnVAeqxD+qnz/ODdoBZsm",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
       "artists": [
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 271696,
-      "name": "Blood Upon the Snow",
-      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": null,
@@ -439,6 +435,26 @@
       "duration_ms": 233173,
       "name": "First Time",
       "url": "https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "NFWMB",
+      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal Unearth: Unaired",
         "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 222177,
       "name": "Wildflower and Barley (feat. Allison Russell)",
       "url": "https://open.spotify.com/track/3Zwb1yipBxvrukVaNMm4o5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 259253,
-      "name": "NFWMB",
-      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fare Well",
-      "url": "https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unaired",
         "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 256519,
       "name": "That You Are",
       "url": "https://open.spotify.com/track/4Zayz7dbduel3h0zyYk3qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Fare Well",
+      "url": "https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb"
     },
     {
       "added_at": null,

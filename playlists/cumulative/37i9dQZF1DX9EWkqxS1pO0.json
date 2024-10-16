@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "\u0130stanbul",
+        "url": "https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju"
+      },
+      "artists": [
+        {
+          "name": "Keskin Band",
+          "url": "https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147790,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o"
+    },
+    {
+      "album": {
         "name": "\u0130STER M\u0130Y\u0130M",
         "url": "https://open.spotify.com/album/0ilySrs4AofRXkf2wmWCsF"
       },
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 234887,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"

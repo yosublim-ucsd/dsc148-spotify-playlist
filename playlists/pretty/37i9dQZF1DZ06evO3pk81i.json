@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6235,
+  "description": "This Is Los Primos del Este. Los temas esenciales, todos en una lista.",
+  "num_followers": 6245,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAC5Wd9VtEycaVvalnWVtZL",
+  "snapshot_id": "ZwxfAAAAAAAj7Z/MDNm8bKlxW8bKOi5S",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Soy Aquel",
-      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 132857,
       "name": "Tesec",
       "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Soy Aquel",
+      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 219939,
       "name": "Duele Saber",
       "url": "https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viene Diciembre",
-        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 186394,
-      "name": "Viene Diciembre",
-      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 185383,
       "name": "Pleito Con Cupido",
       "url": "https://open.spotify.com/track/7zpwPasI1qZQnU5R1jvjlY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viene Diciembre",
+        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 186394,
+      "name": "Viene Diciembre",
+      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue Mi Culpa",
-        "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Fue Mi Culpa",
-      "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 164000,
       "name": "Me Enamoras",
       "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fue Mi Culpa",
+        "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Fue Mi Culpa",
+      "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
     },
     {
       "added_at": null,
@@ -723,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+        "name": "Otra Ronda",
+        "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
       },
       "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 145471,
-      "name": "Voy por Ti",
-      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
+      "duration_ms": 225462,
+      "name": "Otra Ronda",
+      "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Ronda",
-        "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
       "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 225462,
-      "name": "Otra Ronda",
-      "url": "https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY"
+      "duration_ms": 145471,
+      "name": "Voy por Ti",
+      "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
       "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 200250,
-      "name": "Yaki",
-      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
+      "duration_ms": 202197,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
     },
     {
       "added_at": null,
@@ -827,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo",
-        "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
       "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+      "duration_ms": 200250,
+      "name": "Yaki",
+      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
 
-> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Brett Eldredge
+> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dasha
 
-321 songs - 17 hr 26 min
+322 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/6SvzJUQd3FnuOJI1KWl9hq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:39 | 2021-12-16 | 2022-11-05 |
 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 | 2022-11-18 | 2024-08-22 |
 | [Driving Home for Christmas](https://open.spotify.com/track/5f4hPtbh7uPBRCW51xNMvM) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Driving Home for Christmas](https://open.spotify.com/album/7vfOyIYeaPZaUjFGmcYkQK) | 3:24 | 2023-12-08 | 2024-08-22 |
+| [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 | 2024-10-15 |  |
 | [Everything I Need](https://open.spotify.com/track/1Z3aVCno3EFKgkvf0c5Qyg) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Everything I Need](https://open.spotify.com/album/2YBVhoHORdchzdZ1Bc3GuB) | 3:58 | 2021-12-16 | 2022-10-08 |
 | [Falalala Falling](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Falalala Falling](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 | 2023-10-27 |  |
 | [Family Tree](https://open.spotify.com/track/1PgOvWrifTWMqDqe3gNYfK) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Family Tree](https://open.spotify.com/album/1ijvvaXsy9TFA8SqrqZitv) | 3:41 | 2022-11-11 | 2023-10-28 |

@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 232879,
       "name": "Blank",
       "url": "https://open.spotify.com/track/3SfiD5uZchp0E3EUieKsBW"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 271998,
       "name": "Darwin Awards (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7rQiYHclslTrawV4MT3kHs"
@@ -408,6 +408,24 @@
       "duration_ms": 62000,
       "name": "Element of the collection (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/4DY6RqybFSyH0uOmYCLluu"
+    },
+    {
+      "album": {
+        "name": "DIVERSITY",
+        "url": "https://open.spotify.com/album/5XfmkPDIHWWrhjUsiB7hW7"
+      },
+      "artists": [
+        {
+          "name": "Yasuha.",
+          "url": "https://open.spotify.com/artist/5XKeXujxDtSBXs83jWtdBu"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Fate (Type.B)",
+      "url": "https://open.spotify.com/track/1EN1RkRTRi7YrNWySqK0TG"
     },
     {
       "album": {
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 385909,
       "name": "World Clock",
       "url": "https://open.spotify.com/track/0zpNCAvRvQ2Cg3HhAltThy"
@@ -1018,6 +1036,24 @@
       "duration_ms": 328421,
       "name": "Ya no me Importa (Version Mariachi) (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
       "url": "https://open.spotify.com/track/6dzTmofkiTJ4KNEzMn5he7"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306a\u305f\u304c\u79c1\u3068\u4ed8\u304d\u5408\u3046100\u306e\u7406\u7531",
+        "url": "https://open.spotify.com/album/3RiSXmdtQTDJndJkI5HLfs"
+      },
+      "artists": [
+        {
+          "name": "AETA",
+          "url": "https://open.spotify.com/artist/1s3ScnjuSAXxXIk5rmPbu1"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256508,
+      "name": "\u3042\u306a\u305f\u304c\u79c1\u3068\u4ed8\u304d\u5408\u3046100\u306e\u7406\u7531 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3QDFaGInhAePjcBK6e3e1v"
     },
     {
       "album": {
@@ -1666,7 +1702,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 164175,
       "name": "\u30aa\u30a2\u30b7\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5T4aB88MQLmSCFDboSO3yT"
@@ -2181,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
+        "url": "https://open.spotify.com/album/1SPs9FVw7tk68yqwzd2luq"
+      },
+      "artists": [
+        {
+          "name": "wotaku",
+          "url": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/1LqXngBWIjeyfd2RgESGPO"
+    },
+    {
+      "album": {
         "name": "\u30db\u30ef\u30a4\u30c8\u30b7\u30b0\u30ca\u30eb",
         "url": "https://open.spotify.com/album/6LBG07X7Zi1AKG3OYVlcXj"
       },
@@ -2633,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Multi End",
+        "url": "https://open.spotify.com/album/2neZNV6ENtYwz40Bu2rw3A"
+      },
+      "artists": [
+        {
+          "name": "Nanashi Hachiya",
+          "url": "https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u53cc\u5149\u661f",
+      "url": "https://open.spotify.com/track/4M5fQgRjJiEcVxI9PrScdO"
+    },
+    {
+      "album": {
         "name": "at Last",
         "url": "https://open.spotify.com/album/525LMTfWtCvvDpVuM1INqx"
       },
@@ -3022,7 +3094,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 302700,
       "name": "\u6ce1\u6cab\u91d1\u9b5a - lust for partiality -",
       "url": "https://open.spotify.com/track/0Omnmv20Muuo1q0JodT7Os"
@@ -3586,6 +3658,24 @@
       "duration_ms": 186022,
       "name": "\u96f6\u8fc4 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/6vjO5eWmGH9jbHDIVRTkdY"
+    },
+    {
+      "album": {
+        "name": "\u3060\u3063\u3066\u3082\u3046\u9045\u3059\u304e\u305f\u3093\u3060",
+        "url": "https://open.spotify.com/album/24CQKhM2pPxgwtbLILSF9u"
+      },
+      "artists": [
+        {
+          "name": "PolyphonicBranch",
+          "url": "https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "\u9752\u6625\u3060\u3063\u305f",
+      "url": "https://open.spotify.com/track/6frdIIAb45hckrXFTW7uzV"
     },
     {
       "album": {

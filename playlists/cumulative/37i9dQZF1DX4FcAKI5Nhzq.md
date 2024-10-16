@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Lee Mujin
+> Future K\-Pop hits! Cover: Xdinary Heroes
 
-1,156 songs - 2 day 14 hr 56 min
+1,158 songs - 2 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-08-03 | 2023-09-22 |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-09-08 | 2023-02-24 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-05-18 | 2021-10-06 |
+| [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-15 |  |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-02-18 |
 | [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 | 2024-08-08 | 2024-09-21 |
 | [No diggity](https://open.spotify.com/track/1Ovza9IYvEbdB7SctQCHIS) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [DEVIL](https://open.spotify.com/album/2vapQ5AsHtSVE970EbK9i7) | 3:31 | 2021-01-21 | 2021-03-01 |
@@ -798,6 +799,7 @@
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-25 | 2022-08-25 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-10-05 | 2023-10-28 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-17 | 2021-11-12 |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-15 |  |
 | [Ra Pam Pam](https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album \[Game Changer\]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 3:31 | 2021-08-07 | 2021-10-06 |
 | [RA TA TA \(Feat\. Lil Cherry\)](https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [RA TA TA](https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap) | 2:57 | 2023-10-11 | 2023-11-25 |
 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 | 2021-07-01 | 2021-08-11 |

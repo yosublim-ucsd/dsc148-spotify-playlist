@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Pappy Kojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,077 likes - 88 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,082 likes - 88 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 4 | [1 Sima \(Pt\. 3\) \[feat\. Omar Burner, Tycuun, Origen & Semenhyia\]](https://open.spotify.com/track/2Se6ILoaWW3UVgnMLAbDAH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Omar Burner](https://open.spotify.com/artist/36eEaykWqrjcBscbnUAAZ5), [Tycuun](https://open.spotify.com/artist/1OJC3TKCt7t9tiacte2a9D), [Origen](https://open.spotify.com/artist/6cjZV5nXfB0mD8bNtm20wU), [Semenhyia](https://open.spotify.com/artist/15bNWFfSaRStflPPxM6e2w) | [Millennium 2000](https://open.spotify.com/album/0s5NbJ1rp5lrBCreaVfOki) | 4:58 |
 | 5 | [Fly Girl \(feat\. Oseikrom Sikanii\) \- Remix](https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl \(feat\. Oseikrom Sikanii\) \[Remix\]](https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG) | 3:15 |
 | 6 | [Killa Ji Mi](https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Killa Ji Mi](https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q) | 2:43 |
-| 7 | [Codeine Protein](https://open.spotify.com/track/2b4yohvh6HCTBgVKOYLbNZ) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [ACE ILLY](https://open.spotify.com/artist/6XewKkNpxtgdCe9PK8dhqG), [Kojo Trilla](https://open.spotify.com/artist/3Ono7nD1VcCWLVcRunitbk) | [IN THE NAME OF TRAP](https://open.spotify.com/album/2krum5eBoSEc6HRIJGwQhl) | 1:46 |
+| 7 | [Codeine Protein](https://open.spotify.com/track/2b4yohvh6HCTBgVKOYLbNZ) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [ACE ILLY](https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj), [Kojo Trilla](https://open.spotify.com/artist/3Ono7nD1VcCWLVcRunitbk) | [IN THE NAME OF TRAP](https://open.spotify.com/album/2krum5eBoSEc6HRIJGwQhl) | 1:46 |
 | 8 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
 | 9 | [BOA ME \(Remix\) \[feat\. Stonebwoy\]](https://open.spotify.com/track/4t3Y8144CHXVlZKpkS5E1e) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [BOA ME \(Remix\) \[feat\. Stonebwoy\]](https://open.spotify.com/album/1oooj58qIV0kL7pthD21gf) | 2:50 |
 | 10 | [Ankonam](https://open.spotify.com/track/3FXxXckJ1xNWZKUmYbFaSJ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [The Gold Coin](https://open.spotify.com/album/3QjBdftIw2vfGnSZSqRVcF) | 2:52 |

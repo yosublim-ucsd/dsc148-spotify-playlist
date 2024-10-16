@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-147 songs - 6 hr 39 min
+148 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2022-01-19 |  |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2022-01-19 |  |
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2022-01-19 | 2022-03-04 |
+| [The Nature of Peace](https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [The Nature of Peace](https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV) | 2:24 | 2024-10-15 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-01-19 |  |
 | [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 | 2022-01-19 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-19 |  |

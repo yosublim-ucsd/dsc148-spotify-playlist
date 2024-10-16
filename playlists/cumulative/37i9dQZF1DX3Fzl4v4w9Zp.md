@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Billy Strings
 
-727 songs - 1 day 20 hr 47 min
+728 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 | 2022-06-03 | 2023-11-11 |
 | [Miles Away](https://open.spotify.com/track/2GMRJPivUIJiGLkmpWwH2O) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Miles Away](https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N) | 5:00 | 2023-08-04 |  |
 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-07-12 |  |
+| [Mister Los Angeles](https://open.spotify.com/track/5ItGcd46wE3U531gLtiPS5) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Oh Brother](https://open.spotify.com/album/7ozwkrV2oc26STev2UHPWK) | 3:36 | 2024-10-15 |  |
 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 | 2021-12-17 | 2023-02-18 |
 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-17 | 2022-10-08 |
 | [Momma's Been Hurting](https://open.spotify.com/track/5jYYyF4kcfTRKikJW6dwry) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Hymnal Of A Troubled Man's Mind](https://open.spotify.com/album/1KLdQzh3fI4G7b00lbnOpB) | 3:43 | 2024-04-05 |  |

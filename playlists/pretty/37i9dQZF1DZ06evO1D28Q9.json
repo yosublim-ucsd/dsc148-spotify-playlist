@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 86,
+  "num_followers": 85,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAB31OZm7/W/y/xinf8DzKSl",
+  "snapshot_id": "ZwxfAAAAAAARFFmkzCaxdAIPub13UAKw",
   "tracks": [
     {
       "added_at": null,
@@ -347,78 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixtape Eu e a Minha Habitual Falta de Modera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6t842Uq5dvHxYxPanUrUPD"
-      },
-      "artists": [
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 298412,
-      "name": "Quem \u00c9 Voc\u00ea?",
-      "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mulher MC",
-        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "Mulher MC",
-      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry Drummer & Friends, Vol. 2",
-        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
-      },
-      "artists": [
-        {
-          "name": "Sorry Drummer",
-          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
-        },
-        {
-          "name": "Tatiana Bispo",
-          "url": "https://open.spotify.com/artist/0Z3J1nYuQunKAqOeVmRXeX"
-        },
-        {
-          "name": "DJ Negrito",
-          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
-        }
-      ],
-      "duration_ms": 222142,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elza",
         "url": "https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno"
       },
@@ -459,6 +387,78 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry Drummer & Friends, Vol. 2",
+        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
+      },
+      "artists": [
+        {
+          "name": "Sorry Drummer",
+          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
+        },
+        {
+          "name": "Tatiana Bispo",
+          "url": "https://open.spotify.com/artist/0Z3J1nYuQunKAqOeVmRXeX"
+        },
+        {
+          "name": "DJ Negrito",
+          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
+        }
+      ],
+      "duration_ms": 222142,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixtape Eu e a Minha Habitual Falta de Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6t842Uq5dvHxYxPanUrUPD"
+      },
+      "artists": [
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 298412,
+      "name": "Quem \u00c9 Voc\u00ea?",
+      "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mulher MC",
+        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "Mulher MC",
+      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
     },
     {
       "added_at": null,
@@ -690,15 +690,11 @@
         {
           "name": "Mayra Maldjian",
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
-        },
-        {
-          "name": "Djamila Ribeiro",
-          "url": "https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF"
         }
       ],
-      "duration_ms": 519168,
-      "name": "Manifesto / Pule, Garota",
-      "url": "https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7"
+      "duration_ms": 219402,
+      "name": "Paradoxo",
+      "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
     },
     {
       "added_at": null,
@@ -902,11 +898,15 @@
         {
           "name": "Mayra Maldjian",
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
+        },
+        {
+          "name": "Djamila Ribeiro",
+          "url": "https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF"
         }
       ],
-      "duration_ms": 219402,
-      "name": "Paradoxo",
-      "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
+      "duration_ms": 519168,
+      "name": "Manifesto / Pule, Garota",
+      "url": "https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7"
     },
     {
       "added_at": null,

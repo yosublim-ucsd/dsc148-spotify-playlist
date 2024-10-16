@@ -2,7 +2,7 @@
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros。アーティストの代表曲をひとつのプレイリストに。
+> This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
 90 songs - 7 hr 1 min
 

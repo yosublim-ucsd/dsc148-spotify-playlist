@@ -1,6 +1,6 @@
 {
   "description": "Hit dance per l'estate 2024 \ud83c\udf49",
-  "num_followers": 107925,
+  "num_followers": 107923,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Kongo (Han\u00ee 's Remix)",
-        "url": "https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119"
-      },
-      "artists": [
-        {
-          "name": "Kolinga",
-          "url": "https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM"
-        },
-        {
-          "name": "HAN\u00ce",
-          "url": "https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv"
-        }
-      ],
-      "duration_ms": 233505,
-      "name": "Kongo (Han\u00ee\u00b4s Remix)",
-      "url": "https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Kongo (Han\u00ee 's Remix)",
+        "url": "https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119"
+      },
+      "artists": [
+        {
+          "name": "Kolinga",
+          "url": "https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM"
+        },
+        {
+          "name": "HAN\u00ce",
+          "url": "https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv"
+        }
+      ],
+      "duration_ms": 233505,
+      "name": "Kongo (Han\u00ee\u00b4s Remix)",
+      "url": "https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1487,22 +1487,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+        "name": "Better (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
       "artists": [
         {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+      "duration_ms": 182462,
+      "name": "Better (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1531,26 +1535,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Better (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
         },
         {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
         }
       ],
-      "duration_ms": 182462,
-      "name": "Better (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2024-09-05 22:01:00",

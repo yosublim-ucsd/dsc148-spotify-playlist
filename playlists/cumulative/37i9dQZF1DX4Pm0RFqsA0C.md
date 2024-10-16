@@ -4,7 +4,7 @@
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-187 songs - 12 hr 11 min
+188 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Only One](https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Only One \- The 3rd Album](https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j) | 3:54 | 2021-02-01 | 2024-04-05 |
 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 | 2021-02-01 |  |
 | [Phone Number](https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [노.라.보.세.](https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li) | 3:32 | 2021-02-01 |  |
+| [Poison](https://open.spotify.com/track/2wbJw0ROn1S11TVtjEa4IT) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:43 | 2024-04-04 |  |
 | [Poison](https://open.spotify.com/track/17gXggYxNjopMUZtXRcNnV) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Invitation](https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4) | 3:44 | 2024-04-04 | 2024-04-19 |
 | [Precious Love](https://open.spotify.com/track/01ZTDb5OetwkYVR3BwKgKY) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [parkjiyoon 20th anniversary photo&live album](https://open.spotify.com/album/1EN66ikVqxvfD0uFgHZZa5) | 3:49 | 2021-02-01 | 2022-12-03 |
 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 | 2021-02-01 |  |
@@ -140,7 +141,7 @@
 | [다짐](https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Let Me Love](https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM) | 4:00 | 2024-04-04 |  |
 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 | 2021-02-01 | 2024-08-03 |
 | [동네](https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [김현철 1집 오랜만에/동네](https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh) | 4:32 | 2021-02-01 | 2024-04-19 |
-| [말하자면](https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/1jQtTDFyBBGe7egGQqB2Ag) | 3:35 | 2024-04-04 |  |
+| [말하자면](https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/1jQtTDFyBBGe7egGQqB2Ag) | 3:35 | 2024-04-04 | 2024-10-16 |
 | [말하자면](https://open.spotify.com/track/3fCkxCmaOwJ8UuZD1N4Okx) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/2bklVpbuK5jsVrLpebiu9o) | 3:35 | 2021-02-01 | 2024-04-19 |
 | [말하자면](https://open.spotify.com/track/6GuXef6hLnruq7quS1TdBN) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/00MFnZf1S2DKpo1yhwd732) | 3:38 | 2024-04-04 | 2024-10-13 |
 | [맥주와 땅콩](https://open.spotify.com/track/2VoJPrLM3lxfE9DiDhE4yL) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:52 | 2021-02-01 | 2023-11-14 |

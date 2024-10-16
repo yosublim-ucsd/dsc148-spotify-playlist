@@ -1,13 +1,93 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 220586,
+  "num_followers": 220597,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv3bbgAAAADYBYKZFTha9ZMkx9TxeUUX",
+  "snapshot_id": "Zw5pOgAAAABkBf3UL7EeJtdB+uRilQdp",
   "tracks": [
+    {
+      "added_at": "2024-10-15 13:08:10",
+      "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
+      "added_at": "2024-10-15 13:08:10",
+      "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+    },
+    {
+      "added_at": "2024-10-15 13:08:10",
+      "album": {
+        "name": "Emanuel - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Emanuel - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "added_at": "2024-10-15 13:08:10",
+      "album": {
+        "name": "River (It's Coming On Christmas)",
+        "url": "https://open.spotify.com/album/6yVzXPP3unDEJcb2OKxhuA"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 162392,
+      "name": "River (It's Coming On Christmas)",
+      "url": "https://open.spotify.com/track/3CQRItEPfTkBTbr6QJoY8n"
+    },
+    {
+      "added_at": "2024-10-15 13:08:10",
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
+    },
     {
       "added_at": "2024-10-02 23:46:54",
       "album": {

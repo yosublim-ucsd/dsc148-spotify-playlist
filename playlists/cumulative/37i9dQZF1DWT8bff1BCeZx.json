@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 247246,
       "name": "Kama Si We",
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
@@ -3226,6 +3226,24 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "album": {

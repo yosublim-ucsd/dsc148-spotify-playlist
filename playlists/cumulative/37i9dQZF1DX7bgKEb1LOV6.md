@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-221 songs - 12 hr 50 min
+222 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Make A Wish \(Birthday Song\)](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:49 | 2021-12-16 | 2024-04-19 |
 | [Make A Wish \(Birthday Song\)](https://open.spotify.com/track/13gE0xR1FrVXpUiorU6Szw) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:49 | 2024-02-26 |  |
 | [Make A Wish \(Birthday Song\) \- English Version](https://open.spotify.com/track/1iPmAMVMqoT2ZromLzo305) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:49 | 2021-12-16 | 2023-05-03 |
+| [Make You Shine](https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Pokémon \| Make You Shine](https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j) | 3:19 | 2024-10-15 |  |
 | [Make Your Day](https://open.spotify.com/track/0daAodHPqFFWMb28BBSvkV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round – The 2nd Album Repackage](https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee) | 3:35 | 2021-12-16 |  |
 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 | 2021-12-16 | 2024-04-19 |
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2023-05-02 |  |

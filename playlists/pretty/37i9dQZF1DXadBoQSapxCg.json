@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 313549,
+  "num_followers": 313535,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "Voc\u00ea Tem",
-        "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
-      },
-      "artists": [
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 164583,
-      "name": "Voc\u00ea Tem",
-      "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
         "name": "Grupo bom",
         "url": "https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 180669,
       "name": "Grupo bom",
       "url": "https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
+        "name": "Voc\u00ea Tem",
+        "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
+      },
+      "artists": [
+        {
+          "name": "Dreicon",
+          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 164583,
+      "name": "Voc\u00ea Tem",
+      "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
     },
     {
       "added_at": "2024-10-11 21:13:28",

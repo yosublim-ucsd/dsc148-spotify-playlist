@@ -4103,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/1p28qRVa6fZdnp6Y7CUHJd"
+      },
+      "artists": [
+        {
+          "name": "Marnie Jacobs",
+          "url": "https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138791,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD"
+    },
+    {
+      "album": {
         "name": "Summer Snow",
         "url": "https://open.spotify.com/album/63utaJVYnUlUgpS00dkCC2"
       },

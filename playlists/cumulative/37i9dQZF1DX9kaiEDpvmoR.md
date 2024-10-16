@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-222 songs - 12 hr 43 min
+223 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-27 | 2024-08-23 |
 | [Isn’t That Enough](https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:44 | 2024-08-08 |  |
-| [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 |  |
+| [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag vill stanna här](https://open.spotify.com/track/1UZ6xtJ0O1t7FggXjILBfR) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Jag vill stanna här](https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB) | 3:23 | 2024-06-27 | 2024-08-09 |
 | [John Denver](https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG) | [A Choir of Ghosts](https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L), [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [John Denver](https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG) | 3:07 | 2024-06-27 | 2024-09-20 |
@@ -219,6 +219,7 @@
 | [Wasting Years](https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Wasting Years](https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw) | 3:45 | 2024-09-19 |  |
 | [We're In This Together](https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [We're In This Together](https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs) | 2:20 | 2024-06-27 | 2024-08-30 |
 | [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 |  |
+| [What Went Wrong \(Flat Tyre on a Muddy Road\)](https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [What Went Wrong \(Flat Tyre on a Muddy Road\)](https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn) | 3:53 | 2024-10-10 |  |
 | [What You’re Saying To Me](https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [What You’re Saying To Me](https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH) | 2:46 | 2024-06-27 | 2024-08-23 |
 | [When The Time Is Right](https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [When The Time Is Right](https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY) | 4:45 | 2024-10-03 |  |
 | [Whenever Until Forever](https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Whenever Until Forever](https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH) | 3:44 | 2024-06-27 | 2024-08-30 |

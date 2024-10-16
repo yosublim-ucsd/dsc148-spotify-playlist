@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Kane Brown, Jelly Roll, Cody Johnson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,312 likes - 72 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,554 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,131 likes - 39 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,134 likes - 39 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 38 | [He Died for All of Us](https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Rutger Hoedemaekers](https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Trapped \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L) | 1:35 |
 | 39 | [Líður \- Chernobyl Version](https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:48 |
 
-Snapshot ID: `ZwsNgAAAAAAR50cBMaM5QwguL09jorM8`
+Snapshot ID: `ZwxfAAAAAACIlyd1KivLBNWnEJC8duKC`

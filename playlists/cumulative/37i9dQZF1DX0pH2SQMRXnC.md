@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-798 songs - 1 day 21 hr 41 min
+798 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Crank It Loud](https://open.spotify.com/track/54NYW1EBw5h8tX956UlUHY) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Crank It Loud](https://open.spotify.com/album/1V0ThDNbu07m4mppr4GFdv) | 2:52 | 2024-10-10 |  |
 | [Crash & Burn](https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Crash & Burn](https://open.spotify.com/album/3aZ9Uh2RXJrnRscQ6rCJ5F) | 3:48 | 2021-12-16 | 2023-03-31 |
 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 | 2023-02-09 |  |
-| [Crunch](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 2:59 | 2024-09-13 |  |
+| [Crunch](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 1:38 | 2024-09-13 |  |
 | [Dance With The Devil](https://open.spotify.com/track/2gAdorDt9YDRvI6QW3AI26) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Dance With The Devil](https://open.spotify.com/album/77vCE2hnQJrDj2ADGtiW1D) | 4:12 | 2024-01-18 | 2024-04-19 |
 | [Dance With The Devil](https://open.spotify.com/track/5VCUf3CJuflyaCHf7Fa4mS) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Dance With The Devil](https://open.spotify.com/album/2OgkWxZ9dl8en3NBbNmyzs) | 4:12 | 2021-12-16 | 2024-01-18 |
 | [Dangerous](https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Dangerous](https://open.spotify.com/album/0BmFaRJVXmnZTaOlqc2aFE) | 2:07 | 2024-05-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 69741,
+  "num_followers": 69751,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Fri",
         "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 194181,
       "name": "Fri (feat. Robert Athill)",
       "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Du som snodde min cykel",
         "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
       },
@@ -503,6 +487,26 @@
       "duration_ms": 223515,
       "name": "Du som snodde min cykel",
       "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Allting ordnar sig",
+        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+      },
+      "artists": [
+        {
+          "name": "Achee Flips",
+          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
+        },
+        {
+          "name": "Rob Bourne",
+          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Allting ordnar sig",
+      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -547,6 +551,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "S\u00e5 nice",
         "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 169500,
       "name": "S\u00e5 nice",
       "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Allting ordnar sig",
-        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
-      },
-      "artists": [
-        {
-          "name": "Achee Flips",
-          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
-        },
-        {
-          "name": "Rob Bourne",
-          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Allting ordnar sig",
-      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
         "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194000,
       "name": "Attityd",
       "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+      },
+      "artists": [
+        {
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
       },
       "artists": [
         {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "K\u00e4r Och Galen",
-        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "K\u00e4r Och Galen",
-      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "RONGO",
         "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214000,
       "name": "Vassaste kniven i l\u00e5dan",
       "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "K\u00e4r Och Galen",
+        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "K\u00e4r Och Galen",
+      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
     },
     {
       "added_at": "2024-06-24 11:19:01",

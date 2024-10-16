@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,104 songs - 3 day 8 hr 11 min
+2,106 songs - 3 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -879,7 +879,7 @@
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2023-08-17 | 2024-02-02 |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2022-11-11 |  |
-| [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-01-06 |  |
+| [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-01-06 | 2024-10-16 |
 | [In Dreams](https://open.spotify.com/track/6ZZ4QZuEgjKueuPKixfPC8) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [In Dreams](https://open.spotify.com/album/6JvmEOeIs3HOm2m8mRG5eZ) | 2:40 | 2023-02-13 | 2023-04-04 |
 | [In Harmony](https://open.spotify.com/track/77urtzULRJH4p0bDYvJ4OT) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [In Harmony](https://open.spotify.com/album/3NQVOoX4j90bmkYxUujsUG) | 2:31 | 2022-07-29 | 2022-08-12 |
 | [in my dream EP](https://open.spotify.com/track/5SxMQZawqnsZHybzUJlmce) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [in my dream EP](https://open.spotify.com/album/1nRKafaKn78uSKQxavi5xo) | 2:13 | 2022-04-15 | 2022-11-12 |
@@ -1076,6 +1076,7 @@
 | [Love Yourself](https://open.spotify.com/track/3V4JGeR8omNqFG85PTTy7W) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Love Yourself](https://open.spotify.com/album/6Bz8p4EthN0CkdcY0YEMil) | 2:11 | 2023-03-20 | 2023-10-06 |
 | [Lovealized](https://open.spotify.com/track/6yKvJVPHX3qDdRvtMLjVcq) | [Hydronix](https://open.spotify.com/artist/60sSfJVnyDu9eWnqLGtcDW) | [Lovealized](https://open.spotify.com/album/7tz6vmkJu4hopT5vUgvydL) | 2:51 | 2022-04-15 | 2022-07-01 |
 | [Lovespell](https://open.spotify.com/track/3gV5lV1Y5P93ZqHQAz72TZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Lovespell](https://open.spotify.com/album/0rjaM4lvJKHzsf5D3owH7D) | 2:30 | 2022-07-29 | 2022-10-08 |
+| [Low Battery](https://open.spotify.com/track/1D4S66ipaVqV9du7elf89y) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Low Battery](https://open.spotify.com/album/4AYCDaIFCSdHmXUz6fkoxS) | 1:56 | 2024-10-11 |  |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 | 2024-10-09 |
 | [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
@@ -1618,6 +1619,7 @@
 | [Shiny Cement \- Garden](https://open.spotify.com/track/4Z5iuqme7UL1ihly12mbZr) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shiny Cement](https://open.spotify.com/album/5BQNNaVQL1pKqyBZtOFj4E) | 2:20 | 2022-06-17 | 2023-09-29 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 | 2022-12-17 |
 | [Shorty](https://open.spotify.com/track/74mNIO5GJ2wN4gSHBMutN6) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Shorty](https://open.spotify.com/album/25wroZFXAqdYQyP2S6fmCF) | 1:41 | 2023-06-06 | 2024-06-26 |
+| [shrimp fried rice](https://open.spotify.com/track/3x3XohQ3tsuvhAKiWKEb2b) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [shrimp fried rice](https://open.spotify.com/album/0EkiQfwMrE5I2vo3eCwNdA) | 2:46 | 2024-10-11 |  |
 | [Side Ways](https://open.spotify.com/track/7hPWjXskJniJ8U2BkVbSZJ) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:00 | 2022-10-01 | 2023-01-07 |
 | [Sightseeing](https://open.spotify.com/track/5PpqEXf7oqY1OrZz5D8E4V) | [Alazko](https://open.spotify.com/artist/43WAkxcRtIsDLkoqitUevp) | [Sightseeing](https://open.spotify.com/album/4xm9yQls3EeqojsKiIRJTw) | 2:30 | 2022-10-01 | 2023-01-07 |
 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 | 2023-11-17 |  |
@@ -2107,7 +2109,7 @@
 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 | 2023-11-17 |  |
 | [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 |  |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-08-23 | 2024-10-08 |
-| [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 |  |
+| [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 | 2024-10-16 |
 | [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 | 2024-09-11 |
 | [Zodiac](https://open.spotify.com/track/01tUhIL7bgA6UrByND0Cg3) | [LXXXVII](https://open.spotify.com/artist/311w5PIT9AJHKLoVXGxboO) | [Zodiac](https://open.spotify.com/album/4KJIA7JL7y4Rhfpgb7BeVF) | 2:19 | 2024-02-02 |  |
 | [zodiac](https://open.spotify.com/track/52IDolnJNCfL4rA6UwDCi3) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [zodiac](https://open.spotify.com/album/6cyHjL3dwTcUhaYmdkrCxa) | 2:21 | 2023-03-08 |  |

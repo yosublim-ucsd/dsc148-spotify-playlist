@@ -2,7 +2,7 @@
 
 ### [This Is Summer Walker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO30JqGN)
 
-> This is Summer Walker\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Summer Walker\. The essential tracks, all in one playlist.
 
 46 songs - 2 hr 17 min
 

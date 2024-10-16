@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Aop0u3mbfpJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ)
 
-### [Radio de Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
+### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> Con Katy Perry, Britney Spears, Rihanna y más
+> With Katy Perry, Britney Spears, Rihanna and more
 
 1,906 songs - 4 day 18 hr 23 min
 
@@ -997,7 +997,7 @@
 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 | 2022-10-09 | 2023-01-02 |
 | [Loca \(feat\. Dizzee Rascal\)](https://open.spotify.com/track/6YMPu36VGIknb8Ey1ohW3j) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:13 | 2023-06-03 | 2023-06-04 |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2023-03-20 | 2024-04-01 |
-| [Locked out of Heaven](https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe) | 3:53 | 2024-09-04 | 2024-10-15 |
+| [Locked out of Heaven](https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe) | 3:53 | 2024-09-04 |  |
 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 | 2022-08-10 | 2022-10-17 |
 | [London Bridge](https://open.spotify.com/track/1GH5tpvz5g1ZGKNBPBWkTm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [London Bridge](https://open.spotify.com/album/5AEwzn7BjWpm420KJUO6sV) | 3:28 | 2023-04-16 | 2023-05-04 |
 | [London Bridge](https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:01 | 2023-04-25 | 2023-04-26 |
@@ -1490,7 +1490,7 @@
 | [So Am I \- Toby Green Remix](https://open.spotify.com/track/26c18xZN2XSjK50hoYWQrz) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [So Am I \(The Remixes\)](https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja) | 2:46 | 2022-10-10 | 2022-10-15 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-10-16 | 2022-10-17 |
 | [So Happy I Could Die](https://open.spotify.com/track/4MfBFhIBXrmqrczjYqasLp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:54 | 2023-04-12 | 2023-05-03 |
-| [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2020-10-23 |  |
+| [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2020-10-23 | 2024-10-16 |
 | [Sober](https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Sober](https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA) | 3:17 | 2020-10-18 | 2022-01-18 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-18 | 2021-08-25 |
 | [Solar Power](https://open.spotify.com/track/5VmpLtRycwbA54XsTffKq4) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7) | 3:12 | 2021-09-01 | 2021-11-02 |

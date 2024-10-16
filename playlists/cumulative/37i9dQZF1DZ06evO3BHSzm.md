@@ -2,7 +2,7 @@
 
 ### [This Is The Who](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BHSzm)
 
-> This is The Who\. The essential tracks, all in one playlist.
+> This Is The Who\. Los temas esenciales, todos en una lista.
 
 112 songs - 7 hr 17 min
 

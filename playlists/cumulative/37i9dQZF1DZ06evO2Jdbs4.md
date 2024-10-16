@@ -2,7 +2,7 @@
 
 ### [This Is Bobby Pulido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Jdbs4)
 
-> This Is Bobby Pulido\. Los temas esenciales, todos en una lista.
+> This is Bobby Pulido\. The essential tracks, all in one playlist.
 
 88 songs - 5 hr 5 min
 
@@ -17,7 +17,7 @@
 | [Como Dos Extraños](https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I) | 3:32 | 2022-06-01 |  |
 | [Como Siempre Te Soñé](https://open.spotify.com/track/37j1gDiAgfmNpCrunr5YY8) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:19 | 2022-07-29 | 2022-10-01 |
 | [Cuando Me Dejes De Amar](https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:26 | 2022-06-08 | 2022-09-09 |
-| [Cumbia Vallenata](https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:16 | 2022-06-01 | 2024-10-03 |
+| [Cumbia Vallenata](https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:16 | 2022-06-01 |  |
 | [Cuántas Mentiras](https://open.spotify.com/track/3tvk1SzPEbdvjtWMWQuXLD) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6m0s7o4LG4nnAbElx9QwIr) | 3:17 | 2022-06-07 | 2022-06-09 |
 | [Desnúdame Con La Boca](https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enfermo](https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH) | 3:44 | 2022-06-03 | 2022-10-13 |
 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2022-06-01 |  |
@@ -39,7 +39,7 @@
 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 | 2022-06-01 |  |
 | [La Rosa / Flecha Envenenada \(feat\. Bobby Pulido\)](https://open.spotify.com/track/1CnGSMYKYFMmZGJU4mqtYq) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 6:00 | 2022-06-01 |  |
 | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv) | 3:55 | 2023-11-10 |  |
-| [Las Movidas](https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp) | 3:04 | 2023-06-20 |  |
+| [Las Movidas](https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp) | 3:04 | 2023-06-20 | 2024-10-16 |
 | [Le Pediré](https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:32 | 2022-06-01 |  |
 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 | 2022-06-01 |  |
 | [Llórame](https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llórame](https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf) | 3:06 | 2022-06-01 | 2024-09-21 |

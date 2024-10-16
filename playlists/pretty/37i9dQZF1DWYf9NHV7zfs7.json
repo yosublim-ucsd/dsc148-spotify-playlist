@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Zoe Gotusso",
-  "num_followers": 54991,
+  "num_followers": 55015,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
+    },
+    {
+      "added_at": "2024-10-14 19:08:31",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
@@ -407,22 +427,6 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
-        "name": "un mech\u00f3n de pelo",
-        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "buenos aires",
-      "url": "https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81"
-    },
-    {
-      "added_at": "2024-10-14 19:08:31",
-      "album": {
         "name": "Miranda Es Imposible!",
         "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
       },
@@ -455,22 +459,18 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 153609,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81"
     },
     {
       "added_at": "2024-10-14 19:08:31",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254224,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
+    },
+    {
+      "added_at": "2024-10-14 19:08:31",
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 200520,
       "name": "Santa Marta",
       "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
-    },
-    {
-      "added_at": "2024-10-14 19:08:31",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254224,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
     },
     {
       "added_at": "2024-10-14 19:08:31",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
-        "name": "Vida Lejana",
-        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
-    },
-    {
-      "added_at": "2024-10-14 19:08:31",
-      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
+    },
+    {
+      "added_at": "2024-10-14 19:08:31",
+      "album": {
+        "name": "Vida Lejana",
+        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
     },
     {
       "added_at": "2024-10-14 19:08:31",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
-        "name": "Salvando las Distancias",
-        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Te So\u00f1aba",
-      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
-    },
-    {
-      "added_at": "2024-10-14 19:08:31",
-      "album": {
         "name": "Mil Horas",
         "url": "https://open.spotify.com/album/6tJzhzcKJZVuUUOp4c2fUn"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 180162,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa"
+    },
+    {
+      "added_at": "2024-10-14 19:08:31",
+      "album": {
+        "name": "Salvando las Distancias",
+        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Te So\u00f1aba",
+      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
     },
     {
       "added_at": "2024-10-14 19:08:31",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
+        "name": "Francotirador",
+        "url": "https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Francotirador",
+      "url": "https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN"
+    },
+    {
+      "added_at": "2024-10-14 19:08:31",
+      "album": {
         "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
         "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
-    },
-    {
-      "added_at": "2024-10-14 19:08:31",
-      "album": {
-        "name": "Francotirador",
-        "url": "https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Francotirador",
-      "url": "https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN"
     },
     {
       "added_at": "2024-10-14 19:08:31",

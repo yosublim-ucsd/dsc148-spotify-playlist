@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 481455,
+  "num_followers": 481649,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -277,20 +277,24 @@
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
-      "added_at": "2024-09-12 17:04:48",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+        "name": "24 (Turn It Up) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
         }
       ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+      "duration_ms": 191084,
+      "name": "24 (Turn It Up) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -313,24 +317,20 @@
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
-      "added_at": "2024-09-26 23:00:00",
+      "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "24 (Turn It Up) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 196721,
-      "name": "24 (Turn It Up) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Complicated (with Fridayy)",
-        "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 270545,
-      "name": "Complicated (with Fridayy)",
-      "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
-    },
-    {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
         "name": "One Last Call",
         "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
+        "name": "Complicated (with Fridayy)",
+        "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 270545,
+      "name": "Complicated (with Fridayy)",
+      "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
     },
     {
       "added_at": "2024-09-12 17:04:48",

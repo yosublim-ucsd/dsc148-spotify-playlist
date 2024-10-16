@@ -2339,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Hasta que me olvides",
+        "url": "https://open.spotify.com/album/7HTw6KTSo3VUvA9NIl4y8v"
+      },
+      "artists": [
+        {
+          "name": "Mateo Varela",
+          "url": "https://open.spotify.com/artist/69xxT258WnlYNSEt01Dh5w"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Hasta que me olvides",
+      "url": "https://open.spotify.com/track/2V7xlx5Huxh4Q6bPofibNH"
+    },
+    {
+      "album": {
         "name": "Have Faith In What Will Be",
         "url": "https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV"
       },
@@ -4400,6 +4418,24 @@
       "duration_ms": 143253,
       "name": "Preludio Saudade: La Catedral",
       "url": "https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n"
+    },
+    {
+      "album": {
+        "name": "Present in Time",
+        "url": "https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW"
+      },
+      "artists": [
+        {
+          "name": "Enzo Costa",
+          "url": "https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149858,
+      "name": "Present in Time",
+      "url": "https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp"
     },
     {
       "album": {

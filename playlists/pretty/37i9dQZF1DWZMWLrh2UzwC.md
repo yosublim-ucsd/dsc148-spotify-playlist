@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,845 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,830 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 |
 | 81 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
 | 82 | [Switch It Up](https://open.spotify.com/track/4Y2VmEuHfPaOSNXp1i0GD8) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Switch It Up](https://open.spotify.com/album/1NFUjMOFFwbZlePGGHptZ8) | 2:36 |
-| 83 | [TARDIS \- hardest](https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TARDIS \(hardest\)](https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L) | 4:33 |
+| 83 | [TARDIS \(hardest\)](https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TARDIS \(hardest\)](https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L) | 4:33 |
 | 84 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
 | 85 | [A Thousand Years](https://open.spotify.com/track/0VgDXkaNfs91oTrEsQl7nK) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [A Thousand Years](https://open.spotify.com/album/3BGuXThsGr0XvIFWPVRkhD) | 3:32 |
 | 86 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |

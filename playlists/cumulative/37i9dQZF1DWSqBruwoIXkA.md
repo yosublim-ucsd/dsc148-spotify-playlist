@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this \- cover: ROSIE & Zach Hood
 
-814 songs - 1 day 20 hr 50 min
+815 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [hurt so bad](https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 4:02 | 2022-09-16 | 2023-03-18 |
 | [hurt so bad](https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [hurt so bad](https://open.spotify.com/album/2btlqRkfHY0u4IZdKk1lcC) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 |  |
-| [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 |  |
+| [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 | 2024-10-16 |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-10-13 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
 | [I Burned LA Down](https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:15 | 2022-10-28 | 2023-08-05 |
@@ -485,6 +485,7 @@
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Love You More](https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You More](https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac) | 2:49 | 2022-02-25 | 2022-10-22 |
 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-04-29 |  |
+| [love's not pain](https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [love's not pain](https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn) | 2:26 | 2024-10-11 |  |
 | [Love's The Worst](https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Love's The Worst EP](https://open.spotify.com/album/5eeijGABYrckBfojHf6zio) | 2:56 | 2023-10-06 | 2023-10-28 |
 | [lovebomb](https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:09 | 2022-10-28 | 2023-02-18 |
 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-13 | 2023-11-18 |
@@ -616,7 +617,7 @@
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-07-18 | 2022-07-23 |
 | [Ruins](https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Ruins](https://open.spotify.com/album/49xPyLWptFULo4SmaCW6D0) | 3:20 | 2022-05-27 | 2022-06-10 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-05-20 |
-| [Sad About You](https://open.spotify.com/track/6n4p56pjlwieUzyBcXtvK1) | [Reid Wilson](https://open.spotify.com/artist/5YlzV8KSHg4YLAbNKi50Bf) | [Sad About You](https://open.spotify.com/album/5COqkRTwPDzOmcBe6tPUyH) | 2:33 | 2024-10-11 |  |
+| [Sad About You](https://open.spotify.com/track/6n4p56pjlwieUzyBcXtvK1) | [Reid Wilson](https://open.spotify.com/artist/5YlzV8KSHg4YLAbNKi50Bf) | [Sad About You](https://open.spotify.com/album/5COqkRTwPDzOmcBe6tPUyH) | 2:33 | 2024-10-11 | 2024-10-16 |
 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 | 2023-10-13 | 2024-01-19 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2024-01-12 |  |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-28 | 2024-09-14 |
@@ -686,7 +687,7 @@
 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 | 2024-01-12 | 2024-04-27 |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-07 | 2024-09-14 |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-03-18 | 2022-04-21 |
-| [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 | 2024-05-17 | 2024-10-14 |
+| [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 | 2024-05-17 |  |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-08 |  |
 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2022-07-22 | 2023-04-29 |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-07-29 |

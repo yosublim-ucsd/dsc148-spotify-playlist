@@ -2,7 +2,7 @@
 
 ### [On Tour Korea: Jorja Smith](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
 
-> <JORJA SMITH LIVE IN SEOUL \- FALLING OR FLYING TOURr> 2024년 10월 25일\(금\) 오후 8시 @YES 24 라이브 홀\(서울\)
+> <JORJA SMITH LIVE IN SEOUL \- FALLING OR FLYING TOUR> 2024년 10월 25일\(금\) 오후 8시 @YES 24 라이브 홀\(서울\)
 
 83 songs - 4 hr 37 min
 

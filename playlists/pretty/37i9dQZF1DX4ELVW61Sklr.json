@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 186152,
+  "num_followers": 186157,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 155933,
       "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -589,20 +589,24 @@
       "url": "https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -625,6 +629,22 @@
       "url": "https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
@@ -639,26 +659,6 @@
       "duration_ms": 144453,
       "name": "What Christmas Means to Me - from \"The Best Man Holiday Original Motion Picture Soundtrack\"",
       "url": "https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -845,26 +845,6 @@
       "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "December Baby",
-        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 237660,
-      "name": "Wishlist (feat. PJ Morton)",
-      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
-    },
-    {
       "added_at": "2023-11-03 05:45:27",
       "album": {
         "name": "Christmas Kisses",
@@ -887,6 +867,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "December Baby",
+        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 237660,
+      "name": "Wishlist (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas After Midnight",
         "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "His Gift",
         "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 250266,
       "name": "Glory To The King - His Gift Version",
       "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "To: You (a holiday joint)",
-        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 192455,
-      "name": "To: You",
-      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Def The Halls",
         "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 214183,
       "name": "Wrap Me Up",
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "To: You (a holiday joint)",
+        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 192455,
+      "name": "To: You",
+      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1125,26 +1125,6 @@
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        }
-      ],
-      "duration_ms": 186098,
-      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Still Home For The Holidays",
@@ -1163,6 +1143,26 @@
       "duration_ms": 175347,
       "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
         "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 237666,
       "name": "In Love at Christmas",
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1255,6 +1255,22 @@
       "duration_ms": 296255,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
+    },
+    {
+      "added_at": "2023-11-03 05:45:27",
+      "album": {
+        "name": "This Holiday",
+        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1287,22 +1303,6 @@
       "duration_ms": 317847,
       "name": "Christmastime is here",
       "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
-    },
-    {
-      "added_at": "2023-11-03 05:45:27",
-      "album": {
-        "name": "This Holiday",
-        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "added_at": "2022-11-25 20:23:30",

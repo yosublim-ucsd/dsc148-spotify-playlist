@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 25 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
 | 26 | [Lonely \(feat\. MAX\)](https://open.spotify.com/track/7w9L0X5hoJi5cSqL68IR6s) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 2:47 |
 | 27 | [Always](https://open.spotify.com/track/5poevcmYCOZ8uZQnUuOPxC) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Always](https://open.spotify.com/album/1u3ETW11Uysr6UF6din8CG) | 3:13 |
-| 28 | [BLA BLA BLA](https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:04 |
-| 29 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 28 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 29 | [BLA BLA BLA](https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:04 |
 | 30 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4KoSb4nqOjLMptbDaTbOJv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [11:11](https://open.spotify.com/album/50MeziN5Do8zDtN4wINTTS) | 2:48 |
 | 31 | [Dance in the Dark](https://open.spotify.com/track/3i5jKbMOcBqgnKlx5UyH9d) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dance in the Dark](https://open.spotify.com/album/4rq7tp31zuRebJziiJ2oxB) | 2:58 |
 | 32 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 115 | [Beachgrass](https://open.spotify.com/track/0Hq9LR4QzB39RvrngZpzbA) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1qxtSUzztfc1zPouYoDDsI) | 2:39 |
 | 116 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 
-Snapshot ID: `AbeygAAAAADRWZ+rVytM95S+JhoNkyAT`
+Snapshot ID: `Abe4FgAAAACvPjCSGl+3CuULNEJaQLKk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,667 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,689 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 55 | [Esta es una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 |
 | 56 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 |
 | 57 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
-| 58 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
-| 59 | [Narco](https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Narco](https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS) | 1:04 |
-| 60 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 |
-| 61 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
+| 58 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
+| 59 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 |
+| 60 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
+| 61 | [Narco](https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Narco](https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS) | 1:04 |
 | 62 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 63 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 64 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |

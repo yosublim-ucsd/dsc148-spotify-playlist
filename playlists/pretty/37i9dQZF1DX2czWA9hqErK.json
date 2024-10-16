@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1360200,
+  "num_followers": 1360174,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
         "name": "Rest (with Sasha Alex Sloan)",
         "url": "https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 193064,
       "name": "Rest (with Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "My House Is Not A Home",
         "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 239181,
       "name": "My House Is Not A Home",
       "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -907,22 +907,6 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 156358,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1007,24 +991,8 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 203650,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "Betting on Us",
-        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+        "name": "River",
+        "url": "https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8"
       },
       "artists": [
         {
@@ -1032,41 +1000,9 @@
           "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 155761,
-      "name": "Betting on Us",
-      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 206218,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+      "duration_ms": 156358,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1087,6 +1023,38 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 203650,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 206218,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
         "name": "Songs in the Gravel",
         "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
       },
@@ -1099,6 +1067,22 @@
       "duration_ms": 203077,
       "name": "If I Had a Lover",
       "url": "https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
+        "name": "Betting on Us",
+        "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "Betting on Us",
+      "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
         "name": "Can\u2019t Even Hate You",
         "url": "https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 135198,
-      "name": "Sweet Oblivion",
-      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 135198,
+      "name": "Sweet Oblivion",
+      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1431,18 +1431,34 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "Humankind",
-        "url": "https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd"
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 183288,
-      "name": "Humankind",
-      "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+        "name": "Humankind",
+        "url": "https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+      "duration_ms": 183288,
+      "name": "Humankind",
+      "url": "https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1491,22 +1507,6 @@
       "duration_ms": 133059,
       "name": "Someone That's Better",
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "cut! (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128164,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
-    },
-    {
-      "added_at": "2024-10-08 12:25:21",
-      "album": {
         "name": "12 Notes",
         "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
       },
@@ -1615,18 +1595,22 @@
     {
       "added_at": "2024-10-08 12:25:21",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+        "name": "cut! (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+      "duration_ms": 128164,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
       "added_at": "2024-10-08 12:25:21",
@@ -1643,6 +1627,22 @@
       "duration_ms": 180493,
       "name": "In The Cards",
       "url": "https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE"
+    },
+    {
+      "added_at": "2024-10-08 12:25:21",
+      "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     },
     {
       "added_at": "2024-10-08 12:25:21",

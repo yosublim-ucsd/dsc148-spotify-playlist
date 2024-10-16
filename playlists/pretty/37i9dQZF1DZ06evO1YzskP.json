@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 40890,
+  "num_followers": 41031,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABrqPTrrhGUTwWPuWfMugq8",
+  "snapshot_id": "ZwxfAAAAAAC0Yx/rwFj2EJMfjeJoottQ",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHV FLX",
         "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pap\u00e1 De Los Pitufos",
-        "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
       "artists": [
         {
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 149946,
-      "name": "El Pap\u00e1 De Los Pitufos",
-      "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+        "name": "El Pap\u00e1 De Los Pitufos",
+        "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
+      "duration_ms": 149946,
+      "name": "El Pap\u00e1 De Los Pitufos",
+      "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
     },
     {
       "added_at": null,

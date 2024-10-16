@@ -1,12 +1,12 @@
 {
-  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 357746,
+  "description": "This is Eric Clapton. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 357761,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAACYUYNzyvQ9gESszo4MGxy",
+  "snapshot_id": "ZwxfAAAAAADgZ/+/TwxGYlVUiPBFr1A5",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live from Madison Square Garden",
-        "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 332813,
-      "name": "Can't Find My Way Home - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O"
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+        "name": "Live from Madison Square Garden",
+        "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+      "duration_ms": 332813,
+      "name": "Can't Find My Way Home - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic Live",
-      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
+      "duration_ms": 239053,
+      "name": "Before You Accuse Me - Acoustic Live",
+      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
     },
     {
       "added_at": null,
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 239053,
-      "name": "Before You Accuse Me - Acoustic Live",
-      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic Live",
+      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
       "added_at": null,

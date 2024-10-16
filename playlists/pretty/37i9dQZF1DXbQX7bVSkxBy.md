@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK?si=SOwtrhu8R1qkXuYD\_pqr3A>Preye Odede</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,971 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,998 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

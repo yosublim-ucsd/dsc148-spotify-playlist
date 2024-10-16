@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/0VbEh1bL0nDmEDQBYMB0qR"
+      },
+      "artists": [
+        {
+          "name": "Orcrist",
+          "url": "https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/7oUhbMscIgsIp2hMYkj3kC"
+    },
+    {
+      "album": {
         "name": "Beautiful Place",
         "url": "https://open.spotify.com/album/1Y3DJYLI58h8DdZhlQTcyA"
       },

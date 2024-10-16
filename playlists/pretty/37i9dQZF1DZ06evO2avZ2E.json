@@ -1,12 +1,12 @@
 {
-  "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2685,
+  "description": "This Is Vanessa Zamora. Los temas esenciales, todos en una lista.",
+  "num_followers": 2687,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAKHUvq9mTdS+pCdU6qS/SB",
+  "snapshot_id": "ZwxfAAAAAADXcmTS0f4KBys+dslRFvMg",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
       },
       "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
       "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 94000,
-      "name": "lilia",
-      "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OPTEMOS",
         "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 178500,
       "name": "OPTEMOS",
       "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 94000,
+      "name": "lilia",
+      "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atl\u00e1ntica",
+        "url": "https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Sonidos y Leyendas (feat. Vanessa Zamora)",
+      "url": "https://open.spotify.com/track/5swZ6J3habONISd330y55t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -571,58 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atl\u00e1ntica",
-        "url": "https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Sonidos y Leyendas (feat. Vanessa Zamora)",
-      "url": "https://open.spotify.com/track/5swZ6J3habONISd330y55t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 90875,
-      "name": "caballos",
-      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 219449,
-      "name": "Hbls Mucho",
-      "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RESISTOL +",
         "url": "https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz"
       },
@@ -647,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
       "artists": [
         {
@@ -656,9 +624,25 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
+      "duration_ms": 219449,
+      "name": "Hbls Mucho",
+      "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 90875,
+      "name": "caballos",
+      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 130021,
       "name": "Te Choca Te Checa",
       "url": "https://open.spotify.com/track/1Twvcodfxn69xkCHNghbQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Este Final",
+      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Este Final",
-      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venus (Remix)",
         "url": "https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 232753,
       "name": "Venus (Remix)",
       "url": "https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 218452,
-      "name": "Correr",
-      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ISABEL LP",
         "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 333750,
       "name": "Castillo De Arena",
       "url": "https://open.spotify.com/track/0CYNGsiMY2VjOBdIh2fWIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 218452,
+      "name": "Correr",
+      "url": "https://open.spotify.com/track/3RlWx4MPft8Ienq8JqabJI"
     },
     {
       "added_at": null,

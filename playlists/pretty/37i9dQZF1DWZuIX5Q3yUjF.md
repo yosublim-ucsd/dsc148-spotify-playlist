@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Feliciana
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,735 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,742 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 11 | [Romanzo Rosa](https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [Romanzo Rosa](https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6) | 3:01 |
 | 12 | [FIORI DI CARTA](https://open.spotify.com/track/3FNAlldoBSKh54CapcthJI) | [KAWAKAMI](https://open.spotify.com/artist/2QsyKTC6pUGz4hpGs6zBG7), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [FIORI DI CARTA](https://open.spotify.com/album/7sJXAGadI2De4sCo2SGPDm) | 2:27 |
 | 13 | [C'AMMISCAMM ANCORA](https://open.spotify.com/track/4li77JVuCpb2Ggp2m6GBKK) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [C'AMMISCAMM ANCORA](https://open.spotify.com/album/2LjYdhVS7Ho0e2kxb3hQmW) | 2:22 |
-| 14 | [Blu \- Settembre](https://open.spotify.com/track/43CsR5UOJYTC8d9sKDgrmS) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Blu \- Settembre](https://open.spotify.com/album/6jo07dwFj7Go9cxTyIPp8R) | 2:40 |
+| 14 | [Blu \- Settembre](https://open.spotify.com/track/43CsR5UOJYTC8d9sKDgrmS) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Blu \- Settembre](https://open.spotify.com/album/6jo07dwFj7Go9cxTyIPp8R) | 2:39 |
 | 15 | [Giostre](https://open.spotify.com/track/13Ig49AeCaLKKSX00S1spC) | [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [Giostre](https://open.spotify.com/album/5DcKRnwoaptKHGlpeBlnOp) | 3:34 |
 | 16 | [COLD](https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [COLD](https://open.spotify.com/album/3VNViiWGXdYoD27WEsOWi4) | 1:29 |
 | 17 | [Nuova Forma](https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Nuova Forma](https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs) | 3:19 |

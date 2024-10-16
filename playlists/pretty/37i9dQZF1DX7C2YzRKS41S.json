@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 127116,
+  "num_followers": 127161,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-09-20 13:56:03",
       "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184963,
+      "name": "Telefon\u00eda",
+      "url": "https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp"
+    },
+    {
+      "added_at": "2024-09-20 13:56:03",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
-    },
-    {
-      "added_at": "2024-09-20 13:56:03",
-      "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 184963,
-      "name": "Telefon\u00eda",
-      "url": "https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp"
     },
     {
       "added_at": "2024-09-20 13:56:03",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-09-20 13:56:03",
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+        "name": "Simply Paradise",
+        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
         }
       ],
-      "duration_ms": 202813,
-      "name": "Roll it on Home",
-      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
+      "duration_ms": 155695,
+      "name": "Simply Paradise",
+      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

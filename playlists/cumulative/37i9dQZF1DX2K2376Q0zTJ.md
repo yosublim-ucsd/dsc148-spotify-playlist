@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: eill
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Qrion
 
-1,229 songs - 3 day 0 hr 41 min
+1,230 songs - 3 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [How's The Weather?](https://open.spotify.com/track/2fDYeWXk5CZa5fDu55TXVR) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [How's The Weather?](https://open.spotify.com/album/61DqjqYnKIVtoKmw8rujY4) | 3:47 | 2023-06-06 | 2023-07-05 |
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-03-05 | 2024-04-03 |
 | [Huh? \- feat\. MaRI](https://open.spotify.com/track/4y2DV7E7KlVFgvtDrVurZL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 2:16 | 2023-09-05 | 2023-11-08 |
+| [Hush My Heart](https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Hush My Heart](https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI) | 2:56 | 2024-10-15 |  |
 | [I am not maternal](https://open.spotify.com/track/51aTV71knVrYu9b5r5w8XV) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 2:04 | 2024-01-09 |  |
 | [i care](https://open.spotify.com/track/0IBP1gSpcGwj5ohApd2gqa) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [i care](https://open.spotify.com/album/31CPw73XmVhdQJzjkZrNMD) | 4:24 | 2022-05-04 | 2022-06-01 |
 | [I checked your cellphone](https://open.spotify.com/track/5qzkYYg7WmIj9yJVIglD7n) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:32 | 2024-01-09 | 2024-02-07 |
@@ -341,7 +342,7 @@
 | [i/o](https://open.spotify.com/track/5tE1DWfXwKUlN9N6lUbqmq) | [MINAKEKKE](https://open.spotify.com/artist/4PJ4EXyGkUrYuZt9AwW3eT) | [i/o](https://open.spotify.com/album/0d5rs7EK6PHbsiIzOJqWzO) | 3:28 | 2022-01-04 | 2022-12-07 |
 | [Ice Age](https://open.spotify.com/track/1SmMwgXOsfUSkceYwkPPrn) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [mani mani](https://open.spotify.com/album/5qz9YIGC9q3hIObRBdzQKp) | 4:04 | 2024-02-06 | 2024-03-06 |
 | [ICE CREAM.](https://open.spotify.com/track/3JTJ62eyEnldRkMzRoRHug) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 | 2023-08-01 | 2023-09-06 |
-| [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 | 2024-07-11 |  |
+| [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 | 2024-07-11 | 2024-10-16 |
 | [Ideals](https://open.spotify.com/track/5mtJlCniBac2Jhx0eorAPZ) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 2:55 | 2022-07-05 | 2023-04-05 |
 | [If](https://open.spotify.com/track/10q5xuxzTGWyBtG0fQfseC) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/4wxvHYc2ESuh2euEMn2SlF) | 3:15 | 2021-11-30 | 2022-01-05 |
 | [If](https://open.spotify.com/track/42giHq6f5YD54B11cEXOHg) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [If](https://open.spotify.com/album/54pITrmUfr4TLftABZrML1) | 2:53 | 2023-02-01 | 2023-03-01 |

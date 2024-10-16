@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,719 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,720 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 7 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 |
 | 8 | [What Makes You Dance \- Vocal Version](https://open.spotify.com/track/25c0wQxy5TZxkqESkiqzik) | [Misto Kay](https://open.spotify.com/artist/0rsQVrlGriu6AjSiSu0llW), [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2) | [What Makes You Dance \(Vocal Version\)](https://open.spotify.com/album/4IsLiLDHUzUMB8UVN31IvE) | 5:00 |
 | 9 | [Gravity \- Payfone Remix](https://open.spotify.com/track/6UcCynkyFSmmjcxBdPqeTg) | [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc), [Payfone](https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu) | [Gravity \(Payfone Remix\)](https://open.spotify.com/album/4UVDulFuJkfv84DZGnGxSJ) | 5:47 |
-| 10 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 10 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 11 | [Get U What U Want](https://open.spotify.com/track/7sswPponP7QFEhJK4HoZmQ) | [GLINTSAL](https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1), [Glints](https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta) | [Get U What U Want](https://open.spotify.com/album/5Q4bvgj8YnMhC6IzD96ZxT) | 3:29 |
 | 12 | [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 |
 | 13 | [19\-6 Paris](https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [19\-6 Paris](https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK) | 4:32 |

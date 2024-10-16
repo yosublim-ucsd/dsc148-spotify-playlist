@@ -2,7 +2,7 @@
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Zudizilla\. Todos os maiores hits em uma só playlist.
 
 75 songs - 4 hr 42 min
 

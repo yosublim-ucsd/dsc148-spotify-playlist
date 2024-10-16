@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-386 songs - 19 hr 27 min
+387 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2023-11-17 |
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-10 | 2024-04-19 |
 | [LEMONHEAD \(feat\. 42 Dugg\)](https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:10 | 2023-03-31 | 2023-06-10 |
+| [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 | 2024-10-11 |  |
 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 | 2023-06-23 | 2023-07-01 |
 | [Let's Talk Facts \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/35CTK4SPjABOfbAZShfWYA) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Let's Talk Facts \(feat\. Rowdy Rebel\)](https://open.spotify.com/album/7vOjPrUXX5vEqy34TeYRF6) | 1:59 | 2021-08-20 | 2022-04-21 |
 | [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-10 |  |
@@ -272,7 +273,7 @@
 | [Potato Loaded \(feat\. Destroy Lonely\)](https://open.spotify.com/track/79GhK8ZAUQxGFfr6rEpdms) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Potato Loaded \(feat\. Destroy Lonely\)](https://open.spotify.com/album/0bHndITXf6STlJZ2rrk8UK) | 2:18 | 2024-04-05 | 2024-10-06 |
 | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25) | 3:14 | 2023-05-26 | 2024-02-24 |
 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 | 2024-03-22 | 2024-10-09 |
-| [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 | 2023-10-20 |  |
+| [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 | 2023-10-20 | 2024-10-16 |
 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 | 2023-06-23 | 2023-07-01 |
 | [Presidential Rolex](https://open.spotify.com/track/5t0MkcpR3E24eNQcJN48WP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:28 | 2023-07-07 | 2024-09-28 |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-07-29 | 2022-10-10 |

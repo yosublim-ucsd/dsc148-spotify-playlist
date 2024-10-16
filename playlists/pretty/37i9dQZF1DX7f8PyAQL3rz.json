@@ -1,6 +1,6 @@
 {
   "description": "correndo SEMPRE atr\u00e1s do som",
-  "num_followers": 1401382,
+  "num_followers": 1401412,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -359,30 +359,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Sorriso no Rosto",
-        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sorriso no Rosto",
-      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Sorriso no Rosto",
+        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sorriso no Rosto",
+      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -563,38 +563,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "O Cara Do Momento",
-        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Tenho Que Me Decidir",
-      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 288000,
       "name": "Nois J\u00e1 T\u00e1 Rico",
       "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "O Cara Do Momento",
+        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Tenho Que Me Decidir",
+      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -799,6 +799,42 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -839,42 +875,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 179945,
-      "name": "Loucura",
-      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Filho da Noite",
         "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
       },
@@ -891,58 +891,6 @@
       "duration_ms": 236666,
       "name": "Filho da Noite",
       "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
-        "name": "Tropa Do Pisa",
-        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tropa Do Pisa",
-      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
-        "name": "Qual \u00e9 seu desejo?",
-        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Qual \u00e9 seu desejo?",
-      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -999,6 +947,58 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -1143,34 +1143,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Todo Mundo Odeia o IG",
-        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 271058,
-      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
-      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Pagodeiro, Pt. 2",
         "url": "https://open.spotify.com/album/0lkozsIGRTBmRrylBpfOSj"
       },
@@ -1219,6 +1191,34 @@
       "duration_ms": 722305,
       "name": "Pagodeiro, Pt. 2",
       "url": "https://open.spotify.com/track/6lVO4RRaF6PZCo9ClhXy0A"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Todo Mundo Odeia o IG",
+        "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 271058,
+      "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
+      "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -1319,6 +1319,94 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
+        "name": "365 Dias",
+        "url": "https://open.spotify.com/album/531yrQRB8MaHyBIDg6IWpF"
+      },
+      "artists": [
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC G10",
+          "url": "https://open.spotify.com/artist/4OS9OnPH5DQm26wPTvrzoG"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        }
+      ],
+      "duration_ms": 521958,
+      "name": "365 Dias",
+      "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 168959,
+      "name": "Me Chama Pelo Meu Vulgo",
+      "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "E A\u00ed Como Que T\u00e1 ?",
+        "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "E A\u00ed Como Que T\u00e1 ?",
+      "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
         "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
         "url": "https://open.spotify.com/album/6KgnlBPf54hiTXIBNtfYcJ"
       },
@@ -1367,34 +1455,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "O Cara Do Momento, Vol. 2",
-        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 168959,
-      "name": "Me Chama Pelo Meu Vulgo",
-      "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj"
       },
@@ -1415,66 +1475,6 @@
       "duration_ms": 185138,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
-        "name": "E A\u00ed Como Que T\u00e1 ?",
-        "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "E A\u00ed Como Que T\u00e1 ?",
-      "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
-        "name": "365 Dias",
-        "url": "https://open.spotify.com/album/531yrQRB8MaHyBIDg6IWpF"
-      },
-      "artists": [
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "MC G10",
-          "url": "https://open.spotify.com/artist/4OS9OnPH5DQm26wPTvrzoG"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "MC Vine7",
-          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
-        },
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        }
-      ],
-      "duration_ms": 521958,
-      "name": "365 Dias",
-      "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
     },
     {
       "added_at": "2024-10-11 03:03:00",

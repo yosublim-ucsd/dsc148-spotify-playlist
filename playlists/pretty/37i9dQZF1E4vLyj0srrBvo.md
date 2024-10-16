@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Cults, Sidewalks and Skeletons and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,196 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,214 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Money](https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 3:53 |
 | 50 | [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 |
 
-Snapshot ID: `Zw3gZQAAAACHA0FE4b923Y8IgI5zqHj2`
+Snapshot ID: `Zw8rEQAAAACWAHJu/x/EgKdR5cfrjGjJ`

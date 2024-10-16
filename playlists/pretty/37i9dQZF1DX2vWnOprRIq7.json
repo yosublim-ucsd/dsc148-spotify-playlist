@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Rubio.",
-  "num_followers": 19232,
+  "num_followers": 19246,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
+        "name": "Kulo Tenassi Deluxe",
+        "url": "https://open.spotify.com/album/68phYLPYbMoENxIarPPJks"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 114222,
+      "name": "Kulo Tenassi",
+      "url": "https://open.spotify.com/track/0X6DyAYPKofkItsbad1rdA"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
         "name": "Lazy - 12:00 Version",
         "url": "https://open.spotify.com/album/0GYDa5BhIDVjcfnA3mjZeT"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 209925,
       "name": "Lazy - 12:00 Version",
       "url": "https://open.spotify.com/track/0XgCulCVs0BsO4VQuLxSQl"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
-        "name": "Kulo Tenassi Deluxe",
-        "url": "https://open.spotify.com/album/68phYLPYbMoENxIarPPJks"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 114222,
-      "name": "Kulo Tenassi",
-      "url": "https://open.spotify.com/track/0X6DyAYPKofkItsbad1rdA"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 274511,
-      "name": "Un Taxi al Infierno",
-      "url": "https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
         "name": "Hechizao (Pyura Remix)",
         "url": "https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 206620,
       "name": "Hechizao - Pyura Remix",
       "url": "https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 274511,
+      "name": "Un Taxi al Infierno",
+      "url": "https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
-      },
-      "artists": [
-        {
-          "name": "BADS",
-          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
-        }
-      ],
-      "duration_ms": 164513,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178091,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
+      },
+      "artists": [
+        {
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
+        }
+      ],
+      "duration_ms": 164513,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "La virgen de los vientos",
-        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
-      },
-      "artists": [
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 162232,
-      "name": "La virgen de los vientos",
-      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
         "name": "Nuestros Besos",
         "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
+        "name": "La virgen de los vientos",
+        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
+      },
+      "artists": [
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+        }
+      ],
+      "duration_ms": 162232,
+      "name": "La virgen de los vientos",
+      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
         "name": "BERLIN",
         "url": "https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 257042,
       "name": "BERLIN",
       "url": "https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -1163,42 +1163,6 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Los Abismos Negros",
-        "url": "https://open.spotify.com/album/4bcsuLMSxNFcfbR0NelEnd"
-      },
-      "artists": [
-        {
-          "name": "La Danza de las Bestias",
-          "url": "https://open.spotify.com/artist/4j14FazjpzqFRuICpOOwbA"
-        },
-        {
-          "name": "Corresponsal",
-          "url": "https://open.spotify.com/artist/7b9f0rwBf8vv8sgDxutQg0"
-        }
-      ],
-      "duration_ms": 411428,
-      "name": "Los Abismos Negros - Corresponsal Remix",
-      "url": "https://open.spotify.com/track/0G56lwXL8nECeC239CXSu4"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
-        "name": "El \u00daltimo Romance",
-        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
-      },
-      "artists": [
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "El \u00daltimo Romance",
-      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
         "name": "Politoxic",
         "url": "https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY"
       },
@@ -1219,22 +1183,38 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+        "name": "El \u00daltimo Romance",
+        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
       },
       "artists": [
         {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+      "duration_ms": 302750,
+      "name": "El \u00daltimo Romance",
+      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
+        "name": "Los Abismos Negros",
+        "url": "https://open.spotify.com/album/4bcsuLMSxNFcfbR0NelEnd"
+      },
+      "artists": [
+        {
+          "name": "La Danza de las Bestias",
+          "url": "https://open.spotify.com/artist/4j14FazjpzqFRuICpOOwbA"
+        },
+        {
+          "name": "Corresponsal",
+          "url": "https://open.spotify.com/artist/7b9f0rwBf8vv8sgDxutQg0"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "Los Abismos Negros - Corresponsal Remix",
+      "url": "https://open.spotify.com/track/0G56lwXL8nECeC239CXSu4"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -1259,18 +1239,22 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Encandilante divino",
-        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
       "artists": [
         {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 163676,
-      "name": "Azar",
-      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -1291,6 +1275,22 @@
       "duration_ms": 143418,
       "name": "Butoh iA",
       "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
+        "name": "Encandilante divino",
+        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
+      },
+      "artists": [
+        {
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+        }
+      ],
+      "duration_ms": 163676,
+      "name": "Azar",
+      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
+      },
+      "artists": [
+        {
+          "name": "MARTE",
+          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
+        }
+      ],
+      "duration_ms": 254583,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
+    },
+    {
+      "added_at": "2024-10-14 19:20:05",
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2024-10-14 19:20:05",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
-      },
-      "artists": [
-        {
-          "name": "MARTE",
-          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
-        }
-      ],
-      "duration_ms": 254583,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
     },
     {
       "added_at": "2024-10-14 19:20:05",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2024-10-14 19:20:05",
       "album": {
-        "name": "Morbo",
-        "url": "https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD"
+        "name": "fribRitni",
+        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
       },
       "artists": [
         {
           "name": "Carolo",
           "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 223789,
-      "name": "Morbo",
-      "url": "https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP"
+      "duration_ms": 196556,
+      "name": "fribRitni",
+      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
     },
     {
       "added_at": "2024-10-14 19:20:05",

@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 189750,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
@@ -17714,6 +17714,36 @@
       "duration_ms": 165771,
       "name": "Techeka",
       "url": "https://open.spotify.com/track/2FrZqlR1PrcznpyO7SGSpz"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/0oCkY5TMOJvhJKstQaCh62"
+      },
+      "artists": [
+        {
+          "name": "Gio Valentinno",
+          "url": "https://open.spotify.com/artist/3wQF7KVBpof2yR1Rk31mCt"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218062,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1ODGZWR5UbLXVhnVOd8aVV"
     },
     {
       "album": {

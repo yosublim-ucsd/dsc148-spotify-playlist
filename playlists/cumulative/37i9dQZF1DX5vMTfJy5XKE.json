@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Kelly Clarkson",
+  "description": "'Tis the season! All new holiday releases. Cover: Mark Ambor",
   "name": "New Music Holiday",
   "tracks": [
     {
@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Driving Home for Christmas - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166551,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+    },
+    {
+      "album": {
         "name": "Driving Home for Christmas (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a"
       },
@@ -3178,6 +3196,24 @@
       "duration_ms": 203852,
       "name": "Drunk On Christmas",
       "url": "https://open.spotify.com/track/5dvSKxpjDxRNy4Wyuz5g1j"
+    },
+    {
+      "album": {
+        "name": "Emanuel - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Emanuel - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
     },
     {
       "album": {
@@ -4756,6 +4792,24 @@
       "duration_ms": 183000,
       "name": "Holiday Records",
       "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
+    },
+    {
+      "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
     },
     {
       "album": {
@@ -6583,6 +6637,28 @@
     },
     {
       "album": {
+        "name": "Let It Snow / Blue Christmas",
+        "url": "https://open.spotify.com/album/4tqvvypKjuDzdWe3iAdbh6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2vrXmZleh6X07drB4T3Q5b"
+    },
+    {
+      "album": {
         "name": "Let it Snow",
         "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
       },
@@ -8185,6 +8261,24 @@
     },
     {
       "album": {
+        "name": "River (It's Coming On Christmas)",
+        "url": "https://open.spotify.com/album/6yVzXPP3unDEJcb2OKxhuA"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162392,
+      "name": "River (It's Coming On Christmas)",
+      "url": "https://open.spotify.com/track/3CQRItEPfTkBTbr6QJoY8n"
+    },
+    {
+      "album": {
         "name": "Rockin' Around The Christmas Tree",
         "url": "https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr"
       },
@@ -8280,6 +8374,24 @@
       "duration_ms": 156321,
       "name": "Rudolph The Red-Nosed Reindeer (feat. James Morrison)",
       "url": "https://open.spotify.com/track/2DSuZdVBrxUB4R45yslZ5I"
+    },
+    {
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
       "album": {
@@ -8608,7 +8720,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 193800,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0mUa1ez9zQ5b54YWnDVCAp"

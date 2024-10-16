@@ -4,7 +4,7 @@
 
 > Les meilleurs hits de la pop maghrébine\. Cover: Manal
 
-149 songs - 8 hr 7 min
+150 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [Alwad Alwad](https://open.spotify.com/track/6n9pFAqPUrwgRa5IHwOePU) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Alwad Alwad](https://open.spotify.com/album/0eu7XFjwieYf4qXt3VCjwD) | 3:54 | 2024-04-12 |  |
 | [Ana Li](https://open.spotify.com/track/0QXWD3HCBZhErRayaX8MFz) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Ana Li](https://open.spotify.com/album/6wHY8wCwymtn21pP7v4ojF) | 3:21 | 2024-05-02 | 2024-06-21 |
 | [Ana Lik](https://open.spotify.com/track/5RF5tKkAi4rmPOZRBPaSoM) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ana Lik](https://open.spotify.com/album/2q0y1UupuNPvEzT6cZC8Nn) | 2:32 | 2023-12-15 | 2024-07-06 |
+| [Ana W Nti](https://open.spotify.com/track/4980zLaGgwv5ZE2K5Xv5BR) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Ana W Nti](https://open.spotify.com/album/2QQlptEkrMrBUH3uYshPHq) | 4:05 | 2024-10-15 |  |
 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 | 2023-07-07 | 2024-01-04 |
 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 | 2023-07-07 | 2024-09-08 |
-| [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 | 2023-12-08 |  |
+| [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 | 2023-12-08 | 2024-10-16 |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2023-11-17 | 2024-07-24 |
 | [BACHA](https://open.spotify.com/track/52S3EFw5e1CzZUc9nUpoSU) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BACHA](https://open.spotify.com/album/2kqUCO8m8rcRlfJBUi0Eqg) | 3:00 | 2024-04-12 | 2024-05-17 |
 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 | 2024-07-25 |  |

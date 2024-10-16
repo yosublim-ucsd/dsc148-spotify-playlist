@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 139167,
+  "num_followers": 139172,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 216868,
       "name": "Ripples In The Timeline",
       "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -527,42 +527,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Love Is Real",
-        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Love Is Real",
-      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Rainfall (Praise You) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K"
       },
@@ -583,6 +547,42 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Love Is Real",
+        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "I Want You (feat. Darren Hayes)",
+        "url": "https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Darren Hayes",
+          "url": "https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo"
+        }
+      ],
+      "duration_ms": 172657,
+      "name": "I Want You (feat. Darren Hayes)",
+      "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -611,6 +631,22 @@
       "duration_ms": 197018,
       "name": "MACHINE",
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -635,42 +671,6 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "I Want You (feat. Darren Hayes)",
-        "url": "https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Darren Hayes",
-          "url": "https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo"
-        }
-      ],
-      "duration_ms": 172657,
-      "name": "I Want You (feat. Darren Hayes)",
-      "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "A.M",
         "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 209849,
       "name": "The World",
       "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Sun Phase",
+        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 316454,
+      "name": "Sun Phase",
+      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Since I Don't Have You (Dual Remix)",
-        "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
-      },
-      "artists": [
-        {
-          "name": "Dual Sessions",
-          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
-        },
-        {
-          "name": "Amazonics",
-          "url": "https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W"
-        }
-      ],
-      "duration_ms": 166254,
-      "name": "Since I Don't Have You - Dual Remix",
-      "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 259424,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
+      },
+      "artists": [
+        {
+          "name": "Anakelly",
+          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
+        },
+        {
+          "name": "Leo Portela",
+          "url": "https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Under The Milky Way - Leo Portela Remix",
+      "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
+        "name": "Since I Don't Have You (Dual Remix)",
+        "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
       },
       "artists": [
         {
-          "name": "Anakelly",
-          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
+          "name": "Dual Sessions",
+          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
         },
         {
-          "name": "Leo Portela",
-          "url": "https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk"
+          "name": "Amazonics",
+          "url": "https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W"
         }
       ],
-      "duration_ms": 173793,
-      "name": "Under The Milky Way - Leo Portela Remix",
-      "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
+      "duration_ms": 166254,
+      "name": "Since I Don't Have You - Dual Remix",
+      "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
     },
     {
       "added_at": "2024-02-01 13:01:25",

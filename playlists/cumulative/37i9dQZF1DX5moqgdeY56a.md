@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-145 songs - 8 hr 41 min
+146 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ahí Donde Me Ven](https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:04 | 2023-10-13 | 2024-04-19 |
 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 | 2021-12-13 |  |
 | [Albur De Amor](https://open.spotify.com/track/4VCuUyLW4lHvVsAgR1cNZd) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 2:36 | 2022-09-22 | 2022-11-13 |
+| [Albur De Amor](https://open.spotify.com/track/7DrnMoeK7R06HnZ2TWkEOw) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 1](https://open.spotify.com/album/48CCYGuCWQO4Nn2BstScwL) | 2:36 | 2024-04-09 |  |
 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2022-09-22 | 2023-10-14 |
 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 | 2022-09-22 |  |
 | [Amigos Nada Más](https://open.spotify.com/track/56flGLpXk65jcXDKirq75B) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:31 | 2021-12-13 | 2024-04-19 |
@@ -55,7 +56,7 @@
 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 | 2021-12-13 | 2024-04-19 |
 | [El Hijo Desobediente](https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:15 | 2024-04-09 | 2024-10-03 |
 | [El Mala Estrella](https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 4:00 | 2021-12-13 |  |
-| [El Moro De Cumpas](https://open.spotify.com/track/3LcZFk2Mv84t0176FQFi5y) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:15 | 2024-04-09 |  |
+| [El Moro De Cumpas](https://open.spotify.com/track/3LcZFk2Mv84t0176FQFi5y) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:15 | 2024-04-09 | 2024-10-16 |
 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 | 2021-12-13 | 2024-04-10 |
 | [El Patas Blancas](https://open.spotify.com/track/3BV5DGx0hb3MXQLbbn9SSa) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:13 | 2024-04-09 |  |
 | [El Triste \(with Pepe Aguilar\)](https://open.spotify.com/track/1OjT7kzrMsYFhzTKkzEyiT) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [José José Duetos Volumen 2](https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D) | 4:12 | 2021-12-13 |  |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=FueqiOBhQoS3REISrR8ajQ">KindlyNxsh</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5?si=4J1v3b8TTjmSNiUWrCuEuA">FirstKlaz</a>\. Artwork: Isu Kim.
 
 1,091 songs - 2 day 6 hr 44 min
 
@@ -370,7 +370,7 @@
 | [GBEDU](https://open.spotify.com/track/2GsieXMATYcmp6iTk4FA8T) | [Tommyphyll](https://open.spotify.com/artist/1fkXH88Kwb203smEDSHBni) | [GBEDU](https://open.spotify.com/album/70s8FCHWuiSr1fUaPpp1gJ) | 3:49 | 2022-09-02 | 2022-10-01 |
 | [Gbera](https://open.spotify.com/track/79Giw533miGMleuvJXJTEz) | [Nazor](https://open.spotify.com/artist/1pMZHbcop7a9ICn43b7Vcz) | [Gbera](https://open.spotify.com/album/7BP0zqcyYP0r3OtaRdABVT) | 2:52 | 2023-02-22 | 2023-03-30 |
 | [GBERRA](https://open.spotify.com/track/08I0ciaW14SiBsCbR3THIY) | [SonOfBell](https://open.spotify.com/artist/7EdgMisnfhqjPqhah0BwCc) | [GBERRA \| LAGOS BOY](https://open.spotify.com/album/60FulvZ5TKu1e81YkI96gk) | 2:53 | 2023-10-25 | 2023-11-30 |
-| [Gen\-Z Arewa](https://open.spotify.com/track/1IWBeLzkyQ8ijoAD8BjIiU) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Gen\-Z Arewa](https://open.spotify.com/album/3qz5yYzCzLyPMPiiS3PR2D) | 2:26 | 2024-08-07 | 2024-09-05 |
+| [Gen\-Z Arewa](https://open.spotify.com/track/1IWBeLzkyQ8ijoAD8BjIiU) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Gen\-Z Arewa](https://open.spotify.com/album/3qz5yYzCzLyPMPiiS3PR2D) | 2:26 | 2024-08-07 |  |
 | [Get Away](https://open.spotify.com/track/0Li9bGOQJIhYFAHMUWS6jE) | [Jasper](https://open.spotify.com/artist/34zcIBHO9EgymeaaOioUic) | [Get Away](https://open.spotify.com/album/2cxhdTIizDlFNBepvdBARm) | 2:43 | 2024-03-06 | 2024-04-03 |
 | [Get You](https://open.spotify.com/track/6XqPLhC4EdmFMiAHuyUq1Q) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Get You](https://open.spotify.com/album/4sWOxBKH0HrElfZwzNFxKt) | 3:57 | 2024-02-06 | 2024-03-06 |
 | [Get Yourself A Me](https://open.spotify.com/track/2bzEOi4JbcmtvklWTihQ8T) | [Bura](https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k), [Tymilyfe](https://open.spotify.com/artist/2ak0DHKnPfN9OOyIJIz8xZ) | [Get Yourself A Me](https://open.spotify.com/album/6XfealrMM521vwlqb3QM5Q) | 2:35 | 2023-07-26 | 2023-09-27 |

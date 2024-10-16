@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,519 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,571 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 46 | [Inconsolable](https://open.spotify.com/track/2iF3DCqqC0tUzaqJp4EQ93) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Inconsolable](https://open.spotify.com/album/5ZU7CTzoZzvji3RgLRr7tl) | 3:32 |
 | 47 | [x las nubes](https://open.spotify.com/track/4wHglCatImU2Gj01s8eILF) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [x las nubes](https://open.spotify.com/album/5RUskDUQcUAfrtVEwWad2C) | 2:40 |
 | 48 | [Flush Em](https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:16 |
-| 49 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
-| 50 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I’D MISS THE BIRDS](https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW) | 3:09 |
+| 49 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I’D MISS THE BIRDS](https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW) | 3:09 |
+| 50 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
 | 51 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 |
 | 52 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 |
 | 53 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 60 | [To Tell You The Truth](https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Tell You The Truth](https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz) | 3:42 |
 | 61 | [Once](https://open.spotify.com/track/5uhQXkZanADlKhiU3qBkHq) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Once](https://open.spotify.com/album/5sqwDUiuPv5Sdyc1F0WRR6) | 2:52 |
 | 62 | [Little Bug](https://open.spotify.com/track/2GAuyIDWQznZyRU3CGyDFy) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Little Bug](https://open.spotify.com/album/6MzWuLcg9fAsHXEOcIDgY8) | 3:20 |
-| 63 | [How's The Weather?](https://open.spotify.com/track/4V9cJGZ0IIazVDUzZnVoZa) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [How's The Weather?](https://open.spotify.com/album/0Wpn91s1RkbX3WmzfdyCKq) | 3:34 |
-| 64 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
+| 63 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
+| 64 | [How's The Weather?](https://open.spotify.com/track/4V9cJGZ0IIazVDUzZnVoZa) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [How's The Weather?](https://open.spotify.com/album/0Wpn91s1RkbX3WmzfdyCKq) | 3:34 |
 | 65 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
 | 66 | [Sirens](https://open.spotify.com/track/3PNjH4Jcodq0m1V7PtQMFB) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Sirens](https://open.spotify.com/album/6nC3sa24KRjmd3HHLfx8Re) | 5:00 |
 | 67 | [God Who Sees You](https://open.spotify.com/track/4Gc8femvrmGejFXsAKPERe) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/62JI9POOXnaZgV6YRb1rQt) | 3:50 |

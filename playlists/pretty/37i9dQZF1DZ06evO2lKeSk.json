@@ -1,29 +1,13 @@
 {
   "description": "This Is Ana Gabriel. Los temas esenciales, todos en una lista.",
-  "num_followers": 340661,
+  "num_followers": 340747,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABwGM8EWyXdOvHwRI6fovUm",
+  "snapshot_id": "ZwxfAAAAAADRORhc0guQp+xnydBMUsm4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecado Original",
-        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "\u00a1Ay Amor!",
-      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 211733,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "\u00a1Ay Amor!",
+      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 179106,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,

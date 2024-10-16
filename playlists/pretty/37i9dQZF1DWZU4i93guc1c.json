@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041c\u0430\u043a\u0441\u0438\u043c \u0422\u043e\u0449\u043e\n",
-  "num_followers": 21593,
+  "num_followers": 21613,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
-        "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
-        "url": "https://open.spotify.com/album/0JBZLbhsqALewaXVmlPmsG"
-      },
-      "artists": [
-        {
-          "name": "Klavdia Petrivna",
-          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
-        }
-      ],
-      "duration_ms": 141230,
-      "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
-      "url": "https://open.spotify.com/track/5ScT8atEfarQsrDfL5jCT3"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
         "name": "\u0427\u043e\u043c\u0443 \u044f \u043a\u043e\u0445\u0430\u044e \u0442\u0435\u0431\u0435 \u0437\u0430\u0432\u0436\u0434\u0438?",
         "url": "https://open.spotify.com/album/79ob1PLWHKi3NaiFTzELeB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 219074,
       "name": "\u0427\u043e\u043c\u0443 \u044f \u043a\u043e\u0445\u0430\u044e \u0442\u0435\u0431\u0435 \u0437\u0430\u0432\u0436\u0434\u0438?",
       "url": "https://open.spotify.com/track/0TxmMQ23YDPobMJMoHGorV"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
+        "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
+        "url": "https://open.spotify.com/album/0JBZLbhsqALewaXVmlPmsG"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "duration_ms": 141230,
+      "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
+      "url": "https://open.spotify.com/track/5ScT8atEfarQsrDfL5jCT3"
     },
     {
       "added_at": "2024-10-09 14:18:45",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
-        "name": "\u0424\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u0447\u043d\u043e",
-        "url": "https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt"
-      },
-      "artists": [
-        {
-          "name": "TESLENKO",
-          "url": "https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "\u0424\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u0447\u043d\u043e",
-      "url": "https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
         "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
         "url": "https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
+        "name": "\u0424\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u0447\u043d\u043e",
+        "url": "https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt"
+      },
+      "artists": [
+        {
+          "name": "TESLENKO",
+          "url": "https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "\u0424\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u0447\u043d\u043e",
+      "url": "https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
         "name": "\u041b\u0435\u0433\u043a\u0438\u0439 \u0441\u043f\u043e\u0441\u0456\u0431 \u043a\u0438\u043d\u0443\u0442\u0438 \u0445\u043b\u043e\u043f\u0446\u044f",
         "url": "https://open.spotify.com/album/7rd9JdGUjUJ9WlAL4UmjhU"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 181000,
       "name": "\u0442\u0438\u043c\u0447\u0430\u0441\u0443\u043d\u043a\u0438",
       "url": "https://open.spotify.com/track/3iUX8GPWS5FccR8Ws9KWAk"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
-        "name": "\u0424\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
-      },
-      "artists": [
-        {
-          "name": "Vivienne Mort",
-          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
-        }
-      ],
-      "duration_ms": 171081,
-      "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
     },
     {
       "added_at": "2024-10-09 14:18:45",
@@ -639,6 +623,22 @@
       "duration_ms": 171249,
       "name": "\u043d\u0435 \u0446\u0435\u0439\u0432\u043e \u0441\u0430\u043c \u0441\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/3nPjixYGZykdgUCG6l2Jwu"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
+        "name": "\u0424\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Mort",
+          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
+        }
+      ],
+      "duration_ms": 171081,
+      "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
     },
     {
       "added_at": "2024-10-09 14:18:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
-        "name": "\u0421\u043a\u0440\u0443\u0442\u0438 \u043c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA"
-      },
-      "artists": [
-        {
-          "name": "LOVERA BREAUX",
-          "url": "https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "\u0421\u043a\u0440\u0443\u0442\u0438 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
         "name": "Makoterchyk",
         "url": "https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 255310,
       "name": "Makoterchyk",
       "url": "https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
+        "name": "\u0421\u043a\u0440\u0443\u0442\u0438 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA"
+      },
+      "artists": [
+        {
+          "name": "LOVERA BREAUX",
+          "url": "https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "\u0421\u043a\u0440\u0443\u0442\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm"
     },
     {
       "added_at": "2024-10-09 14:18:45",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
+        "name": "\u0410\u043a\u0443\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0430\u043b\u044c\u0431\u043e\u043c",
+        "url": "https://open.spotify.com/album/48r9xUQrkf39dqp6QYlLAr"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u043e\u043d\u043a\u0430",
+          "url": "https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG"
+        }
+      ],
+      "duration_ms": 233368,
+      "name": "\u0422\u0440\u0438\u043c\u0430\u0439 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/33ve7gKEeUALVEIJPCV0zL"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
         "name": "\u043f\u043b\u0430\u0432\u0438\u0442\u044c",
         "url": "https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
-        "name": "\u0410\u043a\u0443\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0430\u043b\u044c\u0431\u043e\u043c",
-        "url": "https://open.spotify.com/album/48r9xUQrkf39dqp6QYlLAr"
-      },
-      "artists": [
-        {
-          "name": "\u0422\u043e\u043d\u043a\u0430",
-          "url": "https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG"
-        }
-      ],
-      "duration_ms": 233368,
-      "name": "\u0422\u0440\u0438\u043c\u0430\u0439 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/33ve7gKEeUALVEIJPCV0zL"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
         "name": "\u0427\u043e\u0433\u043e \u0443 \u0441\u043d\u0456",
         "url": "https://open.spotify.com/album/13GfwgH5uMGPfjFRLKyhIe"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 201230,
       "name": "\u0427\u043e\u0433\u043e \u0443 \u0441\u043d\u0456",
       "url": "https://open.spotify.com/track/6xHw8gPzCLRrcLBPsS2q4n"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
-        "name": "\u041e\u0431\u0456\u0439\u043c\u0438",
-        "url": "https://open.spotify.com/album/1pgUS7VLQ7tE9bz2kb5EJE"
-      },
-      "artists": [
-        {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
-        }
-      ],
-      "duration_ms": 207179,
-      "name": "\u041e\u0431\u0456\u0439\u043c\u0438",
-      "url": "https://open.spotify.com/track/4KZEv7obFLk0guL6mHnmnU"
     },
     {
       "added_at": "2024-10-09 14:18:45",
@@ -1259,6 +1243,38 @@
     {
       "added_at": "2024-10-09 14:18:45",
       "album": {
+        "name": "\u0434\u0456\u043c",
+        "url": "https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2"
+      },
+      "artists": [
+        {
+          "name": "MOLODI",
+          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "\u0434\u0456\u043c",
+      "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
+        "name": "\u041e\u0431\u0456\u0439\u043c\u0438",
+        "url": "https://open.spotify.com/album/1pgUS7VLQ7tE9bz2kb5EJE"
+      },
+      "artists": [
+        {
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+        }
+      ],
+      "duration_ms": 207179,
+      "name": "\u041e\u0431\u0456\u0439\u043c\u0438",
+      "url": "https://open.spotify.com/track/4KZEv7obFLk0guL6mHnmnU"
+    },
+    {
+      "added_at": "2024-10-09 14:18:45",
+      "album": {
         "name": "\u041f\u043b\u0430\u0432\u0438\u0442\u044c",
         "url": "https://open.spotify.com/album/7FCqkcOYrUSaSMVmMAdsfX"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 165454,
       "name": "\u041f\u043b\u0430\u0432\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/5kHIwn2e40ZIIS4aAd7rVd"
-    },
-    {
-      "added_at": "2024-10-09 14:18:45",
-      "album": {
-        "name": "\u0434\u0456\u043c",
-        "url": "https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2"
-      },
-      "artists": [
-        {
-          "name": "MOLODI",
-          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "\u0434\u0456\u043c",
-      "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
     },
     {
       "added_at": "2024-10-09 14:18:45",

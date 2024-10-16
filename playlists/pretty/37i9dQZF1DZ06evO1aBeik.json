@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2728394,
+  "num_followers": 2728473,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACvlAS/I01uu4Fu3AXZI5i3",
+  "snapshot_id": "ZwxfAAAAAACp1OTYXx4Hbh4M7LiFUL2I",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,30 @@
       "duration_ms": 214254,
       "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",
       "url": "https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Forever (feat. Post Malone & Clever)",
+      "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
     },
     {
       "added_at": null,

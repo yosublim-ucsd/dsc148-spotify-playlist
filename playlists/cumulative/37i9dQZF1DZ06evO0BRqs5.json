@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
+  "description": "This Is Eir Aoi. Los temas esenciales, todos en una lista.",
   "name": "This Is Eir Aoi",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 204973,
       "name": "ANSWER",
       "url": "https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 260000,
       "name": "YeLL",
       "url": "https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB"

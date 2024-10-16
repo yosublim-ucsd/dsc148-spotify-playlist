@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 183218,
       "name": "Akhir Tak Bahagia",
       "url": "https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 216677,
       "name": "Di Balik Pertanda",
       "url": "https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Dia Masa Lalumu, Aku Masa Depanmu",
       "url": "https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa"
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
@@ -4200,7 +4200,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 257847,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Janji Setia",
       "url": "https://open.spotify.com/track/1AoBdDIOp6RFjAbzcPbWi8"
@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 213750,
       "name": "Masa Sepi",
       "url": "https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo"
@@ -6718,7 +6718,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -6874,6 +6874,24 @@
       "duration_ms": 260346,
       "name": "penjaga hati",
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "album": {
+        "name": "Penyangkalan",
+        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240607,
+      "name": "Penyangkalan",
+      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
     },
     {
       "album": {
@@ -9134,7 +9152,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 179841,
       "name": "Tak Dianggap",
       "url": "https://open.spotify.com/track/66L6oBm77vpXuLCRX31iNX"

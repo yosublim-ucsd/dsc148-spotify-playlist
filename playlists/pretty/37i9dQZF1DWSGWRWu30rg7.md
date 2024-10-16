@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rhea Asmara
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,601 likes - 82 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,602 likes - 82 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 10 | [Angela](https://open.spotify.com/track/0TQb7QRqEVZJWOmTwpUcW6) | [Elio](https://open.spotify.com/artist/1qCHAe8yyQOV2tB21Wk9NB) | [Angela](https://open.spotify.com/album/4cTVrdfDe3UzNRBXmra97I) | 5:05 |
 | 11 | [Bangun Orang Waras](https://open.spotify.com/track/0wIgSteu6sD5OdSM0AG0RU) | [Methosa](https://open.spotify.com/artist/6iSe79ckm1ImJaDKaAH8sE) | [Bangun Orang Waras](https://open.spotify.com/album/0rG0eNyqByRIBkrvEL3DKh) | 3:11 |
 | 12 | [Pencuri Hati](https://open.spotify.com/track/7hO3CUEXH0tZ0K94lgRq8g) | [Rinda Raz](https://open.spotify.com/artist/2PtdJsJN0UxvRxIWXv1Ele) | [Pencuri Hati](https://open.spotify.com/album/1G1mEcbZ9nyMXxWRN2DTnu) | 4:07 |
-| 13 | [Hari Tua](https://open.spotify.com/track/3weBsORU3Lh6MEH6P0AMWd) | [Hari Generasi](https://open.spotify.com/artist/1OBsCMCpeSI7smjMfghvf7) | [Hari Tua](https://open.spotify.com/album/4ouLZxTwBtbn5ZxWiW5MY6) | 4:25 |
+| 13 | [Hari Tua](https://open.spotify.com/track/3weBsORU3Lh6MEH6P0AMWd) | [Hari Generasi](https://open.spotify.com/artist/1OBsCMCpeSI7smjMfghvf7) | [Hari Tua](https://open.spotify.com/album/4ouLZxTwBtbn5ZxWiW5MY6) | 4:22 |
 | 14 | [Ambigu](https://open.spotify.com/track/0S5feWkxXqEb7JEMS02aiV) | [Elmand](https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz) | [Ambigu](https://open.spotify.com/album/55hXAk6tNmw9kCYNGaGhUS) | 3:27 |
 | 15 | [DADDY ISSUE](https://open.spotify.com/track/2y9pVnC7Qufz58PIvGCtHE) | [Malik Ros](https://open.spotify.com/artist/1iMm7HKmKXs1MNVQ6genf3), [Rendy O](https://open.spotify.com/artist/4Da30lRxEOyrqXAHAlYuMt) | [DADDY ISSUE](https://open.spotify.com/album/0zQDnPTiwzPCrDoz12OJTA) | 3:26 |
 | 16 | [Air Mata Bukan Rintik Jenaka](https://open.spotify.com/track/19GYO62F84thgdatb5eC60) | [Electric Cats](https://open.spotify.com/artist/2fEyj5SkftSLw9qztWmKtG) | [Air Mata Bukan Rintik Jenaka](https://open.spotify.com/album/4y6Ov58tThUrDvhwTdEB9l) | 4:08 |

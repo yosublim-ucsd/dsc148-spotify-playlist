@@ -1,6 +1,6 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2299297,
+  "num_followers": 2299257,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
+        "name": "City Streets",
+        "url": "https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "City Streets",
+      "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
       },
@@ -1049,22 +1065,6 @@
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 300720,
-      "name": "What Went Down",
-      "url": "https://open.spotify.com/track/0LJDalpISq604gw21RVwIV"
-    },
-    {
       "added_at": "2024-07-19 14:28:26",
       "album": {
         "name": "The Last Dance",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "City Streets",
-        "url": "https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk"
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY"
       },
       "artists": [
         {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 206557,
-      "name": "City Streets",
-      "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
+      "duration_ms": 300720,
+      "name": "What Went Down",
+      "url": "https://open.spotify.com/track/0LJDalpISq604gw21RVwIV"
     },
     {
       "added_at": "2024-04-18 19:20:27",

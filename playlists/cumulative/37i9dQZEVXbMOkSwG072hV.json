@@ -739,6 +739,44 @@
     },
     {
       "album": {
+        "name": "365 Dias (Vida Mansa)",
+        "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527220,
+      "name": "365 Dias (Vida Mansa)",
+      "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
+    },
+    {
+      "album": {
         "name": "3AM (PXT4 RASA)",
         "url": "https://open.spotify.com/album/3DxrfcTTYrcJRSafs4tO02"
       },
@@ -6238,6 +6276,24 @@
       "duration_ms": 115200,
       "name": "BANKAI",
       "url": "https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ"
+    },
+    {
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/3UNoGm9ffxIxgFN8cUoW6b"
+      },
+      "artists": [
+        {
+          "name": "Menor Regresso",
+          "url": "https://open.spotify.com/artist/11RqTVvDmmZ8KSMEaHMZJp"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181649,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/5Haev5dXGbz0Snui8ukwD7"
     },
     {
       "album": {
@@ -13316,7 +13372,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 111692,
       "name": "De Baixo Pra Cima",
       "url": "https://open.spotify.com/track/64kKYenLqoB53EWmtHi4DP"
@@ -14832,6 +14888,28 @@
       "duration_ms": 140860,
       "name": "Devolve as Correntes / Invis\u00edvel",
       "url": "https://open.spotify.com/track/7qrQs4rPGCXnwNyLn2YVCT"
+    },
+    {
+      "album": {
+        "name": "Dia 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3JfBVupnDt9rPcJGzO5Nzs"
+      },
+      "artists": [
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199893,
+      "name": "Dia 1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3hOEoT2oxqpfFe7sjQrsgA"
     },
     {
       "album": {
@@ -18370,7 +18448,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 164871,
       "name": "ESTRESSE",
       "url": "https://open.spotify.com/track/4wWPkfssVcfBxJ7e2rGg6B"
@@ -18976,7 +19054,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -20534,7 +20612,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 298871,
       "name": "FEBRE",
       "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
@@ -21378,6 +21456,32 @@
       "duration_ms": 224506,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
+    },
+    {
+      "album": {
+        "name": "FNB>BKB",
+        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "FNB",
+      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
     },
     {
       "album": {
@@ -23640,6 +23744,24 @@
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
+    },
+    {
+      "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "album": {
@@ -27824,7 +27946,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 109440,
       "name": "life force",
       "url": "https://open.spotify.com/track/6RIguoA2YSb8IgMgjLaYQE"
@@ -32414,7 +32536,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
@@ -33606,7 +33728,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 112584,
       "name": "Montagem After Party",
       "url": "https://open.spotify.com/track/6FQp6Y0SpjZrurysCIo7BJ"
@@ -41012,7 +41134,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 164704,
       "name": "PASSADO DE UM VIL\u00c3O",
       "url": "https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b"
@@ -46563,6 +46685,24 @@
     },
     {
       "album": {
+        "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
+        "url": "https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB"
+      },
+      "artists": [
+        {
+          "name": "2T.",
+          "url": "https://open.spotify.com/artist/1Q8WSMv0yYl2ae0AO4k6qc"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
+      "url": "https://open.spotify.com/track/2qgt9GiXVhFIXTA3OdHDUG"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -47738,6 +47878,24 @@
       "duration_ms": 133384,
       "name": "Sei Que Tu Gosta Muito",
       "url": "https://open.spotify.com/track/0OJ8KWhqLMHkfI59yh398v"
+    },
+    {
+      "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / EP1)",
+        "url": "https://open.spotify.com/album/4HothMjvojSA740SFUAiRC"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Seja Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ghRkxJXkQCFO0l8Kn8i8U"
     },
     {
       "album": {
@@ -50522,6 +50680,24 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142521,
+      "name": "Spring breakers",
+      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
     },
     {
       "album": {
@@ -53475,6 +53651,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "album": {
         "name": "Tipo Henrique",
         "url": "https://open.spotify.com/album/2yGv6zepY7EfFPab9jRjBE"
       },
@@ -54754,7 +54952,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 376000,
       "name": "Tropa do Sem K.O",
       "url": "https://open.spotify.com/track/02I0Nm97YdmZ8teGFcIHEy"
@@ -56698,7 +56896,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
@@ -60206,6 +60404,24 @@
       "duration_ms": 154553,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
+    },
+    {
+      "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / EP1)",
+        "url": "https://open.spotify.com/album/4HothMjvojSA740SFUAiRC"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150449,
+      "name": "\u00daltima Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-312 songs - 19 hr 37 min
+313 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Swingin' Blues](https://open.spotify.com/track/4ODW8sWXGEHR7YaGFXC8CH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Some People Play Guitar..\. Like A Lotta People Don't](https://open.spotify.com/album/3lPkCcqFjhYxXJQmAtBdCh) | 4:13 | 2022-11-15 | 2024-01-03 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/3gHermfYjYNnjhUTyMgtpV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 1:38 | 2022-11-04 | 2022-11-09 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/75BCBXpg4Rfn3gNbl44oS1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 1:38 | 2024-01-03 | 2024-07-06 |
-| [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-25 |  |
+| [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-25 | 2024-10-16 |
 | [The Boy Was Kissing The Girl \(And Playing Guitar At The Same Time\) \- Instrumental](https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:40 | 2022-05-25 |  |
 | [The Coon Hunt \- Instrumental](https://open.spotify.com/track/699dNhyPOOfnmNVSBvDize) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 3:30 | 2022-05-25 | 2023-01-17 |
 | [The Great Change In Me](https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:18 | 2022-05-26 | 2024-10-12 |
@@ -268,6 +268,7 @@
 | [The Reverend Speaks II \- Live in Seattle, WA](https://open.spotify.com/track/5wBMNl8ZL3LMC6EjPhvZrY) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 3:33 | 2022-10-21 | 2022-10-23 |
 | [The Reverend Speaks III \- Live in Seattle, WA](https://open.spotify.com/track/2H2xiL22Oy7Hxw3P1j31Uz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 4:26 | 2022-11-15 | 2022-11-22 |
 | [The Reverend Speaks IV \- Live in Seattle, WA](https://open.spotify.com/track/0WaiMSOQFM4RydXygPmpqI) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 0:49 | 2022-11-05 | 2022-11-09 |
+| [The Reverend Speaks IV \- Live in Seattle, WA](https://open.spotify.com/track/7MccZR1xYVPKom3Ydr4W3S) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 0:49 | 2024-10-16 |  |
 | [The Uncloudy Day](https://open.spotify.com/track/50ODpWmYdH0EjbnUlKyuZ7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 4:12 | 2022-05-25 | 2024-01-03 |
 | [There Was A Time That I Was Blind](https://open.spotify.com/track/5JZCOzF5LmTH6UJDdFNrj6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Gospel, Blues And Street Songs](https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO) | 2:37 | 2022-06-11 | 2023-06-30 |
 | [There Was a Time That I Was Blind](https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 2:43 | 2024-06-02 |  |

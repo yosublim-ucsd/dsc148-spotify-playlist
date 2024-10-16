@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
@@ -725,6 +725,36 @@
     },
     {
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
       },
@@ -842,6 +872,24 @@
       "duration_ms": 136788,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
     },
     {
       "album": {
@@ -1234,7 +1282,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -1252,7 +1300,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -2649,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "album": {
         "name": "Casa (Arabic version)",
         "url": "https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I"
       },
@@ -4004,6 +4070,24 @@
       "duration_ms": 156567,
       "name": "Don't Stop (The Music)",
       "url": "https://open.spotify.com/track/6x0eMOT5uyCgtmOxzWVATc"
+    },
+    {
+      "album": {
+        "name": "Don't Stop Believin'",
+        "url": "https://open.spotify.com/album/23V84ZvZQp78MU61axPyjA"
+      },
+      "artists": [
+        {
+          "name": "Portland",
+          "url": "https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216484,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/0Y3TWaVN9Gm72fbLfow3P6"
     },
     {
       "album": {
@@ -5579,6 +5663,32 @@
     },
     {
       "album": {
+        "name": "Get U What U Want",
+        "url": "https://open.spotify.com/album/5Q4bvgj8YnMhC6IzD96ZxT"
+      },
+      "artists": [
+        {
+          "name": "GLINTSAL",
+          "url": "https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY"
+        },
+        {
+          "name": "FAISAL",
+          "url": "https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1"
+        },
+        {
+          "name": "Glints",
+          "url": "https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Get U What U Want",
+      "url": "https://open.spotify.com/track/7sswPponP7QFEhJK4HoZmQ"
+    },
+    {
+      "album": {
         "name": "Live Edit EP Vol. 1",
         "url": "https://open.spotify.com/album/71RjRYJK05AxyE1OKBWXxF"
       },
@@ -5662,7 +5772,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 224413,
       "name": "Girl I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2R7fFjvXLzMrwF20uDpC3B"
@@ -5680,7 +5790,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 224413,
       "name": "Girl I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/4vOo9fdrahQHyfdyE1J06w"
@@ -5994,7 +6104,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 273698,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/3gRnR33Z7eBeMXYrhPXRIX"
@@ -6256,6 +6366,24 @@
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
+    {
+      "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "album": {
@@ -7255,6 +7383,24 @@
     },
     {
       "album": {
+        "name": "I'M SORRY",
+        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "I'M SORRY",
+      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+    },
+    {
+      "album": {
         "name": "icantbelieveiletyougetaway",
         "url": "https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4"
       },
@@ -8152,7 +8298,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
@@ -8784,7 +8930,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -9012,7 +9158,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -10074,7 +10220,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 129022,
       "name": "midnight",
       "url": "https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg"
@@ -10194,6 +10340,24 @@
       "duration_ms": 149811,
       "name": "Minimum \u00e7a",
       "url": "https://open.spotify.com/track/4mNttG8qiVh4BKrMUrUhCI"
+    },
+    {
+      "album": {
+        "name": "MINUIT PILE",
+        "url": "https://open.spotify.com/album/0XEhUmLCMqTlWFyQMxwq9S"
+      },
+      "artists": [
+        {
+          "name": "Braak's",
+          "url": "https://open.spotify.com/artist/5lCApSCPniQPmRqWo12oG4"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190403,
+      "name": "MINUIT PILE",
+      "url": "https://open.spotify.com/track/01kvKrTJRtr46q2SRW24yK"
     },
     {
       "album": {
@@ -11494,7 +11658,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 199165,
       "name": "Or What",
       "url": "https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz"
@@ -12253,6 +12417,24 @@
     },
     {
       "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179034,
+      "name": "POUR ELLE",
+      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
+    },
+    {
+      "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
@@ -12818,7 +13000,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190534,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
@@ -13309,6 +13491,28 @@
     },
     {
       "album": {
+        "name": "set me free",
+        "url": "https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK"
+    },
+    {
+      "album": {
         "name": "OBSESIF",
         "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
       },
@@ -13570,6 +13774,28 @@
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "album": {
+        "name": "Silverlines - prod. Labrinth",
+        "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
     },
     {
       "album": {
@@ -14991,6 +15217,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "album": {
         "name": "Tiryakinim",
         "url": "https://open.spotify.com/album/2akaQMyROHMG8Hy17lUwYE"
       },
@@ -15548,7 +15796,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 136440,
       "name": "U23 - Freestyle",
       "url": "https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr"
@@ -15860,6 +16108,28 @@
       "duration_ms": 133846,
       "name": "Vaag",
       "url": "https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP"
+    },
+    {
+      "album": {
+        "name": "VAN MIJ",
+        "url": "https://open.spotify.com/album/6LfuyExx6bLQipH4XbhI7A"
+      },
+      "artists": [
+        {
+          "name": "ANNIE",
+          "url": "https://open.spotify.com/artist/24DqvwmBi1xCurVDE3NEIV"
+        },
+        {
+          "name": "Marone",
+          "url": "https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131999,
+      "name": "VAN MIJ",
+      "url": "https://open.spotify.com/track/5GyXaAhr7yflKt8aT1Tfe7"
     },
     {
       "album": {
@@ -16580,7 +16850,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 321047,
       "name": "Where The Names Are Real",
       "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
@@ -17314,7 +17584,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 92203,
       "name": "Zinzin",
       "url": "https://open.spotify.com/track/7rmU3bvOv6wgNrDzSORkre"

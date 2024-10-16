@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This Is Neto Peña\. Los temas esenciales, todos en una lista.
+> This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,112 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,118 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 50 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 |
 | 51 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
 
-Snapshot ID: `ZwsNgAAAAAB5aVzfvss6I/teV3CCNJut`
+Snapshot ID: `ZwxfAAAAAADLiNZmzLPRs2UDP+fc3o1F`

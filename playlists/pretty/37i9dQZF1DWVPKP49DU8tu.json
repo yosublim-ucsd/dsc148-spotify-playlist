@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 357208,
+  "num_followers": 357204,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -471,8 +471,8 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -583,8 +583,8 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
         "name": "Leave a Light On",
         "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 185863,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1231,22 +1215,6 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Ci pensiamo domani",
-        "url": "https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 180184,
-      "name": "Ci pensiamo domani",
-      "url": "https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
         "name": "Fuori dall'Hype Ringo Starr",
         "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
@@ -1259,6 +1227,22 @@
       "duration_ms": 214733,
       "name": "Ridere",
       "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
+        "name": "Ci pensiamo domani",
+        "url": "https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 180184,
+      "name": "Ci pensiamo domani",
+      "url": "https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -1303,6 +1287,22 @@
       "duration_ms": 198536,
       "name": "DISCO PARADISE",
       "url": "https://open.spotify.com/track/6VOoSi7mgFrKCeymxG6wKB"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 207615,
-      "name": "Un Briciolo Di Allegria (con MINA)",
-      "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 248640,
       "name": "I Don't Feel Like Dancin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 207615,
+      "name": "Un Briciolo Di Allegria (con MINA)",
+      "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
     },
     {
       "added_at": "2024-07-23 15:21:03",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-07-23 15:21:03",
       "album": {
+        "name": "Riccione",
+        "url": "https://open.spotify.com/album/3RdwYV4TBwrGqnk5vnzrLC"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 196860,
+      "name": "Riccione",
+      "url": "https://open.spotify.com/track/6RiprjTTheMrJ2ypJxz3H4"
+    },
+    {
+      "added_at": "2024-07-23 15:21:03",
+      "album": {
         "name": "Fuori dall'Hype Ringo Starr",
         "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
@@ -1731,26 +1747,6 @@
       "duration_ms": 183333,
       "name": "Ringo Starr",
       "url": "https://open.spotify.com/track/5yfE6GXTuJaAlepKoE0wJE"
-    },
-    {
-      "added_at": "2024-07-23 15:21:03",
-      "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "5 Gocce (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

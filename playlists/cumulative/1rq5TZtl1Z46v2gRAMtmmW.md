@@ -4,7 +4,7 @@
 
 > 
 
-344 songs - 23 hr 7 min
+345 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 | 2023-10-12 | 2024-01-26 |
 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-23 | 2022-09-30 |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 | 2023-03-25 |
+| [Just A Western \- Boy Harsher Remix](https://open.spotify.com/track/27824hvVGxllQecjb1dqDg) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Just A Western \(Boy Harsher Remix\)](https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e) | 4:01 | 2024-10-15 |  |
 | [Just A Western \- Edit](https://open.spotify.com/track/32M6UpNkj8FOfbyQiF4GOJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 2:46 | 2024-09-11 |  |
 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 | 2023-05-04 | 2023-07-08 |
 | [Key103](https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Key103](https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ) | 7:22 | 2024-07-10 | 2024-09-26 |
@@ -343,7 +344,7 @@
 | [When She Dance \- David Ariza Club Edit](https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [David Ariza](https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI) | [When She Dance \(David Ariza Club Edit\)](https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy) | 5:36 | 2023-08-17 | 2023-09-06 |
 | [When Ur Near](https://open.spotify.com/track/7KfdAWFdfLnWH4szaObqQj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [When Ur Near](https://open.spotify.com/album/3qd2PhcpBzHYbt2ijyrFMo) | 3:59 | 2024-06-06 | 2024-08-14 |
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2021-09-10 | 2022-06-22 |
-| [Who Cares 1](https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 1:44 | 2024-08-12 |  |
+| [Who Cares 1](https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 1:44 | 2024-08-12 | 2024-10-16 |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-08 | 2022-07-23 |
 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 | 2024-09-13 |  |
 | [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 | 2024-04-23 | 2024-07-11 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19671,
+  "description": "This Is Julia Vit\u00f3ria. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 19676,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACjwUMalaZLEGnKJHemPYVf",
+  "snapshot_id": "ZwxfAAAAAAA/NQo6e678mGzpYX6iLGdc",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus \u00e9 o Centro (Jesus At The Center) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 346346,
       "name": "Jesus \u00e9 o Centro (Jesus At The Center) - Ao Vivo",
       "url": "https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 59487,
+  "description": "This Is Los Rieleros Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 59502,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAAAzG+ufaBeF7kUdzvG0Dt/L",
+  "snapshot_id": "ZwxfAAAAAACLH1CjTj67FIgFO3f4q959",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Que El Mundo Ruede",
-        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 173480,
-      "name": "Que El Mundo Ruede",
-      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
+      "duration_ms": 197933,
+      "name": "La Equivocaci\u00f3n",
+      "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+        "name": "Y Que El Mundo Ruede",
+        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 197933,
-      "name": "La Equivocaci\u00f3n",
-      "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
+      "duration_ms": 173480,
+      "name": "Que El Mundo Ruede",
+      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Eso o M\u00e1s",
-        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 187871,
-      "name": "Es por Eso Que Te Quiero",
-      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventura Pasada",
-        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 155440,
-      "name": "Aventura Pasada",
-      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
+      "duration_ms": 187871,
+      "name": "Es por Eso Que Te Quiero",
+      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
     },
     {
       "added_at": null,

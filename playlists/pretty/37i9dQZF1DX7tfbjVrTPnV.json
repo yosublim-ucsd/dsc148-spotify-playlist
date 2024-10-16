@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 215279,
+  "num_followers": 215352,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Childhood Home",
-        "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Ellen Harper",
-          "url": "https://open.spotify.com/artist/6cGzcfuIBFaQjjcuW688Dy"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "A House Is A Home",
-      "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Rumor And Sigh",
         "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
       },
@@ -379,6 +359,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Childhood Home",
+        "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Ellen Harper",
+          "url": "https://open.spotify.com/artist/6cGzcfuIBFaQjjcuW688Dy"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "A House Is A Home",
+      "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -395,8 +395,8 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+      "duration_ms": 272026,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -583,8 +583,8 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 272026,
-      "name": "Hello in There",
-      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Moonshiner",
-      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
         "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
@@ -1155,26 +1155,6 @@
       "duration_ms": 213026,
       "name": "Boulder to Birmingham - 2003 Remaster",
       "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 173453,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Killin' Uncle Buzzy",
         "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Birds Of St. Marks",
-        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Birds Of St. Marks",
-      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 224000,
       "name": "I Am Your Tambourine",
       "url": "https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Birds Of St. Marks",
+        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Birds Of St. Marks",
+      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Color of the Blues (feat. Susan Tedeschi)",
-        "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Color of the Blues (feat. Susan Tedeschi)",
-      "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/0Vc2d6rwDyTNfNRUUV1TkT"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Color of the Blues (feat. Susan Tedeschi)",
+        "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Color of the Blues (feat. Susan Tedeschi)",
+      "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 248920,
-      "name": "I'll Get Away",
-      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "36 \u00a2",
         "url": "https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 264400,
       "name": "36 Cents",
       "url": "https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 248920,
+      "name": "I'll Get Away",
+      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2055,6 +2055,30 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH"
+      },
+      "artists": [
+        {
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 338126,
+      "name": "Mother, Son and Holy Ghost",
+      "url": "https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -2115,30 +2139,6 @@
       "duration_ms": 329653,
       "name": "California (Cast Iron Soul)",
       "url": "https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "For the Birds",
-        "url": "https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH"
-      },
-      "artists": [
-        {
-          "name": "Paula Cole",
-          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        },
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 338126,
-      "name": "Mother, Son and Holy Ghost",
-      "url": "https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ"
     },
     {
       "added_at": "2024-08-30 04:00:00",

@@ -1274,24 +1274,6 @@
     {
       "album": {
         "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R"
-      },
-      "artists": [
-        {
-          "name": "Marcin Przyby\u0142owicz",
-          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
-        }
-      ],
-      "date_added": "2021-12-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 141993,
-      "name": "Geralt Of Rivia",
-      "url": "https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv"
-    },
-    {
-      "album": {
-        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
       },
       "artists": [
@@ -1306,6 +1288,24 @@
       "duration_ms": 141993,
       "name": "Geralt Of Rivia",
       "url": "https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8"
+    },
+    {
+      "album": {
+        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R"
+      },
+      "artists": [
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141993,
+      "name": "Geralt\u00a0Of\u00a0Rivia",
+      "url": "https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv"
     },
     {
       "album": {

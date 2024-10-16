@@ -4,7 +4,7 @@
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Sabrina Carpenter
 
-404 songs - 21 hr 0 min
+406 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bop Ba](https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:32 | 2024-09-27 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-11-06 | 2023-11-25 |
 | [Break For You](https://open.spotify.com/track/7hlyB9QxJKAmoatltA6ciG) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Break For You](https://open.spotify.com/album/0MT1YffLisHSWcsQpHcL66) | 2:34 | 2023-11-06 | 2023-11-25 |
+| [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-10-15 |  |
 | [Breaking Up With Jesus](https://open.spotify.com/track/2yp3Cqx9etkMlVVe0vourb) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Breaking Up With Jesus](https://open.spotify.com/album/0elBjfzN9RNSaXmcCHq35k) | 2:57 | 2023-11-06 | 2024-03-23 |
 | [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2023-12-01 | 2024-05-06 |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-11-06 | 2023-11-25 |
@@ -337,6 +338,7 @@
 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 | 2024-06-14 |  |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-06 | 2024-01-27 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-20 |  |
+| [Starlight](https://open.spotify.com/track/4PIMqo5UuquO6Ygq0YWluB) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Starlight](https://open.spotify.com/album/4NCi5xTV4dpRZktV3BeEaK) | 3:49 | 2024-10-15 |  |
 | [Stay](https://open.spotify.com/track/5RPb4BmoWmy1c6SxQb8rHC) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Stay](https://open.spotify.com/album/6XNlioBAdVOcTIzqeDNM3I) | 2:12 | 2024-01-26 | 2024-05-06 |
 | [story i tell myself](https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [story i tell myself](https://open.spotify.com/album/6SN574dbaX96k0sDGgdlDq) | 3:31 | 2024-10-04 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-11-06 | 2023-11-25 |

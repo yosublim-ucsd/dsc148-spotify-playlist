@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,652 songs - 3 day 13 hr 45 min
+1,653 songs - 3 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2024-01-04 | 2024-03-08 |
 | [December](https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9) | [Anders Robert](https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte) | [December](https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC) | 3:03 | 2023-11-03 | 2024-02-09 |
 | [Deep Down \- From the Film ‘Avgrunden’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘Avgrunden’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2023-09-14 | 2024-01-19 |
-| [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-05 | 2024-10-13 |
+| [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-05 |  |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1bYVmrLMimVUcFa1dzeZE4) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:16 | 2023-09-08 | 2023-10-06 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-23 | 2023-08-26 |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-05 |  |
@@ -877,7 +877,7 @@
 | [Love You First](https://open.spotify.com/track/4lBRT5e0BZaW8zlvlwS9FT) | [SYLVE](https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW) | [Love You First](https://open.spotify.com/album/6bJEC4w5WQrmWPtjd2AiZb) | 3:00 | 2024-05-10 | 2024-06-07 |
 | [Loveblind](https://open.spotify.com/track/0gmxW2kAgs9aVx77kbDGJk) | [Walle](https://open.spotify.com/artist/0Zs5L8z6cWzmlcMjHNSij0), [Zelma Szekeres](https://open.spotify.com/artist/1LQOYNZKDxD7yahtHv6klT) | [Loveblind](https://open.spotify.com/album/6Rde08HqvtwEYR0UYHF96r) | 2:05 | 2024-05-23 | 2024-06-21 |
 | [Lovely Weather](https://open.spotify.com/track/0bSsno2oGtfZZHSnuLZsGl) | [Lowheart](https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c) | [Lovely Weather](https://open.spotify.com/album/4H486vjhzhdNFu7cRWw7Ay) | 3:07 | 2022-03-24 | 2022-04-15 |
-| [Low](https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Low](https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv) | 3:37 | 2024-08-08 |  |
+| [Low](https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Low](https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv) | 3:37 | 2024-08-08 | 2024-10-16 |
 | [Lucky Nights](https://open.spotify.com/track/2nTePC0sPbtVnnjYgPz7ff) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Chris Collins](https://open.spotify.com/artist/1FHygtukKTWaZEEWu0fi2y) | [Lucky Nights](https://open.spotify.com/album/0z8AF8jo4ldTOyYXlinkax) | 2:49 | 2022-03-24 | 2022-03-31 |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-11 |
 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 | 2023-10-05 | 2023-10-20 |
@@ -1088,7 +1088,7 @@
 | [Out of Love](https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Out of Love](https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw) | 2:40 | 2022-05-30 | 2022-07-09 |
 | [Out Of Love](https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Out Of Love](https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW) | 3:23 | 2024-06-06 | 2024-08-09 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-11 | 2023-06-23 |
-| [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-27 |  |
+| [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-27 | 2024-10-16 |
 | [Out of the Shadows](https://open.spotify.com/track/7x4hcIjBVYtZ0LfcjclnEW) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Out of the Shadows](https://open.spotify.com/album/2PZzZfZFFtXTqMDgSn4GZS) | 3:21 | 2022-03-24 | 2022-04-21 |
 | [Over You](https://open.spotify.com/track/6svqglRbc9M5cXsIXINJcJ) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Over You](https://open.spotify.com/album/4NU1Zq9movX56OWgyczaLU) | 2:47 | 2021-12-16 | 2022-01-14 |
 | [Owe You](https://open.spotify.com/track/3JYUzjSvKi2StnQApd5YnD) | [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D), [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Owe You](https://open.spotify.com/album/18hdjoechcQD4ddgF65NDw) | 3:22 | 2022-06-16 | 2022-06-20 |
@@ -1142,6 +1142,7 @@
 | [På sommaren](https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [På sommaren](https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF) | 3:11 | 2024-08-15 | 2024-10-05 |
 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 | 2024-09-19 | 2024-10-11 |
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |
+| [RADIO INTERRUPTIONS ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 | 2024-10-10 |  |
 | [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-12 |  |
 | [Rasar](https://open.spotify.com/track/6XsbS58qJE2iJlSCFMiFME) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Rasar](https://open.spotify.com/album/57riTGSkCE0lFqZZigg96O) | 2:28 | 2024-05-09 | 2024-06-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Los de la O. Los temas esenciales, todos en una lista.",
-  "num_followers": 55891,
+  "num_followers": 55900,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACkrtoQp0mWgftW3/aQMdhz",
+  "snapshot_id": "ZwxfAAAAAADFYrP+LYNTPiHrgDank+PI",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 192085,
-      "name": "Brillo Propio",
-      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En la Ciudad",
         "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 186589,
       "name": "En la Ciudad",
       "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 192085,
+      "name": "Brillo Propio",
+      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 235968,
-      "name": "La Calabaza",
-      "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 187066,
       "name": "Criminales de Verdad - En Vivo",
       "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 235968,
+      "name": "La Calabaza",
+      "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194845,
+      "name": "Se\u00f1or de la A - En Vivo",
+      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caravana de Carros",
         "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 220143,
       "name": "Caravana de Carros",
       "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 194845,
-      "name": "Se\u00f1or de la A - En Vivo",
-      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carros Exclusivos",
-        "url": "https://open.spotify.com/album/7AEXH6vmGK8HHynh7MfHca"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 205482,
-      "name": "Carros Exclusivos - En Vivo",
-      "url": "https://open.spotify.com/track/5csCx3iqOAkGlRTuDnFUkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 190544,
       "name": "Porte Fino - En Vivo",
       "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carros Exclusivos",
+        "url": "https://open.spotify.com/album/7AEXH6vmGK8HHynh7MfHca"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 205482,
+      "name": "Carros Exclusivos - En Vivo",
+      "url": "https://open.spotify.com/track/5csCx3iqOAkGlRTuDnFUkQ"
     }
   ],
   "unique_name": "This Is Grupo Los de la O",

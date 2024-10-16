@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-284 songs - 18 hr 3 min
+285 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Lemon Tree](https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 4:08 | 2023-04-28 |  |
 | [Let Go](https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx) | 4:42 | 2022-02-17 | 2024-04-19 |
 | [Let Go](https://open.spotify.com/track/5L9frRDeoMDVPdiUS0X7SC) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/4PSyIbTjDhElHCyMjvI6h7) | 4:42 | 2021-12-09 | 2022-07-28 |
-| [Let It All Go](https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Let It All Go](https://open.spotify.com/album/4pQ1fd1sCuxwJ1m1T0GgCM) | 3:32 | 2021-12-09 |  |
+| [Let It All Go](https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Let It All Go](https://open.spotify.com/album/4pQ1fd1sCuxwJ1m1T0GgCM) | 3:32 | 2021-12-09 | 2024-10-16 |
 | [Let It Go](https://open.spotify.com/track/5pBwNXW3vdbq7HHR6Jix71) | [Fossil Collective](https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y) | [Tell Where I Lie](https://open.spotify.com/album/4uPr5lAjfPwboiORMrD7jx) | 4:15 | 2021-12-09 | 2022-02-17 |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2023-04-28 |  |
 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2022-02-17 | 2024-04-19 |
@@ -167,6 +167,7 @@
 | [Mirror and a Kitchen Sink](https://open.spotify.com/track/6lOcgI6qDE6vQNo6tVJc2A) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Mirror and a Kitchen Sink](https://open.spotify.com/album/1CqK4lh4GQVPist2p7xXUy) | 2:35 | 2023-04-28 |  |
 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-20 | 2024-04-19 |
 | [Misnomer](https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:43 | 2021-12-09 | 2023-10-23 |
+| [Mister Los Angeles](https://open.spotify.com/track/5ItGcd46wE3U531gLtiPS5) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Oh Brother](https://open.spotify.com/album/7ozwkrV2oc26STev2UHPWK) | 3:36 | 2024-10-15 |  |
 | [Mr\. Rodriguez](https://open.spotify.com/track/1EwOzBNrUVW4Llnnc5YxXI) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:43 | 2021-12-09 | 2022-07-29 |
 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 | 2022-02-17 | 2024-04-19 |
 | [My Entire Life](https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [My Entire Life](https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO) | 2:46 | 2023-07-28 | 2024-04-13 |

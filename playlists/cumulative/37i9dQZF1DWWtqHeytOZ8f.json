@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322020,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr"
+    },
+    {
+      "album": {
         "name": "Amaryllis Dream",
         "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
       },
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 193000,
       "name": "Sensi",
       "url": "https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW"

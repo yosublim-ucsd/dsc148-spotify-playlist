@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 333294,
+  "num_followers": 333322,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Escucha a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
         "name": "Amar es Combatir",
         "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 292120,
       "name": "El Rey Tibur\u00f3n",
       "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Escucha a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Solo Bolero",
-        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
         "name": "Six Pack: Man\u00e1 - EP",
         "url": "https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
+        "name": "Solo Bolero",
+        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 283680,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
     },
     {
       "added_at": "2024-06-14 18:17:57",

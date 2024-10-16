@@ -14392,7 +14392,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 152000,
       "name": "Blurb",
       "url": "https://open.spotify.com/track/7m0cn9KVCi6eyVgaVx7Q1x"
@@ -19336,7 +19336,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -19430,7 +19430,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 98250,
       "name": "Casa Bah\u00eda",
       "url": "https://open.spotify.com/track/4QNIqOJahWZfEU3JiKNxTf"
@@ -27620,7 +27620,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 114666,
       "name": "Curve",
       "url": "https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8"
@@ -28572,6 +28572,24 @@
       "duration_ms": 137538,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/7ILkso0heCu92NYUGaatkD"
+    },
+    {
+      "album": {
+        "name": "dawn to dawn",
+        "url": "https://open.spotify.com/album/0BKPWdx8EYZxf81MCjot5C"
+      },
+      "artists": [
+        {
+          "name": "rec.memos",
+          "url": "https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151996,
+      "name": "dawn to dawn",
+      "url": "https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA"
     },
     {
       "album": {
@@ -78798,7 +78816,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 148500,
       "name": "Multicolor Snapshot",
       "url": "https://open.spotify.com/track/5Ow4bic8fxgzZvDQvgafNr"
@@ -87566,6 +87584,24 @@
       "duration_ms": 149585,
       "name": "oui - lofi",
       "url": "https://open.spotify.com/track/6Ch49bIaZOR3M2ArjbH8Dx"
+    },
+    {
+      "album": {
+        "name": "Our Feelings",
+        "url": "https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS"
+      },
+      "artists": [
+        {
+          "name": "Akkoro",
+          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140321,
+      "name": "Our Feelings",
+      "url": "https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK"
     },
     {
       "album": {
@@ -102178,6 +102214,24 @@
       "duration_ms": 106666,
       "name": "September",
       "url": "https://open.spotify.com/track/7uu7u0v9IOOvDFpab8Yf6t"
+    },
+    {
+      "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/5q1iNNM0gzBRY9uIfOTbs7"
+      },
+      "artists": [
+        {
+          "name": "Swink",
+          "url": "https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Sequence",
+      "url": "https://open.spotify.com/track/4gmCn9l5dXBlugGiRSnRwR"
     },
     {
       "album": {

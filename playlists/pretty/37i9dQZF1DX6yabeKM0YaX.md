@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 
 > Music From "Pretty Cure" series! 音楽で辿る「プリキュア」シリーズの世界!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,834 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,849 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 | 28 | [Miracle Ｇｏ！プリンセスプリキュア](https://open.spotify.com/track/5lXW3DANa98ExHFgCTjDls) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [「Go!プリンセスプリキュア」主題歌シングル【通常盤】OP:Miracle Go!プリンセスプリキュア/ED:ドリーミング☆プリンセスプリキュア](https://open.spotify.com/album/2Zqh9Odv03ovN61dicWtXP) | 3:24 |
 | 29 | [ＨＵＧっと！未来☆ドリーマー](https://open.spotify.com/track/7mEmPnEw7oRGvnXpWUWMAN) | [キュアエール\(CV.引坂理絵\)](https://open.spotify.com/artist/5XKvPfI01V4pTb0MsfnjSL), [キュアアンジュ\(CV.本泉莉奈\)](https://open.spotify.com/artist/2X6lF1YW4m1DGtIBxHFrAp), [キュアエトワール\(CV.小倉唯\)](https://open.spotify.com/artist/2ETs0GEWdWfR8MuvnHadNu) | [「ＨＵＧっと！プリキュア」主題歌シングル【通常盤】OP：We can!! ＨＵＧっと！プリキュア／ED：ＨＵＧっと！未来☆ドリーマー](https://open.spotify.com/album/7Gi1E7WxiPcnOc976J4M48) | 3:56 |
 | 30 | [プリキュア5、スマイル go go！](https://open.spotify.com/track/0ahHs7XjW6piqhTYHzSszk) | [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) | [Yes!プリキュア５　オープニング＆エンディングテーマ　プリキュア5、スマイル go go! / キラキラしちゃって My True Love!](https://open.spotify.com/album/0Rfwpd6mpxLyrtY6ZPGda5) | 3:56 |
-| 31 | [シュビドゥビ☆スイーツタイム](https://open.spotify.com/track/45d51Z894LBXRlkgzqgVGb) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [「キラキラ☆プリキュアアラモード」後期主題歌シングルED:シュビドゥビ☆スイーツタイム/挿入歌:勇気が君を待ってる](https://open.spotify.com/album/01E6QBu9dSOIMY5uyVtGZC) | 4:44 |
+| 31 | [シュビドゥビ☆スイーツタイム](https://open.spotify.com/track/45d51Z894LBXRlkgzqgVGb) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [「キラキラ☆プリキュアアラモード」後期主題歌シングルED：シュビドゥビ☆スイーツタイム／挿入歌：勇気が君を待ってる](https://open.spotify.com/album/01E6QBu9dSOIMY5uyVtGZC) | 4:44 |
 | 32 | [キミとともだち](https://open.spotify.com/track/1DFyNdRrfYUlksyOWSTMdf) | [ルールー・アムール\(CV.田村ゆかり\)](https://open.spotify.com/artist/0Xr5XQcqHFoxZlQr7OvvaS), [愛崎えみる（CV.田村奈央）](https://open.spotify.com/artist/7Kowmj19YiNXiSFoSDGnYg) | [「ＨＵＧっと！プリキュア」ボーカルアルバム　パワフル♥エール](https://open.spotify.com/album/2XOQ1S3JDX73yP8ufWS8TI) | 2:01 |
 | 33 | [HUGっと!YELL FOR YOU](https://open.spotify.com/track/5ZObTS9XQitC6ISRw5Qx38) | [キュアアムール\(CV:田村ゆかり\)](https://open.spotify.com/artist/2QYtO1XxJvOafru1ZngI4T), [キュアマシェリ\(CV:田村奈央\)](https://open.spotify.com/artist/5MPc3ydgNQA5G15chdaVPE), [キュアエトワール\(CV.小倉唯\)](https://open.spotify.com/artist/2ETs0GEWdWfR8MuvnHadNu), [キュアアンジュ\(CV.本泉莉奈\)](https://open.spotify.com/artist/2X6lF1YW4m1DGtIBxHFrAp), [キュアエール\(CV.引坂理絵\)](https://open.spotify.com/artist/5XKvPfI01V4pTb0MsfnjSL) | [「HUGっと!プリキュア」後期主題歌シングル HUGっと!YELL FOR YOU/LOVE&LOVE](https://open.spotify.com/album/4WA0FbBwfBtVyklbyfm8mm) | 4:27 |
 | 34 | [キラリ☆彡スター☆トゥインクルプリキュア](https://open.spotify.com/track/2hF8AqL7KLoN2qrO1wXEcA) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [「スター☆トゥインクルプリキュア」主題歌シングル【通常盤】OP:キラリ☆彡スター☆トゥインクルプリキュア/ED:パぺピプ☆ロマンチック](https://open.spotify.com/album/2hIuRKooWtlu78SP0opiuR) | 4:15 |

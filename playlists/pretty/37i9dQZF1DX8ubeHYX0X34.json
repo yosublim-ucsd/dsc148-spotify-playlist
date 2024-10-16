@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 54346,
+  "num_followers": 54375,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Ishq",
-        "url": "https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc"
+        "name": "Deewar",
+        "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
         }
       ],
-      "duration_ms": 275240,
-      "name": "Azadi (Jinnah)",
-      "url": "https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs"
+      "duration_ms": 170613,
+      "name": "Pappu Yaar",
+      "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Deewar",
-        "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc"
       },
       "artists": [
         {
@@ -1048,9 +1048,25 @@
           "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
         }
       ],
-      "duration_ms": 170613,
-      "name": "Pappu Yaar",
-      "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
+      "duration_ms": 275240,
+      "name": "Azadi (Jinnah)",
+      "url": "https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Chup",
+        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+      },
+      "artists": [
+        {
+          "name": "Zeb & Haniya",
+          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Chal Diye",
+      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1071,22 +1087,6 @@
       "duration_ms": 255866,
       "name": "Rano",
       "url": "https://open.spotify.com/track/72pZNRX4pl2lNZpCuIVt7p"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Chup",
-        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
-      },
-      "artists": [
-        {
-          "name": "Zeb & Haniya",
-          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Chal Diye",
-      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Chup",
+        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+      },
+      "artists": [
+        {
+          "name": "Zeb & Haniya",
+          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Paimana Bitte",
+      "url": "https://open.spotify.com/track/6KAE4MMywFS0Cy7ikNojQb"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Aatish",
         "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
       },
@@ -1167,26 +1183,6 @@
       "duration_ms": 230066,
       "name": "Deewana",
       "url": "https://open.spotify.com/track/6OWgu7E4L87XewLkWmD6ka"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Shehzad Roy",
-        "url": "https://open.spotify.com/album/7vS4aINdfTyauCwEdRDqSi"
-      },
-      "artists": [
-        {
-          "name": "Shehzad Roy",
-          "url": "https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4"
-        },
-        {
-          "name": "Rab Janey",
-          "url": "https://open.spotify.com/artist/4lxld8EAoaaPRwNkcMXe8l"
-        }
-      ],
-      "duration_ms": 238427,
-      "name": "Mukhra",
-      "url": "https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-267 songs - 11 hr 19 min
+269 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Arrow Point Port](https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Arrow Point Port](https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz) | 1:53 | 2022-08-19 | 2023-08-26 |
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2022-10-07 |  |
 | [Au Revoir](https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Au revoir](https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV) | 1:44 | 2022-07-08 | 2023-08-26 |
+| [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 | 2024-10-15 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2021-12-09 | 2024-04-05 |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
@@ -41,6 +42,7 @@
 | [Cadaques](https://open.spotify.com/track/5W3UaSyEgTVZHA7OrGffPH) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Cadaques](https://open.spotify.com/album/6pVPsVMUDfwtcrU32LSqbH) | 2:55 | 2021-12-23 | 2024-04-05 |
 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 | 2021-12-09 | 2024-04-05 |
 | [Caminando en junio](https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:54 | 2021-12-09 | 2022-05-27 |
+| [Caminos de Paz](https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Caminos de Paz](https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE) | 2:46 | 2024-10-15 |  |
 | [Capulet](https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Capulet](https://open.spotify.com/album/7I2zx3Yc5sAx2qAblV1Mlh) | 2:04 | 2023-01-20 |  |
 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 |  |
 | [Cerulean Coast](https://open.spotify.com/track/151zr84hWWWrr8L1gAH8kM) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Cerulean Coast](https://open.spotify.com/album/0TdiawvezxLE0aWFhNW6z8) | 2:44 | 2024-09-03 |  |

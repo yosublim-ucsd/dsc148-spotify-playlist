@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,507 likes - 98 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,510 likes - 98 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 20 | [そばかす](https://open.spotify.com/track/5cdFxxGV3b3gcGuXTpPWXt) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [The Great Escape \-COMPLETE BEST\-](https://open.spotify.com/album/0oCdyZMlfxliVsshegOPsM) | 4:13 |
 | 21 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 |
 | 22 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
-| 23 | [BELOVED](https://open.spotify.com/track/4aykSGQFnGbeKe5sw7pN2I) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 \~SUPER BEST OF GLAY\~](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:48 |
+| 23 | [BELOVED](https://open.spotify.com/track/4aykSGQFnGbeKe5sw7pN2I) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:48 |
 | 24 | [田園](https://open.spotify.com/track/0b2PHexDZWgFbvRRswrfRk) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [CAFE JAPAN](https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08) | 3:39 |
 | 25 | [PRIDE](https://open.spotify.com/track/2zntBR9UDPSvQCuXlFJpD5) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [PRIDE](https://open.spotify.com/album/7kScWTExSIrHPmxFTyfpQt) | 6:06 |
 | 26 | [Another Orion](https://open.spotify.com/track/43fBHTp92KRKgJy78RsiUx) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [Tears](https://open.spotify.com/album/2MQWQP1gesZVfr82Kr1oEG) | 4:55 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 38 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 |
 | 39 | [7月7日、晴れ](https://open.spotify.com/track/2vKGbj0z20jJrx5pkXjQLL) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [LOVE UNLIMITED ∞](https://open.spotify.com/album/5bq8QzxnZDV68DhayQWKUm) | 4:12 |
 | 40 | [どうしようもない僕に天使が降りてきた](https://open.spotify.com/track/4EfdOaR9QDQ5VrJA2iKjIo) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [どうしようもない僕に天使が降りてきた](https://open.spotify.com/album/3xGeVaUQJVMcWJcZYTe0mC) | 4:01 |
-| 41 | [グロリアス](https://open.spotify.com/track/5EATRvFKKtd7DjEL0UmAlV) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 \~SUPER BEST OF GLAY\~](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:55 |
+| 41 | [グロリアス](https://open.spotify.com/track/5EATRvFKKtd7DjEL0UmAlV) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:55 |
 | 42 | [JAM \- Remastered](https://open.spotify.com/track/6GtByH6TpcU64V5MaFLVIZ) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [SINGLE COLLECTION \(Remastered\)](https://open.spotify.com/album/1kuqRusuVuLzMaYYsP9NnX) | 5:18 |
 | 43 | [To Love You More \- Radio Edit](https://open.spotify.com/track/0UEqov6I69uqwBG6J2wMwC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 4:39 |
 | 44 | [I Need To Be In Love \- 1990 Remix](https://open.spotify.com/track/1tCok3BIvahyl6P9LC7WHh) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304), [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n), [Roger Young](https://open.spotify.com/artist/40q96OkRdRijCuHML34zey) | [Singles 1969\-1981](https://open.spotify.com/album/6Gi9Dl7TxRxC1rtmFHexOI) | 3:49 |

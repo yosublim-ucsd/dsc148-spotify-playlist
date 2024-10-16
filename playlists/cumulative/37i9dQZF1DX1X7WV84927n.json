@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 196082,
       "name": "Blood On The Walls",
       "url": "https://open.spotify.com/track/5uxsyPKNnLomNE1imPOj3s"
@@ -3706,6 +3706,24 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/321icc5EJf12bLc9xtT8LI"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7cGCoVKVIMsq4D6ObzUpBp"
     },
     {
       "album": {
@@ -11584,7 +11602,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 186898,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/6uE1pM25e1dwBsUktz0QQR"
@@ -12080,6 +12098,24 @@
       "duration_ms": 244233,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
+    },
+    {
+      "album": {
+        "name": "Pieces Back Together",
+        "url": "https://open.spotify.com/album/43AuA5GbPZCASSzFme8Lab"
+      },
+      "artists": [
+        {
+          "name": "Tilian",
+          "url": "https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230270,
+      "name": "Pieces Back Together",
+      "url": "https://open.spotify.com/track/3VWGMEuzWZYLwA2MnpDI1d"
     },
     {
       "album": {

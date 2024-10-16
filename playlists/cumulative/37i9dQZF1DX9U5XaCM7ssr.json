@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "album": {
         "name": "Together We Are OKAAY",
         "url": "https://open.spotify.com/album/7Bb0ZIOOqQPcCvDFU8V5u3"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 211483,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 268946,
       "name": "Ku Dengannya Kau Dengan Dia",
       "url": "https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 184670,
       "name": "Lama-Lama",
       "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"

@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kito, DJ\_Dave, Eera, evilgiane, and more.
 
-601 songs - 1 day 10 hr 22 min
+602 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Back N Forth](https://open.spotify.com/track/0L4dXJnz7HHnnqtfOoDUbE) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 2](https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX) | 2:16 | 2024-09-20 | 2024-09-28 |
 | [Back Seat \- Chris Lorenzo Remix](https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Back Seat \(Chris Lorenzo Remix\)](https://open.spotify.com/album/1YGMmHM1bVkTfEt761AwRT) | 4:46 | 2022-06-03 | 2022-08-06 |
 | [back to tha](https://open.spotify.com/track/7dOzaKiaduAxuRfPSaTQwu) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [back to tha](https://open.spotify.com/album/2bSAP1x77JzDTAwzyiByp9) | 4:20 | 2023-01-20 | 2023-03-29 |
-| [backseat](https://open.spotify.com/track/1bzhYxg44jtG54r4kDmiBa) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [re](https://open.spotify.com/album/3rxprzmVdO5HkFphAqk2Uw) | 2:44 | 2024-04-25 |  |
+| [backseat](https://open.spotify.com/track/1bzhYxg44jtG54r4kDmiBa) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [re](https://open.spotify.com/album/3rxprzmVdO5HkFphAqk2Uw) | 2:44 | 2024-04-25 | 2024-10-16 |
 | [Bad Gyal](https://open.spotify.com/track/37tB5fsOM2AxFnHmrSHrYp) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR), [Dyer MC](https://open.spotify.com/artist/0cixgL4lBK61iUJ7imWoUZ) | [Bad Gyal / EZ 4 Me](https://open.spotify.com/album/66EHrbtKApddaw41QPB8ds) | 2:17 | 2022-08-05 | 2022-11-13 |
 | [Bad Lines](https://open.spotify.com/track/2loO0mL3yxH650l9wq7KKQ) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Bad Lines](https://open.spotify.com/album/4EoeTFWnMAHHnh0NfSlA6o) | 3:50 | 2023-09-25 | 2024-06-08 |
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-26 |  |
@@ -384,6 +384,7 @@
 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 | 2022-08-05 | 2022-11-13 |
 | [No Quiero ser Madre](https://open.spotify.com/track/74tuTsVNQJ1h5Y9MGNQVYY) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [No Quiero ser Madre](https://open.spotify.com/album/21bQi55CkV4IkGCv7hBxQd) | 1:35 | 2022-11-12 | 2024-01-06 |
 | [No Witness](https://open.spotify.com/track/0GGepyK375cp1jN8Z9ZTK8) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE) | [No Witness](https://open.spotify.com/album/0HsG2moofrvt0hGo2iYuLb) | 2:48 | 2022-09-16 | 2022-11-13 |
+| [Nobody Move](https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Nobody Move](https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5) | 2:01 | 2024-10-16 |  |
 | [Not Enough](https://open.spotify.com/track/5piaLz775INjlnFJ1Rvh5d) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [Closer](https://open.spotify.com/album/0EPh7k3gmF42OU2dzhw5HP) | 2:43 | 2022-09-02 | 2022-11-13 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-10 | 2024-05-12 |
 | [not yet.](https://open.spotify.com/track/3VIkfam8WA7bqt3gW81Ln3) | [penny p.](https://open.spotify.com/artist/0fiIHGSyHdIncaSJQAGbY9) | [not yet.](https://open.spotify.com/album/3jYtvtEuFu4cMaaZVUoWZM) | 2:36 | 2022-06-03 | 2022-08-06 |

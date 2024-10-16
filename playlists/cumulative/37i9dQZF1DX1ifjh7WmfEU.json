@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Quiet Morning",
+        "url": "https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl"
+      },
+      "artists": [
+        {
+          "name": "Sulman Indigo",
+          "url": "https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138642,
+      "name": "A Quiet Morning",
+      "url": "https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl"
+    },
+    {
+      "album": {
         "name": "A Quiet Triumph",
         "url": "https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj"
       },

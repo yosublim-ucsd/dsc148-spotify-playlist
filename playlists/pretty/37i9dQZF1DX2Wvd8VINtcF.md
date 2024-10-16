@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Becky and the Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,037 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,047 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 24 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 |
 | 25 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 |
 | 26 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
-| 27 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 27 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 28 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 |
 | 29 | [JOY \(By My Side\)](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [JOY \(By My Side\)](https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g) | 3:42 |
 | 30 | [KIDZ](https://open.spotify.com/track/6fnPB3xEaMwWbXIFsLK5bu) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [KIDZ](https://open.spotify.com/album/3PKpaLHUBdIQmTm4rgroQ7) | 3:42 |

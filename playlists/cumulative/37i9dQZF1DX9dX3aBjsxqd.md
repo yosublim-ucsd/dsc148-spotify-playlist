@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-134 songs - 9 hr 23 min
+135 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fall](https://open.spotify.com/track/0APlwe0ewwMipyVg3WkEI3) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Santosha](https://open.spotify.com/album/0i7YAD1BjzmuSWhrG6aex8) | 3:43 | 2023-01-09 | 2024-04-19 |
 | [Fall](https://open.spotify.com/track/3iuInbK0VFSFLv3fts8IcI) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Fall](https://open.spotify.com/album/6EmPU6EqoBE5TLEZoAytYY) | 3:43 | 2022-09-30 |  |
 | [Fall](https://open.spotify.com/track/6ETiqLUzBgn8dvNmCYjpoG) | [Challem](https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf) | [Night Owl](https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k) | 3:43 | 2022-11-18 | 2023-01-16 |
+| [Fantasiestücke](https://open.spotify.com/track/2nmrVF0Wuytjbum7IhDCvV) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Christian\-Pierre La Marca](https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j), [Jean\-Frédéric Neuburger](https://open.spotify.com/artist/6jsH3z7JbQRNQjjmTcy7Wy) | [Robert Schumann: Zart und mit Ausdruck \(from Fantasiestücke Op\. 73\)](https://open.spotify.com/album/0ZZrIPEcOXSDgQ84RjJewG) | 3:12 | 2024-10-15 |  |
 | [Flow](https://open.spotify.com/track/4kPjycSu2K6IAlVVu5TuwP) | [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [François Couturier](https://open.spotify.com/artist/4Zt9Fpz2Zw4j5JckmwnL76) | [Flow](https://open.spotify.com/album/53YngitfGka6Bt402uaLsV) | 6:20 | 2021-03-08 |  |
 | [Gardermoen](https://open.spotify.com/track/1WEGB2t1ZYHjQODNPaiftb) | [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Delay](https://open.spotify.com/album/5E7fIzAOnhdt3mSyjUYb1j) | 4:10 | 2021-03-08 |  |
 | [Hallelujah \(Arr\. Hodgefor Cello and Strings\)](https://open.spotify.com/track/7q2DehTTvivpurQfe41iCy) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Didier Osindero](https://open.spotify.com/artist/6uf0epRD4tMrwtScv7Z4Vz), [Alinka Rowe](https://open.spotify.com/artist/5243VBdvvdhbG099nuIgvw), [Yong Jun Lee](https://open.spotify.com/artist/2emz7eqpRaUd6D87co8p0t) | [Inspiration](https://open.spotify.com/album/5n2aAsMFp4NhWn64pCGCtK) | 3:26 | 2021-03-08 |  |

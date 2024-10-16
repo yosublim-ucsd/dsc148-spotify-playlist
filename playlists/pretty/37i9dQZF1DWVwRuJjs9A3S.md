@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Yukimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,181 likes - 119 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,202 likes - 119 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 12 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 |
 | 13 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
 | 14 | [Valborg](https://open.spotify.com/track/2TvD1DYT6bxu3AqxR48aVy) | [november22](https://open.spotify.com/artist/6awYvXwNOuP95CVVkC3INd), [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Valborg](https://open.spotify.com/album/4ml4PYVGGxY7YNQ72x2JdS) | 2:19 |
-| 15 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
+| 15 | [SAMESAME \(feat\. Izza Gara\)](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME feat\. Izza Gara](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 16 | [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 |
 | 17 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 |
 | 18 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 |

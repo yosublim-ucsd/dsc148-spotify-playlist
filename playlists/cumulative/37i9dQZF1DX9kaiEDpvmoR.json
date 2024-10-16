@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 286146,
       "name": "Jag beh\u00f6ver dig",
       "url": "https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM"
@@ -4056,6 +4056,24 @@
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
+    },
+    {
+      "album": {
+        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233030,
+      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
     },
     {
       "album": {

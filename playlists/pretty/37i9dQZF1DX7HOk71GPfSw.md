@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring HARU NEMURI and Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,034 likes - 152 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,066 likes - 152 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 8 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/7jS24PfeU5Wkd4ieCZZMMu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:23 |
 | 9 | [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Secret](https://open.spotify.com/album/4vAQSA1y2nD8O5Y20aJIzI) | 3:41 |
 | 10 | [re:laced.up](https://open.spotify.com/track/3UtylcU8x9gSnwBU999fJ8) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [re:](https://open.spotify.com/album/2lamxs1EWiZQirsxtrbCMb) | 2:16 |
-| 11 | [Angel Music](https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [girl EDM \- disc 1](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 2:07 |
+| 11 | [Angel Music](https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [girl EDM \(disc 1\)](https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN) | 2:07 |
 | 12 | [Everybody Worldwide](https://open.spotify.com/track/3yYVvyE09OeA8vBNkX3dCv) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Everybody Worldwide](https://open.spotify.com/album/0fJXUwr5v6bJhT5cRSqHd4) | 3:03 |
 | 13 | [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 |
 | 14 | [All This Time](https://open.spotify.com/track/1fFhVrkJQqWoSxtynaXCxV) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [DJH](https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [909 Worldwide Presents: beat go fun!!](https://open.spotify.com/album/3Ji77z0h3j5zPYbywwortj) | 3:11 |

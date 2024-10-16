@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-179 songs - 14 hr 23 min
+180 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Hit The Club](https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St) | [DBF](https://open.spotify.com/artist/3p9cbFUvSrQeLgpm7Go8ky) | [Hit The Club](https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX) | 2:28 | 2024-07-14 | 2024-07-22 |
 | [Hold Ud, Skat!](https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Trifecta](https://open.spotify.com/album/3FFdrjoj7j1nivP0Koz4gL) | 4:56 | 2024-04-09 | 2024-04-19 |
 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 | 2024-05-03 |  |
+| [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2024-10-14 |  |
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 | 2024-05-16 |
 | [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 |  |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 |  |
@@ -121,7 +122,7 @@
 | [Oh My God!](https://open.spotify.com/track/3irLlLh1uTben95eKdEALc) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Oh My God!](https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS) | 6:07 | 2024-05-02 |  |
 | [On Da Beat](https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [Dissonne](https://open.spotify.com/artist/6vgIOdboTHh9hQ5P1iza14) | [On Da Beat](https://open.spotify.com/album/2PJf1l8rN5AP4MXDi5VTDu) | 5:06 | 2024-05-22 |  |
 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 | 2024-08-03 |
-| [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 |  |
+| [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 | 2024-10-16 |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |

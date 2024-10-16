@@ -1,12 +1,12 @@
 {
-  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 231784,
+  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
+  "num_followers": 231850,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACiemUSEQjM3gIbkxoo2wMZ",
+  "snapshot_id": "ZwxfAAAAAACp3OPRdPx3+P/JDntJZH87",
   "tracks": [
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "No Se Sobrepase",
-      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 231416,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "No Se Sobrepase",
+      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
     },
     {
       "added_at": null,
@@ -731,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 250382,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 241000,
       "name": "En Lo Malo Me Va Bien",
       "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00daltimo Tango",
-        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 250382,
-      "name": "El \u00daltimo Tango",
-      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
     },
     {
       "added_at": null,
@@ -903,42 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suena En Mi Barrio",
-        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Suena En Mi Barrio",
-      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Toca Perder",
         "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
       },
@@ -963,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suena En Mi Barrio",
+        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Suena En Mi Barrio",
+      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
     },
     {
       "added_at": null,

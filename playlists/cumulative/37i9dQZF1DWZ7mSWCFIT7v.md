@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-359 songs - 1 day 4 hr 56 min
+360 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 |  |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2022-07-22 |
+| [Do Lixo Ouriço Ganha](https://open.spotify.com/track/5v9aevluGi1W5ti4hLOuEg) | [Raar](https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO) | [Do Lixo Ouriço Ganha](https://open.spotify.com/album/31f68bZVdnBFx6nhjkzwQZ) | 2:58 | 2024-10-16 |  |
 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 |  |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-07-29 |
 | [Dream Walk](https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [These Days Don't Exist](https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr) | 3:45 | 2021-10-06 |  |
@@ -352,7 +353,7 @@
 | [What Came First And Why Does It Matter](https://open.spotify.com/track/1X7kDbXEPCJYYp376yqFbD) | [DJ Chrysalis](https://open.spotify.com/artist/3h07CvDZJ8MLsl8tAIMzvy) | [What Came First And Why Does It Matter](https://open.spotify.com/album/1uir3TdZvumqFzKcMKsavV) | 4:05 | 2022-06-08 | 2022-07-29 |
 | [Whatcomesup96 \- Mixed](https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5) | [Zebrablood](https://open.spotify.com/artist/6YzavuXwWlGoDfXEZ7qnsb) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 0:58 | 2022-04-06 | 2022-07-29 |
 | [Whipping Spree](https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Journey into Mr Re](https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC) | 6:51 | 2023-06-01 | 2023-08-09 |
-| [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 | 2023-10-28 |  |
+| [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 | 2023-10-28 | 2024-10-16 |
 | [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 | 2024-01-29 |
 | [Workaround Four](https://open.spotify.com/track/4T9tdiYQ583ngVEyUGfDge) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Kuljit Bhamra](https://open.spotify.com/artist/6MPSPUcWWZsIVbFiw35Ygg) | [Workaround](https://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9) | 5:50 | 2021-10-06 | 2022-07-27 |
 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-19 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2024",
-  "num_followers": 50541,
+  "num_followers": 50546,
   "original_name": "Pinkpop Best of - 2024",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -975,6 +959,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM"
       },
@@ -1143,18 +1123,22 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "This Is The Life (eDeluxe)",
-        "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
       "artists": [
         {
-          "name": "Amy Macdonald",
-          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 184413,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1171,6 +1155,22 @@
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "This Is The Life (eDeluxe)",
+        "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
+      },
+      "artists": [
+        {
+          "name": "Amy Macdonald",
+          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 330773,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Life In Cartoon Motion",
-        "url": "https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Grace Kelly",
-      "url": "https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 258665,
       "name": "All Night Long (All Night) - Single Version",
       "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Life In Cartoon Motion",
+        "url": "https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Grace Kelly",
+      "url": "https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 256240,
       "name": "Youth of the Nation",
       "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Come What(ever) May [10th Anniversary Edition]",
-        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "Through Glass",
-      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Woodface",
         "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 224466,
       "name": "Weather With You",
       "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Come What(ever) May [10th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "Through Glass",
+      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
     },
     {
       "added_at": "2024-02-12 13:45:08",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-02-12 13:45:08",
       "album": {
-        "name": "Outlaw Gentlemen & Shady Ladies (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267680,
-      "name": "Lola Montez",
-      "url": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL"
-    },
-    {
-      "added_at": "2024-02-12 13:45:08",
-      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 231133,
       "name": "I Alone",
       "url": "https://open.spotify.com/track/3LpnzPxkMI6XS4JCbhNeek"
+    },
+    {
+      "added_at": "2024-02-12 13:45:08",
+      "album": {
+        "name": "Outlaw Gentlemen & Shady Ladies (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267680,
+      "name": "Lola Montez",
+      "url": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL"
     },
     {
       "added_at": "2024-02-12 13:45:08",

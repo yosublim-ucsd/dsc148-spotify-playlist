@@ -2,9 +2,9 @@
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to women at full volume\. Cover: Fazerdaze
+> Listen to women at full volume\. Cover: Larissa Lambert
 
-734 songs - 1 day 15 hr 45 min
+739 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Gone](https://open.spotify.com/track/3uTMmWHtyzks33cVtGv8ys) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:17 | 2024-08-20 |  |
 | [Goner](https://open.spotify.com/track/2i9roYw0YsShhe1BBSGzxA) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Real Life](https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc) | 3:11 | 2024-08-20 |  |
 | [Good For A Girl](https://open.spotify.com/track/7pQdxhXAq1UuogbmbNeuIk) | [Germein](https://open.spotify.com/artist/1fOL2BMtY8LrtytFUGGfC7) | [Good For A Girl](https://open.spotify.com/album/4vpHnbFKlOHfVA4H2tlVLJ) | 2:50 | 2022-02-03 | 2022-04-06 |
+| [Good Guys](https://open.spotify.com/track/3lMHrOUPxDqNJQXL5cNpHk) | [Jujulipps](https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy) | [Good Guys](https://open.spotify.com/album/30u1jamcuxRgwq8SaZps6n) | 2:35 | 2024-10-15 |  |
 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 | 2023-11-10 | 2024-02-15 |
 | [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 | 2022-11-30 | 2024-01-18 |
 | [Goodbye To The Old Me](https://open.spotify.com/track/2KBUsMSWnegzswLEMxkLc8) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Goodbye To The Old Me](https://open.spotify.com/album/7oKmz2jlpMf6WIw2oOA4vt) | 3:27 | 2023-04-30 | 2023-11-11 |
@@ -485,7 +486,7 @@
 | [Now And Then](https://open.spotify.com/track/4w7DiSMw47VkSmqryKKl9g) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 4:31 | 2022-05-27 | 2022-07-29 |
 | [Oblivion](https://open.spotify.com/track/0Yl8QnPI5Zt2R4N0fZ5QHm) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Oblivion](https://open.spotify.com/album/2Fac9uylkeVyJuWmTzeL5W) | 3:04 | 2023-01-31 | 2023-03-01 |
 | [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 | 2023-08-31 | 2024-04-26 |
-| [Omen](https://open.spotify.com/track/0BKhef93QmTKCW4ub1lNNa) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Omen](https://open.spotify.com/album/0UhsLckMXwTvr7rTWglH8C) | 3:44 | 2024-09-17 |  |
+| [Omen](https://open.spotify.com/track/0BKhef93QmTKCW4ub1lNNa) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Omen](https://open.spotify.com/album/0UhsLckMXwTvr7rTWglH8C) | 3:44 | 2024-09-17 | 2024-10-16 |
 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 | 2023-04-30 | 2023-11-01 |
 | [On the low \(shh!\)](https://open.spotify.com/track/4tF47KCmrr7Abl25YvX8Ur) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [On the low \(shh!\)](https://open.spotify.com/album/4gMqWwrSqiPcbrtSgBHrHZ) | 2:49 | 2022-07-03 | 2023-01-01 |
 | [On the low \(shh!\)](https://open.spotify.com/track/5MPNdkwJqA3RIFpZ14I4fX) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [LIFE IS BETTER NOW](https://open.spotify.com/album/4GluTrpGzdJWo0XcMYt84X) | 2:49 | 2022-10-31 | 2022-11-13 |
@@ -496,6 +497,7 @@
 | [On Your Mind](https://open.spotify.com/track/4guGo1F4CfF2IbsSFKR8dF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [On Your Mind](https://open.spotify.com/album/5Jv3U8CHmOBL1mTeR94c39) | 3:56 | 2022-04-05 | 2022-05-28 |
 | [One Last Drag](https://open.spotify.com/track/72EdNYAMrxZKcnxvP1mpu4) | [Hayley Mary](https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH) | [One Last Drag](https://open.spotify.com/album/11i8xYfkd4zdBkKcSBKqSe) | 4:11 | 2024-04-25 | 2024-06-18 |
 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 | 2024-02-14 | 2024-08-28 |
+| [One More Step](https://open.spotify.com/track/5ah0lStBk74Qb8pgSeLupG) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [One More Step](https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG) | 3:19 | 2024-10-15 |  |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-31 | 2024-04-26 |
 | [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 | 2022-09-05 | 2023-07-04 |
 | [Only Love](https://open.spotify.com/track/6H29rXPIM9nCqRUwDTpE1I) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/1qPTIdE56XHvxHGfwXhDhR) | 3:05 | 2022-05-27 | 2022-07-29 |
@@ -536,9 +538,11 @@
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-07-31 | 2023-11-11 |
 | [Ray of Light](https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Ray of Light](https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU) | 3:49 | 2024-09-03 |  |
 | [READ](https://open.spotify.com/track/1o2SurUyAJFFkf0kjSMKo1) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [READ](https://open.spotify.com/album/7uMlhSlAXQWMfrgcnJ7Xxi) | 2:48 | 2022-03-06 | 2022-10-03 |
+| [Real](https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr) | [Theeth](https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj) | [Real](https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO) | 2:50 | 2024-10-15 |  |
 | [Red Earth Dirt](https://open.spotify.com/track/3Ymvh9FUXL6sjDG3A1R1NP) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Red Earth Dirt](https://open.spotify.com/album/6hpjwCa1aIihRixuYzQOC2) | 3:50 | 2022-02-03 | 2022-08-01 |
 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 | 2022-04-05 | 2023-02-01 |
 | [Rerun](https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/6Izi5vqlILx2FOE4AolRoD) | 3:21 | 2022-04-05 | 2022-09-06 |
+| [Restless](https://open.spotify.com/track/2nXVWSPnltpTQhRCEUzYXF) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Stiletto](https://open.spotify.com/album/4N2vNjHPArJKgVEjpjgAcq) | 3:43 | 2024-10-15 |  |
 | [ridin’\. prod by Kilter](https://open.spotify.com/track/0b9jKFU9Lkn2rKKPNnSsRy) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [ridin’\. prod by Kilter](https://open.spotify.com/album/7HHQ179N5PovOh1O6sGtEM) | 1:32 | 2023-11-10 | 2024-07-10 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-21 |  |
 | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay) | 2:27 | 2023-08-15 | 2024-04-12 |
@@ -635,9 +639,10 @@
 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2022-02-03 | 2022-05-03 |
 | [Terminal Velocity](https://open.spotify.com/track/27MHU9b9I5io44IWpzVuox) | [Lisa Crawley](https://open.spotify.com/artist/4rRqgPaVu276Un4kOki1Ym) | [Terminal Velocity](https://open.spotify.com/album/2s4kywLxYKlsjYzGqnDtLD) | 3:54 | 2022-02-03 | 2022-03-02 |
 | [Terrified](https://open.spotify.com/track/7aTvaulf2N3Auq30e2r0fm) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Terrified](https://open.spotify.com/album/1rEhkU73zVvCzbBrMHvXWz) | 3:01 | 2023-03-31 | 2024-02-15 |
-| [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2024-04-12 |  |
+| [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2024-04-12 | 2024-10-16 |
 | [Thank You](https://open.spotify.com/track/5jPiLWYq8X5sUKfRTVm6JY) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thank You](https://open.spotify.com/album/48UszgmqWejDh5Qs3Efa5F) | 2:42 | 2022-02-03 | 2022-05-03 |
 | [The Ballad Of Ruby Wednesday](https://open.spotify.com/track/2vWFHTrkEMLtKntgcSLAvb) | [Hayley Mary](https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH) | [The Ballad Of Ruby Wednesday](https://open.spotify.com/album/4ve3VVFfrieX9GA0E16AhI) | 4:17 | 2024-06-17 |  |
+| [The Border](https://open.spotify.com/track/5FW4knPYJ9YdJEqlR1yfQ3) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [The Border](https://open.spotify.com/album/5zGSQPMJZOk8yFknVMsqlR) | 2:48 | 2024-10-15 |  |
 | [The Brown Snake](https://open.spotify.com/track/31CbsclpQWU4bKzLKnLHaS) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [The Brown Snake](https://open.spotify.com/album/2KBj0ahthLPdXhYODnXRIL) | 3:15 | 2022-09-05 | 2023-03-01 |
 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 | 2022-11-30 | 2023-09-01 |
 | [The Curse](https://open.spotify.com/track/491AYsTWGpOClL9A5cbcQv) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [The Curse](https://open.spotify.com/album/2xnsVRZdZto2ItOA4OwD7s) | 2:44 | 2022-05-27 | 2023-03-01 |
@@ -692,7 +697,7 @@
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2022-02-03 | 2022-08-01 |
 | [Wait](https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Wait](https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O) | 3:11 | 2023-10-31 | 2024-05-03 |
 | [Waiting Game](https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Morning Sun EP](https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC) | 4:00 | 2023-01-31 | 2024-01-18 |
-| [Want U Here](https://open.spotify.com/track/6MEBRR6soqnEWUGlJuPXqm) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Want U Here](https://open.spotify.com/album/7frKFTucwcNjlAKHMlWIzT) | 2:05 | 2024-05-02 |  |
+| [Want U Here](https://open.spotify.com/track/6MEBRR6soqnEWUGlJuPXqm) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Want U Here](https://open.spotify.com/album/7frKFTucwcNjlAKHMlWIzT) | 2:05 | 2024-05-02 | 2024-10-16 |
 | [Wasting Away](https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Wasting Away](https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g) | 2:44 | 2023-08-15 | 2023-11-11 |
 | [Wasting Days](https://open.spotify.com/track/1GTxUZBOsesRhlYRmujQH2) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Wasting Days](https://open.spotify.com/album/2J38i8Kyx9QMIFMI24fyv7) | 3:43 | 2024-09-29 |  |
 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 | 2022-07-03 | 2023-03-01 |
@@ -720,7 +725,7 @@
 | [WHY DO YOU HATE ME?](https://open.spotify.com/track/4zuEIiREfhd0nWrWKUkwmz) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [WHY DO YOU HATE ME?](https://open.spotify.com/album/1JUucwGCSxaYw87tnPXtSy) | 2:12 | 2024-07-29 |  |
 | [Wild For Change](https://open.spotify.com/track/1x7MgVfK7MP3aZkAuae3t8) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Wild For Change](https://open.spotify.com/album/0Y85muQmXgj15Os6GkC9Th) | 3:52 | 2024-02-14 | 2024-06-04 |
 | [Winnie Crush](https://open.spotify.com/track/1Pp8o0rIaUoU7JCWTcyHK6) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0a5dMmUgyFMjkLfLXJgmzs) | 2:54 | 2022-02-03 | 2022-03-07 |
-| [Wish I Knew](https://open.spotify.com/track/5UvSwQxQbr10bikEeB1U2b) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [A Problematic Way Of Thinking](https://open.spotify.com/album/7dmHhRefkucMVCjmhUTy0n) | 3:10 | 2024-05-02 |  |
+| [Wish I Knew](https://open.spotify.com/track/5UvSwQxQbr10bikEeB1U2b) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [A Problematic Way Of Thinking](https://open.spotify.com/album/7dmHhRefkucMVCjmhUTy0n) | 3:10 | 2024-05-02 | 2024-10-16 |
 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 | 2022-05-27 | 2023-07-25 |
 | [Witness](https://open.spotify.com/track/4LfSwi3vWDMQYqNsxsIesm) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Witness](https://open.spotify.com/album/3zfQMqcvn7NwEBjZhKyX0C) | 3:58 | 2024-04-05 | 2024-06-04 |
 | [Won One](https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:41 | 2023-11-10 | 2024-04-19 |
@@ -739,7 +744,7 @@
 | [Young Dumb Immature](https://open.spotify.com/track/3z5WMvblcXCYkwclMdG08r) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Young Dumb Immature](https://open.spotify.com/album/6QrW8csTryFCwIqaMNsNYZ) | 3:49 | 2024-06-04 |  |
 | [Your Funeral](https://open.spotify.com/track/3y9K5sfxBscaZDgAJvaBhP) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Your Funeral](https://open.spotify.com/album/7kHawGCjHGSeiZLqcmkPt0) | 2:51 | 2023-03-31 | 2023-09-01 |
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-03 | 2022-04-06 |
-| [YOUR PART IN MY STORY IS OVER](https://open.spotify.com/track/0DYuwkXIJice7DEQ1jmaNx) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [YOUR PART IN MY STORY IS OVER](https://open.spotify.com/album/18xcVOBHc2gKr5ctB72cHO) | 2:54 | 2024-04-19 |  |
+| [YOUR PART IN MY STORY IS OVER](https://open.spotify.com/track/0DYuwkXIJice7DEQ1jmaNx) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [YOUR PART IN MY STORY IS OVER](https://open.spotify.com/album/18xcVOBHc2gKr5ctB72cHO) | 2:54 | 2024-04-19 | 2024-10-16 |
 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 | 2023-02-28 | 2023-04-01 |
 | [Zone](https://open.spotify.com/track/5fdmghvWwlSOkZNS8LxKSZ) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Zone](https://open.spotify.com/album/5hwl3ndIeLXRjR3EvMyzxo) | 3:10 | 2024-04-05 | 2024-06-24 |
 

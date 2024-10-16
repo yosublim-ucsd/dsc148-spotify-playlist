@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-230 songs - 13 hr 6 min
+231 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-19 |  |
 | [Happier Than Ever](https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Happier Than Ever](https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm) | 3:51 | 2022-07-15 | 2023-06-24 |
 | [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 | 2023-12-12 |  |
+| [Happy New Year](https://open.spotify.com/track/5xA2xOTd3QgI2QfqXD3Wcm) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Happy New Year](https://open.spotify.com/album/0TyHvhfwR8cUIXOEmp9t2o) | 2:08 | 2024-10-15 |  |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-14 |  |
 | [Hello](https://open.spotify.com/track/6wXcmmbuKgyCz5nnU7T4lI) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Hello](https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG) | 3:57 | 2023-03-07 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-28 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Anycia",
-  "num_followers": 484445,
+  "num_followers": 484425,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "I AIN\u2019T GOING",
+      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "I AIN\u2019T GOING",
-      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Running Late",
-        "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
+        "name": "GEEKALEEK (feat. BIA)",
+        "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
       },
       "artists": [
         {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 127137,
-      "name": "Running Late",
-      "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
+      "duration_ms": 128000,
+      "name": "GEEKALEEK (feat. BIA)",
+      "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -807,22 +811,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "GEEKALEEK (feat. BIA)",
-        "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
+        "name": "Running Late",
+        "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
       },
       "artists": [
         {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
         }
       ],
-      "duration_ms": 128000,
-      "name": "GEEKALEEK (feat. BIA)",
-      "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
+      "duration_ms": 127137,
+      "name": "Running Late",
+      "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
     },
     {
       "added_at": "2024-10-11 04:00:00",

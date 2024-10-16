@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 Monde en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,896 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,915 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

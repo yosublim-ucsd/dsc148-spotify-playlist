@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 142004,
       "name": "Annalkande",
       "url": "https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ"
@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Deep rest",
+        "url": "https://open.spotify.com/album/2hYb3gWbv4ylpbYtlJpTkT"
+      },
+      "artists": [
+        {
+          "name": "Mentitoso",
+          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Deep rest",
+      "url": "https://open.spotify.com/track/5TcqlIHwuNPh2Tcl6NgeJF"
+    },
+    {
+      "album": {
         "name": "Deep Sleep",
         "url": "https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw"
       },
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 199200,
       "name": "Drommenes Verden",
       "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 259200,
       "name": "Erase",
       "url": "https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 144025,
       "name": "Gratitude Frequency",
       "url": "https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO"
@@ -3024,7 +3042,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 163361,
       "name": "Hati",
       "url": "https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ"
@@ -5934,7 +5952,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 175073,
       "name": "Solfeggio Purity 741 Hz",
       "url": "https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj"
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 170322,
       "name": "Wide Horizon",
       "url": "https://open.spotify.com/track/2yCVaaUmCeSUbrCEvGtBz2"
@@ -7058,7 +7076,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 179000,
       "name": "Zeppelin See",
       "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 346488,
+  "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
+  "num_followers": 346561,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACg0S7rkkFBljf/vCn9SQax",
+  "snapshot_id": "ZwxfAAAAAAB3XK6QMIW7gtF12kpz+YhI",
   "tracks": [
     {
       "added_at": null,
@@ -1031,18 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
       },
       "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 144016,
-      "name": "Don KBRN Freestyle",
-      "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
+      "duration_ms": 155294,
+      "name": "EL FAVORITO DE MAMI",
+      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

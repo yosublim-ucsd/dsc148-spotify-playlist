@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 269402,
       "name": "A Silent Place",
       "url": "https://open.spotify.com/track/1LarksQOfjXTKovfdYa6pd"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 250704,
       "name": "Ask Me Again",
       "url": "https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd"
@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Columbia Road",
+        "url": "https://open.spotify.com/album/31PNAAvrV74HGqSYyuHCyN"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Columbia Road",
+      "url": "https://open.spotify.com/track/7oxb4wUGdTCmL3Q6fd7kNX"
+    },
+    {
+      "album": {
         "name": "Come on... Lucky!",
         "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
       },
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 222508,
       "name": "Comme Il Faut",
       "url": "https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5"
@@ -5114,7 +5132,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 180213,
       "name": "Largo",
       "url": "https://open.spotify.com/track/33TmnZLYZnX5zdY29lUkvi"
@@ -5262,6 +5280,24 @@
       "duration_ms": 171192,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2Yv5PViJgDuusnrMNh8DA0"
+    },
+    {
+      "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182561,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
     },
     {
       "album": {
@@ -6284,7 +6320,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 205307,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW"
@@ -6428,7 +6464,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 212000,
       "name": "Nancy (With the Laughing Face)",
       "url": "https://open.spotify.com/track/0qkrzoR4FdEBe0kEjppl0o"
@@ -7383,6 +7419,42 @@
     },
     {
       "album": {
+        "name": "Serene Resonance",
+        "url": "https://open.spotify.com/album/5mbcW7GzH4RB57BAQ83Xfb"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247833,
+      "name": "Serene Resonance",
+      "url": "https://open.spotify.com/track/0BdpQlHLBCtTLje6OhuqXY"
+    },
+    {
+      "album": {
+        "name": "Shimmer Through",
+        "url": "https://open.spotify.com/album/3IcPECf5cE4czhZqmDhiki"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248106,
+      "name": "Shimmer Through",
+      "url": "https://open.spotify.com/track/6040WhuchadJWK5fuNE3OT"
+    },
+    {
+      "album": {
         "name": "Short Intermission",
         "url": "https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd"
       },
@@ -7614,6 +7686,24 @@
       "duration_ms": 211053,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
+    },
+    {
+      "album": {
+        "name": "Solitude Symphony",
+        "url": "https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Solitude Symphony",
+      "url": "https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787"
     },
     {
       "album": {
@@ -9371,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "Time Passes Quickly",
+        "url": "https://open.spotify.com/album/3QC3utZMD4qR2aeSX6OOwX"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211125,
+      "name": "Time Passes Quickly",
+      "url": "https://open.spotify.com/track/2NsN8ak00vcXTEzymRT0RZ"
+    },
+    {
+      "album": {
         "name": "time remembered",
         "url": "https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY"
       },
@@ -9458,6 +9566,24 @@
       "duration_ms": 207750,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E"
+    },
+    {
+      "album": {
+        "name": "Together With You",
+        "url": "https://open.spotify.com/album/6ja1osNTXrEjqrfXx1tUdn"
+      },
+      "artists": [
+        {
+          "name": "Chestnut Street Trio",
+          "url": "https://open.spotify.com/artist/2XyIoQNaBNpu3ucMG4euc8"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233534,
+      "name": "Together With You",
+      "url": "https://open.spotify.com/track/3A9B9BjcAuezDFRY5s8NfN"
     },
     {
       "album": {
@@ -9584,6 +9710,24 @@
       "duration_ms": 193857,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/1DWcrgF8P6NlHf9rvN7lzm"
+    },
+    {
+      "album": {
+        "name": "Until Next Time",
+        "url": "https://open.spotify.com/album/59us8LdqXgvfW6JPo1x4WM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Berg",
+          "url": "https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Until Next Time",
+      "url": "https://open.spotify.com/track/4eNupeNIVl9QUodeqss3JV"
     },
     {
       "album": {
@@ -10102,7 +10246,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 163892,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T"
@@ -10354,7 +10498,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 269583,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/0TR8L8n8nXPvp1JpqdyPcp"

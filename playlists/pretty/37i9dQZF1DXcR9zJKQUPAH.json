@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 152902,
+  "num_followers": 152935,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lighting Matches (Deluxe)",
-        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Found What I've Been Looking For",
-      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 231896,
       "name": "High",
       "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Found What I've Been Looking For",
+      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Foreign Hands (George's Version)",
         "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 258530,
       "name": "Foreign Hands (George's Version)",
       "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Astrovan",
-      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Astrovan",
+      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 194906,
       "name": "Minimum",
       "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Holo",
         "url": "https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk"
       },
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Television / So Far So Good",
+      "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
@@ -1519,6 +1535,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1551,38 +1583,6 @@
       "duration_ms": 237231,
       "name": "raingurl",
       "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Television / So Far So Good",
-      "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"
     },
     {
       "added_at": "2024-03-18 13:08:31",

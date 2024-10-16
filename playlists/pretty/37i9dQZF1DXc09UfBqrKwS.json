@@ -1,6 +1,6 @@
 {
   "description": "hora d hacer la meme",
-  "num_followers": 106820,
+  "num_followers": 106894,
   "original_name": "mimir",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Occasion",
-        "url": "https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r"
-      },
-      "artists": [
-        {
-          "name": "A\u00b4leroi",
-          "url": "https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Occasion",
-      "url": "https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Steady State",
         "url": "https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 171791,
       "name": "Steady State",
       "url": "https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Occasion",
+        "url": "https://open.spotify.com/album/0LUNEpdtuOAkmFDwvgmV8r"
+      },
+      "artists": [
+        {
+          "name": "A\u00b4leroi",
+          "url": "https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Occasion",
+      "url": "https://open.spotify.com/track/2rAClrs2LgdQiO1w7sczaS"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
-      },
-      "artists": [
-        {
-          "name": "Sol Reya",
-          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
-        }
-      ],
-      "duration_ms": 151486,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Return Home",
         "url": "https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML"
       },
@@ -599,22 +583,6 @@
       "duration_ms": 183700,
       "name": "Return Home",
       "url": "https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Silken Shades",
-        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
-      },
-      "artists": [
-        {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Silken Shades",
-      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -635,6 +603,38 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "duration_ms": 151486,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Silken Shades",
+        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Silken Shades",
+      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
         "name": "Somniantes",
         "url": "https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/1iA61n9CWRIdgDa8ZFx6XZ"
-      },
-      "artists": [
-        {
-          "name": "Matheo Lyon",
-          "url": "https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4"
-        }
-      ],
-      "duration_ms": 183090,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "For a moment",
         "url": "https://open.spotify.com/album/3HehNoOYCGkTWlZiQ3MBLC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 159600,
       "name": "For a moment",
       "url": "https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/1iA61n9CWRIdgDa8ZFx6XZ"
+      },
+      "artists": [
+        {
+          "name": "Matheo Lyon",
+          "url": "https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4"
+        }
+      ],
+      "duration_ms": 183090,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Etherealism",
-        "url": "https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn"
-      },
-      "artists": [
-        {
-          "name": "Chakra Tides",
-          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
-        }
-      ],
-      "duration_ms": 210958,
-      "name": "Etherealism",
-      "url": "https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Stabilize",
         "url": "https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 157189,
       "name": "Stabilize",
       "url": "https://open.spotify.com/track/0AC6SZlAoEbvzhMeUiwsAq"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Etherealism",
+        "url": "https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn"
+      },
+      "artists": [
+        {
+          "name": "Chakra Tides",
+          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
+        }
+      ],
+      "duration_ms": 210958,
+      "name": "Etherealism",
+      "url": "https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Enhance",
-        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
+        "name": "Royal Cubit",
+        "url": "https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8"
       },
       "artists": [
         {
-          "name": "E\u00f4ne",
-          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
         }
       ],
-      "duration_ms": 172732,
-      "name": "Enhance",
-      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
+      "duration_ms": 202500,
+      "name": "Royal Cubit",
+      "url": "https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Royal Cubit",
-        "url": "https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8"
+        "name": "Enhance",
+        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
       },
       "artists": [
         {
-          "name": "Gateway IV",
-          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+          "name": "E\u00f4ne",
+          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Royal Cubit",
-      "url": "https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6"
+      "duration_ms": 172732,
+      "name": "Enhance",
+      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
+        "name": "Edenora",
+        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
+      },
+      "artists": [
+        {
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Edenora",
+      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
         "name": "Relaxed Mind",
         "url": "https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 191851,
       "name": "Rays of Warmth",
       "url": "https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Edenora",
-        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
-      },
-      "artists": [
-        {
-          "name": "Armon\u00eda Astral",
-          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Edenora",
-      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Inner Strength and Courage",
-        "url": "https://open.spotify.com/album/5N7hvsSyBmye2JyaQ7UziS"
-      },
-      "artists": [
-        {
-          "name": "Dayonas Dream",
-          "url": "https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Inner Strength and Courage",
-      "url": "https://open.spotify.com/track/5AiDahGjCGvc0zSsU3nz2A"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Cassiopeia",
         "url": "https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 175200,
       "name": "Cassiopeia",
       "url": "https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Inner Strength and Courage",
+        "url": "https://open.spotify.com/album/5N7hvsSyBmye2JyaQ7UziS"
+      },
+      "artists": [
+        {
+          "name": "Dayonas Dream",
+          "url": "https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Inner Strength and Courage",
+      "url": "https://open.spotify.com/track/5AiDahGjCGvc0zSsU3nz2A"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 152144,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Clairvoyance",
-        "url": "https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO"
-      },
-      "artists": [
-        {
-          "name": "Folksaga",
-          "url": "https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf"
-        }
-      ],
-      "duration_ms": 216279,
-      "name": "Clairvoyance",
-      "url": "https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Vita Tranquilla",
         "url": "https://open.spotify.com/album/3ZsMmRjVpTqGWjWjhdZxcL"
       },
@@ -1627,6 +1595,22 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 152144,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
         "name": "My inner thoughts",
         "url": "https://open.spotify.com/album/77VEvUVmke42MZNIk6EF5G"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 204000,
       "name": "My inner thoughts",
       "url": "https://open.spotify.com/track/22bNVYcfYG7toxCcXRSwpO"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Clairvoyance",
+        "url": "https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO"
+      },
+      "artists": [
+        {
+          "name": "Folksaga",
+          "url": "https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf"
+        }
+      ],
+      "duration_ms": 216279,
+      "name": "Clairvoyance",
+      "url": "https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Restful Whispers",
-        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
-      },
-      "artists": [
-        {
-          "name": "Joa Abbot",
-          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
-        }
-      ],
-      "duration_ms": 218239,
-      "name": "Restful Whispers",
-      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Rare Lights",
         "url": "https://open.spotify.com/album/6UQVAkdfBQy3w90s6daUZY"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 178722,
       "name": "Calmness",
       "url": "https://open.spotify.com/track/3ZjO9JL84czoWKZLmeIqU2"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Restful Whispers",
+        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
+      },
+      "artists": [
+        {
+          "name": "Joa Abbot",
+          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
+        }
+      ],
+      "duration_ms": 218239,
+      "name": "Restful Whispers",
+      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Untroubled",
-        "url": "https://open.spotify.com/album/3lfBq0g8lIRQdal87w58Yp"
-      },
-      "artists": [
-        {
-          "name": "Elmiaq",
-          "url": "https://open.spotify.com/artist/5hSZWVJ0EPjddMUkiKqxzk"
-        }
-      ],
-      "duration_ms": 173406,
-      "name": "Untroubled",
-      "url": "https://open.spotify.com/track/2hVqXyj5dWgWNTO0Op8iB8"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Moonlight Cicadas",
         "url": "https://open.spotify.com/album/5grZ9s38TB1eRyhajsFjca"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 215999,
       "name": "Moonlight Cicadas",
       "url": "https://open.spotify.com/track/6SxP1Dvkot5ft3HP5rVUIA"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Untroubled",
+        "url": "https://open.spotify.com/album/3lfBq0g8lIRQdal87w58Yp"
+      },
+      "artists": [
+        {
+          "name": "Elmiaq",
+          "url": "https://open.spotify.com/artist/5hSZWVJ0EPjddMUkiKqxzk"
+        }
+      ],
+      "duration_ms": 173406,
+      "name": "Untroubled",
+      "url": "https://open.spotify.com/track/2hVqXyj5dWgWNTO0Op8iB8"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Four Leaves",
-        "url": "https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ"
-      },
-      "artists": [
-        {
-          "name": "Infinite Field",
-          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Four Leaves",
-      "url": "https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/4qm5Gh0BzhDGJ3dt4dTIvW"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 177000,
       "name": "Essence",
       "url": "https://open.spotify.com/track/6dklA8QKFaS9iYIshadCPR"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Four Leaves",
+        "url": "https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Four Leaves",
+      "url": "https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU"
+      },
+      "artists": [
+        {
+          "name": "Yves Alija",
+          "url": "https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
         "name": "Serenium",
         "url": "https://open.spotify.com/album/07BZGZpGqALYVVCpCgGpTu"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 170400,
       "name": "Dreaming of Tomorrow",
       "url": "https://open.spotify.com/track/3EFaN9v9tupcVsokB6OswI"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU"
-      },
-      "artists": [
-        {
-          "name": "Yves Alija",
-          "url": "https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -2507,6 +2507,38 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
+        "name": "Celestial Bliss",
+        "url": "https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1"
+      },
+      "artists": [
+        {
+          "name": "Felix Lancaster",
+          "url": "https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Celestial Bliss",
+      "url": "https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Unseen Paths",
+        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
+      },
+      "artists": [
+        {
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "Unseen Paths",
+      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
         "name": "Tranquilizar el Ser",
         "url": "https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O"
       },
@@ -2559,6 +2591,38 @@
       "duration_ms": 172941,
       "name": "Mellow Morning",
       "url": "https://open.spotify.com/track/56tH7sOo9YzEhjaNuUm11l"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Endless Motion",
+        "url": "https://open.spotify.com/album/2O1o8OGsnvX4h69neULuAL"
+      },
+      "artists": [
+        {
+          "name": "Slepth",
+          "url": "https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql"
+        }
+      ],
+      "duration_ms": 152058,
+      "name": "Endless Motion",
+      "url": "https://open.spotify.com/track/29UVNezH22t8Asto3WFdzl"
+    },
+    {
+      "added_at": "2024-10-14 14:39:48",
+      "album": {
+        "name": "Purifier",
+        "url": "https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts"
+      },
+      "artists": [
+        {
+          "name": "Sleepwear",
+          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
+        }
+      ],
+      "duration_ms": 225939,
+      "name": "Purifier",
+      "url": "https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1"
     },
     {
       "added_at": "2024-10-14 14:39:48",
@@ -2643,22 +2707,6 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Translucent",
-        "url": "https://open.spotify.com/album/5Lyd7zDR0alPBY6i91b2gI"
-      },
-      "artists": [
-        {
-          "name": "Toarp",
-          "url": "https://open.spotify.com/artist/1swZCeKExXzzr6jC754Ubh"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Translucent",
-      "url": "https://open.spotify.com/track/6qJ3JOEonAm4W3djP5P43E"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
         "name": "A Process",
         "url": "https://open.spotify.com/album/4craptusdZEmwFbH3jpReC"
       },
@@ -2675,66 +2723,18 @@
     {
       "added_at": "2024-10-14 14:39:48",
       "album": {
-        "name": "Purifier",
-        "url": "https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts"
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/5Lyd7zDR0alPBY6i91b2gI"
       },
       "artists": [
         {
-          "name": "Sleepwear",
-          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
+          "name": "Toarp",
+          "url": "https://open.spotify.com/artist/1swZCeKExXzzr6jC754Ubh"
         }
       ],
-      "duration_ms": 225939,
-      "name": "Purifier",
-      "url": "https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Endless Motion",
-        "url": "https://open.spotify.com/album/2O1o8OGsnvX4h69neULuAL"
-      },
-      "artists": [
-        {
-          "name": "Slepth",
-          "url": "https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql"
-        }
-      ],
-      "duration_ms": 152058,
-      "name": "Endless Motion",
-      "url": "https://open.spotify.com/track/29UVNezH22t8Asto3WFdzl"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Unseen Paths",
-        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
-      },
-      "artists": [
-        {
-          "name": "Amphose",
-          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
-        }
-      ],
-      "duration_ms": 164989,
-      "name": "Unseen Paths",
-      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
-    },
-    {
-      "added_at": "2024-10-14 14:39:48",
-      "album": {
-        "name": "Celestial Bliss",
-        "url": "https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1"
-      },
-      "artists": [
-        {
-          "name": "Felix Lancaster",
-          "url": "https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Celestial Bliss",
-      "url": "https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB"
+      "duration_ms": 173000,
+      "name": "Translucent",
+      "url": "https://open.spotify.com/track/6qJ3JOEonAm4W3djP5P43E"
     }
   ],
   "unique_name": "mimir",

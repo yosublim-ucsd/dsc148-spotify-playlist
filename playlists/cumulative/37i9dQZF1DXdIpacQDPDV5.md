@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: RÜFÜS DU SOL
 
-1,445 songs - 3 day 10 hr 23 min
+1,445 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-04 | 2023-03-04 |
 | [20MGs \- Uffie & Lokoy Romantic Remix](https://open.spotify.com/track/3d3GXediKE8HhXqfsKnzvq) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [20MGs \(Uffie & Lokoy Romantic Remix\)](https://open.spotify.com/album/39N59EeE4CttVwzMNIS6Zw) | 4:58 | 2023-06-30 | 2023-08-05 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-04-29 | 2022-08-27 |
-| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-09-30 |  |
+| [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 | 2024-09-30 |  |
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-06 |  |
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2024-10-11 |  |
 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/629FIvZBa2hJuEN3VB9zAl) | 2:33 | 2023-05-12 | 2023-07-15 |

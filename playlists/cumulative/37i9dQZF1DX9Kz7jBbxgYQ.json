@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Hadd Paar",
+        "url": "https://open.spotify.com/album/2IHX7ILNsacm8J6MKMiWcY"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Hadd Paar",
+      "url": "https://open.spotify.com/track/6DZfkiuodQxJqWnoQaZwOu"
+    },
+    {
+      "album": {
         "name": "Han Solo",
         "url": "https://open.spotify.com/album/6NUpzdz7cNml8DjZ1ALIva"
       },
@@ -2310,10 +2328,6 @@
         {
           "name": "SubhoBeatz",
           "url": "https://open.spotify.com/artist/4SGq5oF0H0cp6ec91JMn8T"
-        },
-        {
-          "name": "Akansha Tripathi",
-          "url": "https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni"
         }
       ],
       "date_added": "2024-01-05",
@@ -5851,6 +5865,24 @@
     },
     {
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe"
+    },
+    {
+      "album": {
         "name": "Tu hai kahan",
         "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
       },
@@ -6008,6 +6040,28 @@
       "duration_ms": 225120,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI"
+    },
+    {
+      "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134139,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
     },
     {
       "album": {

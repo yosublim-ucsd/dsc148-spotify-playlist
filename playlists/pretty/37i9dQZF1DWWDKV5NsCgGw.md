@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > La dolce playlist! Listen to all the music from The White Lotus, <br/>now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,642 likes - 94 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,647 likes - 94 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 32 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
 | 33 | [Andiamo](https://open.spotify.com/track/08tMAd1ZawFgKaOZRJ3SHq) | [Fiori](https://open.spotify.com/artist/0XQdaSA937Jcmmng78fWYB) | [Andiamo](https://open.spotify.com/album/2KvcYWnv07Wzcb5ta3fmFH) | 10:08 |
 | 34 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 |
-| 35 | [The Best Things In Life Are Free \- Live](https://open.spotify.com/track/6jF3FFsAvliEqH0mWrkOla) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Sam Cooke At The Copa \- Live From Copacabana, New York City/July 7 & 8, 1964](https://open.spotify.com/album/0LmHN5Es93TYwXBSDn36lu) | 1:31 |
+| 35 | [The Best Things In Life Are Free \- Live](https://open.spotify.com/track/6jF3FFsAvliEqH0mWrkOla) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Sam Cooke At The Copa \(Live From Copacabana, New York City/July 7 & 8, 1964\)](https://open.spotify.com/album/0LmHN5Es93TYwXBSDn36lu) | 1:31 |
 | 36 | [Buon Giorno](https://open.spotify.com/track/0Xx8Yw3sy8L4QzaYPgszyU) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:23 |
 | 37 | [Lacero Puttanesca 1](https://open.spotify.com/track/1lDTCplltl6AQo1HjxvXay) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR), [Kim Neundorf](https://open.spotify.com/artist/4a7mPbeyyu6OIO7xoJCiBH) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:31 |
 | 38 | [Let's Fun!](https://open.spotify.com/track/5dBzp91ZIRNttUSAcN28kS) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,073 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,125 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 52 | [Breaking Away](https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [ナイトライフ](https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK) | 3:48 |
 | 53 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 54 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 |
-| 55 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
+| 55 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
 | 56 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
 | 57 | [Dizzy Dream](https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Dizzy Dream](https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ) | 2:50 |
-| 58 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
+| 58 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
 | 59 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
 | 60 | [I Chose Wrong](https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [I Chose Wrong](https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE) | 2:52 |
 | 61 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 88 | [Disco's Revenge](https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Disco's Revenge](https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq) | 1:20 |
 | 89 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 |
 | 90 | [Disco Soul \- Mr\. Hoosteen's "Disco's Revenge" Mix](https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo) | [Discoholic](https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW), [Mr\. Hoosteen](https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH) | [Disco Soul](https://open.spotify.com/album/52D8ESbEYlQw75nStkEone) | 7:36 |
-| 91 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
-| 92 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
+| 91 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
+| 92 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
 | 93 | [TIMERIDER 1983](https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 3:08 |
-| 94 | [Your Secrets](https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Your Secrets](https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T) | 4:00 |
-| 95 | [Flashback](https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Flashback](https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd) | 3:50 |
+| 94 | [Flashback](https://open.spotify.com/track/62jdesXaWtAVtMK75zJn4h) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Flashback](https://open.spotify.com/album/4cJIQxksyH35ZHHZuWRkQd) | 3:50 |
+| 95 | [Your Secrets](https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Your Secrets](https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T) | 4:00 |
 | 96 | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38) | 2:28 |
-| 97 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
-| 98 | [Electroptysis](https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [At the End of the Day](https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv) | 3:41 |
+| 97 | [Electroptysis](https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [At the End of the Day](https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv) | 3:41 |
+| 98 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
 | 99 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 |
-| 100 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
+| 100 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
 
 Snapshot ID: `ZLX3KQAAAACZismnKwhQFQqLJL6ypQKA`

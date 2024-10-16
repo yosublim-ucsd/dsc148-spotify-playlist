@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 201264,
       "name": "afrodite",
       "url": "https://open.spotify.com/track/7ARsJNRK0SD0asnybQo2oi"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 149025,
       "name": "Aham - Ao Vivo",
       "url": "https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 311316,
       "name": "Amor de Fim de Noite / Por Favor / Nem A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/3xs03uDJOKoo9iaY6eZi3m"
@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/3UNoGm9ffxIxgFN8cUoW6b"
+      },
+      "artists": [
+        {
+          "name": "Menor Regresso",
+          "url": "https://open.spotify.com/artist/11RqTVvDmmZ8KSMEaHMZJp"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181649,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/5Haev5dXGbz0Snui8ukwD7"
+    },
+    {
+      "album": {
         "name": "Escolhas, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
       },
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8121,6 +8139,24 @@
     },
     {
       "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190276,
+      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
+    },
+    {
+      "album": {
         "name": "Ent\u00e3o Vai",
         "url": "https://open.spotify.com/album/2VPfQfeiqWlqnS3ZXkIZox"
       },
@@ -8322,7 +8358,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 137272,
       "name": "ESCADA DO PR\u00c9DIO",
       "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
@@ -8778,7 +8814,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 157823,
       "name": "Eu Fujo",
       "url": "https://open.spotify.com/track/07ceTL2BIlnI5jWxceZz9d"
@@ -9174,6 +9210,28 @@
       "duration_ms": 144000,
       "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
       "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
+    },
+    {
+      "album": {
+        "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154734,
+      "name": "Eu Vou Sentar - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2pilqAMqJMjbIQSnQVNdMv"
     },
     {
       "album": {
@@ -10278,7 +10336,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 132057,
       "name": "Foi Intenso - Ao Vivo",
       "url": "https://open.spotify.com/track/0agjQg7eWrwFtqBQRKu1CX"
@@ -11344,7 +11402,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 190272,
       "name": "Haver\u00e1 Sinais - Ao Vivo",
       "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
@@ -11828,7 +11886,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 155368,
       "name": "Imagina esse Cen\u00e1rio",
       "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
@@ -11876,7 +11934,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 137293,
       "name": "Im\u00e3 de Problema",
       "url": "https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6"
@@ -15632,7 +15690,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 187037,
       "name": "Morar Nesse Motel",
       "url": "https://open.spotify.com/track/6NJzycLHOAh940pcqcUVp6"
@@ -17686,7 +17744,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 149522,
       "name": "O Lugar Mais Triste do Mundo",
       "url": "https://open.spotify.com/track/5hlojehQcbgcCSbllhwdHC"
@@ -22854,7 +22912,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 160885,
       "name": "Sombra Desconhecida - Ao Vivo",
       "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"

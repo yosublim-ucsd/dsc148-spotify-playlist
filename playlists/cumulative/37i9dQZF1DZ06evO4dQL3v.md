@@ -2,9 +2,9 @@
 
 ### [This Is Banda Toro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v)
 
-> This is Banda Toro\. The essential tracks, all in one playlist.
+> This Is Banda Toro\. Los temas esenciales, todos en una lista.
 
-110 songs - 5 hr 16 min
+111 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Derecho A La Vida](https://open.spotify.com/track/3DH6NS5XWRZmSTDm2roTQl) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 3:04 | 2024-09-18 | 2024-10-13 |
 | [Dichos y Refranes](https://open.spotify.com/track/0uNeDDaIa1tvb7Ejec9N7d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:14 | 2022-06-01 |  |
 | [El Caminante](https://open.spotify.com/track/20cJBbPZFn5BmqBbwxuHXS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:43 | 2022-06-01 |  |
-| [El Cantador \- Estilo Tierra Caliente](https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:26 | 2022-10-05 |  |
+| [El Cantador \- Estilo Tierra Caliente](https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:26 | 2022-10-05 | 2024-10-16 |
 | [El Cisne](https://open.spotify.com/track/3FsjNQox2Yy7tZlQGlPA4d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 2:08 | 2024-09-20 |  |
 | [El Cotorro Enamorado \- Banda Sinaloense](https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [25 Aniversario Grandes Exitos](https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan) | 2:58 | 2022-06-01 |  |
 | [El Gavilan](https://open.spotify.com/track/3UYUgdnBCbK8jgTKExNy1E) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:18 | 2022-06-01 | 2022-12-25 |
@@ -86,6 +86,7 @@
 | [Mares de Tristeza](https://open.spotify.com/track/7N2maLTxo9d7XulVoZe0ok) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:37 | 2024-06-30 |  |
 | [Margarita](https://open.spotify.com/track/1PjHhGK3Y1uAZsxrc0P2cM) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:52 | 2022-06-01 |  |
 | [Me Caiste del Cielo](https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 2:44 | 2022-06-01 |  |
+| [Me Rio de Miedo](https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 3:15 | 2024-10-16 |  |
 | [Me Rio de Miedo](https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:15 | 2022-06-01 | 2022-10-14 |
 | [Mi Amiga Mi Esposa y Mi Amante](https://open.spotify.com/track/1D72stKLFdW30djzszFRgc) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:46 | 2022-06-27 | 2023-11-11 |
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 3:19 | 2022-06-01 |  |

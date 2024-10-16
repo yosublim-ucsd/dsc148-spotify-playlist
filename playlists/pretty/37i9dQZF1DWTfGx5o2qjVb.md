@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,700 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,724 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 1 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 2 | [Music People](https://open.spotify.com/track/3og6H9EY7uK39wRHdnmZ8h) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 9:41 |
 | 3 | [Pressure Baby](https://open.spotify.com/track/7oWys2D21QLQUHRioOtkd3) | [Lazare Hoche](https://open.spotify.com/artist/7zjYZoG7ZjcETmDZFj1gsi), [Malin Genie](https://open.spotify.com/artist/2JOHMPfKqG3Z1C9PVc6pte), [Mar](https://open.spotify.com/artist/1j6Mdu8CUOFyXatk9JlvP4) | [I Don't Sync so, Pt\. 1](https://open.spotify.com/album/7KYq7ZEzkBljiTBKOCp2NL) | 5:55 |
 | 4 | [Iz Diz Houz?](https://open.spotify.com/track/2uzOrg6W64GzuqNmknsIjh) | [Bjorn Wolf](https://open.spotify.com/artist/3OaXRIMVjsKbWTHRJLG22Z), [Youri Donatz](https://open.spotify.com/artist/57Q3QwaED4uWavrmzD8Iep), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Bouq.Family and Friends, Pt\. 6](https://open.spotify.com/album/0k9pFqKjkDuiRn2rOeNDrG) | 6:10 |

@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-274 songs - 17 hr 12 min
+275 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 | 2022-08-05 | 2022-09-03 |
 | [Quien lo diría](https://open.spotify.com/track/6baaaCha2pprxQv6GmZvXv) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H) | 4:35 | 2021-10-16 | 2022-07-29 |
 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 | 2021-10-16 | 2024-04-19 |
-| [Quisiera Ser](https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Quisiera Ser](https://open.spotify.com/album/39mgkwe3kkkyIU5rbtFPS9) | 3:57 | 2022-06-02 |  |
+| [Quisiera Ser](https://open.spotify.com/track/27nl6O3qjh71mWChlBXO85) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Rompecabezas](https://open.spotify.com/album/3KNvp3z1tf0eL7xZ5NzAQD) | 3:57 | 2024-10-15 |  |
+| [Quisiera Ser](https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Quisiera Ser](https://open.spotify.com/album/39mgkwe3kkkyIU5rbtFPS9) | 3:57 | 2022-06-02 | 2024-10-16 |
 | [Reza en Voz Alta](https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Reza en Voz Alta](https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4) | 4:00 | 2023-05-12 | 2023-05-26 |
 | [Rubi](https://open.spotify.com/track/4FcWoeYNJX7RkHdngeCM98) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Rubi](https://open.spotify.com/album/3RL6TymI7xKEgOLnCa13GP) | 3:51 | 2021-10-16 | 2022-07-25 |
 | [Rubidio 37](https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [CANTAMENCANTO](https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac) | 4:38 | 2024-06-13 | 2024-10-05 |

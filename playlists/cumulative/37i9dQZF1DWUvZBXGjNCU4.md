@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-352 songs - 15 hr 56 min
+354 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-05-13 | 2022-07-22 |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-28 | 2023-09-16 |
 | [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-09 | 2023-09-16 |
+| [Another Leaf](https://open.spotify.com/track/0CzM7froYjfbB56bFsBNY8) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Another Leaf](https://open.spotify.com/album/3fiTlU4wha48xQxwGdX4gD) | 2:18 | 2024-10-15 |  |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 |  |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-05-13 | 2023-08-25 |
 | [Apricus](https://open.spotify.com/track/1Qx9oBeA9rFB67iVBmykMN) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Apricus](https://open.spotify.com/album/5qZtRNKynn3NSGfe76wNWG) | 2:45 | 2024-04-19 |  |
@@ -253,6 +254,7 @@
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2023-09-29 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 | 2023-09-16 |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 | 2024-04-06 |
+| [Royan](https://open.spotify.com/track/5fIJtYm39OtXMAh4geauC9) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Royan](https://open.spotify.com/album/6E7enXaW0kX3sil3Uq6r6g) | 3:22 | 2024-10-15 |  |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-05-13 | 2024-04-20 |
 | [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 | 2023-06-23 |
 | [Saskatoon](https://open.spotify.com/track/4BIM2ib6mlidsvIN8wgy1O) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Summer Hours](https://open.spotify.com/album/162323wg0KbD1JCf1zstHl) | 2:48 | 2022-06-10 | 2022-07-15 |

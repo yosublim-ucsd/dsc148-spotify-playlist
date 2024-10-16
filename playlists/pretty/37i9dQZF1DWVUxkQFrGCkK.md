@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > AP x CC
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,833 likes - 340 songs - 23 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,906 likes - 340 songs - 23 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 20 | [Go Again](https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Go Again](https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS) | 3:41 |
 | 21 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 |
 | 22 | [Naarm's Sunset](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
-| 23 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 23 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 24 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 25 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 |
 | 26 | [Keep Me On The Dancefloor](https://open.spotify.com/track/3v8AhfiTziiMe3YgwrEmV9) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/2lehhdJMvhIzZX8tPwWERk) | 2:27 |

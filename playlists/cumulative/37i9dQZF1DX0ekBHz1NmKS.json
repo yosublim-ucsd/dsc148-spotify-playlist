@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 221418,
       "name": "Del av dig",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
@@ -16302,7 +16302,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 217474,
       "name": "Low",
       "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
@@ -20256,7 +20256,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 217294,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
@@ -21250,6 +21250,24 @@
       "duration_ms": 188093,
       "name": "Quit Your Job",
       "url": "https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry"
+    },
+    {
+      "album": {
+        "name": "Nothing's TMI",
+        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92624,
+      "name": "RADIO INTERRUPTIONS ABOUT MY FEELINGS",
+      "url": "https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2"
     },
     {
       "album": {

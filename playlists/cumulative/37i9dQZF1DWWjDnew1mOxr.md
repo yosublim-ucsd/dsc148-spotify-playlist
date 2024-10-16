@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Seb Lowe
 
-332 songs - 18 hr 48 min
+333 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2023-06-07 |  |
 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 | 2024-01-26 | 2024-10-07 |
 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-03 | 2024-10-07 |
-| [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 | 2024-08-21 |  |
+| [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 | 2024-10-06 |  |
+| [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 | 2024-08-21 | 2024-10-16 |
 | [Godless](https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Godless](https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs) | 3:19 | 2023-10-20 | 2024-03-10 |
 | [Going Nowhere](https://open.spotify.com/track/07PfgizN70SFfSP134eAU2) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [People Like Me & You](https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4) | 3:56 | 2023-08-04 | 2024-07-03 |
 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 | 2023-04-18 | 2023-12-16 |

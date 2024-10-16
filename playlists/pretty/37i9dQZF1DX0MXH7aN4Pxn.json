@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 701555,
+  "num_followers": 701554,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,30 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
+        "name": "My Love (2024)",
+        "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 184949,
+      "name": "My Love (2024)",
+      "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2024-10-11 18:18:05",
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
-    },
-    {
-      "added_at": "2024-10-11 18:18:05",
-      "album": {
-        "name": "My Love (2024)",
-        "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
-      },
-      "artists": [
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        },
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 184949,
-      "name": "My Love (2024)",
-      "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
     },
     {
       "added_at": "2024-10-11 18:18:05",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2024-10-11 18:18:05",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 188640,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
+    },
+    {
+      "added_at": "2024-10-11 18:18:05",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2024-10-11 18:18:05",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
-        "name": "Multiply",
-        "url": "https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
-    },
-    {
-      "added_at": "2024-10-11 18:18:05",
-      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
+    },
+    {
+      "added_at": "2024-10-11 18:18:05",
+      "album": {
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
     },
     {
       "added_at": "2024-10-11 18:18:05",
@@ -1755,6 +1755,30 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/3TBq23XNA25EImbAwyuvkJ"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/1ZZDx6bng0W8En0vnJ6a3R"
+        }
+      ],
+      "duration_ms": 118263,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/6kub9zuVix82p8n4Cws5yf"
+    },
+    {
+      "added_at": "2024-10-11 18:18:05",
+      "album": {
         "name": "lift off!",
         "url": "https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08"
       },
@@ -1795,26 +1819,18 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/3TBq23XNA25EImbAwyuvkJ"
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "Felix",
-          "url": "https://open.spotify.com/artist/1ZZDx6bng0W8En0vnJ6a3R"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 118263,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/6kub9zuVix82p8n4Cws5yf"
+      "duration_ms": 137386,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO"
     },
     {
       "added_at": "2024-10-11 18:18:05",
@@ -1863,38 +1879,6 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO"
-    },
-    {
-      "added_at": "2024-10-11 18:18:05",
-      "album": {
-        "name": "VACANCY",
-        "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        }
-      ],
-      "duration_ms": 191805,
-      "name": "VACANCY",
-      "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
-    },
-    {
-      "added_at": "2024-10-11 18:18:05",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 167716,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex"
+    },
+    {
+      "added_at": "2024-10-11 18:18:05",
+      "album": {
+        "name": "VACANCY",
+        "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        }
+      ],
+      "duration_ms": 191805,
+      "name": "VACANCY",
+      "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
     },
     {
       "added_at": "2024-10-11 18:18:05",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-10-11 18:18:05",
       "album": {
-        "name": "Balling",
-        "url": "https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 220948,
-      "name": "Balling",
-      "url": "https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq"
-    },
-    {
-      "added_at": "2024-10-11 18:18:05",
-      "album": {
         "name": "GETAWAY",
         "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 163871,
       "name": "GETAWAY",
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-10-11 18:18:05",
+      "album": {
+        "name": "Balling",
+        "url": "https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 220948,
+      "name": "Balling",
+      "url": "https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq"
     }
   ],
   "unique_name": "PARTY MODE",

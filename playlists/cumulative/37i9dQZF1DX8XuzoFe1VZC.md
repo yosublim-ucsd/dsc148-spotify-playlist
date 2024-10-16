@@ -4,7 +4,7 @@
 
 > ¡Una inyección de alegría para tus mañanas!
 
-344 songs - 17 hr 28 min
+345 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-07-02 |  |
 | [Otra Mujer](https://open.spotify.com/track/2MRj3T1qeAKspLcjFdGKHB) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Otra Mujer](https://open.spotify.com/album/67rdsQqry27ufPGMjAi6ol) | 3:21 | 2023-06-22 | 2023-08-16 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-03-31 | 2023-08-12 |
-| [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 | 2024-06-14 |  |
+| [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 | 2024-06-14 | 2024-10-16 |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2023-03-31 | 2024-10-13 |
 | [Pasatiempo](https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Pasatiempo](https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq) | 3:17 | 2023-10-06 | 2023-12-07 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2023-08-15 | 2023-12-07 |
@@ -253,6 +253,7 @@
 | [PROVENZA \- Sistek Remix](https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA \(Sistek Remix\)](https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl) | 3:48 | 2024-05-13 | 2024-06-11 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-22 | 2024-06-11 |
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2023-03-31 | 2024-04-27 |
+| [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-10 |  |
 | [Póstumo](https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Póstumo](https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ) | 3:34 | 2024-05-24 | 2024-07-13 |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-12-06 | 2024-06-11 |
 | [QUE BIEN](https://open.spotify.com/track/7d7jaZlPPLlorjfbdL4XEB) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [B Sanz](https://open.spotify.com/artist/1xj7SYyEFaa23BgBMTs9nk), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Mercurio](https://open.spotify.com/album/7JEZGnUVRgBNM46EBOzVC2) | 3:38 | 2023-05-15 | 2023-06-10 |

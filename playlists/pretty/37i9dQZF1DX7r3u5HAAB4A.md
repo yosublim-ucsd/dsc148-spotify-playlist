@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > The many fruits of Caribbean culture under one tree\. Cover:  <a href="spotify:artist:2HPaUgqeutzr3jx5a9WyDV">PARTYNEXTDOOR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,665 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,746 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

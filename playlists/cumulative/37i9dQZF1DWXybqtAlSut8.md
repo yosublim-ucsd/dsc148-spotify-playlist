@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-57 songs - 2 hr 25 min
+58 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Awake! The Voice is Calling Us](https://open.spotify.com/track/1jWzAMYmK7ARcZKLvgmsAT) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [Awake! The Voice is Calling Us](https://open.spotify.com/album/6fWkX8xZnKydG5JichMXdn) | 2:31 | 2024-09-03 |  |
 | [Awakening](https://open.spotify.com/track/1vaIoBWMdNDI2qccIqA9Li) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:54 | 2024-03-20 |  |
 | [Be Thou My Vision](https://open.spotify.com/track/3qkqUtvKhgMvlDhloV7O01) | [Harry Cross](https://open.spotify.com/artist/3SUUNx6JXgmJPojGiLO8bo) | [Be Thou My Vision](https://open.spotify.com/album/1lxy3dD7zvfCDhhq9dI3tf) | 2:31 | 2024-03-20 |  |
+| [Be Thou My Vision](https://open.spotify.com/track/7oUhbMscIgsIp2hMYkj3kC) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [Be Thou My Vision](https://open.spotify.com/album/0VbEh1bL0nDmEDQBYMB0qR) | 3:35 | 2024-10-15 |  |
 | [Beautiful Place](https://open.spotify.com/track/1tHNih8afCvuqWReZWcpvZ) | [Ricardo Henriquez](https://open.spotify.com/artist/2KphNahrTQR94NfgOp0wXn) | [Beautiful Place](https://open.spotify.com/album/1Y3DJYLI58h8DdZhlQTcyA) | 2:44 | 2024-03-20 |  |
 | [Blameless](https://open.spotify.com/track/5D63VF3jE5fNjH43Od7jdP) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 2:09 | 2024-03-20 |  |
 | [Close To Thee](https://open.spotify.com/track/44GOEcCmzjIgOItTbZUcO0) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Close To Thee](https://open.spotify.com/album/4rCn7sMH02gp4YyoufBchC) | 2:48 | 2024-03-20 |  |

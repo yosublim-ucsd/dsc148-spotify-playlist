@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-780 songs - 1 day 9 hr 58 min
+781 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2022-04-21 | 2022-07-21 |
 | [Candlelight](https://open.spotify.com/track/5iaXnCbptZhRWsfMlM68lN) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Candlelight](https://open.spotify.com/album/07zpR4ny0kTMNe7RJG8GY3) | 2:34 | 2023-10-23 |  |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2022-04-21 | 2022-09-24 |
-| [Cavandoli](https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Cavandoli](https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy) | 2:38 | 2022-04-21 |  |
+| [Cavandoli](https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Cavandoli](https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy) | 2:38 | 2022-04-21 | 2024-10-16 |
 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2022-04-21 | 2023-01-21 |
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2022-04-21 | 2022-08-10 |
 | [Celadon Hill](https://open.spotify.com/track/5uLoyV8cLAngL0i2ETQEM7) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Celadon Hill](https://open.spotify.com/album/2HagBRf04kanZj0pf2cLIt) | 2:27 | 2024-05-29 |  |
@@ -171,7 +171,7 @@
 | [Elysian](https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Oversoul](https://open.spotify.com/album/5GPrxmIXNWxWUirGs5GxSq) | 3:19 | 2022-04-21 | 2022-07-21 |
 | [Embers of Sorrow](https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB), [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [Embers of Sorrow](https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP) | 2:01 | 2023-03-20 |  |
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2022-04-21 | 2022-08-10 |
-| [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-21 |  |
+| [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-21 | 2024-10-16 |
 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 | 2022-04-21 | 2024-10-02 |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-21 | 2023-01-21 |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
@@ -191,7 +191,7 @@
 | [Faith](https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Faith](https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3) | 2:11 | 2023-12-12 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-21 | 2023-08-08 |
 | [Falling Free](https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Falling Free](https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h) | 2:47 | 2024-05-14 |  |
-| [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-04-12 |  |
+| [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-04-12 | 2024-10-16 |
 | [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-14 |  |
 | [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 | 2023-11-13 |  |
 | [Feathers](https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Feathers](https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB) | 2:05 | 2022-04-21 |  |
@@ -664,6 +664,7 @@
 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 | 2022-04-21 | 2022-09-24 |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
 | [The Early Morning Light](https://open.spotify.com/track/3iTAC43y6h0j5iCb5DwDmC) | [Ryan Emerald](https://open.spotify.com/artist/6i76BDK7kKabeyniabZ5ce) | [The Early Morning Light](https://open.spotify.com/album/60qTpmJ1syZsByuGsQzTGv) | 2:38 | 2023-11-13 |  |
+| [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 | 2024-10-15 |  |
 | [the fairy's dance](https://open.spotify.com/track/3usYoqBDd9MBa2bbKZNnvm) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [the fairy's dance](https://open.spotify.com/album/3jqtmlqUYRg095KlIIfXCS) | 2:24 | 2023-07-24 |  |
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2022-04-21 | 2024-04-04 |
 | [The Farewell](https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1Ak9Cy3afdJz2itTFxLDWy) | 2:48 | 2022-04-21 | 2023-02-15 |
@@ -749,7 +750,7 @@
 | [Waltz 21](https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Waltz 21](https://open.spotify.com/album/6GwiUbUZOZoz96kWpDligN) | 2:24 | 2022-04-21 |  |
 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 | 2022-04-21 | 2022-07-21 |
 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 | 2022-04-21 | 2022-07-21 |
-| [Watching North](https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Watching North](https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd) | 2:16 | 2023-09-25 |  |
+| [Watching North](https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Watching North](https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd) | 2:16 | 2023-09-25 | 2024-10-16 |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-21 |  |
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-04-21 | 2022-09-24 |
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-04-21 |  |

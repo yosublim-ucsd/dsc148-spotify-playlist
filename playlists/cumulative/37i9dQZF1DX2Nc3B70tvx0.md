@@ -4,7 +4,7 @@
 
 > The best of right now\. Cover: Bon Iver
 
-2,447 songs - 6 day 3 hr 8 min
+2,448 songs - 6 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2019-10-25 | 2020-02-14 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-17 | 2024-07-04 |
 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 | 2022-11-11 | 2022-11-29 |
+| [Defense](https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Defense](https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27) | 4:35 | 2024-10-15 |  |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-03-10 | 2021-05-22 |
 | [Delete Forever](https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL) | 3:57 | 2020-02-28 | 2020-08-07 |
 | [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-08-12 | 2022-09-19 |

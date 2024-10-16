@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: アイナ・ジ・エンド
+> 日本の女性アーティストの歌を特集。cover: TOMOO
 
-2,683 songs - 7 day 4 hr 5 min
+2,684 songs - 7 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Baby if,](https://open.spotify.com/track/0nKjVbpweery76JA8Ylbhk) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Baby if,](https://open.spotify.com/album/5TTbMrsQBH9vamjt9OAiTM) | 4:43 | 2022-06-02 | 2022-07-10 |
 | [Baby Pink](https://open.spotify.com/track/52fE73OvuYP8Uo1ZrKMnH8) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [春が呼んでる](https://open.spotify.com/album/7eC4IRNB2ajNSLoPTyY30T) | 4:59 | 2022-11-10 | 2022-11-16 |
 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 | 2023-01-17 |  |
-| [Baby, with u](https://open.spotify.com/track/5EeLVUwIXCVHRSewdL06of) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:39 | 2024-10-08 |  |
+| [Baby, with u](https://open.spotify.com/track/5EeLVUwIXCVHRSewdL06of) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:39 | 2024-10-08 | 2024-10-16 |
 | [Backwards](https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Backwards](https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V) | 3:43 | 2022-10-25 | 2022-12-07 |
 | [Bacon Epi](https://open.spotify.com/track/71Mp5di6jhp0Vp1xm0aXud) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 5:30 | 2023-09-27 | 2023-10-04 |
 | [Bad Bitch BIGAKU](https://open.spotify.com/track/1h3Cwx7CWLJaLDnPlVu1Mn) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [Bad Bitch BIGAKU](https://open.spotify.com/album/1fj96LQ9agWjeZp5t8uktl) | 4:20 | 2023-05-23 | 2023-06-07 |
@@ -381,6 +381,7 @@
 | [encore bremen](https://open.spotify.com/track/6lODZWp1RLhwtunFXvnKmZ) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Arcana](https://open.spotify.com/album/2ga5qAVT5uy4k2zn7zNA2c) | 3:44 | 2024-01-23 | 2024-02-07 |
 | [Encount](https://open.spotify.com/track/7M2q38oWzSc9ISkOgORbry) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [Encount](https://open.spotify.com/album/2J1XFeQyBGm29ZN6vBnDxu) | 3:35 | 2022-05-31 | 2022-07-17 |
 | [End of All](https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か / 800 / End of All / Ref:rain \-3 nuits ver.\-](https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy) | 3:39 | 2024-06-04 | 2024-07-09 |
+| [Endless](https://open.spotify.com/track/4qTY7rQSQ4M6JP3TfoMbG6) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Endless](https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s) | 4:01 | 2024-10-15 |  |
 | [Enkyori](https://open.spotify.com/track/5tqg1fVL01HaRF6jiGoDGB) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe), [HMH](https://open.spotify.com/artist/5vioaH3URBBzikygRSwWzx) | [Enkyori](https://open.spotify.com/album/77aCoiEvi4eYjRdttmgmyd) | 4:42 | 2022-07-07 | 2022-07-18 |
 | [Epilogue](https://open.spotify.com/track/47XJbzqXD49U06dL7zSC9j) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Epilogue](https://open.spotify.com/album/5rPdUF0mnHlGxhsdRbHHPg) | 4:01 | 2023-08-22 | 2023-08-30 |
 | [Erase Your Sign](https://open.spotify.com/track/1meKw6nJPigDxkjvbRWSkx) | [YESEYSESY](https://open.spotify.com/artist/0i1UNb5gWKOQ1UQhjD4MLu) | [consequences](https://open.spotify.com/album/3Www5E7lVxmxNXvdyCHdgo) | 4:22 | 2022-05-29 | 2022-06-01 |
@@ -546,7 +547,7 @@
 | [Higher](https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Higher](https://open.spotify.com/album/33puTLfeTdH7qtYckm305L) | 3:54 | 2022-06-07 | 2022-07-28 |
 | [Higher](https://open.spotify.com/track/6NS8j4wFRJPEr3pEABuaRS) | [荒井麻珠](https://open.spotify.com/artist/4OsAawcq5kxrIDe2BJ8lja) | [Higher](https://open.spotify.com/album/5H7WDTITwKOvxMdI4EMklr) | 3:45 | 2024-07-25 | 2024-07-31 |
 | [Higher Love](https://open.spotify.com/track/5AyIYrq6MV7uuLRGFqtXPK) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Higher Love](https://open.spotify.com/album/1CjyXicCmGeuLVs3DT4Kl2) | 5:34 | 2022-05-29 | 2022-07-27 |
-| [HIGHLIGHT](https://open.spotify.com/track/7urxQ6IWJGIWRHZbjfavpZ) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 2:38 | 2024-10-08 |  |
+| [HIGHLIGHT](https://open.spotify.com/track/7urxQ6IWJGIWRHZbjfavpZ) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 2:38 | 2024-10-08 | 2024-10-16 |
 | [Highway](https://open.spotify.com/track/6CxLWEMIvFEWG7XdSXlBIf) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Highway](https://open.spotify.com/album/0yslKFGYXbLlV9KV9NpkRZ) | 3:14 | 2024-02-27 | 2024-03-13 |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-10 | 2024-01-24 |
 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 | 2022-07-28 | 2023-02-22 |
@@ -1861,7 +1862,7 @@
 | [スウィートインスピレーション \- feat\. 仮谷せいら](https://open.spotify.com/track/7sLGRcKrp4km7tCeQUgaWJ) | [アンニュイ・ホリデイ](https://open.spotify.com/artist/4bvnpQWFoBrNWySwtF8b3b), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [スウィートインスピレーション \(feat\. 仮谷せいら\)](https://open.spotify.com/album/0fpUZbFCy7eyvKQcycy8Uf) | 4:59 | 2022-11-15 | 2022-11-23 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-31 | 2022-07-26 |
 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 | 2023-07-11 | 2023-08-30 |
-| [スキ](https://open.spotify.com/track/0ZhxVhQ3EMRIFxczoTfkn0) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [スキ](https://open.spotify.com/album/05g4o9ussnbfEksPXfL4am) | 2:52 | 2022-07-26 | 2024-10-09 |
+| [スキ](https://open.spotify.com/track/0ZhxVhQ3EMRIFxczoTfkn0) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [スキ](https://open.spotify.com/album/05g4o9ussnbfEksPXfL4am) | 2:52 | 2022-07-26 |  |
 | [スキズキ](https://open.spotify.com/track/6xfIPEgTFG4loc8FMtj7ni) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [スキズキ](https://open.spotify.com/album/1ApXKlS23NagTkV0mlTEh8) | 3:11 | 2024-04-09 | 2024-04-17 |
 | [スキップサイダー](https://open.spotify.com/track/6WIKr2Sbh0jXcz87IWq6MN) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [スキップサイダー](https://open.spotify.com/album/1stUKtFIj0O9AAgU6M5Bwe) | 2:51 | 2022-07-05 | 2022-07-08 |
 | [スクラップ&ビルド](https://open.spotify.com/track/2fGDZG4NlGUzYMz4mnPEcH) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [スクラップ&ビルド](https://open.spotify.com/album/2Jp1AwgVfh7MFdGJGkShry) | 3:45 | 2023-10-10 | 2023-10-18 |

@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-448 songs - 19 hr 50 min
+449 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-06-18 |  |
 | [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:23 | 2024-01-05 | 2024-03-08 |
 | [İSTANBUL](https://open.spotify.com/track/6GKAf3Sq0W8flUosmCirK7) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İSTANBUL](https://open.spotify.com/album/4NyR5G4ZqFgBn3Xst6NCV8) | 3:04 | 2024-01-25 | 2024-02-16 |
+| [İstanbul](https://open.spotify.com/track/2Hq67R7N7oGz4OEQFMwgcH) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [İstanbul](https://open.spotify.com/album/4HaC9oKHNgivGJMzsSRUFB) | 2:50 | 2024-10-15 |  |
 | [İSTEMEM](https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [İSTEMEM](https://open.spotify.com/album/3CUU4TFr7UowburX1Au22f) | 3:18 | 2023-01-10 | 2023-03-31 |
 | [İstesem De Söyleyemem](https://open.spotify.com/track/3QfP0wvvCK5e6GMffySlEX) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [İstesem De Söyleyemem](https://open.spotify.com/album/0ucrFTImSmbXuJbnbWZftP) | 3:34 | 2023-11-16 | 2023-12-14 |
 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-07-08 | 2024-03-01 |
@@ -412,7 +413,7 @@
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |
 | [tüm dünya vatanım](https://open.spotify.com/track/1OxUBpLWJ83ot4ArgCWfMn) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [tüm dünya vatanım](https://open.spotify.com/album/2ABSNEgsr3mkclxbXT6gHk) | 2:28 | 2023-08-17 | 2023-09-01 |
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2023-01-10 | 2023-05-05 |
-| [Uyan](https://open.spotify.com/track/7r9ER5egyBidPbaMJlShd0) | [Sokrat St](https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Uyan](https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3) | 3:20 | 2024-09-26 |  |
+| [Uyan](https://open.spotify.com/track/7r9ER5egyBidPbaMJlShd0) | [Sokrat St](https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Uyan](https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3) | 3:20 | 2024-09-26 | 2024-10-16 |
 | [Uykularından Ol](https://open.spotify.com/track/7aNDRqnslAhK2dWE0jMwTA) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Uykularından Ol](https://open.spotify.com/album/4o4qCzi4KJTqJmVUMuIfN3) | 3:05 | 2024-05-09 | 2024-05-24 |
 | [Uzayda Aşk](https://open.spotify.com/track/4GNt6Ymyb6ld5lZgN0HbKp) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Uzayda Aşk](https://open.spotify.com/album/1VacHV8d7K1BrdHmdleWMt) | 3:12 | 2023-12-12 | 2023-12-15 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-09 | 2023-04-28 |

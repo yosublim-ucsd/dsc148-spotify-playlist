@@ -1,12 +1,12 @@
 {
-  "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 46569,
+  "description": "This Is La Fiera de Ojinaga. Los temas esenciales, todos en una lista.",
+  "num_followers": 46593,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABLPe1/i7K0ql1p2hMTVrLw",
+  "snapshot_id": "ZwxfAAAAAADYv8lzgkakBGGtYzgGl9/b",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neta Que No",
-        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Neta Que No",
-      "url": "https://open.spotify.com/track/7o1UbAzMnbow4EUzWl1xuf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boca Les Callamos",
         "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/7o1UbAzMnbow4EUzWl1xuf"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empezar Desde Cero",
-        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164364,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Bonito Me Quieres",
         "url": "https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 174840,
       "name": "Qu\u00e9 Bonito Me Quieres",
       "url": "https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164364,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 249777,
+      "name": "Mi Forma de Sentir",
+      "url": "https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfQuieres Ser Mi Novia?",
         "url": "https://open.spotify.com/album/6h79FdKXv9I2qlTTbrq60I"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 159533,
       "name": "\u00bfQuieres Ser Mi Novia?",
       "url": "https://open.spotify.com/track/0BcObiU0t2NzG08rnj2aiI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 249777,
-      "name": "Mi Forma de Sentir",
-      "url": "https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5"
     },
     {
       "added_at": null,

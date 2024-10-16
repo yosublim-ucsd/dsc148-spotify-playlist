@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN?si=8wRD\_qXXT5WK9Gm5L5JXTA">Mpho Sebina</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,862 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,863 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

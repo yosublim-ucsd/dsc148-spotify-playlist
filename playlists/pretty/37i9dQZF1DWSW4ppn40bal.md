@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,119 likes - 356 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,145 likes - 356 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 103 | [Deep Pink Dreams](https://open.spotify.com/track/24EEpY31RWOa3gGqZ9hEfR) | [Power of Noise](https://open.spotify.com/artist/3Alz3IxsrOfvx4mpnJ8dLl) | [Pink Noise Bedtime Stories](https://open.spotify.com/album/12grmxZQzw0wrI4M76ioaM) | 3:02 |
 | 104 | [Pink for Focus](https://open.spotify.com/track/1AVNCMME20FhGWuoRFFel2) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 |
 | 105 | [Pink Breeze](https://open.spotify.com/track/6XvtGZYrzCMJ4ZwlASvBpQ) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Pink Breeze](https://open.spotify.com/album/3bKDQfD782G1LNedDjVkS0) | 3:03 |
-| 106 | [Ocean Depths](https://open.spotify.com/track/0yA8Vz6KJrpQIFAUbJW9tw) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Pink Tranquillity](https://open.spotify.com/album/4yys1hOHsgvyqodxmOwrlm) | 4:06 |
+| 106 | [Ocean Depths](https://open.spotify.com/track/0yA8Vz6KJrpQIFAUbJW9tw) | [Sleep Miracle](https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU) | [Pink Tranquillity](https://open.spotify.com/album/4yys1hOHsgvyqodxmOwrlm) | 4:06 |
 | 107 | [Fluffy Wide Pink](https://open.spotify.com/track/0UaDJ82Q6KKzYTpEFEBtcl) | [Pinkertonal](https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73) | [Fluffy Noise](https://open.spotify.com/album/1fk48vtyGj4jzJhXz0TXjB) | 2:52 |
 | 108 | [Pink Noise 217Hz](https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Flying High with Pink Noise](https://open.spotify.com/album/1iDfuBYiErzGsfmTntm2On) | 3:38 |
 | 109 | [Chilled Pink Sleep](https://open.spotify.com/track/6rMfhEbiukFNySvewwHiDo) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:09 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 122 | [Pink Noise Napping](https://open.spotify.com/track/6EIzRMKiQVsWfgpI3Imtnz) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Pink Noise Regulation](https://open.spotify.com/album/4pvAT7BWRLd1keyLSzd4wO) | 2:57 |
 | 123 | [Cloudy Pink Noise 215Hz](https://open.spotify.com/track/6YWZJ7c6lJWZiyEhjAscmE) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Focused Pink Noise Frequencies](https://open.spotify.com/album/43g6aK8rO0UGwbV2UfuLRE) | 3:47 |
 | 124 | [Spaceful Pink Noise](https://open.spotify.com/track/5TuBGvonjfvoDJFSzYp7GI) | [Dark Momentum](https://open.spotify.com/artist/6Nscg2zwVwV3RmM1C0iZnC) | [Pink Elements](https://open.spotify.com/album/3CqhZ5SUcT274Yc2cbAOZ2) | 3:09 |
-| 125 | [Soft Rose](https://open.spotify.com/track/5s16FUbRazQzf19q4msm5V) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Pink Tranquillity](https://open.spotify.com/album/4yys1hOHsgvyqodxmOwrlm) | 4:14 |
+| 125 | [Soft Rose](https://open.spotify.com/track/5s16FUbRazQzf19q4msm5V) | [Sleep Miracle](https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU) | [Pink Tranquillity](https://open.spotify.com/album/4yys1hOHsgvyqodxmOwrlm) | 4:14 |
 | 126 | [Ruido Del Mar \- Seamless](https://open.spotify.com/track/5BCbMLN2bw6sRvWZVI11OF) | [Amantigo](https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc) | [Ruido Rosa](https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c) | 2:54 |
 | 127 | [Deep Pink](https://open.spotify.com/track/0p9nU671Pjdiu7OoQczetz) | [Arcticos](https://open.spotify.com/artist/3cMJyeklWJOqZ46VjZYFJT) | [Blissful Pink Noise](https://open.spotify.com/album/2z96Vow6A7rOeP8uKkonDI) | 3:06 |
 | 128 | [Pink Noise for Focus](https://open.spotify.com/track/1Rfpf8VuNZoqchqLxjjG0k) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Pink Noise Soundscapes](https://open.spotify.com/album/1KYp5FvOXqjrEL9rzPTUNO) | 3:44 |

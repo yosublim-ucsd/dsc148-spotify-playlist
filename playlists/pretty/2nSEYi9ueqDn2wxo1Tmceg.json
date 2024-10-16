@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB-dGT7KaWKZCA\">Hayden Thorpe</a>",
-  "num_followers": 67437,
+  "num_followers": 67435,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQFDFkI6dasju54QvEzAGIAGT0pf7e",
+  "snapshot_id": "AAAQFQ6440JOSGZSuOb+wCHPHXQP/lZt",
   "tracks": [
+    {
+      "added_at": "2024-10-15 16:04:12",
+      "album": {
+        "name": "Defense",
+        "url": "https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Cindy Lee",
+          "url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA"
+        }
+      ],
+      "duration_ms": 275120,
+      "name": "Defense",
+      "url": "https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy"
+    },
     {
       "added_at": "2024-10-09 15:47:44",
       "album": {

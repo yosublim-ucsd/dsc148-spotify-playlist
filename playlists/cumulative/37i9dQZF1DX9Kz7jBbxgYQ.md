@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Annural Khalid, Maanu
 
-316 songs - 17 hr 54 min
+319 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gul](https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/7gxvq2TLEEThZzaOQEOI2r) | 3:37 | 2023-10-03 | 2024-04-19 |
 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2022-05-20 | 2022-07-16 |
 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 | 2022-12-28 | 2024-03-20 |
+| [Hadd Paar](https://open.spotify.com/track/6DZfkiuodQxJqWnoQaZwOu) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Hadd Paar](https://open.spotify.com/album/2IHX7ILNsacm8J6MKMiWcY) | 3:02 | 2024-10-15 |  |
 | [Han Solo](https://open.spotify.com/track/5fEWssyFXJtHrZNSVy3g8x) | [Nirob Islam](https://open.spotify.com/artist/6sXDsB4h2hPUWIFk3XF5v3) | [Han Solo](https://open.spotify.com/album/6NUpzdz7cNml8DjZ1ALIva) | 2:48 | 2022-05-20 | 2022-09-02 |
 | [Harkalay](https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Harkalay](https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH) | 3:47 | 2024-05-05 | 2024-06-15 |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2022-11-24 | 2024-07-27 |
@@ -121,7 +122,7 @@
 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-14 | 2023-11-30 |
 | [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 | 2023-01-20 | 2023-09-09 |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-09-30 | 2022-12-29 |
-| [Hua Asar Tera](https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [SubhoBeatz](https://open.spotify.com/artist/4SGq5oF0H0cp6ec91JMn8T), [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Hua Asar Tera](https://open.spotify.com/album/1eQl2ZWPmTHquboYllLZ6L) | 3:07 | 2024-01-05 |  |
+| [Hua Asar Tera](https://open.spotify.com/track/2pfxlloUY1qL5zPCgI6r5N) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [SubhoBeatz](https://open.spotify.com/artist/4SGq5oF0H0cp6ec91JMn8T) | [Hua Asar Tera](https://open.spotify.com/album/1eQl2ZWPmTHquboYllLZ6L) | 3:07 | 2024-01-05 |  |
 | [HUM](https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [HUM](https://open.spotify.com/album/1CgDmthgQr99ZlJEwDpCft) | 3:23 | 2022-07-15 | 2022-09-02 |
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2024-01-05 |  |
 | [I Could Save You](https://open.spotify.com/track/6itdaQh0oR32nRC5gcpP8q) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:47 | 2022-09-01 | 2022-11-03 |
@@ -293,6 +294,7 @@
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-05-20 | 2022-07-16 |
 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 | 2023-05-15 | 2023-08-19 |
 | [Toh Kya Ye Teh Hai](https://open.spotify.com/track/682n0ZYSJuHmxJ28Mxn7qK) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Toh Kya Ye Teh Hai](https://open.spotify.com/album/1vSk0RPSgkloOaJzNUsJ69) | 3:47 | 2023-02-28 | 2023-03-02 |
+| [Tu](https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Tu](https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd) | 2:53 | 2024-10-15 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 |  |
 | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/album/64TpPq3QgOQUaX3GSNMEYt) | 4:29 | 2024-01-19 |  |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-24 | 2023-09-09 |
@@ -301,6 +303,7 @@
 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2024-01-05 |  |
 | [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-06 | 2024-02-21 |
 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2022-12-28 | 2023-11-12 |
+| [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-10-15 |  |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2023-08-11 | 2023-09-09 |
 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 | 2022-05-20 | 2023-02-11 |
 | [Valley of the Hills](https://open.spotify.com/track/4WTXH3F4P3vHmRbpZeTYn3) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Trey Schafer](https://open.spotify.com/artist/091DrNc7RWkJYwVFI9aA8X) | [Valley of the Hills](https://open.spotify.com/album/1wY4EpeDljm1P4zJ2ls8s6) | 2:29 | 2022-05-20 | 2022-07-16 |

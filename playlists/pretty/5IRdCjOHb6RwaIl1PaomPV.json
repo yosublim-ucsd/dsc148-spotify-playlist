@@ -1,13 +1,33 @@
 {
   "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kito, DJ_Dave, Eera, evilgiane, and more. ",
-  "num_followers": 50773,
+  "num_followers": 50770,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAbNdEkKExjjrzn69uHVwYRP9+ayu3V",
+  "snapshot_id": "AAAbOANFLVFWW0vQ9+w0WCeMkstvBCEA",
   "tracks": [
+    {
+      "added_at": "2024-10-16 00:47:43",
+      "album": {
+        "name": "Nobody Move",
+        "url": "https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 121635,
+      "name": "Nobody Move",
+      "url": "https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc"
+    },
     {
       "added_at": "2024-08-28 16:48:39",
       "album": {
@@ -1823,22 +1843,6 @@
       "duration_ms": 192000,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/1iY9T6EcBS3SrfyDAirpoQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "re",
-        "url": "https://open.spotify.com/album/3rxprzmVdO5HkFphAqk2Uw"
-      },
-      "artists": [
-        {
-          "name": "damon r.",
-          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
-        }
-      ],
-      "duration_ms": 164085,
-      "name": "backseat",
-      "url": "https://open.spotify.com/track/1bzhYxg44jtG54r4kDmiBa"
     }
   ],
   "unique_name": "Mad Decent Weekly",

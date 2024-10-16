@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 ### [This Is Rodrigo Gonzalez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WFUvk)
 
-> This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
+> This Is Rodrigo Gonzalez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,529 likes - 29 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,530 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,23 +19,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 9 | [Estacion Del Metro Balderas](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
 | 10 | [Las Aventuras En El Defe](https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:26 |
 | 11 | [Ama De Casa Un Poco Triste](https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:30 |
-| 12 | [¿Que Hacer?](https://open.spotify.com/track/7MfBvuWaFMjjPPT8ytfyin) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:51 |
+| 12 | [Puedes](https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:50 |
 | 13 | [Balada Del Asalariado](https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:16 |
 | 14 | [Diva Francesa](https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 2:17 |
 | 15 | [Solares Baldios](https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:26 |
-| 16 | [Puedes](https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:50 |
+| 16 | [¿Que Hacer?](https://open.spotify.com/track/7MfBvuWaFMjjPPT8ytfyin) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:51 |
 | 17 | [Oh, Yo No Se](https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 2:12 |
 | 18 | [Dicen Que La Muerte](https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:28 |
 | 19 | [Algo De Suerte](https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 2:44 |
-| 20 | [¿Por Que?](https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:34 |
+| 20 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
 | 21 | [El Campeon](https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:48 |
 | 22 | [El Feo](https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En El Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 5:51 |
 | 23 | [Huapanguero](https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:10 |
-| 24 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
+| 24 | [¿Por Que?](https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:34 |
 | 25 | [La Partida](https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Wiracocha](https://open.spotify.com/artist/3Bed96BaBI1MxnoggMiACW), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Viaje \(Original Soundtrack\)](https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS) | 3:19 |
 | 26 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 27 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
 | 28 | [Close The Door \- Original Mix](https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Decibels Loudness And Perception](https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg) | 9:19 |
 | 29 | [Make Me Feel \- Original Mix](https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Deep Inside](https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T) | 7:36 |
 
-Snapshot ID: `ZwsNgAAAAACEbnHECp6bKyAQLXHpFbZx`
+Snapshot ID: `ZwxfAAAAAAC3L3DduN8dqbHOfyKxWE7t`

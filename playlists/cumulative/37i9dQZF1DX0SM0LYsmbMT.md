@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,256 songs - 6 day 18 hr 24 min
+4,257 songs - 6 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [Button Up](https://open.spotify.com/track/7LmaA7Xc7iJTCJcM6xw4ch) | [Jay Spaten](https://open.spotify.com/artist/7Af647ZUOVrhgWcwUlkFo2) | [Button Up](https://open.spotify.com/album/2tcUHmfGsJkW6nZgX205EO) | 2:56 | 2020-06-24 | 2020-10-23 |
 | [Buzz Me In](https://open.spotify.com/track/4Nb455CmfHoOFw3Q3TCUnZ) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Buzz Me In](https://open.spotify.com/album/6M0qUKkALzw1hgh14NytUL) | 2:04 | 2019-06-08 | 2019-10-01 |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2019-09-14 | 2020-03-13 |
-| [By Now](https://open.spotify.com/track/79UDoyTgfs7s3FTWQ0Iir3) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [By Now](https://open.spotify.com/album/3oG6NqtFds0WmPOooh9mN1) | 1:58 | 2024-03-07 |  |
+| [By Now](https://open.spotify.com/track/79UDoyTgfs7s3FTWQ0Iir3) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [By Now](https://open.spotify.com/album/3oG6NqtFds0WmPOooh9mN1) | 1:58 | 2024-03-07 | 2024-10-16 |
 | [By the Fire](https://open.spotify.com/track/7AdkD50Z7Yu3XDgnnwJX9P) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [By the Fire](https://open.spotify.com/album/5V7lpTsthhgxOJrTznL6MX) | 2:32 | 2020-05-01 | 2020-07-11 |
 | [by the fire](https://open.spotify.com/track/5e53H5CudQjHfXeLK9uWTv) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [Mountain Tops](https://open.spotify.com/album/4mvn4gsmY1pDcYgbpFv9WS) | 1:29 | 2019-05-26\* | 2019-06-15 |
 | [By the Liter](https://open.spotify.com/track/57i2oAbbDYCDGLJwG1VHq5) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0) | [By the Liter / Seen You](https://open.spotify.com/album/1ciCC9EWfA09kZMYV0dDFr) | 2:54 | 2020-12-04 | 2021-01-15 |
@@ -3479,6 +3479,7 @@
 | [Suburb](https://open.spotify.com/track/0tA5MZUhTSLGL2Bx0qpddF) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Suburb](https://open.spotify.com/album/7uVtoNQVCT4ACc8O3DnXo8) | 2:21 | 2020-12-04 | 2021-05-28 |
 | [Subway](https://open.spotify.com/track/6niFd7PIgKO7d2Em2nanfL) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Subway](https://open.spotify.com/album/1h7ZMaLDvIeqpq53Wrhrjr) | 2:26 | 2021-07-09 | 2021-11-19 |
 | [Subway Ride](https://open.spotify.com/track/0EwdKTVjYjXFs5bYhnSun4) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Subway Ride](https://open.spotify.com/album/6mEzIyyA6n7YQPokauqAp1) | 2:09 | 2019-11-08 | 2020-03-27 |
+| [Sueca](https://open.spotify.com/track/51YcG5rNWcsUsOwSQPVqk0) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Sueca](https://open.spotify.com/album/6BfuxejSYU5Ovn8ecWfTvX) | 2:24 | 2024-10-10 |  |
 | [Suede](https://open.spotify.com/track/3pOADiFPnHfK0LojVudQFT) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Suede](https://open.spotify.com/album/0dAl5ddIMkbFmWI7JtJCYB) | 3:43 | 2020-08-04 | 2020-10-09 |
 | [Suede](https://open.spotify.com/track/46avR1vvVf3yPMCasHtfAq) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Suede](https://open.spotify.com/album/3CQ8JqN7VXUpae0y3Je0Hq) | 1:54 | 2024-08-22 |  |
 | [Suede Mocassins](https://open.spotify.com/track/4919jSCNszr2rWACmArACG) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Suede Mocassins // Tomohawk](https://open.spotify.com/album/62hOzUqH4BdvMZMj4ioFDz) | 1:45 | 2020-05-15 | 2020-07-25 |

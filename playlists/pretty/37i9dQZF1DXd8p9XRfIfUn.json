@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: AKRIILA, TAICHU",
-  "num_followers": 76546,
+  "num_followers": 76560,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 185988,
+      "name": "Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Baby Schai (Remix)",
         "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 185988,
-      "name": "Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Algarete",
         "url": "https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE"
       },
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2024-10-11 06:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo :Lady Gaga, Bruno Mars",
+  "description": "Le meilleur des hits ! Photo : GIMS",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 184356,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
@@ -1139,6 +1139,32 @@
     },
     {
       "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157086,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
+    },
+    {
+      "album": {
         "name": "C\u2019est la Vie",
         "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
       },
@@ -1234,7 +1260,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 219047,
       "name": "Danza Kuduro - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
@@ -1568,6 +1594,24 @@
       "duration_ms": 193866,
       "name": "Facile \u00e0 danser",
       "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
+    },
+    {
+      "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
       "album": {
@@ -4142,7 +4186,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
@@ -4262,6 +4306,24 @@
       "duration_ms": 179866,
       "name": "Summer Body",
       "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "album": {

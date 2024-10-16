@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB?si=DX1AnrFkTBGcGqexVR3FhQ>KobbySalm</a>
 
-227 songs - 18 hr 25 min
+228 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Anointing](https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Anointing](https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3) | 2:33 | 2024-07-26 |  |
 | [Any More](https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More](https://open.spotify.com/album/5I8ZmHSWHadih90oz3B7Gp) | 3:08 | 2023-09-15 | 2023-11-07 |
 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 | 2023-11-24 | 2023-12-06 |
-| [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 |  |
+| [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 | 2024-10-16 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-09-15 | 2024-03-16 |
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-06-28 | 2024-08-13 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
@@ -212,6 +212,7 @@
 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 | 2024-04-05 | 2024-05-24 |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2023-09-15 | 2024-03-16 |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 | 2024-07-12 |
+| [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2024-10-01 |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 | 2023-09-15 | 2024-03-16 |

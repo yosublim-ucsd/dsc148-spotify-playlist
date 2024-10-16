@@ -1,12 +1,12 @@
 {
-  "description": "This is th\u1ee7y. Tutti i brani in un'unica playlist.",
-  "num_followers": 10597,
+  "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
+  "num_followers": 10603,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACooI1hVL4KcIRhUbWlS0xb",
+  "snapshot_id": "ZwxfAAAAAADqX+jgqphY61Uv+ZLrTfUI",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Yours",
-        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "Never Yours",
-      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 176640,
       "name": "Real",
       "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Yours",
+        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "Never Yours",
+      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
     },
     {
       "added_at": null,

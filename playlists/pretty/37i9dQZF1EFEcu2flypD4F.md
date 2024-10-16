@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,937 likes - 328 songs - 20 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,936 likes - 328 songs - 20 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,8 +252,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 242 | [Rock Bottom](https://open.spotify.com/track/7b2AQnXlxKAPY0PBnjoHNr) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 3:55 |
 | 243 | [Pop Rock](https://open.spotify.com/track/4hRfQY1nGmSkBg5FU00zcG) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:56 |
 | 244 | [Champion \(feat\. Tierra Whack, Kaliii & Jimmy Jolliff\)](https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Jimmy Jolliff](https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:40 |
-| 245 | [Toy Box](https://open.spotify.com/track/1ox13aJPqqpqb6Ej1HO3Db) | [Mylene Cruz \(Herizen Guardiola\) & The Soul Madonnas](https://open.spotify.com/artist/1qCN3pqJTenBwFzJvtaXMS), [The Soul Madonnas](https://open.spotify.com/artist/5tvgyJ5URflCCNGKEZ7iB4) | [The Get Down Part II: Original Soundtrack From The Netflix Original Series](https://open.spotify.com/album/0UqBp39R5ARECBnxnVk25l) | 3:45 |
-| 246 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
+| 245 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
+| 246 | [Toy Box](https://open.spotify.com/track/1ox13aJPqqpqb6Ej1HO3Db) | [Mylene Cruz \(Herizen Guardiola\) & The Soul Madonnas](https://open.spotify.com/artist/1qCN3pqJTenBwFzJvtaXMS), [The Soul Madonnas](https://open.spotify.com/artist/5tvgyJ5URflCCNGKEZ7iB4) | [The Get Down Part II: Original Soundtrack From The Netflix Original Series](https://open.spotify.com/album/0UqBp39R5ARECBnxnVk25l) | 3:45 |
 | 247 | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/track/50nNOHPUI1HCmbLpnHSTo9) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Don't Give Up \(Heaven Edit\)](https://open.spotify.com/album/3L9ufHivNkSdvYiVDnY1OT) | 3:26 |
 | 248 | [Cares At The Door](https://open.spotify.com/track/21MIfQxzau3lmiPtnwQzJX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:51 |
 | 249 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 327 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 328 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbeyigAAAAAjOe1agC9xi4N5XNbhLqq1`
+Snapshot ID: `Abe4KgAAAACxg2MSWelk7DUIV8SiskVL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L?si=sJYYM4ekTjGJJk1J0rLgRA>Dj Horphuray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,224 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,238 likes - 110 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

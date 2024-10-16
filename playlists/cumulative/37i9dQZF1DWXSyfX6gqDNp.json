@@ -113,6 +113,42 @@
     },
     {
       "album": {
+        "name": "A Letter to Yesterday",
+        "url": "https://open.spotify.com/album/7hcZnNWNS4GntGkGbOjPIV"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211615,
+      "name": "A Letter to Yesterday",
+      "url": "https://open.spotify.com/track/7LkdwMWR0xyImej3bSrlpH"
+    },
+    {
+      "album": {
+        "name": "A Minor Talent",
+        "url": "https://open.spotify.com/album/2xwG9Qg8jZJRRUfd8M7kiD"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157520,
+      "name": "A Minor Talent",
+      "url": "https://open.spotify.com/track/6nSIVgNWX3OjzHbnmfKg7s"
+    },
+    {
+      "album": {
         "name": "A Quiet Evening",
         "url": "https://open.spotify.com/album/0ZXkvs145XXIm2mup3rED3"
       },
@@ -686,6 +722,24 @@
       "duration_ms": 228628,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3"
+    },
+    {
+      "album": {
+        "name": "Blossom Serenade",
+        "url": "https://open.spotify.com/album/4FltVNUNqldemwRB2XnBP4"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196834,
+      "name": "Blossom Serenade",
+      "url": "https://open.spotify.com/track/3RNUosA5iDTNwMOKHS6XIu"
     },
     {
       "album": {
@@ -1697,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/108WVwTiVkP1EnWSBzA2cv"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212113,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/5362P1gqoccfp1i09vrw8m"
+    },
+    {
+      "album": {
         "name": "Gloomy Sunday",
         "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
       },
@@ -2428,7 +2500,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 199952,
       "name": "Irridescent Mountains",
       "url": "https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw"
@@ -2961,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Mill Basin",
+        "url": "https://open.spotify.com/album/1b7O46OjUslbVVhbEzoemt"
+      },
+      "artists": [
+        {
+          "name": "Berliner Luft Quartet",
+          "url": "https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227049,
+      "name": "Mill Basin",
+      "url": "https://open.spotify.com/track/1jWUa8NzbTgYdDi4dy7t7u"
+    },
+    {
+      "album": {
         "name": "Min B\u00e4sta V\u00e4n",
         "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
       },
@@ -3188,7 +3278,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
@@ -3296,7 +3386,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 174569,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/7s7b3petWiTzsJE9oeVXKW"
@@ -3753,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "September Wind",
+        "url": "https://open.spotify.com/album/45WFC6dvpwiqGN4pTXrfMl"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382519,
+      "name": "September Wind",
+      "url": "https://open.spotify.com/track/6AWJW2j6yLLsn0f4mfm78t"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB"
       },
@@ -3966,7 +4074,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 211275,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm"
@@ -4074,7 +4182,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 197776,
       "name": "Somewhat Melancholy",
       "url": "https://open.spotify.com/track/3uMnKzPcOo1Hz1MUhjSX8o"
@@ -4460,7 +4568,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 280938,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"

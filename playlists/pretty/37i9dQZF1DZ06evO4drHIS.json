@@ -1,12 +1,12 @@
 {
-  "description": "This Is Majo Aguilar. Los temas esenciales, todos en una lista.",
-  "num_followers": 12730,
+  "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
+  "num_followers": 12737,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAACw786n9D+FsPIjCC1gIuDa",
+  "snapshot_id": "ZwxfAAAAAACYzsK2PaGTgH+TmCrBk7Ah",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/5SmRbNjy5vS5na3WKr49TF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 192560,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/5SmRbNjy5vS5na3WKr49TF"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Culpable O No - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/0wDhUumgBeHJx2yWpbMZRw"
+      "duration_ms": 151293,
+      "name": "Si Nos Dejan - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/156kSaEIxWoI5vZcqvnTxS"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 151293,
-      "name": "Si Nos Dejan - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/156kSaEIxWoI5vZcqvnTxS"
+      "duration_ms": 144533,
+      "name": "Culpable O No - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/0wDhUumgBeHJx2yWpbMZRw"
     },
     {
       "added_at": null,

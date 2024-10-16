@@ -2,9 +2,9 @@
 
 ### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
+> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
 
-76 songs - 5 hr 3 min
+77 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 | 2023-01-14 |  |
 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 | 2023-01-14 |  |
 | [ツバメ \- feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部](https://open.spotify.com/track/7JbneHNJCvLcBDkcXbddMK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p), [長濱ねる](https://open.spotify.com/artist/7iDeYKknsBspvtbbC5kf4V), [東京都立片倉高等学校吹奏楽部](https://open.spotify.com/artist/7aF2lxzayrDdambGDmZ3Qk) | [ツバメ \(feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部\)](https://open.spotify.com/album/3Wjb7fLV5CEZWjG9odwkCB) | 4:24 | 2023-01-14 |  |
-| [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 | 2023-01-14 |  |
+| [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 | 2023-01-14 | 2024-10-16 |
 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 | 2023-12-13 |  |
 | [ルパン三世'78](https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq) | 2:51 | 2023-01-14 |  |
 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 |  |
@@ -67,6 +67,7 @@
 | [快哉を叫ぶとき](https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:27 | 2023-01-14 |  |
 | [愛の讃歌 with strings](https://open.spotify.com/track/04v0jBklO4I1n5DppyqNDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 3:48 | 2023-01-14 | 2024-02-23 |
 | [愛の賛歌 \-Hymne a l'amour](https://open.spotify.com/track/2qUQj7HvhQlztHfYWa2q1E) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [KinouKyouAshita](https://open.spotify.com/album/2U5DszBd3KeIEOBN9IgyUI) | 3:48 | 2023-01-19 | 2023-02-04 |
+| [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/4j5VhMCHkq3PbjGJB05x70) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/073aKbAfsQzYRwQ7FBhKCL) | 3:49 | 2024-10-16 |  |
 | [散りゆく花のせいで](https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [散りゆく花のせいで](https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u) | 4:29 | 2024-09-20 |  |
 | [明日以外すべて燃やせ \- feat.宮本浩次](https://open.spotify.com/track/5EfzlCnJqVApzkjgKf6Kf5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 4:21 | 2023-01-14 |  |
 | [星降る夜に](https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 4:13 | 2023-01-14 |  |

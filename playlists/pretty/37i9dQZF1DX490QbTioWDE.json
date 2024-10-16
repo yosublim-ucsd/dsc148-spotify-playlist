@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno & La K\u00b4onga.",
-  "num_followers": 719363,
+  "num_followers": 719418,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Hola",
         "url": "https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 158848,
       "name": "Hola",
       "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Muero (feat. Eugenia Quevedo)",
-        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
+        "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
+        "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
       },
       "artists": [
         {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 264563,
-      "name": "Muero (feat. Eugenia Quevedo)",
-      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
+      "duration_ms": 275888,
+      "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
+      "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1403,18 +1399,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
-        "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
       "artists": [
         {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 275888,
-      "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
-      "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Te extra\u00f1o",
-        "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 183502,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "De Nada",
         "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 197565,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Te extra\u00f1o",
+        "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 183502,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 152536,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "No me restes (En Vivo)",
-        "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 188000,
-      "name": "No me restes - En Vivo",
-      "url": "https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj"
+      "duration_ms": 152536,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 145088,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/23mG1foGJKjBmAgVMfVZ0Z"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "No me restes (En Vivo)",
+        "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No me restes - En Vivo",
+      "url": "https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1835,22 +1835,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "La Vagancia Cuartetera",
-        "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
+        "name": "Son De Amores",
+        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         },
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 211250,
-      "name": "La Vagancia Cuartetera",
-      "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
+      "duration_ms": 181600,
+      "name": "Son De Amores",
+      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     }
   ],
   "unique_name": "100% Cuarteto",

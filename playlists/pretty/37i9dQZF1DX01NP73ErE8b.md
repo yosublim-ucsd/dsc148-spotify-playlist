@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,434 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,479 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
 | 2 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 |
 | 3 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
-| 4 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 |
-| 5 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 |
-| 6 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 |
+| 4 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 |
+| 5 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 |
+| 6 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 |
 | 7 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 |
 | 8 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 |
 | 9 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 |
-| 10 | [PASSIONE](https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [PASSIONE](https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K) | 2:43 |
-| 11 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 |
-| 12 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 |
+| 10 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 |
+| 11 | [PASSIONE](https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [PASSIONE](https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K) | 2:43 |
+| 12 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 |
 | 13 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 |
 | 14 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 |
 | 15 | [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 49 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 |
 | 50 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 |
 
-Snapshot ID: `ZwhOnAAAAADv6tiTRYcD8AL7a4XnrJuW`
+Snapshot ID: `Zw6rKAAAAABs0KIelZ6NpRIIERr2FWfR`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 ### [This Is Jamiroquai](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YvhXa)
 
-> This Is Jamiroquai\. Los temas esenciales, todos en una lista.
+> This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,381 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,433 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 11 | [Everyday \- Remastered 2013](https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:28 |
 | 12 | [Love Foolosophy \- Radio Edit](https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:44 |
 | 13 | [Falling](https://open.spotify.com/track/7K8GcdnDHcGKa5pYmhg5k6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 3:45 |
-| 14 | [Deeper Underground](https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Deeper Underground](https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO) | 3:10 |
-| 15 | [White Knuckle Ride](https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 3:33 |
+| 14 | [White Knuckle Ride](https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star \(Deluxe Version\)](https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F) | 3:33 |
+| 15 | [Deeper Underground](https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Deeper Underground](https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO) | 3:10 |
 | 16 | [When You Gonna Learn?](https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 3:50 |
 | 17 | [Drifting Along \- Remastered 2013](https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:05 |
 | 18 | [Picture of My Life](https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [So Good to Feel Real](https://open.spotify.com/track/4UALNtb6gBbaDHWazUenW3) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 2:04 |
 | 50 | [Music of the Mind](https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 6:23 |
 
-Snapshot ID: `ZwsNgAAAAAB9OwADMskvvf06+2VWTdY8`
+Snapshot ID: `ZwxfAAAAAABA+y4Vl/fNHSuDOqIjeaJ/`

@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Trash Boat",
-  "num_followers": 371657,
+  "num_followers": 371755,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 230909,
+      "name": "Feel Me Now",
+      "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "7 Minutes in Hell",
         "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
       },
@@ -671,18 +687,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
+        "name": "MAD (feat. Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
       },
       "artists": [
         {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 230909,
-      "name": "Feel Me Now",
-      "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
+      "duration_ms": 198393,
+      "name": "MAD (feat. Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -719,26 +739,6 @@
       "duration_ms": 185553,
       "name": "Unpopular",
       "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "MAD (feat. Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
-      },
-      "artists": [
-        {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 198393,
-      "name": "MAD (feat. Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Just Too Much",
+        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
+      },
+      "artists": [
+        {
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+        }
+      ],
+      "duration_ms": 226846,
+      "name": "Just Too Much",
+      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Demon or Ghost (feat. Underoath)",
         "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Just Too Much",
-        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
-      },
-      "artists": [
-        {
-          "name": "Tremonti",
-          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
-        }
-      ],
-      "duration_ms": 226846,
-      "name": "Just Too Much",
-      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "PAY ATTENTION",
         "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 200344,
       "name": "PAY ATTENTION",
       "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Hell Is Empty",
+        "url": "https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 177676,
+      "name": "Hell Is Empty",
+      "url": "https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Skin & Bones",
-        "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Skin & Bones",
-      "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
         "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 185294,
       "name": "HELLBOUND",
       "url": "https://open.spotify.com/track/7DVRzkx3RMQBKOuuDRCYxl"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Skin & Bones",
+        "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Skin & Bones",
+      "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Hell Is Empty",
-        "url": "https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11"
+        "name": "Night Terror",
+        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
       },
       "artists": [
         {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 177676,
-      "name": "Hell Is Empty",
-      "url": "https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll"
+      "duration_ms": 361130,
+      "name": "Night Terror - Radio Edit",
+      "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Night Terror",
-        "url": "https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 361130,
-      "name": "Night Terror - Radio Edit",
-      "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ghost Code",
         "url": "https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 242666,
       "name": "Remains of Us",
       "url": "https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "MUD",
-        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 190858,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Bring Me Down",
         "url": "https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Get Your Shit Together",
-        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 280980,
-      "name": "Get Your Shit Together",
-      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "analysis paralysis",
         "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 218346,
       "name": "maybe it's me",
       "url": "https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Get Your Shit Together",
+        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 280980,
+      "name": "Get Your Shit Together",
+      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Return to Dust",
+        "url": "https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB"
+      },
+      "artists": [
+        {
+          "name": "Return to Dust",
+          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
+        }
+      ],
+      "duration_ms": 201928,
+      "name": "Belly Up",
+      "url": "https://open.spotify.com/track/1IZR2yJzCjHkaxbv5rCdP8"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "70% Dead",
         "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Return to Dust",
-        "url": "https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB"
-      },
-      "artists": [
-        {
-          "name": "Return to Dust",
-          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
-        }
-      ],
-      "duration_ms": 201928,
-      "name": "Belly Up",
-      "url": "https://open.spotify.com/track/1IZR2yJzCjHkaxbv5rCdP8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Full Of Emptiness",
-        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 174952,
-      "name": "Full Of Emptiness",
-      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Pulling Teeth",
         "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 200500,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Full Of Emptiness",
+        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 174952,
+      "name": "Full Of Emptiness",
+      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Justice Will Shine On",
-        "url": "https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O"
+        "name": "PRUDE",
+        "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
       },
       "artists": [
         {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
         }
       ],
-      "duration_ms": 229778,
-      "name": "Justice Will Shine On",
-      "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
+      "duration_ms": 145266,
+      "name": "Mad Care",
+      "url": "https://open.spotify.com/track/6JN8exConeYRUdfGkqmYfO"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "PRUDE",
-        "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
+        "name": "Justice Will Shine On",
+        "url": "https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O"
       },
       "artists": [
         {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
         }
       ],
-      "duration_ms": 145266,
-      "name": "Mad Care",
-      "url": "https://open.spotify.com/track/6JN8exConeYRUdfGkqmYfO"
+      "duration_ms": 229778,
+      "name": "Justice Will Shine On",
+      "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Blood & Scars",
-        "url": "https://open.spotify.com/album/4LCAYq2XqPoDMClhdz7rF7"
-      },
-      "artists": [
-        {
-          "name": "Self Deception",
-          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Blood & Scars",
-      "url": "https://open.spotify.com/track/3Cp4oTzZ6raUMwqTiQHUic"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Better Days (feat. Dorothy)",
         "url": "https://open.spotify.com/album/5kg2p6l4S8ggKJFzioquG6"
       },
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Blood & Scars",
+        "url": "https://open.spotify.com/album/4LCAYq2XqPoDMClhdz7rF7"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Blood & Scars",
+      "url": "https://open.spotify.com/track/3Cp4oTzZ6raUMwqTiQHUic"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "(Re)-Extract",
         "url": "https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI"
       },
@@ -1943,22 +1943,6 @@
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "DESERT RAP",
-        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "DESERT RAP",
-      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1995,6 +1979,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
       },
@@ -2015,18 +2015,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "One Foot In The Grave",
-        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+        "name": "DESERT RAP",
+        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
       },
       "artists": [
         {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 222153,
-      "name": "One Foot In The Grave",
-      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
+      "duration_ms": 192676,
+      "name": "DESERT RAP",
+      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Until God Shows",
+        "url": "https://open.spotify.com/album/4rulQIJ8pBtWY5cyx549gS"
+      },
+      "artists": [
+        {
+          "name": "Destroy Rebuild Until God Shows",
+          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
+        }
+      ],
+      "duration_ms": 218505,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/0CCGsR0C4nuAhmrdKqATEQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2063,38 +2079,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Until God Shows",
-        "url": "https://open.spotify.com/album/4rulQIJ8pBtWY5cyx549gS"
-      },
-      "artists": [
-        {
-          "name": "Destroy Rebuild Until God Shows",
-          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/0CCGsR0C4nuAhmrdKqATEQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Dr. Frankenstein",
         "url": "https://open.spotify.com/album/0wMNRUO4RFJqYpYRPIcM98"
       },
@@ -2115,6 +2099,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Those Were The Days",
         "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
@@ -2127,6 +2127,22 @@
       "duration_ms": 143995,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1SD21gI5iVfMRjyavgdXho"
+      },
+      "artists": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/3EHJOZe6u7piShrCp3y7KD"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2151,22 +2167,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1SD21gI5iVfMRjyavgdXho"
-      },
-      "artists": [
-        {
-          "name": "Jerry Cantrell",
-          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/3EHJOZe6u7piShrCp3y7KD"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
       },
@@ -2179,26 +2179,6 @@
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Guilty (feat. DL of Bad Wolves)",
-        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Guilty (feat. DL of Bad Wolves)",
-      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2223,18 +2203,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Judas Mind",
-        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 244728,
-      "name": "Judas Mind - edit",
-      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2255,22 +2239,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 204869,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "GUNGHO",
         "url": "https://open.spotify.com/album/7hMKX3HhA1ORsRL0tiGziZ"
       },
@@ -2287,18 +2255,66 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Tell Us How It Ends",
-        "url": "https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz"
+        "name": "ENMY",
+        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
       },
       "artists": [
         {
-          "name": "Silent Theory",
-          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
         }
       ],
-      "duration_ms": 151426,
-      "name": "Tell Us How It Ends",
-      "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
+      "duration_ms": 190758,
+      "name": "Our Demise",
+      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 204869,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Judas Mind",
+        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 244728,
+      "name": "Judas Mind - edit",
+      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Inner Darkness",
+        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 320424,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2315,6 +2331,22 @@
       "duration_ms": 198533,
       "name": "A White Horse Covered In Blood",
       "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Tell Us How It Ends",
+        "url": "https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        }
+      ],
+      "duration_ms": 151426,
+      "name": "Tell Us How It Ends",
+      "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2387,38 +2419,6 @@
       "duration_ms": 233797,
       "name": "Let's Go Psycho!",
       "url": "https://open.spotify.com/track/77Kj1Y4KzxeqbtSPc9M92k"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "ENMY",
-        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
-      },
-      "artists": [
-        {
-          "name": "ENMY",
-          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
-        }
-      ],
-      "duration_ms": 190758,
-      "name": "Our Demise",
-      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Inner Darkness",
-        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 320424,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Filthy Animals",
+        "url": "https://open.spotify.com/album/6GJtdvQRdh5QyWZYA1qm72"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 235770,
+      "name": "Filthy Animals",
+      "url": "https://open.spotify.com/track/2HQXLsU8j3chLoxIDxq3Vu"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Vega",
         "url": "https://open.spotify.com/album/71DOdZRZ1OgUJMKCzFmHzc"
       },
@@ -2563,18 +2579,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Filthy Animals",
-        "url": "https://open.spotify.com/album/6GJtdvQRdh5QyWZYA1qm72"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/321icc5EJf12bLc9xtT8LI"
       },
       "artists": [
         {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
         }
       ],
-      "duration_ms": 235770,
-      "name": "Filthy Animals",
-      "url": "https://open.spotify.com/track/2HQXLsU8j3chLoxIDxq3Vu"
+      "duration_ms": 202500,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7cGCoVKVIMsq4D6ObzUpBp"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2595,34 +2611,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/6nCie5uo9QoCVTPp4wFP57"
+        "name": "Pieces Back Together",
+        "url": "https://open.spotify.com/album/43AuA5GbPZCASSzFme8Lab"
       },
       "artists": [
         {
-          "name": "Nate Vickers",
-          "url": "https://open.spotify.com/artist/7nafgjvAAKl1GZflgBbBbm"
+          "name": "Tilian",
+          "url": "https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04"
         }
       ],
-      "duration_ms": 186898,
-      "name": "Over & Over",
-      "url": "https://open.spotify.com/track/6uE1pM25e1dwBsUktz0QQR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Blood On The Walls",
-        "url": "https://open.spotify.com/album/73FTXREXJQck3tAuevTyEr"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 196082,
-      "name": "Blood On The Walls",
-      "url": "https://open.spotify.com/track/5uxsyPKNnLomNE1imPOj3s"
+      "duration_ms": 230270,
+      "name": "Pieces Back Together",
+      "url": "https://open.spotify.com/track/3VWGMEuzWZYLwA2MnpDI1d"
     }
   ],
   "unique_name": "Hard Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,731 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,768 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 79 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
 | 80 | [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 |
 | 81 | [Don't Need You](https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Don't Need You](https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX) | 3:09 |
-| 82 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
-| 83 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
+| 82 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
+| 83 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 84 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 85 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 86 | [Nuthin' On](https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Nuthin' On EP](https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5) | 3:30 |
 | 87 | [Un Beso](https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Un Beso](https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ) | 3:45 |
 | 88 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
-| 89 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 |
-| 90 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
+| 89 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
+| 90 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 |
 | 91 | [Don't Stahp \- Edit](https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Don't Stahp \(Edit\)](https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D) | 3:48 |
 | 92 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
 | 93 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |

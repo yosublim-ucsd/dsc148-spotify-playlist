@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jore & Zpoppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,425 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,436 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
 | 2 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 |
-| 3 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
-| 4 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
-| 5 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
+| 3 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
+| 4 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
+| 5 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
 | 6 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
 | 7 | [JOHANNES KASTAJA](https://open.spotify.com/track/75iWVzpdkvnR5ADK3EL4gi) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 2:08 |
 | 8 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [EIFFEL TYPE SHIT](https://open.spotify.com/track/6WkrR2jgnfiARbUyOb7rF8) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [EIFFEL TYPE SHIT](https://open.spotify.com/album/4OVMplPBhInUQbXuD8EeJ9) | 2:16 |
 | 50 | [MILJONÄÄRI](https://open.spotify.com/track/0K6Lmd36re3KZb1FdkIehh) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [MILJONÄÄRI](https://open.spotify.com/album/6nyYCDTAQRDTAOUKlFy8rT) | 3:02 |
 
-Snapshot ID: `ZwzEXAAAAABFgyAlQMWFOsbv6qR4h3F/`
+Snapshot ID: `Zw4QBQAAAADw1BblTSKgV7tMX4IwcNBC`

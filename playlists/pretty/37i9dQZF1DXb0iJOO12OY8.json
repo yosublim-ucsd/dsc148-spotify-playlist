@@ -1,6 +1,6 @@
 {
   "description": "have you noticed? \ud83d\udeac\ud83e\udde1",
-  "num_followers": 215185,
+  "num_followers": 215177,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Individ",
-        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
+        "name": "Sees Igjen",
+        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
       },
       "artists": [
         {
           "name": "Golfklubb",
           "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
         }
       ],
-      "duration_ms": 188067,
-      "name": "Sucker For Pain",
-      "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
+      "duration_ms": 163142,
+      "name": "Sees Igjen",
+      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -571,26 +579,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Sees Igjen",
-        "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
+        "name": "Individ",
+        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
       },
       "artists": [
         {
           "name": "Golfklubb",
           "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        },
-        {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
         }
       ],
-      "duration_ms": 163142,
-      "name": "Sees Igjen",
-      "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
+      "duration_ms": 188067,
+      "name": "Sucker For Pain",
+      "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
     },
     {
       "added_at": "2024-10-10 22:00:00",

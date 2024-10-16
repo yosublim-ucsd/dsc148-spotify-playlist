@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,538 likes - 316 songs - 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,539 likes - 316 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 125 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
 | 126 | [Warm](https://open.spotify.com/track/5CfnI6FoZAE6PSB8goCEU0) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Warm](https://open.spotify.com/album/50T0VJB6biUODCulrsPOGn) | 3:26 |
 | 127 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 |
-| 128 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
-| 129 | [Better Not Together](https://open.spotify.com/track/1jAma2op1mdGxvqxkBK5So) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:08 |
+| 128 | [Better Not Together](https://open.spotify.com/track/1jAma2op1mdGxvqxkBK5So) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:08 |
+| 129 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
 | 130 | [Deserve](https://open.spotify.com/track/33fMPjjVBkz6X1xgHTIcwi) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:23 |
 | 131 | [Wrote A Song About You](https://open.spotify.com/track/0h767Ay7aouRAeMUZbeXXQ) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Wrote A Song About You](https://open.spotify.com/album/7HrEGVVAFRBTG3ocUAM6AA) | 3:31 |
 | 132 | [In Us I Believe \(feat\. ALMA\)](https://open.spotify.com/track/2sXGKXPb0lZq7CXGoSg3U5) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:27 |
@@ -298,8 +298,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 288 | [people watching](https://open.spotify.com/track/479s7y4FqhvMeUNTFiqwlo) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:31 |
 | 289 | [Night Vision](https://open.spotify.com/track/6vNBZ5YbsjlU47pRZr3t5W) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [DRUGBLVD](https://open.spotify.com/album/0Gr0tGMSldWueHkNMQRlax) | 3:50 |
 | 290 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
-| 291 | [Bridges](https://open.spotify.com/track/6pXgxqdDjuo6RtDcLqxtKl) | [Aminata](https://open.spotify.com/artist/1GrxsGX8vHCsX1SDu5j8D3) | [Red Moon](https://open.spotify.com/album/05CtIbweSG8DSCR2Rucvbc) | 3:40 |
-| 292 | [never been in love](https://open.spotify.com/track/3IHqxrMchNa4oRmUM9uDO3) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:16 |
+| 291 | [never been in love](https://open.spotify.com/track/3IHqxrMchNa4oRmUM9uDO3) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:16 |
+| 292 | [Bridges](https://open.spotify.com/track/6pXgxqdDjuo6RtDcLqxtKl) | [Aminata](https://open.spotify.com/artist/1GrxsGX8vHCsX1SDu5j8D3) | [Red Moon](https://open.spotify.com/album/05CtIbweSG8DSCR2Rucvbc) | 3:40 |
 | 293 | [Muscle](https://open.spotify.com/track/5tG0MS4Q2AgehP1Rara7ui) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 4:00 |
 | 294 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
 | 295 | [My Work Is Done](https://open.spotify.com/track/6Dzdi9VEvNKHyjRCLtXf1W) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:26 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 315 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 316 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbeyqAAAAAAIvfNtmpOFxfeYnw4BtFKp`
+Snapshot ID: `Abe4PgAAAAC5YLiHTk10domxkS6sPEza`

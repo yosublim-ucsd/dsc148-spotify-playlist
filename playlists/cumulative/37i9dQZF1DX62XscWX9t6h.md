@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-214 songs - 15 hr 11 min
+216 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 | 2021-10-20 |  |
 | [Ew'aa](https://open.spotify.com/track/24ACpMa5jRoCWqLRn0iyE0) | [Tashkezar](https://open.spotify.com/artist/4cDDtvDYT5DwsQkmKpyvIC) | [Ew'aa](https://open.spotify.com/album/6mJ0Oja5FuhCIDwEovGNNQ) | 4:58 | 2024-06-14 | 2024-10-05 |
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2021-10-20 |  |
-| [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 | 2024-06-21 |  |
+| [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 | 2024-06-21 | 2024-10-16 |
 | [Feira De Mangaio](https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Feira De Mangaio](https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH) | 2:36 | 2024-02-10 |  |
 | [Fire By The River](https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 3:34 | 2021-10-20 |  |
 | [Flor do Real](https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Grandeza](https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn) | 3:34 | 2021-10-20 | 2024-01-14 |
@@ -144,6 +144,7 @@
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-10-20 |  |
 | [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 | 2021-10-20 | 2024-06-19 |
 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 | 2021-10-20 |  |
+| [Particle](https://open.spotify.com/track/5hHiaNGhCIBVXbtKh5qJKy) | [Gamelan X](https://open.spotify.com/artist/51m4Z9wxLvsGoplFSxAMjI) | [Satu](https://open.spotify.com/album/3rHVI7CZbaiTPyHB4Cb3jX) | 6:29 | 2024-10-16 |  |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2021-10-20 | 2024-04-19 |
 | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 5:01 | 2021-10-20 | 2024-04-19 |
 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 |  |
@@ -203,10 +204,11 @@
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2021-10-20 | 2023-11-21 |
 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 | 2021-10-20 | 2024-07-18 |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-11 | 2024-06-06 |
-| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 |  |
+| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 | 2024-10-16 |
 | [Whaya](https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Whaya](https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t) | 3:46 | 2022-11-17 | 2024-05-03 |
 | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Muyun Brothers](https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF) | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR) | 3:06 | 2024-02-10 |  |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 |  |
+| [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 | 2024-10-16 |  |
 | [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 | 2024-01-05 |  |
 | [Yabaal](https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 1, Volume 2 & Previously Unreleased Tracks \(Analog Africa No\. 27\)](https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE) | 5:57 | 2024-01-05 | 2024-04-19 |
 | [Yak Sher](https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Kabul Fire Vol\. 2](https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1) | 3:25 | 2021-10-20 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 133182,
+  "num_followers": 133227,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABVs06o254Zoxpb5v1fYWKk",
+  "snapshot_id": "ZwxfAAAAAAAoUHx4FaWI5x7onBdUQ588",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "L'enfant sauvage",
-      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 237840,
       "name": "The Heaviest Matter of the Universe",
       "url": "https://open.spotify.com/track/2pZsQqXFgcY03vRyZxSQhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "L'enfant sauvage",
+      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Born in Winter",
-      "url": "https://open.spotify.com/track/1rDzUqMRA9VdGCIwzgfeh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 464453,
       "name": "Flying Whales",
       "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Born in Winter",
+      "url": "https://open.spotify.com/track/1rDzUqMRA9VdGCIwzgfeh9"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 144786,
-      "name": "From Mars",
-      "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
+      "duration_ms": 274480,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 274480,
-      "name": "The Axe",
-      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
+      "duration_ms": 144786,
+      "name": "From Mars",
+      "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
       "duration_ms": 396634,
       "name": "New Found",
       "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 348013,
-      "name": "From The Sky",
-      "url": "https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "From The Sky",
+      "url": "https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terra Incognita",
         "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 297402,
       "name": "Clone",
       "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 332760,
-      "name": "Ocean Planet",
-      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 108293,
       "name": "The Wild Healer",
       "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 332760,
+      "name": "Ocean Planet",
+      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
     },
     {
       "added_at": null,

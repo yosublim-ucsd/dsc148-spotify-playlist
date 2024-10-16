@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Belau
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,758 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,760 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 41 | [hovászöktél?](https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [hovászöktél?](https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL) | 2:12 |
 | 42 | [Ugyanitt várlak](https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO) | [Margaret Island](https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB) | [Ugyanitt várlak](https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj) | 3:17 |
 | 43 | [Sehovavaló](https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm), [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Sehovavaló](https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4) | 2:54 |
-| 44 | [Héjanász](https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Héjanász](https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr) | 3:08 |
-| 45 | [Soha](https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Soha](https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv) | 3:32 |
+| 44 | [Soha](https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Soha](https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv) | 3:32 |
+| 45 | [Héjanász](https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Héjanász](https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr) | 3:08 |
 | 46 | [Quatre Grapes](https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Quatre Grapes](https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN) | 3:30 |
 | 47 | [Legszebb Hibánk](https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw) | [Beretka Ádám](https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6) | [Legszebb Hibánk](https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9) | 2:44 |
 | 48 | [kavicsok kövek](https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7) | [30Y](https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9) | [X](https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH) | 2:46 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 66 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 | 67 | [kurvanagy ???](https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [kurvanagy ???](https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W) | 2:31 |
 | 68 | [Megyek utánad](https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Megyek utánad](https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS) | 2:11 |
-| 69 | [Different](https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE) | [NOIRA](https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo) | [Different](https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6) | 3:41 |
-| 70 | [Egy popzenész nyara](https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Egy popzenész nyara](https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R) | 1:45 |
-| 71 | [Megbolondítottál](https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Megbolondítottál](https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX) | 3:18 |
-| 72 | [Boldogok vagyunk\-e](https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [BOLDOGOK VAGYUNK\-E](https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp) | 3:01 |
+| 69 | [Egy popzenész nyara](https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Egy popzenész nyara](https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R) | 1:45 |
+| 70 | [Different](https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE) | [NOIRA](https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo) | [Different](https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6) | 3:41 |
+| 71 | [Boldogok vagyunk\-e](https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [BOLDOGOK VAGYUNK\-E](https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp) | 3:01 |
+| 72 | [Megbolondítottál](https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Megbolondítottál](https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX) | 3:18 |
 | 73 | [beleszakad](https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W) | [Pandóra Projekt](https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8) | [beleszakad](https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU) | 3:04 |
 | 74 | [CSILLAGTÚRA](https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC) | [Müller Péter Sziámi](https://open.spotify.com/artist/1Th0eNk8SoQLogq9i4wGQ0), [BéRCZeSi RóBeRT](https://open.spotify.com/artist/116yLVakpeArwclw9dSkJ1), [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [CSILLAGTÚRA](https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF) | 3:39 |
 | 75 | [Szeretnivalója](https://open.spotify.com/track/0ws1t4YPXjUxdZrDxUguj6) | [Kiscsillag](https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6) | [Szeretnivalója](https://open.spotify.com/album/3pl8usrU9H4xHT8UG8ePbU) | 4:00 |
 | 76 | [Engem szeretni nehéz](https://open.spotify.com/track/4Mamklib5ugFYkndshmeif) | [Wolf Kati](https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r), [Wolf Kati Band](https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8) | [Engem szeretni nehéz](https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP) | 4:02 |
 | 77 | [Az Én Szívem](https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA) | [Az Én Szívem](https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa) | 2:54 |
-| 78 | [Neked is jobb, ha húz](https://open.spotify.com/track/03vZitd4ojc6poxN255vwG) | [The Qualitons](https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D) | [Club Eco Vol\. I \(The Trail\)](https://open.spotify.com/album/0jGmVEItBSsoB5gAN0ZuxK) | 3:24 |
-| 79 | [Ez vagyok én](https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [Ez vagyok én](https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK) | 1:37 |
+| 78 | [Ez vagyok én](https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [Ez vagyok én](https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK) | 1:37 |
+| 79 | [Neked is jobb, ha húz](https://open.spotify.com/track/03vZitd4ojc6poxN255vwG) | [The Qualitons](https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D) | [Club Eco Vol\. I \(The Trail\)](https://open.spotify.com/album/0jGmVEItBSsoB5gAN0ZuxK) | 3:24 |
 | 80 | [Elég a tenger](https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Elég a tenger](https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT) | 3:27 |
 
 Snapshot ID: `Zv+7UQAAAAB4fQSL/yLJ0jjL/N4pFEkX`

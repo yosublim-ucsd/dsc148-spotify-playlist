@@ -840,7 +840,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 249000,
       "name": "Angu Vaana Konilu - From \"ARM\"",
       "url": "https://open.spotify.com/track/0xpeiTGSEchBhqrjDuIcSS"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 174088,
       "name": "Ayudha Pooja [TELUGU]",
       "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
@@ -7442,7 +7442,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 260590,
       "name": "Humdard (From \"Ek Villain\")",
       "url": "https://open.spotify.com/track/2PvaburAUlhNHxVhw5lvOq"
@@ -7646,7 +7646,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 212525,
       "name": "Illuminati",
       "url": "https://open.spotify.com/track/1a1xLj9W8libnO9PvJf6ao"
@@ -16447,6 +16447,24 @@
     },
     {
       "album": {
+        "name": "Russian Bandana",
+        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Russian Bandana",
+      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+    },
+    {
+      "album": {
         "name": "Saadgi",
         "url": "https://open.spotify.com/album/45s28VrRNQ9bCeIOYySrAE"
       },
@@ -18838,7 +18856,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 299827,
       "name": "Tera Hone Laga Hoon",
       "url": "https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj"

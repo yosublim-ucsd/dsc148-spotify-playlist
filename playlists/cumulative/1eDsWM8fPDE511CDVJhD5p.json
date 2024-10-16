@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 218437,
       "name": "LiFE",
       "url": "https://open.spotify.com/track/4jZyC6VCAurHqWqgdhPOQI"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 195972,
       "name": "Merkur (feat. Hatsune Miku) (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0uaf3qVOkPjb1aL9Bbzg11"
@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30a4\u30af\u30ed\u30f3\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/236EtrEyfboHz2uxu9PMM3"
+      },
+      "artists": [
+        {
+          "name": "\u96f2\u4e39",
+          "url": "https://open.spotify.com/artist/2n6XWhZaj4eIij2sH19zV9"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215873,
+      "name": "\u30b5\u30a4\u30af\u30ed\u30f3\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/6RlnQwoyLNPOacxzgec4wK"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30ac\u30fc\u30eb\u306e\u8ff7\u8d70",
         "url": "https://open.spotify.com/album/5haIyt6vEuMwLNbfATLFJs"
       },
@@ -2696,6 +2714,46 @@
       "duration_ms": 302693,
       "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30e9\u30b9\u30c8\u30fb\u30db\u30c3\u30ab\u30a4\u30c0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6C8WQvQq3GBOzAmn22oS75"
+    },
+    {
+      "album": {
+        "name": "world",
+        "url": "https://open.spotify.com/album/3SvobSG3QYvkMZzddAmHOC"
+      },
+      "artists": [
+        {
+          "name": "\u306d\u3058\u5f0f",
+          "url": "https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "\u30c0\u30e1\u30f3\u30ba \u30ed\u30fc\u30d7\u30a6\u30a7\u30a4 (feat. GUMI)",
+      "url": "https://open.spotify.com/track/5tap7airL7rTOwTZlKbr0U"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30f3\u30b7\u30f3\u30ec\u30a4\u30b8\u30fc\u30af\u30ec\u30a4\u30b8\u30fc\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/7c8m1tKE6AuFibGH3bxmnk"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30d0\u30b9",
+          "url": "https://open.spotify.com/artist/0lWIZdslxRB0Z8s8aVGI4B"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "\u30c0\u30f3\u30b7\u30f3\u30ec\u30a4\u30b8\u30fc\u30af\u30ec\u30a4\u30b8\u30fc\u30ca\u30a4\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6p3U6n05M0FmkwZbUj7rv7"
     },
     {
       "album": {
@@ -3139,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "\u30e0\u30e9\u30b5\u30e1",
+        "url": "https://open.spotify.com/album/349EJxJwclerUYYE7Bikog"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30d1\u30a4\u30c0\u30fc\u3068milano",
+          "url": "https://open.spotify.com/artist/1m8LxmekCywW9hhvgUJ3MX"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "\u30e0\u30e9\u30b5\u30e1",
+      "url": "https://open.spotify.com/track/2Q0NHleGXr2DHPd1YXvLrS"
+    },
+    {
+      "album": {
         "name": "\u30e0\u30fc\u30d6 \u30e8\u30fc \u30dc\u30c7\u30a3\u30fc",
         "url": "https://open.spotify.com/album/4LjiQedUscM6Hxqzp4WdPX"
       },
@@ -3272,7 +3348,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 203448,
       "name": "\u30ec\u30c3\u30c9\u30e9\u30f3\u30c9\u30de\u30fc\u30ab\u30fc (feat. MEIKO)",
       "url": "https://open.spotify.com/track/2Lfr5cRJW4kzlYpMT2fQN8"
@@ -3426,7 +3502,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 131200,
       "name": "\u5408\u6cd5\u899a\u9192\u5264 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6oQfn4gE3UdJcHKgiTMOWo"
@@ -3452,6 +3528,28 @@
       "duration_ms": 186352,
       "name": "\u541b\u306e\u59ff (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/5NXKtZwuQL8wbY1wnhKGwF"
+    },
+    {
+      "album": {
+        "name": "Recreate",
+        "url": "https://open.spotify.com/album/039H35apIbsSL2GwY6dbsw"
+      },
+      "artists": [
+        {
+          "name": "Kuroneko Lounge",
+          "url": "https://open.spotify.com/artist/4u3AJ8Ipx1xxH1mGhUdy7o"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188507,
+      "name": "\u591c\u660e\u30ab\u30b7\u306e\u30e4\u30de\u30a4 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/68Fjzlss3iVRnfBVhZKh2c"
     },
     {
       "album": {
@@ -3690,7 +3788,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 421250,
       "name": "\u7d42\u308f\u3089\u306a\u3051\u308c\u3070\u3044\u3044\u306e\u306b\u306d (feat. MEIKO)",
       "url": "https://open.spotify.com/track/2qdUUBTjt9FssdJaaPGMJi"

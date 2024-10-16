@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,711 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,717 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anthem Of Martin \(From "Martin"\) \(Kannada\)](https://open.spotify.com/track/4afXxPuT4KFDtDrEIPncyL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [AP Arjun](https://open.spotify.com/artist/2zNw9VlOPrsSNXJxprdsNH) | [Anthem Of Martin \(From "Martin"\) \(Kannada\)](https://open.spotify.com/album/6BbJuiY1GWFcGKIynQFNH8) | 3:59 |
+| 1 | [Anthem Of Martin \(From "Martin"\) \(Kannada\)](https://open.spotify.com/track/4afXxPuT4KFDtDrEIPncyL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [AP Arjun](https://open.spotify.com/artist/2zNw9VlOPrsSNXJxprdsNH), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Anthem Of Martin \(From "Martin"\) \(Kannada\)](https://open.spotify.com/album/6BbJuiY1GWFcGKIynQFNH8) | 3:59 |
 | 2 | [Mogachi \(From "Murphy"\)](https://open.spotify.com/track/6PD9exSQzp6pz2qPwF8uol) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW), [Nadia Rebelo](https://open.spotify.com/artist/1ebUN4cXj2yYORWOojeU9p) | [Mogachi \(From "Murphy"\)](https://open.spotify.com/album/608Mzx1kAwEwLEfJccWYIK) | 3:58 |
 | 3 | [Kaavaliga \(From "Bhairathi Ranagal"\)](https://open.spotify.com/track/3DlaCpCBStOojTwaHEyKuW) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Kaavaliga \(From "Bhairathi Ranagal"\)](https://open.spotify.com/album/0mpitiKzjy2SsZJbz3gLWj) | 5:00 |
 | 4 | [Sommasilli Pothunnave \- A Muddu Bangari](https://open.spotify.com/track/1jsn10YL6ZqoA2Tj08X7dq) | [Ravi Billur](https://open.spotify.com/artist/48nqifmZuibF0kQMLpOCW1) | [Sommasilli Pothunnave \(A Muddu Bangari\)](https://open.spotify.com/album/2BiickJykWulEmnJbctchA) | 3:50 |

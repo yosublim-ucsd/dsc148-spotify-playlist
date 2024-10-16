@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Murilo Huff com Ana Castela, Tierry e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,943,825 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,045 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 22 | [Fim De Carreira](https://open.spotify.com/track/4bsEJ0hpKgqyGUth2Dh4IB) | [Erick Lins](https://open.spotify.com/artist/6p0PsWjDD41Oxp8CXTMt3R), [Nando Moreno](https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t) | [Fim De Carreira](https://open.spotify.com/album/5T5JeRpyZYEok7fPn5JP3w) | 2:58 |
 | 23 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/1MP9p73U0GH5fLGsKo2irF) | [Carreiro & Capataz](https://open.spotify.com/artist/3JWhgnuhV4ew6C7cGJ8Khf) | [Essência Bruta \(Ao Vivo\)](https://open.spotify.com/album/5fFBzjmIcKh0zyW9gn1FL1) | 2:18 |
 | 24 | [Revoarei \(Bolão de Vaquejada\)](https://open.spotify.com/track/1SXSvaidHcS4wlG7xwV3F1) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Victor Meira](https://open.spotify.com/artist/0MjRKm8DW3DqXxCAcR13FC) | [Revoarei \(Bolão de Vaquejada\)](https://open.spotify.com/album/6dkexu7iEzxyOpsk7SOZTX) | 1:54 |
-| 25 | [Só Mais Uma Vez](https://open.spotify.com/track/49LrGkdbdqe9WWiR7OMCkY) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU), [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Só Mais Uma Vez](https://open.spotify.com/album/6VG6wqq2g7FOc6R1VOXBEX) | 2:49 |
+| 25 | [Só Mais Uma Vez](https://open.spotify.com/track/49LrGkdbdqe9WWiR7OMCkY) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU), [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Só Mais Uma Vez](https://open.spotify.com/album/6VG6wqq2g7FOc6R1VOXBEX) | 2:46 |
 | 26 | [40 Graus](https://open.spotify.com/track/07PFlB6s2rq12DlWVnRNsr) | [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v), [Gi Cardoni](https://open.spotify.com/artist/1xvRg6wQN5DbH3gOUS67VR) | [40 Graus](https://open.spotify.com/album/5D1dz0Mmw1Pfbx2aD9Yqe7) | 2:58 |
 | 27 | [As Gatas Bebem no Bailão](https://open.spotify.com/track/4QqJB03WDLVQ0YpdVDwtlB) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [As Gatas Bebem no Bailão](https://open.spotify.com/album/6BuDFQ645UjOOvXQjpq8Yu) | 2:09 |
 | 28 | [Reforma](https://open.spotify.com/track/7xAe0JQDWJOH3Ji5PvKmbj) | [Thiago Freitas](https://open.spotify.com/artist/26u3LeVpw9EOQLkNVX6NUj), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Reforma](https://open.spotify.com/album/7tMYkvahmtPhni7EiDcxy2) | 2:49 |

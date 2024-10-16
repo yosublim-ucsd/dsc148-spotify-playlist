@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAZrscy+RHlvYI9NdZVKRjiDCJMj615",
+  "snapshot_id": "AAAZskvne3R+eoRVh5n4hO01+acGl9nn",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -45,42 +45,6 @@
       "url": "https://open.spotify.com/track/1BO3p9XC9Z7a661AvDkoaT"
     },
     {
-      "added_at": "2024-10-12 20:47:56",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 226086,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
-    },
-    {
-      "added_at": "2024-10-12 20:48:09",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
-    },
-    {
       "added_at": "2024-10-05 02:46:16",
       "album": {
         "name": "Discoth\u00e8que Records Vol. 5",
@@ -101,22 +65,6 @@
       "url": "https://open.spotify.com/track/6lAs6I5E4seFitCEwLOIDs"
     },
     {
-      "added_at": "2023-11-20 21:07:03",
-      "album": {
-        "name": "Mental // Insane Asylum",
-        "url": "https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq"
-      },
-      "artists": [
-        {
-          "name": "Houseium",
-          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk"
-    },
-    {
       "added_at": "2024-10-12 18:57:03",
       "album": {
         "name": "When The Bass Kicks In",
@@ -135,6 +83,22 @@
       "duration_ms": 193139,
       "name": "When The Bass Kicks In",
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
+    },
+    {
+      "added_at": "2023-11-20 21:07:03",
+      "album": {
+        "name": "Mental // Insane Asylum",
+        "url": "https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq"
+      },
+      "artists": [
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk"
     },
     {
       "added_at": "2024-10-12 18:53:43",
@@ -467,6 +431,42 @@
       "duration_ms": 216217,
       "name": "Let Your Hands Go",
       "url": "https://open.spotify.com/track/1e8j6YNvDaD0XlwTr8yfGy"
+    },
+    {
+      "added_at": "2024-10-12 20:47:56",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
+    },
+    {
+      "added_at": "2024-10-12 20:48:09",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
     },
     {
       "added_at": "2024-10-05 03:24:22",
@@ -1323,6 +1323,22 @@
       "duration_ms": 236254,
       "name": "Kickin",
       "url": "https://open.spotify.com/track/3eOvuzq1P0Sn4HNZI8vw21"
+    },
+    {
+      "added_at": "2024-10-15 17:39:01",
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/4E1ZlybMwsR1RDGZgo8SNd"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/7GSjImVncKoQdfSaRuJA5O"
     }
   ],
   "unique_name": "BASSLINE THERAPY",

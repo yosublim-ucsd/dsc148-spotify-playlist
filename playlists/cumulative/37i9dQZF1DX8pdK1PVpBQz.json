@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: Jujulipps",
+  "description": "The best new music by independent artists and labels. \nCover: Arbes",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "At Last / Red Cloud",
+        "url": "https://open.spotify.com/album/0eEyqEqkXtv1agZheNIqD2"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189242,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/5HnNFLQb8O9isdpV6AOsIG"
+    },
+    {
+      "album": {
         "name": "At One (reVision)",
         "url": "https://open.spotify.com/album/0dEH0VZO8GVZHKRfWg6Kag"
       },
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 164000,
       "name": "Birds",
       "url": "https://open.spotify.com/track/6lTmjnqBQYyqiu7EAbxVtE"
@@ -6750,6 +6768,24 @@
       "duration_ms": 235979,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/55iJOJkqH5nxjPh9uAh3nI"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0EBUZYIu8O3k94bQ8Q7Ntg"
+      },
+      "artists": [
+        {
+          "name": "Montgomery",
+          "url": "https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219051,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4IBSoHG5r1iTYiJPLzg6XK"
     },
     {
       "album": {
@@ -9003,6 +9039,24 @@
     },
     {
       "album": {
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/6WBoNownLMDmm9iLnFiDnD"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258876,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/18Hl2wmmqiFh1tvW2IbXfM"
+    },
+    {
+      "album": {
         "name": "Call Me Stupid",
         "url": "https://open.spotify.com/album/2iWoEWnknZLRDWDaLQU3T2"
       },
@@ -9466,7 +9520,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 198428,
       "name": "Can't Get You",
       "url": "https://open.spotify.com/track/3d0QHQvj3vr7RqP2ahabk7"
@@ -10764,6 +10818,24 @@
       "duration_ms": 178271,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0pkPXOYifXJDJkAFhb34Gb"
+    },
+    {
+      "album": {
+        "name": "City Lovin'",
+        "url": "https://open.spotify.com/album/321SL5QHrGmPzDTFRePV0c"
+      },
+      "artists": [
+        {
+          "name": "Jermango Dreaming",
+          "url": "https://open.spotify.com/artist/3FzmHDnTOHBoH6BIwyllIj"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182714,
+      "name": "City Lovin'",
+      "url": "https://open.spotify.com/track/640urk0BaWblWixD3qgkWm"
     },
     {
       "album": {
@@ -13420,7 +13492,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 205436,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0d0sxxRow1LkA00gJroUTk"
@@ -16620,7 +16692,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 237800,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/30lkZRrMPgKwu1Jt0S1Qq0"
@@ -17088,6 +17160,24 @@
       "duration_ms": 259510,
       "name": "E Tu",
       "url": "https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a"
+    },
+    {
+      "album": {
+        "name": "E.S.",
+        "url": "https://open.spotify.com/album/7oHTsg5LXWHmQPg73wW6Pm"
+      },
+      "artists": [
+        {
+          "name": "Mousey",
+          "url": "https://open.spotify.com/artist/2i8PjlwoRliIYTnNjEndXm"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191703,
+      "name": "E.S.",
+      "url": "https://open.spotify.com/track/2hPkL6XJCVXnvkg2DMnDIF"
     },
     {
       "album": {
@@ -19524,6 +19614,24 @@
       "duration_ms": 126417,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/4YZdQqnGxSI7tShUxDJBau"
+    },
+    {
+      "album": {
+        "name": "Falls Away",
+        "url": "https://open.spotify.com/album/0IFqk4NqMQu5CworWATX9J"
+      },
+      "artists": [
+        {
+          "name": "Stormy-Lou",
+          "url": "https://open.spotify.com/artist/6UBHfmGknwru62HQNnlIdW"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169359,
+      "name": "Falls Away",
+      "url": "https://open.spotify.com/track/6qwqehUiYQnjaJmoK1DNEj"
     },
     {
       "album": {
@@ -22288,7 +22396,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 189676,
       "name": "Garden",
       "url": "https://open.spotify.com/track/1YUllv2MIB5PVTnRF4WlMY"
@@ -22830,7 +22938,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 202248,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/0NeIfXldQGGHhpbKNfeJcS"
@@ -24498,6 +24606,24 @@
       "duration_ms": 212569,
       "name": "Green Thumb",
       "url": "https://open.spotify.com/track/7edUSXULDGL0tSaWYHxibI"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2z4btRtdgqRw3oAceWQKxk"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287997,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/79Nga1vtGyuKTnT2wcieji"
     },
     {
       "album": {
@@ -29156,6 +29282,24 @@
       "duration_ms": 213298,
       "name": "I Won't Run",
       "url": "https://open.spotify.com/track/2frz8nJcSPjTOm5mtHtOOE"
+    },
+    {
+      "album": {
+        "name": "I'll Be Lonely",
+        "url": "https://open.spotify.com/album/50jn9TYzTzTVFWlP4vMSKm"
+      },
+      "artists": [
+        {
+          "name": "Hana Markson",
+          "url": "https://open.spotify.com/artist/4pDJsRsflZ7i6igwUvhyzN"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153534,
+      "name": "I'll Be Lonely",
+      "url": "https://open.spotify.com/track/6rDGPcJCeJd9qSoIMwrRpV"
     },
     {
       "album": {
@@ -36524,7 +36668,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 203948,
       "name": "Madeline",
       "url": "https://open.spotify.com/track/0HGRz93IV4v8sfkmoQLSsB"
@@ -38964,7 +39108,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 167920,
       "name": "Moves",
       "url": "https://open.spotify.com/track/09Zu9x1dbfPHoxBW9rfolQ"
@@ -42654,7 +42798,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 226000,
       "name": "Oh, I give up!",
       "url": "https://open.spotify.com/track/58Tp00XcEBGo8M4NE7BgGG"
@@ -43292,6 +43436,42 @@
       "duration_ms": 190684,
       "name": "one like this",
       "url": "https://open.spotify.com/track/4oXnLbbTvPs7InYSCSGkp0"
+    },
+    {
+      "album": {
+        "name": "One Metaphor",
+        "url": "https://open.spotify.com/album/2LPd8kbzqnhQy3Hm3lEpD5"
+      },
+      "artists": [
+        {
+          "name": "Arbes",
+          "url": "https://open.spotify.com/artist/4EJsm8GVADYCXpKNNrFjtu"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306064,
+      "name": "One Metaphor",
+      "url": "https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN"
+    },
+    {
+      "album": {
+        "name": "One More Step",
+        "url": "https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "One More Step",
+      "url": "https://open.spotify.com/track/5ah0lStBk74Qb8pgSeLupG"
     },
     {
       "album": {
@@ -47971,6 +48151,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO"
+      },
+      "artists": [
+        {
+          "name": "Theeth",
+          "url": "https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170431,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr"
+    },
+    {
+      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
       },
@@ -48802,7 +49000,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 209081,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/6ttsI3Rqjx8Rf2yuqENUla"
@@ -49474,7 +49672,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 215571,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
@@ -51442,7 +51640,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 204729,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/1eTSc7UyuslEorKkq7ZHCk"
@@ -62491,6 +62689,24 @@
     },
     {
       "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2xTREBmE4i3u1Tq7OkfjrR"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156360,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/2PsKMjaliyVtRtqa5yhh1j"
+    },
+    {
+      "album": {
         "name": "Until you came along",
         "url": "https://open.spotify.com/album/0Voch6f38fKhG7LJ1bU8qk"
       },
@@ -65988,7 +66204,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 172653,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5"
@@ -66772,6 +66988,24 @@
       "duration_ms": 184822,
       "name": "Worth My Time",
       "url": "https://open.spotify.com/track/3Sh6TSvq8lqGSRiToETkRk"
+    },
+    {
+      "album": {
+        "name": "Would It Kill You (Just To Hold Me)",
+        "url": "https://open.spotify.com/album/5Cr0g3RdEeIyKxppmFK8nO"
+      },
+      "artists": [
+        {
+          "name": "Will Baker",
+          "url": "https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205988,
+      "name": "Would It Kill You (Just To Hold Me)",
+      "url": "https://open.spotify.com/track/7xngofBPnnBHUik12uTaZD"
     },
     {
       "album": {

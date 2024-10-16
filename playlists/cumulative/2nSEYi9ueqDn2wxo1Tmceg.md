@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
 
-1,091 songs - 3 day 2 hr 46 min
+1,092 songs - 3 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-06-15 | 2022-08-04 |
 | [Deeper](https://open.spotify.com/track/6XwMOx54frtlaAPFNQaotw) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [Is It Going To Get Any Deeper Than This?](https://open.spotify.com/album/2qVmEJd2GUCtKd7QpC4Flc) | 11:19 | 2022-11-09 | 2022-12-08 |
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-06-27 | 2023-08-31 |
+| [Defense](https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Defense](https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27) | 4:35 | 2024-10-15 |  |
 | [Destiny](https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Findia](https://open.spotify.com/artist/1238uDqogGK9DyE1zry8Dz) | [Harmonics](https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00) | 4:12 | 2024-07-12 | 2024-09-05 |
 | [Devil’s Den](https://open.spotify.com/track/6QLTumcZQ3dHN8pUj9T9C7) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 3:05 | 2023-06-14 | 2023-07-20 |
 | [Did You Know](https://open.spotify.com/track/0YUlIpR3e3JApw2I3xVdaB) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF), [MettaShiba](https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy) | [Did You Know](https://open.spotify.com/album/2GIbXRubpKw4HIiotVnyJ7) | 3:54 | 2023-06-28 | 2023-08-03 |

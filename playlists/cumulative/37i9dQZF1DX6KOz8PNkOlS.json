@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 146487,
       "name": "I Love Vertigo",
       "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
@@ -1690,6 +1690,24 @@
       "duration_ms": 338706,
       "name": "Johnson",
       "url": "https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF"
+    },
+    {
+      "album": {
+        "name": "Jumpstart",
+        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171986,
+      "name": "Jumpstart",
+      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
     },
     {
       "album": {
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 150731,
       "name": "Torch Song",
       "url": "https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2"
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-16",
       "duration_ms": 178778,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/5ua26DyJQQjTT5nDdFJGCu"

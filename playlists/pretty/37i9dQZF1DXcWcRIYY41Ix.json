@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lhasa de Sela.",
-  "num_followers": 125663,
+  "num_followers": 125689,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
       },
       "artists": [
         {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
         }
       ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Cara de tonta",
-        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
       "artists": [
         {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
         }
       ],
-      "duration_ms": 126650,
-      "name": "Cara de tonta",
-      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+        "name": "Ser\u00e9 Guitarra",
+        "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
       },
       "artists": [
         {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Maria Jose Mendoza",
+          "url": "https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki"
         }
       ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+      "duration_ms": 215082,
+      "name": "Ser\u00e9 Guitarra",
+      "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1083,6 +1087,22 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1279,26 +1299,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Ser\u00e9 Guitarra",
-        "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Maria Jose Mendoza",
-          "url": "https://open.spotify.com/artist/5AcTuLzZpzmpTTNSF5e7ki"
-        }
-      ],
-      "duration_ms": 215082,
-      "name": "Ser\u00e9 Guitarra",
-      "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Si me atreviera",
+        "url": "https://open.spotify.com/album/42SAr1aoBj4eUlqNaANVYK"
+      },
+      "artists": [
+        {
+          "name": "Delgado",
+          "url": "https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK"
+        },
+        {
+          "name": "M\u00e4bu",
+          "url": "https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591"
+        }
+      ],
+      "duration_ms": 215441,
+      "name": "Si me atreviera",
+      "url": "https://open.spotify.com/track/4dhwyB7sgHgzGin75SnKgV"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Todo volver\u00e1 a ser como antes",
         "url": "https://open.spotify.com/album/70csm4MKaNgSwBMNghFfAJ"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Si me atreviera",
-        "url": "https://open.spotify.com/album/42SAr1aoBj4eUlqNaANVYK"
-      },
-      "artists": [
-        {
-          "name": "Delgado",
-          "url": "https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK"
-        },
-        {
-          "name": "M\u00e4bu",
-          "url": "https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591"
-        }
-      ],
-      "duration_ms": 215441,
-      "name": "Si me atreviera",
-      "url": "https://open.spotify.com/track/4dhwyB7sgHgzGin75SnKgV"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Casida de la Rosa",
-        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
-      },
-      "artists": [
-        {
-          "name": "Magal\u00ed Datzira",
-          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
-        }
-      ],
-      "duration_ms": 331442,
-      "name": "Casida de la Rosa",
-      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Casida de la Rosa",
+        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+      },
+      "artists": [
+        {
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+        }
+      ],
+      "duration_ms": 331442,
+      "name": "Casida de la Rosa",
+      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 225287,
       "name": "Para la Pena No",
       "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "El chico de Andratx",
+        "url": "https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sotos",
+          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
+        }
+      ],
+      "duration_ms": 153492,
+      "name": "El cielo de tu boca",
+      "url": "https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "El hombre de la habitaci\u00f3n de al lado",
-        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
-      },
-      "artists": [
-        {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "El hombre de la habitaci\u00f3n de al lado",
-      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     }
   ],
   "unique_name": "Cancionistas",

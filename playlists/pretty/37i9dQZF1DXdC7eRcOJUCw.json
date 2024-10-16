@@ -1,6 +1,6 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Ana Gabriel en portada.",
-  "num_followers": 154902,
+  "num_followers": 155028,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 136706,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ"
+      "duration_ms": 184560,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+      "duration_ms": 163932,
+      "name": "Me Saludas A La Tuya",
+      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -348,25 +348,25 @@
           "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
+      "duration_ms": 136706,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ"
     },
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Me Saludas A La Tuya",
-        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 163932,
-      "name": "Me Saludas A La Tuya",
-      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Mejor Que T\u00fa",
-        "url": "https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 208494,
-      "name": "Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "15 \u00c9xitos 15",
         "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 208213,
       "name": "Vengo A Verte",
       "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Mejor Que T\u00fa",
+        "url": "https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 208494,
+      "name": "Mejor Que T\u00fa",
+      "url": "https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi"
     },
     {
       "added_at": "2024-09-13 06:02:00",

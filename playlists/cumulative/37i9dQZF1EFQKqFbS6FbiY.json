@@ -2049,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "START, Vol. 2",
+        "url": "https://open.spotify.com/album/3IitoCKKf3wW3mkzlseG3H"
+      },
+      "artists": [
+        {
+          "name": "Karol Carvalho",
+          "url": "https://open.spotify.com/artist/10PuUQcehqOhBiCZzAuEbS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201728,
+      "name": "Carona",
+      "url": "https://open.spotify.com/track/1ee2WbHDPOq0SlZoeRE82b"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/7kVvK9jPOeqdhVTp0UVHYd"
       },

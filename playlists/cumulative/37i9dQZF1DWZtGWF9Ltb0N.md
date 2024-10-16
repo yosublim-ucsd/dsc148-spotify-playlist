@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-679 songs - 1 day 22 hr 32 min
+680 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Ways](https://open.spotify.com/track/1t8CseUn2l8xXtCLAV4NuQ) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [All Ways](https://open.spotify.com/album/3KIuuSsvqtJzJ7Ctf8JgNv) | 4:16 | 2022-07-08 | 2022-07-30 |
 | [Altair](https://open.spotify.com/track/4U95OXDYDP37bDPQmQAjYO) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Altair](https://open.spotify.com/album/4ysjvZUUh0pBHJL78QXjqa) | 5:01 | 2022-02-17 | 2022-07-28 |
 | [Always](https://open.spotify.com/track/7aMmDj30GXfnSxuiKuyxBE) | [Circumference](https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii) | [Time](https://open.spotify.com/album/2YCC1Rk5v1QvXRDrPQBTZD) | 4:11 | 2024-05-10 |  |
+| [Ancient Secrets](https://open.spotify.com/track/1ReUQBuR6rPojwvZJYyepT) | [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH), [Serpentis](https://open.spotify.com/artist/7GDTaBQ5irjbkqAg8JIvbi) | [Ancient Secrets](https://open.spotify.com/album/1VWls87v6qVn7S9tXS0M1o) | 3:42 | 2024-10-11 |  |
 | [Anex](https://open.spotify.com/track/5V8SOMlVqsb99wHRVd5IQH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd) | [Anex](https://open.spotify.com/album/3sAk2b4mwCZmMQ4JuAVlvB) | 3:10 | 2024-09-13 |  |
 | [Ange](https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Ange](https://open.spotify.com/album/2nT20AFqNcpq1HDuqU2xHW) | 5:54 | 2023-03-10 | 2024-08-10 |
 | [Angel Above](https://open.spotify.com/track/10hYODoxosJRO9VaWIvi18) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Angel Above](https://open.spotify.com/album/0BBlkwYEunT5J8Bt74MrBW) | 2:53 | 2024-07-26 |  |
@@ -31,7 +32,7 @@
 | [ARE WE HAVING FUN OR WHAT?](https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [ARE WE HAVING FUN OR WHAT?](https://open.spotify.com/album/4O4RcK8tOjhR5hC4XqbIkq) | 2:27 | 2024-10-04 |  |
 | [ARGO](https://open.spotify.com/track/4BLlezhbGazfpE0OXUUKuj) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [ARGO / DIRTYWATER](https://open.spotify.com/album/59mnqSEj89Gopa9Zq7lTSK) | 3:39 | 2024-08-23 | 2024-10-01 |
 | [Asura](https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Asura](https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO) | 3:30 | 2023-08-25 | 2023-09-16 |
-| [Automatic](https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Automatic](https://open.spotify.com/album/15xLRQ3xbSbUKcVSjQCMSO) | 2:46 | 2024-04-05 |  |
+| [Automatic](https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Automatic](https://open.spotify.com/album/15xLRQ3xbSbUKcVSjQCMSO) | 2:46 | 2024-04-05 | 2024-10-16 |
 | [Avec Gang](https://open.spotify.com/track/3iNTexknoEaPnvU2y1VNGH) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Avec Gang](https://open.spotify.com/album/7MTLaQsUGD6AYJa9uucT1T) | 3:51 | 2022-07-01 | 2022-12-18 |
 | [Azazel](https://open.spotify.com/track/6Qi2YQRnX5w4W9u5xjEm1T) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Hatched 17](https://open.spotify.com/album/6MCZ1few4hvpeQYOcNaQcu) | 4:36 | 2022-02-17 | 2022-04-28 |
 | [BABABASS](https://open.spotify.com/track/2TBVfT3IWdjRSeRFtwv6Jq) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg) | [BABABASS](https://open.spotify.com/album/30iFuo0xeskQRG3OIV7m77) | 3:04 | 2024-04-19 | 2024-09-14 |

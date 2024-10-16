@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 ### [On Tour Korea: Jorja Smith](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
 
-> <JORJA SMITH LIVE IN SEOUL \- FALLING OR FLYING TOURr> 2024년 10월 25일\(금\) 오후 8시 @YES 24 라이브 홀\(서울\)
+> <JORJA SMITH LIVE IN SEOUL \- FALLING OR FLYING TOUR> 2024년 10월 25일\(금\) 오후 8시 @YES 24 라이브 홀\(서울\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,698 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,616 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 29 | [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 |
 | 30 | [Try Me](https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:33 |
 
-Snapshot ID: `Zw3bEwAAAAAkk0YPUWW2SefaWbzS4tmO`
+Snapshot ID: `Zw4iEwAAAAA+v/zvlR87Izug9D19Alfv`

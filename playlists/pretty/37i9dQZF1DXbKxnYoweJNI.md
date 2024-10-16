@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 夜貓組 \(Leo王+春艷\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,910 likes - 111 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,916 likes - 111 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 94 | [要去見你的夏天 \-《艾嘉食堂》插曲](https://open.spotify.com/track/6Z7bj1701iirtbZ7QGoyhp) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [要去見你的夏天 \-《艾嘉食堂》插曲](https://open.spotify.com/album/3uubu0T6qyIVGZNK5pXiVJ) | 3:46 |
 | 95 | [載我去下星期五的晚上](https://open.spotify.com/track/7FfLaPfMpPHiMRvKYcxwVZ) | [薄荷綠工廠](https://open.spotify.com/artist/6OXUfXUbNk2uFeRXAjtbhY), [馬念先](https://open.spotify.com/artist/40LaLWRnuCBSSdpwsC42jb) | [載我去下星期五的晚上](https://open.spotify.com/album/0GakGg7xEBpwYja8N0WWhq) | 3:46 |
 | 96 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 |
-| 97 | [為什麼我無法成為我想成為的人 \(ft\. 洪佩瑜, 潘柏霖, Robot Swing\)](https://open.spotify.com/track/5IPfdd8Ou57SOC78MfSIVw) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg), [洪佩瑜](https://open.spotify.com/artist/6qKOf4I6aUktCUP73pkpCh), [潘柏霖](https://open.spotify.com/artist/1TDlZXyjL13TRYyMR6YQ5r), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [愚公](https://open.spotify.com/album/2U3oRZGiU1Aq5YmuSpCJmI) | 4:55 |
+| 97 | [為什麼我無法成為我想成為的人 \(ft\. 洪佩瑜, 潘柏霖, Robot Swing\)](https://open.spotify.com/track/5IPfdd8Ou57SOC78MfSIVw) | [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs), [潘柏霖](https://open.spotify.com/artist/1TDlZXyjL13TRYyMR6YQ5r), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [愚公](https://open.spotify.com/album/2U3oRZGiU1Aq5YmuSpCJmI) | 4:55 |
 | 98 | [Snow in Osaka](https://open.spotify.com/track/2w1WT7UnIvYT5jtBaEWXeC) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [Snow in Osaka](https://open.spotify.com/album/09opa4FglxamwYEJi8XST4) | 3:23 |
 | 99 | [打一個想你的噴嚏](https://open.spotify.com/track/71mHQL4fdpWOCc8nWysU23) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [打一個想你的噴嚏](https://open.spotify.com/album/1JANSGgH3ish8sQKaSKHDy) | 3:06 |
 | 100 | [RLGL](https://open.spotify.com/track/2eUjYVaMHBemUsLCgMbq7b) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [RLGL](https://open.spotify.com/album/2jyPKSJAXlDnl8zuQW7czp) | 3:10 |

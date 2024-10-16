@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: RÜFÜS DU SOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,181 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,180 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 35 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 |
 | 36 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
 | 37 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 |
-| 38 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 |
+| 38 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 | 39 | [Hold You](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Hold You EP](https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt) | 4:25 |
 | 40 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |
 | 41 | [People Were Dancing](https://open.spotify.com/track/4N15M6bfYDbjtQF2jHXn1J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Rimarkable](https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle) | [People Were Dancing](https://open.spotify.com/album/2Bqlcyqq8UerhVB18B1Kcq) | 3:43 |

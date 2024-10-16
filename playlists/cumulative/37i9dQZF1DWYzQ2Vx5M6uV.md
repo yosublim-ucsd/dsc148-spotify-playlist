@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Beéle
 
-178 songs - 9 hr 32 min
+179 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2022-02-16 |  |
 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 | 2023-07-20 |  |
 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 | 2023-12-08 |  |
+| [Daños Permanentes](https://open.spotify.com/track/38ArKAQLqqbyirKdwnA4DV) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Daños Permanentes](https://open.spotify.com/album/1yUDWhB2YYf3AU9w88B9rj) | 2:46 | 2024-10-11 |  |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2022-02-16 | 2024-09-21 |
 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 | 2022-02-16 | 2024-06-01 |
 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 | 2022-02-16 | 2024-09-21 |
@@ -134,7 +135,7 @@
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-03 | 2022-09-07 |
 | [PUERTO ESCONDIDO](https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:28 | 2024-09-20 |  |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-06-07 |  |
-| [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 | 2024-09-20 |  |
+| [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 | 2024-09-20 | 2024-10-16 |
 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:07 | 2022-07-07 |  |
 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 | 2022-06-03 | 2023-04-29 |
 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 | 2022-02-16 | 2024-09-21 |

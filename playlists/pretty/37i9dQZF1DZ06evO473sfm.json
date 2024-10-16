@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 423372,
+  "description": "This Is Grupo Frontera. Los temas esenciales, todos en una lista.",
+  "num_followers": 423770,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwsNgAAAAABZBExI+YvAkZJ6A0Ynl3F9",
+  "snapshot_id": "ZwxfAAAAAACIeTterss9GjZeOjXHC36s",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Yo Fuera Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
       },
       "artists": [
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
         }
       ],
-      "duration_ms": 179201,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": null,
@@ -459,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+        "name": "Si Yo Fuera Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
       },
       "artists": [
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
         }
       ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+      "duration_ms": 179201,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
     },
     {
       "added_at": null,

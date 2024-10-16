@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain]
 
 > Discover the bangers of the Middle East and North Africa.<br/>Cover : Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,468 likes - 35 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,496 likes - 35 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain]
 | 23 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 |
 | 24 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
 | 25 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 |
-| 26 | [Yazmeely](https://open.spotify.com/track/0rDNeS6IwKi1oMrtkEc5S0) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/4vCordbfumvDUXJBcDXoHm) | 3:16 |
+| 26 | [Yazmeely](https://open.spotify.com/track/0rDNeS6IwKi1oMrtkEc5S0) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/4vCordbfumvDUXJBcDXoHm) | 3:16 |
 | 27 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
 | 28 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
 | 29 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain]
 | 31 | [Rad Saree3](https://open.spotify.com/track/1vcb5OCIZ7X7WfomgPgH4y) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl), [Riyadiyat](https://open.spotify.com/artist/4U10V6SOPK1QA2Hh8ALk6S) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 4:30 |
 | 32 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
 | 33 | [Theeb](https://open.spotify.com/track/7e7XGcxSyirmCyxsGYvyQT) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:06 |
-| 34 | [Rehla](https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ) | 3:44 |
+| 34 | [Rehla](https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ) | 3:44 |
 | 35 | [NIKEY](https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:33 |
 
 Snapshot ID: `Zvzm+gAAAAARZonxDC2PEK3E4XU+TiBv`
