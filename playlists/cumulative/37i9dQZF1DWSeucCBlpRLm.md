@@ -4,7 +4,7 @@
 
 > Kickstart your Diwali party with these bangers.
 
-111 songs - 6 hr 24 min
+112 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Balma](https://open.spotify.com/track/2AAYoDgYtx5WCAg7Axeg70) | [Shriram](https://open.spotify.com/artist/3rhzPWhvEYewHykBuV6LFk), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Khiladi 786](https://open.spotify.com/album/5BoZm7cUUN5BpcXrNk1Z0v) | 3:47 | 2023-10-27 |  |
 | [Besharam Rang](https://open.spotify.com/track/49mPah10lutnHaU0NLf97t) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 4:18 | 2023-10-27 |  |
 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2024-10-14 |  |
+| [Bhool Bhulaiyaa 3 \- Title Track \(feat\. Pitbull\)](https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Bhool Bhulaiyaa 3 \- Title Track \(feat\. Pitbull\)](https://open.spotify.com/album/7A0AEPu9sqHZpSIDI1zLEM) | 3:50 | 2024-10-16 |  |
 | [BIBA](https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Slick Trick](https://open.spotify.com/artist/6ENmrRecdouZ74WXpHjQZl), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [OFIVE1](https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG) | 3:36 | 2023-10-27 | 2024-10-15 |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2023-10-27 |  |
 | [Bom Diggy](https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8) | 3:27 | 2024-10-14 |  |

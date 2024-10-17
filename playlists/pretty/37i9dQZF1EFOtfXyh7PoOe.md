@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 781 likes - 116 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 116 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 30 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4KoSb4nqOjLMptbDaTbOJv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [11:11](https://open.spotify.com/album/50MeziN5Do8zDtN4wINTTS) | 2:48 |
 | 31 | [Dance in the Dark](https://open.spotify.com/track/3i5jKbMOcBqgnKlx5UyH9d) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dance in the Dark](https://open.spotify.com/album/4rq7tp31zuRebJziiJ2oxB) | 2:58 |
 | 32 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
-| 33 | [Head Up](https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE](https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt) | 3:11 |
+| 33 | [Head Up \(feat\. James Newman\)](https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE](https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt) | 3:11 |
 | 34 | [American Boy](https://open.spotify.com/track/2D3QYCDI7WrbSMbcIRRBdm) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:11 |
 | 35 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 |
 | 36 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 115 | [Beachgrass](https://open.spotify.com/track/0Hq9LR4QzB39RvrngZpzbA) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1qxtSUzztfc1zPouYoDDsI) | 2:39 |
 | 116 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 
-Snapshot ID: `Abe4FgAAAACvPjCSGl+3CuULNEJaQLKk`
+Snapshot ID: `Abe9tgAAAADEHvIa76Gzpv9HXqooOktq`

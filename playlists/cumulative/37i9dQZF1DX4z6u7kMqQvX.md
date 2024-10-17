@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-514 songs - 1 day 5 hr 3 min
+516 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Fugaces](https://open.spotify.com/track/28Wj6qGLshfIAEXXAWzoB2) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fugaces](https://open.spotify.com/album/5to2IseBAcfon6henW8qPf) | 4:13 | 2022-01-28 | 2022-07-24 |
 | [Fuimos](https://open.spotify.com/track/4C8QXT8QEsQO5D2FLyilN1) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/1Ajzi28vHUyf7Dyv7rZAOR) | 3:33 | 2022-01-07 | 2024-09-27 |
 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 | 2022-07-29 | 2024-04-19 |
-| [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 | 2022-01-07 |  |
+| [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 | 2022-01-07 | 2024-10-17 |
 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 | 2022-12-23 | 2024-04-19 |
 | [Fumar](https://open.spotify.com/track/7gCu2tqv6pGqBhL6mz0emO) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [520 Hz](https://open.spotify.com/album/7xyyGUj1nyOxxOx7lmUo0o) | 4:08 | 2022-04-01 | 2022-04-08 |
 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 | 2022-01-07 | 2023-10-06 |
@@ -218,7 +218,7 @@
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2023-07-14 |  |
 | [Heridas](https://open.spotify.com/track/5FtzJaHKkN27ZYTggz1PQq) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas](https://open.spotify.com/album/5YN1W3BxLajlLQ4qfL6Bhr) | 3:16 | 2022-06-03 | 2022-07-25 |
 | [Honestidad](https://open.spotify.com/track/6vyWbvI4Seik3n1qLiKJwx) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Honestidad](https://open.spotify.com/album/2K5bCWRptDdSnzU6MpKu78) | 3:45 | 2022-01-28 | 2022-07-28 |
-| [Imán](https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 2:18 | 2022-01-28 |  |
+| [Imán](https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 2:18 | 2022-01-28 | 2024-10-17 |
 | [Imán](https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH) | 2:18 | 2023-10-26 | 2024-04-19 |
 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 | 2024-08-22 |  |
@@ -241,12 +241,14 @@
 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 | 2022-01-07 | 2024-08-23 |
 | [Kodokushi](https://open.spotify.com/track/4X9SV7MPdCgYBST2FrxfcV) | [Gozh](https://open.spotify.com/artist/0oO5q5O0rCFsyozn8fn4zy) | [Kodokushi](https://open.spotify.com/album/6EdGccK1I0jpFKt6due5Y8) | 3:27 | 2022-04-01 | 2022-04-21 |
 | [La Canción Perfecta](https://open.spotify.com/track/1tdra4ZcPc3fn4ggmLR4P1) | [Cosmen](https://open.spotify.com/artist/4WH8Pg89uSRBy2aqbksVLH) | [La Canción Perfecta](https://open.spotify.com/album/0Rftet2KeKBDGTyarwMi8n) | 3:44 | 2022-01-28 | 2022-06-13 |
+| [La Circulación](https://open.spotify.com/track/22ZPaGi63Pi1P3whqfEhh6) | [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [La Circulación](https://open.spotify.com/album/5bdDJEg1ZXohTein753T9Q) | 4:03 | 2024-10-16 |  |
 | [La Danza Del Espacio Tiempo](https://open.spotify.com/track/27ZQF3cVMyQSCrSiyVBuDM) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza Del Espacio Tiempo](https://open.spotify.com/album/2IhDgOKxXnYxb7gZ1m6Nqn) | 2:05 | 2022-01-07 | 2022-07-27 |
 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 | 2022-07-15 | 2023-10-06 |
 | [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 | 2022-01-07 | 2023-10-06 |
 | [La Despedida](https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [La Despedida](https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx) | 2:27 | 2024-05-17 |  |
 | [La Despedida](https://open.spotify.com/track/3Fh0EvWz8a7iIrt2jI14g3) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Despedida](https://open.spotify.com/album/7M4JewGp3T8YwdB1Z76NyO) | 3:47 | 2022-04-01 | 2022-05-06 |
 | [La Fiesta](https://open.spotify.com/track/6xRQTg5eD6HtpkWOZZQ8hf) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg), [Tomas Ferrero](https://open.spotify.com/artist/16OtEqLFEuzr64OXhJr6zN) | [Salvar el Recuerdo](https://open.spotify.com/album/3uEWU4qHZsCaBhq94JusxH) | 3:28 | 2022-04-01 | 2022-06-25 |
+| [la forma de quererte](https://open.spotify.com/track/47bGdiFesm5zMfTb8YAZ4S) | [Diego Mema](https://open.spotify.com/artist/1Z3h97nviCGdb6bMlZKoOj) | [La Montaña](https://open.spotify.com/album/00wMHyrJx9Z5mtL2Fljcaw) | 3:55 | 2024-10-16 |  |
 | [La Forma del Amor](https://open.spotify.com/track/6ByMAW7FXsSsxfmbRtzJDJ) | [Pablo Caputto](https://open.spotify.com/artist/4YfqsOBCoCMbm9SpFe4cMl), [Polo Rojo](https://open.spotify.com/artist/0vHJT2NPqeD8d7DZODLMKS) | [La Forma del Amor](https://open.spotify.com/album/2lPf4IZ4Rb8k7VlA6aBDXd) | 3:03 | 2022-04-01 | 2022-04-19 |
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2022-07-25 |
 | [La Mexicana](https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Mexicana \- Single](https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy) | 3:26 | 2022-01-07 | 2023-10-06 |

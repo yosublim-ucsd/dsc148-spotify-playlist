@@ -8930,7 +8930,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 172727,
       "name": "Love You for the Summer",
       "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
@@ -8952,6 +8952,24 @@
       "duration_ms": 188800,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1mPER4WK21doNM1VhdwxYj"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7CvTWqSSlQw1ZQlJBQh4bg"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216850,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/0ZLBYoLxyONV8gOhlYXL6q"
     },
     {
       "album": {

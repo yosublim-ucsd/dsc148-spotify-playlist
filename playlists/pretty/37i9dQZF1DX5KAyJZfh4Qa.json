@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Touch\u00e9 Amor\u00e9",
-  "num_followers": 57567,
+  "num_followers": 57608,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Mostly",
+        "url": "https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8"
+      },
+      "artists": [
+        {
+          "name": "Heart to Gold",
+          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
+        }
+      ],
+      "duration_ms": 157782,
+      "name": "Mostly",
+      "url": "https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "World Apart",
-        "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
-      },
-      "artists": [
-        {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "World Apart",
-      "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "khaki cuffs",
         "url": "https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 167689,
       "name": "caffeine cops",
       "url": "https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "World Apart",
+        "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "World Apart",
+      "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -631,22 +647,6 @@
       "duration_ms": 236200,
       "name": "tequila redbull",
       "url": "https://open.spotify.com/track/0XGV6cr7MPIiLjxJ7JbMEQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Mostly",
-        "url": "https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8"
-      },
-      "artists": [
-        {
-          "name": "Heart to Gold",
-          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Mostly",
-      "url": "https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Children Of The Moon",
-        "url": "https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7"
-      },
-      "artists": [
-        {
-          "name": "State Faults",
-          "url": "https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b"
-        }
-      ],
-      "duration_ms": 250739,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "When I Come East",
         "url": "https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Children Of The Moon",
+        "url": "https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7"
+      },
+      "artists": [
+        {
+          "name": "State Faults",
+          "url": "https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b"
+        }
+      ],
+      "duration_ms": 250739,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 168353,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Southeast of Somewhere",
+        "url": "https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v"
+      },
+      "artists": [
+        {
+          "name": "Kerosene Heights",
+          "url": "https://open.spotify.com/artist/0D4NkuZAkjfdm5clMtYYrz"
+        }
+      ],
+      "duration_ms": 190730,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Southeast of Somewhere",
-        "url": "https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v"
-      },
-      "artists": [
-        {
-          "name": "Kerosene Heights",
-          "url": "https://open.spotify.com/artist/0D4NkuZAkjfdm5clMtYYrz"
-        }
-      ],
-      "duration_ms": 190730,
-      "name": "Perfect Timing",
-      "url": "https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Auguries of Guilt",
-        "url": "https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN"
-      },
-      "artists": [
-        {
-          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
-        }
-      ],
-      "duration_ms": 337257,
-      "name": "Auguries of Guilt",
-      "url": "https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Glass",
         "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 283986,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Auguries of Guilt",
+        "url": "https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN"
+      },
+      "artists": [
+        {
+          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
+        }
+      ],
+      "duration_ms": 337257,
+      "name": "Auguries of Guilt",
+      "url": "https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA"
     },
     {
       "added_at": "2024-10-11 04:00:00",

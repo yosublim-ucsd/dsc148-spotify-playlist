@@ -1,6 +1,6 @@
 {
   "description": "Latest music from your fav I-Pop artists. Cover- Mohammad Faiz",
-  "num_followers": 60133,
+  "num_followers": 60182,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -35,17 +35,13 @@
     {
       "added_at": "2024-10-11 06:07:49",
       "album": {
-        "name": "Gypsy 2 (feat. Pranjal Dahiya)",
+        "name": "Gypsy 2",
         "url": "https://open.spotify.com/album/5E5mezsretE9vId6RmoFqB"
       },
       "artists": [
         {
           "name": "G.D. Kaur",
           "url": "https://open.spotify.com/artist/1JASStJXixMu8BtchqHp2s"
-        },
-        {
-          "name": "Shine",
-          "url": "https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM"
         },
         {
           "name": "Dinesh Golan",
@@ -57,7 +53,7 @@
         }
       ],
       "duration_ms": 164705,
-      "name": "Gypsy 2 (feat. Pranjal Dahiya)",
+      "name": "Gypsy 2",
       "url": "https://open.spotify.com/track/1FV3PDNMhj7xxYjfye1a5B"
     },
     {

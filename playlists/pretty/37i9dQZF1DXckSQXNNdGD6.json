@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: MAYO.",
-  "num_followers": 18941,
+  "num_followers": 18940,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
+        "url": "https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr"
+      },
+      "artists": [
+        {
+          "name": "Ladilla Rusa",
+          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
+        }
+      ],
+      "duration_ms": 219740,
+      "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
+      "url": "https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Piensa En Positivo (Madrid Pride 2020 by Juan Sueiro)",
         "url": "https://open.spotify.com/album/6cGLfGdIZennoCqTbjejsY"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
-        "url": "https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr"
-      },
-      "artists": [
-        {
-          "name": "Ladilla Rusa",
-          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
-        }
-      ],
-      "duration_ms": 219740,
-      "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
-      "url": "https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Si es contigo si",
         "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
-      },
-      "artists": [
-        {
-          "name": "Agoney",
-          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Confieso",
         "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 180481,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU"
+      },
+      "artists": [
+        {
+          "name": "Agoney",
+          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

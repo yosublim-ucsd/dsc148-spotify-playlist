@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 205506,
       "name": "Hela hatet stormar",
       "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
@@ -3173,24 +3173,6 @@
     },
     {
       "album": {
-        "name": "L\u00f6rdag kan bli farlig",
-        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6DS\u00d6GONBLICKET",
-          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
-        }
-      ],
-      "date_added": "2021-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 96000,
-      "name": "Lo\u0308rdag kan bli farlig",
-      "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
-    },
-    {
-      "album": {
         "name": "Efter Allt",
         "url": "https://open.spotify.com/album/3zEzsyQSqze5kbJLqjUnv4"
       },
@@ -3314,6 +3296,24 @@
       "duration_ms": 74465,
       "name": "L\u00c5T MIG D\u00d6",
       "url": "https://open.spotify.com/track/3xsfRcllce9q5KSo5KYHKc"
+    },
+    {
+      "album": {
+        "name": "L\u00f6rdag kan bli farlig",
+        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6DS\u00d6GONBLICKET",
+          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "L\u00f6rdag kan bli farlig",
+      "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
     },
     {
       "album": {
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 162133,
       "name": "N\u00e5n annanstans",
       "url": "https://open.spotify.com/track/7BONvtMAXk7kpIaydbWlzZ"

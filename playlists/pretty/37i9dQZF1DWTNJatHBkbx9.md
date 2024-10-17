@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: NATAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334 likes - 87 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339 likes - 87 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "new music from baby bugs, mxmtoon, maggie rogers & more \ud83d\udc1b\ud83c\udf42",
-  "num_followers": 120081,
+  "num_followers": 120154,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwldTgAAAAAncPd8GkFhB+/yPX3Kkdci",
+  "snapshot_id": "Zw/ezwAAAADKclKc5fmyVoPNifuBxhvn",
   "tracks": [
     {
       "added_at": "2024-10-11 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2024-10-16 15:42:07",
+      "album": {
+        "name": "the way that i am",
+        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 177149,
+      "name": "the way that i am",
+      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
     },
     {
       "added_at": "2024-10-04 04:00:00",

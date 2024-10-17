@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Ben Hemsley
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  ARTY, RANI
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,765 likes - 200 songs - 10 hr 43 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,751 likes - 200 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tidal](https://open.spotify.com/track/6YqIZ0DjF4ShTlCapRbupl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl) | 3:51 |
-| 2 | [Freefall](https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Freefall](https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR) | 2:49 |
+| 1 | [Freefall](https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Freefall](https://open.spotify.com/album/4kGEeZJodQnNKyIpbDdpTR) | 2:49 |
+| 2 | [Tidal](https://open.spotify.com/track/6YqIZ0DjF4ShTlCapRbupl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl) | 3:51 |
 | 3 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 |
 | 4 | [Mad Motion](https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Mad Motion](https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ) | 2:40 |
 | 5 | [Part Of Me](https://open.spotify.com/track/1uv6iYfmG2vBotgFMR2NXY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Part Of Me](https://open.spotify.com/album/4ZRf9czIO2joiMoDBWbzul) | 2:35 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 199 | [Closer \- Demuja Remix](https://open.spotify.com/track/6mDLVSpzIZTcjpipeY5q0U) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [Carole Sylvan](https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729), [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [King Street: Beat Match](https://open.spotify.com/album/1rw7qjn9LyPkblXSspxSt9) | 3:56 |
 | 200 | [I Wanna Be Down](https://open.spotify.com/track/7z8u5QrxPb2hu1Poeiuf8y) | [Clive](https://open.spotify.com/artist/0ExaZl3ARtfXwGr1lViWMG), [Toile](https://open.spotify.com/artist/4UsjeKBLgWDyKY0mHufPxG) | [No\. 360 EP](https://open.spotify.com/album/7L6KIkLOMau0pDSx2yQcjU) | 7:54 |
 
-Snapshot ID: `AADSo5a3/Tx37UWGltffW6tRQCY5banq`
+Snapshot ID: `AADSpTnFe3IsJ3AyeiwjbaiggWDk+m98`

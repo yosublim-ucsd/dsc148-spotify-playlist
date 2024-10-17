@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38338,
+  "num_followers": 38342,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "L\u00e9on",
-        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
-      },
-      "artists": [
-        {
-          "name": "Ottis C\u0153ur",
-          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "L\u00e9on",
-      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "What Does Moon Think",
         "url": "https://open.spotify.com/album/1xuR0TZ9uoVRPIWHqj7hu8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 180706,
       "name": "What Does Moon Think",
       "url": "https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "L\u00e9on",
+        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
+      },
+      "artists": [
+        {
+          "name": "Ottis C\u0153ur",
+          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "L\u00e9on",
+      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Night of the Loving Dead",
-        "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
-      },
-      "artists": [
-        {
-          "name": "Animal Triste",
-          "url": "https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Ineffable",
         "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 254687,
       "name": "The Password",
       "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Night of the Loving Dead",
+        "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
+      },
+      "artists": [
+        {
+          "name": "Animal Triste",
+          "url": "https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Strange Feeling",
-        "url": "https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U"
-      },
-      "artists": [
-        {
-          "name": "Structures",
-          "url": "https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Strange Feeling",
-      "url": "https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Newspapers",
         "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Staring At The Sun",
-        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
+        "name": "Strange Feeling",
+        "url": "https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U"
       },
       "artists": [
         {
-          "name": "Not Scientists",
-          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
+          "name": "Structures",
+          "url": "https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ"
         }
       ],
-      "duration_ms": 229429,
-      "name": "Like gods we feast",
-      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+      "duration_ms": 232453,
+      "name": "Strange Feeling",
+      "url": "https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Sitcoms for Aliens",
-        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
       },
       "artists": [
         {
-          "name": "Noiseheads",
-          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
+          "name": "Not Scientists",
+          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
         }
       ],
-      "duration_ms": 185218,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
+      "duration_ms": 229429,
+      "name": "Like gods we feast",
+      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -847,6 +831,22 @@
       "duration_ms": 253906,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Sitcoms for Aliens",
+        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
+      },
+      "artists": [
+        {
+          "name": "Noiseheads",
+          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Fall Away",
-        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
-      },
-      "artists": [
-        {
-          "name": "Hype Lights",
-          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Healing Is Not Linear",
         "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 188440,
       "name": "Knees",
       "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1011,18 +979,34 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Life Is Unfair",
-        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
       "artists": [
         {
-          "name": "DYE CRAP",
-          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
         }
       ],
-      "duration_ms": 135750,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Fall Away",
+        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
+      },
+      "artists": [
+        {
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1055,6 +1039,22 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Life Is Unfair",
+        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
+      },
+      "artists": [
+        {
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "charivari",
-        "url": "https://open.spotify.com/album/3V6SbIMpgP3mEeYfL40yJQ"
-      },
-      "artists": [
-        {
-          "name": "marcel",
-          "url": "https://open.spotify.com/artist/176oWYh6UJPDOR38W09xmo"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "playroom",
-      "url": "https://open.spotify.com/track/0O57HN2JOSVjxSI0ajb0Bd"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 216047,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "charivari",
+        "url": "https://open.spotify.com/album/3V6SbIMpgP3mEeYfL40yJQ"
+      },
+      "artists": [
+        {
+          "name": "marcel",
+          "url": "https://open.spotify.com/artist/176oWYh6UJPDOR38W09xmo"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "playroom",
+      "url": "https://open.spotify.com/track/0O57HN2JOSVjxSI0ajb0Bd"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Hungry for Action",
+        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
+      },
+      "artists": [
+        {
+          "name": "Iron Lizards",
+          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
+        }
+      ],
+      "duration_ms": 164068,
+      "name": "It's About Time !",
+      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Hungry for Action",
-        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
+        "name": "Slot Logic",
+        "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
       "artists": [
         {
-          "name": "Iron Lizards",
-          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
+          "name": "Dewaere",
+          "url": "https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF"
         }
       ],
-      "duration_ms": 164068,
-      "name": "It's About Time !",
-      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
+      "duration_ms": 204866,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Slot Logic",
-        "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
-      },
-      "artists": [
-        {
-          "name": "Dewaere",
-          "url": "https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Homes & Galaxies",
         "url": "https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3"
       },
@@ -1315,38 +1315,6 @@
       "duration_ms": 263100,
       "name": "Once You Taste Blood",
       "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Straight-Jacket",
-        "url": "https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc"
-      },
-      "artists": [
-        {
-          "name": "Dirty Cloud",
-          "url": "https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV"
-        }
-      ],
-      "duration_ms": 123400,
-      "name": "Ritalin",
-      "url": "https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
-      },
-      "artists": [
-        {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1367,6 +1335,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Straight-Jacket",
+        "url": "https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc"
+      },
+      "artists": [
+        {
+          "name": "Dirty Cloud",
+          "url": "https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV"
+        }
+      ],
+      "duration_ms": 123400,
+      "name": "Ritalin",
+      "url": "https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+      },
+      "artists": [
+        {
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 189803,
       "name": "Moments",
       "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Nasty Habits",
+        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
+      },
+      "artists": [
+        {
+          "name": "Komodor",
+          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
+        }
+      ],
+      "duration_ms": 238541,
+      "name": "Nasty Habits",
+      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Nasty Habits",
-        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
-      },
-      "artists": [
-        {
-          "name": "Komodor",
-          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
-        }
-      ],
-      "duration_ms": 238541,
-      "name": "Nasty Habits",
-      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "From The Sea To Your Mind",
         "url": "https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 329909,
       "name": "From The Sea To Your Mind",
       "url": "https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Rhythm + Ethics",
-        "url": "https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG"
-      },
-      "artists": [
-        {
-          "name": "PURRS",
-          "url": "https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz"
+        "name": "Rhythm + Ethics",
+        "url": "https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG"
       },
       "artists": [
         {
-          "name": "Fabulous Sheep",
-          "url": "https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh"
+          "name": "PURRS",
+          "url": "https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx"
         }
       ],
-      "duration_ms": 158266,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY"
+      "duration_ms": 205386,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz"
+      },
+      "artists": [
+        {
+          "name": "Fabulous Sheep",
+          "url": "https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Pictures of a Century",
         "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Lair of Gods",
-        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
-      },
-      "artists": [
-        {
-          "name": "Servo",
-          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
-        }
-      ],
-      "duration_ms": 241812,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Vomit Candy",
         "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "The Lair of Gods",
+        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
+      },
+      "artists": [
+        {
+          "name": "Servo",
+          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+        }
+      ],
+      "duration_ms": 241812,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Devil's Dance",
-        "url": "https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR"
+        "name": "Anabasis",
+        "url": "https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5"
       },
       "artists": [
         {
-          "name": "Goblins On Saturn",
-          "url": "https://open.spotify.com/artist/0XZmQFCZSSXUUQunfVJr4v"
+          "name": "L'Effondras",
+          "url": "https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y"
         }
       ],
-      "duration_ms": 223978,
-      "name": "Devil's Dance",
-      "url": "https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7"
+      "duration_ms": 433466,
+      "name": "Anhedonia",
+      "url": "https://open.spotify.com/track/3xJ6sQfC3quybJBBal9ojN"
     }
   ],
   "unique_name": "French Noise",

@@ -363,18 +363,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Un peu",
-        "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
       },
       "artists": [
         {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
         }
       ],
-      "duration_ms": 177880,
-      "name": "Un peu",
-      "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -395,22 +399,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Guardia",
-        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+        "name": "Un peu",
+        "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
       },
       "artists": [
         {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Guardia",
-      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+      "duration_ms": 177880,
+      "name": "Un peu",
+      "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -471,6 +471,38 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 172346,
+      "name": "SAN GOKU",
+      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "NANANANANA",
+        "url": "https://open.spotify.com/album/4tiOdo4AYuOKzS76dUnVJ5"
+      },
+      "artists": [
+        {
+          "name": "Olivier Bergeron",
+          "url": "https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72"
+        }
+      ],
+      "duration_ms": 122674,
+      "name": "NANANANANA",
+      "url": "https://open.spotify.com/track/3LJmljXs6lBJfc0iHmPDyy"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
@@ -527,38 +559,6 @@
       "duration_ms": 480160,
       "name": "Sous le soleil",
       "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "NANANANANA",
-        "url": "https://open.spotify.com/album/4tiOdo4AYuOKzS76dUnVJ5"
-      },
-      "artists": [
-        {
-          "name": "Olivier Bergeron",
-          "url": "https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72"
-        }
-      ],
-      "duration_ms": 122674,
-      "name": "NANANANANA",
-      "url": "https://open.spotify.com/track/3LJmljXs6lBJfc0iHmPDyy"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "SAN GOKU",
-      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 122090,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
         "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 238595,
       "name": "Parades Photos",
       "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "BIG BOSS",
-        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 122090,
-      "name": "BIG BOSS",
-      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "La Pieva",
-        "url": "https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi"
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
       },
       "artists": [
         {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Qui j'\u00e9tais",
-      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp"
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

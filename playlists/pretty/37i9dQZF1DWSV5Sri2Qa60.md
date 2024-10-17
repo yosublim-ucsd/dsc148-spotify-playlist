@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Esme Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,937 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,973 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 5 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 |
 | 6 | [AWOL](https://open.spotify.com/track/2aZ5hd1ZxWZD9os2lZcVCV) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Tightropes and Limericks](https://open.spotify.com/album/3OiZGdAnVrEzWECXrDtZq7) | 3:16 |
 | 7 | [The Boss](https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [The Boss](https://open.spotify.com/album/1OwrqBMQkhVUmHbG9HONpZ) | 2:58 |
-| 8 | [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [Wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 |
+| 8 | [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 |
 | 9 | [MEASURE ME](https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv), [Softlizard](https://open.spotify.com/artist/4pGYioOoAwTF2d44wFGTHM) | [MEASURE ME](https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU) | 4:08 |
 | 10 | [Borderline](https://open.spotify.com/track/5ZeId40tYso3dnPaH0Irnl) | [Adult Leisure](https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7) | [Borderline](https://open.spotify.com/album/5sFHFJWNEZ1aBBG8z57CcK) | 3:41 |
 | 11 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 |

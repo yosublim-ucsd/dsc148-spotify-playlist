@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,200 songs - 2 day 16 hr 52 min
+1,201 songs - 2 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Darwin Falls](https://open.spotify.com/track/0yjL09GgRzFelbzQyzIZ4F) | [St.Laurent](https://open.spotify.com/artist/0A73QeqBxrglNUEnOSToN9) | [Darwin Falls](https://open.spotify.com/album/5r11NZrelXZXkHYOuCLCjD) | 3:35 | 2024-08-09 | 2024-08-16 |
 | [Day 'N' Nite](https://open.spotify.com/track/46mlgXXpNSqwF1e6Fefuyi) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Day 'N' Nite](https://open.spotify.com/album/2y4zFJGQbMMYMrQKO7cBZH) | 2:36 | 2024-08-31 | 2024-09-06 |
 | [Daydream](https://open.spotify.com/track/6EFwCTxuOWiJllWJSZtsBe) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Daydream](https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb) | 3:23 | 2024-07-25 | 2024-08-02 |
+| [Daydreaming](https://open.spotify.com/track/4MbbPlazYHz892lbnWPelv) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [Daydreaming](https://open.spotify.com/album/4QocOje5vl69d9dpH9ZbhU) | 2:33 | 2024-10-16 |  |
 | [Dead Beat Poet](https://open.spotify.com/track/5TpaK0ljCqAlPi5d5DlTO8) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Bryonii](https://open.spotify.com/artist/2o00IFmXtfxMYHOtLwHzE5) | [Dead Beat Poet](https://open.spotify.com/album/6h0RaohrSe0SWx2wQIFiOe) | 3:11 | 2024-06-07 | 2024-06-17 |
 | [Dear Old Friend](https://open.spotify.com/track/4LXzh3HGIaluZBejUSF1xL) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu) | [Dear Old Friend](https://open.spotify.com/album/2lOU0A0hOY3Pvy5GicvOX0) | 3:27 | 2024-07-12 | 2024-07-19 |
 | [Decimate \- N.O.B.A Remix](https://open.spotify.com/track/1IBQOV538NLEQph6O34Slx) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb), [N.O.B.A](https://open.spotify.com/artist/5MIr8QoqIu4PfJayaNTjb8) | [Decimate \(N.O.B.A Remix\)](https://open.spotify.com/album/30t1zKXN0igRzWgV7mtpIn) | 3:34 | 2024-07-19 | 2024-07-27 |
@@ -403,7 +404,7 @@
 | [Get Out Alive](https://open.spotify.com/track/3siC3ceMnodBAmogugkign) | [Corm!!](https://open.spotify.com/artist/1IyqSGCb2d6pnbUQjt5TPM) | [Get Out Alive](https://open.spotify.com/album/3mPgNDllhAgICWlnuy5qyf) | 3:26 | 2024-08-23 | 2024-08-31 |
 | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV) | 3:33 | 2024-08-30 | 2024-09-06 |
 | [Get What You Want](https://open.spotify.com/track/2Eq7GMh36cAl1f8QbzzQQX) | [Waxman \(CA\)](https://open.spotify.com/artist/5ahprQyTBdUxt22Usf3OZK) | [Manual Summer Sampler 2024](https://open.spotify.com/album/4LT4IIYMDFyoeRuFNBITSV) | 3:24 | 2024-08-16 | 2024-08-24 |
-| [Ghost](https://open.spotify.com/track/4Qcr0GiF82JxSjbgZKJ5od) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ghost](https://open.spotify.com/album/3Mb4sN3Q4wdQeWf8dL4ITN) | 3:04 | 2024-10-11 |  |
+| [Ghost](https://open.spotify.com/track/4Qcr0GiF82JxSjbgZKJ5od) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Ghost](https://open.spotify.com/album/3Mb4sN3Q4wdQeWf8dL4ITN) | 3:04 | 2024-10-11 |  |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 | 2024-06-17 |
 | [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 | 2024-07-19 | 2024-07-27 |
 | [Girls At The Front](https://open.spotify.com/track/23m5u3I4s8NeO3c3aSZcFf) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg), [Luan Trombin](https://open.spotify.com/artist/79LkDLyc7oMwHrHO5avnMv) | [Girls At The Front](https://open.spotify.com/album/25NoGQjaVk3EbNNpfDMq6K) | 3:10 | 2024-06-28 | 2024-07-06 |

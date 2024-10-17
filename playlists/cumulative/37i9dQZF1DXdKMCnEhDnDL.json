@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: Hannah Mae & MAKSIM",
+  "description": "De beste Nederlandse liedjes. Cover: Hannah Mae",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 151923,
       "name": "Echte Mannen",
       "url": "https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 224533,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW"
@@ -3050,6 +3050,24 @@
       "duration_ms": 216546,
       "name": "Meisjes lopen sneller",
       "url": "https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
+        "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177877,
+      "name": "Mes In M'n Rug",
+      "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
     },
     {
       "album": {
@@ -5182,6 +5200,28 @@
       "duration_ms": 239032,
       "name": "What Are You Waiting For?",
       "url": "https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX"
+    },
+    {
+      "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176506,
+      "name": "Wie is zij",
+      "url": "https://open.spotify.com/track/4QGNI39NNs5gvny7UYyuas"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Kenia OS & La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,192 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,293 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 60 | [DIABLITA](https://open.spotify.com/track/5YwjEX9b8nwMYlLe2eYiC6) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [DIABLITA](https://open.spotify.com/album/31KlDN6jIolY6Z366gVv70) | 2:19 |
 | 61 | [BLUNTED 5 \- Remix](https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw) | [Bruno LC](https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [BLUNTED 5 \(Remix\)](https://open.spotify.com/album/0xIQ84DbeIZg1G4CXK2Qlj) | 2:21 |
 | 62 | [TITAN](https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2) | 2:02 |
-| 63 | [Mi santo \- A COLORS SHOW](https://open.spotify.com/track/6rKOEyg05nKSRRErDmBWjy) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Mi santo \- A COLORS SHOW](https://open.spotify.com/album/4HAviQUTdLO4jUFXmYgegX) | 2:13 |
+| 63 | [Mi santo \- A COLORS SHOW](https://open.spotify.com/track/6rKOEyg05nKSRRErDmBWjy) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Mi santo \- A COLORS SHOW](https://open.spotify.com/album/4HAviQUTdLO4jUFXmYgegX) | 2:13 |
 | 64 | [MESITA \| Mission 05](https://open.spotify.com/track/4WaopyDgvKQP6T852K9boe) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [MESITA \| Mission 05](https://open.spotify.com/album/4qEsa8G94vXAr6IFwgPkk8) | 2:16 |
 | 65 | [Pa Tra Rkt](https://open.spotify.com/track/1CpRJLarXSUho5AopXxNQj) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Pusho DJ](https://open.spotify.com/artist/2ZrxREKeIiJA6aQxa44ZzB) | [Pa Tra Rkt](https://open.spotify.com/album/51C7H8yHGV88GdxGtipO04) | 3:11 |
 | 66 | [Ando RKT \- Remix](https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Keko DJ](https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i) | [Ando RKT \(Remix\)](https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt) | 2:30 |

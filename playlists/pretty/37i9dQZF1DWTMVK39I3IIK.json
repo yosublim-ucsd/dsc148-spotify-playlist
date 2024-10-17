@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8 <a href=\"https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C?si=6p1M5o_yTJ2WuklEB_DL8Q\">Emma Sehested H\u00f8eg</a>",
-  "num_followers": 45421,
+  "num_followers": 45428,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ulykkelig",
-        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
-      },
-      "artists": [
-        {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
-        }
-      ],
-      "duration_ms": 136950,
-      "name": "Ulykkelig",
-      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Det\u00b4 kun vigtigt, hvad det er",
         "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ulykkelig",
+        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 136950,
+      "name": "Ulykkelig",
+      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "DR\u00d8MMEHUG",
+        "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
+      },
+      "artists": [
+        {
+          "name": "HUGORM",
+          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
+        },
+        {
+          "name": "PRISMA",
+          "url": "https://open.spotify.com/artist/6SdbHmZbUlrMjo8mroLZYy"
+        }
+      ],
+      "duration_ms": 168090,
+      "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
+      "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -523,22 +543,6 @@
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads.png)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Elendig Software",
-        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
-      },
-      "artists": [
-        {
-          "name": "Zar Paulo",
-          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
-        }
-      ],
-      "duration_ms": 243312,
-      "name": "T\u00e6t P\u00e5 Paradis",
-      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "DR\u00d8MMEHUG",
-        "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
+        "name": "Elendig Software",
+        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
       "artists": [
         {
-          "name": "HUGORM",
-          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
-        },
-        {
-          "name": "PRISMA",
-          "url": "https://open.spotify.com/artist/6SdbHmZbUlrMjo8mroLZYy"
+          "name": "Zar Paulo",
+          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
         }
       ],
-      "duration_ms": 168090,
-      "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
-      "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
+      "duration_ms": 243312,
+      "name": "T\u00e6t P\u00e5 Paradis",
+      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ambulance",
-        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
-      },
-      "artists": [
-        {
-          "name": "Gunge",
-          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
-        }
-      ],
-      "duration_ms": 183607,
-      "name": "Ambulance",
-      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "G\u00e5r Bare",
         "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
       },
@@ -763,22 +747,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Maler",
-        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "Maler",
-      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Marianne og Henrik",
         "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
       },
@@ -791,6 +759,38 @@
       "duration_ms": 180664,
       "name": "Marianne og Henrik",
       "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ambulance",
+        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
+      },
+      "artists": [
+        {
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
+        }
+      ],
+      "duration_ms": 183607,
+      "name": "Ambulance",
+      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Maler",
+        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "Maler",
+      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "D\u00e5rligste Bedste Id\u00e9",
         "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 172885,
       "name": "Sang Til Min Mor",
       "url": "https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 191673,
-      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Sol Gennem Regn",
         "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
       },
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
+      "duration_ms": 191673,
+      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "When you wake up",
+        "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        }
+      ],
+      "duration_ms": 266236,
+      "name": "I am your house",
+      "url": "https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Elsk Mig",
-        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
       },
       "artists": [
         {
-          "name": "Joyce",
-          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
         }
       ],
-      "duration_ms": 236624,
-      "name": "Se Mig",
-      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
+      "duration_ms": 190200,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Bedre",
-        "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 170727,
-      "name": "Bedre",
-      "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Uvejr - Del 1",
         "url": "https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0"
       },
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "No One Else",
-        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
+        "name": "Bedre",
+        "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
       },
       "artists": [
         {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
         }
       ],
-      "duration_ms": 231072,
-      "name": "No One Else",
-      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
+      "duration_ms": 170727,
+      "name": "Bedre",
+      "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Elsk Mig",
+        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
+      },
+      "artists": [
+        {
+          "name": "Joyce",
+          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
+        }
+      ],
+      "duration_ms": 236624,
+      "name": "Se Mig",
+      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
     }
   ],
   "unique_name": "ung kniv ",

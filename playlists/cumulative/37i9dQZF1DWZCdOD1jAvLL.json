@@ -12880,7 +12880,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
@@ -15494,6 +15494,28 @@
       "duration_ms": 136004,
       "name": "We Make It Pop",
       "url": "https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm"
+    },
+    {
+      "album": {
+        "name": "What Is Life",
+        "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343922,
+      "name": "What Is Life (feat. rhys from the sticks)",
+      "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
     },
     {
       "album": {

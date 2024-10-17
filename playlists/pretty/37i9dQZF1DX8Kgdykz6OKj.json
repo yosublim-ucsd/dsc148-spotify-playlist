@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1353096,
+  "num_followers": 1353766,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "ARE WE STILL DREAMING?",
         "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 199373,
       "name": "Bittersweet Baby",
       "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "Ravenite Social Club",
         "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 236873,
       "name": "To You (feat. Robert Glasper, Emi Secrest)",
       "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "3:AM (feat. Erykah Badu)",
-        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 149470,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
+        "name": "Funkin' Around",
+        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 106933,
+      "name": "Funkin' Around",
+      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
         "name": "Nigga Dreams",
         "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 177977,
       "name": "Nigga Dreams",
       "url": "https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
-        "name": "Funkin' Around",
-        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 106933,
-      "name": "Funkin' Around",
-      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "The New Groove: The Blue Note Remix Project Vol. 1",
-        "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Easy Mo Bee",
-          "url": "https://open.spotify.com/artist/1hFiH4ETB3NF2zmJPGzke4"
-        }
-      ],
-      "duration_ms": 413560,
-      "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
-      "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
-    },
-    {
-      "added_at": "2024-10-11 06:46:18",
-      "album": {
         "name": "AS MAN FIGHT HIMSELF",
         "url": "https://open.spotify.com/album/6P5t0pdWbeFGDJes590iQc"
       },
@@ -1931,18 +1911,22 @@
     {
       "added_at": "2024-10-11 06:46:18",
       "album": {
-        "name": "DaLouIsBack",
-        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
+        "name": "The New Groove: The Blue Note Remix Project Vol. 1",
+        "url": "https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Easy Mo Bee",
+          "url": "https://open.spotify.com/artist/1hFiH4ETB3NF2zmJPGzke4"
         }
       ],
-      "duration_ms": 157201,
-      "name": "DaLouIsBack",
-      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
+      "duration_ms": 413560,
+      "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
+      "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
     },
     {
       "added_at": "2024-10-11 06:46:18",
@@ -1963,6 +1947,22 @@
       "duration_ms": 126666,
       "name": "Connection - Remix",
       "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
+    },
+    {
+      "added_at": "2024-10-11 06:46:18",
+      "album": {
+        "name": "DaLouIsBack",
+        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 157201,
+      "name": "DaLouIsBack",
+      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
     },
     {
       "added_at": "2024-10-11 06:46:18",

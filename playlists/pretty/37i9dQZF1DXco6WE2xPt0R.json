@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 120658,
+  "num_followers": 120691,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,18 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
       "added_at": "2024-10-07 14:59:32",
@@ -203,18 +199,22 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
-        "name": "Waiting In Vain (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 252573,
-      "name": "Waiting in Vain - Spotify Singles",
-      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2024-10-07 14:59:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
-        "name": "One Night Stand",
-        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
-      },
-      "artists": [
-        {
-          "name": "Marsha Ambrosius",
-          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
-        }
-      ],
-      "duration_ms": 256924,
-      "name": "One Night Stand",
-      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
-    },
-    {
-      "added_at": "2024-10-07 14:59:32",
-      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2024-10-07 14:59:32",
+      "album": {
+        "name": "One Night Stand",
+        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
+      },
+      "artists": [
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "duration_ms": 256924,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
     },
     {
       "added_at": "2024-10-07 14:59:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
-        "name": "Hidden Beach Presents: The Original Jill Scott - from the vault, Vol. 1 (Deluxe)",
-        "url": "https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Wake Up Baby",
-      "url": "https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW"
-    },
-    {
-      "added_at": "2024-10-07 14:59:32",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 186294,
       "name": "Standards",
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
+    },
+    {
+      "added_at": "2024-10-07 14:59:32",
+      "album": {
+        "name": "Hidden Beach Presents: The Original Jill Scott - from the vault, Vol. 1 (Deluxe)",
+        "url": "https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Wake Up Baby",
+      "url": "https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW"
     },
     {
       "added_at": "2024-10-07 14:59:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
-      },
-      "artists": [
-        {
-          "name": "Ruben Studdard",
-          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66"
-    },
-    {
-      "added_at": "2024-10-07 14:59:32",
-      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 187541,
       "name": "Type Of Day",
       "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
+    },
+    {
+      "added_at": "2024-10-07 14:59:32",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
+      },
+      "artists": [
+        {
+          "name": "Ruben Studdard",
+          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66"
     },
     {
       "added_at": "2024-10-07 14:59:32",

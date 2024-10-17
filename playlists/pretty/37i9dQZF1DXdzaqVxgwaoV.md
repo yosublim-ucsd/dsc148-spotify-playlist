@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Celebrando 90 años de Discos Fuentes, con Pastor López en portada!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,539 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,536 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 97 | [Las Caleñas Son Como las Flores \- Remix](https://open.spotify.com/track/0xFcZaUaMALT6mbbGYBjZo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:54 |
 | 98 | [El Porteñito](https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ) | [Banda La Bocana](https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF) | [Grandes Éxitos](https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1) | 5:49 |
 | 99 | [Distancia](https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:03 |
-| 100 | [Los Fariseos](https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [Recuerdos Vol\. 1](https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02) | 4:49 |
+| 100 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 |
 
 Snapshot ID: `ZtQonAAAAABAHi+p5nsGqe1vEHDqEAyK`

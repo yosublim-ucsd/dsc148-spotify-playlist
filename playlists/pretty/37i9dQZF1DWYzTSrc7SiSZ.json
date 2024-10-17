@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 902347,
+  "num_followers": 902349,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 148562,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 148562,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "OCIO",
         "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
-      },
-      "artists": [
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Lo que escrib\u00ed mientras no estabas :)",
         "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+        "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
+        "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
         }
       ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+      "duration_ms": 272130,
+      "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
+      "url": "https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
-        "url": "https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 272130,
-      "name": "Alguna Vez All\u00ed Algo Ardi\u00f3",
-      "url": "https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "demasiado poco (demasiado tarde)",
+        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 188376,
+      "name": "demasiado poco - demasiado tarde",
+      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "La Espa\u00f1ola",
         "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 321019,
       "name": "Camarones y Viniles",
       "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "demasiado poco (demasiado tarde)",
-        "url": "https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 188376,
-      "name": "demasiado poco - demasiado tarde",
-      "url": "https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Esc\u00e1pate",
-        "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
-      },
-      "artists": [
-        {
-          "name": "Malxs",
-          "url": "https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Esc\u00e1pate",
-      "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Promesa",
         "url": "https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 181443,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Esc\u00e1pate",
+        "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
+      },
+      "artists": [
+        {
+          "name": "Malxs",
+          "url": "https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Esc\u00e1pate",
+      "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
     },
     {
       "added_at": "2024-09-20 04:00:00",

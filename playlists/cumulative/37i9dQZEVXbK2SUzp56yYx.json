@@ -442,7 +442,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 78544,
       "name": "ALLO FUNK",
       "url": "https://open.spotify.com/track/2uNlK8q7V57y2OoOG6vtDv"
@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 288533,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 105000,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/0slfJpxjuarx8317R1CBhS"
@@ -4636,6 +4636,32 @@
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
+    },
+    {
+      "album": {
+        "name": "lazit po stenam",
+        "url": "https://open.spotify.com/album/2jjUaLcYPDqw2AvpVGYznJ"
+      },
+      "artists": [
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        },
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "SOULIFY",
+          "url": "https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112083,
+      "name": "lazit po stenam",
+      "url": "https://open.spotify.com/track/4Ro4O1feGQwjPGqYocrjVj"
     },
     {
       "album": {
@@ -5396,7 +5422,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 88653,
       "name": "MONTAGEM BOTA HIPNOSIS 1.0",
       "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
@@ -7406,7 +7432,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
@@ -10010,7 +10036,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 178296,
       "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
@@ -14390,7 +14416,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 172745,
       "name": "\u043f\u043e\u043a\u0430-\u043f\u043e\u043a\u0430",
       "url": "https://open.spotify.com/track/0sM2KjVjrKCF8g8qSyrF9f"
@@ -15457,6 +15483,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0443\u043a\u0430 \u041b\u044e\u0431\u043e\u0432\u044c",
+        "url": "https://open.spotify.com/album/3UGnJ78Qo9V8P4QaRtgBKn"
+      },
+      "artists": [
+        {
+          "name": "Antoha MC",
+          "url": "https://open.spotify.com/artist/6OqmKFaRcw0f23m5PQ9CrL"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "\u0421\u0443\u043a\u0430 \u041b\u044e\u0431\u043e\u0432\u044c",
+      "url": "https://open.spotify.com/track/5WWkBkKEmMz3DskuxnF0Hz"
+    },
+    {
+      "album": {
         "name": "\u0421\u0423\u041c\u0410\u0421\u0428\u0415\u0414\u0428\u0418\u0419 \u0421\u041b\u041e\u041d\u0418\u041a \u0412\u042b\u0422\u0418\u0420\u0410\u0415\u0422 \u041f\u041e\u041f\u0423 \u0425\u041e\u0411\u041e\u0422\u041e\u041c",
         "url": "https://open.spotify.com/album/6bTEk1TCCxJG0x91nE03Vw"
       },
@@ -16306,7 +16350,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 298013,
       "name": "\u0427\u0438\u043e-\u0427\u0438\u043e-\u0441\u0430\u043d",
       "url": "https://open.spotify.com/track/7EiKxuiZMwu0aB4L751UNF"

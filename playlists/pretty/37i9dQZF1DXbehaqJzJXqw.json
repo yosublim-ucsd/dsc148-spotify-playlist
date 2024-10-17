@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 479190,
+  "num_followers": 479688,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Le Paris De ... Montand",
         "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 174773,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 222800,
       "name": "Comme s'il en pleuvait",
       "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "De La Chanson Et Puis C'Est Tout...",
-        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
-      },
-      "artists": [
-        {
-          "name": "Makali",
-          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Il Faut Du Temps Au Temps",
-      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 227026,
       "name": "Les mots d'amour",
       "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "De La Chanson Et Puis C'Est Tout...",
+        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
+      },
+      "artists": [
+        {
+          "name": "Makali",
+          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Il Faut Du Temps Au Temps",
+      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "La mer opale",
-      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
         "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 176506,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "La mer opale",
+      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
-      },
-      "artists": [
-        {
-          "name": "Leo Marjane",
-          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Ses plus grandes chansons",
         "url": "https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 200933,
       "name": "Dans mon \u00eele",
       "url": "https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "Leo Marjane",
+          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2024-06-03 11:39:48",

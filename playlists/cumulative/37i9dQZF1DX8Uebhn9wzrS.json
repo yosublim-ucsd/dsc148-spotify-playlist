@@ -16478,7 +16478,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 151125,
       "name": "in a... mood",
       "url": "https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs"
@@ -25676,7 +25676,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -32811,6 +32811,28 @@
     },
     {
       "album": {
+        "name": "New Life EP",
+        "url": "https://open.spotify.com/album/2XG9Odg88Io1LmaGKEKzfG"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        },
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115932,
+      "name": "Stronger Together",
+      "url": "https://open.spotify.com/track/6qM40RhvwLCbib0oflXBz1"
+    },
+    {
+      "album": {
         "name": "Struggling With Potential",
         "url": "https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx"
       },
@@ -34712,7 +34734,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 152763,
       "name": "That's My Jam",
       "url": "https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg"

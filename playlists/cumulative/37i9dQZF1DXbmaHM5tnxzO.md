@@ -4,7 +4,7 @@
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-92 songs - 4 hr 17 min
+93 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Touch The Sky \- From "Brave"/Soundtrack](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2023-09-15 |  |
 | [U Know What's Up](https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:08 | 2023-09-15 |  |
 | [Un Poco Loco](https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 | 2023-09-15 |  |
+| [Un Poco Loco](https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \- Banda Sonora Original en Español](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 1:52 | 2024-10-16 |  |
 | [Unforgettable](https://open.spotify.com/track/3zIqOgooI83sDqwSfo0aOH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 3:17 | 2023-09-15 |  |
 | [Wall\-E](https://open.spotify.com/track/5GAE12gkdsWnscaoXxCDdq) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:59 | 2023-09-15 |  |
 | [Wall\-E \- From "WALL\-E"/Score](https://open.spotify.com/track/5h8X9sIEMqO6Wi0OHGL01M) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 1:59 | 2024-04-08 | 2024-06-01 |

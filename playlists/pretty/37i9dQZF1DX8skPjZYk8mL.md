@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,163 likes - 363 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,315 likes - 363 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 24 | [Turkey in the Straw](https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Turkey in the Straw](https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT) | 2:20 |
 | 25 | [Blessed Assurance](https://open.spotify.com/track/3teu4DGIFRkjK2bSNTaXdf) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Blessed Assurance](https://open.spotify.com/album/0AOKQEjQn5AV2HzDaQT6ob) | 3:04 |
 | 26 | [Sailing on a Banana](https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Sailing on a Banana](https://open.spotify.com/album/7oLPHrzHYEOVIsp0y0dJO0) | 1:58 |
-| 27 | [Fly Butterfly](https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN) | [Zuriñe Ilaria](https://open.spotify.com/artist/3apw3LIPziUL8PWtHoEibN) | [Fly Butterfly](https://open.spotify.com/album/2yxb5xXzp36cysMStaz045) | 1:48 |
+| 27 | [Fly Butterfly](https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Fly Butterfly](https://open.spotify.com/album/2yxb5xXzp36cysMStaz045) | 1:48 |
 | 28 | [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 |
 | 29 | [Happy Thoughts](https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [Happy Thoughts](https://open.spotify.com/album/0tdtCvjgOZ2H894bsA3V3K) | 1:47 |
 | 30 | [Happy Little Mouse](https://open.spotify.com/track/3CCuGcNhvZPqcFP92PqMnk) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Happy Little Mouse](https://open.spotify.com/album/2esDO1pfuI7jjbO94jJfgt) | 1:34 |

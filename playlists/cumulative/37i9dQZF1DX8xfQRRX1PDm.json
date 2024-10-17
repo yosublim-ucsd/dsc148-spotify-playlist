@@ -877,6 +877,32 @@
     },
     {
       "album": {
+        "name": "Bhool Bhulaiyaa 2",
+        "url": "https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Bhool Bhulaiyaa 2 Title Track",
+      "url": "https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
       },
@@ -896,7 +922,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 211666,
       "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"

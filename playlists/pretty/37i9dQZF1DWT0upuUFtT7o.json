@@ -1,13 +1,45 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover:  Jeff Lamb",
-  "num_followers": 228696,
+  "num_followers": 228862,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwbGEgAAAADpCruZRf9RXNwxxudZt7DY",
+  "snapshot_id": "Zw/59gAAAAAcOJdKKSPI8hg7R8KIAWgi",
   "tracks": [
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "McCartney",
+        "url": "https://open.spotify.com/album/6BrgQY2LMTPBi3zaA6fHBl"
+      },
+      "artists": [
+        {
+          "name": "Million Dollar Weekend",
+          "url": "https://open.spotify.com/artist/4BiR9m24DaTiyFkYZIRmqn"
+        }
+      ],
+      "duration_ms": 211599,
+      "name": "McCartney",
+      "url": "https://open.spotify.com/track/7788CMEYPf1nJL1j3FORvc"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "Matchstick",
+        "url": "https://open.spotify.com/album/7s1BvjgslY5CaFdhAc6pBh"
+      },
+      "artists": [
+        {
+          "name": "Hank Heaven",
+          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
+        }
+      ],
+      "duration_ms": 199231,
+      "name": "Matchstick",
+      "url": "https://open.spotify.com/track/6TPAncYSpDjtG2o5gYV93X"
+    },
     {
       "added_at": "2024-10-09 18:06:10",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 222741,
       "name": "Soft Spoken",
       "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/5ixcx3ff19X650QX4HcGgs"
+      },
+      "artists": [
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        }
+      ],
+      "duration_ms": 191584,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/1N5ThaYWVVdUedgebIHlRG"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "Midnight Cowboyyy",
+        "url": "https://open.spotify.com/album/3akv6OKVwfLOdCN7JJZNvS"
+      },
+      "artists": [
+        {
+          "name": "Eye Candy",
+          "url": "https://open.spotify.com/artist/7zlX5g4FIJ4QSmDGDO4m6m"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Midnight Cowboyyy",
+      "url": "https://open.spotify.com/track/5a9twWvD9wvNuaqFpPkkJA"
     },
     {
       "added_at": "2024-10-09 18:06:10",
@@ -43,6 +107,70 @@
     {
       "added_at": "2024-10-09 18:06:10",
       "album": {
+        "name": "darlin'",
+        "url": "https://open.spotify.com/album/64YrUzg9ccLIHJUj5O1dwP"
+      },
+      "artists": [
+        {
+          "name": "Faerybabyy",
+          "url": "https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id"
+        }
+      ],
+      "duration_ms": 156686,
+      "name": "darlin'",
+      "url": "https://open.spotify.com/track/3Pg1gglZ1wvQgaIpBFm0tl"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "late to the party song",
+        "url": "https://open.spotify.com/album/70WwSYpl56JsZIyj6qUsyd"
+      },
+      "artists": [
+        {
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "late to the party song",
+      "url": "https://open.spotify.com/track/049vTNKKvZpDMlSTUrytdi"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "When You Are Around",
+        "url": "https://open.spotify.com/album/0qWuMRQgeYVPwKA5Q9ekd2"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "duration_ms": 223358,
+      "name": "When You Are Around",
+      "url": "https://open.spotify.com/track/2LJCzwtXOil76NLgJUOkbr"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk"
+      },
+      "artists": [
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic"
+    },
+    {
+      "added_at": "2024-10-09 18:06:10",
+      "album": {
         "name": "small town rodeo",
         "url": "https://open.spotify.com/album/5mIoN9gFgzMj4LdNmdARaz"
       },
@@ -55,6 +183,54 @@
       "duration_ms": 261282,
       "name": "small town rodeo",
       "url": "https://open.spotify.com/track/02C7ei5KXnTXaEWx9HgdvD"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "Breakfast of Champions",
+        "url": "https://open.spotify.com/album/2Y5QyfQw5NTDdPh3i2J9qj"
+      },
+      "artists": [
+        {
+          "name": "Rigby",
+          "url": "https://open.spotify.com/artist/11uVEq37dsx0ZCbwxpu9S3"
+        }
+      ],
+      "duration_ms": 265164,
+      "name": "Breakfast of Champions",
+      "url": "https://open.spotify.com/track/1oKNG7NPo60kYDQ0jEbSBJ"
+    },
+    {
+      "added_at": "2024-10-02 16:06:48",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3NBCNfGHoKhDevoIZDXfWR"
+      },
+      "artists": [
+        {
+          "name": "Half Happy",
+          "url": "https://open.spotify.com/artist/1dwwH3Hj6GgsQnBzyDBuRj"
+        }
+      ],
+      "duration_ms": 279488,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0l2rYmDD0V4ikWaw7N6iim"
+    },
+    {
+      "added_at": "2024-10-09 18:06:10",
+      "album": {
+        "name": "Nothing's TMI",
+        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 92624,
+      "name": "RADIO INTERRUPTIONS ABOUT MY FEELINGS",
+      "url": "https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2"
     },
     {
       "added_at": "2024-10-09 18:06:10",
@@ -73,36 +249,84 @@
       "url": "https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd"
     },
     {
-      "added_at": "2024-10-09 18:06:10",
+      "added_at": "2024-10-16 17:37:58",
       "album": {
-        "name": "darlin'",
-        "url": "https://open.spotify.com/album/64YrUzg9ccLIHJUj5O1dwP"
+        "name": "messy love",
+        "url": "https://open.spotify.com/album/2PbSD2hzkOcoFjwaxnXeQJ"
       },
       "artists": [
         {
-          "name": "Faerybabyy",
-          "url": "https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id"
+          "name": "Little Moon",
+          "url": "https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp"
         }
       ],
-      "duration_ms": 156686,
-      "name": "darlin'",
-      "url": "https://open.spotify.com/track/3Pg1gglZ1wvQgaIpBFm0tl"
+      "duration_ms": 260036,
+      "name": "messy love",
+      "url": "https://open.spotify.com/track/32SSnWpjib63nOwFI2Ze2N"
     },
     {
-      "added_at": "2024-10-09 18:06:10",
+      "added_at": "2024-10-16 17:37:58",
       "album": {
-        "name": "Nothing's TMI",
-        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/0fKpzon7eCAX5S9Ebn1h2G"
       },
       "artists": [
         {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
         }
       ],
-      "duration_ms": 92624,
-      "name": "RADIO INTERRUPTIONS ABOUT MY FEELINGS",
-      "url": "https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2"
+      "duration_ms": 162793,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/0rNPQbISdNPMIu29r3aawf"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "lifetime warranty",
+        "url": "https://open.spotify.com/album/3MzcaJ4tjK0iSai1buQpXm"
+      },
+      "artists": [
+        {
+          "name": "charms",
+          "url": "https://open.spotify.com/artist/6utUCS5N4haWt5uZ7CxQRB"
+        }
+      ],
+      "duration_ms": 212436,
+      "name": "lifetime warranty",
+      "url": "https://open.spotify.com/track/0LKUF6UNgvHLtN6HNy80am"
+    },
+    {
+      "added_at": "2024-10-16 17:37:58",
+      "album": {
+        "name": "Hide In Heaven",
+        "url": "https://open.spotify.com/album/0osWchmwXQGfoPjkX7KXl4"
+      },
+      "artists": [
+        {
+          "name": "Elke",
+          "url": "https://open.spotify.com/artist/5hYrKCvJDo3NMvcGKQQqBM"
+        }
+      ],
+      "duration_ms": 143744,
+      "name": "Hide In Heaven",
+      "url": "https://open.spotify.com/track/4cvU0ueBagf8liqxzr1xu6"
+    },
+    {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "Room to Room",
+        "url": "https://open.spotify.com/album/6zaMmbdESvVuTVlg0EuG0H"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Room to Room",
+      "url": "https://open.spotify.com/track/5hxWDqIcQezyNiX6Udcktr"
     },
     {
       "added_at": "2024-10-09 18:06:10",
@@ -135,22 +359,6 @@
       "duration_ms": 230462,
       "name": "desire machine",
       "url": "https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny"
-    },
-    {
-      "added_at": "2024-10-02 16:06:48",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3NBCNfGHoKhDevoIZDXfWR"
-      },
-      "artists": [
-        {
-          "name": "Half Happy",
-          "url": "https://open.spotify.com/artist/1dwwH3Hj6GgsQnBzyDBuRj"
-        }
-      ],
-      "duration_ms": 279488,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0l2rYmDD0V4ikWaw7N6iim"
     },
     {
       "added_at": "2024-10-09 18:06:10",
@@ -215,22 +423,6 @@
       "duration_ms": 209305,
       "name": "Lovely Girl",
       "url": "https://open.spotify.com/track/15ZgtBWSn0cZRATNvRGv1J"
-    },
-    {
-      "added_at": "2024-09-18 16:00:00",
-      "album": {
-        "name": "Room to Room",
-        "url": "https://open.spotify.com/album/6zaMmbdESvVuTVlg0EuG0H"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Room to Room",
-      "url": "https://open.spotify.com/track/5hxWDqIcQezyNiX6Udcktr"
     },
     {
       "added_at": "2024-10-09 18:06:10",
@@ -1025,102 +1217,6 @@
       "url": "https://open.spotify.com/track/1vyoeLAC8WjuxyADwzUaII"
     },
     {
-      "added_at": "2024-09-18 16:00:00",
-      "album": {
-        "name": "Carlisle",
-        "url": "https://open.spotify.com/album/7GNyPGvYqehiTrL2JkSj3Y"
-      },
-      "artists": [
-        {
-          "name": "Lola Bllue",
-          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
-        }
-      ],
-      "duration_ms": 217435,
-      "name": "Carlisle",
-      "url": "https://open.spotify.com/track/3YGHAaTaG7oipylfmRp1kO"
-    },
-    {
-      "added_at": "2024-09-18 16:00:00",
-      "album": {
-        "name": "girls!",
-        "url": "https://open.spotify.com/album/4a2jwJPrGMhNwhHYmGJj4l"
-      },
-      "artists": [
-        {
-          "name": "Noble Son",
-          "url": "https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8"
-        }
-      ],
-      "duration_ms": 146138,
-      "name": "girls!",
-      "url": "https://open.spotify.com/track/5iCImS1DSymeW9UepheILB"
-    },
-    {
-      "added_at": "2024-09-18 16:00:00",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy"
-      },
-      "artists": [
-        {
-          "name": "Esbie Fonte",
-          "url": "https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY"
-        }
-      ],
-      "duration_ms": 216651,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK"
-    },
-    {
-      "added_at": "2024-09-18 16:00:00",
-      "album": {
-        "name": "The Museum",
-        "url": "https://open.spotify.com/album/4l1cDTdCU6bqdnl2yjWRvG"
-      },
-      "artists": [
-        {
-          "name": "Half Waif",
-          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "The Museum",
-      "url": "https://open.spotify.com/track/2N3nDEuwW4R43y32Gz34cs"
-    },
-    {
-      "added_at": "2024-09-11 16:50:46",
-      "album": {
-        "name": "Cross The Street",
-        "url": "https://open.spotify.com/album/6Dca4zL73vfGNmlVJnMFdH"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 167227,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/2q7ayA58xy4MfsSV1Au7Uw"
-    },
-    {
-      "added_at": "2024-09-11 16:50:46",
-      "album": {
-        "name": "Baggy$$",
-        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/6CWvAjwzYoALz72oDqgdzm"
-    },
-    {
       "added_at": "2024-09-11 16:50:46",
       "album": {
         "name": "Anxious",
@@ -1203,22 +1299,6 @@
     {
       "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Hammer of My Own",
-        "url": "https://open.spotify.com/album/4MLUzOkM3lRsRT2ZVQMCAK"
-      },
-      "artists": [
-        {
-          "name": "Closebye",
-          "url": "https://open.spotify.com/artist/6XZ6Yyn1McxgRoEkKQgpZA"
-        }
-      ],
-      "duration_ms": 287756,
-      "name": "Corridor",
-      "url": "https://open.spotify.com/track/4Dmjnjl6YTmqGgn6yOZB6y"
-    },
-    {
-      "added_at": "2024-08-28 16:00:00",
-      "album": {
         "name": "YOU\u2019LL HAVE TO LOSE SOMETHING",
         "url": "https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM"
       },
@@ -1279,86 +1359,6 @@
       "duration_ms": 161333,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/0e0zblaAIBaDV488LAcJW1"
-    },
-    {
-      "added_at": "2024-09-04 16:00:00",
-      "album": {
-        "name": "Bottle Blonde",
-        "url": "https://open.spotify.com/album/6iV7cJxPKSyVwa1chM61FH"
-      },
-      "artists": [
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        }
-      ],
-      "duration_ms": 171338,
-      "name": "Bottle Blonde",
-      "url": "https://open.spotify.com/track/49k0czI5y5CFTB2P6tcxVS"
-    },
-    {
-      "added_at": "2024-09-07 17:07:59",
-      "album": {
-        "name": "Junebug / HighPraise",
-        "url": "https://open.spotify.com/album/3cNHnziPRxQQy3Aq3ERna6"
-      },
-      "artists": [
-        {
-          "name": "Deloyd Elze",
-          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "HighPraise",
-      "url": "https://open.spotify.com/track/5w7tORHp5YxqhTtWV8UglU"
-    },
-    {
-      "added_at": "2024-09-04 16:00:00",
-      "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/4aG6RLmgBw5ZrE9mGnhvKY"
-      },
-      "artists": [
-        {
-          "name": "Vitesse X",
-          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Careless",
-      "url": "https://open.spotify.com/track/4Wb68w9BbpRSj30PdEMbFv"
-    },
-    {
-      "added_at": "2024-08-28 16:00:00",
-      "album": {
-        "name": "Illuminator",
-        "url": "https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z"
-      },
-      "artists": [
-        {
-          "name": "GIFT",
-          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
-        }
-      ],
-      "duration_ms": 268772,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
-    },
-    {
-      "added_at": "2024-09-04 16:00:00",
-      "album": {
-        "name": "I Think",
-        "url": "https://open.spotify.com/album/0q7pdwbe3U12PtvDY90rEp"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Road",
-          "url": "https://open.spotify.com/artist/6S9cVNSaKsE2rdeVqban5w"
-        }
-      ],
-      "duration_ms": 156625,
-      "name": "I Think",
-      "url": "https://open.spotify.com/track/2VzcKm7LVTkRYVMkQzuDtD"
     },
     {
       "added_at": "2024-09-12 20:57:03",

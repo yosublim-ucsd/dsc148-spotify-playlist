@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92273,
+  "num_followers": 92275,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "When The Time Is Right",
-        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
-      },
-      "artists": [
-        {
-          "name": "Dirty Loops",
-          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
-        }
-      ],
-      "duration_ms": 285842,
-      "name": "When The Time Is Right",
-      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Discomforts",
         "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168497,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "When The Time Is Right",
+        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
+      },
+      "artists": [
+        {
+          "name": "Dirty Loops",
+          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
+        }
+      ],
+      "duration_ms": 285842,
+      "name": "When The Time Is Right",
+      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "No More Blues",
+      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "No More Blues",
-      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Maybe Now",
         "url": "https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Innan tystnaden tar vid",
-        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
-      },
-      "artists": [
-        {
-          "name": "David Ritschard",
-          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
-        }
-      ],
-      "duration_ms": 394696,
-      "name": "Europa",
-      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Vad Dom Sa",
         "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 167225,
       "name": "Vad Dom Sa",
       "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Innan tystnaden tar vid",
+        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
+      },
+      "artists": [
+        {
+          "name": "David Ritschard",
+          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
+        }
+      ],
+      "duration_ms": 394696,
+      "name": "Europa",
+      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
       },
       "artists": [
         {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
         }
       ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
+      "duration_ms": 233030,
+      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1311,6 +1311,22 @@
       "duration_ms": 170453,
       "name": "V\u00e5r v\u00e4nskap best\u00e5r",
       "url": "https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
-        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 233030,
-      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
-      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Din parfym",
-        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
-      },
-      "artists": [
-        {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Din parfym",
-      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Viker inte ner mig \u00e4n",
         "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 227400,
       "name": "Viker inte ner mig \u00e4n",
       "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Din parfym",
+        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Din parfym",
+      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
-      },
-      "artists": [
-        {
-          "name": "Andreas Moe",
-          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
-        }
-      ],
-      "duration_ms": 210568,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Wasting Years",
         "url": "https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 225976,
       "name": "Wasting Years",
       "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
+      },
+      "artists": [
+        {
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
+        }
+      ],
+      "duration_ms": 210568,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
     },
     {
       "added_at": "2024-10-10 22:00:00",

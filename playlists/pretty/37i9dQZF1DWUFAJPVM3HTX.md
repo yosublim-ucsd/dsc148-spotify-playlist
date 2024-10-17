@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3psi=rrKVOvJyTmayxgah2I2jgg">Rowena Fysx</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,308 likes - 264 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,460 likes - 264 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 70 | [R&B](https://open.spotify.com/track/73v2KnGBqNkbq7PfQDxITP) | [StickGonBang](https://open.spotify.com/artist/7fObxUTke2VNBvywOi0Fln), [Adrian Chafer](https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [R&B](https://open.spotify.com/album/7s84eY6NjedI1Dv2t5cMr5) | 3:09 |
 | 71 | [Beautiful Morning](https://open.spotify.com/track/5kaiUDu5amIxPlXWaOevmB) | [Cynáa\-Nicole](https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c), [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [Beautiful Morning](https://open.spotify.com/album/6qu03Yi7jca2n6rklGToi2) | 3:46 |
 | 72 | [Dangeroüs \- PT 2](https://open.spotify.com/track/7jisHxUDfFwSd9fBpvGswV) | [ArjaySoul](https://open.spotify.com/artist/5GfiHmvSoEVis9Th2n4YSA) | [Dangeroüs \- PT 2](https://open.spotify.com/album/2ieCR3Jk2UAPNZnMilWaJV) | 3:03 |
-| 73 | [Don't Wake Up](https://open.spotify.com/track/5a3xcK4TZScEzOUTXsCkLg) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Don't Wake Up](https://open.spotify.com/album/7wZfH3hDeQgXHEZ3JOUQnS) | 3:07 |
+| 73 | [DON'T WAKE UP](https://open.spotify.com/track/5a3xcK4TZScEzOUTXsCkLg) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [DON'T WAKE UP](https://open.spotify.com/album/7wZfH3hDeQgXHEZ3JOUQnS) | 3:07 |
 | 74 | [By My Side](https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa) | 2:47 |
 | 75 | [I'd Love To See You Again](https://open.spotify.com/track/30yHq5FDnjU9n3VJSEWbQZ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Feel The Past, See The Future](https://open.spotify.com/album/0unRr1h0fwmJYAQ7CCs5Ix) | 4:05 |
 | 76 | [see me](https://open.spotify.com/track/5z4eldlpwKeCwTJAmdR032) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [see me](https://open.spotify.com/album/78F15AwQtsZZfR47UvGSjC) | 2:40 |

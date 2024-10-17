@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542438,
+  "num_followers": 542480,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "To the Center",
-        "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
-      },
-      "artists": [
-        {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
-        }
-      ],
-      "duration_ms": 391160,
-      "name": "To the Center",
-      "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "To the Center",
+        "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "duration_ms": 391160,
+      "name": "To the Center",
+      "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 293239,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Call of the Void",
         "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 173808,
       "name": "All My Friends Move Like The Night",
       "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 293239,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Jim's Whiskers",
         "url": "https://open.spotify.com/album/5a8f0Sc9PktiUNmsRNjnj4"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/4IhSrCg1QzLtYiu3B50WOQ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Ilion",
-        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
     }
   ],
   "unique_name": "Stoner Rock",

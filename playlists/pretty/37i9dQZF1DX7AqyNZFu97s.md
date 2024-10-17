@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Cairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,947 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,015 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 45 | [ANOTHER DOMESTIC](https://open.spotify.com/track/34bpAWuXq9b0Fz5j0eyc6K) | [BLACK FONDU](https://open.spotify.com/artist/5WunDwdY4e0nWZXHOeFLF1) | [ANOTHER DOMESTIC / SB 1 3](https://open.spotify.com/album/7bhr4VWkAJjrbVAM0CBrhF) | 3:32 |
 | 46 | [The Other Side of Falling](https://open.spotify.com/track/1Fjgkrf83KjXwgaHZdkIS0) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [The Other Side of Falling](https://open.spotify.com/album/3e31HZk9Dg7nwQfL6CArPl) | 3:59 |
 | 47 | [Options](https://open.spotify.com/track/1ZWBlhBmJqgLLMDIT31vdV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U) | [Options](https://open.spotify.com/album/3fVaM3KjD3OasMuqIaWhsQ) | 2:41 |
-| 48 | [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [Wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 |
+| 48 | [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 |
 | 49 | [I've Got Feelings](https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [I've Got Feelings](https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1) | 4:01 |
 | 50 | [Why Do I Need You, Man?](https://open.spotify.com/track/0zq05ih1zzBhCrk4I69Aov) | [Ormella](https://open.spotify.com/artist/2mYmU4GJqsQTQiOXoA7qDD) | [Why Do I Need You, Man?](https://open.spotify.com/album/0kKBtbiXmkzWp13W5dPySx) | 4:07 |
 | 51 | [Make Me Wanna](https://open.spotify.com/track/0aZ5opxKIfm5Bla3fXFk4r) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Make Me Wanna](https://open.spotify.com/album/5z9xH56LtFWaa6R6TrgDWi) | 3:56 |

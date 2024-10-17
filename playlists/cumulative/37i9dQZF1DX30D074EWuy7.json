@@ -6037,6 +6037,24 @@
     },
     {
       "album": {
+        "name": "Drifting in a room full of mirrors",
+        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
+      },
+      "artists": [
+        {
+          "name": "Egidio Marchitelli",
+          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274887,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
+    },
+    {
+      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -6180,7 +6198,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 388693,
       "name": "Lucignolo",
       "url": "https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9"

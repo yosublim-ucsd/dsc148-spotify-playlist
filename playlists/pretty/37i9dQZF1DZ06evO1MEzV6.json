@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 92376,
+  "num_followers": 92443,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAABzCjGwAhj2ltve28DsqYgZ",
+  "snapshot_id": "Zw2wgAAAAAAoX1xf+dcvHg+K8TikVZmH",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 152649,
-      "name": "Charlie Brown",
-      "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV"
+      "duration_ms": 214128,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Extended Play",
-        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 214128,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb"
+      "duration_ms": 152649,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 239975,
       "name": "Ceilings",
       "url": "https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0QSPFCvGJlu0xR51gXG70M"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0QSPFCvGJlu0xR51gXG70M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loveworm",
         "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 193253,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
     },
     {
       "added_at": null,
@@ -699,8 +683,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lice",
-        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
       "artists": [
         {
@@ -708,9 +712,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 205176,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
     },
     {
       "added_at": null,
@@ -731,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 205176,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake It Flowers",
         "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 260024,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Silver Into Rain",
-      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
     },
     {
       "added_at": null,

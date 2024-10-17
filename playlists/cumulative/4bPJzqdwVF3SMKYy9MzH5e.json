@@ -18067,6 +18067,24 @@
     },
     {
       "album": {
+        "name": "Just Your Doll",
+        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+    },
+    {
+      "album": {
         "name": "Sorry, Mom",
         "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
       },

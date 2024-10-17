@@ -1,13 +1,45 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Caroline Says",
-  "num_followers": 79290,
+  "num_followers": 79404,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwaogAAAAAC6CEInAHBKHKxtDLAhwy1Q",
+  "snapshot_id": "Zw/5qwAAAAAObkXGSMLXs+Qeb72EZnh/",
   "tracks": [
+    {
+      "added_at": "2024-10-16 17:36:42",
+      "album": {
+        "name": "What Did I Think Would Happen",
+        "url": "https://open.spotify.com/album/79mrh6USdtYLG3yUm366JS"
+      },
+      "artists": [
+        {
+          "name": "Arliston",
+          "url": "https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh"
+        }
+      ],
+      "duration_ms": 202161,
+      "name": "What Did I Think Would Happen",
+      "url": "https://open.spotify.com/track/4VoefRatVX2l8jwha2eVHz"
+    },
+    {
+      "added_at": "2024-10-16 17:36:42",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2gD2lXpLSWG9L6AxyBdjRm"
+      },
+      "artists": [
+        {
+          "name": "Lost Mary",
+          "url": "https://open.spotify.com/artist/16WgLtGDVL7lWQBo9esyKO"
+        }
+      ],
+      "duration_ms": 195620,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6Jd9yjrgPlQBPH2rAKjav6"
+    },
     {
       "added_at": "2024-10-09 16:00:00",
       "album": {
@@ -41,6 +73,38 @@
       "url": "https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS"
     },
     {
+      "added_at": "2024-10-16 17:36:42",
+      "album": {
+        "name": "i pray to god i die every night",
+        "url": "https://open.spotify.com/album/73eHKnORDyp0P7ZaAYBssZ"
+      },
+      "artists": [
+        {
+          "name": "Gloom East",
+          "url": "https://open.spotify.com/artist/08uFeaJXuBJKkPXuWleYY5"
+        }
+      ],
+      "duration_ms": 176651,
+      "name": "i pray to god i die every night",
+      "url": "https://open.spotify.com/track/5flaWmXBDGnRholwnGRKLD"
+    },
+    {
+      "added_at": "2024-10-16 17:36:42",
+      "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/4MjA3Yzyelz7KTaTPkTEp2"
+      },
+      "artists": [
+        {
+          "name": "Genna Matthew",
+          "url": "https://open.spotify.com/artist/2uXcdOHR9FrOl74Nogujyz"
+        }
+      ],
+      "duration_ms": 235634,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/43drZKxImBm5uirGZkLLX7"
+    },
+    {
       "added_at": "2024-10-09 16:00:00",
       "album": {
         "name": "Runway",
@@ -55,6 +119,22 @@
       "duration_ms": 205024,
       "name": "Runway",
       "url": "https://open.spotify.com/track/5kqMI0NlneZOjeN3RluxGK"
+    },
+    {
+      "added_at": "2024-10-16 17:36:42",
+      "album": {
+        "name": "CryBaby",
+        "url": "https://open.spotify.com/album/0WI50XREkfV4BcD8nVXRVn"
+      },
+      "artists": [
+        {
+          "name": "Ariella",
+          "url": "https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81"
+        }
+      ],
+      "duration_ms": 144992,
+      "name": "Idea",
+      "url": "https://open.spotify.com/track/3NPcpTc5DpOE9Oi91XW6Hm"
     },
     {
       "added_at": "2024-10-09 16:00:00",
@@ -87,6 +167,22 @@
       "duration_ms": 137671,
       "name": "Bend Down",
       "url": "https://open.spotify.com/track/7ddXxsXyCHB3oy5WeTXC8s"
+    },
+    {
+      "added_at": "2024-10-16 17:36:42",
+      "album": {
+        "name": "how come everything comes back to you?",
+        "url": "https://open.spotify.com/album/25N1WdpJB8Gpf6p2qsrJ3q"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 161995,
+      "name": "Swinging",
+      "url": "https://open.spotify.com/track/7AtflqazuSRb7XnXmuek5q"
     },
     {
       "added_at": "2024-10-09 16:00:00",
@@ -1135,134 +1231,6 @@
       "duration_ms": 199159,
       "name": "Drunk Again",
       "url": "https://open.spotify.com/track/1X5neZzSKeILZSfrfDnwSl"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Horse's Mouth",
-        "url": "https://open.spotify.com/album/4iEZI7TOmPF7Qppstas5kN"
-      },
-      "artists": [
-        {
-          "name": "ladylike",
-          "url": "https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9"
-        }
-      ],
-      "duration_ms": 255220,
-      "name": "Horse's Mouth",
-      "url": "https://open.spotify.com/track/5q7LiPO8nD3YOYlpoYq5yD"
-    },
-    {
-      "added_at": "2024-08-01 22:24:03",
-      "album": {
-        "name": "Born",
-        "url": "https://open.spotify.com/album/3Sn9KneXH0AXOJJUghcsZY"
-      },
-      "artists": [
-        {
-          "name": "Noum",
-          "url": "https://open.spotify.com/artist/28j3pb4XKdlLKDAmzlSQ3u"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Born",
-      "url": "https://open.spotify.com/track/7HSc82EnQsKm6xM654eQri"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Where Is the Love?",
-        "url": "https://open.spotify.com/album/6jx756EJF5ESRvtpBiuiYk"
-      },
-      "artists": [
-        {
-          "name": "Jake Laiks",
-          "url": "https://open.spotify.com/artist/1521paR3vRN6hhJatqvRpK"
-        }
-      ],
-      "duration_ms": 285750,
-      "name": "Where Is the Love?",
-      "url": "https://open.spotify.com/track/099Aoi4Sj9A38nJjpY0J4G"
-    },
-    {
-      "added_at": "2024-08-07 16:00:00",
-      "album": {
-        "name": "Rivers Don't Speak",
-        "url": "https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "Rivers Don't Speak",
-      "url": "https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Not What I Thought",
-        "url": "https://open.spotify.com/album/1rQgEO2Aq7ob4waylnTHLa"
-      },
-      "artists": [
-        {
-          "name": "Katy Pinke",
-          "url": "https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "Not What I Thought",
-      "url": "https://open.spotify.com/track/7aq8ecjw6QGRd6sMdDTSfN"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Can I Freak Out in the Honda",
-        "url": "https://open.spotify.com/album/4oYcKoK2uEh4ezx3Ck1jW7"
-      },
-      "artists": [
-        {
-          "name": "Cayden Wemple",
-          "url": "https://open.spotify.com/artist/0hzr8TCwUaFkbq03iJ7W0q"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Can I Freak Out in the Honda",
-      "url": "https://open.spotify.com/track/2Ppigkqf43t6RU3EpSSshb"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Television",
-        "url": "https://open.spotify.com/album/2ZDYd4EXIdsFEy6gxR2ked"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/0VeDmQvivAadp6TiI4vrda"
-        }
-      ],
-      "duration_ms": 197700,
-      "name": "Television",
-      "url": "https://open.spotify.com/track/4H2lnHcTRBLvBCrqJtrwq1"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/5lljRxy7hHRhUzXOSoNU29"
-      },
-      "artists": [
-        {
-          "name": "Holly Arrowsmith",
-          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Swan Dive",
-      "url": "https://open.spotify.com/track/19N1T1fY79pLLAihd0o8gB"
     },
     {
       "added_at": "2024-07-25 18:24:41",

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
-  "num_followers": 173949,
+  "num_followers": 174005,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,26 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
+        "name": "Teu Sinal",
+        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
       "artists": [
         {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+          "name": "Nathy Veras",
+          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
         }
       ],
-      "duration_ms": 155192,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
+      "duration_ms": 189230,
+      "name": "Teu Sinal",
+      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -503,6 +511,22 @@
       "duration_ms": 239093,
       "name": "Talvez Seja Melhor Assim",
       "url": "https://open.spotify.com/track/6bccxkxi3bsbNxtDdd6Vbn"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -607,30 +631,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Teu Sinal",
-        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
-      },
-      "artists": [
-        {
-          "name": "Nathy Veras",
-          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Bubblegun Studios",
-          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Teu Sinal",
-      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -743,6 +727,22 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
       "artists": [
         {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 181514,
       "name": "Daqui pra Frente - Dread Session, Vol. 1",
       "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -955,22 +955,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+        "name": "Real (Citando Djonga)",
+        "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
       "artists": [
         {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT"
         },
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "name": "MofoRec",
+          "url": "https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn"
         }
       ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+      "duration_ms": 205480,
+      "name": "Real (Citando Djonga)",
+      "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -995,22 +995,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Real (Citando Djonga)",
-        "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
       },
       "artists": [
         {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT"
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
         },
         {
-          "name": "MofoRec",
-          "url": "https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Real (Citando Djonga)",
-      "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
+        "name": "Viu!?",
+        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
+      },
+      "artists": [
+        {
+          "name": "Cyro Sampaio",
+          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
+        }
+      ],
+      "duration_ms": 185499,
+      "name": "Viu!?",
+      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
         "name": "A\u00e7a\u00ed e Amendo\u00edm",
         "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 193414,
       "name": "A\u00e7a\u00ed e Amendo\u00edm",
       "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "Viu!?",
-        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
-      },
-      "artists": [
-        {
-          "name": "Cyro Sampaio",
-          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
-        }
-      ],
-      "duration_ms": 185499,
-      "name": "Viu!?",
-      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
     },
     {
       "added_at": "2024-10-11 21:14:13",

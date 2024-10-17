@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 > The best of 2000s Y2K nostalgia, from \*NSYNC's &quot;Bye Bye Bye&quot; \(from Deadpool and Wolverine\), to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,574,019 likes - 150 songs - 9 hr 53 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,574,422 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

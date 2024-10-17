@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,539 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,610 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 11 | [SHELLAC \- Edit](https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [SHELLAC](https://open.spotify.com/album/3A0NU3KoG0k9U36b4S7e9b) | 3:51 |
 | 12 | [Acuyuye](https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Diva Cruz](https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6) | [Brujas EP](https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9) | 4:29 |
 | 13 | [Ice Cream Dream Boy \- K\-Lone Creamix](https://open.spotify.com/track/1RGM3UigOqklZVItrTTmy6) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Ice Cream Dream Boy \(K\-Lone Creamix\)](https://open.spotify.com/album/2Lu1ysO98cabT3ahUBfT5K) | 3:20 |
-| 14 | [Pressure Cumbia](https://open.spotify.com/track/7lJpSczDgU2YDxyNmZsMRp) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Alan Vega](https://open.spotify.com/artist/2jlt5Z6VojDVMzSj1JHkcd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure Cumbia](https://open.spotify.com/album/76dFWMX8K86rxpd5usNihV) | 2:33 |
+| 14 | [Pressure Cumbia](https://open.spotify.com/track/7lJpSczDgU2YDxyNmZsMRp) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Alan Vega](https://open.spotify.com/artist/6sxz0MzUrbu527Ww2f3nm7), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure Cumbia](https://open.spotify.com/album/76dFWMX8K86rxpd5usNihV) | 2:33 |
 | 15 | [Buss It](https://open.spotify.com/track/7dRIxMRZny4mq7gQ3JtPdD) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Papa Nugs](https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP) | [PAPADHD](https://open.spotify.com/album/3xSTiWi5vmorI5pNS3HhJ5) | 4:48 |
 | 16 | [TRACK 5](https://open.spotify.com/track/2s8KQ2Z0ybztYbWaruoClN) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV), [Regal86](https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613) | [THE TRAX](https://open.spotify.com/album/108rUw41D3uYSnuAIlnebh) | 4:54 |
 | 17 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 |

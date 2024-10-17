@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Charli xcx ft\. Ariana Grande \(pictured\), Nao, Odeal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,048 likes - 121 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,087 likes - 121 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

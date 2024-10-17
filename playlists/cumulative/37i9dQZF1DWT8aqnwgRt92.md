@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,613 songs - 4 day 4 hr 46 min
+1,614 songs - 4 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [ある呪文](https://open.spotify.com/track/2V7O1PRmvosh5diyVXeYBY) | [織重 夕](https://open.spotify.com/artist/0KvyTAf3LiFMWOxA4FctDD), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ある呪文](https://open.spotify.com/album/4r9Z5Eo8bSezHxSDFzfJhJ) | 3:09 | 2024-04-26 | 2024-05-10 |
 | [あれが恋だったのかな](https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [あれが恋だったのかな](https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3) | 2:32 | 2024-07-16 | 2024-10-04 |
 | [あれこれドラスティック](https://open.spotify.com/track/3U25NvHuSKwNATFwDbkR4R) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2), [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [あれこれドラスティック](https://open.spotify.com/album/0ZNKgst0nutjnhEBAwnYvk) | 3:45 | 2022-07-05 | 2022-08-17 |
+| [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 | 2024-10-16 |  |
 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-01-07 | 2024-04-11 |
 | [あーーっす！](https://open.spotify.com/track/2SoYeeAnVkdVMiz4ejCoS3) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1gb0w4HxHKY9iHQ4JmuiUg) | 3:18 | 2024-04-10 | 2024-08-23 |
 | [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 | 2022-10-13 | 2023-01-06 |

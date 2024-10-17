@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372299,
+  "num_followers": 372336,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,26 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Raio X - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -543,6 +547,26 @@
       "duration_ms": 212608,
       "name": "O Triste \u00c9 Que Eu Te Amo",
       "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Raio X - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -607,30 +631,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 216612,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "Me Deixa Viver",
         "url": "https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194722,
       "name": "Me Deixa Viver",
       "url": "https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 216612,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+        "name": "SE EU FOSSE UMA GAROTA BRANCA",
+        "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
         }
       ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+      "duration_ms": 161666,
+      "name": "SE EU FOSSE UMA GAROTA BRANCA",
+      "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1135,18 +1131,38 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "SE EU FOSSE UMA GAROTA BRANCA",
-        "url": "https://open.spotify.com/album/37ZRSsLiy3YUa4OuerQnU9"
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
       "artists": [
         {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 161666,
-      "name": "SE EU FOSSE UMA GAROTA BRANCA",
-      "url": "https://open.spotify.com/track/3VyNCR9uoIZdEsDsRATCtA"
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1171,22 +1187,6 @@
       "duration_ms": 257216,
       "name": "Brigas Demais - Live",
       "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
+        "name": "Love Songs, Vol. I",
+        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "BRUN\u00ca",
+          "url": "https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf"
+        },
+        {
+          "name": "DeVito Cxrleone",
+          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "me chama de sua",
+      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
         "name": "Vibezinha",
         "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 175000,
       "name": "Me Diz Quando A Gente Vai Se Ver",
       "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
-        "name": "Love Songs, Vol. I",
-        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "BRUN\u00ca",
-          "url": "https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf"
-        },
-        {
-          "name": "DeVito Cxrleone",
-          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "me chama de sua",
-      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
-        "name": "Sussurro",
-        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sussurro",
-      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/1k5iPfx1mPBQP0L2ZAxRZh"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 198655,
       "name": "Santa",
       "url": "https://open.spotify.com/track/7mhvOdceNR4ntJ5dAzVaFu"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
+        "name": "Sussurro",
+        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sussurro",
+      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
     },
     {
       "added_at": "2024-10-11 19:07:06",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2024-10-11 19:07:06",
       "album": {
+        "name": "Boy Lixo",
+        "url": "https://open.spotify.com/album/6e47i56AypS3Fx0NI2aa1S"
+      },
+      "artists": [
+        {
+          "name": "Jesuton",
+          "url": "https://open.spotify.com/artist/1alfRjiBAq9tRUhtPwOibq"
+        },
+        {
+          "name": "Trevo",
+          "url": "https://open.spotify.com/artist/5AI8TPsTUYuOq6EnuI6ygN"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "Boy Lixo",
+      "url": "https://open.spotify.com/track/17x9gUciaxWjvR4SVKB1PK"
+    },
+    {
+      "added_at": "2024-10-11 19:07:06",
+      "album": {
         "name": "Noites de Papel",
         "url": "https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 256008,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/1aWTQbZed8uGndsEtFNN5e"
-    },
-    {
-      "added_at": "2024-10-11 19:07:06",
-      "album": {
-        "name": "Boy Lixo",
-        "url": "https://open.spotify.com/album/6e47i56AypS3Fx0NI2aa1S"
-      },
-      "artists": [
-        {
-          "name": "Jesuton",
-          "url": "https://open.spotify.com/artist/1alfRjiBAq9tRUhtPwOibq"
-        },
-        {
-          "name": "Trevo",
-          "url": "https://open.spotify.com/artist/5AI8TPsTUYuOq6EnuI6ygN"
-        }
-      ],
-      "duration_ms": 184942,
-      "name": "Boy Lixo",
-      "url": "https://open.spotify.com/track/17x9gUciaxWjvR4SVKB1PK"
     },
     {
       "added_at": "2024-10-11 19:07:06",

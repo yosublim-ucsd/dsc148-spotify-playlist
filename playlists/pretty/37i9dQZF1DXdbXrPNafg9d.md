@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,299 likes - 174 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,375 likes - 174 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

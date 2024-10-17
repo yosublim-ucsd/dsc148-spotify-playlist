@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 120000,
       "name": "After The Light",
       "url": "https://open.spotify.com/track/4PGIQeUOETbabp6YJK6X6F"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 157194,
       "name": "Back to Earth",
       "url": "https://open.spotify.com/track/24G1fL8yD92J3OXs9lkCpS"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 94500,
       "name": "Black Dolphin",
       "url": "https://open.spotify.com/track/2iRKGhi0dbvbRGdNgXDWbw"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 139538,
       "name": "City Cowboy",
       "url": "https://open.spotify.com/track/4db1sFeaFrSCtPYzKtwabD"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 135200,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4ul0cUhwgISLz2ktt0ydZ3"
@@ -5516,7 +5516,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 132937,
       "name": "Dusty Dumplin' Groove",
       "url": "https://open.spotify.com/track/3970iLcSEQMKqRq6VGZNjn"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 144230,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ"
@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Fat Cap",
       "url": "https://open.spotify.com/track/3nBvqYMvBUn00wIPnn28Yu"
@@ -8384,7 +8384,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 118250,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW"
@@ -9210,7 +9210,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 149500,
       "name": "In Komplete Kontrol",
       "url": "https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5"
@@ -9728,7 +9728,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 104259,
       "name": "it_s less dangerous",
       "url": "https://open.spotify.com/track/0mAlO6oD3KSyJwOQoD11qx"
@@ -12218,7 +12218,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 119812,
       "name": "Mellow Moods",
       "url": "https://open.spotify.com/track/1yRN8ZelpRKfhTzzNuandF"
@@ -14006,7 +14006,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 161000,
       "name": "Nightfade",
       "url": "https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6"
@@ -15290,7 +15290,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "perplexia",
       "url": "https://open.spotify.com/track/1x6yrGyjY4he3dcNbiaAwL"
@@ -16036,6 +16036,24 @@
       "duration_ms": 135000,
       "name": "random thoughts",
       "url": "https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC"
+    },
+    {
+      "album": {
+        "name": "raphael",
+        "url": "https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA"
+      },
+      "artists": [
+        {
+          "name": "v\u00e4dur",
+          "url": "https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154596,
+      "name": "raphael",
+      "url": "https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT"
     },
     {
       "album": {
@@ -19432,7 +19450,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 132053,
       "name": "Swim",
       "url": "https://open.spotify.com/track/6SQPIwxN4vzoQZNs3IIphy"
@@ -22072,7 +22090,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 151111,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
@@ -22448,7 +22466,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 194940,
       "name": "winter sky",
       "url": "https://open.spotify.com/track/2iONNM9jRNfxCDckFyJrsO"

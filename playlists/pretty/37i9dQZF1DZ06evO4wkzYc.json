@@ -1,12 +1,12 @@
 {
-  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 136538,
+  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
+  "num_followers": 136696,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAABsqNF/RMuUmCUp2SN623rY",
+  "snapshot_id": "Zw2wgAAAAABPUN09UgxvSWeFumLHcLkx",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 285093,
       "name": "Todo Cambio",
       "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pareja Ideal - Live",
+        "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "La Pareja Ideal - Live",
+      "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chico (En Vivo)",
         "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
       },
@@ -487,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pareja Ideal - Live",
-        "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
+        "name": "No Me Quiero Enamorar",
+        "url": "https://open.spotify.com/album/05MOmiCmOiE1pmkUGdrMZE"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 249088,
-      "name": "La Pareja Ideal - Live",
-      "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
+      "duration_ms": 159929,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/738iesV0OE6jDUGr1f8YZE"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Me Quiero Enamorar",
-        "url": "https://open.spotify.com/album/05MOmiCmOiE1pmkUGdrMZE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/738iesV0OE6jDUGr1f8YZE"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 265899,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
+      "duration_ms": 232031,
+      "name": "Me Vuelve Loco",
+      "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 232031,
-      "name": "Me Vuelve Loco",
-      "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
     },
     {
       "added_at": null,

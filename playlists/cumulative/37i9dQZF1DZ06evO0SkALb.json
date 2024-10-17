@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
+  "description": "This Is Lou Rawls. Los temas esenciales, todos en una lista.",
   "name": "This Is Lou Rawls",
   "tracks": [
     {
@@ -336,6 +336,28 @@
       "duration_ms": 178626,
       "name": "Bring It On Home - Digitally Remastered 00",
       "url": "https://open.spotify.com/track/7lemF5PY2O8aGkhHUyz2Bp"
+    },
+    {
+      "album": {
+        "name": "Soul Essentials : Chill With the Legendary Voices of Soul Music",
+        "url": "https://open.spotify.com/album/23iBYPGtHd3UfoQk0gezvc"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161731,
+      "name": "Bring It on Home to Me",
+      "url": "https://open.spotify.com/track/4Sm5eJvZDJjBCdLpmzkUYq"
     },
     {
       "album": {
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 267333,
       "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
       "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"

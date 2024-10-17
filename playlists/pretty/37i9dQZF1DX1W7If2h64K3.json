@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 50662,
+  "num_followers": 50681,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
+        "name": "Robert Schumann: Zart und mit Ausdruck (from Fantasiest\u00fccke Op. 73)",
+        "url": "https://open.spotify.com/album/0ZZrIPEcOXSDgQ84RjJewG"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian-Pierre La Marca",
+          "url": "https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j"
+        },
+        {
+          "name": "Jean-Fr\u00e9d\u00e9ric Neuburger",
+          "url": "https://open.spotify.com/artist/6jsH3z7JbQRNQjjmTcy7Wy"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Fantasiest\u00fccke",
+      "url": "https://open.spotify.com/track/2nmrVF0Wuytjbum7IhDCvV"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
         "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
         "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 709466,
       "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
       "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
-        "name": "Robert Schumann: Zart und mit Ausdruck (from Fantasiest\u00fccke Op. 73)",
-        "url": "https://open.spotify.com/album/0ZZrIPEcOXSDgQ84RjJewG"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian-Pierre La Marca",
-          "url": "https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j"
-        },
-        {
-          "name": "Jean-Fr\u00e9d\u00e9ric Neuburger",
-          "url": "https://open.spotify.com/artist/6jsH3z7JbQRNQjjmTcy7Wy"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Fantasiest\u00fccke",
-      "url": "https://open.spotify.com/track/2nmrVF0Wuytjbum7IhDCvV"
     },
     {
       "added_at": "2024-10-15 15:27:46",

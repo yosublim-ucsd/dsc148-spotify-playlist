@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,976 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,996 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 50 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 |
 | 51 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 |
 | 52 | [Purity](https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Purity](https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B) | 4:05 |
-| 53 | [room with nobody](https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J) | 2:52 |
+| 53 | [room with nobody \(feat\. Takahiro Kido & Yuki Murata\)](https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J) | 2:52 |
 | 54 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 |
 | 55 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 |
 | 56 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 |

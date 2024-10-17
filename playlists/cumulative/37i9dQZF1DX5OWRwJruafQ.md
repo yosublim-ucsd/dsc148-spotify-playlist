@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-502 songs - 23 hr 58 min
+503 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Old Sinner](https://open.spotify.com/track/6TDstCmfJF2ajZIPrtE0Lc) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Old Sinner](https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT) | 2:50 | 2024-06-28 | 2024-07-09 |
 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 | 2024-06-10 |  |
 | [One of One](https://open.spotify.com/track/7HA6dcnMqMt9Th55jeo8EA) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 3:12 | 2024-05-09 |  |
+| [Pagg \(From "Apne Ghar Begane"\)](https://open.spotify.com/track/7h8Ml9o4YKVYCEktTh74Pi) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gurjeet Khosa](https://open.spotify.com/artist/1XcpWM2VMeXK8PqsUBkhCp) | [Pagg \(From The Movie "Apne Ghar Begane"\)](https://open.spotify.com/album/5ZeOet9rqkSwMaHOKm11Bn) | 2:41 | 2024-10-16 |  |
 | [Paggan Tedian](https://open.spotify.com/track/0cXqks1tHUuyKNixfXUT8T) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Paggan Tedian](https://open.spotify.com/album/2sgi0bfdSTCC9A1vbsr45D) | 3:02 | 2024-08-19 |  |
 | [Pakke Yaar](https://open.spotify.com/track/1Ia9jiEAJcdAqTXBnCyeB3) | [Sukh Sidhu](https://open.spotify.com/artist/3g4GfgwWnsUUutc7vcHG6H), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Pakke Yaar](https://open.spotify.com/album/75jpMbSEXL84IfGYBNTJ9e) | 2:15 | 2024-08-13 |  |
 | [Panj Satt](https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Panj Satt](https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau) | 3:09 | 2023-09-26 | 2024-08-15 |

@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Mr. Brightside [From \"Tell Me Lies (Season 2)\"]",
+        "url": "https://open.spotify.com/album/5umPVgE48qrzCaNNyFs0WD"
+      },
+      "artists": [
+        {
+          "name": "Tell Me Lies \u2013 Cast",
+          "url": "https://open.spotify.com/artist/1yNSl6gNtJuvKoYx3AHBVC"
+        },
+        {
+          "name": "Cat Missal",
+          "url": "https://open.spotify.com/artist/29XuVn8LxtJPjHOFZm3QiY"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247945,
+      "name": "Mr. Brightside - From \"Tell Me Lies (Season 2)\"",
+      "url": "https://open.spotify.com/track/0BKpJxv5C1L0JINPG60bwE"
+    },
+    {
+      "album": {
         "name": "The Greatest Hits (Original Soundtrack)",
         "url": "https://open.spotify.com/album/47Lzhr5elVXSdAdsFnQUA7"
       },

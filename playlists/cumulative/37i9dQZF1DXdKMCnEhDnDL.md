@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Hannah Mae & MAKSIM
+> De beste Nederlandse liedjes\. Cover: Hannah Mae
 
-285 songs - 14 hr 49 min
+287 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 | 2024-02-07 |  |
 | [Draaien](https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Draaien](https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp) | 3:25 | 2023-11-10 | 2024-03-20 |
 | [Duurt Te Lang](https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Duurt Te Lang \(Beste Zangers Seizoen 2018\)](https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB) | 2:33 | 2023-02-24 | 2024-04-17 |
-| [Echte Mannen](https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Echte Mannen](https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA) | 2:31 | 2023-02-24 |  |
+| [Echte Mannen](https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Echte Mannen](https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA) | 2:31 | 2023-02-24 | 2024-10-17 |
 | [Een Beatle & Een Stone](https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Achtentwintig \(Deluxe\)](https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq) | 3:10 | 2024-05-23 |  |
 | [Eenzame Nacht](https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Eenzame Nacht](https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb) | 2:40 | 2023-02-24 | 2023-11-11 |
 | [Eigen Weg](https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Eigen Weg](https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3) | 3:06 | 2023-09-01 | 2024-02-14 |
@@ -96,7 +96,7 @@
 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 | 2024-02-13 | 2024-09-13 |
 | [Gloeien](https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Gloeien](https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y) | 3:58 | 2024-06-27 | 2024-10-11 |
 | [Goed Nieuws](https://open.spotify.com/track/1vgmxBkeohK0MZs2nZjuOy) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Moderne Manieren](https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB) | 3:43 | 2023-08-29 | 2023-10-06 |
-| [Good To You](https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Good To You](https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg) | 3:44 | 2024-07-25 |  |
+| [Good To You](https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Good To You](https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg) | 3:44 | 2024-07-25 | 2024-10-17 |
 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 | 2023-02-24 |  |
 | [Grijs](https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Grijs](https://open.spotify.com/album/5WIkuPDQFlfpV9l0tLNm70) | 3:00 | 2023-02-24 | 2024-03-20 |
 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 | 2023-02-24 |  |
@@ -164,6 +164,7 @@
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-04-16 | 2024-05-24 |
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2024-02-13 | 2024-04-17 |
 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 | 2024-01-11 | 2024-09-27 |
+| [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2024-10-16 |  |
 | [Mijn Kleine Presidentje](https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Mijn Kleine Presidentje](https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh) | 3:22 | 2023-02-24 | 2023-09-02 |
 | [Miracles](https://open.spotify.com/track/0kVdeFsVblCJp4zDyf57EG) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2HNZaVBtwAnZvKPWbl7fDQ) | 3:22 | 2024-04-16 |  |
 | [Miracles](https://open.spotify.com/track/17z2zDW0VTRHODWT1kteTI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:22 | 2024-04-03 | 2024-04-19 |
@@ -274,6 +275,7 @@
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-24 | 2023-12-11 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-20 | 2024-10-10 |
 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 | 2023-10-05 | 2024-02-14 |
+| [Wie is zij](https://open.spotify.com/track/4QGNI39NNs5gvny7UYyuas) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 2:56 | 2024-10-16 |  |
 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 | 2024-10-10 |  |
 | [You & Me](https://open.spotify.com/track/36qaKbHr8XkihBq9TcoGGN) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 4:42 | 2024-06-13 | 2024-10-04 |
 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-04-16 | 2024-06-14 |

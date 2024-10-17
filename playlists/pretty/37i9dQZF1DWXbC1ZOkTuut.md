@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,429 likes - 267 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,457 likes - 267 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

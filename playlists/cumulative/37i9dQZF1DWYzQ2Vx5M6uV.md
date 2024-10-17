@@ -4,10 +4,11 @@
 
 > Heat that will make you sweat 🥵 Cover: Beéle
 
-179 songs - 9 hr 34 min
+180 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24Hrs](https://open.spotify.com/track/2ezaZrLBCkPJXHOaKPBH6p) | [Claudy\-O](https://open.spotify.com/artist/5ClLwuv0gGLjZVFGwuokKn), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [24Hrs](https://open.spotify.com/album/3ViZYgCjma6pV45cnOmAZD) | 2:28 | 2024-10-11 |  |
 | [3 Noches](https://open.spotify.com/track/172obmKke2oySVKvoaGWXj) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:33 | 2024-09-20 |  |
 | [44](https://open.spotify.com/track/0NipDzamAtvro0HMcZD5DK) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Warm Up](https://open.spotify.com/album/7IJ4Cok2sQKI7JgpPyDIWr) | 3:05 | 2022-02-16 | 2022-04-14 |
 | [A Little Bit \(feat\. Idahams\)](https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1) | [Matteo](https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors), [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [A Little Bit](https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB) | 3:02 | 2022-05-19 | 2022-09-02 |
@@ -41,7 +42,7 @@
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2022-02-16 |  |
 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 | 2023-07-20 |  |
 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 | 2023-12-08 |  |
-| [Daños Permanentes](https://open.spotify.com/track/38ArKAQLqqbyirKdwnA4DV) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Daños Permanentes](https://open.spotify.com/album/1yUDWhB2YYf3AU9w88B9rj) | 2:46 | 2024-10-11 |  |
+| [Daños Permanentes](https://open.spotify.com/track/38ArKAQLqqbyirKdwnA4DV) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Daños Permanentes](https://open.spotify.com/album/1yUDWhB2YYf3AU9w88B9rj) | 2:46 | 2024-10-11 | 2024-10-17 |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2022-02-16 | 2024-09-21 |
 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 | 2022-02-16 | 2024-06-01 |
 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 | 2022-02-16 | 2024-09-21 |

@@ -1,13 +1,93 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Haute & Freddy.  Artwork by Paola Saliby",
-  "num_followers": 218317,
+  "description": "The best new pop music by independent artists and labels. Cover: Lo Lauren.  Artwork by Paola Saliby",
+  "num_followers": 218366,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwX/wAAAAAD3KQ2m1RjTh53qZfJj4eO2",
+  "snapshot_id": "Zw86QAAAAACx59cSGHYLt9Qm2lk1DTgL",
   "tracks": [
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "Before The Kiss",
+        "url": "https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE"
+      },
+      "artists": [
+        {
+          "name": "Lo Lauren",
+          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
+        }
+      ],
+      "duration_ms": 137469,
+      "name": "Before The Kiss",
+      "url": "https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "disrespectful",
+        "url": "https://open.spotify.com/album/0v4QUORbIKNLp5mxHMHP7c"
+      },
+      "artists": [
+        {
+          "name": "peachi",
+          "url": "https://open.spotify.com/artist/6MwVAaoFTvQxymCbOedjtZ"
+        }
+      ],
+      "duration_ms": 135619,
+      "name": "disrespectful",
+      "url": "https://open.spotify.com/track/3tnkD1ZwnjcvdlmwIDYx8R"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "election year",
+        "url": "https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "election year",
+      "url": "https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/1iiQZz1YfV4eFLlrrOKEIw"
+      },
+      "artists": [
+        {
+          "name": "Syamali",
+          "url": "https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/7vOl4Ee2y5I5J6WPccpIyQ"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "Wake up (I love you)",
+        "url": "https://open.spotify.com/album/1v6OQUH0d1rc9KuGTjZM1s"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "duration_ms": 172535,
+      "name": "Wake up (I love you)",
+      "url": "https://open.spotify.com/track/7iF3Igkn9c9o6GrTng8VOt"
+    },
     {
       "added_at": "2024-10-09 04:00:00",
       "album": {
@@ -23,6 +103,102 @@
       "duration_ms": 197250,
       "name": "Scantily Clad",
       "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "Would It Kill You (Just To Hold Me)",
+        "url": "https://open.spotify.com/album/5Cr0g3RdEeIyKxppmFK8nO"
+      },
+      "artists": [
+        {
+          "name": "Will Baker",
+          "url": "https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY"
+        }
+      ],
+      "duration_ms": 205988,
+      "name": "Would It Kill You (Just To Hold Me)",
+      "url": "https://open.spotify.com/track/7xngofBPnnBHUik12uTaZD"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "favorite songs",
+        "url": "https://open.spotify.com/album/1n9mARJQRmZNQZ6dA73Rmc"
+      },
+      "artists": [
+        {
+          "name": "Shelby Morgan",
+          "url": "https://open.spotify.com/artist/3pXTjgKKjIDC8WF7M1aVIN"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "favorite songs",
+      "url": "https://open.spotify.com/track/3zYixXMCXwg0gHkrAUYrDE"
+    },
+    {
+      "added_at": "2024-10-09 04:00:00",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/0oHEiQ6EXNBFzuKFqQe9dB"
+      },
+      "artists": [
+        {
+          "name": "Honey.",
+          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/7FYKTqeJAYe119Kh6NJuNw"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO"
+      },
+      "artists": [
+        {
+          "name": "Theeth",
+          "url": "https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj"
+        }
+      ],
+      "duration_ms": 170431,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "Heartbeat Melody",
+        "url": "https://open.spotify.com/album/6U34xS6kiqINauqdAyBRBN"
+      },
+      "artists": [
+        {
+          "name": "Naomi Jane",
+          "url": "https://open.spotify.com/artist/24e3hF9IcHsGYNWMqwjIZv"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Heartbeat Melody",
+      "url": "https://open.spotify.com/track/4y5ogbGojaURfzPRqH02l5"
+    },
+    {
+      "added_at": "2024-10-16 04:00:00",
+      "album": {
+        "name": "Deathgrip",
+        "url": "https://open.spotify.com/album/0hbeQClrRcmrOPAxWjQEFN"
+      },
+      "artists": [
+        {
+          "name": "Jayden Hills",
+          "url": "https://open.spotify.com/artist/1QL69H6gS8twqSLgmJBRaE"
+        }
+      ],
+      "duration_ms": 160887,
+      "name": "Deathgrip",
+      "url": "https://open.spotify.com/track/2U4qnkwt65VGnL3nZOJVQ1"
     },
     {
       "added_at": "2024-10-09 04:00:00",
@@ -59,22 +235,6 @@
     {
       "added_at": "2024-10-09 04:00:00",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/0oHEiQ6EXNBFzuKFqQe9dB"
-      },
-      "artists": [
-        {
-          "name": "Honey.",
-          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/7FYKTqeJAYe119Kh6NJuNw"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
         "name": "brand new girl, brand new machine",
         "url": "https://open.spotify.com/album/1yycghdjLunxBCSDEviMHF"
       },
@@ -87,6 +247,22 @@
       "duration_ms": 167661,
       "name": "brand new girl, brand new machine",
       "url": "https://open.spotify.com/track/1dkv7Wet7tohrkQTPXzdvw"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "She's Finally Lost It!",
+        "url": "https://open.spotify.com/album/0cqsgUUxva8BojD8PYVztP"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "She's Finally Lost It!",
+      "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
     },
     {
       "added_at": "2024-10-09 04:00:00",
@@ -135,22 +311,6 @@
       "duration_ms": 243018,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/24qMZ45KjAD71U8j19w7s2"
-    },
-    {
-      "added_at": "2024-09-25 13:02:41",
-      "album": {
-        "name": "She's Finally Lost It!",
-        "url": "https://open.spotify.com/album/0cqsgUUxva8BojD8PYVztP"
-      },
-      "artists": [
-        {
-          "name": "Beth McKenzie",
-          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "She's Finally Lost It!",
-      "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
     },
     {
       "added_at": "2024-10-09 04:00:00",
@@ -951,22 +1111,6 @@
     {
       "added_at": "2024-09-04 04:00:00",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/4hK3BiVM1UsQGNvVle14bP"
-      },
-      "artists": [
-        {
-          "name": "Lo Lauren",
-          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
-        }
-      ],
-      "duration_ms": 203446,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq"
-    },
-    {
-      "added_at": "2024-09-04 04:00:00",
-      "album": {
         "name": "see you again",
         "url": "https://open.spotify.com/album/6l9jidV2wcnk9yioYXGnPS"
       },
@@ -1291,38 +1435,6 @@
     {
       "added_at": "2024-08-21 04:21:49",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4mhf0XnJKJwrustMTk4hRI"
-      },
-      "artists": [
-        {
-          "name": "Semma",
-          "url": "https://open.spotify.com/artist/63qIQLQgiDrn5JLeftvuoK"
-        }
-      ],
-      "duration_ms": 184300,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/5tdbBukXi7Hmg7gHXTpgwR"
-    },
-    {
-      "added_at": "2024-08-21 04:21:49",
-      "album": {
-        "name": "KILLING ME SOFTLY",
-        "url": "https://open.spotify.com/album/7yXfxTCQVVyPKhDDkhUJaZ"
-      },
-      "artists": [
-        {
-          "name": "Zahraa",
-          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "KILLING ME SOFTLY",
-      "url": "https://open.spotify.com/track/3iEW8ePnQEGmPhr179STto"
-    },
-    {
-      "added_at": "2024-08-21 04:21:49",
-      "album": {
         "name": "A Kid From Toronto",
         "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
       },
@@ -1335,38 +1447,6 @@
       "duration_ms": 192595,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
-    },
-    {
-      "added_at": "2024-08-21 04:21:49",
-      "album": {
-        "name": "can we NOT!",
-        "url": "https://open.spotify.com/album/52v6O0aOHD7Md6fjk3m8ff"
-      },
-      "artists": [
-        {
-          "name": "NIA NADURATA",
-          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
-        }
-      ],
-      "duration_ms": 172455,
-      "name": "can we NOT!",
-      "url": "https://open.spotify.com/track/763GMHssYL2a8XWro8csMH"
-    },
-    {
-      "added_at": "2024-08-21 04:21:49",
-      "album": {
-        "name": "SINGLE*",
-        "url": "https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 114339,
-      "name": "SINGLE*",
-      "url": "https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr"
     },
     {
       "added_at": "2024-08-21 04:21:49",
@@ -1435,54 +1515,6 @@
     {
       "added_at": "2024-08-14 04:00:00",
       "album": {
-        "name": "money!",
-        "url": "https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW"
-      },
-      "artists": [
-        {
-          "name": "Charli Lucas",
-          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
-        }
-      ],
-      "duration_ms": 150650,
-      "name": "money!",
-      "url": "https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn"
-    },
-    {
-      "added_at": "2024-08-14 04:00:00",
-      "album": {
-        "name": "uprobablyforgotmebynow",
-        "url": "https://open.spotify.com/album/5MOb8u05vX2VXvSBrEkE0J"
-      },
-      "artists": [
-        {
-          "name": "Sophie Said",
-          "url": "https://open.spotify.com/artist/0uhGoYlsroDbyn3GvupHas"
-        }
-      ],
-      "duration_ms": 195830,
-      "name": "uprobablyforgotmebynow",
-      "url": "https://open.spotify.com/track/32GpNdcpBoCvQ1RfH3bB91"
-    },
-    {
-      "added_at": "2024-08-14 04:00:00",
-      "album": {
-        "name": "A Long Time",
-        "url": "https://open.spotify.com/album/0GbohZu7RyCSpR1GHvmviM"
-      },
-      "artists": [
-        {
-          "name": "Born Runner",
-          "url": "https://open.spotify.com/artist/4H4DkVtD3nBKpJ1zmua5Uz"
-        }
-      ],
-      "duration_ms": 180806,
-      "name": "A Long Time",
-      "url": "https://open.spotify.com/track/701A990FNNf7RuKqQFxyw3"
-    },
-    {
-      "added_at": "2024-08-14 04:00:00",
-      "album": {
         "name": "Olyckan",
         "url": "https://open.spotify.com/album/5A6sTGnBkIhhKshuQsIfnS"
       },
@@ -1495,22 +1527,6 @@
       "duration_ms": 164908,
       "name": "Olyckan",
       "url": "https://open.spotify.com/track/5r9m8Jmfhn9deWP6Xfjpep"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy"
-      },
-      "artists": [
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        }
-      ],
-      "duration_ms": 188947,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
-    },
-    {
-      "added_at": "2024-07-31 04:00:00",
-      "album": {
-        "name": "over it",
-        "url": "https://open.spotify.com/album/1Grpol4fv3YbPPBD2ONir7"
-      },
-      "artists": [
-        {
-          "name": "Brooke Stilla",
-          "url": "https://open.spotify.com/artist/7IwXjNoUzzZOUKcM8CArGi"
-        }
-      ],
-      "duration_ms": 173551,
-      "name": "over it",
-      "url": "https://open.spotify.com/track/7b9dLyAEFGweixx7vfFbkN"
     },
     {
       "added_at": "2024-07-31 04:00:00",

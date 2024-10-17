@@ -4,7 +4,7 @@
 
 > Perfect music for perfect food.
 
-472 songs - 1 day 6 hr 34 min
+473 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Just Once](https://open.spotify.com/track/0pXdgGAyShUopblqfzjdCh) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/74BFXeajVUZ7nv3R2030hL) | 4:31 | 2024-07-08 |  |
 | [Just Once](https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:33 | 2023-01-09 | 2024-04-19 |
 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 | 2023-01-09 | 2023-06-28 |
-| [Just To See Her](https://open.spotify.com/track/4veUi0IuVGJ6Yh8gM1N6Vb) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [The Ultimate Collection: Smokey Robinson](https://open.spotify.com/album/5GsGic6FvdqD0iTMauHM5y) | 4:02 | 2024-07-08 |  |
+| [Just To See Her](https://open.spotify.com/track/4veUi0IuVGJ6Yh8gM1N6Vb) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [The Ultimate Collection: Smokey Robinson](https://open.spotify.com/album/5GsGic6FvdqD0iTMauHM5y) | 4:02 | 2024-07-08 | 2024-10-17 |
 | [Just To See Her](https://open.spotify.com/track/7LOYcC6phKAVOckgmVZJJT) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [One Heartbeat](https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V) | 4:04 | 2023-01-09 | 2024-04-19 |
 | [Keep On Holding On](https://open.spotify.com/track/0ZYulti55Y3OumnwLQsn1M) | [Ann Sexton](https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ) | [I Want to Be Loved](https://open.spotify.com/album/4vA6tOj1hFAib4Foxu2g6X) | 3:50 | 2023-01-09 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2023-01-09 | 2023-06-28 |
@@ -425,6 +425,7 @@
 | [Traffic Jam](https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Loose Fit](https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ) | 2:55 | 2023-08-15 |  |
 | [Trouble](https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 3:28 | 2023-06-27 |  |
 | [Trouble Man](https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Trouble Man: 40th Anniversary Expanded Edition](https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB) | 3:48 | 2023-08-15 | 2024-04-19 |
+| [Trouble Man](https://open.spotify.com/track/0RBNizdyQEsFN5oX8yWEkU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Trouble Man](https://open.spotify.com/album/3z20DFFonvlk6TZINSH98I) | 3:48 | 2024-07-08 |  |
 | [Try A Little Tenderness](https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 3:20 | 2023-01-09 |  |
 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 | 2023-01-09 |  |
 | [Until You Came Into My Life](https://open.spotify.com/track/0dVeBXkfWALnOSs6N3lrxm) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 3:12 | 2024-04-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 136739,
+  "num_followers": 136775,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Delight (Live)",
-        "url": "https://open.spotify.com/album/48xxySi0XEuNzVJlWym9F4"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 250011,
-      "name": "Delight - Live",
-      "url": "https://open.spotify.com/track/0WK6J7a3CMql3y82IYQdba"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 200324,
       "name": "Earth",
       "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Delight (Live)",
+        "url": "https://open.spotify.com/album/48xxySi0XEuNzVJlWym9F4"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 250011,
+      "name": "Delight - Live",
+      "url": "https://open.spotify.com/track/0WK6J7a3CMql3y82IYQdba"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Worship: The Remix Project, Vol. 3",
+        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Skye Reedy",
+          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
+        }
+      ],
+      "duration_ms": 236025,
+      "name": "The Blessing - Reyer Remix",
+      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Edge of Time (Bala Mandala Remix)",
         "url": "https://open.spotify.com/album/3lQfdE3f9o8tcERGl6uZeH"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 260610,
       "name": "Edge of Time (Bala Mandala Remix)",
       "url": "https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Worship: The Remix Project, Vol. 3",
-        "url": "https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Skye Reedy",
-          "url": "https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R"
-        }
-      ],
-      "duration_ms": 236025,
-      "name": "The Blessing - Reyer Remix",
-      "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Till the Earth",
-        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
-      },
-      "artists": [
-        {
-          "name": "Southview Worship",
-          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 208411,
-      "name": "Till the Earth",
-      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "King of My Heart",
         "url": "https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Till the Earth",
+        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
+      },
+      "artists": [
+        {
+          "name": "Southview Worship",
+          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
+        },
+        {
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
+        }
+      ],
+      "duration_ms": 208411,
+      "name": "Till the Earth",
+      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Keep In Step (Live)",
         "url": "https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
-      },
-      "artists": [
-        {
-          "name": "Royal Company",
-          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
-        }
-      ],
-      "duration_ms": 194335,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Paradigms (Live)",
         "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 200687,
       "name": "Heaven Calling - Live",
       "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Quarantine Sessions",
-        "url": "https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 234969,
-      "name": "WE\u2019RE GOING PUBLIC (Acoustic)",
-      "url": "https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "You Give Me Joy",
         "url": "https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 242400,
       "name": "You Give Me Joy",
       "url": "https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Quarantine Sessions",
+        "url": "https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 234969,
+      "name": "WE\u2019RE GOING PUBLIC (Acoustic)",
+      "url": "https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -2,7 +2,7 @@
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. The essential tracks, all in one playlist.
+> This is Manu Dibango\. Todos os maiores hits em uma só playlist.
 
 142 songs - 10 hr 44 min
 
@@ -101,7 +101,7 @@
 | [Ongele Mba](https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/7bfvTwvAo7ILbQgpmuH8Li) | 5:25 | 2021-12-28 | 2022-10-06 |
 | [Oriental Sunset](https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:47 | 2023-01-25 |  |
 | [Out of Score](https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:47 | 2022-07-04 |  |
-| [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 | 2022-06-30 | 2024-06-17 |
+| [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 | 2022-06-30 |  |
 | [Paris je t'aime d'amour](https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Paris je t'aime d'amour](https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ) | 4:51 | 2021-12-28 | 2023-09-01 |
 | [Percussion Storm](https://open.spotify.com/track/2eTftYReNs4X7x40zMUEDP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:54 | 2023-09-12 |  |
 | [Petite fleur](https://open.spotify.com/track/0C27zKepJCdCS3FBhJTVHh) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango plays Sidney Bechet](https://open.spotify.com/album/1PqFghSbTgaiZsGHxdM2cI) | 3:42 | 2023-12-24 | 2024-02-14 |
@@ -143,7 +143,7 @@
 | [Waka Juju](https://open.spotify.com/track/4SSbRPQrMUQZiTPyBikl1w) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:49 | 2022-01-15 | 2022-04-08 |
 | [Wakafrika](https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:47 | 2021-12-28 |  |
 | [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 | 2022-08-23 | 2024-09-02 |
-| [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 | 2021-12-28 |  |
+| [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 | 2021-12-28 | 2024-10-17 |
 | [Wilderness](https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:08 | 2022-08-18 |  |
 | [Wimoweh \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/2ZHwMnAiXZ6YvnLtPMQE4e) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:19 | 2021-12-28 | 2022-10-13 |
 | [Wouri](https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:16 | 2022-04-07 |  |

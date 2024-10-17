@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 183000,
       "name": "Blackfriars",
       "url": "https://open.spotify.com/track/7H5EyhkBFd3R2ksjJhDtDH"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 212042,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH"
@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "La Recherche - Piano Solo Version",
+        "url": "https://open.spotify.com/album/3f22ZwmFXLpwfEpvfnAus9"
+      },
+      "artists": [
+        {
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133199,
+      "name": "La Recherche - Piano Solo Version",
+      "url": "https://open.spotify.com/track/2SVVpg9cb44cBFRewo9Cn5"
+    },
+    {
+      "album": {
         "name": "La Vagabonde (Joseph Shabason Remix)",
         "url": "https://open.spotify.com/album/5ujDpwlmvXWOvjkUVjOkC5"
       },
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 369000,
       "name": "Leaving This Behind Again",
       "url": "https://open.spotify.com/track/7tCK6wE3aCJYz4FztSYxFV"
@@ -3841,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Longer shadows, softer stones",
+        "url": "https://open.spotify.com/album/433cDh5GSHilJlnrRxsf7X"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "M\u00f3an\u00f3ra",
+      "url": "https://open.spotify.com/track/2E6xqTEmNBquHWnQwx5ii3"
+    },
+    {
+      "album": {
         "name": "Philanthropy",
         "url": "https://open.spotify.com/album/0ts04BxWX0tqhE7uCSyWOp"
       },
@@ -4158,6 +4194,24 @@
       "duration_ms": 240810,
       "name": "Notturno",
       "url": "https://open.spotify.com/track/2jNfLVjnFpP9x1WdOfHErx"
+    },
+    {
+      "album": {
+        "name": "the skies: rarities",
+        "url": "https://open.spotify.com/album/2C3lj63WRMmoE9szKiObF7"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195033,
+      "name": "Now and Then",
+      "url": "https://open.spotify.com/track/6cx0aLLFvHsZQ1MmfDll6p"
     },
     {
       "album": {
@@ -5208,7 +5262,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 298145,
       "name": "Rose in Abstract",
       "url": "https://open.spotify.com/track/2cbVl45bfPrJ5LkffGXEgd"
@@ -5286,7 +5340,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 258415,
       "name": "R\u00f6dd",
       "url": "https://open.spotify.com/track/4AjYvQZFSdDYnsgEvswnuV"
@@ -5993,6 +6047,32 @@
     },
     {
       "album": {
+        "name": "The Spheres (Ambient Mix)",
+        "url": "https://open.spotify.com/album/1IzQgElbT1QJRjMI8KrMrV"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "The Chamber Orchestra Of London",
+          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "The Spheres - Ambient Mix",
+      "url": "https://open.spotify.com/track/7hvW3ZVzAP47Lb1doqYRtD"
+    },
+    {
+      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -6216,6 +6296,24 @@
       "duration_ms": 176422,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7w5O56SCgNMVt9O9CsO1FV"
+    },
+    {
+      "album": {
+        "name": "Un r\u00eave blanc",
+        "url": "https://open.spotify.com/album/5FMdaxHAacLY86UUx0ZsgU"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188797,
+      "name": "Un r\u00eave blanc",
+      "url": "https://open.spotify.com/track/2aZ8toXl69phNC20raidDn"
     },
     {
       "album": {

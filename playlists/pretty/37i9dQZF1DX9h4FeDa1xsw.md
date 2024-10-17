@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Andéol
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,370 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,371 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 12 | [Liverpool](https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2) | [Brav](https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Liverpool](https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW) | 3:52 |
 | 13 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
 | 14 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 |
-| 15 | [Corde Sensible](https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB) | [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt), [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Hypersensible](https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW) | 3:15 |
+| 15 | [Corde sensible](https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB) | [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt), [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Hypersensible](https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW) | 3:15 |
 | 16 | [30 secondes](https://open.spotify.com/track/2TiyqnbzipvZDBHqRA5vTh) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [30 secondes](https://open.spotify.com/album/7o72sPlRqClFQBiYCXnr4m) | 1:32 |
 | 17 | [DON'T LET ME GO](https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DON'T LET ME GO](https://open.spotify.com/album/1JohKORtvRNUAmeSYCyCGJ) | 3:39 |
 | 18 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 |

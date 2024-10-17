@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Rod Wave",
-  "num_followers": 29155,
+  "num_followers": 29186,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-14 11:50:45",
       "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
-    },
-    {
-      "added_at": "2024-10-14 11:50:45",
-      "album": {
         "name": "Ambition For Cash",
         "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
+    },
+    {
+      "added_at": "2024-10-14 11:50:45",
+      "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
     },
     {
       "added_at": "2024-10-14 11:50:45",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-10-14 11:50:45",
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "added_at": "2024-10-14 11:50:45",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 164573,
       "name": "Did It",
       "url": "https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH"
-    },
-    {
-      "added_at": "2024-10-14 11:50:45",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2024-10-14 11:50:45",

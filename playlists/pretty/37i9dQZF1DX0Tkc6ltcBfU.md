@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,788 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,951 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 25 | [Therapy Session](https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 1:48 |
 | 26 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 |
 | 27 | [Down Bad](https://open.spotify.com/track/7jrdf335V59CeDBnF247HN) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Down Bad](https://open.spotify.com/album/6cvuCLMl1SdA5wJGAO9tEX) | 2:04 |
-| 28 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:58 |
+| 28 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:55 |
 | 29 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
 | 30 | [Bird Business \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/0cN4LkGzfWtfJtIo4WHuuf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bird Business](https://open.spotify.com/album/5mturncpuDqcNiUsS9yhag) | 2:59 |
 | 31 | [Mad as F\*ck](https://open.spotify.com/track/3hpB20yL4LC0EfUflmnMEa) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Mad as F\*ck](https://open.spotify.com/album/26aLyJdQxUhAEbWKKapk2f) | 3:42 |

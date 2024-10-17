@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Cord Martin\n. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -5785,6 +5785,36 @@
     },
     {
       "album": {
+        "name": "Count To One",
+        "url": "https://open.spotify.com/album/05lc4QqiCbS77ZV54DY04e"
+      },
+      "artists": [
+        {
+          "name": "Ella Zirina",
+          "url": "https://open.spotify.com/artist/4zHQxWgFPjefCdK4GFO86m"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Jamie Peet",
+          "url": "https://open.spotify.com/artist/4CjjoL7vPT5pLlSCgwbzvF"
+        },
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248578,
+      "name": "Count To One",
+      "url": "https://open.spotify.com/track/3nfAm7Q6hGBNJcJ9XeoLLR"
+    },
+    {
+      "album": {
         "name": "All Werk Is Play",
         "url": "https://open.spotify.com/album/6B90X6Q8k7gL9EIwuRCgW6"
       },
@@ -6826,6 +6856,24 @@
       "duration_ms": 184190,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/3DxZNgpKQvUFQ29s9soRUz"
+    },
+    {
+      "album": {
+        "name": "DIVING",
+        "url": "https://open.spotify.com/album/5RQiKHPd5POJJ1qkYkcFXf"
+      },
+      "artists": [
+        {
+          "name": "Silvan Strauss",
+          "url": "https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "DIVING",
+      "url": "https://open.spotify.com/track/3oMPDxM5Spr0xrogEGmnLM"
     },
     {
       "album": {
@@ -8632,7 +8680,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 215007,
       "name": "Far Star",
       "url": "https://open.spotify.com/track/2QkrNsOHGsw9cVWkWYKHsy"
@@ -12121,6 +12169,24 @@
     },
     {
       "album": {
+        "name": "Imperfect Me",
+        "url": "https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4"
+      },
+      "artists": [
+        {
+          "name": "INDIA BLUE",
+          "url": "https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234043,
+      "name": "Imperfect Me",
+      "url": "https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty"
+    },
+    {
+      "album": {
         "name": "In Love?",
         "url": "https://open.spotify.com/album/47C1na3Ftz3r6nSf3k3ste"
       },
@@ -12462,7 +12528,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 298494,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6lpQ7RbHXUNbXwCQnNLdDh"
@@ -26220,7 +26286,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 154000,
       "name": "The Portal",
       "url": "https://open.spotify.com/track/18S4fMwB1dE6dgjLZXlL79"
@@ -27154,6 +27220,24 @@
       "duration_ms": 533748,
       "name": "Thursday Surrender",
       "url": "https://open.spotify.com/track/3Bqy1xr2AcpaDW3r92bEWK"
+    },
+    {
+      "album": {
+        "name": "Time Brings About Change",
+        "url": "https://open.spotify.com/album/6vUpvsjbxicPYCWWM5xiq4"
+      },
+      "artists": [
+        {
+          "name": "Cord Martin",
+          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271282,
+      "name": "Time Brings About Change",
+      "url": "https://open.spotify.com/track/7mD7bQy4KWhOcwqDJJSrjP"
     },
     {
       "album": {

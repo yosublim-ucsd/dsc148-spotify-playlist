@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,738 likes - 75 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,947 likes - 75 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 35 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
 | 36 | [Overcome](https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 4:29 |
 | 37 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 |
-| 38 | [Stoney Street](https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Bricolage](https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH) | 5:53 |
-| 39 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
+| 38 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
+| 39 | [Stoney Street](https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Bricolage](https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH) | 5:53 |
 | 40 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
 | 41 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
 | 42 | [Into the 90's](https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 5:21 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 67 | [Galactic Funk](https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [Songs Of A Dead Dreamer](https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG) | 6:50 |
 | 68 | [Bounty Killer III \[The Eyes of Johnny Ringo\] \- Single Version](https://open.spotify.com/track/1rkhWTb8a9CyByv5xMPLmi) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Bounty Killer III](https://open.spotify.com/album/2ef4BEAKWF6CYxBmFKrqwT) | 6:47 |
 | 69 | [Misunderstood \(feat\. Donna Paul\)](https://open.spotify.com/track/78kypI1IufTDhrcbhvtLeS) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8), [Donna Paul](https://open.spotify.com/artist/4wveYkIOgvIRH40xpN51YA) | [Like Weather \(Remastered Edition\)](https://open.spotify.com/album/21t4lny66XPZPuVVPoo1hO) | 3:31 |
-| 70 | [Striplight](https://open.spotify.com/track/0xjkjlSouvIL3gUWoFcDf4) | [A.P.E.](https://open.spotify.com/artist/6RJYzry9PD4BHsF9MVACC6) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:37 |
+| 70 | [Casanova 70](https://open.spotify.com/track/71iaCJRmNFqIAvhmEb1XW9) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Casanova 70](https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L) | 5:53 |
 | 71 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 |
-| 72 | [Casanova 70](https://open.spotify.com/track/71iaCJRmNFqIAvhmEb1XW9) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Casanova 70](https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L) | 5:53 |
+| 72 | [Striplight](https://open.spotify.com/track/0xjkjlSouvIL3gUWoFcDf4) | [A.P.E.](https://open.spotify.com/artist/6RJYzry9PD4BHsF9MVACC6) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:37 |
 | 73 | [It's Indian Tobacco My Friend](https://open.spotify.com/track/5MNjFXVscPucoKUDacsL5N) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [When I Was Born For The 7th Time](https://open.spotify.com/album/13Mu9qKWeNmU1EUE1BJDTZ) | 4:51 |
 | 74 | [Contemplating Jazz](https://open.spotify.com/track/2IJHB5hnXXXsjPHUnsZlvt) | [Attica Blues](https://open.spotify.com/artist/2pllF0hZ5P7QjtlVoFUYAP) | [The Man From Mo’ Wax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq) | 5:46 |
 | 75 | [Headz Still Ain't Ready](https://open.spotify.com/track/0mh6tyjSe8UkIKVQszbBaV) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 5:55 |

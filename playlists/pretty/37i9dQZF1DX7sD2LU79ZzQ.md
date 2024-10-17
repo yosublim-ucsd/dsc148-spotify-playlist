@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Changcuters
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,081 likes - 98 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,108 likes - 98 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

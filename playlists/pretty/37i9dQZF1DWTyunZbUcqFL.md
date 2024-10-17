@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,816 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,843 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 7 | [Kyoto Gardens](https://open.spotify.com/track/4pMa1ovtjpq8kTiTxUGQYU) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Kyoto Gardens](https://open.spotify.com/album/48r9zb2kBSfegLL4HvLE5o) | 2:45 |
 | 8 | [marten](https://open.spotify.com/track/1mwYEtbr18qJPL3ls9hZXx) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [marten](https://open.spotify.com/album/4UnvgaZBThF0bH4J7LGlBq) | 4:27 |
 | 9 | [京都](https://open.spotify.com/track/4yzSiZGtwCIa3sku0v60jv) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [日本](https://open.spotify.com/album/3fdYfZ7IpS4oeKcNMK3HL9) | 4:29 |
-| 10 | [untitled](https://open.spotify.com/track/6Pn1Vq9ubtguEO1QaO8DXk) | [The L.B.](https://open.spotify.com/artist/5GY7ls4IK8kxpIPhsdOrDX), [Lin](https://open.spotify.com/artist/4YAz97xFI0XcbVaK3QMuPA) | [untitled](https://open.spotify.com/album/2TRJIEzxHCQzKf5nYydRJf) | 3:08 |
+| 10 | [untitled \(feat\. lin\)](https://open.spotify.com/track/6Pn1Vq9ubtguEO1QaO8DXk) | [The L.B.](https://open.spotify.com/artist/5GY7ls4IK8kxpIPhsdOrDX), [Lin](https://open.spotify.com/artist/4YAz97xFI0XcbVaK3QMuPA) | [untitled \(feat\. lin\)](https://open.spotify.com/album/2TRJIEzxHCQzKf5nYydRJf) | 3:08 |
 | 11 | [Belling Cat](https://open.spotify.com/track/4AaUDNce4PKKE2v4IO0ZkF) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [Belling Cat](https://open.spotify.com/album/4yFi2J0Gt55e7E7nhCOrMD) | 3:18 |
 | 12 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
 | 13 | [深夜高速](https://open.spotify.com/track/6PfPW3miLFk5r95rOCqepY) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 4:21 |

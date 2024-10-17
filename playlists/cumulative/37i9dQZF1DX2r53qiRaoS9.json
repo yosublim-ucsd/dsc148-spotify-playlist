@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 195233,
       "name": "Bottle",
       "url": "https://open.spotify.com/track/40mBzQIpmcxFUzuJMOAHFC"
@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Street Code",
+        "url": "https://open.spotify.com/album/63KSe8ACcXuzAjg8SVBNyM"
+      },
+      "artists": [
+        {
+          "name": "Kulbir Jhinjer",
+          "url": "https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169507,
+      "name": "Dabka",
+      "url": "https://open.spotify.com/track/2ocMPgaUbcTKnSkTH1NIWL"
+    },
+    {
+      "album": {
         "name": "Do Gabru - Mankirt Aulakh & Parmish Verma",
         "url": "https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn"
       },
@@ -416,6 +434,28 @@
       "duration_ms": 123488,
       "name": "Feature",
       "url": "https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG"
+    },
+    {
+      "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/4kd679DK5PJHDeDLPEwjqZ"
+      },
+      "artists": [
+        {
+          "name": "Rihaan",
+          "url": "https://open.spotify.com/artist/6hHdhPGGmjdgoAUk4LQ0e4"
+        },
+        {
+          "name": "WakeUpParth",
+          "url": "https://open.spotify.com/artist/43n4ElrWXCATSSoACychZE"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5CTAuySFPCf0zwaBbD5lVv"
     },
     {
       "album": {
@@ -651,6 +691,28 @@
     },
     {
       "album": {
+        "name": "Jhanjer",
+        "url": "https://open.spotify.com/album/712nsqZDhQHZsQA3vdtroP"
+      },
+      "artists": [
+        {
+          "name": "Lovkirat",
+          "url": "https://open.spotify.com/artist/6s6Jd98Ae1dheI7cotGo0o"
+        },
+        {
+          "name": "PROFESSOR",
+          "url": "https://open.spotify.com/artist/5GVZfwhrOmIg19diWxfarN"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Jhanjer",
+      "url": "https://open.spotify.com/track/5coP4GtZwccnHuq42Hko7Z"
+    },
+    {
+      "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
       },
@@ -770,7 +832,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 180897,
       "name": "Life",
       "url": "https://open.spotify.com/track/7Bb4ZmnWkHIYcaZdSWPbP5"
@@ -914,7 +976,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 179440,
       "name": "Nakhreya Mari",
       "url": "https://open.spotify.com/track/5ysIp2rJDfWkXVsYAMisa9"

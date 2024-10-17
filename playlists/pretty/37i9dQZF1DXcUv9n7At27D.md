@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,808 likes - 52 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,801 likes - 52 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 47 | [memento](https://open.spotify.com/track/2XplMSBUiDrgjrjE9aJem1) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [memento](https://open.spotify.com/album/5wpdUQhPZxUTGObATg9bja) | 3:37 |
 | 48 | [Fragment](https://open.spotify.com/track/0SzKEFWzWvqrPmHPPilLxA) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fragment](https://open.spotify.com/album/5R5yXIlGTWcSOqq1gT0Y7j) | 3:14 |
 | 49 | [Romance Dai 2 ban Op.50 \(Beethoven\)](https://open.spotify.com/track/2rKOIRnpxAWTu8x59bbsTE) | [Mariko Senju](https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W), [Pierre Dervaux](https://open.spotify.com/artist/0KvsxPaE9zVFOFWGVaQcmU), [Luxembourg Radio Symphony Orchestra](https://open.spotify.com/artist/3PiFts5w1ytZKYU8lKqqpG) | [Ongaku Kenkou Yuuryouji 2 Sawayaka Egao no Ongaku \-Selection\-](https://open.spotify.com/album/6Ml8fEaZpZhmixHQAmTvbG) | 8:51 |
-| 50 | [Like a White Flower](https://open.spotify.com/track/7prVZRI0RnGDP1qYdiSmMH) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:48 |
+| 50 | [Like a White Flower \(feat\. Yukiharu Ito\)](https://open.spotify.com/track/7prVZRI0RnGDP1qYdiSmMH) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:48 |
 | 51 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 | 52 | [Prelude No\. 2, Op\. 7 "Saxophone Quartet"](https://open.spotify.com/track/1qzdLuMw3XGJrG0Ta5KOCG) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Prelude No\. 2, Op\. 7 "Saxophone Quartet"](https://open.spotify.com/album/66G4JFX4oSyNQrLRhQHFWA) | 3:26 |
 

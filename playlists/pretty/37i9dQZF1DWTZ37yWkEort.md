@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,521 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,529 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

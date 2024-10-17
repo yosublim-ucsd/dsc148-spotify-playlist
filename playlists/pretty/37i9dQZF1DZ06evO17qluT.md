@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. Todos os maiores hits em uma só playlist.
+> This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,137 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,182 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [.38](https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 2:06 |
 | 50 | [Pessoas](https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 3:37 |
 
-Snapshot ID: `ZwxfAAAAAADlD89OwA+tH5TRlUsro4CB`
+Snapshot ID: `Zw2wgAAAAAAK72cC0hA3z8H5FJAcDtEY`

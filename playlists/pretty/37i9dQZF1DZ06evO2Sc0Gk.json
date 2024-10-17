@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19543,
+  "num_followers": 19544,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAAEmRa6OECO7Kl+Kvm4YY7t",
+  "snapshot_id": "Zw2wgAAAAAAc1yMo/LmAYehh4ArF2w6O",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chop Life, Vol. 1: Mzansi Chronicles",
         "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 194819,
       "name": "Wena",
       "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,
@@ -939,6 +939,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tall Shade",
+        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
+      },
+      "artists": [
+        {
+          "name": "Patrice",
+          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Tall Shade",
+      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AKWAABA",
         "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
@@ -963,30 +987,6 @@
       "duration_ms": 206829,
       "name": "AKWAABA",
       "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tall Shade",
-        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
-      },
-      "artists": [
-        {
-          "name": "Patrice",
-          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Tall Shade",
-      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
     },
     {
       "added_at": null,

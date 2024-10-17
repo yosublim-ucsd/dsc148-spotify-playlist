@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1899913,
+  "num_followers": 1900057,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Para Impresionarte",
-      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Ese Soy Yo",
         "url": "https://open.spotify.com/album/3iw6NgJAe0kHY52IaUkuS6"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 198733,
       "name": "Lo Legal",
       "url": "https://open.spotify.com/track/2f42t2ofY9VdZo1rgWSGwO"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Mi Buen Amante",
-      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Tenis M\u00e1gicos",
         "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 192853,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Mi Buen Amante",
+      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 195253,
       "name": "\u00bfPor Qu\u00e9 Me Ilusionaste?",
       "url": "https://open.spotify.com/track/6CaVfHpynKOe5SRqjUzBuI"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 176169,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Senzu-Rah",
         "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
       },
@@ -1459,22 +1443,6 @@
       "duration_ms": 163533,
       "name": "Soltero Disponible",
       "url": "https://open.spotify.com/track/4jgKVF6yT6dZJrHQtw5GZe"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 151510,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 151510,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 135813,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/38opVim2NDSvYAPtsKfcOI"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
+        "name": "El Katch (Version USA)",
+        "url": "https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "\u00bfQui\u00e9n Te Dio Permiso?",
+      "url": "https://open.spotify.com/track/7Godb4gbezgh5X7KYfajQW"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
         "name": "Especialista",
         "url": "https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz"
       },
@@ -1575,34 +1591,18 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+        "name": "40 A\u00f1os, Pese A Quien Pese",
+        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
-        "name": "El Katch (Version USA)",
-        "url": "https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 168386,
-      "name": "\u00bfQui\u00e9n Te Dio Permiso?",
-      "url": "https://open.spotify.com/track/7Godb4gbezgh5X7KYfajQW"
+      "duration_ms": 203866,
+      "name": "Abeja Reina",
+      "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "40 A\u00f1os, Pese A Quien Pese",
-        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 203866,
-      "name": "Abeja Reina",
-      "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
+        "name": "S\u00f3lo Contigo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kIwM1LMZ81j2op2tKsbQM"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "N\u00famero Equivocado",
+      "url": "https://open.spotify.com/track/6ypGxyKu6JsPp5v8QMy4hl"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 179063,
       "name": "El Son De La Rabia - En Vivo",
       "url": "https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
-        "name": "S\u00f3lo Contigo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kIwM1LMZ81j2op2tKsbQM"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "N\u00famero Equivocado",
-      "url": "https://open.spotify.com/track/6ypGxyKu6JsPp5v8QMy4hl"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
+        "name": "S\u00f3lo Contigo",
+        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "La Autentica de Jerez Zacatecas - 15 Exitos",
-        "url": "https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt"
-      },
-      "artists": [
-        {
-          "name": "Banda Autentica de Jerez",
-          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "24 Horas del Dia",
-      "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Exitos De Banda M-1",
         "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
+        "name": "La Autentica de Jerez Zacatecas - 15 Exitos",
+        "url": "https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt"
+      },
+      "artists": [
+        {
+          "name": "Banda Autentica de Jerez",
+          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "24 Horas del Dia",
+      "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 201533,
       "name": "Adi\u00f3s Mi Amor",
       "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
-        "name": "S\u00f3lo Contigo",
-        "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": "2024-10-04 20:13:50",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 131066,
       "name": "Te Cambio El Domicilio",
       "url": "https://open.spotify.com/track/3WRPzdjCOkO5Vmt5LgrWTa"
+    },
+    {
+      "added_at": "2024-10-04 20:13:50",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -2267,8 +2267,8 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp"
       },
       "artists": [
         {
@@ -2276,9 +2276,9 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 195131,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
+      "duration_ms": 234198,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY"
     },
     {
       "added_at": "2024-10-04 20:13:50",
@@ -2351,8 +2351,8 @@
     {
       "added_at": "2024-10-04 20:13:50",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp"
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
       },
       "artists": [
         {
@@ -2360,9 +2360,9 @@
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 234198,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY"
+      "duration_ms": 195131,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
     },
     {
       "added_at": "2024-10-04 20:13:50",

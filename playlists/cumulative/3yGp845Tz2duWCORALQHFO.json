@@ -5029,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4QocOje5vl69d9dpH9ZbhU"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153529,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4MbbPlazYHz892lbnWPelv"
+    },
+    {
+      "album": {
         "name": "Dead Beat Poet",
         "url": "https://open.spotify.com/album/6h0RaohrSe0SWx2wQIFiOe"
       },
@@ -8477,7 +8495,7 @@
         },
         {
           "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
         }
       ],
       "date_added": "2024-10-11",

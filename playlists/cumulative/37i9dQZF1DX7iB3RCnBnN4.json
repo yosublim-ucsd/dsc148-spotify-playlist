@@ -12841,6 +12841,28 @@
     },
     {
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dina Rae",
+          "url": "https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350320,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },

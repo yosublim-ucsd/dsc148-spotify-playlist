@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,571 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,600 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 51 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 |
 | 52 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 |
 | 53 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 |
-| 54 | [FEEL IT](https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [FEEL IT](https://open.spotify.com/album/7IaC6AWHeywSSnIe4NAxup) | 3:04 |
-| 55 | [Anything For You](https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Anything For You](https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u) | 4:24 |
+| 54 | [Anything For You](https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Anything For You](https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u) | 4:24 |
+| 55 | [FEEL IT](https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [FEEL IT](https://open.spotify.com/album/7IaC6AWHeywSSnIe4NAxup) | 3:04 |
 | 56 | [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 |
 | 57 | [Golden Child](https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child](https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu) | 3:37 |
 | 58 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 |

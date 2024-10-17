@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 53884,
+  "num_followers": 53900,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
-      },
-      "artists": [
-        {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Laci's Boogie",
-      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 238315,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Way",
+        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
+      },
+      "artists": [
+        {
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Laci's Boogie",
+      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Let's Have A Party! (The Aladdin Recordings)",
         "url": "https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 167786,
       "name": "Let Me Go Home Whiskey",
       "url": "https://open.spotify.com/track/33343QHpDEcf022acPZMw8"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
-      },
-      "artists": [
-        {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 183800,
       "name": "Barrelhouse Boogie",
       "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+      },
+      "artists": [
+        {
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie",
-        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
-      },
-      "artists": [
-        {
-          "name": "Henning Pertiet",
-          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Get in the Groove, Boys!",
-      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Big Maceo",
         "url": "https://open.spotify.com/album/050Om28lQNAArTUuKzIEzs"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 181470,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
+      },
+      "artists": [
+        {
+          "name": "Henning Pertiet",
+          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Get in the Groove, Boys!",
+      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
     },
     {
       "added_at": "2024-05-30 16:27:59",

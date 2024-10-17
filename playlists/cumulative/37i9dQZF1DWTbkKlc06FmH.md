@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-885 songs - 2 day 4 hr 49 min
+886 songs - 2 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 | 2023-11-29 |
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-22 | 2024-05-24 |
 | [Kazenidakarete](https://open.spotify.com/track/28FsaeOb2QZBp2sVdzPzZw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Kazenidakarete](https://open.spotify.com/album/0dSxGg9f74wTok1Ar4kMUn) | 4:31 | 2023-05-23 | 2023-05-31 |
-| [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 |  |
+| [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 | 2024-10-17 |
 | [Keeps Beating](https://open.spotify.com/track/5dGenSjQSfL9KwXhL3D18M) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Just Living](https://open.spotify.com/album/6jWIqqH1FJKuDbtq8cCWIC) | 3:49 | 2023-03-07 | 2023-03-29 |
 | [Kiko's Letter](https://open.spotify.com/track/1sODAZpVglXlGK1TjQA8wc) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:50 | 2023-01-31 | 2023-02-28 |
 | [Killing Time](https://open.spotify.com/track/4Z27gYTMJnvrRpovGSDbbo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Killing Time](https://open.spotify.com/album/0JiNoBApDrk732s3a9mpei) | 3:41 | 2023-04-20 | 2023-05-17 |
@@ -639,6 +639,7 @@
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100) | 3:14 | 2023-02-14 | 2023-03-03 |
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu) | 3:14 | 2023-02-14 | 2023-02-16 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
+| [Stupid Dumb](https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stupid Dumb](https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i) | 2:44 | 2024-10-16 |  |
 | [SUI SUI](https://open.spotify.com/track/2UDq4JJZQ0ErYi32l1agQz) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/7F6eRS0ieIhCtkQSyLSb4o) | 4:03 | 2022-12-06 | 2022-12-08 |
 | [SUI SUI](https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/4kuK0MfxpC0pTzg6y1GpOv) | 4:03 | 2022-12-06 | 2023-01-20 |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-06 | 2023-11-02 |

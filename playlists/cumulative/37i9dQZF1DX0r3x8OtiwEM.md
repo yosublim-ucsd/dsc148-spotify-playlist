@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-660 songs - 2 day 17 hr 1 min
+661 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 | 2023-05-05 | 2023-07-01 |
 | [Synthetic Blues](https://open.spotify.com/track/2ykjMnet1sBwPpmbTEqdYm) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Synthetic Blues](https://open.spotify.com/album/2vIDyBeyfo1obTIkaXTIE0) | 3:28 | 2020-10-10 | 2022-11-12 |
 | [Tachyon](https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh), [Jordan Bakker](https://open.spotify.com/artist/304E4EmFCfUL4r24KJ0iu6) | [Tachyon](https://open.spotify.com/album/1q2TlIW6JOGmMMlUz9qmdy) | 6:21 | 2020-01-12 | 2021-08-12 |
-| [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 |  |
+| [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 | 2024-10-17 |
 | [Take My Hand](https://open.spotify.com/track/1x6JcuNsTk2jv6CszQqyC9) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Take My Hand](https://open.spotify.com/album/5u0MC9Oaw6oahrK8OYgKiM) | 6:23 | 2020-01-01 | 2020-06-13 |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-30 | 2023-04-04 |
 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 | 2021-08-06 | 2023-04-05 |
@@ -658,6 +658,7 @@
 | [Wildlands](https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Wildlands](https://open.spotify.com/album/3MpQaMH6DFQcBnVSUEA7fn) | 3:24 | 2022-06-24 | 2022-07-29 |
 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 | 2024-09-13 |  |
 | [Within You \- Kölsch Mix](https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Within You \(Kölsch Mix\)](https://open.spotify.com/album/0DA1F1TcRgvcisPqFF8qx4) | 10:15 | 2024-09-13 |  |
+| [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 | 2024-10-11 |  |
 | [X](https://open.spotify.com/track/0pORLCI6Ep1eyqHJXbUPKG) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:33 | 2021-05-07 | 2021-05-28 |
 | [Yonio](https://open.spotify.com/track/32aYqy7QSeJBKxkAXR26p5) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Yonio](https://open.spotify.com/album/5Y2cCWWxiVgdIoaW4sUF4m) | 7:24 | 2021-09-07 | 2021-10-28 |
 | [You](https://open.spotify.com/track/6hFgrBH45e3SljvIHNLRq8) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Unity](https://open.spotify.com/album/6oHRy3qEVtV2ihezwKZRjR) | 6:58 | 2020-03-21 | 2020-03-22 |

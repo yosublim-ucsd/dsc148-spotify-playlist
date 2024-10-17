@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,786 songs - 4 day 18 hr 13 min
+1,787 songs - 4 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [HAHAHA](https://open.spotify.com/track/73cnzXHK8i4WC5Pw0ZIZ2F) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 4:03 | 2024-01-19 | 2024-01-27 |
 | [Halloween Theme \(Metal Version\)](https://open.spotify.com/track/0Hn8jAqnrAirI7n7mwTwgi) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Halloween Theme \(Metal Version\)](https://open.spotify.com/album/1UFUjZGwRgtCQ0TXUFhQrH) | 3:29 | 2023-11-03 | 2023-11-07 |
 | [Halo](https://open.spotify.com/track/7dJIaWsywNj3CsaccpBH0f) | [Spencer Groves](https://open.spotify.com/artist/7d4VzJT9yzQVNC6Y9t9lau), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Halo](https://open.spotify.com/album/0tC3QGiimExbPI2TZNwYaq) | 2:57 | 2023-07-07 | 2023-07-15 |
+| [Hand Me A Glass \- Slowed Down](https://open.spotify.com/track/13fbYFAElEArHUdIUyEeVz) | [Shen](https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Hand Me A Glass \(Slowed Down\)](https://open.spotify.com/album/0H6WAHlrPkUOhWuGomJSOS) | 3:38 | 2024-10-11 |  |
 | [Hang 10](https://open.spotify.com/track/1ESMgtcm682joX2Twf6Dce) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Hang 10](https://open.spotify.com/album/6G6hcg5M7Gty9Z7kA5vAYO) | 1:45 | 2023-10-13 | 2023-10-21 |
 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:26 | 2024-04-12 | 2024-04-27 |
 | [Happy](https://open.spotify.com/track/3cPafGcaLEsfrZZZB7gB3M) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Happy](https://open.spotify.com/album/2xn1MSovWrPuWBTLSJEfMx) | 3:42 | 2023-09-15 | 2023-09-19 |
@@ -1610,7 +1611,7 @@
 | [Truman sleeps \(for guitar ensemble\)](https://open.spotify.com/track/7u9yi68ZCgVxIgF4ziEv9p) | [Sam Desmet](https://open.spotify.com/artist/5QTABvkjM6kEih0kvyabWj), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Truman sleeps \(for guitar ensemble\)](https://open.spotify.com/album/0VabAGTGRwNdUO9gQPSkDt) | 1:52 | 2024-09-13 | 2024-09-29 |
 | [Truth](https://open.spotify.com/track/2WRPJmFLiz0Cf5cGjL6ECJ) | [Leekjaymusic](https://open.spotify.com/artist/5vOkssRNKHvxJCkgmWDT3K), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Truth](https://open.spotify.com/album/2Vrfod3ydZXyntfwRXNOAJ) | 2:26 | 2024-10-11 | 2024-10-13 |
 | [Tube \- Live](https://open.spotify.com/track/7diMNbGu0CZhNmGQFg9mhP) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [The Gorge '98](https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3) | 9:53 | 2023-02-10 | 2023-02-26 |
-| [Tuca Donka Phonk](https://open.spotify.com/track/1evK8087E2vWmwzwRWO2bO) | [King Geedorah](https://open.spotify.com/artist/4be4sooOJ8yYnMHiKQf8M3), [Khooni](https://open.spotify.com/artist/1GSx9efWMifADaYuc3ZFgh) | [Tuca Donka Phonk](https://open.spotify.com/album/546haYjO0tyEdcAj2rPXYB) | 3:13 | 2024-10-11 |  |
+| [Tuca Donka Phonk](https://open.spotify.com/track/1evK8087E2vWmwzwRWO2bO) | [King Geedorah](https://open.spotify.com/artist/4be4sooOJ8yYnMHiKQf8M3), [Khooni](https://open.spotify.com/artist/1GSx9efWMifADaYuc3ZFgh) | [Tuca Donka Phonk](https://open.spotify.com/album/546haYjO0tyEdcAj2rPXYB) | 3:13 | 2024-10-11 | 2024-10-17 |
 | [Tucson Too Late \- Live Acoustic](https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Tucson Too Late \(Live Acoustic\)](https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G) | 3:06 | 2024-01-12 | 2024-01-27 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 | 2023-07-01 |
 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 | 2023-02-10 | 2023-02-18 |

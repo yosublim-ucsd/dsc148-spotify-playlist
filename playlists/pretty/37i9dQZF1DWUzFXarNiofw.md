@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,200 likes - 198 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,318 likes - 198 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 170 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 |
 | 171 | [Stop Playing](https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [The Ranch](https://open.spotify.com/album/2Gx9foKUKSHuoIDnTTlCLB) | 3:38 |
 | 172 | [By My Side](https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa) | 2:47 |
-| 173 | [Don't Wake Up](https://open.spotify.com/track/5a3xcK4TZScEzOUTXsCkLg) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Don't Wake Up](https://open.spotify.com/album/7wZfH3hDeQgXHEZ3JOUQnS) | 3:07 |
+| 173 | [DON'T WAKE UP](https://open.spotify.com/track/5a3xcK4TZScEzOUTXsCkLg) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [DON'T WAKE UP](https://open.spotify.com/album/7wZfH3hDeQgXHEZ3JOUQnS) | 3:07 |
 | 174 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 |
 | 175 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 |
 | 176 | [Kissing In Da Club](https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Kissing In Da Club](https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP) | 2:27 |

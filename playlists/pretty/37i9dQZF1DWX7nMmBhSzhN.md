@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,589 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,797 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

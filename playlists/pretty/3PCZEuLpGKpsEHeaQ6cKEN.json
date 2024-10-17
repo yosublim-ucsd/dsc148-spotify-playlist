@@ -1,33 +1,13 @@
 {
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Ben Hemsley",
-  "num_followers": 271765,
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  ARTY, RANI",
+  "num_followers": 271751,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADSo5a3/Tx37UWGltffW6tRQCY5banq",
+  "snapshot_id": "AADSpTnFe3IsJ3AyeiwjbaiggWDk+m98",
   "tracks": [
-    {
-      "added_at": "2024-10-14 09:31:08",
-      "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 231702,
-      "name": "Tidal",
-      "url": "https://open.spotify.com/track/6YqIZ0DjF4ShTlCapRbupl"
-    },
     {
       "added_at": "2024-10-14 09:31:08",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 169531,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO"
+    },
+    {
+      "added_at": "2024-10-14 09:31:08",
+      "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/0Ky0RC6hpwv2C2aeUdSFyl"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 231702,
+      "name": "Tidal",
+      "url": "https://open.spotify.com/track/6YqIZ0DjF4ShTlCapRbupl"
     },
     {
       "added_at": "2024-10-14 09:31:08",

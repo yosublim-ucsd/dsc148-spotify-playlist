@@ -1,12 +1,12 @@
 {
-  "description": "This is Ajuliacosta. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 6094,
+  "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
+  "num_followers": 6104,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAACfrFIUY+hKoGSMG9mCpuK8",
+  "snapshot_id": "Zw2wgAAAAADC4apErrFb5HeTFIO3hZ6T",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "#SV 03 - Esse novinho vai ser meu homem",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "#SV 03 - Esse novinho vai ser meu homem",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
@@ -471,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174254,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -507,26 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "#SV 03 - Esse novinho vai ser meu homem",
-        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
       },
       "artists": [
         {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         }
       ],
-      "duration_ms": 111157,
-      "name": "#SV 03 - Esse novinho vai ser meu homem",
-      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
+      "duration_ms": 174254,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
     },
     {
       "added_at": null,

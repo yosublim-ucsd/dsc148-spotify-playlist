@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,257 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,345 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 37 | [El 3aw](https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [El 3aw](https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0) | 4:49 |
 | 38 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 |
 | 39 | [اه يا دنيا](https://open.spotify.com/track/0THQA9oPhOoXuBFJKAJtGi) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/3tNNn4fKSt7Zvv7wWFusil) | 4:37 |
-| 40 | [جربت الحب مره](https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv) | [Shafeqa](https://open.spotify.com/artist/78nDgw9OwoINjiHYCejKPh) | [زعلانا منك](https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q) | 10:22 |
+| 40 | [جربت الحب مره](https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv) | [شفيقة](https://open.spotify.com/artist/4B38iUsesz8XZlqtq5ZXa4) | [زعلانا منك](https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q) | 10:22 |
 | 41 | [طبع الرجال](https://open.spotify.com/track/28wr7LAUuC6z3jcsNEG7ud) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/3fNR0i4ribDgYFfuucdVvI) | 4:22 |
 | 42 | [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 |
 | 43 | [Hatgawez](https://open.spotify.com/track/1Vb51CRZbbS333bMwA0csQ) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/4LZuc3vs0btgKFiVczS2zi) | 4:35 |

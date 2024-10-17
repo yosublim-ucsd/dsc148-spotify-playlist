@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 11631,
+  "num_followers": 11640,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Cosas del Destino",
+        "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
+      },
+      "artists": [
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 214129,
+      "name": "Cosas del Destino",
+      "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Aqu\u00ed Me Tienes",
         "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
       },
@@ -671,22 +691,6 @@
       "duration_ms": 157259,
       "name": "Aqui\u0301 Me Tienes",
       "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Cosas del Destino",
-        "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
       },
       "artists": [
         {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 214129,
-      "name": "Cosas del Destino",
-      "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "Totona",
+        "url": "https://open.spotify.com/album/2Z5CUiR6Irh7MnnOWligNY"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 205269,
+      "name": "Totona",
+      "url": "https://open.spotify.com/track/3PZ6unz84QLZExL3HEHNnW"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "Calz\u00f3n",
         "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Totona",
-        "url": "https://open.spotify.com/album/2Z5CUiR6Irh7MnnOWligNY"
+        "name": "ni una foto",
+        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
         }
       ],
-      "duration_ms": 205269,
-      "name": "Totona",
-      "url": "https://open.spotify.com/track/3PZ6unz84QLZExL3HEHNnW"
+      "duration_ms": 192385,
+      "name": "ni una foto",
+      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1055,22 +1071,6 @@
       "duration_ms": 140955,
       "name": "Losken Roland",
       "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "ni una foto",
-        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
-      },
-      "artists": [
-        {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
-        }
-      ],
-      "duration_ms": 192385,
-      "name": "ni una foto",
-      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1435,8 +1435,8 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Porrito y a Dormir",
-        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
+        "name": "Qui\u00e9n Lo Dir\u00eda?",
+        "url": "https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD"
       },
       "artists": [
         {
@@ -1444,17 +1444,13 @@
           "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
         },
         {
-          "name": "Xico",
-          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
-        },
-        {
-          "name": "GOE",
-          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Porrito y a Dormir",
-      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
+      "duration_ms": 218000,
+      "name": "Qui\u00e9n Lo Dir\u00eda?",
+      "url": "https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1531,8 +1527,8 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Qui\u00e9n Lo Dir\u00eda?",
-        "url": "https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD"
+        "name": "Porrito y a Dormir",
+        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
       },
       "artists": [
         {
@@ -1540,13 +1536,17 @@
           "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
         },
         {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "GOE",
+          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Qui\u00e9n Lo Dir\u00eda?",
-      "url": "https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H"
+      "duration_ms": 198000,
+      "name": "Porrito y a Dormir",
+      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
     },
     {
       "added_at": "2024-08-09 04:23:31",

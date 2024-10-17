@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Bailey Zimmerman",
-  "num_followers": 453984,
+  "num_followers": 453972,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
         "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Dancin' In The Country",
         "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Wildflowers and Wild Horses",
+      "url": "https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "Wildflowers and Wild Horses",
-      "url": "https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Country's Cool Again",
-        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "Country's Cool Again",
-      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Good News Sold",
         "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Country's Cool Again",
+        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 218280,
+      "name": "Country's Cool Again",
+      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 183542,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 183040,
       "name": "Some Whiskey",
       "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 183542,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Take Her Home",
-        "url": "https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75"
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Take Her Home",
-      "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+        "name": "Take Her Home",
+        "url": "https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 177313,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
+      "duration_ms": 182466,
+      "name": "Take Her Home",
+      "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Carolyn's Boy",
         "url": "https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
         {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 184372,
-      "name": "Telluride",
-      "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 210200,
       "name": "Tell Me Tennessee",
       "url": "https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Telluride",
+      "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
     },
     {
       "added_at": "2024-10-11 04:00:00",

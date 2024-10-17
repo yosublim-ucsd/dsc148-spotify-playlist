@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 579675,
+  "num_followers": 579751,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "NEVER ALONE",
         "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 195986,
       "name": "NEVER ALONE",
       "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
-      },
-      "artists": [
-        {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        },
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
+      },
+      "artists": [
+        {
+          "name": "Tina Arena",
+          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        },
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Sing It Back (feat. Dana Williams)",
+        "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Sing It Back (feat. Dana Williams)",
+      "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1327,30 +1351,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Sing It Back (feat. Dana Williams)",
-        "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Sing It Back (feat. Dana Williams)",
-      "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1407,46 +1407,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1495,6 +1467,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Archaeology",
         "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 252905,
       "name": "Archaeology",
       "url": "https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Night Versions",
-        "url": "https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Changed For The Better - Disco Version",
-      "url": "https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 276000,
       "name": "That's Right - Edit",
       "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Night Versions",
+        "url": "https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Changed For The Better - Disco Version",
+      "url": "https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1751,6 +1751,46 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Somethin Bout You (feat. Betsy)",
+        "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "duration_ms": 215686,
+      "name": "Somethin Bout You (feat. Betsy)",
+      "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Tides (Jean Tonique Remix)",
         "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
       },
@@ -1767,22 +1807,6 @@
       "duration_ms": 181986,
       "name": "Tides - Jean Tonique Remix",
       "url": "https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1827,42 +1851,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Somethin Bout You (feat. Betsy)",
-        "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
+        "name": "Oh I",
+        "url": "https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz"
       },
       "artists": [
         {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
         }
       ],
-      "duration_ms": 215686,
-      "name": "Somethin Bout You (feat. Betsy)",
-      "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+      "duration_ms": 237289,
+      "name": "Oh I",
+      "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Oh I",
-        "url": "https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
       "artists": [
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 237289,
-      "name": "Oh I",
-      "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Swiss Sensation",
+        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 227214,
+      "name": "Swiss Sensation",
+      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 252413,
       "name": "Colors - The Knocks Remix",
       "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Swiss Sensation",
-        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 227214,
-      "name": "Swiss Sensation",
-      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2027,6 +2027,22 @@
       "duration_ms": 279036,
       "name": "Letras",
       "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "tomorrow never comes",
+        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "what i feel",
+      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2115,22 +2131,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "tomorrow never comes",
-        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "what i feel",
-      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "All The Things We Say / Move Me",
         "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
@@ -2143,6 +2143,26 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
+      },
+      "artists": [
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 278840,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2203,38 +2223,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "To the Stars and Back",
-        "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
       "artists": [
         {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        },
-        {
-          "name": "Sergiio",
-          "url": "https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0"
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
         }
       ],
-      "duration_ms": 197297,
-      "name": "To the Stars and Back",
-      "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2263,18 +2263,58 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
       "artists": [
         {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
         }
       ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "To the Stars and Back",
+        "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        },
+        {
+          "name": "Sergiio",
+          "url": "https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0"
+        }
+      ],
+      "duration_ms": 197297,
+      "name": "To the Stars and Back",
+      "url": "https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bodies in Motion",
+        "url": "https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "When We're Together",
+      "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2299,6 +2339,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
+        "url": "https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O"
+      },
+      "artists": [
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "Kelli Sae",
+          "url": "https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17"
+        }
+      ],
+      "duration_ms": 221331,
+      "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
+      "url": "https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "CAPYAC FOREVER",
         "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
       },
@@ -2319,26 +2379,6 @@
       "duration_ms": 206896,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
-        "url": "https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O"
-      },
-      "artists": [
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        },
-        {
-          "name": "Kelli Sae",
-          "url": "https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17"
-        }
-      ],
-      "duration_ms": 221331,
-      "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae)",
-      "url": "https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2375,26 +2415,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 244723,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
       },
@@ -2407,22 +2427,6 @@
       "duration_ms": 337975,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Hypnotizin'",
-        "url": "https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig"
-      },
-      "artists": [
-        {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        }
-      ],
-      "duration_ms": 238355,
-      "name": "Hypnotizin'",
-      "url": "https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY"
     }
   ],
   "unique_name": "Poolside Disco",

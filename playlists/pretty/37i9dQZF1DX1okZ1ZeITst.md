@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from A Whole New Sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,130 likes - 144 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,170 likes - 144 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

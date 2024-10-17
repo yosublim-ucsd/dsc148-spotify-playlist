@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Haute & Freddy.  Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Lo Lauren.  Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 180806,
       "name": "A Long Time",
       "url": "https://open.spotify.com/track/701A990FNNf7RuKqQFxyw3"
@@ -5445,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "Before The Kiss",
+        "url": "https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE"
+      },
+      "artists": [
+        {
+          "name": "Lo Lauren",
+          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137469,
+      "name": "Before The Kiss",
+      "url": "https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh"
+    },
+    {
+      "album": {
         "name": "Before The Sad Sets In",
         "url": "https://open.spotify.com/album/0i2Kthss4Oy6gQv5riK9Bf"
       },
@@ -9389,6 +9407,24 @@
     },
     {
       "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/1iiQZz1YfV4eFLlrrOKEIw"
+      },
+      "artists": [
+        {
+          "name": "Syamali",
+          "url": "https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/7vOl4Ee2y5I5J6WPccpIyQ"
+    },
+    {
+      "album": {
         "name": "Call Home",
         "url": "https://open.spotify.com/album/5PKUxyLcSJdNuWIds44gSu"
       },
@@ -9620,7 +9656,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 172455,
       "name": "can we NOT!",
       "url": "https://open.spotify.com/track/763GMHssYL2a8XWro8csMH"
@@ -14175,6 +14211,24 @@
     },
     {
       "album": {
+        "name": "Deathgrip",
+        "url": "https://open.spotify.com/album/0hbeQClrRcmrOPAxWjQEFN"
+      },
+      "artists": [
+        {
+          "name": "Jayden Hills",
+          "url": "https://open.spotify.com/artist/1QL69H6gS8twqSLgmJBRaE"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160887,
+      "name": "Deathgrip",
+      "url": "https://open.spotify.com/track/2U4qnkwt65VGnL3nZOJVQ1"
+    },
+    {
+      "album": {
         "name": "Deep Canyon",
         "url": "https://open.spotify.com/album/2nEMGiBUFil8r1AkRzchv8"
       },
@@ -14944,6 +14998,24 @@
       "duration_ms": 114461,
       "name": "Disney Bitch",
       "url": "https://open.spotify.com/track/2jRuSsnB481aumCPQ9fJRZ"
+    },
+    {
+      "album": {
+        "name": "disrespectful",
+        "url": "https://open.spotify.com/album/0v4QUORbIKNLp5mxHMHP7c"
+      },
+      "artists": [
+        {
+          "name": "peachi",
+          "url": "https://open.spotify.com/artist/6MwVAaoFTvQxymCbOedjtZ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135619,
+      "name": "disrespectful",
+      "url": "https://open.spotify.com/track/3tnkD1ZwnjcvdlmwIDYx8R"
     },
     {
       "album": {
@@ -17145,6 +17217,24 @@
     },
     {
       "album": {
+        "name": "election year",
+        "url": "https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205139,
+      "name": "election year",
+      "url": "https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl"
+    },
+    {
+      "album": {
         "name": "Electric Dream",
         "url": "https://open.spotify.com/album/6x6ldV8SHiyOLGXvYodN3d"
       },
@@ -19160,6 +19250,24 @@
       "duration_ms": 212865,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/3p89Ph1jcgMdnoKKN0aiQi"
+    },
+    {
+      "album": {
+        "name": "favorite songs",
+        "url": "https://open.spotify.com/album/1n9mARJQRmZNQZ6dA73Rmc"
+      },
+      "artists": [
+        {
+          "name": "Shelby Morgan",
+          "url": "https://open.spotify.com/artist/3pXTjgKKjIDC8WF7M1aVIN"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245672,
+      "name": "favorite songs",
+      "url": "https://open.spotify.com/track/3zYixXMCXwg0gHkrAUYrDE"
     },
     {
       "album": {
@@ -24883,6 +24991,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat Melody",
+        "url": "https://open.spotify.com/album/6U34xS6kiqINauqdAyBRBN"
+      },
+      "artists": [
+        {
+          "name": "Naomi Jane",
+          "url": "https://open.spotify.com/artist/24e3hF9IcHsGYNWMqwjIZv"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "Heartbeat Melody",
+      "url": "https://open.spotify.com/track/4y5ogbGojaURfzPRqH02l5"
+    },
+    {
+      "album": {
         "name": "Heartbreak Hall Of Fame",
         "url": "https://open.spotify.com/album/5qUK32ELpwTQCeoWXSxqQx"
       },
@@ -26750,7 +26876,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 184300,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/5tdbBukXi7Hmg7gHXTpgwR"
@@ -32356,7 +32482,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 158400,
       "name": "KILLING ME SOFTLY",
       "url": "https://open.spotify.com/track/3iEW8ePnQEGmPhr179STto"
@@ -32850,7 +32976,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 188947,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2"
@@ -39382,7 +39508,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 150650,
       "name": "money!",
       "url": "https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn"
@@ -44210,7 +44336,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 173551,
       "name": "over it",
       "url": "https://open.spotify.com/track/7b9dLyAEFGweixx7vfFbkN"
@@ -47862,6 +47988,24 @@
       "duration_ms": 179562,
       "name": "Ready Now",
       "url": "https://open.spotify.com/track/2vjKqJ5ng4uEkN24Lbtu5f"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/5FvCaglJvzCz092Xeu9LXO"
+      },
+      "artists": [
+        {
+          "name": "Theeth",
+          "url": "https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170431,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1TnCx5fsKaYCD7XxUvGVLr"
     },
     {
       "album": {
@@ -52238,7 +52382,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 114339,
       "name": "SINGLE*",
       "url": "https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr"
@@ -62242,7 +62386,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 195830,
       "name": "uprobablyforgotmebynow",
       "url": "https://open.spotify.com/track/32GpNdcpBoCvQ1RfH3bB91"
@@ -63108,6 +63252,24 @@
       "duration_ms": 169342,
       "name": "Wake Me Up Slowly",
       "url": "https://open.spotify.com/track/5c5vRKM76vi5UVaQNSd9nI"
+    },
+    {
+      "album": {
+        "name": "Wake up (I love you)",
+        "url": "https://open.spotify.com/album/1v6OQUH0d1rc9KuGTjZM1s"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172535,
+      "name": "Wake up (I love you)",
+      "url": "https://open.spotify.com/track/7iF3Igkn9c9o6GrTng8VOt"
     },
     {
       "album": {
@@ -66068,7 +66230,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 203446,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq"
@@ -66252,6 +66414,24 @@
       "duration_ms": 188569,
       "name": "worth it",
       "url": "https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO"
+    },
+    {
+      "album": {
+        "name": "Would It Kill You (Just To Hold Me)",
+        "url": "https://open.spotify.com/album/5Cr0g3RdEeIyKxppmFK8nO"
+      },
+      "artists": [
+        {
+          "name": "Will Baker",
+          "url": "https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205988,
+      "name": "Would It Kill You (Just To Hold Me)",
+      "url": "https://open.spotify.com/track/7xngofBPnnBHUik12uTaZD"
     },
     {
       "album": {

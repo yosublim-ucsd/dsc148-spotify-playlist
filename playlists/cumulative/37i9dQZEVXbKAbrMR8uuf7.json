@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 139742,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59"
@@ -5948,7 +5948,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 171860,
       "name": "Culiacan",
       "url": "https://open.spotify.com/track/4B5G10aokuWdgVkgD5m6d7"
@@ -9012,7 +9012,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -9740,7 +9740,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
@@ -14000,7 +14000,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -17101,6 +17101,28 @@
     },
     {
       "album": {
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/0D7CbBMSZVP8JzGR9KQvQU"
+      },
+      "artists": [
+        {
+          "name": "John Theis",
+          "url": "https://open.spotify.com/artist/5wJ6ampK4rbYM4QjhIbsGa"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194086,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6LkoWYYXeRISrlQCMhObCc"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -18646,7 +18668,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 167659,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/6RJWcYvINrYamu3sfW7a9T"
@@ -21576,7 +21598,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 179200,
       "name": "Palo Ajeno",
       "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
@@ -24086,7 +24108,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -32526,7 +32548,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"

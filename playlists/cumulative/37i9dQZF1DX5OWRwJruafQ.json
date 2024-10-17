@@ -7675,6 +7675,28 @@
     },
     {
       "album": {
+        "name": "Pagg (From The Movie \"Apne Ghar Begane\")",
+        "url": "https://open.spotify.com/album/5ZeOet9rqkSwMaHOKm11Bn"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Gurjeet Khosa",
+          "url": "https://open.spotify.com/artist/1XcpWM2VMeXK8PqsUBkhCp"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161588,
+      "name": "Pagg (From \"Apne Ghar Begane\")",
+      "url": "https://open.spotify.com/track/7h8Ml9o4YKVYCEktTh74Pi"
+    },
+    {
+      "album": {
         "name": "Paggan Tedian",
         "url": "https://open.spotify.com/album/2sgi0bfdSTCC9A1vbsr45D"
       },

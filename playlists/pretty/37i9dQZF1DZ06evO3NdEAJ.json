@@ -1,12 +1,12 @@
 {
   "description": "This Is La Fiera de Ojinaga. Los temas esenciales, todos en una lista.",
-  "num_followers": 46593,
+  "num_followers": 46602,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAADYv8lzgkakBGGtYzgGl9/b",
+  "snapshot_id": "Zw2wgAAAAAA1MGQY3DGLohiRqgEWS5os",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Toca Hacer Lo Tuyo",
-        "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
+        "name": "Si A\u00fan Pudieras Venir",
+        "url": "https://open.spotify.com/album/5e45yQZEaw6OeJyd9bjcf4"
       },
       "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 194432,
-      "name": "Te Toca Hacer Lo Tuyo",
-      "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
+      "duration_ms": 162560,
+      "name": "Si A\u00fan Pudieras Venir",
+      "url": "https://open.spotify.com/track/4GYDxV6VEjQVrHBCSUlduV"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si A\u00fan Pudieras Venir",
-        "url": "https://open.spotify.com/album/5e45yQZEaw6OeJyd9bjcf4"
+        "name": "Te Toca Hacer Lo Tuyo",
+        "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
       },
       "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
         {
           "name": "La Fiera de Ojinaga",
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Si A\u00fan Pudieras Venir",
-      "url": "https://open.spotify.com/track/4GYDxV6VEjQVrHBCSUlduV"
+      "duration_ms": 194432,
+      "name": "Te Toca Hacer Lo Tuyo",
+      "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Bonito Me Quieres",
-        "url": "https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Qu\u00e9 Bonito Me Quieres",
-      "url": "https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 158741,
       "name": "Te Mereces",
       "url": "https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Bonito Me Quieres",
+        "url": "https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Qu\u00e9 Bonito Me Quieres",
+      "url": "https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD"
     },
     {
       "added_at": null,

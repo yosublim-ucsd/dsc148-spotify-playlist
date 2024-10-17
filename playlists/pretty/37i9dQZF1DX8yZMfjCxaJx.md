@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Alemi Bustos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,327 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,493 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 88 | [El Guero Reyna](https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Al Gusto de Uno](https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg) | 2:54 |
 | 89 | [Buenas Vibras](https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Buenas Vibras](https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco) | 2:09 |
 | 90 | [Bienvenidos a Guasave](https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [B.M.T](https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF) | 3:08 |
-| 91 | [El Corrido Del MC](https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Corrido Del MC](https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo) | 2:37 |
-| 92 | [El Chavalito](https://open.spotify.com/track/1vL1HDI2FcvXN8RjJuVx5S) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc), [KD Music](https://open.spotify.com/artist/7ICoTSkEPC8PuOpbqvbdLa) | [El Chavalito](https://open.spotify.com/album/6pXa6j6VbkgTizKnXBjZQT) | 2:05 |
+| 91 | [El Chavalito](https://open.spotify.com/track/1vL1HDI2FcvXN8RjJuVx5S) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc), [KD Music](https://open.spotify.com/artist/7ICoTSkEPC8PuOpbqvbdLa) | [El Chavalito](https://open.spotify.com/album/6pXa6j6VbkgTizKnXBjZQT) | 2:05 |
+| 92 | [El Corrido Del MC](https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Corrido Del MC](https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo) | 2:37 |
 | 93 | [La Casa De Balta](https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Leyendas](https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO) | 2:48 |
 | 94 | [En la Meza una Flor](https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [En la Meza una Flor](https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr) | 3:44 |
 | 95 | [El Primito \- En Vivo](https://open.spotify.com/track/6mzbBunUF1aQI4U3hhf3qh) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Primito \- En Vivo](https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW) | 4:19 |
 | 96 | [Don Cheyo Imperial](https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Don Cheyo Imperial](https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn) | 2:57 |
-| 97 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 |
-| 98 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 |
-| 99 | [Ivan archivaldo \- En vivo](https://open.spotify.com/track/7b7WVTPsEePRuEIQv26Taa) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc) | [Fresh CLN =\) \- en vivo](https://open.spotify.com/album/77E060dBo2MiSesDZhg1ZO) | 3:40 |
-| 100 | [A Punta De Balazos \- En Vivo](https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f) | 3:57 |
+| 97 | [Ivan archivaldo \- En vivo](https://open.spotify.com/track/7b7WVTPsEePRuEIQv26Taa) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc) | [Fresh CLN =\) \- en vivo](https://open.spotify.com/album/77E060dBo2MiSesDZhg1ZO) | 3:40 |
+| 98 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 |
+| 99 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 |
+| 100 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 |
 
 Snapshot ID: `Zvsf3gAAAAAxVf7l2X3sRq24nTDxaA0s`

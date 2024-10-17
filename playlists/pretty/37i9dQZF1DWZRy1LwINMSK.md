@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Lleflight & Jairo Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,858 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,932 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 7 | [Fetty](https://open.spotify.com/track/4VUCD7MJpEsPG71MJDXBdD) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Fetty](https://open.spotify.com/album/6iU0MQfHr7q8XCU2cGwX1q) | 2:53 |
 | 8 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 |
 | 9 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
-| 10 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
+| 10 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 11 | [Bentley](https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [Bentley](https://open.spotify.com/album/2ckdAH0yjemNnvuqsE3MEa) | 2:24 |
 | 12 | [Sin Coro](https://open.spotify.com/track/5qmiyYsNPiku1ogHGHn1iB) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sin Coro](https://open.spotify.com/album/0oV0vK4dwxaaxILPPO9Yyr) | 2:35 |
 | 13 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 |

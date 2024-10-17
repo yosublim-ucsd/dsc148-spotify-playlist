@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/4UmuBF2XzW3EkO0rfrnYNO"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 225205,
       "name": "Capital Letters - Bossa Nova",
       "url": "https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo"
@@ -868,6 +868,24 @@
       "duration_ms": 150979,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/742i8sKnLgkU8QFug7eGQ9"
+    },
+    {
+      "album": {
+        "name": "Feu de paille",
+        "url": "https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Feu de paille",
+      "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
     },
     {
       "album": {
@@ -2404,6 +2422,28 @@
       "duration_ms": 266380,
       "name": "Shelter - Edit",
       "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1080696,
+  "num_followers": 1080726,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LqHYSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LqMpyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Per due come noi",
         "url": "https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ"
@@ -61,7 +61,27 @@
       "url": "https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "duration_ms": 144210,
+      "name": "TT LE GIRLZ (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -85,27 +105,43 @@
       "url": "https://open.spotify.com/track/53Fv4ViRUlvuMOhu7QVjZV"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         },
         {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 144210,
-      "name": "TT LE GIRLZ (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
+      "duration_ms": 162969,
+      "name": "CANZONE D'ODIO (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Romantico Ma Muori",
+        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 166330,
+      "name": "Romantico Ma Muori",
+      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -133,7 +169,47 @@
       "url": "https://open.spotify.com/track/7KI9vyPycMZ0Noh51ylQ9W"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "duration_ms": 204668,
+      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -165,83 +241,23 @@
       "url": "https://open.spotify.com/track/0sZ7ORHX2NHuIQZjpX0Te4"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+        "name": "Ora che non ho pi\u00f9 te",
+        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
         }
       ],
-      "duration_ms": 162969,
-      "name": "CANZONE D'ODIO (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
+      "duration_ms": 303032,
+      "name": "Ora che non ho pi\u00f9 te",
+      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        }
-      ],
-      "duration_ms": 204668,
-      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
-      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Romantico Ma Muori",
-        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 166330,
-      "name": "Romantico Ma Muori",
-      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Milano Angels",
         "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
@@ -261,7 +277,107 @@
       "url": "https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 176838,
+      "name": "1 MOMENTO (feat. ANNA)",
+      "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "EPISODIO D'AMORE",
+      "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 124675,
+      "name": "SPENDERE (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 189642,
+      "name": "BUIO DAVANTI",
+      "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 188081,
+      "name": "FENTANYL (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -313,63 +429,39 @@
       "url": "https://open.spotify.com/track/4j5cQ2vydFCpmR8PnBy7yG"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
       },
       "artists": [
         {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
         {
           "name": "ANNA",
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 176838,
-      "name": "1 MOMENTO (feat. ANNA)",
-      "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Ora che non ho pi\u00f9 te",
-        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 303032,
-      "name": "Ora che non ho pi\u00f9 te",
-      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 124675,
-      "name": "SPENDERE (feat. Simba La Rue)",
-      "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -389,31 +481,83 @@
       "url": "https://open.spotify.com/track/5VoL3TfSXVzJ5jsa15s11d"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+        "name": "Devastante",
+        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
         },
         {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        },
-        {
-          "name": "Dat Boi Dee",
-          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 196613,
-      "name": "EPISODIO D'AMORE",
-      "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
+      "duration_ms": 190122,
+      "name": "Devastante",
+      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "STORIE BREVI",
+        "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 175153,
+      "name": "STORIE BREVI",
+      "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Amore Disperato",
+        "url": "https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Amore Disperato",
+      "url": "https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 167921,
+      "name": "Polvere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -437,59 +581,7 @@
       "url": "https://open.spotify.com/track/6tBIplB49jOpeMvGvk8zdJ"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "FENTANYL (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 189642,
-      "name": "BUIO DAVANTI",
-      "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -498,14 +590,18 @@
         {
           "name": "ANNA",
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
         }
       ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
+      "duration_ms": 149091,
+      "name": "HELLO KITTY (feat. Sillyelly)",
+      "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -533,7 +629,63 @@
       "url": "https://open.spotify.com/track/7psPH6pwONpzAYLXLcr0uY"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "ZERI IN PI\u00d9 (LOCURA) (feat. Laura Pausini)",
+      "url": "https://open.spotify.com/track/0X4vgF6kbeFhfASKj0PXOd"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 241250,
+      "name": "GHETTO SUPERSTAR (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Niente Panico",
+        "url": "https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Niente Panico",
+      "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -561,47 +713,67 @@
       "url": "https://open.spotify.com/track/3O71vkxPcYjozstB6cR5H0"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 167921,
-      "name": "Polvere (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "Devastante",
-        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         },
         {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 190122,
-      "name": "Devastante",
-      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
+      "duration_ms": 183500,
+      "name": "Beatrice (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "duration_ms": 167263,
+      "name": "SESSO E SAMBA (feat. Gaia)",
+      "url": "https://open.spotify.com/track/2ljA7TjCL9U0UO7P9alF0B"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
@@ -629,139 +801,7 @@
       "url": "https://open.spotify.com/track/3IecTeGpGfTm0fRvswncwp"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Amore Disperato",
-        "url": "https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Amore Disperato",
-      "url": "https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "STORIE BREVI",
-        "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 175153,
-      "name": "STORIE BREVI",
-      "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        }
-      ],
-      "duration_ms": 149091,
-      "name": "HELLO KITTY (feat. Sillyelly)",
-      "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Niente Panico",
-        "url": "https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Niente Panico",
-      "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 241250,
-      "name": "GHETTO SUPERSTAR (feat. Ghali)",
-      "url": "https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "ZERI IN PI\u00d9 (LOCURA) (feat. Laura Pausini)",
-      "url": "https://open.spotify.com/track/0X4vgF6kbeFhfASKj0PXOd"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
@@ -770,138 +810,14 @@
         {
           "name": "Tony Effe",
           "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Gaia",
-          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
         }
       ],
-      "duration_ms": 167263,
-      "name": "SESSO E SAMBA (feat. Gaia)",
-      "url": "https://open.spotify.com/track/2ljA7TjCL9U0UO7P9alF0B"
+      "duration_ms": 149473,
+      "name": "CHIARA",
+      "url": "https://open.spotify.com/track/3BK8HOgD5GX3mfwVytDyIR"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Beatrice (feat. Annalisa)",
-      "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 160227,
-      "name": "Amore cieco (feat. Madame)",
-      "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "T.O.N.Y. (feat. Tony Boy & Tony Effe)",
-      "url": "https://open.spotify.com/track/5hHpRDG6j9HCyR0rTyVYpW"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 186833,
-      "name": "DM (feat. Tedua)",
-      "url": "https://open.spotify.com/track/3Rc5bO1LQjlVPalGDwTsMa"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "-3 (PERDERE IL VOLO) (feat. Marracash)",
-      "url": "https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "ABITUDINE",
-      "url": "https://open.spotify.com/track/3WDgl9kEiGNAerG9FNBL1H"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -921,51 +837,43 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c"
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
       "artists": [
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 149473,
-      "name": "CHIARA",
-      "url": "https://open.spotify.com/track/3BK8HOgD5GX3mfwVytDyIR"
+      "duration_ms": 179538,
+      "name": "-3 (PERDERE IL VOLO) (feat. Marracash)",
+      "url": "https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
       "artists": [
         {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 184213,
-      "name": "True story (feat. Noyz Narcos, Papa V & Artie 5ive)",
-      "url": "https://open.spotify.com/track/58Qx8ttdSunlnfKgVrE8XP"
+      "duration_ms": 189041,
+      "name": "ABITUDINE",
+      "url": "https://open.spotify.com/track/3WDgl9kEiGNAerG9FNBL1H"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "Paprika",
         "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
@@ -981,27 +889,7 @@
       "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "TUNNEL",
-        "url": "https://open.spotify.com/album/6YuOevsuiSCOYw5I0VznFU"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "VRP",
-      "url": "https://open.spotify.com/track/5v8TAgDkXKzzV2fKNWRMwA"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "RADIO SAKURA",
         "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
@@ -1021,31 +909,7 @@
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "Mio padre (feat. Noyz Narcos & Gu\u00e8)",
-      "url": "https://open.spotify.com/track/6im0jVUTuW50jBwTHnMiur"
-    },
-    {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
@@ -1069,24 +933,140 @@
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
     },
     {
-      "added_at": "2024-10-15 17:48:35",
+      "added_at": "2024-10-16 12:31:20",
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
         },
         {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 203100,
-      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
+      "duration_ms": 160227,
+      "name": "Amore cieco (feat. Madame)",
+      "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/6YuOevsuiSCOYw5I0VznFU"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 148148,
+      "name": "VRP",
+      "url": "https://open.spotify.com/track/5v8TAgDkXKzzV2fKNWRMwA"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 186833,
+      "name": "DM (feat. Tedua)",
+      "url": "https://open.spotify.com/track/3Rc5bO1LQjlVPalGDwTsMa"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "T.O.N.Y. (feat. Tony Boy & Tony Effe)",
+      "url": "https://open.spotify.com/track/5hHpRDG6j9HCyR0rTyVYpW"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Mezzo Rotto (feat. BigMama)",
+        "url": "https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        },
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 195238,
+      "name": "Mezzo Rotto (feat. BigMama)",
+      "url": "https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "ALTROVE",
+        "url": "https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "ALTROVE",
+      "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
+    },
+    {
+      "added_at": "2024-10-16 12:31:20",
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 191856,
+      "name": "Take 5",
+      "url": "https://open.spotify.com/track/3sdvDRHwSpuKUehwVYxHcG"
     }
   ],
   "unique_name": "Top 50 - Italy",

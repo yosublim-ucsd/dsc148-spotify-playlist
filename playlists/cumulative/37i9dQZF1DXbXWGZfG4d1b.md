@@ -2,7 +2,7 @@
 
 ### [6PM Indie](https://open.spotify.com/playlist/37i9dQZF1DXbXWGZfG4d1b)
 
-> Rock independiente, pop alternativo y golden hour\. Foto: Paul HIggs y Conociendo Rusia.
+> Rock independiente, pop alternativo y golden hour\. Foto: Paul Higgs y Conociendo Rusia.
 
 645 songs - 1 day 14 hr 1 min
 

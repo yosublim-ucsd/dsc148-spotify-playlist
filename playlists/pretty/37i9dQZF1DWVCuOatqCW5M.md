@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Mohammad Faiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,133 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,182 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Hi Tu](https://open.spotify.com/track/6FJgSrM8PmiqJtLriJuAkV) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Hi Tu](https://open.spotify.com/album/6i1fAW7Dzh70fJd7qrTDDB) | 3:54 |
-| 2 | [Gypsy 2 \(feat\. Pranjal Dahiya\)](https://open.spotify.com/track/1FV3PDNMhj7xxYjfye1a5B) | [G.D\. Kaur](https://open.spotify.com/artist/1JASStJXixMu8BtchqHp2s), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM), [Dinesh Golan](https://open.spotify.com/artist/06oJwi4lIO6n5wvhrXSOwS), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Gypsy 2 \(feat\. Pranjal Dahiya\)](https://open.spotify.com/album/5E5mezsretE9vId6RmoFqB) | 2:44 |
+| 2 | [Gypsy 2](https://open.spotify.com/track/1FV3PDNMhj7xxYjfye1a5B) | [G.D\. Kaur](https://open.spotify.com/artist/1JASStJXixMu8BtchqHp2s), [Dinesh Golan](https://open.spotify.com/artist/06oJwi4lIO6n5wvhrXSOwS), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Gypsy 2](https://open.spotify.com/album/5E5mezsretE9vId6RmoFqB) | 2:44 |
 | 3 | [Bas Kaafi Hai](https://open.spotify.com/track/2yxRnMJTgBDTUf3qVX7Yu1) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Bas Kaafi Hai](https://open.spotify.com/album/0KH4Y7pf9Udh0KIP2ymRGf) | 4:57 |
 | 4 | [Tere Bina](https://open.spotify.com/track/4A0Q9fhvruuV8206704qVq) | [REV Shergill](https://open.spotify.com/artist/6hbczy8v83L9ZWsP8BGjiU), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [Tere Bina](https://open.spotify.com/album/233YJ6P0ZQiXQj7Tig4ng6) | 3:41 |
 | 5 | [Sapna Bani Hai Har Khushi](https://open.spotify.com/track/7HyME4aNZ8e1S1y2o2vQ30) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Akshay Vairagi](https://open.spotify.com/artist/7L3uC1DOPeLK4TC4AQQ5pz) | [Sapna Bani Hai Har Khushi](https://open.spotify.com/album/04Ux6V4uYxw4z2VYHWtpyw) | 4:43 |

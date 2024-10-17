@@ -1,12 +1,12 @@
 {
-  "description": "This is EGOIST. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 40245,
+  "description": "This Is EGOIST. Los temas esenciales, todos en una lista.",
+  "num_followers": 40246,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAByZK5KPBLWPv6TgsnAsPa0",
+  "snapshot_id": "Zw2wgAAAAADeMRb9PMZIikVlqxqt+eJY",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
-        "url": "https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 231169,
-      "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
-      "url": "https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
         "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 284173,
       "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
       "url": "https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
+        "url": "https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 231169,
+      "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
+      "url": "https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 134146,
-      "name": "\u539f\u7f6a\u306e\u706f",
-      "url": "https://open.spotify.com/track/7Ls2Zk4Q3yl3norW825KZF"
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
+      "duration_ms": 134146,
+      "name": "\u539f\u7f6a\u306e\u706f",
+      "url": "https://open.spotify.com/track/7Ls2Zk4Q3yl3norW825KZF"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen-TV edit-",
-        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 89990,
-      "name": "Fallen-TV edit-",
-      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
         "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 90260,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
       "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallen-TV edit-",
+        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 89990,
+      "name": "Fallen-TV edit-",
+      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
-        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 256013,
-      "name": "\u6c38\u9060 -Instrumental-",
-      "url": "https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx"
+      "duration_ms": 475773,
+      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
+      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
+        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 475773,
-      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
-      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
+      "duration_ms": 256013,
+      "name": "\u6c38\u9060 -Instrumental-",
+      "url": "https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx"
     },
     {
       "added_at": null,

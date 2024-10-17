@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260682,
+      "name": "\"L\"",
+      "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
+    },
+    {
+      "album": {
         "name": "2016-2020",
         "url": "https://open.spotify.com/album/7ohVuXCwopL0tulQkGbeyF"
       },
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Color It",
+        "url": "https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199149,
+      "name": "Color It",
+      "url": "https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc"
+    },
+    {
+      "album": {
         "name": "Don't be afraid to fall",
         "url": "https://open.spotify.com/album/7erkiZzC03oPSYS7idGDDc"
       },
@@ -200,6 +236,24 @@
       "duration_ms": 194037,
       "name": "Fall in love with you",
       "url": "https://open.spotify.com/track/73Wsik6qwXZsz0AeaA9l9a"
+    },
+    {
+      "album": {
+        "name": "Pre-Romance / Finale.",
+        "url": "https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242367,
+      "name": "Finale.",
+      "url": "https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu"
     },
     {
       "album": {
@@ -290,6 +344,24 @@
       "duration_ms": 196497,
       "name": "Haru wo Tsugeru",
       "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
+    },
+    {
+      "album": {
+        "name": "Hi, dream",
+        "url": "https://open.spotify.com/album/7hn1I9Pf57PtpzaIR6Wul4"
+      },
+      "artists": [
+        {
+          "name": "Raon",
+          "url": "https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183746,
+      "name": "Hi, dream",
+      "url": "https://open.spotify.com/track/3lt3bnxDv2VZmXucuMEk5j"
     },
     {
       "album": {
@@ -387,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Koko de Iki wo Shite",
+      "url": "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b"
+    },
+    {
+      "album": {
         "name": "\u7d76\u4f53\u7d76\u547d / Lamp",
         "url": "https://open.spotify.com/album/2fA2H8u2QfhK4nYn9gjC4q"
       },
@@ -438,6 +528,28 @@
       "duration_ms": 192613,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0DsC26vzbRes14ed43dNKK"
+    },
+    {
+      "album": {
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327966,
+      "name": "LOST IN PARADISE",
+      "url": "https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX"
     },
     {
       "album": {
@@ -518,6 +630,24 @@
       "duration_ms": 355000,
       "name": "miss you",
       "url": "https://open.spotify.com/track/7AifXYN9mUqMQm2XBT8FKW"
+    },
+    {
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/4fqYkhN96NZ2zvcf5HRMIs"
+      },
+      "artists": [
+        {
+          "name": "Raon",
+          "url": "https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/2l0qBjI2zsbdcFoiRLugDA"
     },
     {
       "album": {
@@ -699,6 +829,24 @@
     },
     {
       "album": {
+        "name": "The Volunteers",
+        "url": "https://open.spotify.com/album/4AvTCepiyBgj75o8ldFp6M"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251033,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4OJ3lHcyZdUaYNyhFQdbax"
+    },
+    {
+      "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
       },
@@ -732,6 +880,24 @@
       "duration_ms": 248613,
       "name": "The knight who can't die and the silk cradle",
       "url": "https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh"
+    },
+    {
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt"
     },
     {
       "album": {
@@ -771,6 +937,24 @@
     },
     {
       "album": {
+        "name": "TOGENASHI",
+        "url": "https://open.spotify.com/album/7I0nZ1uqE3Qydi7gyyd187"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "VOID - Nina Iseri, Momoka Kawarag",
+      "url": "https://open.spotify.com/track/2FbJDQNUyPGvGZCoQXzyX4"
+    },
+    {
+      "album": {
         "name": "W / X / Y",
         "url": "https://open.spotify.com/album/0M7PpUvqAneY1EgcoI986E"
       },
@@ -807,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh"
+    },
+    {
+      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB"
       },
@@ -822,6 +1024,24 @@
       "duration_ms": 224786,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
+    },
+    {
+      "album": {
+        "name": "Wrong World",
+        "url": "https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184243,
+      "name": "Wrong World",
+      "url": "https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz"
     },
     {
       "album": {
@@ -1254,6 +1474,42 @@
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    },
+    {
+      "album": {
+        "name": "\ubd88\uaf43, \ub180\uc774",
+        "url": "https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183746,
+      "name": "\ubd88\uaf43, \ub180\uc774",
+      "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
+    },
+    {
+      "album": {
+        "name": "Oh, Life",
+        "url": "https://open.spotify.com/album/5XAcHixfWVD8iI6H9qIZ3z"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207410,
+      "name": "\ud56d\ubcf5",
+      "url": "https://open.spotify.com/track/40cWWy4RgszGtvmmiAaJLM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYky5xA4i61c"

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: King Gnu
 
-1,124 songs - 3 day 2 hr 20 min
+1,125 songs - 3 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [I DON'T WANNA](https://open.spotify.com/track/1mOeV8FLM1u2K6FQikcWvM) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [BLAST OFF!](https://open.spotify.com/album/5K6mctmxGbGJUuii7uRt2d) | 3:21 | 2022-05-10 | 2022-06-21 |
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7) | 2:48 | 2022-09-27 | 2022-11-02 |
-| [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 | 2023-11-08 |  |
+| [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 | 2023-11-08 | 2024-10-17 |
 | [I miss your fire](https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [I miss your fire](https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g) | 5:42 | 2024-01-16 | 2024-04-19 |
 | [I SAW THE LIGHT](https://open.spotify.com/track/0CwRTrHVZuMqhcE4BuIEC1) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [April](https://open.spotify.com/album/1nzN8sZwqOiMQPnxb2EAN3) | 2:06 | 2024-04-02 | 2024-04-24 |
 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 | 2024-04-23 |  |
@@ -919,6 +919,7 @@
 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 | 2022-09-20 | 2022-11-02 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-01 |  |
 | [切手のないおくりもの](https://open.spotify.com/track/1kVL0b3nQfoFhClBCuKFM5) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [JUICE UP!!](https://open.spotify.com/album/37KhIsdSPhactF4XrvJyds) | 1:57 | 2024-02-01 | 2024-04-19 |
+| [初夏](https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [初夏](https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F) | 3:48 | 2024-10-15 |  |
 | [勃](https://open.spotify.com/track/3X5FxxEUNq1tExNUZXgcEc) | [ENDRECHERI](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [勃](https://open.spotify.com/album/2nmxQfw5q7YIZ7EHsb2bwQ) | 3:22 | 2022-05-22 | 2022-06-09 |
 | [北極星のメロディー](https://open.spotify.com/track/1no67Xem769Zp65uuD3D8z) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [北極星のメロディー](https://open.spotify.com/album/4ei1drG1Zg6yhDwRlGwwPZ) | 4:28 | 2022-05-24 | 2022-06-17 |
 | [十匹の熊 \- ZERO TAKES Ver.](https://open.spotify.com/track/5FDAp7KH8l9CYlpD7gImdm) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [ZERO TAKES](https://open.spotify.com/album/64oIZKL8yH08Uh11YD5DJM) | 3:29 | 2022-05-19 | 2022-07-29 |

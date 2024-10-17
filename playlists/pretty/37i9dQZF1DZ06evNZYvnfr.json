@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3372,
+  "num_followers": 3374,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAABnxvsWFul6xwxIWA/hXNSr",
+  "snapshot_id": "Zw2wgAAAAADFcy0HXg22Z0hmOLNwA5DP",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us (feat. Emerson Day)",
-        "url": "https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22"
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
       },
       "artists": [
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Emerson Day",
-          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
         }
       ],
-      "duration_ms": 226348,
-      "name": "People Like Us (feat. Emerson Day)",
-      "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": null,
@@ -95,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+        "name": "People Like Us (feat. Emerson Day)",
+        "url": "https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22"
       },
       "artists": [
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
         }
       ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+      "duration_ms": 226348,
+      "name": "People Like Us (feat. Emerson Day)",
+      "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
     },
     {
       "added_at": null,

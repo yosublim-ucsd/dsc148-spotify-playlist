@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-302 songs - 17 hr 26 min
+303 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [KALO KAKO](https://open.spotify.com/track/6jEZAcHnK8vBGDq1wdcS32) | [el miyu](https://open.spotify.com/artist/3ybkQhkPO8zpkdcatHFOiO) | [KALO KAKO](https://open.spotify.com/album/0FoMIx2LHRSpu7zfsOHClB) | 2:28 | 2024-10-01 | 2024-10-14 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 | 2024-06-06 |  |
-| [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 |  |
+| [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 | 2024-10-17 |
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-10-16 | 2023-12-30 |
 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 | 2024-04-11 |  |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 3:24 | 2022-11-11 | 2024-02-09 |
@@ -175,6 +175,7 @@
 | [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 | 2022-11-11 | 2024-04-19 |
 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 | 2023-01-26 |  |
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2022-11-11 | 2024-06-07 |
+| [Maison Du Monde](https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu) | [Luis Ramiro](https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT) | [Maison Du Monde](https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3) | 3:25 | 2024-10-01 |  |
 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 | 2024-09-24 |  |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-23 |  |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-20 | 2023-05-13 |

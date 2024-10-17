@@ -2,9 +2,9 @@
 
 ### [ZEROBASEONE WORLD TOUR \[TIMELESS WORLD\]](https://open.spotify.com/playlist/37i9dQZF1DX7ShCuCszBOs)
 
-> Listen to the setlist of the Zero Base One World Tour and relive those emotions! \(제로베이스원 월드투어의 셋리스트를 감상하며 그 때의 감동을 다시 느껴보세요!\)
+> Enjoy the ZEROBASEONE Seoul world tour LIVE SET including the voices of them on stage! \(제로베이스원의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-35 songs - 1 hr 33 min
+40 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,10 @@
 | [Kidz Zone](https://open.spotify.com/track/5Nj2wlNSc9H9L7NoDxPfQg) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:29 | 2024-09-20 |  |
 | [KILL THE ROMEO](https://open.spotify.com/track/2RZtRhyKU26Ij8BFhAfywS) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 3:18 | 2024-09-09 |  |
 | [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2024-09-09 | 2024-09-21 |
-| [Message from GUNWOOK & YUJIN](https://open.spotify.com/track/3TKwPHx55ocYwJ6LBaMQew) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:18 | 2024-09-09 |  |
-| [Message from GYUVIN & JIWOONG & RICKY](https://open.spotify.com/track/5mE74FC30aZsdrHqqcFPaw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:23 | 2024-09-09 |  |
-| [Message from HANBIN & HAO](https://open.spotify.com/track/2JnO4kCWiTj9OC4l3gLrZV) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:30 | 2024-09-09 |  |
-| [Message from MATTHEW & TAERAE](https://open.spotify.com/track/1Tp6Tm5xl0KTBbXXNC0sSv) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:22 | 2024-09-09 |  |
+| [Message from GUNWOOK & YUJIN](https://open.spotify.com/track/3TKwPHx55ocYwJ6LBaMQew) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:18 | 2024-09-09 | 2024-10-17 |
+| [Message from GYUVIN & JIWOONG & RICKY](https://open.spotify.com/track/5mE74FC30aZsdrHqqcFPaw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:23 | 2024-09-09 | 2024-10-17 |
+| [Message from HANBIN & HAO](https://open.spotify.com/track/2JnO4kCWiTj9OC4l3gLrZV) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:30 | 2024-09-09 | 2024-10-17 |
+| [Message from MATTHEW & TAERAE](https://open.spotify.com/track/1Tp6Tm5xl0KTBbXXNC0sSv) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD](https://open.spotify.com/album/7Myl3EqSRICQqx1mZp6aeT) | 0:22 | 2024-09-09 | 2024-10-17 |
 | [New Kidz on the Block](https://open.spotify.com/track/4i7iGaXbW1dKBZD5tZuvZt) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:32 | 2024-09-20 |  |
 | [Our Season](https://open.spotify.com/track/5NSfzS7hcpm3qPphy5o07V) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 2:57 | 2024-09-09 | 2024-09-21 |
 | [Over Me](https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF) | [Overdose](https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:12 | 2024-09-20 |  |
@@ -43,5 +43,10 @@
 | [Take My Hand](https://open.spotify.com/track/2fpul5lhD5I0fHQrwliJku) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 3:35 | 2024-09-09 |  |
 | [The Sea \- ZB1 Remake](https://open.spotify.com/track/10WDNCAnPkUUZhAZneTWNh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 2:40 | 2024-09-09 | 2024-09-21 |
 | [YURA YURA \- Korean Version](https://open.spotify.com/track/1f9mgpjuSsEs0gCq2OfjCV) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 3:04 | 2024-09-09 |  |
+| [ZEROBASEONE\_MENT A](https://open.spotify.com/track/4741tZa8LtcKiIZ3CHh6rn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 8:42 | 2024-10-16 |  |
+| [ZEROBASEONE\_MENT B](https://open.spotify.com/track/1q0Q282ezXcbt5sUd18zjO) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 8:02 | 2024-10-16 |  |
+| [ZEROBASEONE\_MENT C](https://open.spotify.com/track/1Pws0jM0ww7llYrbPTiczr) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 3:27 | 2024-10-16 |  |
+| [ZEROBASEONE\_MENT D](https://open.spotify.com/track/3JJV4iWeF8qK4eKMXiiu1D) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 5:05 | 2024-10-16 |  |
+| [ZEROBASEONE\_MENT E](https://open.spotify.com/track/5Or58C5T0ezgN62iaC0Htx) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ZEROBASEONE WORLD TOUR \- TIMELESS WORLD \(LIVE\)](https://open.spotify.com/album/38hbHsxJNCCiWg25GGNaev) | 14:11 | 2024-10-16 |  |
 
 \*This playlist was first scraped on 2024-09-11. Prior content cannot be recovered.

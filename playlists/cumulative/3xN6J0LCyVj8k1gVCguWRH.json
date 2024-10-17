@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 149538,
       "name": "A warm night in NYC",
       "url": "https://open.spotify.com/track/1pBCagbFkWUbqvgPMvXAic"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 220000,
       "name": "Amores As\u00ed",
       "url": "https://open.spotify.com/track/6oriKDugUDT1CcBTBDgF5s"
@@ -16059,6 +16059,24 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4QocOje5vl69d9dpH9ZbhU"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153529,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4MbbPlazYHz892lbnWPelv"
+    },
+    {
+      "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/7wToFoUAAE2DJuB1fvzB9J"
       },
@@ -19186,7 +19204,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 219843,
       "name": "dying w/ u",
       "url": "https://open.spotify.com/track/7DfSYgpup6BEEJTQYLcS18"
@@ -28740,7 +28758,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 241202,
       "name": "Helium",
       "url": "https://open.spotify.com/track/2BEn2eFIYKkXY8QOTEyoKa"
@@ -38868,7 +38886,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 166125,
       "name": "Lipstick Makeup (Scoobert Doobert Edit)",
       "url": "https://open.spotify.com/track/0eUoAe30Z3TnMPrl6PPYty"
@@ -40136,6 +40154,28 @@
       "duration_ms": 218365,
       "name": "Love Addict",
       "url": "https://open.spotify.com/track/03A6i622Lfu60Osve7cvqN"
+    },
+    {
+      "album": {
+        "name": "Love Affair",
+        "url": "https://open.spotify.com/album/07Ul3QShP5GIbti5SMxYgQ"
+      },
+      "artists": [
+        {
+          "name": "J.Views",
+          "url": "https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182794,
+      "name": "Love Affair",
+      "url": "https://open.spotify.com/track/7hwtROpIHwUU6Y3xMbjIpo"
     },
     {
       "album": {
@@ -55941,6 +55981,24 @@
     },
     {
       "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/39OXom6s0NarGcTbpr0l7a"
+      },
+      "artists": [
+        {
+          "name": "Bird",
+          "url": "https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Roy",
+      "url": "https://open.spotify.com/track/2Y3MqG9sqkvfcVLZUsNKsG"
+    },
+    {
+      "album": {
         "name": "ruin july",
         "url": "https://open.spotify.com/album/1VJu4ouMI4rD7L3brqAnEb"
       },
@@ -66708,6 +66766,24 @@
       "duration_ms": 192360,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/6iRSSZhqpXdlgqujwlwaHN"
+    },
+    {
+      "album": {
+        "name": "The Evolution of Sarah",
+        "url": "https://open.spotify.com/album/1TGwy2m7YShaJb8ECAtT7k"
+      },
+      "artists": [
+        {
+          "name": "Lil Flower Nasti",
+          "url": "https://open.spotify.com/artist/1tJPjknR9uXKSOfZ89KnAs"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214751,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/3CWlxsfKUtCcFl4GvUKUme"
     },
     {
       "album": {

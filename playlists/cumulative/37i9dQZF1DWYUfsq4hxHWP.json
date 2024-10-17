@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Clayton Mullen, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: SirLockeHolmes, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -1690,6 +1690,24 @@
       "duration_ms": 163706,
       "name": "All That Pretty",
       "url": "https://open.spotify.com/track/4oAlfN2kHk4aQ6DG7r6NMD"
+    },
+    {
+      "album": {
+        "name": "All That's Left of Me",
+        "url": "https://open.spotify.com/album/52DNgozSj0eInDhSNAAEkw"
+      },
+      "artists": [
+        {
+          "name": "Chris Moreno",
+          "url": "https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190063,
+      "name": "All That's Left of Me",
+      "url": "https://open.spotify.com/track/7kL7BTLyxgG98gvvTU5zbv"
     },
     {
       "album": {
@@ -3954,6 +3972,24 @@
       "duration_ms": 160808,
       "name": "Beer Problem",
       "url": "https://open.spotify.com/track/1VhzLGKd9PjyU4tnxlAgau"
+    },
+    {
+      "album": {
+        "name": "Beer Tabs",
+        "url": "https://open.spotify.com/album/6FnBFiz3BpiwhqfP0BithH"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190405,
+      "name": "Beer Tabs",
+      "url": "https://open.spotify.com/track/6ldYcfPDOFuFhYHPe9kJb0"
     },
     {
       "album": {
@@ -6416,7 +6452,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 219473,
       "name": "Builder",
       "url": "https://open.spotify.com/track/5oY2V3HKrD4KIxajI29D2H"
@@ -7000,6 +7036,24 @@
       "duration_ms": 235866,
       "name": "Calling For Rain",
       "url": "https://open.spotify.com/track/0aRtVCzteIR9O4yQSi0k5m"
+    },
+    {
+      "album": {
+        "name": "Calling You",
+        "url": "https://open.spotify.com/album/255JhJSxHaZy6FfIig8wnv"
+      },
+      "artists": [
+        {
+          "name": "Cale Dodds",
+          "url": "https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179078,
+      "name": "Calling You",
+      "url": "https://open.spotify.com/track/6LUSl2wYAuljHBNGbfy95O"
     },
     {
       "album": {
@@ -10607,6 +10661,24 @@
     },
     {
       "album": {
+        "name": "Different Dream",
+        "url": "https://open.spotify.com/album/2s9hOdBYUsS7kyRhjqYCHv"
+      },
+      "artists": [
+        {
+          "name": "Justin Adams",
+          "url": "https://open.spotify.com/artist/2u3XRCxHLda0KhnBplrGc0"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232613,
+      "name": "Different Dream",
+      "url": "https://open.spotify.com/track/2kHZdQbTFBQK7BOXP1KaV3"
+    },
+    {
+      "album": {
         "name": "Different Now",
         "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
       },
@@ -11198,6 +11270,24 @@
       "duration_ms": 216626,
       "name": "Don't It Feel Like Rain",
       "url": "https://open.spotify.com/track/354HsVzN2ikyLwPk8KKdnF"
+    },
+    {
+      "album": {
+        "name": "Don't Know Any Different",
+        "url": "https://open.spotify.com/album/0QCvvJWFVxc2lI4hWLJ0RQ"
+      },
+      "artists": [
+        {
+          "name": "Reid Haughton",
+          "url": "https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178345,
+      "name": "Don't Know Any Different",
+      "url": "https://open.spotify.com/track/223GzWfj8wnULbOXMtr2du"
     },
     {
       "album": {
@@ -13562,7 +13652,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 181631,
       "name": "Fall In The Summer",
       "url": "https://open.spotify.com/track/6VLrxWuKb7PuYClrL2LSJv"
@@ -15996,7 +16086,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 182930,
       "name": "Gone By Sunrise",
       "url": "https://open.spotify.com/track/1ZuHQsvDaZJWY5fv4hZ0Hd"
@@ -16674,7 +16764,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 180506,
       "name": "Goodbye You Wanted (feat. Sarah Allison Turner)",
       "url": "https://open.spotify.com/track/6wwgQHM0n4xQUD7duQxMPa"
@@ -18318,6 +18408,28 @@
       "duration_ms": 176001,
       "name": "Heart's Done Breakin'",
       "url": "https://open.spotify.com/track/4iZ5XVGHw4YdGO4etZIPxO"
+    },
+    {
+      "album": {
+        "name": "Upon Reflection",
+        "url": "https://open.spotify.com/album/5UHrTg43vbXnxZTkDwoanC"
+      },
+      "artists": [
+        {
+          "name": "Tyla Rodrigues",
+          "url": "https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV"
+        },
+        {
+          "name": "Blake O'Connor",
+          "url": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249774,
+      "name": "Heart, Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/2FEhGntRtV5YZtAzMTIvSq"
     },
     {
       "album": {
@@ -22094,6 +22206,24 @@
       "duration_ms": 209600,
       "name": "I've Been Thinking",
       "url": "https://open.spotify.com/track/4Elmal3KfMvVNIvJo1Cbfl"
+    },
+    {
+      "album": {
+        "name": "Magnolia Nights",
+        "url": "https://open.spotify.com/album/60yjYv8WJarX0O07nsugpt"
+      },
+      "artists": [
+        {
+          "name": "George Pippen",
+          "url": "https://open.spotify.com/artist/4w1zfjhq0af0tXDlCi8EYW"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "I-65",
+      "url": "https://open.spotify.com/track/7onhzjL4vd2KMbJ9Qb0ZrH"
     },
     {
       "album": {
@@ -27032,7 +27162,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 177320,
       "name": "Love a Little",
       "url": "https://open.spotify.com/track/3DubvXXA2SWGU2ovLYzLcy"
@@ -27360,6 +27490,24 @@
       "duration_ms": 210813,
       "name": "Love You a Little Bit",
       "url": "https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM"
+    },
+    {
+      "album": {
+        "name": "Love You Like You\u2019re Gone",
+        "url": "https://open.spotify.com/album/4yd8aAy7vII27bMFckEQzr"
+      },
+      "artists": [
+        {
+          "name": "Jay Allen",
+          "url": "https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201966,
+      "name": "Love You Like You\u2019re Gone",
+      "url": "https://open.spotify.com/track/5Lb5tCFKkzwsCXXjb1neLr"
     },
     {
       "album": {
@@ -30015,6 +30163,24 @@
     },
     {
       "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5EBWug8LBe7Qr22ZQnhqRO"
+      },
+      "artists": [
+        {
+          "name": "Megan Knight",
+          "url": "https://open.spotify.com/artist/2Y4m8BAZwXLSPulBEGx1h7"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225982,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/4yOgT6LdOXBn9PRQl1fvbT"
+    },
+    {
+      "album": {
         "name": "Name Drop",
         "url": "https://open.spotify.com/album/4BBl9CNwXfEXF7BugZYlfT"
       },
@@ -30318,7 +30484,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 213269,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
@@ -32679,6 +32845,24 @@
     },
     {
       "album": {
+        "name": "Parts Of Me",
+        "url": "https://open.spotify.com/album/79ShqIkW2XBb32j7kOSmzy"
+      },
+      "artists": [
+        {
+          "name": "James Tucker",
+          "url": "https://open.spotify.com/artist/5BxhrOGx4mGsMPi9PphUXG"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212351,
+      "name": "Parts Of Me",
+      "url": "https://open.spotify.com/track/0ZM7DEHzX6nBOrHKTeKyS8"
+    },
+    {
+      "album": {
         "name": "Party in My Hometown",
         "url": "https://open.spotify.com/album/3R7wb8dIBWyjlqD8GXEdnl"
       },
@@ -32964,6 +33148,24 @@
       "duration_ms": 219161,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/0Ww1cF95niYJOlVrc84ieK"
+    },
+    {
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/6A7XWq5ygufO6YwZ6Npsyk"
+      },
+      "artists": [
+        {
+          "name": "Presley Tennant",
+          "url": "https://open.spotify.com/artist/6WAnQSoxNf0YiXhWkEAqr7"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178034,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/3BEOf5plYZkdJSZ6c6Meci"
     },
     {
       "album": {
@@ -39625,6 +39827,28 @@
     },
     {
       "album": {
+        "name": "Golden Child",
+        "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        },
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213819,
+      "name": "Stoned Alone (feat. Caitlyn Smith)",
+      "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"
+    },
+    {
+      "album": {
         "name": "Stop Loving You",
         "url": "https://open.spotify.com/album/5KqSbUEGv8ZiCtRO99d79v"
       },
@@ -42399,6 +42623,24 @@
     },
     {
       "album": {
+        "name": "Emmy Moyen",
+        "url": "https://open.spotify.com/album/0IKGivisE0tQRvA3wkawof"
+      },
+      "artists": [
+        {
+          "name": "Emmy Moyen",
+          "url": "https://open.spotify.com/artist/3ehW5Ap1mJw5SV8YiHonRZ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215015,
+      "name": "The Thing About Mississippi",
+      "url": "https://open.spotify.com/track/6ShHmjh8hj7m1XsRcVYpR0"
+    },
+    {
+      "album": {
         "name": "The Thing About Things",
         "url": "https://open.spotify.com/album/3EETCbffOESZLgHMkGWtWn"
       },
@@ -43928,6 +44170,24 @@
       "duration_ms": 177945,
       "name": "Toughest Act To Follow",
       "url": "https://open.spotify.com/track/4xmXQ4UVZbPQzJnSxELYsu"
+    },
+    {
+      "album": {
+        "name": "Town Near You",
+        "url": "https://open.spotify.com/album/6Y8GiWTB3P1azXgosmCkDM"
+      },
+      "artists": [
+        {
+          "name": "HAYS",
+          "url": "https://open.spotify.com/artist/5X3htdReMDESZ48LXgy33t"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155447,
+      "name": "Town Near You",
+      "url": "https://open.spotify.com/track/2MvjK8BmXOt3Eizz6XNV02"
     },
     {
       "album": {
@@ -46885,6 +47145,24 @@
     },
     {
       "album": {
+        "name": "Whiskey You're Cold",
+        "url": "https://open.spotify.com/album/5TOtySy8wcwkpduWRIWAxk"
+      },
+      "artists": [
+        {
+          "name": "Dani Rose",
+          "url": "https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Whiskey You're Cold",
+      "url": "https://open.spotify.com/track/5gFzJxGWPamBswU2xqMpqZ"
+    },
+    {
+      "album": {
         "name": "Whiskey'd Me Away",
         "url": "https://open.spotify.com/album/57JsxkHchM8fTWIOv248An"
       },
@@ -48657,6 +48935,24 @@
     },
     {
       "album": {
+        "name": "You Didn't Hear It from Me",
+        "url": "https://open.spotify.com/album/0MMxcj5oWVBkGUZYYwqxAg"
+      },
+      "artists": [
+        {
+          "name": "ROTUNDO",
+          "url": "https://open.spotify.com/artist/5Gyx55qxs56PDdjdr73Ww1"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171997,
+      "name": "You Didn't Hear It from Me",
+      "url": "https://open.spotify.com/track/5nZvyue6jJJB1JMEvFEIKp"
+    },
+    {
+      "album": {
         "name": "You Don't Fit Me",
         "url": "https://open.spotify.com/album/0WK4KrdWZZaQq6uir1FWXn"
       },
@@ -48726,6 +49022,24 @@
       "duration_ms": 215930,
       "name": "You Don't Wanna Know",
       "url": "https://open.spotify.com/track/5tGh25n8b3WlTxIbNUAUL6"
+    },
+    {
+      "album": {
+        "name": "You Fall",
+        "url": "https://open.spotify.com/album/6v2uT9DKF0HNQ9z1x4mdX1"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Trio",
+          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "You Fall",
+      "url": "https://open.spotify.com/track/1V3WX6iR228GPdroMUAhd5"
     },
     {
       "album": {
@@ -49144,7 +49458,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 195560,
       "name": "Younger",
       "url": "https://open.spotify.com/track/7enjR0hPGPw1MG8UIEk4kF"

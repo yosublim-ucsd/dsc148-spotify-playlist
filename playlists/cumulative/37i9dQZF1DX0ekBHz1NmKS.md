@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,653 songs - 3 day 13 hr 46 min
+1,654 songs - 3 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2024-01-04 | 2024-03-08 |
 | [December](https://open.spotify.com/track/25ttMdXx0DuAR2p6myYlF9) | [Anders Robert](https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte) | [December](https://open.spotify.com/album/3PwH45P3rTlpCJL6ArAyKC) | 3:03 | 2023-11-03 | 2024-02-09 |
 | [Deep Down \- From the Film ‘Avgrunden’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘Avgrunden’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2023-09-14 | 2024-01-19 |
-| [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-05 |  |
+| [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-05 | 2024-10-17 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1bYVmrLMimVUcFa1dzeZE4) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:16 | 2023-09-08 | 2023-10-06 |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-23 | 2023-08-26 |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-05 |  |
@@ -612,6 +612,7 @@
 | [Higher Power](https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Higher Power](https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H) | 3:00 | 2022-03-10 | 2022-09-16 |
 | [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-23 | 2022-06-25 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-04-28 |
+| [Himlavalvet](https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2), [Alma Augusta](https://open.spotify.com/artist/6gLUeiwk4tkbg7tJ8xg6ck) | [Noir](https://open.spotify.com/album/63xg12h0P4PtLPHP5FTEKo) | 4:02 | 2024-10-10 |  |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-07-23 |
 | [Historier och liv](https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Historier och liv](https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH) | 3:20 | 2023-11-09 | 2024-02-09 |
 | [Hit and Run](https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hit and Run](https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR) | 3:10 | 2022-03-10 | 2022-06-08 |

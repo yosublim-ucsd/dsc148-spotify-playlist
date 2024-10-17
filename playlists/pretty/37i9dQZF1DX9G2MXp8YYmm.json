@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: G\u00fcliz Ayla",
-  "num_followers": 135011,
+  "num_followers": 135030,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Sessizim",
-        "url": "https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG"
-      },
-      "artists": [
-        {
-          "name": "Mustafa Mert Ko\u00e7",
-          "url": "https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi"
-        }
-      ],
-      "duration_ms": 181019,
-      "name": "Sessizim",
-      "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "130 Bpm Forte",
         "url": "https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 219594,
       "name": "Uzun Laf\u0131n K\u0131sas\u0131",
       "url": "https://open.spotify.com/track/4HJPlJMtvDUeaQ7LCNczLW"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "Sessizim",
+        "url": "https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Mert Ko\u00e7",
+          "url": "https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi"
+        }
+      ],
+      "duration_ms": 181019,
+      "name": "Sessizim",
+      "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -603,38 +603,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Ne Gere\u011fi Var",
-        "url": "https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6"
-      },
-      "artists": [
-        {
-          "name": "Tekir",
-          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
-        }
-      ],
-      "duration_ms": 131047,
-      "name": "Ne Gere\u011fi Var",
-      "url": "https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "Daha Nas\u0131l Sevebilirim",
-        "url": "https://open.spotify.com/album/5g0lJUG38dwHss5odOP2aV"
-      },
-      "artists": [
-        {
-          "name": "Ziynet Sali",
-          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Daha Nas\u0131l Sevebilirim",
-      "url": "https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "Rak\u0131ya Meze Olal\u0131m",
         "url": "https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 129088,
       "name": "Rak\u0131ya Meze Olal\u0131m",
       "url": "https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "Daha Nas\u0131l Sevebilirim",
+        "url": "https://open.spotify.com/album/5g0lJUG38dwHss5odOP2aV"
+      },
+      "artists": [
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Daha Nas\u0131l Sevebilirim",
+      "url": "https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "Ne Gere\u011fi Var",
+        "url": "https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6"
+      },
+      "artists": [
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        }
+      ],
+      "duration_ms": 131047,
+      "name": "Ne Gere\u011fi Var",
+      "url": "https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
-        "name": "Z\u00fcmr\u00fcd\u00fcankam",
-        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
-      },
-      "artists": [
-        {
-          "name": "Merve \u00d6zbey",
-          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Z\u00fcmr\u00fcd\u00fcankam",
-      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
         "name": "Sevdam",
         "url": "https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 191094,
       "name": "Sevdam",
       "url": "https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
+        "name": "Z\u00fcmr\u00fcd\u00fcankam",
+        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Z\u00fcmr\u00fcd\u00fcankam",
+      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
     },
     {
       "added_at": "2024-10-10 21:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-10-10 21:00:00",
       "album": {
+        "name": "Nerdesin",
+        "url": "https://open.spotify.com/album/7pxOEGLoCaNNbnaJjOEtWM"
+      },
+      "artists": [
+        {
+          "name": "Etem",
+          "url": "https://open.spotify.com/artist/7f9vInea1FeKnX1pCTHn1d"
+        },
+        {
+          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
+          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
+        }
+      ],
+      "duration_ms": 232965,
+      "name": "Nerdesin",
+      "url": "https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl"
+    },
+    {
+      "added_at": "2024-10-10 21:00:00",
+      "album": {
         "name": "Bi Polar",
         "url": "https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa"
       },
@@ -1275,22 +1295,6 @@
       "duration_ms": 192217,
       "name": "Bi Polar",
       "url": "https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE"
-    },
-    {
-      "added_at": "2024-10-10 21:00:00",
-      "album": {
-        "name": "Yorulunca",
-        "url": "https://open.spotify.com/album/6b7vyaK4StuDlyAcrB1ZJk"
-      },
-      "artists": [
-        {
-          "name": "Sufle",
-          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Yorulunca",
-      "url": "https://open.spotify.com/track/5BLxtcCipwGssYjJdjsV2d"
     }
   ],
   "unique_name": "Pop Radyo",

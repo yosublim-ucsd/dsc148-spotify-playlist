@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1417922,
+  "num_followers": 1418544,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "METAMORPHOSIS (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 172219,
+      "name": "METAMORPHOSIS - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "LOVELY BASTARDS (Slowed)",
         "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 152674,
       "name": "LOVELY BASTARDS - Slowed",
       "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "METAMORPHOSIS (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 172219,
-      "name": "METAMORPHOSIS - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "CLEARED - Remix (Slowed / Sped Up)",
-        "url": "https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH"
-      },
-      "artists": [
-        {
-          "name": "Lilithzplug",
-          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
-        }
-      ],
-      "duration_ms": 167109,
-      "name": "CLEARED - Remix (Slowed)",
-      "url": "https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "It's Ok (Slowed)",
         "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 214371,
       "name": "It's Ok - Slowed",
       "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "CLEARED - Remix (Slowed / Sped Up)",
+        "url": "https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "duration_ms": 167109,
+      "name": "CLEARED - Remix (Slowed)",
+      "url": "https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj"
     },
     {
       "added_at": "2024-05-24 04:38:40",

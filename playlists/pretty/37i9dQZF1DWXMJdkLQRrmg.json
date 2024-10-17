@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 341686,
+  "num_followers": 341731,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 229466,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Waking up (Acoustic)",
-      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Supernatural (Acoustic)",
         "url": "https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186013,
       "name": "Supernatural - Acoustic",
       "url": "https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 225099,
+      "name": "Waking up (Acoustic)",
+      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Hard To Be Alone",
-        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Hard To Be Alone",
-      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Flames (feat. Avril Lavigne) [Acoustic]",
         "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
-        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+        "name": "Hard To Be Alone",
+        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
       },
       "artists": [
         {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
-      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+      "duration_ms": 182053,
+      "name": "Hard To Be Alone",
+      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -947,6 +931,22 @@
       "duration_ms": 284954,
       "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
       "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Never Said Goodbye (Stripped)",
-        "url": "https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Never Said Goodbye - Stripped",
-      "url": "https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Deconstructed",
         "url": "https://open.spotify.com/album/4Vv97RwuMvSulvOSbuJlT7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 248662,
       "name": "Fix Me - Alternate Take",
       "url": "https://open.spotify.com/track/5ejkJ9w6g7KRdy1zE9SxfD"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Never Said Goodbye (Stripped)",
+        "url": "https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Never Said Goodbye - Stripped",
+      "url": "https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Soul Revolution: ACOUSTIC VIBES",
-        "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 249274,
-      "name": "Be Free - Acoustic",
-      "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Unplugged At EastWest",
         "url": "https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 179249,
       "name": "Fallin\u2019 With Me - Acoustic",
       "url": "https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Soul Revolution: ACOUSTIC VIBES",
+        "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 249274,
+      "name": "Be Free - Acoustic",
+      "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
     }
   ],
   "unique_name": "Stripped Down",

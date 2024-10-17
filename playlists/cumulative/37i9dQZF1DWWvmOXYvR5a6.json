@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
@@ -3442,6 +3442,28 @@
       "duration_ms": 135120,
       "name": "Don\u2032t do That",
       "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
+    },
+    {
+      "album": {
+        "name": "DOPEY",
+        "url": "https://open.spotify.com/album/3QIB35tYKyVdJ9IZWoQHCY"
+      },
+      "artists": [
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        },
+        {
+          "name": "GEMma",
+          "url": "https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "DOPEY",
+      "url": "https://open.spotify.com/track/33aDOuVzpRwBvVZs5wrDO9"
     },
     {
       "album": {
@@ -4306,7 +4328,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 204866,
       "name": "first love (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/2LfXmEBokneZ3InvHhBRa7"
@@ -4470,7 +4492,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 167706,
       "name": "FREAK LIKE ME",
       "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
@@ -7662,7 +7684,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 156581,
       "name": "Like that",
       "url": "https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT"
@@ -14434,6 +14456,28 @@
       "duration_ms": 172721,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/7Gt1N2o6aSnZUZAbZJ9yV3"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/4tHUmg0RAKdjTuCNkakep3"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Waterfalls (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1dL6K73YgzUj58luLfRTpV"
     },
     {
       "album": {

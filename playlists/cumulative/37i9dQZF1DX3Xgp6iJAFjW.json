@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Merengues Navidenos",
+        "url": "https://open.spotify.com/album/2usHQCaqxUQ2Xy0uSi0ajB"
+      },
+      "artists": [
+        {
+          "name": "Dimension Dominicana",
+          "url": "https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171773,
+      "name": "Brisas de Pascuas",
+      "url": "https://open.spotify.com/track/3pRuGASS7CiUjztQ3EVlPg"
+    },
+    {
+      "album": {
         "name": "Estrellas de Navidad",
         "url": "https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU"
       },
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 253773,
       "name": "Parranda Navide\u00f1a",
       "url": "https://open.spotify.com/track/6ltjndHA8EV1SIyaspqWAt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,442 likes - 713 songs - 1 day 23 hr 45 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,443 likes - 713 songs - 1 day 23 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 104 | [Feet Don't Fail Me](https://open.spotify.com/track/2JB7PvDV0R3Vwbq0iy1WPe) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a) | 5:41 |
 | 105 | [Mellow Song](https://open.spotify.com/track/1F8W2j3Z6P3oTY6nCdIz2T) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:56 |
 | 106 | [Ain't That Enough](https://open.spotify.com/track/5OcuXYY4vzDX6gAVLCs8gQ) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Songs From Northern Britain](https://open.spotify.com/album/39cy30Iaik6zMnqOlJdnAN) | 3:42 |
-| 107 | [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 |
+| 107 | [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:48 |
 | 108 | [Begin The Begin \- 2011 Remaster](https://open.spotify.com/track/335m5rSNMRkjQLcC6AH9Ou) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Lifes Rich Pageant \(Deluxe Edition\)](https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi) | 3:27 |
 | 109 | [Who’s My Eugene?](https://open.spotify.com/track/4zrAgYUdsKf2hdSeUawRar) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Braindrops](https://open.spotify.com/album/3fT7jp89mYZyI3I8HLh7eL) | 4:41 |
 | 110 | [I Talk To The Wind](https://open.spotify.com/track/2htrobARQSYCNg46T1HO5D) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 6:05 |

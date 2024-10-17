@@ -1,12 +1,12 @@
 {
-  "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 236118,
+  "description": "This Is The Kid LAROI. Los temas esenciales, todos en una lista.",
+  "num_followers": 236179,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAABCipn3WcglTuEaH7k9V47H",
+  "snapshot_id": "Zw2wgAAAAAA93P8fMjtS61SFoUhNPLPC",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
+        "name": "Pain is Temporary",
+        "url": "https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
         },
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 172004,
-      "name": "Diva (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
+      "duration_ms": 114865,
+      "name": "Costa Rica (feat. The Kid LAROI) - Remix",
+      "url": "https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pain is Temporary",
-        "url": "https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5"
+        "name": "Diva (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
       },
       "artists": [
         {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        },
-        {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 114865,
-      "name": "Costa Rica (feat. The Kid LAROI) - Remix",
-      "url": "https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ"
+      "duration_ms": 172004,
+      "name": "Diva (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
     },
     {
       "added_at": null,

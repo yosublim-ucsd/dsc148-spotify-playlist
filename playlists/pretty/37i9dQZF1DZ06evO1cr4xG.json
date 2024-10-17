@@ -1,12 +1,12 @@
 {
-  "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 79845,
+  "description": "This Is Trivium. Los temas esenciales, todos en una lista.",
+  "num_followers": 79855,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAAmyr5Gvc73RDMPh99GUIKF",
+  "snapshot_id": "Zw2wgAAAAACnz5niCRqTkMpxK3MVowql",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 352013,
-      "name": "Into the Mouth of Hell We March",
-      "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 331933,
       "name": "The Wretchedness Inside",
       "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 352013,
+      "name": "Into the Mouth of Hell We March",
+      "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
     },
     {
       "added_at": null,

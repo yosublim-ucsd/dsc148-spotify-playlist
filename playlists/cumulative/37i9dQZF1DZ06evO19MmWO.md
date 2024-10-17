@@ -2,7 +2,7 @@
 
 ### [This Is Little Walter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19MmWO)
 
-> This is Little Walter\. The essential tracks, all in one playlist.
+> This Is Little Walter\. Los temas esenciales, todos en una lista.
 
 88 songs - 4 hr 23 min
 

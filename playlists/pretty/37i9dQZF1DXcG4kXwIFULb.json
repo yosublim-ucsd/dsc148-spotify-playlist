@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 175218,
+  "num_followers": 175295,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/3xIG6Jdl7NHqyBc7YpXl6g"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Safe In the Steep Cliffs",
         "url": "https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Come Touch The Sun",
-        "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Yes Baby Yes",
-      "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "The Richest Man In Babylon",
         "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
       },
@@ -1523,18 +1523,34 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM"
+        "name": "Come Touch The Sun",
+        "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
         }
       ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/3xIG6Jdl7NHqyBc7YpXl6g"
+      "duration_ms": 300693,
+      "name": "Yes Baby Yes",
+      "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Between Darkness & Wonder",
-        "url": "https://open.spotify.com/album/0h9G8NCZlEj7cO38rp5mje"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Radio Retaliation",
         "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
       },
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Between Darkness & Wonder",
+        "url": "https://open.spotify.com/album/0h9G8NCZlEj7cO38rp5mje"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Nouvelle Vague",
         "url": "https://open.spotify.com/album/4eTJmNY6X5VJ0v8d0x0lkh"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 198026,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/6kVauIy0iOT2u1Gs8TBIqJ"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
     },
     {
       "added_at": "2024-07-12 16:10:01",

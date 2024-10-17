@@ -2,7 +2,7 @@
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. The essential tracks, all in one playlist.
+> This Is Mc Luanna\. Todas as faixas essenciais numa única playlist.
 
 84 songs - 4 hr 7 min
 
@@ -26,7 +26,7 @@
 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 | 2023-12-30 |  |
 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 | 2023-12-30 | 2024-02-18 |
 | [CUSSY](https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [CUSSY](https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo) | 3:00 | 2023-12-30 | 2024-03-30 |
-| [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 | 2024-08-03 |  |
+| [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 | 2024-08-03 | 2024-10-17 |
 | [De Copão Na Mão](https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:13 | 2023-12-30 | 2024-04-07 |
 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 | 2023-12-30 | 2024-04-28 |
 | [DEPOIS DO BAILE](https://open.spotify.com/track/2j15gcfNgGBgfvjQXCTqhg) | [FyeBwoii](https://open.spotify.com/artist/1TqnOc6Peow4jowVNp4DZm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:00 | 2023-12-30 | 2024-10-13 |

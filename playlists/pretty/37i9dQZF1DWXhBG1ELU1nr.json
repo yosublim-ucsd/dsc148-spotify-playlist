@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232490,
+  "num_followers": 232503,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 342653,
       "name": "Black",
       "url": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 217386,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 268586,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Arquivo II 1991 - 2000",
         "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 204800,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 268586,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -663,6 +663,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Lanterna Dos Afogados",
-      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Sheryl Crow",
         "url": "https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd"
       },
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Odessey & Oracle_ 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4f1WyuUDKJsfFMjUytsbA3"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 214066,
+      "name": "Time Of The Season",
+      "url": "https://open.spotify.com/track/3vMfr8H7hGbOLoddLdCQU4"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "S\u00f3 No Forevis",
         "url": "https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Odessey & Oracle_ 30th Anniversary Edition",
-        "url": "https://open.spotify.com/album/4f1WyuUDKJsfFMjUytsbA3"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Time Of The Season",
-      "url": "https://open.spotify.com/track/3vMfr8H7hGbOLoddLdCQU4"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "A Arte De Cazuza",
+        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Wish You Were Here (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 208066,
       "name": "To Be With You",
       "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "A Arte De Cazuza",
-        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
     },
     {
       "added_at": "2024-02-27 20:15:05",

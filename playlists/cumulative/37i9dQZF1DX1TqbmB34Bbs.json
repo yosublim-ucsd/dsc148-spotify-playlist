@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 256545,
       "name": "$$$ (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/15SuWq75uu8t8br9vNv3ns"
@@ -8983,6 +8983,24 @@
     },
     {
       "album": {
+        "name": "Gangshin",
+        "url": "https://open.spotify.com/album/171zZdhYxlUkvAITM39e7m"
+      },
+      "artists": [
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137182,
+      "name": "Gangshin",
+      "url": "https://open.spotify.com/track/0eNUMoWflbYbE9uf795Lzt"
+    },
+    {
+      "album": {
         "name": "FLOCC",
         "url": "https://open.spotify.com/album/7dAqulrkYexBBsAAbSEmb4"
       },
@@ -14636,7 +14654,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 160941,
       "name": "MAPSI",
       "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
@@ -19090,7 +19108,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"

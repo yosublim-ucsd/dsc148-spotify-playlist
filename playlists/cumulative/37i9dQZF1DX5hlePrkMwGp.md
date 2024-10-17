@@ -4,7 +4,7 @@
 
 > Enjoy the romantic side of Ani
 
-70 songs - 4 hr 42 min
+71 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-03 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-08-02 |  |
 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 | 2021-08-02 |  |
-| [Come Closer \- Sirikkadhey Reprise](https://open.spotify.com/track/0SmWo1iBkosyHSr7nZKDnD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:26 | 2021-08-02 |  |
+| [Come Closer \- Sirikkadhey Reprise](https://open.spotify.com/track/0SmWo1iBkosyHSr7nZKDnD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:26 | 2021-08-02 | 2024-10-17 |
 | [Darling Dambakku](https://open.spotify.com/track/5GUM2uDH9Ey4aSvKz1lIdG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Maan Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV) | 4:09 | 2021-08-02 |  |
+| [Dheema \(From "Love Insurance Kompany"\)](https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dheema \(From "Love Insurance Kompany"\)](https://open.spotify.com/album/5eqQtQhwXiBhZEzrbdDOXQ) | 3:55 | 2024-10-16 |  |
 | [Don'u Don'u Don'u \- The Don's Romance](https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Alisha Thomas](https://open.spotify.com/artist/2JlwKfQpBmPFip5JT4d7VG) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:15 | 2021-08-02 |  |
 | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/album/75VI8uBcagYXYBZMM3hqj7) | 4:20 | 2021-08-02 |  |
 | [Engadi Porandha](https://open.spotify.com/track/5RP7NIFbpQHqPLTe5dpxet) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 3:25 | 2021-08-02 |  |

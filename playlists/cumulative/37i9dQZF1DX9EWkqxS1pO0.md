@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Ayberk Serin
 
-140 songs - 6 hr 45 min
+141 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
 | [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 |  |
 | [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 |  |
+| [Bitti Hikayemiz](https://open.spotify.com/track/0R6PCc8mr0v2DlRZQCzW35) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Bitti Hikayemiz](https://open.spotify.com/album/0eaiRgGguSXCQNopYBRYGy) | 2:43 | 2024-10-10 |  |
 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 | 2024-06-20 |  |
 | [Biçare](https://open.spotify.com/track/6f4Qvq0AoInO0Fd82Hs6Rl) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Biçare](https://open.spotify.com/album/6YhvM21lICI7twMpta4mL0) | 3:16 | 2024-06-20 |  |
 | [Cehennem](https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5) | [Ozthewiz](https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC) | [Cehennem](https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1) | 2:25 | 2024-06-20 | 2024-08-09 |
@@ -125,7 +126,7 @@
 | [Yanar](https://open.spotify.com/track/5bsYpOr87XJVXeuFL4paDn) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Yanar](https://open.spotify.com/album/00DEcLmtiAJp0IBPNso9ig) | 3:25 | 2024-06-20 | 2024-10-08 |
 | [YANGIN](https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [YANGIN](https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp) | 2:18 | 2024-06-20 |  |
 | [Yanına Kalacak](https://open.spotify.com/track/15SRcNq7zHuWBkpKW7g4QG) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Yanına Kalacak](https://open.spotify.com/album/3hsM2OqlYqzDVjtX4rX8AU) | 2:22 | 2024-06-20 | 2024-09-06 |
-| [Yaram Açık](https://open.spotify.com/track/2SWPa82N1YTA9wiZh3iB4j) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Yaram Açık](https://open.spotify.com/album/2FBMHsdF9ULNE8sl7hPbbu) | 3:25 | 2024-08-08 |  |
+| [Yaram Açık](https://open.spotify.com/track/2SWPa82N1YTA9wiZh3iB4j) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Yaram Açık](https://open.spotify.com/album/2FBMHsdF9ULNE8sl7hPbbu) | 3:25 | 2024-08-08 | 2024-10-17 |
 | [Yarım Kaldım](https://open.spotify.com/track/0FQ4tIQYqMcGK68vEwHyvM) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Yarım Kaldım](https://open.spotify.com/album/77uiYMQQmmgmfi4KZxOPny) | 2:35 | 2024-09-05 | 2024-09-10 |
 | [Yarını Yok Acısı Var](https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Yarını Yok Acısı Var](https://open.spotify.com/album/2QwGdbSvrwaV1uXrGDgwu9) | 2:27 | 2024-06-20 |  |
 | [Yarınımız Yokmuş Gibi](https://open.spotify.com/track/599bwrbqRY3VazJJ943iNV) | [Şahıs](https://open.spotify.com/artist/2XTyBo4eOUdoKzNugEwVEc) | [Yarınımız Yokmuş Gibi](https://open.spotify.com/album/18uf6YzS3aeGqNv1363ruD) | 2:28 | 2024-08-29 | 2024-09-10 |

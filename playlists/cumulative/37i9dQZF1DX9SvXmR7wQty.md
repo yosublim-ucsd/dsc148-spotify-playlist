@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,883 songs - 6 day 9 hr 25 min
+2,884 songs - 6 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1843,6 +1843,7 @@
 | [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 | 2024-04-26 | 2024-06-14 |
 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-26 | 2022-09-17 |
 | [No No No \- Vanyfox Remix](https://open.spotify.com/track/2E7JHzaCVvVzhXslc6fw2P) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe) | [No No No \(Remixes\)](https://open.spotify.com/album/0UqQrorkbRnl51ldxDUxRY) | 3:16 | 2023-01-13 | 2023-01-21 |
+| [No stress](https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Des rires et des pleurs](https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC) | 2:35 | 2024-10-11 |  |
 | [Noir sur noir](https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Noir sur noir](https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8) | 3:27 | 2024-03-01 | 2024-03-09 |
 | [Noise](https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [Noise](https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC) | 4:02 | 2024-03-01 | 2024-04-19 |
 | [Nombril](https://open.spotify.com/track/43jvr7CrxU66jhEyGXTBpc) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité](https://open.spotify.com/album/1xbqCjoNDcVRrU50zsVd2W) | 2:35 | 2022-06-03 | 2022-06-11 |
@@ -2172,7 +2173,7 @@
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-04-23 |
 | [Quelque part](https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Quelque part](https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe) | 2:39 | 2024-09-20 | 2024-09-28 |
 | [Qui d'Autre](https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [Qui d'Autre](https://open.spotify.com/album/5bjxVILh3K7NQIaBAjChoY) | 2:38 | 2024-03-01 | 2024-03-09 |
-| [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-10-04 |  |
+| [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-10-04 | 2024-10-17 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2021-12-31 | 2022-01-15 |
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-10 | 2024-07-06 |

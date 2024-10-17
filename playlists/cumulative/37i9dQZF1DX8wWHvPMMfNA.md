@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-932 songs - 2 day 10 hr 24 min
+933 songs - 2 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-02-02 |  |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-26 |  |
 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 | 2023-08-10 |  |
-| [Blue Note Balladry](https://open.spotify.com/track/2b9dU6yCmyjSdQfTN22sZl) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [Blue Note Balladry](https://open.spotify.com/album/5be4DYOcI8m9j5sTM0dW3X) | 4:19 | 2024-04-10 |  |
+| [Blue Note Balladry](https://open.spotify.com/track/2b9dU6yCmyjSdQfTN22sZl) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [Blue Note Balladry](https://open.spotify.com/album/5be4DYOcI8m9j5sTM0dW3X) | 4:19 | 2024-04-10 | 2024-10-17 |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-11 |  |
 | [Blue Serenade](https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Blue Serenade](https://open.spotify.com/album/1d68ZQai2McSWyG26PwOeb) | 4:04 | 2024-02-02 |  |
 | [Blue Velvet](https://open.spotify.com/track/5Ne8Wx5YnewMjwuCjZWd83) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Blue Velvet](https://open.spotify.com/album/6nT8TqdQqXsoqa9UC8ptVm) | 2:50 | 2023-08-10 |  |
@@ -216,6 +216,7 @@
 | [East Of The Moon](https://open.spotify.com/track/5Hz4rZjVpxdqWeQ2r2eseV) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [East Of The Moon](https://open.spotify.com/album/1omOp2AMMjG0U0Jdl0A1DI) | 2:52 | 2024-02-09 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-08-17 |  |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 |  |
+| [Echoes](https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Echoes](https://open.spotify.com/album/1VXahXA1DTUj5sbi2oBpGI) | 3:03 | 2024-10-15 |  |
 | [Echoes of Elegance](https://open.spotify.com/track/2Ba5S2YdO9uMq0m6McDnzj) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Echoes of Elegance](https://open.spotify.com/album/27fUpjNhwSGatFLShTeR8G) | 2:56 | 2023-08-31 |  |
 | [Echoes of Elegance](https://open.spotify.com/track/6dOciaCl98KPYpdrOQovli) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Echoes of Elegance](https://open.spotify.com/album/0kDZHDDso8hdqfG6NilOEA) | 3:08 | 2024-04-17 |  |
 | [Echoes of Elegance](https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Echoes of Elegance](https://open.spotify.com/album/0S1X3z1LbNOqeRNzRjKDHn) | 4:11 | 2023-11-17 |  |

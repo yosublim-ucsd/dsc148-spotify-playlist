@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-625 songs - 1 day 10 hr 19 min
+626 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Apple Pie](https://open.spotify.com/track/1FmrgKa0scdSOUDkw4nbUg) | [Midi Matilda](https://open.spotify.com/artist/1vXoKc82szC0njIdv8vVgO) | [Apple Pie](https://open.spotify.com/album/3oKP9rzFwOmqjogzDn2CuP) | 3:39 | 2021-03-10 | 2022-04-19 |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2022-03-11 | 2022-04-21 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-03-10 | 2024-07-19 |
+| [Automatic](https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Automatic](https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf) | 3:13 | 2024-10-16 |  |
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2022-06-27 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/7s4vC71u1zovWSMNu6hwbJ) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita \(The Summer Singles\)](https://open.spotify.com/album/0cgg5mbjBzqxL8zvO0huzp) | 3:09 | 2021-03-10 | 2022-07-29 |
 | [Baby Blue Shades](https://open.spotify.com/track/0o4iE4nFwqY1d2JKlrcMRb) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Baby Blue Shades](https://open.spotify.com/album/0D2iqDOWfezLDJLvJrLItc) | 3:40 | 2021-03-10 | 2023-03-29 |
@@ -378,7 +379,7 @@
 | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Mark McGrath](https://open.spotify.com/artist/52FfIpdtGWPNnTQtRDXIid) | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw) | 2:44 | 2021-06-25 | 2023-03-29 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-10-12 |
 | [Nights](https://open.spotify.com/track/5iSvlEhNJhrHUFPSHluDF0) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Nights](https://open.spotify.com/album/0GpuGR0FbHgPzom4GqBKVS) | 3:35 | 2021-03-10 | 2022-07-29 |
-| [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 |  |
+| [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 | 2024-10-17 |
 | [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 | 2023-09-15 | 2023-10-14 |
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-07 | 2023-10-24 |
 | [Not OK!](https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Not OK!](https://open.spotify.com/album/0liYHS0MVX0AP18hq6lMoO) | 3:12 | 2021-03-10 | 2022-04-27 |

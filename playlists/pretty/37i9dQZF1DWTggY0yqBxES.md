@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Powers Pleasant
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,427 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,456 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 10 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
 | 11 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
 | 12 | [UH OH](https://open.spotify.com/track/5HryeCToaFCmb1cTjrrkTr) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [UH OH](https://open.spotify.com/album/3ZFonHCSr7gJpVquYmE6UM) | 3:10 |
-| 13 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:58 |
+| 13 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:55 |
 | 14 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 |
 | 15 | [Bounce](https://open.spotify.com/track/6r76yMtgYR4Bisq6zfvNLt) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [SNAKEGANG](https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [SNAKEGANG EP Volume 1](https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu) | 3:41 |
 | 16 | [don't rely on other men](https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [don't rely on other men](https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK) | 3:14 |

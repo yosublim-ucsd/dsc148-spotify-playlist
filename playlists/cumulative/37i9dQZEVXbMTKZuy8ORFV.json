@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Bolivia Band",
+        "url": "https://open.spotify.com/album/20c6pOYqsYCEj1ImQLRI9P"
+      },
+      "artists": [
+        {
+          "name": "Bolivia Band",
+          "url": "https://open.spotify.com/artist/7rT2dg18W622J4n6jYcquY"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210360,
+      "name": "Adelante Bolivia Adelante 2",
+      "url": "https://open.spotify.com/track/3TALXOrOc5Ix5eGTWgEner"
+    },
+    {
+      "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
       },
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 203000,
       "name": "Conselho - Ao Vivo",
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
@@ -5652,7 +5670,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 224413,
       "name": "Girl I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2R7fFjvXLzMrwF20uDpC3B"
@@ -6626,7 +6644,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 163106,
       "name": "Igual No Debo",
       "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
@@ -7526,7 +7544,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 109440,
       "name": "life force",
       "url": "https://open.spotify.com/track/6RIguoA2YSb8IgMgjLaYQE"
@@ -14772,6 +14790,28 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "album": {
+        "name": "VAPO DO VAPO",
+        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
+      },
+      "artists": [
+        {
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68442,
+      "name": "VAPO DO VAPO",
+      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
     },
     {
       "album": {

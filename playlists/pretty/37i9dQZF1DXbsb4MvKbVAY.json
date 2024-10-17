@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udd25 Kannessa Aatulove ja ELLIMEI.",
-  "num_followers": 24118,
+  "num_followers": 24119,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
+        "name": "SOMEONE TO YOU",
+        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 179854,
+      "name": "SOMEONE TO YOU",
+      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
         "name": "Thick Of It All",
         "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "SOMEONE TO YOU",
-        "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 179854,
-      "name": "SOMEONE TO YOU",
-      "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
         "name": "Lights Camera Action",
         "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
+    },
+    {
+      "added_at": "2024-10-10 21:01:00",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "Midnight Cowboy",
+        "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+      "duration_ms": 211020,
+      "name": "Midnight Cowboy",
+      "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Midnight Cowboy",
-        "url": "https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral"
+        "name": "YUNO",
+        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
       },
       "artists": [
         {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
         }
       ],
-      "duration_ms": 211020,
-      "name": "Midnight Cowboy",
-      "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
+      "duration_ms": 135428,
+      "name": "On / Off",
+      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1699,18 +1715,22 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "YUNO",
-        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
+        "name": "RIDIN",
+        "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
       },
       "artists": [
         {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 135428,
-      "name": "On / Off",
-      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
+      "duration_ms": 204000,
+      "name": "RIDIN (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1731,26 +1751,6 @@
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
-    },
-    {
-      "added_at": "2024-10-10 21:01:00",
-      "album": {
-        "name": "RIDIN",
-        "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "RIDIN (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
     },
     {
       "added_at": "2024-10-10 21:01:00",
@@ -1811,22 +1811,18 @@
     {
       "added_at": "2024-10-10 21:01:00",
       "album": {
-        "name": "Otan Kii",
-        "url": "https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ"
+        "name": "AYT",
+        "url": "https://open.spotify.com/album/7gtvQgvvC8JrSC9mSpbvfP"
       },
       "artists": [
         {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
         }
       ],
-      "duration_ms": 177233,
-      "name": "Otan Kii",
-      "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
+      "duration_ms": 159207,
+      "name": "AYT",
+      "url": "https://open.spotify.com/track/6XkqKHyHdIKBZC8qeMHsPv"
     }
   ],
   "unique_name": "Ensisoitossa",

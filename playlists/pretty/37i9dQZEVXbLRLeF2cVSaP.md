@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,926 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,936 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Земля \- OST "Амура"](https://open.spotify.com/track/7uZMiMZdwCS547sZ4nY4oN) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ), [Тося Чайкина](https://open.spotify.com/artist/2Ibq1kUPUhSjoJVrvZEMrj) | [Земля \(OST "Амура"\)](https://open.spotify.com/album/7tNIGPqNzxYyBSQ36AgtPS) | 4:09 |
 | 50 | [Кис Кис Кис](https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:42 |
 
-Snapshot ID: `LqHYSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LqMpyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

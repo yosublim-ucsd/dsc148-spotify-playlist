@@ -2,7 +2,7 @@
 
 ### [Sunny dnb](https://open.spotify.com/playlist/37i9dQZF1DXaS51xPOw5FD)
 
-> Euphoric drum & bass tracks for raving in the sunshine! Lens at Drumsheds
+> Euphoric drum & bass tracks for raving in the sunshine!
 
 224 songs - 13 hr 45 min
 

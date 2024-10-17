@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 59000,
+  "num_followers": 59027,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAABovgG/Nw1Xn4hYI2h+EBfQ",
+  "snapshot_id": "Zw2wgAAAAAABduPCQ5H8ndRlRcHd4VDG",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+        "name": "2 seater",
+        "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 160007,
-      "name": "SCREAM MY NAME",
-      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
+      "duration_ms": 65982,
+      "name": "2 seater",
+      "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
     },
     {
       "added_at": null,
@@ -123,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 seater",
-        "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 65982,
-      "name": "2 seater",
-      "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
     },
     {
       "added_at": null,
@@ -447,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is it a Crime?",
-        "url": "https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On My Way.",
         "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 187331,
       "name": "On My Way.",
       "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is it a Crime?",
+        "url": "https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 276279,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 303355,
       "name": "Stay (With Me).",
       "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 276279,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
     },
     {
       "added_at": null,

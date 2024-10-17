@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Alejo & Easykid
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,273 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,260 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 12 | [Chica Asintomatica](https://open.spotify.com/track/2dZBFO8mec0ZKKhAjyXBeU) | [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Chica Asintomatica](https://open.spotify.com/album/7Lem3NZF4JCPkAELa2FXm2) | 2:52 |
 | 13 | [DRABARDAR](https://open.spotify.com/track/7E0rqD66LpjU79iIkRtBtq) | [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [DRABARDAR](https://open.spotify.com/album/1x3X5oGBYydxtQD8eFoBZD) | 3:32 |
 | 14 | [XQ ERES ASÍ](https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [XQ ERES ASÍ](https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM) | 3:32 |
-| 15 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
+| 15 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 16 | [5 Minutos](https://open.spotify.com/track/6I910Y4bD5pLYoI6T2ev1v) | [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m) | [5 Minutos](https://open.spotify.com/album/2GqwR7gz64t2BQmwSG9SvZ) | 3:07 |
 | 17 | [Tu \#número](https://open.spotify.com/track/3Wvaqs2ZCV1HTN0LhRuRa9) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Tu \#número](https://open.spotify.com/album/3JIu5pKkw7eNhHmKehL7I0) | 2:58 |
 | 18 | [ay mi vida](https://open.spotify.com/track/3XrLn16e0LywNNVqWr9uWb) | [Sofía Correa](https://open.spotify.com/artist/1bVSA9IM2PsnHzY7j3mG7h), [JEM](https://open.spotify.com/artist/4C71hZ4YnzjMg5w1vNMiEi), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [ay mi vida](https://open.spotify.com/album/7Ie0wxRsJ9hoGRBjXnPvML) | 3:22 |

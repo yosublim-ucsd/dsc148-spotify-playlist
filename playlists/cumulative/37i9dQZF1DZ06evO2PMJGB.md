@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. Todos os maiores hits em uma só playlist.
 
-67 songs - 3 hr 30 min
+68 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 | 2023-10-10 | 2024-05-27 |
 | [O Amor Tem Dessas \(e é melhor assim\)](https://open.spotify.com/track/1Bv5c7Vwi26a1DWdj9FjVn) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:54 | 2024-10-05 |  |
 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 | 2023-10-10 |  |
-| [Onde É Que Deu Errado?](https://open.spotify.com/track/0gcB5ZvsNDzskEnYU3snaY) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Onde É Que Deu Errado?](https://open.spotify.com/album/2dmqMp5bOW24RuT6WETctv) | 4:14 | 2024-09-20 |  |
+| [Onde É Que Deu Errado?](https://open.spotify.com/track/0gcB5ZvsNDzskEnYU3snaY) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Onde É Que Deu Errado?](https://open.spotify.com/album/2dmqMp5bOW24RuT6WETctv) | 4:14 | 2024-09-20 | 2024-10-17 |
+| [Onde É Que Deu Errado?](https://open.spotify.com/track/3yPYfl0ng6ulN4tMTrDczF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 4:14 | 2024-10-17 |  |
 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 | 2023-10-10 |  |
 | [Penhasco2](https://open.spotify.com/track/2COgAa5ipUrdTuWjyqb10X) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:53 | 2023-10-10 | 2023-11-11 |
 | [Pior Versão de Mim](https://open.spotify.com/track/5Ve9lyK2EwzTwSsc26Xrjy) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 3:12 | 2024-09-20 |  |

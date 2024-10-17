@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 80374,
+  "num_followers": 80407,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Palco",
+      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Maria Rita",
+        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Agora s\u00f3 falta voc\u00ea",
+      "url": "https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Sujeito Homem 2",
         "url": "https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 435141,
       "name": "Rap du Bom Parte II - M\u00fas. Incid.: Odara",
       "url": "https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Maria Rita",
-        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Agora s\u00f3 falta voc\u00ea",
-      "url": "https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Joutro Mundo",
-          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Nao Force",
-      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Focus On...500 Years Of Brazil",
         "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 168400,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Joutro Mundo",
+          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Nao Force",
+      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -979,6 +979,22 @@
       "duration_ms": 237426,
       "name": "Cabe\u00e7a de N\u00eago",
       "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1067,22 +1083,6 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",

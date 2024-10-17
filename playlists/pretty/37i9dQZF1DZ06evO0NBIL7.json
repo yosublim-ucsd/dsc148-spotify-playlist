@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAD4Kxh+9S0lwm+usKRz4Ohx",
+  "snapshot_id": "Zw2wgAAAAAC1eh1c0EX6AFhCid7RjR0A",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 164049,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 224063,
       "name": "Natural",
       "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 164049,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137"
     },
     {
       "added_at": null,

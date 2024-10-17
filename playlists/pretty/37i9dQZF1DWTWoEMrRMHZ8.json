@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Sued Nunes",
-  "num_followers": 347615,
+  "num_followers": 347633,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
+        "name": "Dia Manso",
+        "url": "https://open.spotify.com/album/0FgQPssMLOgG7XQcWS7vD4"
       },
       "artists": [
         {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+          "name": "KELVEN",
+          "url": "https://open.spotify.com/artist/1ZRRvGObHNC7IyqB7sH2zz"
         },
         {
-          "name": "Barba Negra",
-          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+          "name": "Mayana Neiva",
+          "url": "https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc"
         }
       ],
-      "duration_ms": 252074,
-      "name": "Topo da Minha Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL"
+      "duration_ms": 209922,
+      "name": "Dia Manso",
+      "url": "https://open.spotify.com/track/1nqUUPdNzRce8f7Z4SNTNV"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -363,6 +363,26 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        }
+      ],
+      "duration_ms": 252074,
+      "name": "Topo da Minha Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Ana Canta C\u00e1ssia - Vol. 1 - Ao Vivo",
         "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 192108,
       "name": "All Star - Ao Vivo",
       "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Dia Manso",
-        "url": "https://open.spotify.com/album/0FgQPssMLOgG7XQcWS7vD4"
-      },
-      "artists": [
-        {
-          "name": "KELVEN",
-          "url": "https://open.spotify.com/artist/1ZRRvGObHNC7IyqB7sH2zz"
-        },
-        {
-          "name": "Mayana Neiva",
-          "url": "https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc"
-        }
-      ],
-      "duration_ms": 209922,
-      "name": "Dia Manso",
-      "url": "https://open.spotify.com/track/1nqUUPdNzRce8f7Z4SNTNV"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
@@ -451,6 +435,42 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 224511,
+      "name": "S\u00f3 um Tempo",
+      "url": "https://open.spotify.com/track/6WxGNpMXhi5gNL2d1Kajss"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -503,26 +523,6 @@
       "duration_ms": 273139,
       "name": "Depois de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 224511,
-      "name": "S\u00f3 um Tempo",
-      "url": "https://open.spotify.com/track/6WxGNpMXhi5gNL2d1Kajss"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Como Vai Voc\u00ea",
         "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 181169,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Apesar de Agora",
-      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Multicolorida",
         "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
-        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
       "artists": [
         {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
         }
       ],
-      "duration_ms": 244150,
-      "name": "Flecha do Dedo",
-      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
+        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 244150,
+      "name": "Flecha do Dedo",
+      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Bahia Com H",
         "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
       },
@@ -891,6 +891,26 @@
       "duration_ms": 264729,
       "name": "Bahia Com H",
       "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+      },
+      "artists": [
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -915,26 +935,6 @@
       "duration_ms": 159434,
       "name": "Uma nova hist\u00f3ria",
       "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
-      },
-      "artists": [
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Terna Transforma\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        },
-        {
-          "name": "Ossuna Braza",
-          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
-        }
-      ],
-      "duration_ms": 280256,
-      "name": "Terna Transforma\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Misteriosa",
         "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 188064,
       "name": "Deleita",
       "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Terna Transforma\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        },
+        {
+          "name": "Ossuna Braza",
+          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
+        }
+      ],
+      "duration_ms": 280256,
+      "name": "Terna Transforma\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Trem das Onze",
         "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 219428,
       "name": "Trem Das Onze",
       "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Back to Buteco",
+        "url": "https://open.spotify.com/album/7bOlLNvbS2ZPNhrQRHitYL"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        }
+      ],
+      "duration_ms": 167923,
+      "name": "Back to Buteco",
+      "url": "https://open.spotify.com/track/7tjmCGPlvThHmwGtw7rA8k"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Camangada",
         "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Back to Buteco",
-        "url": "https://open.spotify.com/album/7bOlLNvbS2ZPNhrQRHitYL"
+        "name": "A R\u00e3",
+        "url": "https://open.spotify.com/album/4jdwhMKKM1fmfdEWZGkeUz"
       },
       "artists": [
         {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 167923,
-      "name": "Back to Buteco",
-      "url": "https://open.spotify.com/track/7tjmCGPlvThHmwGtw7rA8k"
+      "duration_ms": 190626,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/3xSKCmLlSNoZJd7d2tp2yH"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 176760,
       "name": "Uma Parte",
       "url": "https://open.spotify.com/track/0pE7yAk5s01YkdJqUqkozW"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "A R\u00e3",
-        "url": "https://open.spotify.com/album/4jdwhMKKM1fmfdEWZGkeUz"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/3xSKCmLlSNoZJd7d2tp2yH"
     },
     {
       "added_at": "2024-10-11 03:00:00",

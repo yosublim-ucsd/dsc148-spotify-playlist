@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0BMqnt7PY8cJsecB4L1Eum">yseult</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 20 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 | 15 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 |
 | 16 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 |
 | 17 | [GASOLINA](https://open.spotify.com/track/0N6VAZz7lTO4GFti940NrQ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:34 |
-| 18 | [MENTAL](https://open.spotify.com/track/0Ae47q0eaoxM13FE6aTlCZ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
-| 19 | [FUCK ME](https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 0:42 |
+| 18 | [FUCK ME](https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 0:42 |
+| 19 | [MENTAL](https://open.spotify.com/track/0Ae47q0eaoxM13FE6aTlCZ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
 | 20 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
 
-Snapshot ID: `Abe4PgAAAADurP8SNGLwMdB5UzTVZM/d`
+Snapshot ID: `Abe93gAAAADdvs0wsHzxCVkHn0kyvF8r`

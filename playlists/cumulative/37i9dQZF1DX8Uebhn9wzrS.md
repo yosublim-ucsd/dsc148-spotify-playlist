@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,106 songs - 3 day 8 hr 16 min
+2,107 songs - 3 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -879,7 +879,7 @@
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2023-08-17 | 2024-02-02 |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2022-11-11 |  |
-| [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-01-06 | 2024-10-16 |
+| [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-01-06 |  |
 | [In Dreams](https://open.spotify.com/track/6ZZ4QZuEgjKueuPKixfPC8) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [In Dreams](https://open.spotify.com/album/6JvmEOeIs3HOm2m8mRG5eZ) | 2:40 | 2023-02-13 | 2023-04-04 |
 | [In Harmony](https://open.spotify.com/track/77urtzULRJH4p0bDYvJ4OT) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [In Harmony](https://open.spotify.com/album/3NQVOoX4j90bmkYxUujsUG) | 2:31 | 2022-07-29 | 2022-08-12 |
 | [in my dream EP](https://open.spotify.com/track/5SxMQZawqnsZHybzUJlmce) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [in my dream EP](https://open.spotify.com/album/1nRKafaKn78uSKQxavi5xo) | 2:13 | 2022-04-15 | 2022-11-12 |
@@ -1366,7 +1366,7 @@
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-07-15 |  |
 | [overused.](https://open.spotify.com/track/0EsSBz7kNvkDOa2JTk7AqZ) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [overused.](https://open.spotify.com/album/0yfcaOnt3yHljzqImWnnAK) | 1:54 | 2024-09-27 |  |
 | [Ovinhos](https://open.spotify.com/track/4EJs8WoephOYOiGcHR7QUQ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [handful](https://open.spotify.com/album/61InI8u58RhlqAfoYmG1gL) | 2:18 | 2024-07-05 |  |
-| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 |  |
+| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 | 2024-10-17 |
 | [Pacific Highway](https://open.spotify.com/track/6zflxqdtATYTIWGoOQKZZv) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Pacific Highway](https://open.spotify.com/album/5TePX9AcqnHsVlqvS1BWFa) | 2:18 | 2022-11-25 | 2023-09-16 |
 | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/track/3N0FWBeTdzCNL6N0idBqqG) | [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi), [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/album/43zKBAbB6apBO0SyJ4GWaT) | 1:35 | 2023-04-20 | 2023-09-29 |
 | [Pagans](https://open.spotify.com/track/6OrK4sjjGOvTuqQlx4QHhe) | [Brother Took](https://open.spotify.com/artist/1pZIRdqI2jk41VuxmqS9e1) | [Pagans](https://open.spotify.com/album/4zGcYEFzgMUKyT2lyNlHqP) | 2:13 | 2024-03-01 | 2024-07-19 |
@@ -1747,6 +1747,7 @@
 | [Stripe Two](https://open.spotify.com/track/4AXc2D9pa1uttadN9MowI3) | [Tom Oswald](https://open.spotify.com/artist/0h8JdYna5YWfPvyw3YaBVN) | [Stripe One](https://open.spotify.com/album/6gaMaWFWEZTl6kwel3RRp1) | 1:46 | 2022-04-15 | 2022-06-25 |
 | [Stripped](https://open.spotify.com/track/2LXAwy25OU7YdhCSkVuzcO) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Stripped](https://open.spotify.com/album/2wEMcHAfiCn5zbiCOG32iP) | 2:03 | 2022-11-11 | 2023-02-07 |
 | [Strong Desires](https://open.spotify.com/track/1HjWCjS7DVNqJlfRrmU1oF) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Strong Desires](https://open.spotify.com/album/6bG2FKpaqcUQmBn6CqThx3) | 2:17 | 2024-01-19 |  |
+| [Stronger Together](https://open.spotify.com/track/6qM40RhvwLCbib0oflXBz1) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [New Life EP](https://open.spotify.com/album/2XG9Odg88Io1LmaGKEKzfG) | 1:55 | 2024-10-11 |  |
 | [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 | 2024-08-09 |
 | [Study Buddy](https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY) | [UniqeCorn](https://open.spotify.com/artist/6TTcb6j1m5qnVjdSvpEHcC) | [Study Buddy](https://open.spotify.com/album/3sOCnVfTISO2Z0vI3HzrdT) | 2:25 | 2022-04-15 | 2022-09-02 |
 | [Study To This](https://open.spotify.com/track/0AItApfAxK5MvCDBBYIeXR) | [pen & paper](https://open.spotify.com/artist/5YH8nf5dmqrTJh1gy6jJrp) | [Study To This](https://open.spotify.com/album/6mg53SgDrMGuPtVgma3jQc) | 2:09 | 2024-10-04 |  |
@@ -1846,7 +1847,7 @@
 | [Tequila Sunrise](https://open.spotify.com/track/5jS2VBynvsmlw1T7eJE6UI) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Tequila Sunrise](https://open.spotify.com/album/6o0k1gVG5kor4c0U3dTLvU) | 2:15 | 2022-12-09 | 2023-02-07 |
 | [Textures](https://open.spotify.com/track/7M1kcElpSjJe28fUC3UGXq) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Textures](https://open.spotify.com/album/6eRV6jqU3EWIFSAAtWGyJv) | 1:28 | 2022-07-08 | 2022-12-03 |
 | [that old lick](https://open.spotify.com/track/01pPzpTbSyIqi9vgVjDqpO) | [efedrin](https://open.spotify.com/artist/0XghY48i09UXnmTiQcnE1p) | [it came from the desert](https://open.spotify.com/album/69AKTWMJ44wbayjX4vjaUb) | 1:24 | 2022-04-15 | 2022-09-09 |
-| [That's My Jam](https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [That's My Jam](https://open.spotify.com/album/0WWP9a6jvXdvStIu9tAvme) | 2:32 | 2023-12-22 |  |
+| [That's My Jam](https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [That's My Jam](https://open.spotify.com/album/0WWP9a6jvXdvStIu9tAvme) | 2:32 | 2023-12-22 | 2024-10-17 |
 | [The Awakening Traveler](https://open.spotify.com/track/3HoWTz1Y5kG1g4s3MBb2bn) | [Zekkei](https://open.spotify.com/artist/2LRPIJNAsV2CebQhwKgZO6), [Neo Era](https://open.spotify.com/artist/1Lczbyf24WccxMnd8Hj3qv) | [The Awakening Traveler](https://open.spotify.com/album/1CqJRILHswWMU9Mmf5nuEd) | 1:55 | 2024-05-31 | 2024-06-13 |
 | [The Bay](https://open.spotify.com/track/0aSQ0c4oMfjUWoHenvcnvI) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f), [Luniworks](https://open.spotify.com/artist/0dMJ5zofJoExb5T8eSmOhW) | [The Bay](https://open.spotify.com/album/19eoQYs75KzT2Q9fA3pRPQ) | 2:09 | 2023-02-06 | 2023-09-29 |
 | [The Careforce](https://open.spotify.com/track/1VkY2mmufR03gKcIhLRk0L) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [The Careforce](https://open.spotify.com/album/4U4PKpvDXVZznXfJo8YCk9) | 2:16 | 2022-04-15 | 2023-08-18 |

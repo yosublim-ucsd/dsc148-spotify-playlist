@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3 (ddkogi)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca) x Tyson Yoshi x \u6797\u6f54\u5fc3 (ddkogi88) x \u6591\u6069 (Ben) ",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 189818,
       "name": "all things",
       "url": "https://open.spotify.com/track/4knzp6u3ENTeZlyFgYPcwA"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 150400,
       "name": "DELICIOUS",
       "url": "https://open.spotify.com/track/0YWc6cHH1is1cfNBmU8Bj5"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 196433,
       "name": "fairytale",
       "url": "https://open.spotify.com/track/4v8XJrPB1rgVa9bk1Ravab"
@@ -1676,6 +1676,24 @@
       "duration_ms": 154285,
       "name": "hate myself",
       "url": "https://open.spotify.com/track/66WcY2zIeDXpToEfZCgoAj"
+    },
+    {
+      "album": {
+        "name": "Hate myself - Spotify Singles",
+        "url": "https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Hate myself - Spotify Singles",
+      "url": "https://open.spotify.com/track/79KrPknij8FGaflUga6YII"
     },
     {
       "album": {
@@ -2501,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233380,
+      "name": "Love You & Your Friends - Spotify Singles",
+      "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
+    },
+    {
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/5lqhwTPBfumlIQjJXUStTL"
       },
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 177250,
       "name": "NOT ALRIGHT",
       "url": "https://open.spotify.com/track/0m7w5JwGZDOvLio6be3GLi"
@@ -3688,7 +3724,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 168207,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/1v2aWdfCMOYeyySnXexhPn"
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 185142,
       "name": "Wanna know",
       "url": "https://open.spotify.com/track/66kYti8hisQUEt6N297ki5"
@@ -4602,7 +4638,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "\u4e09\u5206",
       "url": "https://open.spotify.com/track/7fmQAI0hZDqNHId7Sdvbup"
@@ -4836,7 +4872,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 235436,
       "name": "\u4e5f\u8a31\u554a",
       "url": "https://open.spotify.com/track/2O8kejsRzK5WoygELquZzq"
@@ -4890,7 +4926,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 247223,
       "name": "\u4e82\u6d41",
       "url": "https://open.spotify.com/track/238p15Fz5TneRm52TNoVL8"
@@ -5390,6 +5426,28 @@
       "duration_ms": 171812,
       "name": "\u5077\u5077\u60f3\u5ff5\u4f60 (feat. \u65b9\u6668)",
       "url": "https://open.spotify.com/track/7xVj07lWHM86OIlTXkEq7R"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        },
+        {
+          "name": "\u65b9\u6668",
+          "url": "https://open.spotify.com/artist/5Nd4foqBx41TIEW2VXyENC"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u5077\u5077\u60f3\u5ff5\u4f60 - Spotify Singles (feat. \u65b9\u6668)",
+      "url": "https://open.spotify.com/track/5YTMxQ8Famc23QQIZizvh0"
     },
     {
       "album": {
@@ -5922,7 +5980,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 203500,
       "name": "\u5496\u5561\u6c24",
       "url": "https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3"
@@ -8226,7 +8284,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 168973,
       "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
       "url": "https://open.spotify.com/track/3Zcs5flpb0P0AoKS1N2sTV"
@@ -8400,7 +8458,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 228631,
       "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
       "url": "https://open.spotify.com/track/6ltLMCBb8hrRNWt1ENzoeK"
@@ -8844,7 +8902,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 107368,
       "name": "\u6d77\u6d0b\u8cdc\u4e88",
       "url": "https://open.spotify.com/track/4l4vGccAQole4LVUdrmDar"
@@ -9000,10 +9058,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 229500,
       "name": "\u6f80 (feat.\u570b\u86cb)",
       "url": "https://open.spotify.com/track/1ZO94uA0ZKXJ5joKj1mFkT"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1grN24m5hhYp7pCzNkkdIX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "\u706b\u67f4 (Acoustic) - Spotify Singles",
+      "url": "https://open.spotify.com/track/649FdTxihcffxQnTMa2q2x"
     },
     {
       "album": {
@@ -9825,6 +9901,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263809,
+      "name": "\u7d42\u7a76\u9084\u662f\u56e0\u70ba\u611b - Spotify Singles",
+      "url": "https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f"
       },
@@ -9980,7 +10074,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 170014,
       "name": "\u812b\u4fd7",
       "url": "https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf"
@@ -10562,7 +10656,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 135460,
       "name": "\u8d81\u96e8\u4e0b",
       "url": "https://open.spotify.com/track/0MMQdQYZ1njx8ZnciVobaI"
@@ -11300,7 +11394,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 222500,
       "name": "\u9ad8\u6795\u7121\u6182",
       "url": "https://open.spotify.com/track/3NnCQmlaSF40uU3jdv2YHn"

@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 220253,
       "name": "Ayyayyo",
       "url": "https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC"
@@ -720,6 +720,28 @@
       "duration_ms": 118857,
       "name": "Bawli",
       "url": "https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT"
+    },
+    {
+      "album": {
+        "name": "Beevi",
+        "url": "https://open.spotify.com/album/1UntHuZ3am0ChXO2AGjCaB"
+      },
+      "artists": [
+        {
+          "name": "Rish NK",
+          "url": "https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5"
+        },
+        {
+          "name": "Zail",
+          "url": "https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175620,
+      "name": "Beevi",
+      "url": "https://open.spotify.com/track/6gsqFbSyxOat4aE12BmCUo"
     },
     {
       "album": {
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 123428,
       "name": "Dikkat",
       "url": "https://open.spotify.com/track/1kkijmgG1220rd4aQ78llZ"
@@ -2234,7 +2256,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 155076,
       "name": "Joota Japani",
       "url": "https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp"
@@ -2378,6 +2400,28 @@
       "duration_ms": 211000,
       "name": "KALESHI CHORI",
       "url": "https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e"
+    },
+    {
+      "album": {
+        "name": "How Much a Rhyme Costs?",
+        "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204095,
+      "name": "Karta Kya Hai",
+      "url": "https://open.spotify.com/track/55rsHTpDenL0DajypexEI6"
     },
     {
       "album": {
@@ -3950,7 +3994,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 166285,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA"

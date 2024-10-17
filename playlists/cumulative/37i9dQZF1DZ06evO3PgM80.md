@@ -2,7 +2,7 @@
 
 ### [This Is Julia Vitória](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PgM80)
 
-> This Is Julia Vitória\. Todas as faixas essenciais numa única playlist.
+> This is Julia Vitória\. Todos os maiores hits em uma só playlist.
 
 52 songs - 4 hr 56 min
 

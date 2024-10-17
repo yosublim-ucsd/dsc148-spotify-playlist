@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
-  "num_followers": 195373,
+  "num_followers": 195377,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "MonteViso",
-        "url": "https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "MonteViso",
-      "url": "https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Una noche m\u00e1s (feat. Bruses)",
         "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "MonteViso",
+        "url": "https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "MonteViso",
+      "url": "https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Ni una sola palabra",
-        "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
-      },
-      "artists": [
-        {
-          "name": "dani dicostas",
-          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
-        }
-      ],
-      "duration_ms": 211567,
-      "name": "Ni una sola palabra",
-      "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Plastificar",
         "url": "https://open.spotify.com/album/2Pmtgust0NVzRRhlXyoz3B"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 183200,
       "name": "Plastificar",
       "url": "https://open.spotify.com/track/2CCRJ9I82UJb3LokB5Ewc2"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Ni una sola palabra",
+        "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
+      },
+      "artists": [
+        {
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+        }
+      ],
+      "duration_ms": 211567,
+      "name": "Ni una sola palabra",
+      "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "KORAJE",
-        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 226549,
-      "name": "KORAJE",
-      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "El Porvenir",
         "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 232157,
       "name": "Famara (feat. Depedro)",
       "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "KORAJE",
+        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 226549,
+      "name": "KORAJE",
+      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Valle La Pena",
-        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Valle La Pena",
-      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Braille",
         "url": "https://open.spotify.com/album/7wMwfQcUeM2yPRQRDNV0Ft"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 204421,
       "name": "Braille",
       "url": "https://open.spotify.com/track/0GzcQHr6Ecz0kVjWccfOmY"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Valle La Pena",
+        "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6"
+        }
+      ],
+      "duration_ms": 183524,
+      "name": "Valle La Pena",
+      "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "Ajedrez",
+        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 202413,
+      "name": "Ajedrez",
+      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "No Te Voy a Besar",
         "url": "https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Ajedrez",
-        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 202413,
-      "name": "Ajedrez",
-      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
     },
     {
       "added_at": "2024-10-10 22:00:00",

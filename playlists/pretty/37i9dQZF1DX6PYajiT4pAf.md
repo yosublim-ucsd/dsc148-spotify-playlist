@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Gonzy y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,866 likes - 71 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,897 likes - 71 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 31 | [Mi Cachuli \(Feat\. Moncho Chavea\)](https://open.spotify.com/track/5Rl8yFiEBXmOQDqKezN77p) | [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Mi Cachuli \(Feat\. Moncho Chavea\)](https://open.spotify.com/album/07pUSeRXiDPk7gcsvFoTNY) | 3:07 |
 | 32 | [Son de lunares](https://open.spotify.com/track/6Vh6wyoEpSadl6zVU001gl) | [Rasel](https://open.spotify.com/artist/1uh9OOdPa89c5zPaOD6K2N), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc), [Sara de las Chuches](https://open.spotify.com/artist/1x6jVUskzHLknB8EcFRDXK) | [Son de lunares](https://open.spotify.com/album/7gpo02ftF81LbXYoLO44N8) | 2:57 |
 | 33 | [Delito](https://open.spotify.com/track/2BlQw7LtMHg4lHsUgn1c7Z) | [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J), [Dímelo Sane](https://open.spotify.com/artist/2mb6aMs7b54RoOXMs9UTZQ) | [Delito](https://open.spotify.com/album/6JIWpUwJi2a2cj7ErWXv87) | 2:43 |
-| 34 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
+| 34 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 35 | [Ur Gangsta](https://open.spotify.com/track/0LQCeCxHd5iPLEmntDdAlk) | [JAVVI ELIAS](https://open.spotify.com/artist/0wdQR6Qd64uSVhNJy7M2F0), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Ur Gangsta](https://open.spotify.com/album/7CxPQMza0weA68e959zPRc) | 2:39 |
 | 36 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
 | 37 | [DEMASIAO HP](https://open.spotify.com/track/3wfEQQn0XrLOBHShsB2naT) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [La Vuelta](https://open.spotify.com/album/0qCz3P2UO4ZVXl580XpK6c) | 2:36 |

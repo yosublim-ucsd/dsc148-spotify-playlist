@@ -2,7 +2,7 @@
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This is Biosphere\. The essential tracks, all in one playlist.
+> This Is Biosphere\. Los temas esenciales, todos en una lista.
 
 169 songs - 14 hr 4 min
 
@@ -54,7 +54,7 @@
 | [Fall In Fall Out](https://open.spotify.com/track/6R785CWKXgNE9e2hO5KaSg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 7:10 | 2022-08-13 | 2022-09-22 |
 | [Fast Atoms Escape](https://open.spotify.com/track/2OK97NvMcKPhSqs1JvDNgO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:26 | 2022-06-05 | 2022-10-06 |
 | [Fast Atoms Escape](https://open.spotify.com/track/1djb4GHevlF1eTVkv92SHb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:29 | 2023-02-24 | 2023-05-17 |
-| [Florian´s Flute](https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 2:49 | 2023-12-13 | 2024-09-20 |
+| [Florian´s Flute](https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 2:49 | 2023-12-13 |  |
 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 | 2022-05-29 |  |
 | [Forum](https://open.spotify.com/track/79gXdMFvcGA6k415JpMs8A) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 4:15 | 2022-08-30 | 2022-09-20 |
 | [Franklin´s Dream](https://open.spotify.com/track/7eJrXk5z9SveWm7DDNUadB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 8:11 | 2023-12-13 | 2024-09-25 |
@@ -98,7 +98,7 @@
 | [Kobresia](https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 7:12 | 2022-05-29 |  |
 | [Kyle](https://open.spotify.com/track/4SiHAz5DhGVoMtq34Tx6JB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 1:13 | 2024-04-25 | 2024-09-05 |
 | [La Sconsolata](https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:04 | 2022-12-02 |  |
-| [Lorry Shuttle Shaft](https://open.spotify.com/track/1Y8MX3R4RHW29Z8intfD3F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:08 | 2024-01-19 |  |
+| [Lorry Shuttle Shaft](https://open.spotify.com/track/1Y8MX3R4RHW29Z8intfD3F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:08 | 2024-01-19 | 2024-10-17 |
 | [Lost Horizon](https://open.spotify.com/track/0Lh4muWpBe6VC2sqfufM2S) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5) | 6:40 | 2023-04-24 | 2023-05-04 |
 | [Meltwater](https://open.spotify.com/track/2PzavCFlTr6ord6gRuDmT3) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Polar Sequences](https://open.spotify.com/album/7h3A0Rnlh24k9oHs4dRVd3) | 9:18 | 2022-06-02 | 2022-09-29 |
 | [Mestigoth](https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 1:43 | 2022-05-29 |  |

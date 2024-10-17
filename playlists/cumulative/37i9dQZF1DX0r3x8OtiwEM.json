@@ -10710,7 +10710,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 205403,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG"
@@ -13094,6 +13094,24 @@
       "duration_ms": 615320,
       "name": "Within You - K\u00f6lsch Mix",
       "url": "https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU"
+    },
+    {
+      "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
     },
     {
       "album": {

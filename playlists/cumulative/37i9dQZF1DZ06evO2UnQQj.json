@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Clara Lima. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Clara Lima. The essential tracks, all in one playlist.",
   "name": "This Is Clara Lima",
   "tracks": [
     {
@@ -24,6 +24,44 @@
       "duration_ms": 182666,
       "name": "6Ballas",
       "url": "https://open.spotify.com/track/3KyLB6cbfcAtGS5S3ixfSv"
+    },
+    {
+      "album": {
+        "name": "A Hora Certa",
+        "url": "https://open.spotify.com/album/5TMLGZa35IYvXKZCVg5z5e"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Pablo Martins",
+          "url": "https://open.spotify.com/artist/1yDAF4rsplzWHhq3yFGZjM"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/1b2nDdiLDYnzsAOxktHZ3P"
+        },
+        {
+          "name": "Seman D`lamotta",
+          "url": "https://open.spotify.com/artist/0rOrq7Au2Rl2w83SDxrelM"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "A Hora Certa",
+      "url": "https://open.spotify.com/track/49XYdo8Nd9yDqAMg5pjdiM"
     },
     {
       "album": {
@@ -878,7 +916,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 143773,
       "name": "Fogo no Baile",
       "url": "https://open.spotify.com/track/3yKaT3xxvxiHShtgiSHLlf"

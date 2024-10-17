@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-677 songs - 1 day 4 hr 43 min
+678 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Broken River](https://open.spotify.com/track/2sxEgzrFsAjBq0Yf3PBIfI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [The Great Migration](https://open.spotify.com/album/0fqDjNTc077SL0JcMAjKvF) | 2:55 | 2022-06-07 | 2023-04-12 |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2022-06-07 | 2022-07-20 |
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-06-07 | 2022-09-15 |
-| [Calm and Free](https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Calm and Free](https://open.spotify.com/album/6lsQoXThAFoOrdSPGvenzI) | 2:27 | 2024-05-07 |  |
+| [Calm and Free](https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Calm and Free](https://open.spotify.com/album/6lsQoXThAFoOrdSPGvenzI) | 2:27 | 2024-05-07 | 2024-10-17 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2022-06-07 | 2024-05-08 |
 | [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
@@ -388,6 +388,7 @@
 | [One Another](https://open.spotify.com/track/5TmkmJXYc4wT0lShzHAHJ0) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [One Another](https://open.spotify.com/album/3l9IbBBngaH3p2aHjKF5fb) | 2:24 | 2022-06-07 | 2022-09-24 |
 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 | 2023-03-01 |  |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2022-06-07 | 2022-09-15 |
+| [Only Illusions](https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Only Illusions](https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B) | 2:26 | 2024-10-15 |  |
 | [Open Arms](https://open.spotify.com/track/30rZgjh8JUIu7DHdxWbaaZ) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Open Arms](https://open.spotify.com/album/0YkswIVwAsMXqvrZdxZ2sS) | 2:16 | 2022-06-07 | 2023-08-05 |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-17 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2022-06-07 | 2022-10-05 |

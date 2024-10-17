@@ -1,12 +1,12 @@
 {
   "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
-  "num_followers": 346561,
+  "num_followers": 346645,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAB3XK6QMIW7gtF12kpz+YhI",
+  "snapshot_id": "Zw2wgAAAAAD1Nu4tD+QQeyhPl+48d0UA",
   "tracks": [
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "EL FAVORITO DE MAMI",
+      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -987,6 +1007,22 @@
       "duration_ms": 161000,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 219751,
+      "name": "Padre Tiempo",
+      "url": "https://open.spotify.com/track/1PtXtGJSDKTkB5urVEZ7rf"
     },
     {
       "added_at": null,
@@ -1011,42 +1047,6 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 219751,
-      "name": "Padre Tiempo",
-      "url": "https://open.spotify.com/track/1PtXtGJSDKTkB5urVEZ7rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOTORIUS",
-        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "EL FAVORITO DE MAMI",
-      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

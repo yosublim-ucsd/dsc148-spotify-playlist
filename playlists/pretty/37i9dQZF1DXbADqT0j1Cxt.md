@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Lull your little ones with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,437 likes - 333 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,429 likes - 333 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 6 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 |
 | 7 | [Flying At Night](https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Flying At Night](https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr) | 1:33 |
 | 8 | [Three little cats](https://open.spotify.com/track/4U8Wd1xF2vwZjc8p6XQnyy) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Three little cats](https://open.spotify.com/album/1TkptoHSTe9vrQyiZLBSjR) | 1:25 |
-| 9 | [Fly Butterfly](https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN) | [Zuriñe Ilaria](https://open.spotify.com/artist/3apw3LIPziUL8PWtHoEibN) | [Fly Butterfly](https://open.spotify.com/album/2yxb5xXzp36cysMStaz045) | 1:48 |
+| 9 | [Fly Butterfly](https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Fly Butterfly](https://open.spotify.com/album/2yxb5xXzp36cysMStaz045) | 1:48 |
 | 10 | [Dave The Dancing Dinosaur](https://open.spotify.com/track/0F6E3SmWBUVpG5Y19WJ3rc) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [Dave The Dancing Dinosaur](https://open.spotify.com/album/02oswqoZJMijSh1OZSgnXi) | 1:18 |
 | 11 | [Go Tell Aunt Rhody](https://open.spotify.com/track/04E5K4tsp0vtNJUnqVowcA) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Go Tell Aunt Rhody](https://open.spotify.com/album/3dKIK8JNgkAXVSTAxCcyLS) | 1:47 |
 | 12 | [Close to My Heart](https://open.spotify.com/track/1xfT6vRaI0Q5bLrDFJNsQb) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Close to My Heart](https://open.spotify.com/album/3SRUOAGhv1qaUGAuaoQGtu) | 2:02 |

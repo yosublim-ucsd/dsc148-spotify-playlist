@@ -4,7 +4,7 @@
 
 > \#fyp
 
-524 songs - 1 day 3 hr 36 min
+525 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,9 +257,10 @@
 | [Karma](https://open.spotify.com/track/04UmdvSon62RmU7HPOvFP1) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd) | [Favori](https://open.spotify.com/album/1UIVOH22THQ4hmkDvGI1US) | 2:56 | 2024-09-20 | 2024-10-12 |
 | [Kay ve yo](https://open.spotify.com/track/7slAGi2bLvgoePdsrC1QMr) | [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [Kay ve yo](https://open.spotify.com/album/6sjBSKkvJaBDyKv4RoxLgw) | 3:55 | 2023-07-27 | 2023-11-11 |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-06 |  |
-| [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-21 |  |
+| [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-21 | 2024-10-17 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-09-06 |  |
 | [KJF 4](https://open.spotify.com/track/38h0M6U32s0OpQuETbhlhY) | [LESTEF KJF BOYZ](https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp) | [KJF 4](https://open.spotify.com/album/12c3Tn2s4BkI2iFdx1vCah) | 2:49 | 2023-03-24 | 2023-08-19 |
+| [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-10-16 |  |
 | [Kukere \(feat\. D Banj\) \- Remix](https://open.spotify.com/track/6HfyzIgb4Ia9COaetbq2Od) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Desire](https://open.spotify.com/album/5aJW7o9L4aFy9DLEtTxqsF) | 4:29 | 2023-12-01 | 2024-01-06 |
 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 | 2023-03-24 | 2023-11-11 |
 | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/track/2hhrIFCQonuVWKj7wMfnHt) | [La Pig chenilliste](https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a) | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/album/4you1DowiDwZWP2AQ2BmHw) | 3:23 | 2023-11-10 | 2023-12-26 |

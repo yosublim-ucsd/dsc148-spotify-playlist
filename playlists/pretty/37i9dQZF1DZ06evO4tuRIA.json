@@ -1,12 +1,12 @@
 {
   "description": "This Is LEGADO 7. Los temas esenciales, todos en una lista.",
-  "num_followers": 84324,
+  "num_followers": 84415,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAD0/ZtquOwAFu8al3d6uLXA",
+  "snapshot_id": "Zw2wgAAAAADb1A6F/ULtp+yqO8LZGy37",
   "tracks": [
     {
       "added_at": null,
@@ -147,24 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Corridos Verdes (En Vivo)",
-        "url": "https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "El Afro (En Vivo)",
-      "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo A Su Tiempo",
-        "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
@@ -182,7 +166,23 @@
       ],
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
-      "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
+      "url": "https://open.spotify.com/track/48Mp7g8NKCWL2otrKdmY9m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Corridos Verdes (En Vivo)",
+        "url": "https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "El Afro (En Vivo)",
+      "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 164790,
+      "name": "De Bajo Perfil",
+      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Motivado (feat. Banda La Fantastica)",
         "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
       },
@@ -531,46 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 164790,
-      "name": "De Bajo Perfil",
-      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bravo 57",
-        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Bravo 57",
-      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bravo 57",
+        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Bravo 57",
+      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Siempre Tranquilo",
-      "url": "https://open.spotify.com/track/31RSpBt2VxzX29RqRkH7uX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado 7 En Vivo Desde OK Corral",
         "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
@@ -791,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172303,
-      "name": "Un Chamaco Sin Futuro",
-      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El 7 De La Suerte",
         "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 217250,
       "name": "El Chili Willy",
       "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172303,
+      "name": "Un Chamaco Sin Futuro",
+      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
     },
     {
       "added_at": null,
@@ -859,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "El Popeye",
-      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.A. Lumbre",
         "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
       },
@@ -891,6 +859,22 @@
       "duration_ms": 153250,
       "name": "El Jeffrey",
       "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "El Popeye",
+      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
     },
     {
       "added_at": null,
@@ -971,6 +955,26 @@
       "duration_ms": 124574,
       "name": "Yo",
       "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
+        "url": "https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
+      "url": "https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG"
     }
   ],
   "unique_name": "This Is LEGADO 7",

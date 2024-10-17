@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: KIMHEEJIN(\uae40\ud76c\uc9c4) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: HONG JIYUN(\ud64d\uc9c0\uc724) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
   "tracks": [
     {
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 121392,
       "name": "Did you see?",
       "url": "https://open.spotify.com/track/4PyXMzFClFXCFkzxWqB9vu"
@@ -4644,10 +4644,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 236144,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/49c9g4DfRP3UODnJgZCkXj"
+    },
+    {
+      "album": {
+        "name": "Go straight",
+        "url": "https://open.spotify.com/album/0ECZvc1Fzbwaks4INbulOy"
+      },
+      "artists": [
+        {
+          "name": "Park Sung On",
+          "url": "https://open.spotify.com/artist/2WGkMaKrXLid2hSdquf16a"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Go straight",
+      "url": "https://open.spotify.com/track/5pZR4pMlMz2Wm9jHb5ZlFX"
     },
     {
       "album": {
@@ -7875,6 +7893,28 @@
     },
     {
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/6rvXDk3g9i8sWUXr1xIkkM"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\uc720",
+          "url": "https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK"
+        },
+        {
+          "name": "Park Ae Ri",
+          "url": "https://open.spotify.com/artist/4M5n9Y3pK1QAGOIvwdAbKA"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/4ZwRF6gFHUi8iyjZh79YG6"
+    },
+    {
+      "album": {
         "name": "Love call center PART14",
         "url": "https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll"
       },
@@ -9096,7 +9136,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 224585,
       "name": "Myeongja",
       "url": "https://open.spotify.com/track/4qvDEypLZuasrVBcO1dO4J"
@@ -9818,6 +9858,24 @@
       "duration_ms": 193506,
       "name": "Olle",
       "url": "https://open.spotify.com/track/6BaHd4rHtl6bIo02EY8tj0"
+    },
+    {
+      "album": {
+        "name": "On your side",
+        "url": "https://open.spotify.com/album/7G0i2PoG0OJ5pa1MaXSoCo"
+      },
+      "artists": [
+        {
+          "name": "HWANG YOUNG WOONG",
+          "url": "https://open.spotify.com/artist/0Wx4Hts0NAAKMpvSKf9Nnp"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "On your side",
+      "url": "https://open.spotify.com/track/0D4nauk2Mm4siVxvwv2fQf"
     },
     {
       "album": {
@@ -10632,7 +10690,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 154413,
       "name": "Red Lips",
       "url": "https://open.spotify.com/track/5gfueFIdJAKDqgplOCyIkr"
@@ -10890,7 +10948,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 197195,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw"
@@ -11462,7 +11520,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 217346,
       "name": "Something Big is Coming",
       "url": "https://open.spotify.com/track/310DizvgcR9IdCMUSZDE69"
@@ -11704,7 +11762,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 205280,
       "name": "Spring",
       "url": "https://open.spotify.com/track/4m3e5ymvmme3pg9AcDKs3C"
@@ -12372,7 +12430,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 191786,
       "name": "The early morning car",
       "url": "https://open.spotify.com/track/7rBImMA7bwE7qqnaF4pdmd"
@@ -13719,6 +13777,24 @@
     },
     {
       "album": {
+        "name": "Waiting Is Nothing",
+        "url": "https://open.spotify.com/album/3IaG5IrC8LxoJ0JlKT5KhU"
+      },
+      "artists": [
+        {
+          "name": "Jung Seo Joo",
+          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "Waiting Is Nothing (Prod. KT PARK)",
+      "url": "https://open.spotify.com/track/1MU4dGWZ2435JeyHmIr6vH"
+    },
+    {
+      "album": {
         "name": "Bongsungah school PART6",
         "url": "https://open.spotify.com/album/6KGaEQMf5pYF7NEpw9DWco"
       },
@@ -14140,7 +14216,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 210106,
       "name": "While the Waterwheel Spins",
       "url": "https://open.spotify.com/track/00iES8Z2TKeQsQZUfAX92I"
@@ -14497,6 +14573,24 @@
     },
     {
       "album": {
+        "name": "Best of Mr. Trot Preliminary",
+        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeongmin",
+          "url": "https://open.spotify.com/artist/0zccQI9CweyqICg8BCKGOY"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144495,
+      "name": "With lover",
+      "url": "https://open.spotify.com/track/5ijEeVhJmC3GNt6C1yjjyI"
+    },
+    {
+      "album": {
         "name": "Music source of Mr.Trot Trot Aid Best",
         "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
       },
@@ -14586,7 +14680,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 241480,
       "name": "Woman's tears",
       "url": "https://open.spotify.com/track/0YCHsBqin3wnvfm55oP3fw"
@@ -16841,6 +16935,24 @@
     },
     {
       "album": {
+        "name": "\uc5b4\ub290 \ud558\ub298\uc5d0 \uc5b4\ub290 \ubc14\ub2e4\uc5d0",
+        "url": "https://open.spotify.com/album/3vgjq2DItXLAIRKsIPqKS9"
+      },
+      "artists": [
+        {
+          "name": "HONG JIYUN",
+          "url": "https://open.spotify.com/artist/7hgu8d4pwEkvGKIEzeahXq"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "\uc5b4\ub290 \ud558\ub298\uc5d0 \uc5b4\ub290 \ubc14\ub2e4\uc5d0",
+      "url": "https://open.spotify.com/track/1VMqLK5FseGd87Y1OeRjOF"
+    },
+    {
+      "album": {
         "name": "\uc5b4\uca4c\uba74 \uc88b\uc544\uc694",
         "url": "https://open.spotify.com/album/0zUYkyR7GxyF2qN4KaYeBh"
       },
@@ -17174,7 +17286,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 210653,
       "name": "\uc778\uc0dd\uc5f4\ucc28",
       "url": "https://open.spotify.com/track/6D4uRhsvsOtMjGk02EsZwG"
@@ -17758,6 +17870,24 @@
       "duration_ms": 184140,
       "name": "\ud6a8\ub3c4\ud569\uc2dc\ub2e4",
       "url": "https://open.spotify.com/track/41FhRD804NUxuZGFtdXWQ7"
+    },
+    {
+      "album": {
+        "name": "\ud6e0\uc774",
+        "url": "https://open.spotify.com/album/5WizFFsKuCh5NEeGPOb4q1"
+      },
+      "artists": [
+        {
+          "name": "\uc815\ubbf8\uc560",
+          "url": "https://open.spotify.com/artist/6TZFFqqoODjErZ3PPEz0as"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184507,
+      "name": "\ud6e0\uc774",
+      "url": "https://open.spotify.com/track/7LISwrlfSO7j99GrKcC1Xf"
     },
     {
       "album": {

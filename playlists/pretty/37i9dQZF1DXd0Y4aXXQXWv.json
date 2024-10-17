@@ -1,15 +1,35 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Johnny Hallyday",
-  "num_followers": 480920,
+  "num_followers": 480943,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw4zQQAAAADodfbr8hI2BYxjW40MNM0P",
+  "snapshot_id": "Zw+7AgAAAADWTTpFFjpBE3gwi4UgzJuS",
   "tracks": [
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
+      "album": {
+        "name": "Non homologu\u00e9",
+        "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        },
+        {
+          "name": "Michael Jones",
+          "url": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+        }
+      ],
+      "duration_ms": 265400,
+      "name": "Je te donne",
+      "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
+    },
+    {
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/5KAz1HC0P31pabmIceTd7Q"
@@ -25,7 +45,39 @@
       "url": "https://open.spotify.com/track/1DssiNss5G9n0SuB7c4Cem"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
+      "album": {
+        "name": "L'Autre",
+        "url": "https://open.spotify.com/album/35oeDD8qQMFl7xznpqymDc"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/3Znw6uf5RObcwcXK7DDuyq"
+    },
+    {
+      "added_at": "2024-10-16 13:09:21",
+      "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
         "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
@@ -45,39 +97,7 @@
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
-      "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
-    },
-    {
-      "added_at": "2024-10-15 09:17:53",
-      "album": {
-        "name": "L'Autre",
-        "url": "https://open.spotify.com/album/35oeDD8qQMFl7xznpqymDc"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/3Znw6uf5RObcwcXK7DDuyq"
-    },
-    {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Mini World",
         "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Cheese",
         "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Mon coeur avait raison",
         "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Rupture 2 merde",
         "url": "https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
@@ -157,39 +177,7 @@
       "url": "https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
-    },
-    {
-      "added_at": "2024-10-15 09:17:53",
-      "album": {
-        "name": "racine carr\u00e9e",
-        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Formidable",
-      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
-    },
-    {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Regarde-moi",
         "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
@@ -205,7 +193,7 @@
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
@@ -221,23 +209,23 @@
       "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
-        "name": "Fr\u00e9ro Delavega",
-        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
       "artists": [
         {
-          "name": "Fr\u00e9ro Delavega",
-          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 178986,
-      "name": "Le chant des sir\u00e8nes",
-      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "La loi du papillon",
         "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
@@ -253,7 +241,39 @@
       "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
+      "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
+    },
+    {
+      "added_at": "2024-10-16 13:09:21",
+      "album": {
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Le chant des sir\u00e8nes",
+      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+    },
+    {
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Vianney",
         "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Un air de rien",
         "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Il suffit d'y croire (Version deluxe)",
         "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Le chant des sir\u00e8nes",
         "url": "https://open.spotify.com/album/5GfsaNstrK8rszTX5XYtXU"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/3IM7zXywZ6sRTtkRjRLxJ8"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Sainte-Victoire",
         "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Rose des vents",
         "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Paradize",
         "url": "https://open.spotify.com/album/0YiSd3JeGUX4VIO8Po9TD4"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/2QSAj76Ba6aMFX9RlXdUdO"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Les chemins de traverse (Remastered)",
         "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Debout les yeux ouverts",
         "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Claudio Cap\u00e9o (Version deluxe)",
         "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "N'attendons pas",
         "url": "https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y"
@@ -525,23 +545,7 @@
       "url": "https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
-      "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "La lettre",
-      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
-    },
-    {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Paris, France (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
@@ -557,7 +561,23 @@
       "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
+      "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
+    },
+    {
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "La vraie vie (Deluxe)",
         "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Sans plus attendre",
         "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Kendji",
         "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Toi + Moi",
         "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Quand la musique est bonne",
         "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Calog3ro",
         "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Chambre 12",
         "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Pour Un Flirt - Vol.1",
         "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "M & J",
         "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
@@ -801,27 +821,7 @@
       "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
-      "added_at": "2024-10-15 09:17:53",
-      "album": {
-        "name": "Non homologu\u00e9",
-        "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        },
-        {
-          "name": "Michael Jones",
-          "url": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
-        }
-      ],
-      "duration_ms": 265400,
-      "name": "Je te donne",
-      "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
-    },
-    {
-      "added_at": "2024-10-15 09:17:53",
+      "added_at": "2024-10-16 13:09:21",
       "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"

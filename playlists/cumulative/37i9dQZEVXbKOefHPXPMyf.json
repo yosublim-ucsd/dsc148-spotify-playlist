@@ -4145,6 +4145,32 @@
     },
     {
       "album": {
+        "name": "BA\u00d1O MAR\u00cdA",
+        "url": "https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153832,
+      "name": "BABY GANGSTA",
+      "url": "https://open.spotify.com/track/3ZFok6nDttzt0aXk0VRaCX"
+    },
+    {
+      "album": {
         "name": "Baby Gangster",
         "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
       },
@@ -10144,7 +10170,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 143529,
       "name": "Colombian",
       "url": "https://open.spotify.com/track/7p3oLkRoxDzfPpHbYqOFY4"
@@ -11930,6 +11956,24 @@
       "duration_ms": 142000,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/0Nqblyn9spQSFWvoPGLJDM"
+    },
+    {
+      "album": {
+        "name": "Canciones Cotidianas",
+        "url": "https://open.spotify.com/album/2yjERzgByr4lGkkXcSRliT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Capmany",
+          "url": "https://open.spotify.com/artist/3yKCeAg4MbvwHGgI7w8WSO"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "De La Ca\u00f1a Se Hace El Guaro",
+      "url": "https://open.spotify.com/track/3FrqaNq7CG4TXjQwRjUeAk"
     },
     {
       "album": {
@@ -23610,7 +23654,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -34494,7 +34538,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -43652,6 +43696,24 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142521,
+      "name": "Spring breakers",
+      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
     },
     {
       "album": {

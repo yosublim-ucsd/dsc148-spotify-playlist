@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Zoe Gotusso",
-  "num_followers": 55015,
+  "num_followers": 55036,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,22 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
-        "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
-        "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
       },
       "artists": [
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         },
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 184232,
-      "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
-      "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
       "added_at": "2024-10-14 19:08:31",
@@ -339,6 +335,30 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
+        "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
+        "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 184232,
+      "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
+      "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
+    },
+    {
+      "added_at": "2024-10-14 19:08:31",
+      "album": {
         "name": "Indios",
         "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 158840,
       "name": "Tu Geograf\u00eda",
       "url": "https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw"
-    },
-    {
-      "added_at": "2024-10-14 19:08:31",
-      "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 153609,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
       "added_at": "2024-10-14 19:08:31",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2024-10-14 19:08:31",
       "album": {
-        "name": "flashi\u00e9",
-        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
+        "name": "4 Paredes",
+        "url": "https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt"
       },
       "artists": [
         {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 154033,
-      "name": "flashi\u00e9",
-      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
+      "duration_ms": 172458,
+      "name": "4 Paredes",
+      "url": "https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2"
     }
   ],
   "unique_name": "Esto es Pop",

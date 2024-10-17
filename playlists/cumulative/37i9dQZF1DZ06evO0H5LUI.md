@@ -2,7 +2,7 @@
 
 ### [This Is Leon Leiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0H5LUI)
 
-> This is Leon Leiden\. The essential tracks, all in one playlist.
+> This Is Leon Leiden\. Los temas esenciales, todos en una lista.
 
 72 songs - 3 hr 24 min
 
@@ -51,7 +51,7 @@
 | [Mereces Menos](https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mereces Menos](https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1) | 3:00 | 2023-11-10 |  |
 | [Mil Maneras](https://open.spotify.com/track/2MH2Octk42xw891Bilg89D) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mil Maneras](https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i) | 2:21 | 2023-11-10 | 2024-07-24 |
 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2023-11-10 |  |
-| [Morena Mía](https://open.spotify.com/track/1KanooAIqVTZGGgrVoDtcF) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 3:23 | 2024-05-18 | 2024-10-11 |
+| [Morena Mía](https://open.spotify.com/track/1KanooAIqVTZGGgrVoDtcF) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 3:23 | 2024-05-18 |  |
 | [NASCAR](https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:13 | 2024-04-14 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2023-11-10 |  |
 | [NUTELLA](https://open.spotify.com/track/13BZfskMSABepXzgrp4ErP) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:32 | 2023-11-10 |  |
@@ -66,7 +66,7 @@
 | [Qué Más Da](https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Qué Más Da](https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi) | 3:15 | 2023-11-10 |  |
 | [Relajao \(Remix\)](https://open.spotify.com/track/55TiEVu9ycpq4tuA51MIoa) | [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Relajao \(Remix\)](https://open.spotify.com/album/5JyoT7eO9b18qFm5qoMJz3) | 5:02 | 2024-08-03 |  |
 | [Sal Y Pimienta](https://open.spotify.com/track/5qNs6A5O9FZTBnoqQ5DHkd) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:31 | 2023-12-23 | 2024-01-30 |
-| [Savana](https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA) | [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Fresa](https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs) | 2:48 | 2024-02-16 |  |
+| [Savana](https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA) | [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Fresa](https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs) | 2:48 | 2024-02-16 | 2024-10-17 |
 | [Savana](https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Savana](https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo) | 2:48 | 2023-11-10 | 2024-02-17 |
 | [Scirocco](https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 3:31 | 2024-04-14 |  |
 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 | 2023-11-10 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Rina Sawayama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AcHDy)
 
-> This is Rina Sawayama\. The essential tracks, all in one playlist.
+> This is Rina Sawayama\. Todos os maiores hits em uma só playlist.
 
 52 songs - 2 hr 54 min
 

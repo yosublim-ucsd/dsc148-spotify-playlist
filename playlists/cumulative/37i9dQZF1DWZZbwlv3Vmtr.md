@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-971 songs - 1 day 13 hr 37 min
+973 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Culture](https://open.spotify.com/track/1B7wvelX2nDAarrtxhX77P) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Culture](https://open.spotify.com/album/5XnvcAwLq5Ex3dA63zB1SP) | 2:12 | 2022-07-08 | 2022-08-19 |
 | [Cyan Depts](https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Cyan Depts](https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg) | 2:08 | 2024-08-09 |  |
 | [Da Wes Sht](https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Da Wes Sht](https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps) | 2:19 | 2022-04-15 | 2022-07-22 |
-| [dancing lights](https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [dancing lights](https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX) | 2:24 | 2024-09-27 |  |
+| [dancing lights](https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [dancing lights](https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX) | 2:24 | 2024-09-27 | 2024-10-17 |
 | [Dandys Dream](https://open.spotify.com/track/3BzvqhEYrXURKShUqdKHId) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 02](https://open.spotify.com/album/199UPhNxxHoISxibHPidnY) | 1:51 | 2022-04-15 | 2022-06-25 |
 | [Dauner](https://open.spotify.com/track/55IGQwHH5bvNuQa24j1Q52) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Dauner](https://open.spotify.com/album/6Sw481IbHxVz3HBQPcNxeM) | 2:51 | 2023-01-06 | 2024-02-09 |
 | [daydream](https://open.spotify.com/track/1u1V8O1tVy9FVJHjj3PdmV) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [daydream](https://open.spotify.com/album/7BSoLkoXvPu5nKjVGfPVmO) | 2:10 | 2023-04-03 |  |
@@ -215,7 +215,7 @@
 | [early one day](https://open.spotify.com/track/7vtAeEq9ICIBVjkFGpXeqN) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [early one day](https://open.spotify.com/album/0XAznNmMD2hT3rgM7Tf1y2) | 2:06 | 2023-12-22 |  |
 | [Early rise](https://open.spotify.com/track/0Xc8uXfsxcNMj2y1IKwo2T) | [7th Realm](https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs), [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [Early rise](https://open.spotify.com/album/4rqsMKNsFZOgf2QRgeaLPN) | 1:46 | 2024-07-04 | 2024-08-10 |
 | [Echovision](https://open.spotify.com/track/1kPlZE0QL6gzMkykmEz0Zv) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Echovision](https://open.spotify.com/album/2bfn7CAh6ULbmpDOOazf3W) | 2:19 | 2024-03-01 |  |
-| [eel](https://open.spotify.com/track/5tfudQf31x4RBloVTB2OaF) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [eel](https://open.spotify.com/album/5jukeayQqUy3iqhyhCqXIv) | 2:00 | 2024-10-04 |  |
+| [eel](https://open.spotify.com/track/5tfudQf31x4RBloVTB2OaF) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [eel](https://open.spotify.com/album/5jukeayQqUy3iqhyhCqXIv) | 2:00 | 2024-10-04 | 2024-10-17 |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2024-02-09 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
 | [Elevated](https://open.spotify.com/track/0G2RKuFx54rmtbhi5CP0VZ) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Elevated](https://open.spotify.com/album/36FHXlNUoSoarwPkzATpun) | 2:30 | 2022-08-19 | 2022-12-10 |
@@ -302,6 +302,7 @@
 | [golden beans](https://open.spotify.com/track/6QGYAg7tD4abOn885Mc6Sa) | [lokeyz](https://open.spotify.com/artist/5ssZUfuLKV5hyvux8k0VvJ) | [espresso time](https://open.spotify.com/album/3YD6NdMejXUhdTbGTtEbli) | 1:34 | 2022-04-15 | 2022-05-20 |
 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 | 2022-04-15 | 2022-07-01 |
 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 | 2022-04-15 |  |
+| [Golden Spices](https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB) | [Bandarr](https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi) | [Porcelain Nebula](https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc) | 2:40 | 2024-10-16 |  |
 | [Gone But Still Here](https://open.spotify.com/track/1HSken8BGnbxMXhihATudV) | [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk), [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Gone But Still Here](https://open.spotify.com/album/6h0xB0oc60fPOMKAuUhgYY) | 1:54 | 2022-05-27 | 2023-10-13 |
 | [Good Morning](https://open.spotify.com/track/3C9DeWMptUuqPtgHwVSqCO) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Good Morning](https://open.spotify.com/album/3A3EaSJvJkr2WY46pNkMv1) | 2:15 | 2023-04-03 | 2023-10-06 |
 | [Grab Me](https://open.spotify.com/track/0NVNMpfQSByxAJRDX8pL2N) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Venetian Blinds](https://open.spotify.com/album/0x5WvMjYdLqQIbNBELQJ3A) | 1:10 | 2022-11-11 | 2023-09-29 |
@@ -578,6 +579,7 @@
 | [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2024-06-12 |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
+| [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-16 |  |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2022-04-15 | 2022-09-03 |
 | [out there](https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [out there](https://open.spotify.com/album/4jUQoI5Gb7IpUWeIEVaBen) | 2:10 | 2022-04-15 | 2023-10-13 |

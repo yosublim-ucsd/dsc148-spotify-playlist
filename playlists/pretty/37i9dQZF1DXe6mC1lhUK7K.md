@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,162 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,321 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 | 18 | [Jennifer's Body](https://open.spotify.com/track/6wAdJF85cna96BwQn2Pg8c) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:40 |
 | 19 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 20 | [The Kids Aren't Alright](https://open.spotify.com/track/6EiHcFupatDGdEGq1XzDAx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Faculty \(Music From The Dimension Motion Picture\)](https://open.spotify.com/album/2ZaFYhgOvccj2dfHW2Boxv) | 2:59 |
-| 21 | [Personal Jesus](https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 4:54 |
+| 21 | [Personal Jesus](https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 4:55 |
 | 22 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 23 | [all the good girls go to hell](https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:48 |
 | 24 | [What Do They Know?](https://open.spotify.com/track/5abubE0dYFaEPDeM2sZ4TY) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel to Anything \(Expanded and Remastered 2008\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 3:08 |

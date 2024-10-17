@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Tua Sorte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Tua Sorte (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2"
+    },
+    {
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },

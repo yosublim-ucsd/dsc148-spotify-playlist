@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 244723,
       "name": "Care",
       "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
@@ -2325,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
+      },
+      "artists": [
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278840,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
+    },
+    {
+      "album": {
         "name": "Higher Ground (feat. Roosevelt)",
         "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 238355,
       "name": "Hypnotizin'",
       "url": "https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY"
@@ -6552,6 +6574,28 @@
       "duration_ms": 384960,
       "name": "What You Mean to Me",
       "url": "https://open.spotify.com/track/2oh0F0WIDbbFDhaJHpBxOU"
+    },
+    {
+      "album": {
+        "name": "Bodies in Motion",
+        "url": "https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "When We're Together",
+      "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
     },
     {
       "album": {

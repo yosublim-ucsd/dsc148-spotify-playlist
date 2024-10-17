@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 31721,
+  "num_followers": 31736,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -47,18 +47,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+        "name": "Moonlight Juice",
+        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
       },
       "artists": [
         {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
         }
       ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
+      "duration_ms": 147786,
+      "name": "Moonlight Juice",
+      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -79,22 +83,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Moonlight Juice",
-        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
       },
       "artists": [
         {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 147786,
-      "name": "Moonlight Juice",
-      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -603,22 +587,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/51xFLcdwo1QE7rwE6kNsnu"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
       },
       "artists": [
         {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        },
-        {
-          "name": "Late Night Tones",
-          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 136521,
-      "name": "Limitless",
-      "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
+      "duration_ms": 144000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lost Memories",
+        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 146845,
+      "name": "Lost Memories",
+      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -655,22 +655,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lost Memories",
-        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/51xFLcdwo1QE7rwE6kNsnu"
       },
       "artists": [
         {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
         },
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
         }
       ],
-      "duration_ms": 146845,
-      "name": "Lost Memories",
-      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+      "duration_ms": 136521,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Rossa Nova",
         "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 148965,
       "name": "Rossa Nova",
       "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "she is",
-        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
-      },
-      "artists": [
-        {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
-        }
-      ],
-      "duration_ms": 232514,
-      "name": "she is",
-      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Shiny",
         "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 129975,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
+      },
+      "artists": [
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1191,18 +1191,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
       "artists": [
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+      "duration_ms": 115500,
+      "name": "El Chavito Triste",
+      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "she is",
+        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
+      },
+      "artists": [
+        {
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+        }
+      ],
+      "duration_ms": 232514,
+      "name": "she is",
+      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1223,26 +1243,6 @@
       "duration_ms": 140307,
       "name": "The Sparkle",
       "url": "https://open.spotify.com/track/46fuglHiG9HoQ5k3vmoFT0"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "El Chavito Triste",
-      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1299,6 +1299,26 @@
       "duration_ms": 197802,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1371,26 +1391,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Lluvia de Oro",
         "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
       },
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "bumpz",
-        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
-      },
-      "artists": [
-        {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
-        }
-      ],
-      "duration_ms": 121734,
-      "name": "bumpz",
-      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1487,6 +1467,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -1503,18 +1499,46 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+        "name": "bumpz",
+        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
       },
       "artists": [
         {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
         }
       ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+      "duration_ms": 121734,
+      "name": "bumpz",
+      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "98 pasos",
+        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        },
+        {
+          "name": "Lofitic",
+          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "98 pasos",
+      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1571,30 +1595,6 @@
       "duration_ms": 123582,
       "name": "Childhood Memories",
       "url": "https://open.spotify.com/track/4njcxrlpOJPF22YZawLuFC"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "98 pasos",
-        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        },
-        {
-          "name": "Lofitic",
-          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
-        },
-        {
-          "name": "Patiotic Records",
-          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "98 pasos",
-      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
     },
     {
       "added_at": "2024-09-27 06:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 492175,
+  "num_followers": 492359,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -447,22 +447,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Louisiana Woman, Mississippi Man",
-        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 151731,
-      "name": "Louisiana Woman, Mississippi Man",
-      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -515,18 +511,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+        "name": "Louisiana Woman, Mississippi Man",
+        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+      "duration_ms": 151731,
+      "name": "Louisiana Woman, Mississippi Man",
+      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "duration_ms": 113640,
+      "name": "I Ain't Never - Single Version",
+      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 176360,
       "name": "Almost Persuaded",
       "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
-      },
-      "artists": [
-        {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "I Ain't Never - Single Version",
-      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
     },
     {
       "added_at": "2024-07-05 20:27:10",

@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 752534,
+  "num_followers": 752520,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Sirena (feat. Cuco)",
         "url": "https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 212402,
       "name": "Sirena (feat. Cuco)",
       "url": "https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Y Qu\u00e9",
         "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
       },
@@ -551,6 +567,42 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Escudo",
+        "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Escudo",
+      "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Ata\u00fad",
+        "url": "https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Ata\u00fad",
+      "url": "https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -575,22 +627,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ata\u00fad",
-        "url": "https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Ata\u00fad",
-      "url": "https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Hablas",
         "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
@@ -603,42 +639,6 @@
       "duration_ms": 156013,
       "name": "Hablas",
       "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Decimal",
-        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Escudo",
-        "url": "https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Escudo",
-      "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "NEVERENDING ROADTRIP",
-        "url": "https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "WASTED WEEKEND",
-      "url": "https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "something bout u",
         "url": "https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 171483,
       "name": "something bout u",
       "url": "https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "NEVERENDING ROADTRIP",
+        "url": "https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "WASTED WEEKEND",
+      "url": "https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Medallo-Madrid-Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 126133,
+      "name": "Medallo-Madrid-Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Medallo-Madrid-Mazatl\u00e1n",
-        "url": "https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 126133,
-      "name": "Medallo-Madrid-Mazatl\u00e1n",
-      "url": "https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Tambi\u00e9n de dolor se canta",
         "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 208057,
       "name": "Tambi\u00e9n de dolor se canta",
       "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Cuerpo",
-        "url": "https://open.spotify.com/album/1oulG48581wpct7HOWNi2t"
-      },
-      "artists": [
-        {
-          "name": "Leo Waters",
-          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Cuerpo",
-      "url": "https://open.spotify.com/track/7GPQ2XNy7AAWgj96uqehtH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+        "name": "Cuerpo",
+        "url": "https://open.spotify.com/album/1oulG48581wpct7HOWNi2t"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
         }
       ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+      "duration_ms": 177777,
+      "name": "Cuerpo",
+      "url": "https://open.spotify.com/track/7GPQ2XNy7AAWgj96uqehtH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Caster y Roxy",
         "url": "https://open.spotify.com/album/0J2rAAqOV88hnIPBda79m7"
       },
@@ -1251,6 +1219,38 @@
       "duration_ms": 250933,
       "name": "Caster y Roxy",
       "url": "https://open.spotify.com/track/5pNvENxRsxYLYXS23JL6xt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "NICA",
-        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 183036,
-      "name": "AHORA",
-      "url": "https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "YASS",
         "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 183036,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak"
     }
   ],
   "unique_name": "Mixto",

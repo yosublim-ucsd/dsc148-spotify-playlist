@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Zuka\(주카\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: CNBLUE\(씨엔블루\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-742 songs - 1 day 20 hr 45 min
+744 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A girl's Panorama \(feat\. GIUK\)](https://open.spotify.com/track/3E5JbDebW0NQzafFD2xVh5) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [mYmY](https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29) | 4:11 | 2023-11-10 | 2024-05-10 |
 | [A Kid From Bathroom](https://open.spotify.com/track/42viEIOYM4blJHf95e5Fy1) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/7e5sJT4ByH3fVYXvHoMYdt) | 2:43 | 2022-04-22 | 2022-07-24 |
 | [A Long Dream 긴 꿈](https://open.spotify.com/track/0h5XgxN8lwqFCZXyGSCRch) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream 긴 꿈](https://open.spotify.com/album/14MzJLQEjGoWplHYwe3JiJ) | 4:18 | 2022-04-22 | 2022-07-29 |
+| [A Sleepless Night](https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [X](https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u) | 2:45 | 2024-10-16 |  |
 | [A song for you](https://open.spotify.com/track/67n8M1giJq7nf8H4adHwcS) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [A song for you](https://open.spotify.com/album/7hMIZUJSBHY5UzQfeLkfxE) | 3:15 | 2022-04-22 | 2022-07-28 |
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-06-13 | 2022-07-09 |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-18 | 2022-07-02 |
@@ -360,7 +361,7 @@
 | [Like Nothing \(Feat\. YOUHA, Kim Seungmin\)](https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Like Nothing](https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf) | 2:51 | 2024-09-13 | 2024-09-27 |
 | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk) | 3:02 | 2024-06-13 | 2024-09-28 |
 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 | 2024-04-22 |  |
-| [Little Things](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) | 3:32 | 2024-04-30 |  |
+| [Little Things](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) | 3:32 | 2024-04-30 | 2024-10-17 |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2024-05-09 |  |
 | [Lonely Soul](https://open.spotify.com/track/1h6Kl03PcftlUbdElWIoD6) | [David Oh](https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu) | [Lonely Soul](https://open.spotify.com/album/3IfjL4M7gk3NaVzm7KEC59) | 3:35 | 2022-04-12 | 2022-05-08 |
 | [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 | 2024-03-21 |  |
@@ -414,6 +415,7 @@
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-01 | 2022-08-13 |
 | [New World](https://open.spotify.com/track/04fxCWCGiHuz4qgABacWlI) | [Cho seong min](https://open.spotify.com/artist/2IdF9YcOnVdN9pMxaIvyM6), [Kim bada](https://open.spotify.com/artist/3yWAjA0zH4BXTK3v0TjBWH) | [Friends Vol.9](https://open.spotify.com/album/4ZB72JIjAXgnYuld5CdZPn) | 3:16 | 2022-05-11 | 2022-05-25 |
 | [Next episode \(with Choi Jung Hoon of JANNABI\)](https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:12 | 2022-05-03 | 2022-07-24 |
+| [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-16 |  |
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-06-13 | 2023-06-20 |
 | [Night Sea](https://open.spotify.com/track/4IlUi3tPj2iKYpHv9QD1G2) | [zemean](https://open.spotify.com/artist/56tvGLd03FEkw6tPiWM8ql) | [In Summer](https://open.spotify.com/album/3YPZ2UqculUNYPl07DZYh9) | 4:38 | 2022-06-09 | 2022-06-16 |
 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 | 2022-09-30 | 2022-10-19 |
@@ -636,7 +638,7 @@
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-04-22 | 2022-07-29 |
 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 | 2024-09-26 |  |
 | [Till The End](https://open.spotify.com/track/6346CzN9QIthoAXNlhmDw4) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Again my life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4F5qcsJk3zyB3PsPVebMV7) | 4:00 | 2022-05-03 | 2022-05-22 |
-| [Time](https://open.spotify.com/track/3SfryNlBaUld6yNcpUxzpS) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:10 | 2024-10-11 |  |
+| [Time](https://open.spotify.com/track/3SfryNlBaUld6yNcpUxzpS) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:10 | 2024-10-11 | 2024-10-17 |
 | [TIME MACHINE \(2100\)](https://open.spotify.com/track/0YdTWKY4AOJjoFRzvCv8w5) | [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [Psycho Xybernetics : TURN OVER](https://open.spotify.com/album/6Aj2dwrucXX7G1021mfyOQ) | 3:17 | 2023-04-20 | 2023-04-27 |
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 | 2024-03-19 |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |

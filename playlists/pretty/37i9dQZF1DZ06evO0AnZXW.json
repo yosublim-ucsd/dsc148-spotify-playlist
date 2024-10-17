@@ -1,12 +1,12 @@
 {
   "description": "This Is XXXTENTACION. Los temas esenciales, todos en una lista.",
-  "num_followers": 2947023,
+  "num_followers": 2947159,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAADg6PHv0BUX+NbV+NBPuRdi",
+  "snapshot_id": "Zw2wgAAAAABTdoNsuP3+iLbhM2KXqsG/",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 121630,
+      "name": "I don't let go",
+      "url": "https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 213132,
       "name": "Roll in Peace (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 121630,
-      "name": "I don't let go",
-      "url": "https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 82470,
-      "name": "numb the pain",
-      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
+      "duration_ms": 136357,
+      "name": "HEARTEATER",
+      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 136357,
-      "name": "HEARTEATER",
-      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
+      "duration_ms": 82470,
+      "name": "numb the pain",
+      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
     },
     {
       "added_at": null,

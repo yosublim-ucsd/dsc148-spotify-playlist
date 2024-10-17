@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: George Michael ",
-  "num_followers": 32121,
+  "num_followers": 32132,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 179015,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 189087,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Worms",
         "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 274920,
       "name": "Smalltown Boy (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 189087,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "WEEDKILLER",
+        "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Dying Star (feat. Ethel Cain)",
+      "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Good Bi",
         "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
       "url": "https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "WEEDKILLER",
-        "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Dying Star (feat. Ethel Cain)",
-      "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "Quarter Life Crisis (Deluxe)",
+        "url": "https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 199671,
+      "name": "a letter to myself at 17",
+      "url": "https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "#gigi",
         "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 185600,
       "name": "Hex So Heavy",
       "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Quarter Life Crisis (Deluxe)",
-        "url": "https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 199671,
-      "name": "a letter to myself at 17",
-      "url": "https://open.spotify.com/track/0kU2hNsMbTPHOMDD7qKQS8"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Better ft. Cuco",
-        "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Better ft. Cuco",
-      "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Disturbing U",
         "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 151304,
       "name": "Disturbing U",
       "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Better ft. Cuco",
+        "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Better ft. Cuco",
+      "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Believe Me Now?",
-        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Cheerleader",
         "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205330,
       "name": "Mountain out of a Molehill",
       "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "softscars",
-        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 186987,
-      "name": "cyber meat",
-      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "PROCESS",
-        "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
-      },
-      "artists": [
-        {
-          "name": "Cody Frost",
-          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
-        }
-      ],
-      "duration_ms": 158167,
-      "name": "PROCESS",
-      "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "My Soft Machine (Deluxe)",
         "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "PROCESS",
+        "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
+      },
+      "artists": [
+        {
+          "name": "Cody Frost",
+          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+        }
+      ],
+      "duration_ms": 158167,
+      "name": "PROCESS",
+      "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "One More Time (feat. Popstar)",
         "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 200843,
       "name": "One More Time (feat. Popstar)",
       "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "You Lucky One",
-        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "idc",
         "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 150786,
       "name": "idc",
       "url": "https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "You Lucky One",
+        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Hectic",
         "url": "https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 158969,
       "name": "Bite The Hand",
       "url": "https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     },
     {
       "added_at": "2024-10-07 23:00:00",

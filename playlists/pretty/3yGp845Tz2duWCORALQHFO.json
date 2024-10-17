@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25790,
+  "num_followers": 25788,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhPasfuzSQYmLojufmEiSnlEugERe/",
+  "snapshot_id": "AABhPnsNUeKd7o6CzxH/q4QQ1jUapxtw",
   "tracks": [
     {
       "added_at": "2024-10-11 13:03:12",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
     },
     {
+      "added_at": "2024-10-16 13:38:52",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4QocOje5vl69d9dpH9ZbhU"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "duration_ms": 153529,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4MbbPlazYHz892lbnWPelv"
+    },
+    {
       "added_at": "2024-10-11 13:03:12",
       "album": {
         "name": "Lost In The Dust",
@@ -849,7 +865,7 @@
         },
         {
           "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
         }
       ],
       "duration_ms": 184888,

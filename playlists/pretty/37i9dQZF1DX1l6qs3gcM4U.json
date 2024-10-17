@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cleyton David, Tamyris Moiane",
-  "num_followers": 209563,
+  "num_followers": 209597,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -907,30 +907,6 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 210648,
-      "name": "Momentos",
-      "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 186524,
       "name": "Love",
       "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 210648,
+      "name": "Momentos",
+      "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
       "artists": [
         {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         },
         {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
         }
       ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1219,22 +1219,38 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
         },
         {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
         }
       ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1359,6 +1359,26 @@
       "duration_ms": 234666,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
+        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Bruna Tatiana",
+          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
+        }
+      ],
+      "duration_ms": 237717,
+      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
+      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1447,26 +1467,6 @@
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
-        "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Bruna Tatiana",
-          "url": "https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
-      "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Marilia Mendon\u00e7a",
-        "url": "https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B"
-      },
-      "artists": [
-        {
-          "name": "Cleyton David",
-          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
-        },
-        {
-          "name": "Tamyris Moiane",
-          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
-        }
-      ],
-      "duration_ms": 174342,
-      "name": "Marilia Mendon\u00e7a",
-      "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
         "name": "The Gentleman",
         "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
@@ -1783,38 +1763,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Wassup",
-        "url": "https://open.spotify.com/album/0IoANTDvb73CEoXOuWOaW5"
+        "name": "Marilia Mendon\u00e7a",
+        "url": "https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B"
       },
       "artists": [
         {
-          "name": "Felishia",
-          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
-        }
-      ],
-      "duration_ms": 197241,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/7F5hgqfJH0P6ZcoYHqFmzE"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Cleyton David",
+          "url": "https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq"
         },
         {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
         }
       ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
+      "duration_ms": 174342,
+      "name": "Marilia Mendon\u00e7a",
+      "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1839,6 +1803,26 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "TROMPETE",
         "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/0IoANTDvb73CEoXOuWOaW5"
+      },
+      "artists": [
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        }
+      ],
+      "duration_ms": 197241,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/7F5hgqfJH0P6ZcoYHqFmzE"
     },
     {
       "added_at": "2024-10-10 23:00:00",

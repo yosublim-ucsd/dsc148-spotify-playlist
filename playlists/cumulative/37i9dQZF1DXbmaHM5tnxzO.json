@@ -1599,6 +1599,28 @@
     },
     {
       "album": {
+        "name": "Coco - Banda Sonora Original en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
+          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
+        },
+        {
+          "name": "Gael Garcia Bernal",
+          "url": "https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112205,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u"
+    },
+    {
+      "album": {
         "name": "Finding Dory (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j"
       },

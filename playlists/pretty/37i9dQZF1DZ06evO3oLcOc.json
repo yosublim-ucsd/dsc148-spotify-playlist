@@ -1,12 +1,12 @@
 {
-  "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 223811,
+  "description": "This is Tyga. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 223819,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAC4i8RW9eVWz2/q2y/L6/Ey",
+  "snapshot_id": "Zw2wgAAAAADDbncXzcW3qrzdkgTUMHWt",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Question",
-        "url": "https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 142148,
-      "name": "No Question",
-      "url": "https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "soak city (feat. OhGeesy & BlueBucksClan)",
         "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 244855,
       "name": "soak city (feat. OhGeesy & BlueBucksClan)",
       "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Question",
+        "url": "https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 142148,
+      "name": "No Question",
+      "url": "https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u"
     },
     {
       "added_at": null,

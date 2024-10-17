@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 175290,
+  "num_followers": 175344,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "Mailbox",
-        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "mailbox",
-      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
-    },
-    {
-      "added_at": "2024-10-09 06:38:07",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2024-10-09 06:38:07",
+      "album": {
+        "name": "Mailbox",
+        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "mailbox",
+      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+        "name": "UDOPIUM - Das Beste (Special Edition)",
+        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
       "artists": [
         {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
         }
       ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
+      "duration_ms": 204291,
+      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
+      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -691,22 +695,18 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "UDOPIUM - Das Beste (Special Edition)",
-        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
       },
       "artists": [
         {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
         }
       ],
-      "duration_ms": 204291,
-      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
-      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -855,18 +855,22 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "Halleluja (Remastered)",
-        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
+        "name": "dass liebe sch\u00f6n sein kann",
+        "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
       },
       "artists": [
         {
-          "name": "Westernhagen",
-          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
+          "name": "Revelle",
+          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
+        },
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
         }
       ],
-      "duration_ms": 286653,
-      "name": "Weil ich dich liebe - Remastered",
-      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
+      "duration_ms": 159015,
+      "name": "dass liebe sch\u00f6n sein kann",
+      "url": "https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -891,22 +895,18 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "dass liebe sch\u00f6n sein kann",
-        "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
+        "name": "Halleluja (Remastered)",
+        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
       },
       "artists": [
         {
-          "name": "Revelle",
-          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
-        },
-        {
-          "name": "Gregor H\u00e4gele",
-          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+          "name": "Westernhagen",
+          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
         }
       ],
-      "duration_ms": 159015,
-      "name": "dass liebe sch\u00f6n sein kann",
-      "url": "https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF"
+      "duration_ms": 286653,
+      "name": "Weil ich dich liebe - Remastered",
+      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
     },
     {
       "added_at": "2024-10-09 06:38:07",

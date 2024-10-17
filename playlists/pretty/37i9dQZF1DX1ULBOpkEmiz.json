@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 5261,
+  "num_followers": 5263,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 209533,
-      "name": "Get It Shawty",
-      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. JAY-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
         }
       ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. JAY-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+      "duration_ms": 209533,
+      "name": "Get It Shawty",
+      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Rock The Boat",
-      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Unappreciated",
         "url": "https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 226293,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/6MBEjJlXQYXr8dfxDvZuoA"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Rock The Boat",
+      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "The King Of Crunk & BME Recordings Present: Welcome to Trillville USA",
-        "url": "https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu"
-      },
-      "artists": [
-        {
-          "name": "Trillville",
-          "url": "https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY"
-        },
-        {
-          "name": "Cutty",
-          "url": "https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB"
-        }
-      ],
-      "duration_ms": 283386,
-      "name": "Some Cut (feat. Cutty)",
-      "url": "https://open.spotify.com/track/07u02f6biDHx5VexfAs41b"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "Light Poles And Pine Trees",
         "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "The King Of Crunk & BME Recordings Present: Welcome to Trillville USA",
+        "url": "https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu"
+      },
+      "artists": [
+        {
+          "name": "Trillville",
+          "url": "https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY"
+        },
+        {
+          "name": "Cutty",
+          "url": "https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB"
+        }
+      ],
+      "duration_ms": 283386,
+      "name": "Some Cut (feat. Cutty)",
+      "url": "https://open.spotify.com/track/07u02f6biDHx5VexfAs41b"
     },
     {
       "added_at": "2023-06-19 01:52:12",

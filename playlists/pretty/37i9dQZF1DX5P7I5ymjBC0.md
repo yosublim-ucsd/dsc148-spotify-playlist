@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,894 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,905 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 31 | [Mora Saiyaan](https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 6:52 |
 | 32 | [Garaj Garaj](https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Ajoy Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \- Original Series Soundtrack](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 2:38 |
 | 33 | [Chanakya](https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Chanakya](https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX) | 2:43 |
-| 34 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
-| 35 | [Mujh Se Pehli Si Muhabbat](https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo) | [Humera Channa](https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:52 |
+| 34 | [Mujh Se Pehli Si Muhabbat](https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo) | [Humera Channa](https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:52 |
+| 35 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
 | 36 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 37 | [Sajna Barse](https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Arpita Chatterjee](https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm) | [Bapi Bari Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt) | 4:24 |
 | 38 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 |

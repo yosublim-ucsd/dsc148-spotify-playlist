@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 235 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 292 likes - 235 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 90 | [In the Dark](https://open.spotify.com/track/1GO9vCm5Cra5uWGSWQ5mGK) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:39 |
 | 91 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 |
 | 92 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 |
-| 93 | [Zaddy](https://open.spotify.com/track/7n1nLaVnTdMmUY8gj7DMY7) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:44 |
-| 94 | [Seasons \(with Sjava & Reason\)](https://open.spotify.com/track/35cOyocq8Gb6UcT0NWeTwn) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 4:02 |
+| 93 | [Seasons \(with Sjava & Reason\)](https://open.spotify.com/track/35cOyocq8Gb6UcT0NWeTwn) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 4:02 |
+| 94 | [Zaddy](https://open.spotify.com/track/7n1nLaVnTdMmUY8gj7DMY7) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:44 |
 | 95 | [Inside Out](https://open.spotify.com/track/5xi2SXmF3A5AIsuGXiUIZu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:02 |
 | 96 | [Perfect Circle / God Speed](https://open.spotify.com/track/4TlN2LSHn3DzauUe77l0ib) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 7:55 |
 | 97 | [Should've Said It](https://open.spotify.com/track/0sHc1EEeOnmgjP6QmsR7px) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:20 |
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 199 | [How Can He Be](https://open.spotify.com/track/1HJPfnQQhANkDsBvTM8xrf) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 2:33 |
 | 200 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
 | 201 | [Come Back](https://open.spotify.com/track/6LTMpDuFmNyqzhWx7FVhnP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 |
-| 202 | [A Bigger Picture Called Free](https://open.spotify.com/track/4dBWeFLWPmY9WHGMl6yN31) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Black America Again](https://open.spotify.com/album/2DTbGcv40CSMW0P4yAQQBa) | 4:38 |
-| 203 | [What About Heaven](https://open.spotify.com/track/7p1TzNPxA7x4nvXCu6fC6S) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:38 |
+| 202 | [What About Heaven](https://open.spotify.com/track/7p1TzNPxA7x4nvXCu6fC6S) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:38 |
+| 203 | [A Bigger Picture Called Free](https://open.spotify.com/track/4dBWeFLWPmY9WHGMl6yN31) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Black America Again](https://open.spotify.com/album/2DTbGcv40CSMW0P4yAQQBa) | 4:38 |
 | 204 | [Still Got Time](https://open.spotify.com/track/4QHvhSmShQNeYAyXcnRwiM) | [The Nashville Sessions](https://open.spotify.com/artist/5jJHSUQLyn8rPzxw2ImfQl), [Ben Schuller](https://open.spotify.com/artist/7n4cyL40CdreXwIw00c8RX) | [Cover Sessions](https://open.spotify.com/album/4jPt6rDZLTyi4oCtED2c8g) | 3:28 |
 | 205 | [Wrong Speed](https://open.spotify.com/track/6OAikgb0nzBidSI9WMiKui) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Insecure: Music from the HBO Original Series, Season 3](https://open.spotify.com/album/3AaaX5cJpQPUzL2UznWu7q) | 3:30 |
 | 206 | [Maison](https://open.spotify.com/track/5Fp1CtbZMoCKyIyojRRjC8) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Up For Days](https://open.spotify.com/album/7MH5ah4TuR5b7ENaloxEtr) | 3:18 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 234 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 235 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Abe4SAAAAADZpWPBIHI3v2weU+AFa+sl`
+Snapshot ID: `Abe93gAAAADuJtrvBbIgNKj9D2L2IC+g`

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 215352,
+  "num_followers": 215401,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Saint Mary Of The Woods",
-        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 513440,
-      "name": "Choctaw Bingo",
-      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Saint Mary Of The Woods",
+        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 513440,
+      "name": "Choctaw Bingo",
+      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
-      },
-      "artists": [
-        {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
+      },
+      "artists": [
+        {
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "The Birds Of St. Marks",
         "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
       },
@@ -1455,26 +1455,6 @@
       "duration_ms": 262746,
       "name": "The Birds Of St. Marks",
       "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Band of Brothers",
-        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "The Git Go (with Jamey Johnson)",
-      "url": "https://open.spotify.com/track/3UtWQppzqaArTONICZWdTR"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "The Git Go (with Jamey Johnson)",
+      "url": "https://open.spotify.com/track/3UtWQppzqaArTONICZWdTR"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/0Vc2d6rwDyTNfNRUUV1TkT"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Color of the Blues (feat. Susan Tedeschi)",
-        "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Color of the Blues (feat. Susan Tedeschi)",
-      "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1575,6 +1555,26 @@
       "duration_ms": 220360,
       "name": "Love Wore A Halo (Back Before The War)",
       "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Color of the Blues (feat. Susan Tedeschi)",
+        "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Color of the Blues (feat. Susan Tedeschi)",
+      "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Great American Cities",
-        "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
-      },
-      "artists": [
-        {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
-        }
-      ],
-      "duration_ms": 278720,
-      "name": "Great American Cities",
-      "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Damage",
         "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 241739,
       "name": "The Damage",
       "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Great American Cities",
+        "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Great American Cities",
+      "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Walking Back To Georgia",
-      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "At Folsom Prison (Legacy Edition)",
         "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 156426,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
       "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Walking Back To Georgia",
+      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
       "added_at": "2024-08-30 04:00:00",

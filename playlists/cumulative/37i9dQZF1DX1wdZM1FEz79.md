@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: KIM PUREUM\(김푸름\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-535 songs - 1 day 7 hr 45 min
+536 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-07-08 | 2024-04-19 |
 | [20](https://open.spotify.com/track/6F15OzRN9KfU0fQuWTlEc9) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2P48xP9nTAIJrd0jwDUusc) | 3:42 | 2022-03-31 | 2022-04-19 |
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2021-12-10 | 2022-07-15 |
+| [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 | 2024-10-16 |  |
 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-08-22 | 2024-09-04 |
 | [A change of heart](https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU) | [on\_poem](https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL) | [A change of heart](https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY) | 3:25 | 2022-01-13 | 2022-04-20 |
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-04 | 2024-01-16 |
@@ -45,7 +46,7 @@
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-20 | 2023-01-11 |
 | [Be Love](https://open.spotify.com/track/1Bpk1E0XMCkA30pu1GQLNB) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Be Love](https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer) | 4:33 | 2022-03-31 | 2022-04-13 |
-| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 |  |
+| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 | 2024-10-17 |
 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 | 2022-03-31 |  |
 | [Be with me \- Acoustic Mix](https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved \(Acoustic Mix\)](https://open.spotify.com/album/12AITMfwXY2uvJClZKJcf5) | 4:31 | 2021-12-10 | 2022-04-18 |
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |

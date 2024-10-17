@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,539 likes - 316 songs - 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,540 likes - 316 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 46 | [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 3:21 |
 | 47 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:58 |
 | 48 | [Plot Twist](https://open.spotify.com/track/5wJL4o7k8m02m6ZM9KT0ir) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:47 |
-| 49 | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/track/7DwgS4noRe9dIie3QPZUWF) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \- Deluxe Edition](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:03 |
-| 50 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 49 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
+| 50 | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/track/7DwgS4noRe9dIie3QPZUWF) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \- Deluxe Edition](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:03 |
 | 51 | [Freak Like Me \(feat\. Katy B & MNEK\) \- Radio Edit](https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me \(feat\. Katy B & MNEK\) \[Radio Edit\]](https://open.spotify.com/album/2F8BracaDn8k2ysDmNCWQr) | 2:59 |
 | 52 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 53 | [OK \(Anxiety Anthem\)](https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p) | [Mabel](https://open.spotify.com/artist/4ilhzwc5QbNIGlLQfLUZWP) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:36 |
@@ -277,8 +277,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 267 | [Enough](https://open.spotify.com/track/4gAOsYjYab3gcAjy6iXUSk) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Enough](https://open.spotify.com/album/6bZ48hDnMVSavEVMcH4qdm) | 2:29 |
 | 268 | [BLK MADONNA](https://open.spotify.com/track/4uF3wim4tyomeIiHQ8sGyU) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 1:48 |
 | 269 | [Love U Better](https://open.spotify.com/track/3N0PBpoAzHdomQy9wU15YS) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [There’s A Nightclub Inside My Head](https://open.spotify.com/album/6h6xFQ5SdScv1mkoWNzJnI) | 3:04 |
-| 270 | [Mood](https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Mood](https://open.spotify.com/album/2SuTPaMTSmZzFKk2btXQuA) | 2:37 |
-| 271 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 |
+| 270 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 |
+| 271 | [Mood](https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Mood](https://open.spotify.com/album/2SuTPaMTSmZzFKk2btXQuA) | 2:37 |
 | 272 | [Go\-go Girl](https://open.spotify.com/track/79g34ACMp6zEjt5Tu8TYbw) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Suburban Plaza](https://open.spotify.com/artist/3p4jVzrkk30nsU9vBu8wqm) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:02 |
 | 273 | [FOREVER ANYWAY](https://open.spotify.com/track/6t8IevRP0WqkrnvjVZM9FJ) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [INNOCENT](https://open.spotify.com/album/1a5UWR2OuViy3GPj71nSDX) | 3:47 |
 | 274 | [Runaway](https://open.spotify.com/track/4y4DwppW6dvTPtIt7a1y8v) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Tiffi](https://open.spotify.com/artist/6YJLGRyg8mzvDkwSUgl8nW) | [HTTP404](https://open.spotify.com/album/2mHLX4cwIZxtrISqQLo729) | 3:29 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 315 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 316 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Abe4PgAAAAC5YLiHTk10domxkS6sPEza`
+Snapshot ID: `Abe93gAAAACJtWXxpfcDJfO8CPoMCb3T`

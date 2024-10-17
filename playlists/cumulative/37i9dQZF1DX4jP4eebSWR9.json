@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: LACAZETTE",
+  "description": "50 Hits in einer Playlist! Cover: SANTOS, Sido",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/29lXN1aoaL6HE72BOvknyr"
@@ -364,6 +364,24 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "album": {
@@ -452,6 +470,28 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "Geschlossene Augen",
+        "url": "https://open.spotify.com/album/3855i0YuxSfGiZcWvZq4Og"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165850,
+      "name": "Geschlossene Augen",
+      "url": "https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR"
     },
     {
       "album": {
@@ -798,7 +838,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 196087,
       "name": "Mama hat gesagt",
       "url": "https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn"
@@ -838,6 +878,24 @@
       "duration_ms": 184485,
       "name": "Miami",
       "url": "https://open.spotify.com/track/5N1C1ii0IsKp1Ux3OXUM8C"
+    },
+    {
+      "album": {
+        "name": "pass auf mein herz auf",
+        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156143,
+      "name": "mit dir ist es anders",
+      "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
     },
     {
       "album": {
@@ -1126,7 +1184,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 160719,
       "name": "sekundentakt",
       "url": "https://open.spotify.com/track/6LIgQ7TIoAx9nzpfvOq0Nq"

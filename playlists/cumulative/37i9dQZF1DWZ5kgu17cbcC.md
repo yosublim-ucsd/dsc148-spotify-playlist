@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-111 songs - 5 hr 17 min
+112 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2024-01-05 | 2024-07-03 |
 | [Mission Theme Pt\. 1](https://open.spotify.com/track/21YuBNOvbP0ngErkxHgZQ2) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 1:11 | 2024-01-05 |  |
 | [Mollie's Theme](https://open.spotify.com/track/2N5sKIn88pDXB3gWAeEaei) | [Chris Westlake](https://open.spotify.com/artist/0PFGcgMLSV7u8H9J9jQvyD) | [Solar Opposites \(Original Soundtrack\)](https://open.spotify.com/album/6pwUWYDZ0aWo7VhucKafAS) | 1:52 | 2024-01-05 |  |
+| [Mr\. Brightside \- From "Tell Me Lies \(Season 2\)"](https://open.spotify.com/track/0BKpJxv5C1L0JINPG60bwE) | [Tell Me Lies – Cast](https://open.spotify.com/artist/1yNSl6gNtJuvKoYx3AHBVC), [Cat Missal](https://open.spotify.com/artist/29XuVn8LxtJPjHOFZm3QiY) | [Mr\. Brightside \[From "Tell Me Lies \(Season 2\)"\]](https://open.spotify.com/album/5umPVgE48qrzCaNNyFs0WD) | 4:07 | 2024-10-17 |  |
 | [Never Lost](https://open.spotify.com/track/1z3570clQdJByH4SZ5ufst) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [The Greatest Hits \(Original Soundtrack\)](https://open.spotify.com/album/47Lzhr5elVXSdAdsFnQUA7) | 2:45 | 2024-04-12 |  |
 | [Not Gone](https://open.spotify.com/track/1O9mxTVOk4hehQNbD5gndC) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 2:50 | 2024-01-05 |  |
 | [Only You](https://open.spotify.com/track/78reznKyxnP51YPifbCPhR) | [Jonah Mutono](https://open.spotify.com/artist/6DycDXzvurfW6Z7CMCQC4P) | [Love, Victor: Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr) | 2:27 | 2024-01-05 |  |

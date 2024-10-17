@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 168 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 168 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 37 | [Who's Laughing Now](https://open.spotify.com/track/4j0IWZ8k3r7BFhuAuCM4uc) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Int'l Version\)](https://open.spotify.com/album/3KJBsmsJQK5timf0TESYUg) | 3:54 |
 | 38 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
 | 39 | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/track/3xmfi7nXVWFFN706CBTAyP) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/album/6Pp51kxuCHKcHMhopNfMNo) | 3:52 |
-| 40 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
-| 41 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
+| 40 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
+| 41 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 | 42 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 |
-| 43 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
-| 44 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 43 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
+| 44 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
 | 45 | [Gateway Drug](https://open.spotify.com/track/51BroelKJaagm8GOIVFv3f) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:32 |
 | 46 | [Repeat \(feat\. Jessie J\)](https://open.spotify.com/track/1g13QKRzafR7wjPM7V7oG7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Nothing but the Beat Ultimate](https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2) | 3:26 |
 | 47 | [Back to Life](https://open.spotify.com/track/6ixjgNCGvFTXTO1fGqltw1) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Back to Life](https://open.spotify.com/album/2eShCMLXmJ06B65OMOIOQ4) | 2:06 |
@@ -107,12 +107,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 97 | [Love Shine Down](https://open.spotify.com/track/6Wtv2n0dqdjzeAGbxhrdWL) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 4:05 |
 | 98 | [Love My Neighbour](https://open.spotify.com/track/09tpe143lHWH4ncKfaNmgA) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Love My Neighbour](https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL) | 3:01 |
 | 99 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
-| 100 | [Come Alive](https://open.spotify.com/track/4HjEhcygmxh1gSGGLSAFF5) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:51 |
-| 101 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
-| 102 | [Play Me](https://open.spotify.com/track/2jSctWpG0oCXfIgeP2oHQP) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Progression 2: A Young Texas Playa](https://open.spotify.com/album/7CD4LgKZWKAUB3NMudm27b) | 3:06 |
-| 103 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
-| 104 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 |
-| 105 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 |
+| 100 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 |
+| 101 | [Come Alive](https://open.spotify.com/track/4HjEhcygmxh1gSGGLSAFF5) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:51 |
+| 102 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
+| 103 | [Play Me](https://open.spotify.com/track/2jSctWpG0oCXfIgeP2oHQP) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Progression 2: A Young Texas Playa](https://open.spotify.com/album/7CD4LgKZWKAUB3NMudm27b) | 3:06 |
+| 104 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
+| 105 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 |
 | 106 | [Birthday](https://open.spotify.com/track/3v3TREGncEqFVExadkOhtY) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:16 |
 | 107 | [Hangover](https://open.spotify.com/track/5asegb19C7iaWFyx63UKj8) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [While You Wait](https://open.spotify.com/album/78GlZJUM3ehtYtWTxaFXT4) | 3:24 |
 | 108 | [Control Of The Knife](https://open.spotify.com/track/2BA8K7pvwK8BRir61JBhpf) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Tangled Up \(Deluxe\)](https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw) | 3:49 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 167 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 168 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Abe4PgAAAABblJ+D6zcJw6QH5tlEyGPS`
+Snapshot ID: `Abe93gAAAAB9IRHwfcAWcU8AQYZQFORa`

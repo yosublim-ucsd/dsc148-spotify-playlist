@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-493 songs - 1 day 4 hr 22 min
+494 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Battlefield](https://open.spotify.com/track/75SkmJcEDaUQ7338kQY3Hn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/0nSXyQtFnv3MqqcNYOUrCW) | 3:53 | 2024-01-29 | 2024-02-02 |
 | [Battlefield](https://open.spotify.com/track/0wGPUxi4tuxfSeR0DtHFSp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/493cZBXesSA3z8UBKkwjQi) | 4:01 | 2024-02-01 |  |
 | [Be Alright](https://open.spotify.com/track/5PGlOJxk3Y9fw1gLxddLz1) | [she](https://open.spotify.com/artist/3xWktqKQxBAu4LXqLufJwW) | [Electric Girl](https://open.spotify.com/album/3OG0RkesWMYcJzIK2seQI8) | 4:31 | 2024-01-29 |  |
+| [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-10-16 |  |
 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 | 2024-01-29 |  |
 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 | 2024-01-29 |  |
 | [Because I Had You](https://open.spotify.com/track/1RRZSm4akqNyMOsPUhw4cb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:22 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-839 songs - 1 day 23 hr 47 min
+840 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,8 +441,9 @@
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
 | [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |
 | [Love Runs Out](https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Love Runs Out](https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg) | 4:02 | 2023-02-21 | 2023-05-13 |
-| [Love You for the Summer](https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You for the Summer](https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW) | 2:52 | 2024-07-25 |  |
+| [Love You for the Summer](https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You for the Summer](https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW) | 2:52 | 2024-07-25 | 2024-10-17 |
 | [Lullaby](https://open.spotify.com/track/1mPER4WK21doNM1VhdwxYj) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Lullaby](https://open.spotify.com/album/07DHgHAJ20535Or6I2vcL2) | 3:08 | 2024-07-02 | 2024-09-24 |
+| [Lush](https://open.spotify.com/track/0ZLBYoLxyONV8gOhlYXL6q) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Lush](https://open.spotify.com/album/7CvTWqSSlQw1ZQlJBQh4bg) | 3:36 | 2024-10-16 |  |
 | [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 | 2024-02-23 |
 | [Madara](https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Madara](https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl) | 3:51 | 2022-10-31 | 2023-01-24 |
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |

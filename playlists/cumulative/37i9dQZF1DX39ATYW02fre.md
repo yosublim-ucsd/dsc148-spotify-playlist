@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-243 songs - 17 hr 47 min
+244 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2020-06-05\* | 2022-07-28 |
 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 | 2021-03-16 | 2022-06-02 |
 | [Are You Fine?](https://open.spotify.com/track/6sJbL5hAk1cKLXM6z3TCgo) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Making Music Is Bad For Your Self Esteem](https://open.spotify.com/album/2uM2WWarpblam6YIsk9pAo) | 3:46 | 2020-06-05\* | 2022-07-17 |
-| [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2020-06-05\* |  |
+| [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2020-06-05\* | 2024-10-17 |
 | [Atlas](https://open.spotify.com/track/4gx9edHLyQtb69ibMUyTxJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/6snYAeR3hklBu7LpvyQ3LR) | 5:50 | 2020-06-05 | 2022-07-17 |
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-30 | 2024-04-19 |
 | [Aurora](https://open.spotify.com/track/2jhU0MFc3aJrULBpksSvDP) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [A Ghost From a Memory](https://open.spotify.com/album/7KMd6ligbagoZi02sM73eR) | 1:52 | 2020-09-02 | 2022-07-29 |
@@ -41,6 +41,7 @@
 | [Blindside](https://open.spotify.com/track/1W7RIxJRIkUH1bsoI75DXG) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Blindside](https://open.spotify.com/album/4FJPNQg1pBNsK7HTltEUay) | 4:31 | 2021-03-17 | 2022-07-19 |
 | [BLU](https://open.spotify.com/track/3vHXkgXEnr23zdqx2yoNHZ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto) | [NIGHT OWLS](https://open.spotify.com/album/6Gf5fCz106o92YNU4jgxd9) | 2:43 | 2021-03-17 | 2021-10-16 |
 | [Blu \(feat\. Damon Albarn\)](https://open.spotify.com/track/47xrnb2Rj3ZZNY2AdIs2vk) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Blu \(feat\. Damon Albarn\)](https://open.spotify.com/album/4ejUpNCz6lE8tqAYXDywTE) | 4:32 | 2021-03-20 | 2021-10-12 |
+| [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2024-09-19 |  |
 | [Boss Trick](https://open.spotify.com/track/437fXstezDfy2iYn1rqB9b) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Boss Trick](https://open.spotify.com/album/3ybQBxBq2wfFdunqRBtgFs) | 4:47 | 2020-06-12 | 2022-07-27 |
 | [Bound](https://open.spotify.com/track/7tVdSMa3NTUkLP5swHLJ67) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Bound](https://open.spotify.com/album/3R8BezH0zYvW7MIgtdD0bx) | 4:37 | 2021-01-05 | 2022-04-27 |
 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 | 2021-03-17 |  |

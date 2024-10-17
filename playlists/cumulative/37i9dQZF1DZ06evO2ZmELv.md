@@ -2,7 +2,7 @@
 
 ### [This Is Cheli Madrid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZmELv)
 
-> This Is Cheli Madrid\. Los temas esenciales, todos en una lista.
+> This is Cheli Madrid\. The essential tracks, all in one playlist.
 
 64 songs - 3 hr 25 min
 

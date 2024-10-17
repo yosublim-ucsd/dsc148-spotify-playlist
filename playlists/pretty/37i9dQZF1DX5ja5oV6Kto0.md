@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover:Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,169 likes - 86 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,186 likes - 86 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 17 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 |
 | 18 | [Twisted](https://open.spotify.com/track/0BRNOUVztfv0WiETMN2aHc) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Twisted](https://open.spotify.com/album/13hCnazUNsw83rLEYxsvJH) | 3:10 |
 | 19 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 |
-| 20 | [NYKES](https://open.spotify.com/track/6M9YoFbBe7xDKOSWByjHrh) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Bigg Bobbyy](https://open.spotify.com/artist/6U6wI4IGNK3Li5gXREogxX) | [NYKES](https://open.spotify.com/album/3YkbRT6RI7ZQBT9qS8NAI8) | 2:13 |
+| 20 | [NYKES](https://open.spotify.com/track/6M9YoFbBe7xDKOSWByjHrh) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Bigg Bobbyy](https://open.spotify.com/artist/26kmsdjrNWCC8srvp8NHVp) | [NYKES](https://open.spotify.com/album/3YkbRT6RI7ZQBT9qS8NAI8) | 2:13 |
 | 21 | [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 |
 | 22 | [Got It All](https://open.spotify.com/track/794KmE0jWI1xz863Wyt9Sk) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV) | [Got It All](https://open.spotify.com/album/6DUi4rdQIPhnVsIuYDvLtv) | 2:59 |
 | 23 | [No Wam](https://open.spotify.com/track/2k5PoyzxiOwyfvgDn8Jitp) | [UCHE](https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs) | [No Wam](https://open.spotify.com/album/1r7kH9IJZp5u7r4LlWIjIo) | 3:07 |

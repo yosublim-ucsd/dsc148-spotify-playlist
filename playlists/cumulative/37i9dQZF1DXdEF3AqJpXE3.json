@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203202,
+      "name": "Breathtaker",
+      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 153428,
       "name": "crazy girl",
       "url": "https://open.spotify.com/track/2qh0B9oEpeVa4huNfustpO"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 151689,
       "name": "GGUM",
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 239619,
       "name": "I\u2019m Not The Only One (feat. TAEYEON)",
       "url": "https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ"
@@ -2402,6 +2420,24 @@
       "duration_ms": 191132,
       "name": "Just Like Dat feat. JP THE WAVY",
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
+    },
+    {
+      "album": {
+        "name": "kill 4 u",
+        "url": "https://open.spotify.com/album/1JCQfFzdszboDmvtrhzc0L"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139039,
+      "name": "kill 4 u",
+      "url": "https://open.spotify.com/track/2zUsiUNnxmAdCkVwO6hl31"
     },
     {
       "album": {
@@ -2742,7 +2778,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -3159,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "OTNW",
+        "url": "https://open.spotify.com/album/0ppXruu0u7FQSSC5emQMMQ"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206052,
+      "name": "OTNW",
+      "url": "https://open.spotify.com/track/0GxBWLwTRnpM6HUTu6Kde0"
+    },
+    {
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -3332,10 +3386,28 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 176796,
       "name": "REGRETS",
       "url": "https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs"
+    },
+    {
+      "album": {
+        "name": "RICOCHET",
+        "url": "https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197671,
+      "name": "RICOCHET",
+      "url": "https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1"
     },
     {
       "album": {
@@ -4507,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -4704,7 +4794,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -5073,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
+        "url": "https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
+      "url": "https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC"
+    },
+    {
+      "album": {
         "name": "\u603b\u4f1a\u6709\u4eba (\u7537\u7248)",
         "url": "https://open.spotify.com/album/5qzeqSbvzypeOc2IBS7Zyf"
       },
@@ -5232,6 +5340,44 @@
       "duration_ms": 229655,
       "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
       "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u671f\u4e0d\u540c",
+        "url": "https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        },
+        {
+          "name": "\u5289\u54f2\u5b87",
+          "url": "https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9"
+        },
+        {
+          "name": "\u5433\u7dad\u69ae",
+          "url": "https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz"
+        },
+        {
+          "name": "\u912d\u96ea\u742a",
+          "url": "https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp"
+        },
+        {
+          "name": "\u6731\u82b7\u8587",
+          "url": "https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W"
+        },
+        {
+          "name": "\u8cf4\u8a60\u8587",
+          "url": "https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249975,
+      "name": "\u82b1\u671f\u4e0d\u540c",
+      "url": "https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0"
     },
     {
       "album": {

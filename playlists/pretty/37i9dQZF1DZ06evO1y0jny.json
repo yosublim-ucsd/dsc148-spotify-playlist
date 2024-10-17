@@ -1,12 +1,12 @@
 {
-  "description": "This is Keauhou. The essential tracks, all in one playlist.",
+  "description": "This is Keauhou. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
   "num_followers": 153,
   "original_name": "This Is Keauhou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAABTbLPn3Vi5Szdi11ET3QU7",
+  "snapshot_id": "Zw2wgAAAAADrBxNZ9f460hteUvL8sdtj",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 163896,
-      "name": "Radio Hula",
-      "url": "https://open.spotify.com/track/74AgvxbXfdykQbU2PjM6vZ"
+      "duration_ms": 172741,
+      "name": "Pua \u02bb\u014chai",
+      "url": "https://open.spotify.com/track/2KgZ1m7xuvjrxu6SlTqQwG"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 172741,
-      "name": "Pua \u02bb\u014chai",
-      "url": "https://open.spotify.com/track/2KgZ1m7xuvjrxu6SlTqQwG"
+      "duration_ms": 163896,
+      "name": "Radio Hula",
+      "url": "https://open.spotify.com/track/74AgvxbXfdykQbU2PjM6vZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,124 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,128 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 13 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 14 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 |
 | 15 | [BAGS IN THIS B\*TCH](https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BAGS IN THIS B\*TCH](https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx) | 2:18 |
-| 16 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 |
+| 16 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
 | 17 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |
-| 18 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
+| 18 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 |
 | 19 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
 | 20 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 21 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |

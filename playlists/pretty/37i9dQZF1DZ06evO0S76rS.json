@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Niche. Los temas esenciales, todos en una lista.",
-  "num_followers": 146644,
+  "num_followers": 146681,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAArANbGG7dvLQJrrBCYSZ7H",
+  "snapshot_id": "Zw2wgAAAAACAWymbykcpqVy39Y8Adbs2",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo De Tambores",
-        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Debiera Olvidarla",
-      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Llegando Al 100%",
         "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 320293,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Debiera Olvidarla",
+      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niche Con Cuerdas",
-        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 317180,
-      "name": "Un Caso Social",
-      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Querer Es Poder",
         "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 338964,
       "name": "Digo Yo",
       "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niche Con Cuerdas",
+        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 317180,
+      "name": "Un Caso Social",
+      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
     },
     {
       "added_at": null,

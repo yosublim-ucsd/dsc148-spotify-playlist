@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Take a glimpse into the future before you see him on October 18\. Cover: Josh Makazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,247 likes - 15 songs - 44 min 35 sec
+[Spotify](https://open.spotify.com/user/spotify) - 61,225 likes - 15 songs - 44 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

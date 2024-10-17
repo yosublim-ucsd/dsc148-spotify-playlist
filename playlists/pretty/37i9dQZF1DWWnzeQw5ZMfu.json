@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69943,
+  "num_followers": 69952,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
         "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 422283,
       "name": "Escapism. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Cassy O' (EP)",
         "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 312800,
       "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 362216,
       "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
       "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "MTV Unplugged EP",
         "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 239733,
       "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Goodbye My Lover - Live in Ireland",
-      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Shakira In Concert: El Dorado World Tour",
         "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 340880,
       "name": "She Wolf - El Dorado World Tour Live",
       "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Goodbye My Lover - Live in Ireland",
+      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -911,38 +911,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live 2013 at The O2 Arena, London",
-        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 299159,
-      "name": "When You Say Nothing At All - Live",
-      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "Stark Naked and Absolutely Live",
-        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
@@ -963,6 +931,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "Live 2013 at The O2 Arena, London",
+        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 299159,
+      "name": "When You Say Nothing At All - Live",
+      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 248394,
       "name": "The A Team - Live and in Session",
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Stark Naked and Absolutely Live",
+        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
         }
       ],
-      "duration_ms": 267263,
-      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
-      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Warwick Avenue (Live)",
-        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
       "artists": [
         {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Warwick Avenue - Live",
-      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
+      "duration_ms": 267263,
+      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
     },
     {
       "added_at": "2024-02-13 05:00:00",

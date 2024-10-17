@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Dom Dolla, Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,547 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,566 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 19 | [Don't Go](https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Don't Go](https://open.spotify.com/album/3e0ey4aL4pWbdGl92S4F0m) | 2:56 |
 | 20 | [The Power](https://open.spotify.com/track/0LM9H7aQad02Tjccp7JZHI) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5), [Jasmine Knight](https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh) | [The Power](https://open.spotify.com/album/3ikapQXUPHTmSqURqbBU91) | 3:18 |
 | 21 | [Baby](https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Baby](https://open.spotify.com/album/1thp3kVmCI247UNoTRwicf) | 3:23 |
-| 22 | [Ghost](https://open.spotify.com/track/4Qcr0GiF82JxSjbgZKJ5od) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ghost](https://open.spotify.com/album/3Mb4sN3Q4wdQeWf8dL4ITN) | 3:04 |
+| 22 | [Ghost](https://open.spotify.com/track/4Qcr0GiF82JxSjbgZKJ5od) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Ghost](https://open.spotify.com/album/3Mb4sN3Q4wdQeWf8dL4ITN) | 3:04 |
 | 23 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |
 | 24 | [BODY](https://open.spotify.com/track/1lfYu9sDm2Uq3gHuaperNJ) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [BODY](https://open.spotify.com/album/1lHbvrJrRRoIFFAa5F7qva) | 2:25 |
 | 25 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |

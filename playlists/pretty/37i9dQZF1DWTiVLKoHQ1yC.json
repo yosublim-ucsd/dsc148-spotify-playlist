@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 221029,
+  "num_followers": 221117,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-09-27 14:36:53",
       "album": {
-        "name": "Love Come Through",
-        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 199458,
-      "name": "Love Come Through",
-      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
-    },
-    {
-      "added_at": "2024-09-27 14:36:53",
-      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
+    },
+    {
+      "added_at": "2024-09-27 14:36:53",
+      "album": {
+        "name": "Love Come Through",
+        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 199458,
+      "name": "Love Come Through",
+      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
     },
     {
       "added_at": "2024-09-27 14:36:53",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-09-27 14:36:53",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
+    },
+    {
+      "added_at": "2024-09-27 14:36:53",
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 193280,
       "name": "Move On",
       "url": "https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u"
-    },
-    {
-      "added_at": "2024-09-27 14:36:53",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
     },
     {
       "added_at": "2024-09-27 14:36:53",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-09-27 14:36:53",
       "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
+    },
+    {
+      "added_at": "2024-09-27 14:36:53",
+      "album": {
         "name": "Highest Love",
         "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 297374,
       "name": "Highest Love",
       "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
-    },
-    {
-      "added_at": "2024-09-27 14:36:53",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     }
   ],
   "unique_name": "Melodic & Euphoric",

@@ -1,6 +1,6 @@
 {
   "description": "correndo SEMPRE atr\u00e1s do som",
-  "num_followers": 1401412,
+  "num_followers": 1401433,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
         "name": "Sorriso no Rosto",
         "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 148000,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -563,38 +563,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "DJ Negret",
-          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Nois J\u00e1 T\u00e1 Rico",
-      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "O Cara Do Momento",
         "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
       },
@@ -639,6 +607,38 @@
       "duration_ms": 197903,
       "name": "Vidigal",
       "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "DJ Negret",
+          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nois J\u00e1 T\u00e1 Rico",
+      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Tropa Do Pisa",
-        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tropa Do Pisa",
-      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Qual \u00e9 seu desejo?",
         "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "EPIFANIA",
-        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        }
-      ],
-      "duration_ms": 213125,
-      "name": "LOVE COMMUNITY",
-      "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "S\u00f3 Um Lance",
         "url": "https://open.spotify.com/album/07dyB9vxPNVm2VNHfDNGmy"
       },
@@ -1847,6 +1823,30 @@
       "duration_ms": 232820,
       "name": "S\u00f3 Um Lance",
       "url": "https://open.spotify.com/track/1mE3qnQjYdZG5oCSdg1FkR"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "EPIFANIA",
+        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 213125,
+      "name": "LOVE COMMUNITY",
+      "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
     },
     {
       "added_at": "2024-10-11 03:03:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 39819,
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "num_followers": 39827,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwxfAAAAAAD0loT8i5211rT4BC42wtDF",
+  "snapshot_id": "Zw2wgAAAAADn2CnexbzFWsZEz0iRKA3n",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
       "duration_ms": 299600,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 357680,
-      "name": "No Hay Lugar Mas Alto (feat. Christine D Clario)",
-      "url": "https://open.spotify.com/track/2gssWCnDOyxRxNfIw1eYLH"
     },
     {
       "added_at": null,
@@ -243,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/6GHjo97Q0Cx6Q0LbeRxG49"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -275,22 +271,6 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/6WUJmzEMK7EBa2LLgp96s0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Rey",
-      "url": "https://open.spotify.com/track/6GHjo97Q0Cx6Q0LbeRxG49"
     },
     {
       "added_at": null,
@@ -599,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
-        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 271374,
-      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
-      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -635,6 +595,26 @@
       "duration_ms": 458993,
       "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
       "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
+        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 271374,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
     },
     {
       "added_at": null,
@@ -751,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus People",
-        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 245621,
-      "name": "Cristo Es Necesario",
-      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -787,6 +747,26 @@
       "duration_ms": 335528,
       "name": "El Shaddai - Live",
       "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 245621,
+      "name": "Cristo Es Necesario",
+      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
     },
     {
       "added_at": null,
@@ -855,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVANGELIO (En Vivo)",
         "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
       },
@@ -907,6 +871,22 @@
       "duration_ms": 494415,
       "name": "Danzando (En Vivo)",
       "url": "https://open.spotify.com/track/16fCUIyZ3BeBQmmpMNOcg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
     },
     {
       "added_at": null,
@@ -979,6 +959,26 @@
       "duration_ms": 452354,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

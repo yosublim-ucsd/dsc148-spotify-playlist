@@ -6063,6 +6063,28 @@
     },
     {
       "album": {
+        "name": "Rom-Com",
+        "url": "https://open.spotify.com/album/7yrnSU32uhLvoi6benHTYF"
+      },
+      "artists": [
+        {
+          "name": "Odd Numbers",
+          "url": "https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6"
+        },
+        {
+          "name": "DeCarteret",
+          "url": "https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Rom-Com",
+      "url": "https://open.spotify.com/track/4uRe7zABh9s3iQF8AhvBGg"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ"
       },
@@ -6804,7 +6826,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 246940,
       "name": "SUMMER RAIN",
       "url": "https://open.spotify.com/track/4LA55DZy7gBLuROnUTTb17"

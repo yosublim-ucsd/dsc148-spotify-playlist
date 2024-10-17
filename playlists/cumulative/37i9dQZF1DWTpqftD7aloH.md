@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-354 songs - 1 day 10 hr 21 min
+355 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Não Te Abandono](https://open.spotify.com/track/2QUxsTL6NN2aLISse5WMiD) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Matias Palheiro](https://open.spotify.com/artist/1lLHBfhNJSt67XhQBLJ7Wd), [Guilherme Ludtke](https://open.spotify.com/artist/2dOAyOfeeYGOE3TDXfHLwt) | [Não Te Abandono](https://open.spotify.com/album/5KmuqpltfJxdP1itCpGPZQ) | 4:26 | 2023-10-20 | 2023-11-04 |
 | [Nós Iremos Ver \- Ao Vivo](https://open.spotify.com/track/433p0PyAjtsFf4Gpehvp6E) | [José Wellington](https://open.spotify.com/artist/2egKsN5dCWCpAp9He9BLUt), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Nós Iremos Ver \(Ao Vivo\)](https://open.spotify.com/album/0WPz6DaXqGzr9sJ96LMMcB) | 6:43 | 2024-04-26 | 2024-05-23 |
 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 | 2023-02-11 | 2023-07-28 |
+| [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 | 2024-10-16 |  |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2022-09-09 | 2023-04-29 |
 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 | 2023-06-23 | 2024-09-07 |
 | [O Maior Vilão Sou Eu](https://open.spotify.com/track/0satRlTjJoDmTqOl8mmmy0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Basta Acreditar](https://open.spotify.com/album/35bfGYis7fR7pponjtqlMv) | 4:33 | 2023-03-11 | 2023-10-21 |
@@ -285,7 +286,7 @@
 | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/album/5Osmnx51FVj8qHfr1ff9jM) | 6:10 | 2024-09-06 |  |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Graça \(Ao Vivo\)](https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71) | 8:33 | 2023-07-07 | 2023-10-21 |
 | [Santo Pra Sempre](https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Santo Pra Sempre](https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj) | 5:09 | 2024-09-06 |  |
-| [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 | 2024-07-05 |  |
+| [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 | 2024-07-05 | 2024-10-17 |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-18 | 2023-09-02 |
 | [Santo pra Sempre \- Ao Vivo](https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5) | 8:07 | 2023-09-15 | 2023-11-30 |
 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 | 2022-09-09 | 2023-01-14 |

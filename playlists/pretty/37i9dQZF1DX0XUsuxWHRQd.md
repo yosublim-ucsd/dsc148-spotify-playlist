@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from GloRilla, Rod Wave and BigXthaPlug\. BAPE redesigns the cover of RapCaviar for a limited time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,078,717 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,077,520 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

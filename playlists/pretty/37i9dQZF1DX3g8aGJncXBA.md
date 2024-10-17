@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3g8aGJncXBA.md) - [plain]
 
 > Prepare for the upcoming fan concert by listening to PLAVE's best songs! \(플레이브의 베스트 곡들을 들으며 다가오는 팬 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,767 likes - 13 songs - 40 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,811 likes - 13 songs - 40 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

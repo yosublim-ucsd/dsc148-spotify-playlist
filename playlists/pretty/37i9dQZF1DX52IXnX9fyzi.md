@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,168 likes - 243 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,246 likes - 243 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 17 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
 | 18 | [Nocturne](https://open.spotify.com/track/6tygCoz3aJHIO7pV7aGg1G) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Nocturne](https://open.spotify.com/album/38oQlqLZoUi6RPRvRANxGa) | 2:09 |
 | 19 | [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 |
-| 20 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/0mYGczNydCc7aRdaPwkafJ) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
+| 20 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
 | 21 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 22 | [Into The Woods](https://open.spotify.com/track/7uWPtYImWYvUm3lYtloOTo) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Into The Woods](https://open.spotify.com/album/0i6X1x2lGskSyGAFnA2Ul7) | 2:50 |
 | 23 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |

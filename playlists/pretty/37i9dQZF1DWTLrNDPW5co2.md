@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,511 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,575 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 9 | [Far Away \(with The Knocks\)](https://open.spotify.com/track/19tCu2OR7zl5vXrmSRVOOi) | [James Patterson](https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Time and Space](https://open.spotify.com/album/35Adds1vrUAuB3HWJ6Bzj0) | 3:45 |
 | 10 | [FRONT LEFT SPEAKER](https://open.spotify.com/track/4BbAQd9yHbOPF4PzDQRksr) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [FRONT LEFT SPEAKER / FTDJ \(Thank God\)](https://open.spotify.com/album/3cTyn6ZcVOv2fuXEO0dqC9) | 3:40 |
 | 11 | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [SUCCUBUS XXXTENDED](https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET) | 3:19 |
-| 12 | [Pressure Cumbia](https://open.spotify.com/track/7lJpSczDgU2YDxyNmZsMRp) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Alan Vega](https://open.spotify.com/artist/2jlt5Z6VojDVMzSj1JHkcd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure Cumbia](https://open.spotify.com/album/76dFWMX8K86rxpd5usNihV) | 2:33 |
+| 12 | [Pressure Cumbia](https://open.spotify.com/track/7lJpSczDgU2YDxyNmZsMRp) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Alan Vega](https://open.spotify.com/artist/6sxz0MzUrbu527Ww2f3nm7), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure Cumbia](https://open.spotify.com/album/76dFWMX8K86rxpd5usNihV) | 2:33 |
 | 13 | [GUESS](https://open.spotify.com/track/0eNyt9NmppskKVo0fw0XmT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [GUESS](https://open.spotify.com/album/0q0G9omHqvzRGMjIsvHOGD) | 2:20 |
 | 14 | [Moodboard](https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Moodboard](https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA) | 2:12 |
 | 15 | [Handlebar](https://open.spotify.com/track/6uW5uizAjavheAhaHfftfu) | [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [Handlebar](https://open.spotify.com/album/1JgxpbhQ9lGSaG1gpy07UP) | 2:19 |

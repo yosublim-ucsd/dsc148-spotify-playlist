@@ -2,9 +2,9 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. The essential tracks, all in one playlist.
+> This Is Lou Rawls\. Los temas esenciales, todos en una lista.
 
-113 songs - 7 hr 10 min
+114 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blues For The Weepers](https://open.spotify.com/track/5r2pfH2Jm8pU5NTmLbOI1l) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Nobody But Lou](https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM) | 3:50 | 2024-06-16 | 2024-07-16 |
 | [Blues Is A Woman](https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 2:58 | 2022-10-12 | 2024-07-08 |
 | [Bring It On Home \- Digitally Remastered 00](https://open.spotify.com/track/7lemF5PY2O8aGkhHUyz2Bp) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 | 2022-05-25 |  |
+| [Bring It on Home to Me](https://open.spotify.com/track/4Sm5eJvZDJjBCdLpmzkUYq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Soul Essentials : Chill With the Legendary Voices of Soul Music](https://open.spotify.com/album/23iBYPGtHd3UfoQk0gezvc) | 2:41 | 2024-10-17 |  |
 | [Chain Gang](https://open.spotify.com/track/121zWRGmvv3D1fNIGmPMQp) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 3:48 | 2023-02-13 | 2023-07-07 |
 | [Chain Gang](https://open.spotify.com/track/4bxDuiQTJeJDSjn4JHcHzm) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:51 | 2023-07-20 | 2023-08-02 |
 | [Chain Gang \(feat\. Lou Rawls\)](https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 3:51 | 2022-10-13 | 2022-10-18 |
@@ -119,7 +120,7 @@
 | [You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening \- Live](https://open.spotify.com/track/6ANn9X1Fi3w1xcWdxBQMHZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:17 | 2022-05-25 | 2022-10-13 |
 | [You're the One](https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 5:18 | 2022-05-25 | 2024-01-29 |
 | [You've Made Me So Very Happy](https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 4:27 | 2022-05-25 | 2023-07-13 |
-| [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 | 2023-07-12 |  |
+| [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 | 2023-07-12 | 2024-10-17 |
 | [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

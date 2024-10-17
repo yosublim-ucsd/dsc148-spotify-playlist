@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-737 songs - 1 day 7 hr 24 min
+739 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Cradle Song](https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz) | [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Cradle Song](https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV) | 3:47 | 2022-07-15 | 2022-10-29 |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2023-04-21 | 2023-05-13 |
 | [Cuerda De Algodon](https://open.spotify.com/track/6908BOjeinWFsU69fQuQSa) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Cuerda De Algodon](https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU) | 2:55 | 2022-07-15 | 2022-10-07 |
-| [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2023-04-21 |  |
+| [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2023-04-21 | 2024-10-17 |
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-26 |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-04-21 |  |
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
@@ -311,6 +311,7 @@
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-06-02 | 2023-08-26 |
 | [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 | 2024-08-21 |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2023-04-21 | 2023-08-26 |
+| [In Search of Gems](https://open.spotify.com/track/10Ilz6KAPyPnizZvNApmsf) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [In Search of Gems](https://open.spotify.com/album/3Fq4PRvtCZkVm7QbatRWvX) | 2:32 | 2024-10-15 |  |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 | 2023-04-22 |
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-04-21 | 2024-07-19 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-31 | 2023-04-22 |
@@ -467,7 +468,7 @@
 | [Okinawa](https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Montevideo](https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb) | 2:48 | 2023-04-21 |  |
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-15 | 2023-04-22 |
 | [Old Friends](https://open.spotify.com/track/7iJmWc6nPZrov6yzOPgqb9) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Old Friends](https://open.spotify.com/album/4BGT0LqhdGpd8fO1AEUWX0) | 3:10 | 2022-07-15 | 2023-04-22 |
-| [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2023-04-21 |  |
+| [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2023-04-21 | 2024-10-17 |
 | [Olomana](https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Kohala](https://open.spotify.com/album/7sOtaQGuDecDyWe4UTjAPC) | 2:39 | 2023-04-21 | 2024-07-19 |
 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 | 2023-04-21 |  |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-04-21 |  |
@@ -500,6 +501,7 @@
 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2023-04-21 |  |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2023-04-21 | 2024-06-08 |
 | [Preludium G\-Dur](https://open.spotify.com/track/7BrfpWvcN5ZlzaHs1ej0DF) | [Los Vasos Comunicantes](https://open.spotify.com/artist/2aNXMjF7dyGAYuOAAJ8qwV) | [Preludium G\-Dur](https://open.spotify.com/album/4hc2wnXGXMcbabRlM4zpnK) | 1:35 | 2022-07-15 | 2022-09-17 |
+| [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 | 2024-10-15 |  |
 | [Pula](https://open.spotify.com/track/47vqZMWpeufV6u5XuwebuV) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Pula](https://open.spotify.com/album/2BwpxMCDdu29bukyVGNCwi) | 3:01 | 2024-05-24 |  |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-21 |  |
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |

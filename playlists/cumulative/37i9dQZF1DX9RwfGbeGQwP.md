@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,480 songs - 2 day 7 hr 42 min
+1,482 songs - 2 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1229,6 +1229,7 @@
 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 | 2022-10-08 | 2023-09-22 |
 | [Summer Daze](https://open.spotify.com/track/4Aku5uWx2GLoaNKgAvqq3h) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Summer Daze](https://open.spotify.com/album/5zZqkyoW0wwl4JqE2nVaT9) | 2:28 | 2022-01-27 | 2022-07-15 |
 | [Summer Fling](https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn) | [Kang](https://open.spotify.com/artist/1kEdK5L1BLpMjtPu1gGxPI) | [Summer Fling](https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs) | 2:21 | 2022-01-27 | 2022-04-22 |
+| [summer forever](https://open.spotify.com/track/101uDZRai9H2qjzcTn0fOv) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [summer forever](https://open.spotify.com/album/12wO9UFVaNE4WqWXaUoimg) | 1:46 | 2024-10-04 |  |
 | [Summer in the Streets](https://open.spotify.com/track/1j0ocgsF8l1m5yiVjfgmMa) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Summer in the Streets](https://open.spotify.com/album/4inLD7of7k7Cap3LqvPkUd) | 1:49 | 2022-04-15 | 2022-10-29 |
 | [Summer rain](https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Summer rain](https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ) | 2:32 | 2023-09-08 |  |
 | [Summertime Is Over](https://open.spotify.com/track/62tfaYei23S8sNg3za7US9) | [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [lofi cafe](https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn) | 2:26 | 2022-11-11 | 2023-09-29 |
@@ -1300,7 +1301,7 @@
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-01-27 | 2022-09-09 |
 | [Tendenzies](https://open.spotify.com/track/0dSDD52DBAuu7lNvej0WG8) | [$affie](https://open.spotify.com/artist/3m63AiBD7p1QAVi95d03te), [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Tendenzies](https://open.spotify.com/album/5ALwxXL1ZL5W9KiGrR8hVi) | 2:08 | 2022-01-27 | 2023-09-05 |
 | [Tender Mind](https://open.spotify.com/track/04DplA83rbqQVqWjPFYSpC) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Tender Mind](https://open.spotify.com/album/2TEZN8nwRNnom7KG3xc3hP) | 1:53 | 2023-06-05 |  |
-| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 |  |
+| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 | 2024-10-17 |
 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 | 2022-01-27 | 2024-05-14 |
 | [thankful](https://open.spotify.com/track/0nyqWzGxfKw9k30MK0rXZQ) | [loku](https://open.spotify.com/artist/4syA0zfcvPMsZ6Fzw6MGHc) | [thankful](https://open.spotify.com/album/7r3eEEKheLFzti21hYnZ8L) | 2:19 | 2024-01-12 |  |
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2022-01-27 | 2022-09-03 |
@@ -1343,6 +1344,7 @@
 | [time voyager](https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [desert wind](https://open.spotify.com/album/1B2unQyvBRE0U6uNtrgieQ) | 2:00 | 2023-05-19 |  |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-01-27 | 2022-06-03 |
 | [to the city](https://open.spotify.com/track/6ALdwHClQphnlRqt7sB4eA) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [to the city](https://open.spotify.com/album/0Eq56ltrIGtmFcNd0YOScM) | 1:42 | 2022-08-05 | 2023-01-07 |
+| [Tomatoes](https://open.spotify.com/track/1ohTj4fUBlEDr06fkZE5IM) | [Almst](https://open.spotify.com/artist/07qY3LqWnWfsCpyJtvWJ57) | [Tomatoes](https://open.spotify.com/album/2DsXMu5NIL4iBirvAJ96yX) | 3:12 | 2024-10-04 |  |
 | [Too Late For Us](https://open.spotify.com/track/7FAqZb7YA49JxybPo6UUfq) | [Clowee](https://open.spotify.com/artist/36AmbXsbnIm9hpzWt15wS7) | [Too Late For Us](https://open.spotify.com/album/0PVWLvJk217kCb5NfPbgjx) | 2:24 | 2022-01-27 | 2022-07-08 |
 | [Topinambur](https://open.spotify.com/track/0GwVL4IWa3pjBDTOKnNlSy) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Topinambur](https://open.spotify.com/album/6z0W51FnCVFrlKI9Zmbyfb) | 2:22 | 2023-09-22 | 2023-10-20 |
 | [Tori Sora](https://open.spotify.com/track/0rYwFhOavcJENrgIkC0xkQ) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Tori Sora](https://open.spotify.com/album/7se4vecX0emIjHLEtTrXTS) | 1:44 | 2024-08-23 |  |
@@ -1408,7 +1410,7 @@
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Flash Dry](https://open.spotify.com/artist/1zmoasbVWHtHxY22AoyBCs) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-01-27 | 2022-10-15 |
 | [Wake Me Up](https://open.spotify.com/track/43WE9XdOjh3T65qYjtcJQj) | [Etherie](https://open.spotify.com/artist/6aclglY5Cid8YcgE5MheS3) | [Wake Me Up](https://open.spotify.com/album/5SRHEJUKtMY7ujcd8ee9yz) | 1:39 | 2022-10-28 | 2024-08-16 |
 | [Walk](https://open.spotify.com/track/3rjqkJgp8vcDZ4KrJr33QP) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Walk](https://open.spotify.com/album/7l9ePDpTOamHeV4VjRmIAm) | 2:01 | 2022-07-29 | 2022-10-15 |
-| [Walk In The Park](https://open.spotify.com/track/3hJ6A5jN0tHoD1Icy46QeP) | [lotfi S](https://open.spotify.com/artist/0Drc0oy8YEhSa10EDd4YcM) | [Walk In The Park](https://open.spotify.com/album/2obDejktmpCVXumrHULjgx) | 2:24 | 2022-10-28 |  |
+| [Walk In The Park](https://open.spotify.com/track/3hJ6A5jN0tHoD1Icy46QeP) | [lotfi S](https://open.spotify.com/artist/0Drc0oy8YEhSa10EDd4YcM) | [Walk In The Park](https://open.spotify.com/album/2obDejktmpCVXumrHULjgx) | 2:24 | 2022-10-28 | 2024-10-17 |
 | [Walk The Dog](https://open.spotify.com/track/4AowHOaycPNDRId7N4Npf9) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Walk The Dog](https://open.spotify.com/album/306HMpP6yrynuST9JxQVoj) | 2:19 | 2023-02-07 | 2023-10-13 |
 | [walkin out](https://open.spotify.com/track/7DRxO3BorogSatHXzVxWIt) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [walkin out](https://open.spotify.com/album/3HPAwqLkFTR8NN3M49OFM5) | 2:09 | 2022-09-23 | 2023-09-22 |
 | [Walking Away](https://open.spotify.com/track/6D92s9XsxCMSx7cnRRyIm6) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Tapeloop](https://open.spotify.com/album/25R3bF7LFwPRg3ORzO8Age) | 1:58 | 2022-01-27 | 2022-09-17 |

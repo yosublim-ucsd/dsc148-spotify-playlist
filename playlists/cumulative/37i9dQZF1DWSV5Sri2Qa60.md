@@ -111,7 +111,7 @@
 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 | 2024-08-16 | 2024-10-07 |
 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 | 2024-06-14 | 2024-07-13 |
 | [Wearing Faces](https://open.spotify.com/track/1VBuq23g66KF7AWQwDxlfg) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Smile While You're Losing](https://open.spotify.com/album/33I0BwTfQ5VM5UZr1ob7XZ) | 3:22 | 2024-09-06 |  |
-| [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [Wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 | 2024-10-06 |  |
+| [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 | 2024-10-06 |  |
 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 | 2024-09-13 |  |
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-06 |  |
 

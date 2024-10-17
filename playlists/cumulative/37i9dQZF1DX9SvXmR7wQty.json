@@ -35743,6 +35743,28 @@
     },
     {
       "album": {
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+    },
+    {
+      "album": {
         "name": "Noir sur noir",
         "url": "https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8"
       },
@@ -42136,7 +42158,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 168960,
       "name": "Qui j'\u00e9tais",
       "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp"

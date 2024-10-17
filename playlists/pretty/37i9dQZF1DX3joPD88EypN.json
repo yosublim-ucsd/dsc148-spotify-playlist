@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 45088,
+  "num_followers": 45111,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Return to Mind",
         "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 284880,
       "name": "Taplow",
       "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "The Land That Is Not",
-        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
-      },
-      "artists": [
-        {
-          "name": "Sinikka Langeland",
-          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
-        }
-      ],
-      "duration_ms": 375653,
-      "name": "Triumph Of Being",
-      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 411640,
       "name": "Polska Of Despair (1)",
       "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "The Land That Is Not",
+        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Langeland",
+          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+        }
+      ],
+      "duration_ms": 375653,
+      "name": "Triumph Of Being",
+      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 474106,
-      "name": "Helsinki Song",
-      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Snow Catches on Her Eyelashes",
         "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 183210,
       "name": "Before the Wedding",
       "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 474106,
+      "name": "Helsinki Song",
+      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1075,34 +1075,22 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Few Words",
-        "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
+        "name": "Touch of Time",
+        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
       "artists": [
         {
-          "name": "BR\u00d8K",
-          "url": "https://open.spotify.com/artist/5emddJsOKVCbiP7F6IAvdR"
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
         },
         {
-          "name": "Jacob Bredahl Djursaa",
-          "url": "https://open.spotify.com/artist/2a7808Szfjwnfz7T9Alafn"
-        },
-        {
-          "name": "Thomas Fryland",
-          "url": "https://open.spotify.com/artist/7q0OI8V8UXfXdELdumA6hu"
-        },
-        {
-          "name": "Niklas Gjers\u00f8e",
-          "url": "https://open.spotify.com/artist/3qGoEwAz9Ux1UWusBsb21q"
-        },
-        {
-          "name": "Hans Kristian Knold",
-          "url": "https://open.spotify.com/artist/7IVPTCpHk3dG2owrbvST5y"
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
         }
       ],
-      "duration_ms": 101175,
-      "name": "Few Words",
-      "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
+      "duration_ms": 526520,
+      "name": "Redream",
+      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1147,38 +1135,34 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Touch of Time",
-        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
+        "name": "Few Words",
+        "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
       "artists": [
         {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+          "name": "BR\u00d8K",
+          "url": "https://open.spotify.com/artist/5emddJsOKVCbiP7F6IAvdR"
         },
         {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        }
-      ],
-      "duration_ms": 526520,
-      "name": "Redream",
-      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
+          "name": "Jacob Bredahl Djursaa",
+          "url": "https://open.spotify.com/artist/2a7808Szfjwnfz7T9Alafn"
+        },
         {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+          "name": "Thomas Fryland",
+          "url": "https://open.spotify.com/artist/7q0OI8V8UXfXdELdumA6hu"
+        },
+        {
+          "name": "Niklas Gjers\u00f8e",
+          "url": "https://open.spotify.com/artist/3qGoEwAz9Ux1UWusBsb21q"
+        },
+        {
+          "name": "Hans Kristian Knold",
+          "url": "https://open.spotify.com/artist/7IVPTCpHk3dG2owrbvST5y"
         }
       ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+      "duration_ms": 101175,
+      "name": "Few Words",
+      "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1195,6 +1179,22 @@
       "duration_ms": 285773,
       "name": "How Could It Be?",
       "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Children's Day",
         "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 415645,
       "name": "Children's Day - Small Group Version",
       "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1355,6 +1355,30 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
         "name": "We Seem to Be Drifting Apart",
         "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
@@ -1391,30 +1415,6 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Kinder Call",
-        "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
-      },
-      "artists": [
-        {
-          "name": "The Stoner",
-          "url": "https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Kingdom of Coldness",
         "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Hjorten i skogen",
-        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
+        "name": "Kinder Call",
+        "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
       },
       "artists": [
         {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+          "name": "The Stoner",
+          "url": "https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe"
         }
       ],
-      "duration_ms": 425642,
-      "name": "Hjorten i skogen",
-      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
+      "duration_ms": 246506,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "The Old Church",
-        "url": "https://open.spotify.com/album/26m8b1gNKIZuhdSnmvBsbm"
+        "name": "Hjorten i skogen",
+        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
         }
       ],
-      "duration_ms": 322440,
-      "name": "The Old Church",
-      "url": "https://open.spotify.com/track/5bhl94lZGXsb3uwErNxqNv"
+      "duration_ms": 425642,
+      "name": "Hjorten i skogen",
+      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1623,6 +1607,22 @@
       "duration_ms": 308173,
       "name": "Sanctus",
       "url": "https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "The Old Church",
+        "url": "https://open.spotify.com/album/26m8b1gNKIZuhdSnmvBsbm"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 322440,
+      "name": "The Old Church",
+      "url": "https://open.spotify.com/track/5bhl94lZGXsb3uwErNxqNv"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Earthbeat",
-        "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
-      },
-      "artists": [
-        {
-          "name": "Tuomas Paukku Scription",
-          "url": "https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1"
-        }
-      ],
-      "duration_ms": 356532,
-      "name": "Earthbeat - Single Edit",
-      "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
-    },
-    {
-      "added_at": "2024-09-03 09:22:18",
-      "album": {
         "name": "Wood Circles",
         "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 183493,
       "name": "Como",
       "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
+    },
+    {
+      "added_at": "2024-09-03 09:22:18",
+      "album": {
+        "name": "Earthbeat",
+        "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
+      },
+      "artists": [
+        {
+          "name": "Tuomas Paukku Scription",
+          "url": "https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1"
+        }
+      ],
+      "duration_ms": 356532,
+      "name": "Earthbeat - Single Edit",
+      "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
     },
     {
       "added_at": "2024-09-03 09:22:18",
@@ -1951,26 +1951,30 @@
     {
       "added_at": "2024-09-03 09:22:18",
       "album": {
-        "name": "Rainbow Session",
-        "url": "https://open.spotify.com/album/5MHtrcpYvw5zqwOGBvYe9p"
+        "name": "Zen Coltrane (A Relinquishing Ritual)",
+        "url": "https://open.spotify.com/album/1KJP9yhl3SC5qHULfsIRNr"
       },
       "artists": [
         {
-          "name": "Tore Johansen",
-          "url": "https://open.spotify.com/artist/54avVjmKZsborJSxzfYttt"
+          "name": "Symbiocene",
+          "url": "https://open.spotify.com/artist/5l42SzRtQuj28417dsqQ6m"
         },
         {
-          "name": "Vigleik Storaas",
-          "url": "https://open.spotify.com/artist/7lDE36judogNbn12iCXQce"
+          "name": "Jarmo Saari",
+          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
         },
         {
-          "name": "Ole Morten V\u00e5gan",
-          "url": "https://open.spotify.com/artist/5ZYJVTtkOgQLZaa5QqgRJn"
+          "name": "Pauli Lyytinen",
+          "url": "https://open.spotify.com/artist/31yZJRhBpvlTxtgQM5skfA"
+        },
+        {
+          "name": "Anni Elif",
+          "url": "https://open.spotify.com/artist/1JmCGH2y1Cifm0lRyVYAww"
         }
       ],
-      "duration_ms": 294760,
-      "name": "Slow Fox",
-      "url": "https://open.spotify.com/track/3SfRQdSlVB3hIppPaALL1I"
+      "duration_ms": 244271,
+      "name": "Zen Coltrane (A Relinquishing Ritual)",
+      "url": "https://open.spotify.com/track/0C2eQx5k3HZ5d9vVtFdi59"
     }
   ],
   "unique_name": "Nordic Jazz",

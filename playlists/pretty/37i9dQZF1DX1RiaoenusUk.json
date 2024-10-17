@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28202,
+  "num_followers": 28211,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Needle in the Groove",
-        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4"
       },
       "artists": [
         {
-          "name": "Papa Grows Funk",
-          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "San Juan Project",
+          "url": "https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi"
         }
       ],
-      "duration_ms": 290040,
-      "name": "Do U Want It?",
-      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
+      "duration_ms": 223289,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -423,22 +427,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Picante",
-        "url": "https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4"
+        "name": "Needle in the Groove",
+        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
       },
       "artists": [
         {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "San Juan Project",
-          "url": "https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi"
+          "name": "Papa Grows Funk",
+          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
         }
       ],
-      "duration_ms": 223289,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
+      "duration_ms": 290040,
+      "name": "Do U Want It?",
+      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Jurassik Funk",
         "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 209546,
       "name": "Tal para Cual",
       "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Especies",
+        "url": "https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 193944,
+      "name": "Croto",
+      "url": "https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Especies",
-        "url": "https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7"
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
       "artists": [
         {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
         }
       ],
-      "duration_ms": 193944,
-      "name": "Croto",
-      "url": "https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc"
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
       },
       "artists": [
         {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
         }
       ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+      "duration_ms": 223038,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
       "artists": [
         {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
         }
       ],
-      "duration_ms": 223038,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "La Nave",
-        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Fonky Taxi",
-          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Todo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
         }
       ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+      "duration_ms": 272373,
+      "name": "Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Twice",
-        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
-      },
-      "artists": [
-        {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        },
-        {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
       },
@@ -1291,18 +1271,38 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 259553,
       "name": "No la Ves",
       "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2024-08-26 13:43:56",

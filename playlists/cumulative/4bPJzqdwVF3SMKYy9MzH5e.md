@@ -4,7 +4,7 @@
 
 > 
 
-1,988 songs - 4 day 10 hr 59 min
+1,989 songs - 4 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [Just for Me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-08-24 |  |
 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 | 2021-11-30 |  |
 | [Just to See You Smile](https://open.spotify.com/track/002opcRBgYV5jqoh72QcqA) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 3:01 | 2021-08-05 |  |
+| [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 | 2024-10-16 |  |
 | [K Street Walker](https://open.spotify.com/track/7uNTCczLtdefuPYZHtEAkL) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 1:26 | 2021-11-14 |  |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-08-14 |  |
 | [kawaii way to cut yourself](https://open.spotify.com/track/7LwyheyiGDcSlRg2MO1a07) | [snafu](https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp) | [songs about self hatred](https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN) | 2:37 | 2023-01-15 |  |

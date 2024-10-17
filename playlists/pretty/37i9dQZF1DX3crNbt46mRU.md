@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Charli xcx, Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,974 likes - 124 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,986 likes - 124 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

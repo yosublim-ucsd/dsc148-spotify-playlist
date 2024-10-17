@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 
 > Enjoy music from "Macross Series"! SF超大作アニメ、マクロスシリーズの主題歌/挿入歌 /サントラ曲を1つのプレイリストで！©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,987 likes - 98 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,002 likes - 98 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 | 84 | [虹いろ・クマクマ](https://open.spotify.com/track/0YUx0BQL5PKzsSbg6K9aEm) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [「劇場版 マクロスF ～サヨナラノツバサ～」netabare album　the end of "triangle"](https://open.spotify.com/album/5juMwocA5OAozCTSCLJw4X) | 4:52 |
 | 85 | [プラネット・クレイドル](https://open.spotify.com/track/2qYt1wX0JtTHfmfgOY3bqu) | [千菅春香](https://open.spotify.com/artist/0sO4gM73Z5ZDR2cUqSHzjO) | [TRY!](https://open.spotify.com/album/0et1B3mRe2tuZsnh5ELgXW) | 5:14 |
 | 86 | [dシュディスタb](https://open.spotify.com/track/4vkeLTarNcZzBT6smh9Fs8) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq), [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [「劇場版 マクロスF ～サヨナラノツバサ～」netabare album　the end of "triangle"](https://open.spotify.com/album/5juMwocA5OAozCTSCLJw4X) | 5:38 |
-| 87 | [ワンダーリング](https://open.spotify.com/track/5MTXdzr549hzqkdOAHGxWK) | [千菅春香](https://open.spotify.com/artist/0sO4gM73Z5ZDR2cUqSHzjO) | [プラネット・クレイドル/ワンダーリング](https://open.spotify.com/album/0iStRmsybQGwlFALIIpjF9) | 4:33 |
+| 87 | [ワンダーリング](https://open.spotify.com/track/5MTXdzr549hzqkdOAHGxWK) | [千菅春香](https://open.spotify.com/artist/0sO4gM73Z5ZDR2cUqSHzjO) | [プラネット・クレイドル／ワンダーリング](https://open.spotify.com/album/0iStRmsybQGwlFALIIpjF9) | 4:33 |
 | 88 | [ランナー \-リンミンメイ・バージョン\-](https://open.spotify.com/track/4yM7JpnpjAxVu2MeZZdwCl) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [超時空要塞マクロス MACROSS EXTRA VOCAL COLLECTION](https://open.spotify.com/album/0MicEVyVqLUFk8sxwuGfTq) | 1:42 |
 | 89 | [そうだよ。](https://open.spotify.com/track/6d0NYfNsJoSSHfHX4aMaQg) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [「劇場版 マクロスF\~イツワリノウタヒメ\~」CMランカ](https://open.spotify.com/album/7vp5DZT4SFlTnjpWHNEFIE) | 3:58 |
 | 90 | [Idol Talk](https://open.spotify.com/track/7L2ukROe6ovsl6zxuAaymO) | [SHARON APPLE](https://open.spotify.com/artist/4Ja4YDaP3MBVRtZqdsh2XY) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/6eu172tyEZKS0Qh6Xfd7qB) | 5:37 |

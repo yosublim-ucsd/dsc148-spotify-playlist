@@ -9637,6 +9637,24 @@
     },
     {
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
+    },
+    {
+      "album": {
         "name": "Change My Wayz",
         "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
       },
@@ -28232,7 +28250,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
@@ -35676,7 +35694,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 185456,
       "name": "Murdergram Deux (feat. Eminem)",
       "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
@@ -39102,6 +39120,24 @@
     {
       "album": {
         "name": "One Take Freestyle",
+        "url": "https://open.spotify.com/album/4wP9GR4gmYW7R5zYmnXOhz"
+      },
+      "artists": [
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "One Take Freestyle",
+      "url": "https://open.spotify.com/track/0PVSV64dW2NvTNcvMFm6XX"
+    },
+    {
+      "album": {
+        "name": "One Take Freestyle",
         "url": "https://open.spotify.com/album/2ADze7pbxPhs7qZdGwh4Mb"
       },
       "artists": [
@@ -39112,7 +39148,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 180062,
       "name": "One Take Freestyle",
       "url": "https://open.spotify.com/track/3GVsZAI6eAMd7QjELznzHO"
@@ -48850,6 +48886,24 @@
       "duration_ms": 202519,
       "name": "Spread Thin",
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142521,
+      "name": "Spring breakers",
+      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
     },
     {
       "album": {

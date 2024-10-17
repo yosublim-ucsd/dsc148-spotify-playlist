@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 332684,
+  "num_followers": 333050,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "How Did We Get So Dark?",
-        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "She's Creeping",
-      "url": "https://open.spotify.com/track/01VXGDL8Ox3SWmvM8ZyvSB"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
         "url": "https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 199946,
       "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
       "url": "https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "How Did We Get So Dark?",
+        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "She's Creeping",
+      "url": "https://open.spotify.com/track/01VXGDL8Ox3SWmvM8ZyvSB"
     },
     {
       "added_at": "2024-10-11 19:37:59",

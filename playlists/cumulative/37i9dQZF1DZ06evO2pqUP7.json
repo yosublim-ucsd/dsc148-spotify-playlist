@@ -860,10 +860,32 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 186786,
       "name": "Mezcalito en copa",
       "url": "https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN"
+    },
+    {
+      "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186786,
+      "name": "MEZCALITO EN COPA",
+      "url": "https://open.spotify.com/track/6hBs6gXEtN6wvqArXw4h4e"
     },
     {
       "album": {

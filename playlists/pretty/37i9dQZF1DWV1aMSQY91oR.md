@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: Clairmont The Second
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,639 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,652 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 34 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |
 | 35 | [I Know \(feat\. Fridayy\)](https://open.spotify.com/track/4km8v5PJ43JUdmjf5qjvwp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 3:51 |
 | 36 | [B\-Real](https://open.spotify.com/track/1bv2WittadoBXvtU1iMXbw) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [B\-Real](https://open.spotify.com/album/3clblLa1tjwPkwA4qIfgGD) | 2:49 |
-| 37 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:58 |
+| 37 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:55 |
 | 38 | [Hundred Round Drum](https://open.spotify.com/track/6EJI4Pl3p5U80rIBZ31s8s) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Hundred Round Drum](https://open.spotify.com/album/4VlX6QKvAV60zRweFcmtCW) | 2:11 |
 | 39 | [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 |
 | 40 | [Let Me Breathe](https://open.spotify.com/track/44Q04DYwgDgTeDVS9buda4) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Let Me Breathe](https://open.spotify.com/album/08oCN2oMXS372y86H5Krnk) | 3:09 |

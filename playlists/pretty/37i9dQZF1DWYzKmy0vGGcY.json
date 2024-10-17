@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 450318,
+  "num_followers": 450510,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 145533,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Cream Of The Crop",
-        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Someday We'll Be Together",
-      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Baby, I'm For Real",
@@ -1087,6 +1071,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "What the World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 141746,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "What the World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Music From Big Pink (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "The Weight - Remastered",
-      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi"
       },
@@ -2203,6 +2203,22 @@
       "duration_ms": 125666,
       "name": "Yesterday - Remastered",
       "url": "https://open.spotify.com/track/1e0hllQ23AG0QGFgezgLOq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Music From Big Pink (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "The Weight - Remastered",
+      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2235,22 +2251,6 @@
       "duration_ms": 170874,
       "name": "Chapel of Love",
       "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2299,6 +2299,26 @@
       "duration_ms": 194133,
       "name": "Make It Easy On Yourself",
       "url": "https://open.spotify.com/track/4NhFqirjszwBSFdOG7swnf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2367,6 +2387,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
       },
@@ -2395,42 +2431,6 @@
       "duration_ms": 145573,
       "name": "Massachusetts (2008 Remastered LP Version)",
       "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Lo Mejor de los A\u00f1os 60, Vol. 3 Pop",
-        "url": "https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK"
-      },
-      "artists": [
-        {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Hey Paula",
-      "url": "https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM"
     }
   ],
   "unique_name": "Soft 60s",

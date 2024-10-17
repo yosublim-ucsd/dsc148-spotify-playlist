@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,522 likes - 155 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,536 likes - 155 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 59 | [I'd Love To See You Again](https://open.spotify.com/track/30yHq5FDnjU9n3VJSEWbQZ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Feel The Past, See The Future](https://open.spotify.com/album/0unRr1h0fwmJYAQ7CCs5Ix) | 4:05 |
 | 60 | [The One](https://open.spotify.com/track/5gLOR2GxtsOszaWpkfTfhR) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [The One](https://open.spotify.com/album/68XoaEZT5650PV6tSrw1ad) | 2:51 |
 | 61 | [Only For Your Eyes](https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Only For Your Eyes](https://open.spotify.com/album/5p3AZP0vPLFAwOv8NuiFCT) | 2:20 |
-| 62 | [Don't Wake Up](https://open.spotify.com/track/5a3xcK4TZScEzOUTXsCkLg) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Don't Wake Up](https://open.spotify.com/album/7wZfH3hDeQgXHEZ3JOUQnS) | 3:07 |
+| 62 | [DON'T WAKE UP](https://open.spotify.com/track/5a3xcK4TZScEzOUTXsCkLg) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [DON'T WAKE UP](https://open.spotify.com/album/7wZfH3hDeQgXHEZ3JOUQnS) | 3:07 |
 | 63 | [cum again?](https://open.spotify.com/track/63ROFuizwjywpf5FsYAvIG) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [cum again?](https://open.spotify.com/album/0cmzg4E7ikFYv4yQ4OvNxN) | 3:05 |
 | 64 | [Pluto](https://open.spotify.com/track/7xup6lJrtfiMnholC8ZK5v) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Essie's World](https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB) | 3:07 |
 | 65 | [I Wish I Lied](https://open.spotify.com/track/1veP0WhNefQOYZ8zo1Nvri) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [SHIVER](https://open.spotify.com/album/59RpQ5D83mW6Wu5fpRMUsQ) | 3:09 |

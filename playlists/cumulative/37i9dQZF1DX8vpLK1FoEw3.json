@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "vc tem o que \u00e9 necess\u00e1rio para entrar no clube?? d\u00ea play e descubra #MeuSpotify com Thiaguinho",
-  "name": "Pagodeiro de CarTHeirinha",
+  "description": "errar \u00e9 humano persistir no erro \u00e9 gotoso d+ #MeuSpotify com Simone Mendes",
+  "name": "Errando Gostoso",
   "tracks": [
     {
       "album": {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 218687,
       "name": "2022",
       "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190161,
+      "name": "A Maior Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6zuC0CfAYHOZVjqsTot5Sf"
+    },
+    {
+      "album": {
         "name": "A Pagodeira (Ao vivo)",
         "url": "https://open.spotify.com/album/61erIGUIWd2zHF7KTaR9Xx"
       },
@@ -166,7 +184,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 215196,
       "name": "A Pagodeira - Ao Vivo",
       "url": "https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6"
@@ -206,6 +224,24 @@
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "album": {
+        "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153225,
+      "name": "ABALO EMOCIONAL - Ao Vivo",
+      "url": "https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja"
     },
     {
       "album": {
@@ -278,10 +314,28 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 258906,
       "name": "Agora Viu Que Perdeu e Chora - Ao Vivo",
       "url": "https://open.spotify.com/track/6KvptoDIpcEw0wfRKbn5CL"
+    },
+    {
+      "album": {
+        "name": "Li\u00e7\u00e3o de Casa",
+        "url": "https://open.spotify.com/album/4xiNFbGgeAdSAPVxOco0DW"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256021,
+      "name": "Aguenta Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6YopFDuDAvaCxB3zLkqJz2"
     },
     {
       "album": {
@@ -384,7 +438,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 259221,
       "name": "Alucinado",
       "url": "https://open.spotify.com/track/4jLMTSEQAeHShZmEi1jFHf"
@@ -410,6 +464,24 @@
       "duration_ms": 207652,
       "name": "Alvejante",
       "url": "https://open.spotify.com/track/7fnXPPBrHSGb15iPvVgFd8"
+    },
+    {
+      "album": {
+        "name": "Por Mais Beijos Ao Vivo",
+        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169593,
+      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
     },
     {
       "album": {
@@ -547,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Anestesiado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SzYchODhkUqPcSNR2HKh0"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172548,
+      "name": "Anestesiado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
+    },
+    {
+      "album": {
         "name": "Nunca Tem Fim (Standard)",
         "url": "https://open.spotify.com/album/6Dlr7qx33gN0uUahMs9u2a"
       },
@@ -620,7 +710,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 187125,
       "name": "Aparentemente",
       "url": "https://open.spotify.com/track/0GE5oduj78ZuvGpantfPgQ"
@@ -697,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Arranh\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153409,
+      "name": "Arranh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
+    },
+    {
+      "album": {
         "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
         "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
       },
@@ -744,10 +852,28 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 313854,
       "name": "At\u00e9 Que Durou - Ao Vivo",
       "url": "https://open.spotify.com/track/5MLTylyzHVd7oV8OE4JMZt"
+    },
+    {
+      "album": {
+        "name": "A\u00ed Eu Bebo (ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173891,
+      "name": "A\u00ed Eu Bebo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
     },
     {
       "album": {
@@ -774,6 +900,28 @@
       "duration_ms": 115846,
       "name": "Baby Eu Tava na Rua da \u00c1gua",
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
+    },
+    {
+      "album": {
+        "name": "Baby Me Atende",
+        "url": "https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "Baby Me Atende",
+      "url": "https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy"
     },
     {
       "album": {
@@ -929,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Aqui e Agora, Vol.1 - Ao Vivo",
+        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140942,
+      "name": "Batom de Cereja - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
+    },
+    {
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -962,7 +1128,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 126425,
       "name": "Beijo Exclusivo",
       "url": "https://open.spotify.com/track/1OIYrPOlk2D6Knymlsa9ub"
@@ -1056,7 +1222,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 180446,
       "name": "Boa Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/3Ec06k61M8q8fZOrZXh7rp"
@@ -1140,7 +1306,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 202020,
       "name": "Bota F\u00e9 Na Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6aHYkviNrb5JLhtFm2Vav5"
@@ -1330,7 +1496,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 200026,
       "name": "Camisa 10 - Ao Vivo",
       "url": "https://open.spotify.com/track/7AcefBF4taQY42JqWnfhTV"
@@ -1366,7 +1532,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 207346,
       "name": "Cansei de Me Aventurar",
       "url": "https://open.spotify.com/track/5LHEKzeRtSAocTrSm0ecdd"
@@ -1388,7 +1554,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
@@ -1479,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+    },
+    {
+      "album": {
         "name": "CAVALINHO",
         "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
@@ -1502,6 +1686,28 @@
       "duration_ms": 138591,
       "name": "CAVALINHO",
       "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
+    },
+    {
+      "album": {
+        "name": "Cep Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0LMS6DwG045EiqIUVXol84"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194208,
+      "name": "Cep Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/28SbiLyUnPi3DHkVOQWSvE"
     },
     {
       "album": {
@@ -1596,7 +1802,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 191919,
       "name": "Coisa de Tarada",
       "url": "https://open.spotify.com/track/5qbL1gS1jzA0aGA628ebER"
@@ -1614,7 +1820,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 239093,
       "name": "Cola Do Meu Lado",
       "url": "https://open.spotify.com/track/4TBbOQp1zlDaBpCBmgp54X"
@@ -1636,6 +1842,28 @@
       "duration_ms": 228301,
       "name": "Coladin (Minha Deusa)",
       "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
+    },
+    {
+      "album": {
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170506,
+      "name": "Coladinha Em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JagAY5Y8YzEJDXNPcR5gZ"
     },
     {
       "album": {
@@ -1672,7 +1900,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 200416,
       "name": "Conex\u0101o - Ao Vivo",
       "url": "https://open.spotify.com/track/79HOSe6Eohz7xuWHAZu1YX"
@@ -1701,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Contatinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173229,
+      "name": "Contatinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
+    },
+    {
+      "album": {
         "name": "Fotografia Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ciNud1Zq8EY7Yf1xg9O9j"
       },
@@ -1712,7 +1962,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 192448,
       "name": "Contrato de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/4LKkWQezFiA8ENiow7uBS3"
@@ -1730,10 +1980,32 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 334497,
       "name": "Cora\u00e7\u00e3o Ateu",
       "url": "https://open.spotify.com/track/405TLHiYNWIKxRBtJywfbo"
+    },
+    {
+      "album": {
+        "name": "CORA\u00c7\u00c3O CIGANO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/70fOdx8p8kWMOIZzBY3dGj"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209928,
+      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
+      "url": "https://open.spotify.com/track/1LF8IUjHfiXEbTOjpxMULN"
     },
     {
       "album": {
@@ -1748,7 +2020,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 224964,
       "name": "Cora\u00e7\u00e3o na M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/1PodPzHtLedpCFyJzdq7uv"
@@ -1824,7 +2096,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 223543,
       "name": "Cuca Quente",
       "url": "https://open.spotify.com/track/08QQXnghmyLlE4Gwepw9rC"
@@ -1996,7 +2268,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 178345,
       "name": "Daquele Jeit\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3VFsBiWWSXWggPrGHVpYIO"
@@ -2058,10 +2330,28 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 236578,
       "name": "De Gra\u00e7a e de Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/12XsstwFi9GiuC9vq99x0q"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
       "album": {
@@ -2174,10 +2464,28 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 226373,
       "name": "Deixa O Sonho Nos Levar",
       "url": "https://open.spotify.com/track/6Cgs4owfm4Xasv6HTjJD7H"
+    },
+    {
+      "album": {
+        "name": "Digo Ou N\u00e3o Digo",
+        "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153958,
+      "name": "Dengo",
+      "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
     },
     {
       "album": {
@@ -2397,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Dois Tristes - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
+    },
+    {
+      "album": {
         "name": "Until Now",
         "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
       },
@@ -2474,7 +2800,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 208453,
       "name": "E a vida mudou",
       "url": "https://open.spotify.com/track/4SV2MHwNKOlXFYxUQgc5j6"
@@ -2514,7 +2840,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 149365,
       "name": "Ela D\u00e1 Show",
       "url": "https://open.spotify.com/track/6BKigxry38ZQRkJETxSuOg"
@@ -2554,10 +2880,28 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 197367,
       "name": "Em Busca Da Minha Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5cwtADIfwSm2FDwKqUMwL9"
+    },
+    {
+      "album": {
+        "name": "A Hora \u00c9 Agora - Ao Vivo Em Jurer\u00ea (Edi\u00e7\u00e3o B\u00f4nus)",
+        "url": "https://open.spotify.com/album/2BKrkmOYFnAFUSQJkSvvMV"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Enquanto Houver Raz\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/2oRZ5SfQQl34A1rq4yMQQ8"
     },
     {
       "album": {
@@ -2576,7 +2920,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 167461,
       "name": "Envolvidassa - Ao vivo",
       "url": "https://open.spotify.com/track/5qFfmI5hQhqzXnUUZGKxl9"
@@ -2594,7 +2938,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 178811,
       "name": "Erro Gostoso - Ao Vivo",
       "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
@@ -2645,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "Escrito Nas Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2oalUAIkiheB01nUS2An1t"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152661,
+      "name": "Escrito Nas Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/0BbTQBwcBhT00GbAv5UQ2R"
+    },
+    {
+      "album": {
         "name": "Calend\u00e1rio",
         "url": "https://open.spotify.com/album/4631a0jJl7qlDVhM9NSpmE"
       },
@@ -2656,7 +3018,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 224076,
       "name": "Essa N\u00e3o",
       "url": "https://open.spotify.com/track/7vxQ3D1K7JA67Q6ZGzPsv4"
@@ -2696,7 +3058,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 227375,
       "name": "Eu Fa\u00e7o o Qu\u00ea? - Ao Vivo",
       "url": "https://open.spotify.com/track/6PVKhKKU897TYA3iEiGWFS"
@@ -2923,6 +3285,28 @@
     },
     {
       "album": {
+        "name": "Jb&V 21 In Concert, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QBGxpW0DghBTheXIT5ozx"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209802,
+      "name": "Fim da Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD"
+    },
+    {
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -3050,7 +3434,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 186492,
       "name": "Fora da Caixa",
       "url": "https://open.spotify.com/track/4VHveGIAs11gvGO3nqHPIK"
@@ -3224,6 +3608,24 @@
       "duration_ms": 220223,
       "name": "GOOD PUSS",
       "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
+    },
+    {
+      "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
       "album": {
@@ -3485,6 +3887,28 @@
     },
     {
       "album": {
+        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "Inten\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1qy7aOHnfnOMJoT1fhoLYG"
+    },
+    {
+      "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
@@ -3580,7 +4004,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 181048,
       "name": "Lance Livre - Ao vivo",
       "url": "https://open.spotify.com/track/6LBDtzlM7s9XGB7diqpB8z"
@@ -3680,6 +4104,28 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "album": {
@@ -3792,10 +4238,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 166774,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186379,
+      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
+      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
     },
     {
       "album": {
@@ -3924,6 +4388,50 @@
       "duration_ms": 329746,
       "name": "LK (Carol Carolina Bela)",
       "url": "https://open.spotify.com/track/4QmpVtxnJZ5ZV6sO72nrDu"
+    },
+    {
+      "album": {
+        "name": "Loka",
+        "url": "https://open.spotify.com/album/5dIEaNNXIYizIeYPcyeepd"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215169,
+      "name": "Loka",
+      "url": "https://open.spotify.com/track/3Srq9hHoklnOSzg1yxMzm9"
+    },
+    {
+      "album": {
+        "name": "Louco, Louco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/57XCifTnBOgQTuRCv06X6V"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143060,
+      "name": "Louco, Louco - Ao Vivo",
+      "url": "https://open.spotify.com/track/1f4ckN9antokekv4aSRzxl"
     },
     {
       "album": {
@@ -4124,7 +4632,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 268826,
       "name": "Luz",
       "url": "https://open.spotify.com/track/5pa3a0KrU0JjeOmuzqcjCB"
@@ -4172,6 +4680,28 @@
       "duration_ms": 162045,
       "name": "L\u00e1pis - Ao Vivo",
       "url": "https://open.spotify.com/track/2myIOMbPy2ErPeEAqm1A8l"
+    },
+    {
+      "album": {
+        "name": "L\u00edngua Doce (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5b2C0LwfFNTvYDkbPOgJ3z"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127310,
+      "name": "L\u00edngua Doce - Ao Vivo",
+      "url": "https://open.spotify.com/track/4T4rU7MX2tnS5Aomuxq9a3"
     },
     {
       "album": {
@@ -4269,6 +4799,28 @@
     },
     {
       "album": {
+        "name": "Manda um Oi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1HItTCmal7a7jPpRwnV4g3"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166490,
+      "name": "Manda um Oi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh"
+    },
+    {
+      "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/0f7e7X7G2dVZHTCsW53kn7"
       },
@@ -4306,7 +4858,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 203896,
       "name": "Massagem",
       "url": "https://open.spotify.com/track/2ursC4xEpMvwcBTXY7XDE0"
@@ -4328,10 +4880,32 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 194753,
       "name": "Me Assume Ou Me Esquece - Ao Vivo",
       "url": "https://open.spotify.com/track/71clr6L0EOTBfZPHh5MwM9"
+    },
+    {
+      "album": {
+        "name": "Me Caiu T\u00e3o Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1WYFwj1Iu7vKERJm7JeXch"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bCihe7lYpnerhvpYhTrpx"
     },
     {
       "album": {
@@ -4390,7 +4964,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 219134,
       "name": "Me Perdoa",
       "url": "https://open.spotify.com/track/7dH7wklD8mfSt2Iu0jeh32"
@@ -4484,7 +5058,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 251435,
       "name": "Melhor Eu Ir",
       "url": "https://open.spotify.com/track/5d45BOkZaOnusIg9OBGjBC"
@@ -4520,10 +5094,46 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 174000,
       "name": "Meu Jeito de Amar",
       "url": "https://open.spotify.com/track/6jzSeHm8d8Nujq2f2jsooZ"
+    },
+    {
+      "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163307,
+      "name": "Meu Pra Sempre N\u00e3o Era Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ovpVYLiuIQpLB8F0PrJ4N"
+    },
+    {
+      "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214513,
+      "name": "Meu Viol\u00e3o E O Nosso Cachorro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D"
     },
     {
       "album": {
@@ -4579,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "Morar Nesse Motel",
+        "url": "https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187037,
+      "name": "Morar Nesse Motel",
+      "url": "https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR"
+    },
+    {
+      "album": {
         "name": "Songs From The Analog Playground",
         "url": "https://open.spotify.com/album/2nzu90QhAEQaZgZacFVApI"
       },
@@ -4612,7 +5240,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 212884,
       "name": "Mo\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W"
@@ -4634,6 +5262,24 @@
       "duration_ms": 213333,
       "name": "Mulher de fases",
       "url": "https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo"
+    },
+    {
+      "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162190,
+      "name": "Mulher Foda - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
     },
     {
       "album": {
@@ -4766,6 +5412,28 @@
       "duration_ms": 191600,
       "name": "Needed Me",
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+    },
+    {
+      "album": {
+        "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
+        "url": "https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa"
     },
     {
       "album": {
@@ -4908,7 +5576,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 168805,
       "name": "Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
@@ -5048,6 +5716,24 @@
       "duration_ms": 211732,
       "name": "Nuvem de Algod\u00e3o",
       "url": "https://open.spotify.com/track/3WQvXTlJqB6ccQ7vaRl041"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (EP2)",
+        "url": "https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169645,
+      "name": "N\u00e3o Me Bloqueia N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10"
     },
     {
       "album": {
@@ -5201,6 +5887,28 @@
     },
     {
       "album": {
+        "name": "Oceano (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1biMVdDkmu2a2foDbME6y3"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174105,
+      "name": "Oceano - Ao Vivo",
+      "url": "https://open.spotify.com/track/0EhGgIoOPjsqfB2ktrGgJd"
+    },
+    {
+      "album": {
         "name": "Isso \u00c9 Calypso Tour Brasil (Ao Vivo em Recife - PE) EP1",
         "url": "https://open.spotify.com/album/3cwbsaSUUpBL9CsgYASxeC"
       },
@@ -5282,6 +5990,28 @@
       "duration_ms": 275706,
       "name": "Onda Onda (Olha a Onda)",
       "url": "https://open.spotify.com/track/4ohps6RKcqCWMfK8GFcYE5"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
+        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254966,
+      "name": "Onde \u00c9 Que Deu Errado?",
+      "url": "https://open.spotify.com/track/3yPYfl0ng6ulN4tMTrDczF"
     },
     {
       "album": {
@@ -5474,7 +6204,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 198000,
       "name": "Pega Leve - Ao Vivo",
       "url": "https://open.spotify.com/track/66CReGphiG83PklO3n750f"
@@ -5562,7 +6292,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 233000,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/3nc9vQ8vdLdXTMaigOKWrk"
@@ -5605,6 +6335,32 @@
     },
     {
       "album": {
+        "name": "Pipoco",
+        "url": "https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        },
+        {
+          "name": "Dj Chris No Beat",
+          "url": "https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194022,
+      "name": "Pipoco",
+      "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
+    },
+    {
+      "album": {
         "name": "Pique BBB",
         "url": "https://open.spotify.com/album/2BN8FsLuIyi2R69GgIzzo1"
       },
@@ -5628,6 +6384,24 @@
       "duration_ms": 169845,
       "name": "Pique BBB",
       "url": "https://open.spotify.com/track/2hFaeUi09ZZV5qJ1h9xuzM"
+    },
+    {
+      "album": {
+        "name": "Pira\u00e7\u00e3o 2.0",
+        "url": "https://open.spotify.com/album/07eNt6f2zkmPew6MBpfF7T"
+      },
+      "artists": [
+        {
+          "name": "Kak\u00e1 e Pedrinho",
+          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "Pira\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/00hbGsdy4tMD2R0Y5n5E0C"
     },
     {
       "album": {
@@ -5700,7 +6474,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 167832,
       "name": "Por Enquanto / Cita\u00e7\u00e3o: Meu Bem Querer - Ao Vivo",
       "url": "https://open.spotify.com/track/2d5fHYUDBXByMgA7sgbhtj"
@@ -5718,10 +6492,32 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 397397,
       "name": "Por Favor (O Que Fazer) / \u00c9 Natural / At\u00e9 Que Enfim - Ao Vivo",
       "url": "https://open.spotify.com/track/3vOJANukOHT71TRkoSxauK"
+    },
+    {
+      "album": {
+        "name": "Jo\u00e3o Neto e Frederico - \u00d4 Saudade Que Bate",
+        "url": "https://open.spotify.com/album/3pgGGHlw8IMSvsyoD4z0io"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194203,
+      "name": "Porque Eu Presto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Y5AGhwgDiFfvunOBADr3g"
     },
     {
       "album": {
@@ -5962,7 +6758,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 204938,
       "name": "Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
@@ -6209,6 +7005,42 @@
     },
     {
       "album": {
+        "name": "Ranking Dos Inesquec\u00edveis - Ao Vivo",
+        "url": "https://open.spotify.com/album/6TSV1rcQEjB4cUIXiG2eeJ"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156414,
+      "name": "Ranking Dos Inesquec\u00edveis - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ruEsU10uMI0IdPDrTVpje"
+    },
+    {
+      "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+    },
+    {
+      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/2O7rIlp9fuZArCEEgUvF9D"
       },
@@ -6220,7 +7052,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 248360,
       "name": "Reinventar",
       "url": "https://open.spotify.com/track/0NMVRsqVoYEa7g6VZWcJg7"
@@ -6506,6 +7338,28 @@
       "duration_ms": 170229,
       "name": "Saudade Digitando - Ao Vivo",
       "url": "https://open.spotify.com/track/0PhyPqlS3hf5oh5qoeApal"
+    },
+    {
+      "album": {
+        "name": "Jo\u00e3o Neto & Frederico 25 Anos Ao Vivo (Hugo & Guilherme)",
+        "url": "https://open.spotify.com/album/6TPynvnaFW4riBslhaKt2O"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173592,
+      "name": "Saudade Sem Educa\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mVTQi9I4ehzSi9u9hLca5"
     },
     {
       "album": {
@@ -6796,7 +7650,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 201301,
       "name": "Sinais de fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
@@ -6865,6 +7719,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Campo Grande",
+        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
+    },
+    {
+      "album": {
         "name": "Sorriso Maroto As Antigas - Parte 3 - Ao Vivo",
         "url": "https://open.spotify.com/album/5LUG3Gv2eAwKQGWetxfa2d"
       },
@@ -6880,7 +7752,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 204170,
       "name": "Sou Eu e Mais Ningu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/12yVY2xQx6QMFEC0jPLd1K"
@@ -7018,7 +7890,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 237520,
       "name": "Supera",
       "url": "https://open.spotify.com/track/4Lw64USdYtkcI01iVLbMgc"
@@ -7424,7 +8296,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 202573,
       "name": "Trai\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5H4CNCiKB9iuKPz5SkMSOG"
@@ -7531,6 +8403,24 @@
     },
     {
       "album": {
+        "name": "Eu, Yasmin Santos - Vol 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189248,
+      "name": "Tudo Ao Contr\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2"
+    },
+    {
+      "album": {
         "name": "T\u00e1 OK",
         "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
       },
@@ -7550,6 +8440,24 @@
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
+    },
+    {
+      "album": {
+        "name": "Hits do Guilherme & Benuto 2024",
+        "url": "https://open.spotify.com/album/5pMV8W9kENo8MV5h8lxbBq"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153861,
+      "name": "T\u00e9rmino Covarde - Ao Vivo",
+      "url": "https://open.spotify.com/track/6UTDw6w0OfuXloBWKul6ak"
     },
     {
       "album": {
@@ -7740,7 +8648,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 233236,
       "name": "Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
@@ -7814,7 +8722,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 218940,
       "name": "Vida de Amante - Ao Vivo",
       "url": "https://open.spotify.com/track/4I7h3i68Pbch29lnqkYkBz"
@@ -7922,7 +8830,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 180964,
       "name": "Vou Querer De Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/6yvnVg5A2mdwfNMgMDrS1C"
@@ -8100,6 +9008,28 @@
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+    },
+    {
+      "album": {
+        "name": "Xonei",
+        "url": "https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154555,
+      "name": "Xonei",
+      "url": "https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL"
     },
     {
       "album": {

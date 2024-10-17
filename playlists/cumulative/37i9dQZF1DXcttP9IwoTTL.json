@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "365 - 131bpm's Remix",
+        "url": "https://open.spotify.com/album/1gxumry2j97QKW2i7RuEQa"
+      },
+      "artists": [
+        {
+          "name": "131bpm",
+          "url": "https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312180,
+      "name": "365 - 131bpm's Remix",
+      "url": "https://open.spotify.com/track/5YDTp31EBoetdT40d9rDHz"
+    },
+    {
+      "album": {
         "name": "i'm ok",
         "url": "https://open.spotify.com/album/0v2mJSG0UzNAxwyoBMAPps"
       },
@@ -288,6 +306,24 @@
       "duration_ms": 303322,
       "name": "Acid Hand",
       "url": "https://open.spotify.com/track/3VyHbLC8CQsDcZ6tvn3f1K"
+    },
+    {
+      "album": {
+        "name": "Acid Latino (Sonido Real)",
+        "url": "https://open.spotify.com/album/7tQe00fnEbW82f3OnQlwWz"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Acid Latino (Sonido Real)",
+      "url": "https://open.spotify.com/track/0Rbs8SwS2ei1B2kSorPoUH"
     },
     {
       "album": {
@@ -520,7 +556,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 347076,
       "name": "Amazona",
       "url": "https://open.spotify.com/track/5OeOAo9zgsP6VU8b9gjohX"
@@ -977,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Birdsongs In Woodland",
+        "url": "https://open.spotify.com/album/0S4UFmkf4r2lMQifRlcx4h"
+      },
+      "artists": [
+        {
+          "name": "Vhyce",
+          "url": "https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407174,
+      "name": "Birdsong In Woodland",
+      "url": "https://open.spotify.com/track/45FwkOLYGlOoAtueszdonY"
+    },
+    {
+      "album": {
         "name": "Biscotti",
         "url": "https://open.spotify.com/album/4zkm84IlIkNJsHbzStZ2Nz"
       },
@@ -1268,7 +1322,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 390773,
       "name": "Bubble Toy",
       "url": "https://open.spotify.com/track/4RnYjuF4JTz1C3vjzuwQ4E"
@@ -1404,6 +1458,24 @@
       "duration_ms": 247976,
       "name": "Celestial Objects - Edit",
       "url": "https://open.spotify.com/track/7JKvlbEPNYmDUZypYvIVE6"
+    },
+    {
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/6l11TZYibvdWL9Tqbgwil4"
+      },
+      "artists": [
+        {
+          "name": "suki",
+          "url": "https://open.spotify.com/artist/1vIOPkrhJl84CvBcT6LPyq"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Chacha Uprising",
+      "url": "https://open.spotify.com/track/74Dj8m8WPchJVqmtpr9Iwr"
     },
     {
       "album": {
@@ -2293,6 +2365,28 @@
     },
     {
       "album": {
+        "name": "Dopamine Dreams",
+        "url": "https://open.spotify.com/album/5MXkhnXhhPTGXJugGA9aGn"
+      },
+      "artists": [
+        {
+          "name": "Truus De Groot",
+          "url": "https://open.spotify.com/artist/7iKRjttyqScQ6hyvEw4Wzr"
+        },
+        {
+          "name": "Cosmo Vitelli",
+          "url": "https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203603,
+      "name": "Don't Bite",
+      "url": "https://open.spotify.com/track/1qJSX7IzTdZuWLQHcCkkzk"
+    },
+    {
+      "album": {
         "name": "Age Of Intimacy",
         "url": "https://open.spotify.com/album/3pLToeYsFWZYCC9bAe8K7o"
       },
@@ -2460,6 +2554,24 @@
       "duration_ms": 289663,
       "name": "Dust",
       "url": "https://open.spotify.com/track/23AwYNteMnEzAmnImRTwr1"
+    },
+    {
+      "album": {
+        "name": "Echoes Of Euphoria",
+        "url": "https://open.spotify.com/album/75E2AFTgHUtekQwFJbF7Re"
+      },
+      "artists": [
+        {
+          "name": "Cybernet",
+          "url": "https://open.spotify.com/artist/7a6xaOezA21sracNfQVaV6"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338028,
+      "name": "Echoes Of Euphoria",
+      "url": "https://open.spotify.com/track/72i9UGsLeQXmdD9SmUFpHx"
     },
     {
       "album": {
@@ -3040,7 +3152,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 491748,
       "name": "Fine Gay",
       "url": "https://open.spotify.com/track/5bBhWlZeoKNg7USoATpqyY"
@@ -3498,6 +3610,24 @@
       "duration_ms": 387402,
       "name": "Ghost of Chance",
       "url": "https://open.spotify.com/track/0NYoKI1pNqRI3W3Bd7vIpb"
+    },
+    {
+      "album": {
+        "name": "Presence Unknown 003",
+        "url": "https://open.spotify.com/album/4EcyzG4ZcnlDa0wlzqiWbb"
+      },
+      "artists": [
+        {
+          "name": "Controlled Weirdness",
+          "url": "https://open.spotify.com/artist/20nC7cQni8ZrvRC2REZjOI"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470038,
+      "name": "Ghosts Of The Heygate",
+      "url": "https://open.spotify.com/track/5WAoZNqc3QgacAtmByAuMO"
     },
     {
       "album": {
@@ -5006,7 +5136,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 383942,
       "name": "Last One For Today",
       "url": "https://open.spotify.com/track/2Rlwc41Lv2p1bARfNuYfrj"
@@ -6052,7 +6182,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 295680,
       "name": "My Cousin Vinny",
       "url": "https://open.spotify.com/track/4n1onZVjcEQ8grMnyxEF5B"
@@ -6466,7 +6596,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 404755,
       "name": "Orange Sails",
       "url": "https://open.spotify.com/track/2LcnwK6XUbRo3kP67qCAvp"
@@ -6777,6 +6907,50 @@
     },
     {
       "album": {
+        "name": "Pleasure (Re-mixed)",
+        "url": "https://open.spotify.com/album/4AzgkAO2Uz3iy3MEXpDL8L"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+        },
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399500,
+      "name": "Pleasure - Sleep D Remix",
+      "url": "https://open.spotify.com/track/1JOznvuK4t2R0EQwABuKor"
+    },
+    {
+      "album": {
+        "name": "The Chants Of The Holy Oyster",
+        "url": "https://open.spotify.com/album/1kF7LCCXjNpJOrOHNbRT6E"
+      },
+      "artists": [
+        {
+          "name": "RDS",
+          "url": "https://open.spotify.com/artist/1zcfo2uFG7fLsR58xC0FKs"
+        },
+        {
+          "name": "Eversines",
+          "url": "https://open.spotify.com/artist/0hq7wHZ0z3nuoFSyfUXDHu"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363522,
+      "name": "Plooooooink",
+      "url": "https://open.spotify.com/track/7cCCqVh4EFVeSTIumMXSCk"
+    },
+    {
+      "album": {
         "name": "Ploys (Erol Alkan Rework)",
         "url": "https://open.spotify.com/album/7wFfzUAoy8KrGorUrCEhrR"
       },
@@ -6984,7 +7158,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 397000,
       "name": "Psykoz",
       "url": "https://open.spotify.com/track/0eLk5cQr8DVOEtPSynKk6b"
@@ -7094,6 +7268,24 @@
       "duration_ms": 484102,
       "name": "Ravers Association - Juan MacLean Remix",
       "url": "https://open.spotify.com/track/1BIfUaDakS2CL8QlKy6xhf"
+    },
+    {
+      "album": {
+        "name": "Raving Lunatic",
+        "url": "https://open.spotify.com/album/1dvcNt0BDVL9nDDWSzTFxR"
+      },
+      "artists": [
+        {
+          "name": "Furious Frank",
+          "url": "https://open.spotify.com/artist/00MTkgmKzIAaseVdO9L5KV"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376346,
+      "name": "Raving Lunatic",
+      "url": "https://open.spotify.com/track/6BKdI34pLES1vjKmX9qpww"
     },
     {
       "album": {
@@ -7448,7 +7640,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 320240,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/5OZRQxwGu0r484nJu433EH"
@@ -8105,6 +8297,24 @@
     },
     {
       "album": {
+        "name": "Lexica",
+        "url": "https://open.spotify.com/album/1KG5lDy1AdnSWWwFNKx1Lr"
+      },
+      "artists": [
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351453,
+      "name": "Sub Lux",
+      "url": "https://open.spotify.com/track/5RQgBlH2VT7IXHAWpAxLzX"
+    },
+    {
+      "album": {
         "name": "Sueno Latino",
         "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
       },
@@ -8242,7 +8452,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 216951,
       "name": "Systems of Love",
       "url": "https://open.spotify.com/track/5a97GbWuTjbmCFQFa7iFNW"
@@ -8532,7 +8742,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 244840,
       "name": "The Cold Song",
       "url": "https://open.spotify.com/track/17n7O0A3B86m0wepImtEIu"
@@ -9118,7 +9328,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 241232,
       "name": "Toyota 2000 GT",
       "url": "https://open.spotify.com/track/4L47NZiIBFN7sOPYosRwM4"

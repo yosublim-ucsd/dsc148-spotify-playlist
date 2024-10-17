@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 109531,
+  "num_followers": 109548,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -348,13 +348,13 @@
       },
       "artists": [
         {
-          "name": "Harry Mosco",
-          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
+          "name": "Dizzy K Falola",
+          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
         }
       ],
-      "duration_ms": 331653,
-      "name": "Sugar Cane Baby",
-      "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
+      "duration_ms": 265573,
+      "name": "Baby Kilode",
+      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -364,13 +364,13 @@
       },
       "artists": [
         {
-          "name": "Dizzy K Falola",
-          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
+          "name": "Harry Mosco",
+          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
         }
       ],
-      "duration_ms": 265573,
-      "name": "Baby Kilode",
-      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
+      "duration_ms": 331653,
+      "name": "Sugar Cane Baby",
+      "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Fatteliku (Live in Athens 1987)",
+        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "duration_ms": 643022,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 357181,
       "name": "Neria",
       "url": "https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Fatteliku (Live in Athens 1987)",
-        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Youssou N'Dour",
-          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
-        }
-      ],
-      "duration_ms": 643022,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
     },
     {
       "added_at": "2024-08-01 10:26:48",

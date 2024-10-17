@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 339404,
+  "num_followers": 339557,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
         }
       ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
       },
       "artists": [
         {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Don't Stop Praying (Acoustic)",
-        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 259868,
-      "name": "Don't Stop Praying (Acoustic)",
-      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 259868,
+      "name": "Don't Stop Praying (Acoustic)",
+      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "In Every Way",
-        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "In Every Way",
-      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "More and More Beautiful",
         "url": "https://open.spotify.com/album/4OsTxMJ03VjSq0X7OC8DAA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 228200,
       "name": "More and More Beautiful",
       "url": "https://open.spotify.com/track/71YaMrCwbb7DFjrKxF7hAj"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 264289,
       "name": "On Christ (House Church)",
       "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Christ Be In My Heart",
-        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
-      },
-      "artists": [
-        {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Christ Be In My Heart",
-      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
-      },
-      "artists": [
-        {
-          "name": "Michael Hughes Watson",
-          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
-        }
-      ],
-      "duration_ms": 289411,
-      "name": "Hanging onto Every Word That You Say",
-      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
+      },
+      "artists": [
+        {
+          "name": "Michael Hughes Watson",
+          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Hanging onto Every Word That You Say",
+      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "King of Eternity",
-        "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
-      },
-      "artists": [
-        {
-          "name": "LW Music",
-          "url": "https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG"
-        },
-        {
-          "name": "Garett Serban",
-          "url": "https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj"
-        },
-        {
-          "name": "Nixaide Lopez",
-          "url": "https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx"
-        }
-      ],
-      "duration_ms": 408430,
-      "name": "King of Eternity",
-      "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Who May Ascend",
         "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 299368,
       "name": "Foolish & Ruined",
       "url": "https://open.spotify.com/track/6C1b3QYgIwHUxt8if271fg"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "King of Eternity",
+        "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
+      },
+      "artists": [
+        {
+          "name": "LW Music",
+          "url": "https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG"
+        },
+        {
+          "name": "Garett Serban",
+          "url": "https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj"
+        },
+        {
+          "name": "Nixaide Lopez",
+          "url": "https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx"
+        }
+      ],
+      "duration_ms": 408430,
+      "name": "King of Eternity",
+      "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Light & Momentary",
-        "url": "https://open.spotify.com/album/5SfOX91WxiZfYbERgSoLt2"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 268970,
-      "name": "Light & Momentary",
-      "url": "https://open.spotify.com/track/1KN2FBM6S6DVhCh95WmR7e"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "With Lifted Hands (feat. Martin Smith) [Acoustic]",
         "url": "https://open.spotify.com/album/2dQBR1cgnp3QwPRefwzTT4"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 211251,
       "name": "With Lifted Hands (feat. Martin Smith) - Acoustic",
       "url": "https://open.spotify.com/track/4YOy8xQckgK4b31Hnsi5nO"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Light & Momentary",
+        "url": "https://open.spotify.com/album/5SfOX91WxiZfYbERgSoLt2"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/1KN2FBM6S6DVhCh95WmR7e"
     },
     {
       "added_at": "2024-08-03 00:38:12",

@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
-  "num_followers": 47459,
+  "num_followers": 47473,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
+        "name": "Regra Do Jogo",
+        "url": "https://open.spotify.com/album/5SlSTCgocavqz0enwGuHmp"
       },
       "artists": [
         {
-          "name": "Instinto 26",
-          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+          "name": "Mano Chaba",
+          "url": "https://open.spotify.com/artist/28oWVPePPjpqgwfULL2rnk"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Priceless",
-      "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
+      "duration_ms": 176458,
+      "name": "Regra Do Jogo",
+      "url": "https://open.spotify.com/track/4BAylI99ZwsfDX2rIYi6U1"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
-        "name": "Regra Do Jogo",
-        "url": "https://open.spotify.com/album/5SlSTCgocavqz0enwGuHmp"
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
       },
       "artists": [
         {
-          "name": "Mano Chaba",
-          "url": "https://open.spotify.com/artist/28oWVPePPjpqgwfULL2rnk"
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
         },
         {
-          "name": "Deezy",
-          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 176458,
-      "name": "Regra Do Jogo",
-      "url": "https://open.spotify.com/track/4BAylI99ZwsfDX2rIYi6U1"
+      "duration_ms": 212727,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
+      },
+      "artists": [
+        {
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Loko Loko",
+      "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "ORDEM & PROGRESSO",
         "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
-      },
-      "artists": [
-        {
-          "name": "Instinto 26",
-          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Loko Loko",
-      "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
     },
     {
       "added_at": "2024-10-10 23:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-10-10 23:00:00",
       "album": {
+        "name": "Alma do Neg\u00f3cio",
+        "url": "https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Alma do Neg\u00f3cio",
+      "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
+    },
+    {
+      "added_at": "2024-10-10 23:00:00",
+      "album": {
         "name": "Anos 90",
         "url": "https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 178014,
       "name": "Anos 90",
       "url": "https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl"
-    },
-    {
-      "added_at": "2024-10-10 23:00:00",
-      "album": {
-        "name": "Alma do Neg\u00f3cio",
-        "url": "https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv"
-      },
-      "artists": [
-        {
-          "name": "PARD\u00d8",
-          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "Alma do Neg\u00f3cio",
-      "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
     }
   ],
   "unique_name": "Seda",

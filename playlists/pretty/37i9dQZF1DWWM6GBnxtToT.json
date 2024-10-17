@@ -1,6 +1,6 @@
 {
   "description": "These songs will put a smile on your face.",
-  "num_followers": 591871,
+  "num_followers": 591892,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
         "name": "Pretty Lady",
         "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W"
+        "name": "20 Something",
+        "url": "https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
         }
       ],
-      "duration_ms": 205416,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP"
+      "duration_ms": 243440,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "20 Something",
-        "url": "https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W"
       },
       "artists": [
         {
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
         }
       ],
-      "duration_ms": 243440,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59"
+      "duration_ms": 205416,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Lost in Life",
-        "url": "https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X"
+        "name": "Lost in the Sound",
+        "url": "https://open.spotify.com/album/7wEs4j97WKIE3Pq1CnoC7I"
       },
       "artists": [
         {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+          "name": "Tahiti 80",
+          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
         }
       ],
-      "duration_ms": 265546,
-      "name": "Lost in Life",
-      "url": "https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4"
+      "duration_ms": 216580,
+      "name": "Lost in the Sound",
+      "url": "https://open.spotify.com/track/6Aeig7a9lnvYlwfScbX9Qe"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Lost in the Sound",
-        "url": "https://open.spotify.com/album/7wEs4j97WKIE3Pq1CnoC7I"
-      },
-      "artists": [
-        {
-          "name": "Tahiti 80",
-          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
-        }
-      ],
-      "duration_ms": 216580,
-      "name": "Lost in the Sound",
-      "url": "https://open.spotify.com/track/6Aeig7a9lnvYlwfScbX9Qe"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
         "name": "Open (feat. Cailin Russo)",
         "url": "https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 212571,
       "name": "Open (feat. Cailin Russo)",
       "url": "https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
+        "name": "Lost in Life",
+        "url": "https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Lost in Life",
+      "url": "https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4"
     },
     {
       "added_at": "2024-08-29 10:13:33",

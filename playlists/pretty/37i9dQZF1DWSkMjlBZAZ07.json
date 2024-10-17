@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1927091,
+  "num_followers": 1927081,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 264146,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Start Right Now (feat. Laney Jones)",
         "url": "https://open.spotify.com/album/7MjoLuhICM6thmuzQOLfQr"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "My Home Is You",
         "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Early in the Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 219952,
-      "name": "Sparrow and the Wolf",
-      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Early in the Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 219952,
+      "name": "Sparrow and the Wolf",
+      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "High & Unsteady",
-        "url": "https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 223339,
-      "name": "High & Unsteady",
-      "url": "https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 298720,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "High & Unsteady",
+        "url": "https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57"
+      },
+      "artists": [
+        {
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
+        }
+      ],
+      "duration_ms": 223339,
+      "name": "High & Unsteady",
+      "url": "https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1327,38 +1327,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Give Me The Reason (Stripped Acoustic)",
-        "url": "https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Give Me The Reason",
-      "url": "https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "In The Water",
-        "url": "https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "In The Water",
-      "url": "https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Headlights / Summer Bird",
         "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
       },
@@ -1371,6 +1339,22 @@
       "duration_ms": 191980,
       "name": "Summer Bird",
       "url": "https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Give Me The Reason (Stripped Acoustic)",
+        "url": "https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 204675,
       "name": "hello my son",
       "url": "https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "In The Water",
+        "url": "https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb"
+      },
+      "artists": [
+        {
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "In The Water",
+      "url": "https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/7FrE61vLahhWW42pYspghx"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 285346,
       "name": "Futures",
       "url": "https://open.spotify.com/track/5DLmPL4kE9TYd4VGrAXB0D"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2024-09-06 04:00:00",

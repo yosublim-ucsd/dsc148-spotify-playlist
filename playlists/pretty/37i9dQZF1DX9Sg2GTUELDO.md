@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Marf 邱彥筒
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,328 likes - 383 songs - 23 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,334 likes - 383 songs - 23 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

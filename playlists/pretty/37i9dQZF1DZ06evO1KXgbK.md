@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,172 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,185 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 50 | [When Possession Gets Too Strong](https://open.spotify.com/track/0VHuSTiDVIsKgPFcs6QboQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR), [Louis Owens](https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns) | [When Possession Gets Too Strong](https://open.spotify.com/album/2Cu26dGBxXFu0W1zVStVNG) | 2:09 |
 | 51 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 |
 
-Snapshot ID: `ZwxfAAAAAAAPqfQKMZ94XIIwPSNwMt/w`
+Snapshot ID: `Zw2wgAAAAAB4EhMDuHwFK5rgeuxjEks+`

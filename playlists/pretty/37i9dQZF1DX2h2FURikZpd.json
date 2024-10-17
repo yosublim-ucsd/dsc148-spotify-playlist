@@ -1,6 +1,6 @@
 {
   "description": "Latin gems you absolutely need to hear. Save them before they're gone!",
-  "num_followers": 3449,
+  "num_followers": 3455,
   "original_name": "Songs You Should Save",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "HASTA LA VISTA",
-        "url": "https://open.spotify.com/album/0aqtYnUfIYg18QPPpw5O7X"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "HASTA LA VISTA",
-      "url": "https://open.spotify.com/track/2j1N4tKiBY2akbVpIbka9H"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Destrucci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 214133,
       "name": "Una Playa En Nayarit",
       "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/0aqtYnUfIYg18QPPpw5O7X"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/2j1N4tKiBY2akbVpIbka9H"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Big Soto y Eladio Carrion plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,712 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,790 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 3 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 |
 | 4 | [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 |
 | 5 | [BIG MOVES](https://open.spotify.com/track/5V4NkldBDetisUhRsHvBfK) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BIG MOVES](https://open.spotify.com/album/0qTmGPizxtjKohNWEIADfx) | 2:36 |
-| 6 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
+| 6 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 7 | [BALENCIAGA](https://open.spotify.com/track/1ZdhuKXOw9e2YxFdAZaUhC) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [UNA SEMANA INCREÍBLE](https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM) | 2:52 |
 | 8 | [Easy Money](https://open.spotify.com/track/4YMmHShPGObdX4oXJ6BSXm) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [SOMBRA PR](https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Easy Money](https://open.spotify.com/album/35tlzbIiTQz2wBnmzNy25Z) | 4:26 |
 | 9 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |

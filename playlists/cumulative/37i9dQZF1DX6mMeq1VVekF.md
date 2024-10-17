@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: D7
 
-400 songs - 20 hr 43 min
+401 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 | 2023-05-15 | 2024-10-04 |
 | [Rise](https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Rise](https://open.spotify.com/album/3dyiC25i2f5CL3vjiIQ58b) | 2:32 | 2023-05-19 | 2023-06-19 |
 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 | 2023-11-24 |  |
+| [Rom\-Com](https://open.spotify.com/track/4uRe7zABh9s3iQF8AhvBGg) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr) | [Rom\-Com](https://open.spotify.com/album/7yrnSU32uhLvoi6benHTYF) | 2:49 | 2024-10-10 |  |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2022-07-17 | 2022-07-27 |
 | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/track/2c15izvJZsztJa3QWer3sW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/album/19uZMpx3fqVJW5z7sdfQrF) | 3:07 | 2022-06-24 | 2022-07-18 |
 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 | 2023-11-24 | 2024-04-26 |
@@ -342,7 +343,7 @@
 | [Stylin'](https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:38 | 2022-07-17 | 2024-04-19 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-16 | 2023-10-11 |
 | [Summer Is Blue](https://open.spotify.com/track/6oUfoALNcb6H7exE2D9A4A) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [A2](https://open.spotify.com/artist/6CLayzfExGy0fSn5IT0aX4), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Summer Is Blue](https://open.spotify.com/album/6cEYC7By9QiZ084eidPXyJ) | 2:40 | 2022-06-24 | 2022-07-26 |
-| [SUMMER RAIN](https://open.spotify.com/track/4LA55DZy7gBLuROnUTTb17) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [SUMMER RAIN](https://open.spotify.com/album/1VDn9H3cF4IANFwWfv38L7) | 4:06 | 2024-10-03 |  |
+| [SUMMER RAIN](https://open.spotify.com/track/4LA55DZy7gBLuROnUTTb17) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [SUMMER RAIN](https://open.spotify.com/album/1VDn9H3cF4IANFwWfv38L7) | 4:06 | 2024-10-03 | 2024-10-17 |
 | [SUMO](https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [SUMO](https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM) | 3:00 | 2023-05-15 | 2024-10-04 |
 | [SUPERINTENDENT](https://open.spotify.com/track/5yWdiueO4zRccYrlfuEMvV) | [Damzys](https://open.spotify.com/artist/2hCN4Ef27UsZ5gSSPJXRhr), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [SUPERINTENDENT](https://open.spotify.com/album/5Qh5QiCIGUrtV1rUZwR3lz) | 2:38 | 2023-05-19 | 2023-06-17 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-27 | 2024-10-05 |

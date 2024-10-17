@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 187142,
       "name": "Chann Sitare",
       "url": "https://open.spotify.com/track/50UrzLQaUmPp5LsehLMMKR"
@@ -13277,6 +13277,32 @@
     },
     {
       "album": {
+        "name": "Pyaar Aunda Jatt Nu",
+        "url": "https://open.spotify.com/album/3i6t6O4Sm3UvUGjjvijAhu"
+      },
+      "artists": [
+        {
+          "name": "Rajdeep Deol",
+          "url": "https://open.spotify.com/artist/73SlpzOUcHMUQYYPyUwIfo"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        },
+        {
+          "name": "Nik Muzik",
+          "url": "https://open.spotify.com/artist/4uJnlFYIcfLJ9EbtCIOjlA"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Pyaar Aunda Jatt Nu",
+      "url": "https://open.spotify.com/track/3e9ioFqFT7S3kvdRGkDLQf"
+    },
+    {
+      "album": {
         "name": "Pyaar Ch Haan (From \"Furteela\")",
         "url": "https://open.spotify.com/album/3j0ql4oT53ulH7zCYilgo3"
       },
@@ -14454,6 +14480,28 @@
       "duration_ms": 213626,
       "name": "Saada Pyaar",
       "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"
+    },
+    {
+      "album": {
+        "name": "Saadhni",
+        "url": "https://open.spotify.com/album/65k3KZdNSFdhTBZzOVRCIa"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162967,
+      "name": "Saadhni",
+      "url": "https://open.spotify.com/track/0v6E0NDLet0SqyuSMbf2Ec"
     },
     {
       "album": {
@@ -16814,7 +16862,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 202193,
       "name": "Tareefan",
       "url": "https://open.spotify.com/track/38fyfLQMYfsrspaWvqE4Js"

@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 333168,
+  "num_followers": 333243,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "MELLODEATH Tapes Vol. I",
-        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Fireball",
-      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
-    },
-    {
-      "added_at": "2024-10-11 17:15:52",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 240000,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx"
+    },
+    {
+      "added_at": "2024-10-11 17:15:52",
+      "album": {
+        "name": "MELLODEATH Tapes Vol. I",
+        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -1447,22 +1447,22 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "Never Change (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
       },
       "artists": [
         {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         }
       ],
-      "duration_ms": 268915,
-      "name": "Never Change - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -1567,22 +1567,22 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+        "name": "Never Change (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         },
         {
           "name": "Sullivan King",
           "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+      "duration_ms": 268915,
+      "name": "Never Change - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -1603,22 +1603,22 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
       "artists": [
         {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         },
         {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 184000,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "This Will Be My Year",
-        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "This Will Be My Year",
-      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
-    },
-    {
-      "added_at": "2024-10-11 17:15:52",
-      "album": {
         "name": "Eyes Wide Xpen",
         "url": "https://open.spotify.com/album/7BjAuAtolXf1tRI9xV4sth"
       },
@@ -1747,26 +1727,42 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "Won't Make A Sound",
-        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
+        "name": "This Will Be My Year",
+        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
       },
       "artists": [
         {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
         },
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Won't Make A Sound",
-      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+      "duration_ms": 180618,
+      "name": "This Will Be My Year",
+      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
+    },
+    {
+      "added_at": "2024-10-11 17:15:52",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -1815,22 +1811,26 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+        "name": "Won't Make A Sound",
+        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
         },
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 276480,
+      "name": "Won't Make A Sound",
+      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -2327,6 +2327,26 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
+      },
+      "artists": [
+        {
+          "name": "Extra Terra",
+          "url": "https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU"
+        },
+        {
+          "name": "N3b",
+          "url": "https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw"
+    },
+    {
+      "added_at": "2024-10-11 17:15:52",
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2351,22 +2371,18 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
       "artists": [
         {
-          "name": "Extra Terra",
-          "url": "https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU"
-        },
-        {
-          "name": "N3b",
-          "url": "https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw"
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -2383,22 +2399,6 @@
       "duration_ms": 258120,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/5ombvYLjK6PxEXGRENxY3Q"
-    },
-    {
-      "added_at": "2024-10-11 17:15:52",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+    },
+    {
+      "added_at": "2024-10-11 17:15:52",
+      "album": {
         "name": "Beautiful Nothing",
         "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
       },
@@ -2463,18 +2479,26 @@
     {
       "added_at": "2024-10-11 17:15:52",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
       "artists": [
         {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
         }
       ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
     },
     {
       "added_at": "2024-10-11 17:15:52",
@@ -2499,30 +2523,6 @@
       "duration_ms": 245333,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/4wPbUJofQZVpC5mP925ZBg"
-    },
-    {
-      "added_at": "2024-10-11 17:15:52",
-      "album": {
-        "name": "die 4 u",
-        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "damnboy!",
-          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
     }
   ],
   "unique_name": "Rocktronic",

@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 97257,
+  "num_followers": 97311,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Tubular Bells",
-        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
+        "name": "Natural States",
+        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
       "artists": [
         {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        },
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
         }
       ],
-      "duration_ms": 1397160,
-      "name": "Tubular Bells - Pt. II",
-      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
+      "duration_ms": 258000,
+      "name": "Rain Forest",
+      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -231,22 +235,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Natural States",
-        "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
+        "name": "Tubular Bells",
+        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
       },
       "artists": [
         {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        },
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Rain Forest",
-      "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
+      "duration_ms": 1397160,
+      "name": "Tubular Bells - Pt. II",
+      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Best Of Tim Weisberg: Smile!",
         "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 209973,
       "name": "Dion Blue",
       "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Fresh Aire I",
-        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
       },
       "artists": [
         {
-          "name": "Mannheim Steamroller",
-          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
         }
       ],
-      "duration_ms": 153706,
-      "name": "Interlude II",
-      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
+      "duration_ms": 382026,
+      "name": "Zen Garden of the Soul Part III - IV",
+      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+        "name": "Fresh Aire I",
+        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
       },
       "artists": [
         {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
         }
       ],
-      "duration_ms": 382026,
-      "name": "Zen Garden of the Soul Part III - IV",
-      "url": "https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ"
+      "duration_ms": 153706,
+      "name": "Interlude II",
+      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D"
-      },
-      "artists": [
-        {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
-        }
-      ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise",
-      "url": "https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Valley In The Clouds",
         "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 215666,
       "name": "Valley In The Clouds",
       "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D"
+      },
+      "artists": [
+        {
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+        }
+      ],
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise",
+      "url": "https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 332786,
+      "name": "Living Your Ending",
+      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Missa Gaia - Earth Mass",
         "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Quiet Joy / Domestic Peace",
         "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 332786,
-      "name": "Living Your Ending",
-      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
         "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 455333,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 141613,
+      "name": "Zen Garden of the Soul Part I",
+      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1211,38 +1227,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
       "artists": [
         {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
         }
       ],
-      "duration_ms": 141613,
-      "name": "Zen Garden of the Soul Part I",
-      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
-      },
-      "artists": [
-        {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
-        },
-        {
-          "name": "Jan Akkerman",
-          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
-        }
-      ],
-      "duration_ms": 720426,
-      "name": "Silmarillion",
-      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
       "artists": [
         {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+        },
+        {
+          "name": "Jan Akkerman",
+          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+      "duration_ms": 720426,
+      "name": "Silmarillion",
+      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Crystal Petals",
-      "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Glide/Star Gazer",
         "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
@@ -1379,18 +1363,34 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
       "artists": [
         {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
         }
       ],
-      "duration_ms": 249960,
-      "name": "Lifeforce Celebration",
-      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
+      "duration_ms": 200080,
+      "name": "Crystal Petals",
+      "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Schoener, Eberhard: Meditation",
+        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
+      },
+      "artists": [
+        {
+          "name": "Eberhard Schoener",
+          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
+        }
+      ],
+      "duration_ms": 1049000,
+      "name": "Meditation: I. Part I",
+      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Schoener, Eberhard: Meditation",
-        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
       "artists": [
         {
-          "name": "Eberhard Schoener",
-          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
         }
       ],
-      "duration_ms": 1049000,
-      "name": "Meditation: I. Part I",
-      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+      "duration_ms": 249960,
+      "name": "Lifeforce Celebration",
+      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
     },
     {
       "added_at": "2023-08-18 14:02:54",

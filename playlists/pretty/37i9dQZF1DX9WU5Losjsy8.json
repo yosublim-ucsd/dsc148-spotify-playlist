@@ -1,6 +1,6 @@
 {
   "description": "Ein Prosit der Gem\u00fctlichkeit",
-  "num_followers": 428288,
+  "num_followers": 428305,
   "original_name": "Wiesn Party 2024",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,18 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Pyrotechnik",
-        "url": "https://open.spotify.com/album/1co3KxwhOSQRoJcJepGElm"
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
       },
       "artists": [
         {
-          "name": "Balkonultra",
-          "url": "https://open.spotify.com/artist/244Mbyb5jTFQa0iT8f0ihz"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        },
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
         }
       ],
-      "duration_ms": 177548,
-      "name": "Pyrotechnik",
-      "url": "https://open.spotify.com/track/0qZ3G41U3JOIPGRoGMdaLP"
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -315,18 +307,26 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+        "name": "Pyrotechnik",
+        "url": "https://open.spotify.com/album/1co3KxwhOSQRoJcJepGElm"
       },
       "artists": [
         {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+          "name": "Balkonultra",
+          "url": "https://open.spotify.com/artist/244Mbyb5jTFQa0iT8f0ihz"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+      "duration_ms": 177548,
+      "name": "Pyrotechnik",
+      "url": "https://open.spotify.com/track/0qZ3G41U3JOIPGRoGMdaLP"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
         "name": "Tag X (Geiles Leben Edition)",
         "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -895,6 +895,38 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2024-10-11 07:55:07",
+      "album": {
         "name": "Lea",
         "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
@@ -919,22 +951,6 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
         "name": "Ouzo",
         "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 274914,
       "name": "Ouzo",
       "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
-    },
-    {
-      "added_at": "2024-10-11 07:55:07",
-      "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
     },
     {
       "added_at": "2024-10-11 07:55:07",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2024-10-11 07:55:07",
       "album": {
-        "name": "Mut zur Katastrophe (Gold Edition)",
-        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
+        "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
+        "url": "https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd"
       },
       "artists": [
         {
-          "name": "Kerstin Ott",
-          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
+          "name": "MaxUhu",
+          "url": "https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V"
+        },
+        {
+          "name": "Bangermin",
+          "url": "https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ"
         }
       ],
-      "duration_ms": 226133,
-      "name": "Regenbogenfarben",
-      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
+      "duration_ms": 201859,
+      "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
+      "url": "https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD"
     }
   ],
   "unique_name": "Wiesn Party 2024",

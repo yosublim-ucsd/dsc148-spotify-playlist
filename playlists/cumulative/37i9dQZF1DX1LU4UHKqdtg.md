@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-1,233 songs - 2 day 18 hr 15 min
+1,235 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Air](https://open.spotify.com/track/0vOG7sgElxsfQyJvRs4kSG) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre4 : Air>](https://open.spotify.com/album/63TxL3GOqpzcFY4LkeNXoB) | 2:27 | 2024-05-10 | 2024-06-14 |
 | [Alcohol\-Free \(English ver.\)](https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:30 | 2023-11-22 | 2024-01-19 |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-14 | 2024-08-07 |
-| [Algorithm](https://open.spotify.com/track/26z9YaukqS3xtQm2fhm4UV) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Algorithm](https://open.spotify.com/album/2jvfjweOGDWg2P8VuPCp4G) | 2:27 | 2024-08-27 |  |
+| [Algorithm](https://open.spotify.com/track/26z9YaukqS3xtQm2fhm4UV) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Algorithm](https://open.spotify.com/album/2jvfjweOGDWg2P8VuPCp4G) | 2:27 | 2024-08-27 | 2024-10-17 |
 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 | 2022-05-24 | 2022-07-21 |
 | [All About You](https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[All About You\]](https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs) | 3:38 | 2022-12-06 | 2023-02-22 |
 | [All Day](https://open.spotify.com/track/44dD5PYO7ZM6SiM8tjhawx) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [All Day](https://open.spotify.com/album/3PGMnYo3uTCroKf64s8RHm) | 2:27 | 2024-07-19 | 2024-08-21 |
@@ -223,6 +223,7 @@
 | [Colors](https://open.spotify.com/track/1e2XrDoGVuYjqKS4DJaLeE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Colors](https://open.spotify.com/album/0FJRcswbQpaN4jHqqF44dF) | 3:13 | 2024-05-23 | 2024-07-10 |
 | [Combo](https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY) | 3:39 | 2024-09-03 |  |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 | 2024-07-10 |
+| [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 | 2024-10-17 |  |
 | [Command C+Me](https://open.spotify.com/track/1yJ0p6Mfdyom089rqjZD7X) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h) | [Command C+Me](https://open.spotify.com/album/6rFPJ5ZjkeWV5z5VNzD6gw) | 2:51 | 2023-11-28 | 2023-12-20 |
 | [coNEXTion \(Age of Light\)](https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [coNEXTion \(Age of Light\) \- SM STATION : NCT LAB](https://open.spotify.com/album/4Q1QbnNAgUGq4glyv7dAXn) | 3:46 | 2022-03-20 | 2022-06-21 |
 | [CONNECT](https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [CONNECT](https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR) | 3:11 | 2024-05-16 | 2024-07-24 |
@@ -816,6 +817,7 @@
 | [REBIRTH](https://open.spotify.com/track/7aQSpk1UJBEXNkGw1duIjs) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [REBIRTH](https://open.spotify.com/album/3c8T5hoHfAv938hHCLaWdB) | 2:58 | 2024-07-30 | 2024-10-11 |
 | [Redlight](https://open.spotify.com/track/1YUQeCQyj8sNKNkFjxweTo) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Redlight](https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn) | 3:22 | 2022-11-10 | 2023-01-25 |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-15 | 2024-03-20 |
+| [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-17 |  |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-11-11 |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-29 |  |
 | [REVERSE \- Drama Edit](https://open.spotify.com/track/6vcNwgGAmINOsAznFM46SK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE \(Drama Edit\)](https://open.spotify.com/album/5ru6dS6Mu7LL1RfflP3Sy6) | 1:25 | 2024-07-09 | 2024-08-09 |

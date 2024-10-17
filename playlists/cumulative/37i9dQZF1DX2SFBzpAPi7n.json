@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Zuka(\uc8fc\uce74)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: CNBLUE(\uc528\uc5d4\ube14\ub8e8)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 258420,
       "name": "A Long Dream \uae34 \uafc8",
       "url": "https://open.spotify.com/track/0h5XgxN8lwqFCZXyGSCRch"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "A Sleepless Night",
+      "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
     },
     {
       "album": {
@@ -6584,7 +6602,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 212774,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
@@ -7554,6 +7572,24 @@
       "duration_ms": 192276,
       "name": "Next episode (with Choi Jung Hoon of JANNABI)",
       "url": "https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV"
+    },
+    {
+      "album": {
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205571,
+      "name": "Night before the end",
+      "url": "https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc"
     },
     {
       "album": {
@@ -11652,7 +11688,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-17",
       "duration_ms": 190784,
       "name": "Time",
       "url": "https://open.spotify.com/track/3SfryNlBaUld6yNcpUxzpS"

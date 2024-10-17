@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10192,
+  "num_followers": 10191,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "HIPNOZA",
+        "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
+      },
+      "artists": [
+        {
+          "name": "NIKO\u015a",
+          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
+        }
+      ],
+      "duration_ms": 194471,
+      "name": "HIPNOZA",
+      "url": "https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Nim Zajdzie S\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 147109,
       "name": "Nim Zajdzie S\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "HIPNOZA",
-        "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
-      },
-      "artists": [
-        {
-          "name": "NIKO\u015a",
-          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
-        }
-      ],
-      "duration_ms": 194471,
-      "name": "HIPNOZA",
-      "url": "https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "M\u0141ODY PADEREWSKI",
-        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "M\u0141ODY PADEREWSKI",
-      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Inny \u015awiat",
         "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "M\u0141ODY PADEREWSKI",
+        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "M\u0141ODY PADEREWSKI",
+      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "K\u0141AMCZUCH",
         "url": "https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7"
       },
@@ -807,6 +807,34 @@
       "duration_ms": 161142,
       "name": "K\u0142amczuch",
       "url": "https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "KOMBINATORYKA",
+        "url": "https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL"
+      },
+      "artists": [
+        {
+          "name": "HA\u0141ASTRA",
+          "url": "https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Gicik A\u2019mane",
+          "url": "https://open.spotify.com/artist/4dwH9xSn1PJA7nQogOlger"
+        },
+        {
+          "name": "Phunk'ill",
+          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Przekaz",
+      "url": "https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -871,34 +899,6 @@
       "duration_ms": 195555,
       "name": "ZERO SNU",
       "url": "https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "KOMBINATORYKA",
-        "url": "https://open.spotify.com/album/6pEdsCNTjZ0UODB0KdAnHL"
-      },
-      "artists": [
-        {
-          "name": "HA\u0141ASTRA",
-          "url": "https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm"
-        },
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "Gicik A\u2019mane",
-          "url": "https://open.spotify.com/artist/4dwH9xSn1PJA7nQogOlger"
-        },
-        {
-          "name": "Phunk'ill",
-          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Przekaz",
-      "url": "https://open.spotify.com/track/42QXTFTKlka5XAFZVHpc3d"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "duration_ms": 155954,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "SQNHEAD",
         "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
-      },
-      "artists": [
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "Mjonszu",
-          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
-        }
-      ],
-      "duration_ms": 155954,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
     },
     {
       "added_at": "2024-02-27 08:21:33",

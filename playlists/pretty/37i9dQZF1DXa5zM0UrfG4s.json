@@ -1,6 +1,6 @@
 {
   "description": "ble det en hvit sommer?",
-  "num_followers": 112154,
+  "num_followers": 112163,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Rundt neste sving",
-      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Da vi var to",
         "url": "https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 187790,
       "name": "Da vi var to",
       "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
@@ -771,34 +787,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+        "name": "Naboen har operert kona si",
+        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
         }
       ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
-        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
-      },
-      "artists": [
-        {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
-        }
-      ],
-      "duration_ms": 266293,
-      "name": "Fjellrypa",
-      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+      "duration_ms": 150624,
+      "name": "Naboen har operert kona si",
+      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
+        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+      },
+      "artists": [
+        {
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+        }
+      ],
+      "duration_ms": 266293,
+      "name": "Fjellrypa",
+      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Naboen har operert kona si",
-        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "Naboen har operert kona si",
-      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
       },
@@ -1031,6 +1011,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Min psykolog",
         "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
       },
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1095,6 +1095,22 @@
       "duration_ms": 154951,
       "name": "Partyjoik",
       "url": "https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1203,42 +1219,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "H\u00e5per du er lykkelig n\u00e5",
-        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
-      },
-      "artists": [
-        {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        },
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "H\u00e5per du er lykkelig n\u00e5",
-      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
       },
@@ -1255,6 +1235,22 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
+        "url": "https://open.spotify.com/album/7zam9UpRx0iBlvHsRJ9dld"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 157937,
+      "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
+      "url": "https://open.spotify.com/track/2RXphY5aZVR5SSbkbwXrPh"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

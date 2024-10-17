@@ -2,9 +2,9 @@
 
 ### [This Is Young Thug](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WaFyg)
 
-> This Is Young Thug\. Los temas esenciales, todos en una lista.
+> This is Young Thug\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 51 min
+102 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 | 2023-06-07 | 2024-09-20 |
 | [Day Before \(with Mac Miller\)](https://open.spotify.com/track/2eYsZ2JEq63Q0S8LQVscBm) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:15 | 2023-06-07 | 2023-10-11 |
 | [Diamonds Dancing \(feat\. Travis Scott\)](https://open.spotify.com/track/7uZqvqXzzYMKrexKxdcGmd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 4:02 | 2024-05-11 | 2024-05-12 |
-| [die in california \(feat\. Gunna, Young Thug & Landon Barker\)](https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:27 | 2023-06-07 |  |
+| [die in california \(feat\. Gunna, Young Thug & Landon Barker\)](https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:27 | 2023-06-07 | 2024-10-17 |
 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 | 2023-06-07 |  |
 | [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2023-06-07 |  |
 | [Dope Boy \(with Nigo\)](https://open.spotify.com/track/0lkuxJh3uo9gnAEz31XX5w) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Dope Boy](https://open.spotify.com/album/1UF8w8b1jF5NEAmjZpw5fC) | 1:32 | 2024-09-29 |  |
@@ -108,6 +108,7 @@
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2023-06-07 |  |
 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 | 2023-06-24 | 2023-12-14 |
 | [With That \(feat\. Duke\)](https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Duke](https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:22 | 2024-06-22 | 2024-10-12 |
+| [With Them](https://open.spotify.com/track/0tISnxqgVmxqhVghsTi2Rr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:17 | 2024-10-17 |  |
 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 | 2023-06-07 |  |
 
 \*This playlist was first scraped on 2023-06-08. Prior content cannot be recovered.

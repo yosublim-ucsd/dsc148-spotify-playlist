@@ -1,13 +1,45 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. ",
-  "num_followers": 1377069,
+  "num_followers": 1377211,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwK3sQAAAADV47KB4IC7QhIJfzdfA2Ts",
+  "snapshot_id": "ZxBw6wAAAAAjarKmqpRtJQhxGXuwzF8g",
   "tracks": [
+    {
+      "added_at": "2024-10-17 02:05:31",
+      "album": {
+        "name": "Come Play (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Come Play (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
+    },
     {
       "added_at": "2024-10-06 16:15:45",
       "album": {

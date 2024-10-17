@@ -1,6 +1,6 @@
 {
   "description": "Boss music for boss people. Cover: Seb Lowe",
-  "num_followers": 121796,
+  "num_followers": 121802,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Midnight Butterflies",
-        "url": "https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Does Only God Know That We're Lonely?",
-      "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "No Direction",
         "url": "https://open.spotify.com/album/6cMk1iYh9lL6ISxOTKNHis"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 191000,
       "name": "No Direction",
       "url": "https://open.spotify.com/track/1T3OWAvkegEBLn9YnzXGQq"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Midnight Butterflies",
+        "url": "https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Does Only God Know That We're Lonely?",
+      "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Get Away from the Feeling",
-        "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
-      },
-      "artists": [
-        {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
-        }
-      ],
-      "duration_ms": 230994,
-      "name": "You Change with the Seasons",
-      "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 229165,
       "name": "Discount De Kooning (Last One Standing)",
       "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Get Away from the Feeling",
+        "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "duration_ms": 230994,
+      "name": "You Change with the Seasons",
+      "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Breadline",
-        "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 194652,
-      "name": "Breadline",
-      "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "Mr & Mrs Human Race",
         "url": "https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 175853,
       "name": "Mr & Mrs Human Race",
       "url": "https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Breadline",
+        "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 194652,
+      "name": "Breadline",
+      "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Under The Table",
-        "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
-      },
-      "artists": [
-        {
-          "name": "Balancing Act",
-          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "Cry at the Moon",
         "url": "https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 187586,
       "name": "Cry at the Moon",
       "url": "https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Under The Table",
+        "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
+      },
+      "artists": [
+        {
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        },
+        {
+          "name": "Fears",
+          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
+        }
+      ],
+      "duration_ms": 231394,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
         "name": "Western Approaches",
         "url": "https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq"
       },
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        },
-        {
-          "name": "Fears",
-          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
-        }
-      ],
-      "duration_ms": 231394,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "10 For The People",
         "url": "https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 252787,
       "name": "Better Day",
       "url": "https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "City Streets",
+        "url": "https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "City Streets",
+      "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "City Streets",
-        "url": "https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk"
-      },
-      "artists": [
-        {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "City Streets",
-      "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "Time Of Your Life",
         "url": "https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 187566,
       "name": "Time Of Your Life",
       "url": "https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
-        "name": "Fear Life For A Lifetime",
-        "url": "https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
+        "name": "Fear Life For A Lifetime",
+        "url": "https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
         "name": "wishful thinking",
         "url": "https://open.spotify.com/album/4SHLpze4dbjfYiLJIYypiW"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Speak Up",
-        "url": "https://open.spotify.com/album/6AkqY69DtCP20y2yd6YmZG"
-      },
-      "artists": [
-        {
-          "name": "The Coronas",
-          "url": "https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1"
-        }
-      ],
-      "duration_ms": 216676,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/7HY1G4kU9fqjjlHJIMgbCt"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "Anxiety Replacement Therapy",
         "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 186083,
       "name": "Sertraline",
       "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/6AkqY69DtCP20y2yd6YmZG"
+      },
+      "artists": [
+        {
+          "name": "The Coronas",
+          "url": "https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1"
+        }
+      ],
+      "duration_ms": 216676,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/7HY1G4kU9fqjjlHJIMgbCt"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "Stray",
-        "url": "https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "If You Wanna",
         "url": "https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 168994,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Stray",
+        "url": "https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1"
     },
     {
       "added_at": "2024-10-06 12:52:08",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-10-06 12:52:08",
       "album": {
-        "name": "JIMSHARK",
-        "url": "https://open.spotify.com/album/1eJYAwwzu3vRKBL9HtsRg9"
-      },
-      "artists": [
-        {
-          "name": "The Mercians",
-          "url": "https://open.spotify.com/artist/0kz8fYoOzRWWWBVjyI98mE"
-        }
-      ],
-      "duration_ms": 164346,
-      "name": "JIMSHARK",
-      "url": "https://open.spotify.com/track/5shnA8KeSeNlHs3RS1NUBi"
-    },
-    {
-      "added_at": "2024-10-06 12:52:08",
-      "album": {
         "name": "Yesterday Is Gone",
         "url": "https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 196525,
       "name": "Yesterday Is Gone",
       "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"
+    },
+    {
+      "added_at": "2024-10-06 12:52:08",
+      "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 183262,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh"
     }
   ],
   "unique_name": "Proper Belters",

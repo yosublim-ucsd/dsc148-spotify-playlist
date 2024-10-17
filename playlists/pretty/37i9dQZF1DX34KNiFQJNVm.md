@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Murilo Huff com Ana Castela, Tierry e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944,045 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,308 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

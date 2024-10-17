@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,762 likes - 51 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,777 likes - 51 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 43 | [Be Enthroned \(Live\)](https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 8:05 |
 | 44 | [Graves into Gardens](https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 7:33 |
 | 45 | [This Is Amazing Grace](https://open.spotify.com/track/6ypvZnpX4w9B1VdgmjlhjS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 7:32 |
-| 46 | [Reason To Praise \(Live\)](https://open.spotify.com/track/4Z9hkzTYQnKYljePcQsXUf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 8:30 |
-| 47 | [Gravity \(Instrumental\)](https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 5:14 |
-| 48 | [Isabelline \(Interlude\)](https://open.spotify.com/track/0GGGslbmFUpXpfGmdT5Y80) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 1:19 |
-| 49 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
+| 46 | [Gravity \(Instrumental\)](https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 5:14 |
+| 47 | [Reason To Praise \(Live\)](https://open.spotify.com/track/4Z9hkzTYQnKYljePcQsXUf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 8:30 |
+| 48 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
+| 49 | [Isabelline \(Interlude\)](https://open.spotify.com/track/0GGGslbmFUpXpfGmdT5Y80) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 1:19 |
 | 50 | [Nothing Else \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0Kt7R8V7dWWQTQXvTI0xTL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 8:46 |
 | 51 | [We Dance \(Live\)](https://open.spotify.com/track/7qF0lmgrcxedPRdTSERDxo) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 4:41 |
 
-Snapshot ID: `ZwxfAAAAAABqtWbNRMFnGL5ZxSdil27e`
+Snapshot ID: `Zw2wgAAAAADtyG7SWFbnPb89zUTyx/rt`

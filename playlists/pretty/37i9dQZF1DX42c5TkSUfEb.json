@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 771340,
+  "num_followers": 771538,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Street Bangerz Volume 6: Playhouse",
-        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
-      },
-      "artists": [
-        {
-          "name": "Poldoore",
-          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "But I Do",
-      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Gee Whiz But This Is a Lonesome Town",
         "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 264826,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Street Bangerz Volume 6: Playhouse",
+        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
+      },
+      "artists": [
+        {
+          "name": "Poldoore",
+          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "But I Do",
+      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "\u00c0 TOUS LES B\u00c2TARDS",
-        "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "\u00c0 TOUS LES B\u00c2TARDS",
+        "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 194280,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
+      },
+      "artists": [
+        {
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 164520,
       "name": "Le coeur nous anime",
       "url": "https://open.spotify.com/track/2ZoTMDhc30xptF6GntTLnC"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
-      },
-      "artists": [
-        {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Toujours des fleurs",
-        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 281757,
-      "name": "Mon idole",
-      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Toujours des fleurs",
+        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 281757,
+      "name": "Mon idole",
+      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -935,22 +935,18 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Sonatine",
-        "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
+        "name": "Come on By",
+        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
       },
       "artists": [
         {
-          "name": "Chilla",
-          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Sonatine",
-      "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
+      "duration_ms": 205093,
+      "name": "Come on By",
+      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -971,18 +967,22 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Come on By",
-        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
+        "name": "Sonatine",
+        "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Chilla",
+          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 205093,
-      "name": "Come on By",
-      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
+      "duration_ms": 233666,
+      "name": "Sonatine",
+      "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "SANTS",
-        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Froissart",
-          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
-        }
-      ],
-      "duration_ms": 135040,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 204013,
       "name": "\u00c0 quoi pensait-elle",
       "url": "https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "SANTS",
+        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+        }
+      ],
+      "duration_ms": 135040,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
     },
     {
       "added_at": "2024-10-04 15:42:51",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-04 15:42:51",
       "album": {
-        "name": "Things I've Seen",
-        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
-      },
-      "artists": [
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
-    },
-    {
-      "added_at": "2024-10-04 15:42:51",
-      "album": {
         "name": "My Name",
         "url": "https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 307333,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
+    },
+    {
+      "added_at": "2024-10-04 15:42:51",
+      "album": {
+        "name": "Things I've Seen",
+        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
+      },
+      "artists": [
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
     },
     {
       "added_at": "2024-10-04 15:42:51",

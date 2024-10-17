@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 36489,
+  "num_followers": 36524,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-10-12 05:47:24",
       "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
+    },
+    {
+      "added_at": "2024-10-12 05:47:24",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 163790,
       "name": "wande's bop (feat. SPINALL)",
       "url": "https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g"
-    },
-    {
-      "added_at": "2024-10-12 05:47:24",
-      "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2024-10-12 05:47:24",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-12 05:47:24",
       "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-10-12 05:47:24",
-      "album": {
         "name": "Zormizor (Asabone)",
         "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 184615,
       "name": "Zormizor (Asabone)",
       "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
+    },
+    {
+      "added_at": "2024-10-12 05:47:24",
+      "album": {
+        "name": "Small Money",
+        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Small Money",
+      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
     },
     {
       "added_at": "2024-10-12 05:47:24",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-10-12 05:47:24",
       "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2024-10-12 05:47:24",
-      "album": {
         "name": "Otilo (Izz Gone)",
         "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+    },
+    {
+      "added_at": "2024-10-12 05:47:24",
+      "album": {
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "added_at": "2024-10-12 05:47:24",

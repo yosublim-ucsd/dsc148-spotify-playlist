@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,406 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,439 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 68 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
 | 69 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
 | 70 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 |
-| 71 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
-| 72 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |
+| 71 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |
+| 72 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
 | 73 | [Hide Away](https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Hide Away](https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs) | 3:32 |
 | 74 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |
 | 75 | [Gremlins](https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Gremlins](https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ) | 3:37 |
