@@ -1,12 +1,12 @@
 {
-  "description": "This is The Cure. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 549894,
+  "description": "This is The Cure. Tutti i brani in un'unica playlist.",
+  "num_followers": 550052,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAAAlUb5S9PY2mdRJjeqBqYdy",
+  "snapshot_id": "Zw8CAAAAAAAsjfHH46NwWv+A/Fe7CuZg",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 271293,
       "name": "Push",
       "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "To Wish Impossible Things",
-      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 399866,
       "name": "One Hundred Years",
       "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "To Wish Impossible Things",
+      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "Perfect Girl",
-      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4:13 Dream",
         "url": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 376586,
       "name": "Underneath The Stars",
       "url": "https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
     },
     {
       "added_at": null,

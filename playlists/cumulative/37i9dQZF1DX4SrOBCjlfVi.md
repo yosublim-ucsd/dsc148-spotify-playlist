@@ -4,7 +4,7 @@
 
 > All the New Joints featuring BigXthaPlug, GloRilla, Rod Wave and more!
 
-6,173 songs - 11 day 22 hr 11 min
+6,174 songs - 11 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,6 +1382,7 @@
 | [Did That](https://open.spotify.com/track/2aD2w8P50xO0DoFbTmaXVE) | [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Did That](https://open.spotify.com/album/6TSNMixKZ2OnJbTX2O4Bnb) | 1:55 | 2022-03-18 | 2022-03-26 |
 | [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-05 | 2023-05-13 |
 | [Didn't Come To Play \(with Quavo\)](https://open.spotify.com/track/25QZIoCdgSWSn547PTvB5V) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Didn't Come To Play \(with Quavo\)](https://open.spotify.com/album/6FdFMoizXJxTepfoVOdHrN) | 2:17 | 2023-12-01 | 2023-12-09 |
+| [Die 4 Anything](https://open.spotify.com/track/0Drcr0fLRnNSirV45hXSVL) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Die 4 Anything](https://open.spotify.com/album/1e8SHjjt5fxhFXLhjiVie3) | 1:49 | 2024-10-11 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 | 2022-05-20 |
 | [Die Rich II](https://open.spotify.com/track/1cBQcuQi2EM20xTJR3aKmY) | [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Die Rich II](https://open.spotify.com/album/6HqzewzvKOXGdsMMlzxpPe) | 2:33 | 2022-11-11 | 2022-11-19 |
 | [Die Today](https://open.spotify.com/track/2AVrcU1B8cpy66ycCnkYvv) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Die Today](https://open.spotify.com/album/5mkPnpc6Ueoa5hdb1aXYmY) | 2:58 | 2023-09-01 | 2023-09-09 |

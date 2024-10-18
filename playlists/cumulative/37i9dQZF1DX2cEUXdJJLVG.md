@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-375 songs - 22 hr 20 min
+376 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,12 +373,13 @@
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 | 2023-10-05 |
 | [What Makes You Dance \- Vocal Version](https://open.spotify.com/track/25c0wQxy5TZxkqESkiqzik) | [Misto Kay](https://open.spotify.com/artist/0rsQVrlGriu6AjSiSu0llW), [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2) | [What Makes You Dance \(Vocal Version\)](https://open.spotify.com/album/4IsLiLDHUzUMB8UVN31IvE) | 5:00 | 2024-09-05 |  |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2024-01-18 |  |
-| [When It's Over](https://open.spotify.com/track/2ucmSB9k1pRlzmiEcZctiy) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W) | [When It's Over](https://open.spotify.com/album/3xVQrC9JZJiUF6EHVkLVbr) | 2:33 | 2024-03-21 |  |
+| [When It's Over](https://open.spotify.com/track/2ucmSB9k1pRlzmiEcZctiy) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W) | [When It's Over](https://open.spotify.com/album/3xVQrC9JZJiUF6EHVkLVbr) | 2:33 | 2024-03-21 | 2024-10-18 |
 | [Where To Go](https://open.spotify.com/track/6xKKBbIWCnWB0SYcFrNCGY) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Dream Big](https://open.spotify.com/album/4wWjPHLH59SIBcjKj48FED) | 3:05 | 2024-10-10 |  |
 | [Without You](https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 2:26 | 2024-05-31 |  |
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 | 2024-03-21 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 | 2024-09-27 |
 | [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 | 2024-07-04 |  |
+| [You're Home](https://open.spotify.com/track/3kfalsko8zp5Mvt0sPMuvL) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [You're Home](https://open.spotify.com/album/4ynSL73wIneH2Z9jP2SGgG) | 2:08 | 2024-10-17 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2024-01-23 |
 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-01-22 | 2024-04-19 |
 | [Young Hearts \- Polo & Pan Remix](https://open.spotify.com/track/3mxeFg1uMVSOWZtYd5glBV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/2wMAaNgsWO0egLsDGdNsf9) | 3:29 | 2024-04-18 |  |

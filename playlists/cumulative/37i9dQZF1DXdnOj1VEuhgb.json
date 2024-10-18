@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak:  Aksan x UZI",
   "name": "NKVT",
   "tracks": [
     {
@@ -4265,6 +4265,28 @@
     },
     {
       "album": {
+        "name": "Kan\u0131tland\u0131k",
+        "url": "https://open.spotify.com/album/17lncZtNv43ABznkL46Eia"
+      },
+      "artists": [
+        {
+          "name": "Aksan",
+          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kan\u0131tland\u0131k",
+      "url": "https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1"
+    },
+    {
+      "album": {
         "name": "Kapak Olsun",
         "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
       },
@@ -4930,7 +4952,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 172413,
       "name": "K\u0131rm\u0131z\u0131 Re\u00e7ete",
       "url": "https://open.spotify.com/track/3CBTM42v5aAd85RND86MlY"

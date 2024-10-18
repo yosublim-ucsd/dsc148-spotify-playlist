@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB-dGT7KaWKZCA\">Hayden Thorpe</a>",
-  "num_followers": 67441,
+  "num_followers": 67455,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQFzR9n5s8ObRqi7dW9A0LoxQZaYMU",
+  "snapshot_id": "AAAQGEOrdwiG0W4FCs7OfG1d+KKg4dNO",
   "tracks": [
+    {
+      "added_at": "2024-10-17 08:21:08",
+      "album": {
+        "name": "Waxwing",
+        "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 215369,
+      "name": "Waxwing",
+      "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
+    },
     {
       "added_at": "2024-10-16 14:14:29",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: The Motans",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Theo Rose",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Prima",
+        "url": "https://open.spotify.com/album/6LxdybTWDkQE9uoMdhI7GX"
+      },
+      "artists": [
+        {
+          "name": "Yuka",
+          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Prima",
+      "url": "https://open.spotify.com/track/7EFYXFaEUy3zDdOwswRABH"
+    },
+    {
+      "album": {
         "name": "Puerto Rico",
         "url": "https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 139805,
       "name": "RiTiTi",
       "url": "https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl"

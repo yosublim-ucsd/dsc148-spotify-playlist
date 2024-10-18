@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Immanuel Wilkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,090 likes - 100 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,137 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 91 | [The Otter Creek Incident](https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Remembrance](https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS) | 6:28 |
 | 92 | [Get Lit](https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get Lit](https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde) | 3:26 |
 | 93 | [Shutdown Stomp](https://open.spotify.com/track/2QUaxTbNwiPr2S3YLlkJ4v) | [Jenny Scheinman](https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Shutdown Stomp](https://open.spotify.com/album/1Yabluqjz0tK724zqK7Z7S) | 4:26 |
-| 94 | [I Wanna Be With You](https://open.spotify.com/track/1wrMpq7Oa9ZpXueCLfe2rI) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Becca Stevens](https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk) | [I Wanna Be With You](https://open.spotify.com/album/3TFV1GLmldphgHZRX22Vca) | 5:11 |
+| 94 | [I Wanna Be With You](https://open.spotify.com/track/1wrMpq7Oa9ZpXueCLfe2rI) | [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Becca Stevens](https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk) | [I Wanna Be With You](https://open.spotify.com/album/3TFV1GLmldphgHZRX22Vca) | 5:11 |
 | 95 | [May 4th](https://open.spotify.com/track/6WnUUjFHc0NLFPNnvxH4Id) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Andrew Cyrille](https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Breaking the Shell](https://open.spotify.com/album/7imWOWOlNlyNaKvOeRFA4G) | 3:10 |
 | 96 | [Libations: KwaKhangelamankengana](https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [uNomkhubulwane](https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw) | 6:27 |
 | 97 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |

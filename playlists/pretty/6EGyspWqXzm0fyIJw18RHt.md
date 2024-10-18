@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 28 songs - 1 hr 36 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 26 | [Riboflavin\-Flavored, Non\-Carbonated, Polyunsaturated Blood](https://open.spotify.com/track/1EIcNH1zUEr7sWCNK8Q0km) | [Don Hinson & The Rigamorticians](https://open.spotify.com/artist/6GNXV11gvYYegW2APslNlN) | [Monster Dance Party](https://open.spotify.com/album/4Ucm5B1SXAUCRuuBFQUPWE) | 2:39 |
 | 27 | [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 |
 | 28 | [Spirit Halloween Theme Song](https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 1:43 |
+| 29 | [Rave in the Grave](https://open.spotify.com/track/6Sf2YqGzNmVfSNpLFWuYbz) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Rave in the Grave](https://open.spotify.com/album/2XPegg8qwhY3CHGR4n812W) | 2:42 |
+| 30 | [Surfin' Spooks](https://open.spotify.com/track/2R8t1qlB2wMiWwho1u3eYq) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 1:33 |
 
-Snapshot ID: `AAAAIcTBXZJbLHStGnQPLifh2MbUVAGg`
+Snapshot ID: `AAAAI67XvOGyn/1CxdJARbpBUmYkH6YR`

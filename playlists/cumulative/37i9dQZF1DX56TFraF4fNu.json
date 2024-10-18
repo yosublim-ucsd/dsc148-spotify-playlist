@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: Ali Aka Mind, Penyair",
+  "description": "Dosis musical para disfrutar el momento. Foto: Junior Zamora",
   "name": "Parchadito",
   "tracks": [
     {
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 160000,
       "name": "Saltas Por Mi",
       "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
@@ -4020,6 +4020,24 @@
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
+        "name": "Joyas Del Barrio",
+        "url": "https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175914,
+      "name": "VALLADO 3",
+      "url": "https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f"
     },
     {
       "album": {

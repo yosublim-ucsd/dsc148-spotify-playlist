@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "A hand-picked selection for an extraordinary palette. Cover: Public Service Broadcasting ",
+  "description": "A hand-picked selection for an extraordinary palette. Cover: Bon Iver",
   "name": "The Listening Post",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 208626,
       "name": "Breathe Round Corners",
       "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
@@ -544,6 +544,28 @@
       "duration_ms": 260133,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X"
+    },
+    {
+      "album": {
+        "name": "Cleopatras",
+        "url": "https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "Cleopatras",
+      "url": "https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ"
     },
     {
       "album": {
@@ -2300,7 +2322,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 285835,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349"
@@ -2635,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "album": {
         "name": "SHHHHHHH!",
         "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
       },
@@ -2682,7 +2722,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 187401,
       "name": "Towards The Dawn",
       "url": "https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ"
@@ -2722,6 +2762,24 @@
       "duration_ms": 191286,
       "name": "U R MINE",
       "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
+    },
+    {
+      "album": {
+        "name": "Under the Weight",
+        "url": "https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh"
+      },
+      "artists": [
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Under the Weight",
+      "url": "https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF"
     },
     {
       "album": {

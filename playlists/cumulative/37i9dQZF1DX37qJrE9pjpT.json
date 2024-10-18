@@ -1879,6 +1879,32 @@
     },
     {
       "album": {
+        "name": "MAPENZI TU",
+        "url": "https://open.spotify.com/album/1LLECn8P5VqQvO7f6olacR"
+      },
+      "artists": [
+        {
+          "name": "Young Niggaz",
+          "url": "https://open.spotify.com/artist/1TzZK4QBLvCftx4t4DYxQE"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "young zillion the rapper",
+          "url": "https://open.spotify.com/artist/6Z43UUN4FMyXIdDbOWnq2R"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222641,
+      "name": "MAPENZI TU",
+      "url": "https://open.spotify.com/track/3KPcv7zoW0loqcNuy5IPEW"
+    },
+    {
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/5izjFJOMioHMQJQPDU6QWM"
       },
@@ -2022,7 +2048,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 163636,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/144nZKc5hqgdY5f0BoLP4r"
@@ -2212,7 +2238,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 101052,
       "name": "MoroBuzz - Lukobe",
       "url": "https://open.spotify.com/track/3rUPDCBgB7j0Ts2uQoffg7"
@@ -2238,6 +2264,28 @@
       "duration_ms": 120000,
       "name": "MoroBuzz - Masika",
       "url": "https://open.spotify.com/track/5yDbafnVIALOgWtQPRkKqf"
+    },
+    {
+      "album": {
+        "name": "MoroBuzz - Mazimbu",
+        "url": "https://open.spotify.com/album/2GdMcGrUYSWczZZO0EJCrK"
+      },
+      "artists": [
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        },
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "MoroBuzz - Mazimbu",
+      "url": "https://open.spotify.com/track/6wlpUAB45BBjIhSk4Yuayy"
     },
     {
       "album": {
@@ -2414,7 +2462,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 158470,
       "name": "MULA",
       "url": "https://open.spotify.com/track/4FQOEivzf0HHpkYzhf8Dz1"
@@ -2608,7 +2656,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 272195,
       "name": "NEW SCHUL CYPHER vol.2",
       "url": "https://open.spotify.com/track/0vKS7xHRrFnyPl6fzPUJIX"
@@ -2902,6 +2950,24 @@
       "duration_ms": 225351,
       "name": "Penzi La Bando",
       "url": "https://open.spotify.com/track/0SxZTwQeZ8v2o7Y6bH7KEX"
+    },
+    {
+      "album": {
+        "name": "Pisi",
+        "url": "https://open.spotify.com/album/3kGHJT8MZv7lKvghaDcoVc"
+      },
+      "artists": [
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Pisi",
+      "url": "https://open.spotify.com/track/0DDlGP9kex4sdfrMMCnm7W"
     },
     {
       "album": {

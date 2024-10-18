@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap var ventet på det her track  🥵  <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>  /<a href="spotify:track:2bFgjHMqGThTzlv6V94V5v">Har Hørt Dig</a>
+> dk rap og den vibe  <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a> på deluxe 💎
 
-244 songs - 10 hr 32 min
+246 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 | 2024-09-13 |
 | [MASKINEN](https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk) | 2:13 | 2024-02-22 | 2024-04-19 |
 | [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 | 2023-12-14 |
+| [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 | 2024-10-17 |  |
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 | 2023-12-14 |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |
 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-17 | 2024-06-22 |
@@ -177,6 +178,7 @@
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/6gGN8KHsJL5Yw9PunS8TA8) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/album/3pirHD0zqwlGkb0QS4UsIU) | 2:53 | 2024-02-15 | 2024-05-14 |
 | [Ousside \(feat\. Benny Jamz\)](https://open.spotify.com/track/7fwFV39b75w52PrBqM7OAT) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:53 | 2024-03-21 | 2024-04-19 |
 | [Palermo \(feat\. KESI\)](https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:43 | 2023-09-21 | 2023-12-14 |
+| [PASSES & PLEJES](https://open.spotify.com/track/0TmC1L3dxMPv9B2CNrSSWr) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/1jsKNmpMXAq6jIVLeqgTt8) | 2:20 | 2024-10-17 |  |
 | [Passport](https://open.spotify.com/track/0Z6qMxDDq3JL3Zqns9ANVM) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Passport](https://open.spotify.com/album/3UJdaVQNT58WUEGFEwqvm5) | 2:19 | 2024-01-18 | 2024-09-13 |
 | [Payback \(feat\. RH\)](https://open.spotify.com/track/01oiNNLfj1N5n8McYBq3kt) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Payback \(feat\. RH\)](https://open.spotify.com/album/77T0zKbTYx05Fcb5qIeFNB) | 2:29 | 2023-09-29 | 2024-04-05 |
 | [Poison Ivy](https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Poison Ivy](https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5) | 2:21 | 2024-03-07 | 2024-05-14 |

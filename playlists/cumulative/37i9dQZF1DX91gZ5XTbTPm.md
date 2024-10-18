@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Tee Grizzley
 
-934 songs - 1 day 19 hr 26 min
+935 songs - 1 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Detroit \(feat\. 42 Dugg\)](https://open.spotify.com/track/0YebffGPds68lEWzM8qruN) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Detroit \(feat\. 42 Dugg\)](https://open.spotify.com/album/6JcBaqDbyPZWj4IeKLzk8v) | 2:30 | 2024-08-23 | 2024-10-12 |
 | [DEVIL TO ATLANTA](https://open.spotify.com/track/6TTDF18Rqe5NsduseeLMyJ) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz) | [DEVIL TO ATLANTA](https://open.spotify.com/album/1qentj7pNGCKrmU2IQZZ5J) | 2:36 | 2024-05-10 | 2024-06-01 |
 | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/track/68hn4O7tjgp4ITx5dSpuNL) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7) | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/album/5ruuJ043cD6LUtzBP2kprc) | 2:36 | 2022-06-24 | 2022-10-15 |
+| [Die 4 Anything](https://open.spotify.com/track/0Drcr0fLRnNSirV45hXSVL) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Die 4 Anything](https://open.spotify.com/album/1e8SHjjt5fxhFXLhjiVie3) | 1:49 | 2024-10-11 |  |
 | [Different Bag](https://open.spotify.com/track/6cZljJ7RUqXVTUWZ16FR2e) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Been Havin](https://open.spotify.com/album/4qi1x43ZO0EGSUQQ8aPt02) | 3:22 | 2023-07-28 | 2023-09-16 |
 | [DILLA BAP](https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Somebody Up There Loves Me](https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE) | 3:07 | 2022-12-09 | 2023-01-21 |
 | [DIRTY NACHOS](https://open.spotify.com/track/5CU0ZVQKGyOeOIbuXDo6gr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [DIRTY NACHOS](https://open.spotify.com/album/0kim8RqcfUvU9CodYZLp9d) | 1:59 | 2024-02-09 | 2024-03-16 |

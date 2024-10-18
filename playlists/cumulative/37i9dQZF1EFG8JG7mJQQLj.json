@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217080,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc"
+    },
+    {
+      "album": {
         "name": "This Holiday",
         "url": "https://open.spotify.com/album/3SYNzzNRhQBNQgtfIopiyH"
       },
@@ -8614,6 +8632,24 @@
       "duration_ms": 136247,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/3fT6xqEkC1jm4mHjOyXbKw"
+    },
+    {
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/7mzYY4dNHM6exwuUhHBRZZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Up Children's Choir",
+          "url": "https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149969,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/1qUwV6QCa06WyvH89eeCW5"
     },
     {
       "album": {

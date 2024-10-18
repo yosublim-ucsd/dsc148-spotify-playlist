@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 9267,
+  "num_followers": 9271,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAAD7/Me0FsgXYgbLUvcBn1mZ",
+  "snapshot_id": "Zw8CAAAAAADDeX22zkSFlX0+jmz8Ri0h",
   "tracks": [
     {
       "added_at": null,
@@ -1483,6 +1483,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Karl Jenkins: Motets",
+        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Exsultate, jubilate",
+      "url": "https://open.spotify.com/track/4mqbR5rN3FhwW6PQC1VXdp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
       },
@@ -1524,41 +1548,25 @@
           "url": "https://open.spotify.com/artist/6RQi8sZbwBZbFtZ4TgRsw3"
         },
         {
-          "name": "Timothy Rhys-Evans",
-          "url": "https://open.spotify.com/artist/2u0pG2s2RyVzP9PgrGPLi4"
+          "name": "Gavin Horsley",
+          "url": "https://open.spotify.com/artist/4rxwDKSH8U6IupXBwqqj3W"
         },
         {
           "name": "Gary Kettel",
           "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Requiem: V. Confutatis",
-      "url": "https://open.spotify.com/track/7ClZQj7g08hFDNLc7naqqh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Karl Jenkins: Motets",
-        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+          "name": "Rupert Christie",
+          "url": "https://open.spotify.com/artist/3OhfPEMqoSXsxIqN04NJcd"
         },
         {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+          "name": "Timothy Rhys-Evans",
+          "url": "https://open.spotify.com/artist/2u0pG2s2RyVzP9PgrGPLi4"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Exsultate, jubilate",
-      "url": "https://open.spotify.com/track/4mqbR5rN3FhwW6PQC1VXdp"
+      "duration_ms": 287893,
+      "name": "Requiem: VII. Lacrimosa",
+      "url": "https://open.spotify.com/track/3Bw44lWmGB2HNk4UF85vxk"
     },
     {
       "added_at": null,

@@ -1,35 +1,155 @@
 {
-  "description": "La playlist au-del\u00e0 des genres. Photo : Oklou",
-  "num_followers": 82883,
+  "description": "La playlist au-del\u00e0 des genres. Photo : Foushe\u00e9",
+  "num_followers": 82884,
   "original_name": "La Cr\u00e8me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwjGUQAAAABvmxfn8OY4xHRw2PsJxRwq",
+  "snapshot_id": "ZxGI4AAAAACyG+diJ0lZCaidp6GAJB7W",
   "tracks": [
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+        "name": "Pointy Heights",
+        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 203945,
-      "name": "Everything is romantic featuring caroline polachek",
-      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Hole Erth",
+        "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "MAMIMAMI",
+        "url": "https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC"
+      },
+      "artists": [
+        {
+          "name": "Luidji",
+          "url": "https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp"
+        }
+      ],
+      "duration_ms": 115066,
+      "name": "MAMIMAMI",
+      "url": "https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "aggressive",
+        "url": "https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "aggressive",
+      "url": "https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 178981,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Jour 1596",
+        "url": "https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 190282,
+      "name": "Pour Your Heart Out",
+      "url": "https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Dafodil",
         "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
@@ -57,39 +177,27 @@
       "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Katana",
-        "url": "https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 178981,
-      "name": "Katana",
-      "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "family and friends",
-        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
-      },
-      "artists": [
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 176730,
-      "name": "family and friends",
-      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+      "duration_ms": 203945,
+      "name": "Everything is romantic featuring caroline polachek",
+      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
@@ -105,7 +213,7 @@
       "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Garmonbozia",
         "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
@@ -121,27 +229,23 @@
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Hole Erth",
-        "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
+        "name": "Winter Baby / New Jersey Blues",
+        "url": "https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
+      "duration_ms": 152770,
+      "name": "Winter Baby / New Jersey Blues",
+      "url": "https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
@@ -161,7 +265,7 @@
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "I Just Can't Be Alone (with Billy Lemos)",
         "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
@@ -181,23 +285,7 @@
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "MAMIMAMI",
-        "url": "https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC"
-      },
-      "artists": [
-        {
-          "name": "Luidji",
-          "url": "https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp"
-        }
-      ],
-      "duration_ms": 115066,
-      "name": "MAMIMAMI",
-      "url": "https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Ruby Rosary (feat. J. Cole)",
         "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
@@ -217,7 +305,7 @@
       "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
@@ -233,7 +321,7 @@
       "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Back Skin",
         "url": "https://open.spotify.com/album/29vQ9oiLyiDq43HFhslV6n"
@@ -249,7 +337,7 @@
       "url": "https://open.spotify.com/track/1CBU29WTDJcyNwtNq3iFa8"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
@@ -269,7 +357,7 @@
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Had Enough",
         "url": "https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
@@ -301,7 +389,7 @@
       "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Thank Goodness",
         "url": "https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh"
@@ -317,7 +405,7 @@
       "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
@@ -333,7 +421,7 @@
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
@@ -349,7 +437,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
@@ -369,7 +457,7 @@
       "url": "https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Wally",
         "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
@@ -385,7 +473,7 @@
       "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
@@ -401,7 +489,7 @@
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Half Alive",
         "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
@@ -417,7 +505,7 @@
       "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
@@ -433,27 +521,7 @@
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "graou",
         "url": "https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4"
@@ -469,7 +537,7 @@
       "url": "https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
@@ -489,7 +557,7 @@
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Moi",
         "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
@@ -509,7 +577,7 @@
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "\u00c0 la Hauteur",
         "url": "https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t"
@@ -529,7 +597,7 @@
       "url": "https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Satellite Business 2.0",
         "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
@@ -549,7 +617,7 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Kiss & Forget",
         "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
@@ -565,7 +633,7 @@
       "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
@@ -581,7 +649,7 @@
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "What\u2019s It Take to Be a Star?",
         "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
@@ -597,27 +665,7 @@
       "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "Posse EP Volume 2",
-        "url": "https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 255428,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Old Life",
         "url": "https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p"
@@ -649,7 +697,7 @@
       "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Embarrassed Dog",
         "url": "https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A"
@@ -665,7 +713,7 @@
       "url": "https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
@@ -681,7 +729,7 @@
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Die For Me (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb"
@@ -701,47 +749,7 @@
       "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "Eusexua",
-        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "In The Night (feat. Jorja Smith & Amaarae)",
-        "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 229999,
-      "name": "In The Night (feat. Jorja Smith & Amaarae)",
-      "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "M\u00e1dib\u00e1 Ni Mbondi",
         "url": "https://open.spotify.com/album/0oVmAp4WYpsXFvmR7I8v6n"
@@ -761,7 +769,7 @@
       "url": "https://open.spotify.com/track/7r9mtzhwnN1sUDx0BeBFch"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Bad Cameo",
         "url": "https://open.spotify.com/album/3YSkrcq8N00jwqcBRjAFB5"
@@ -781,7 +789,7 @@
       "url": "https://open.spotify.com/track/3EeKihPbo2fPDlgKdLM2Bx"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Could I Stay",
         "url": "https://open.spotify.com/album/2OCBppEHFQV2lP8yNGFA1e"
@@ -801,7 +809,7 @@
       "url": "https://open.spotify.com/track/1vSAziaAR7YvpjGVw8Lu1p"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "The Message (Majid Jordan Remix)",
         "url": "https://open.spotify.com/album/2XFeeHCCqtklVfPuFysGTB"
@@ -817,7 +825,7 @@
       "url": "https://open.spotify.com/track/5nRNx6Gs12LDlLWbl8dVRq"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
@@ -841,7 +849,7 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Pixie Dust",
         "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
@@ -857,27 +865,7 @@
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 322453,
-      "name": "Heaven - feat. Damon Albarn",
-      "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
-    },
-    {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Nulle",
         "url": "https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe"
@@ -893,7 +881,7 @@
       "url": "https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw"
     },
     {
-      "added_at": "2024-10-11 06:31:45",
+      "added_at": "2024-10-17 22:00:00",
       "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"

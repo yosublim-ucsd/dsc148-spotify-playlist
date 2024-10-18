@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 339692,
       "name": "KGF Monster",
       "url": "https://open.spotify.com/track/0QsxHp0eiG7gtF6FojQkLO"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"
@@ -3264,6 +3264,28 @@
       "duration_ms": 184620,
       "name": "PAGADI",
       "url": "https://open.spotify.com/track/7LxIAVGEQSi2tcytd7xyJu"
+    },
+    {
+      "album": {
+        "name": "Paiya Dei (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40"
+      },
+      "artists": [
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Paiya Dei - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
     },
     {
       "album": {
@@ -5208,7 +5230,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 173211,
       "name": "Vainko",
       "url": "https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7"

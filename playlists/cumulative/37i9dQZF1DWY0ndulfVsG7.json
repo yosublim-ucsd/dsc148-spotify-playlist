@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Candy",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Rossa",
   "name": "Berjiran",
   "tracks": [
     {
@@ -56,10 +56,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 240280,
       "name": "Akhir Cerita Cinta",
       "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
+    },
+    {
+      "album": {
+        "name": "Akhiri Penantianku (Reimagined EP)",
+        "url": "https://open.spotify.com/album/2xNnNmNksWkPyU8SfjEVit"
+      },
+      "artists": [
+        {
+          "name": "Alif Satar & The Locos",
+          "url": "https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258374,
+      "name": "Akhiri Penantianku (Reimagined)",
+      "url": "https://open.spotify.com/track/70xhbV1Jb47PaUx95TFypE"
     },
     {
       "album": {
@@ -118,7 +136,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 267880,
       "name": "Aku dan Dirimu (feat. Ari Lasso)",
       "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
@@ -544,7 +562,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 255638,
       "name": "Dusta",
       "url": "https://open.spotify.com/track/7hI9NbjM8MK3ZegrTCpLgt"
@@ -645,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Harapan Palsu",
+        "url": "https://open.spotify.com/album/0isB7iOFPXnjMIiuK9HmLR"
+      },
+      "artists": [
+        {
+          "name": "Awis Spin",
+          "url": "https://open.spotify.com/artist/0lqvzymczzx49g54YxLZaA"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216911,
+      "name": "Harapan Palsu",
+      "url": "https://open.spotify.com/track/1ZrUWlwivPUmn1IrSDUifl"
+    },
+    {
+      "album": {
         "name": "Bintang AF9",
         "url": "https://open.spotify.com/album/5Vx4WaEEaLLFuoTRcHLSfT"
       },
@@ -708,6 +744,24 @@
       "duration_ms": 279640,
       "name": "Infiniti Cinta (feat. Kaka)",
       "url": "https://open.spotify.com/track/6wqrJ8bTBXUiUj9TRQjKdr"
+    },
+    {
+      "album": {
+        "name": "Akhiri Penantianku (Reimagined EP)",
+        "url": "https://open.spotify.com/album/2xNnNmNksWkPyU8SfjEVit"
+      },
+      "artists": [
+        {
+          "name": "Alif Satar & The Locos",
+          "url": "https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223250,
+      "name": "Jangan Nakal (Reimagined)",
+      "url": "https://open.spotify.com/track/1DhFrVT25RMhUrDQZVOriy"
     },
     {
       "album": {
@@ -985,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Another Journey : The Beginning",
+        "url": "https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "Lupakan Cinta",
+      "url": "https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7"
+    },
+    {
+      "album": {
         "name": "Satu Hati Sejuta Cinta",
         "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },
@@ -1000,6 +1072,24 @@
       "duration_ms": 239506,
       "name": "Mabuk Cinta",
       "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
+    },
+    {
+      "album": {
+        "name": "Malu Tapi Mahu",
+        "url": "https://open.spotify.com/album/6jwCIU9JZ2pQNvKWLWZLFH"
+      },
+      "artists": [
+        {
+          "name": "Atmosfera",
+          "url": "https://open.spotify.com/artist/2pXyE80rHLNcLvx6doOfDA"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197472,
+      "name": "Malu Tapi Mahu",
+      "url": "https://open.spotify.com/track/6FnNbp6XuVGwolZ6MNVpTU"
     },
     {
       "album": {
@@ -1032,7 +1122,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 196789,
       "name": "Melaju",
       "url": "https://open.spotify.com/track/6UkHi6djHWEonwdBT6M4r5"
@@ -1054,6 +1144,24 @@
       "duration_ms": 198133,
       "name": "Melompat Lebih Tinggi",
       "url": "https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg"
+    },
+    {
+      "album": {
+        "name": "Memberontak",
+        "url": "https://open.spotify.com/album/7jtwkR3nYaNgcPyW2jO83F"
+      },
+      "artists": [
+        {
+          "name": "Bunkface",
+          "url": "https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Memberontak",
+      "url": "https://open.spotify.com/track/1cxcQZo6PwHluARCkqMyds"
     },
     {
       "album": {
@@ -1112,7 +1220,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 271800,
       "name": "Nada Nada Cinta",
       "url": "https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP"
@@ -1148,7 +1256,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 271267,
       "name": "Panasea",
       "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
@@ -1556,7 +1664,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 230666,
       "name": "Setia2u",
       "url": "https://open.spotify.com/track/1eca4fNdl0LJiYu5HdU79w"
@@ -1834,7 +1942,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"

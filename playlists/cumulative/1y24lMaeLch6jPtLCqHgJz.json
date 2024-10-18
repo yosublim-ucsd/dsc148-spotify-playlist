@@ -4267,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "Little Putz",
+        "url": "https://open.spotify.com/album/031Wkq7AMRssBs4LKNyEEs"
+      },
+      "artists": [
+        {
+          "name": "Kane Scott",
+          "url": "https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Little Putz",
+      "url": "https://open.spotify.com/track/0hKVb7ZHPQKT2UwTU10nhv"
+    },
+    {
+      "album": {
         "name": "Revealed Recordings presents Miami Sampler 2024",
         "url": "https://open.spotify.com/album/2Dau7iVX0oPQw9uKrGdiOF"
       },

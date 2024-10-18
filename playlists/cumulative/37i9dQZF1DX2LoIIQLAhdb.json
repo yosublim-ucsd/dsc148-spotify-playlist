@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jungeli",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9lodie c\u00e9leste",
+        "url": "https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "Day & night",
+      "url": "https://open.spotify.com/track/49IEOx7anHYA2XFEe7hU2l"
+    },
+    {
+      "album": {
         "name": "Demoiselle",
         "url": "https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4"
       },
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 199653,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/7fye5mKD8gNSaM3G1IM0Kj"
@@ -3742,6 +3760,28 @@
       "duration_ms": 178946,
       "name": "Ma ville",
       "url": "https://open.spotify.com/track/6L4F0EkPQw2u4Z1U05LFVK"
+    },
+    {
+      "album": {
+        "name": "Main B****",
+        "url": "https://open.spotify.com/album/1CVizIswK8OyrMgxHEzvtc"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        },
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224369,
+      "name": "Main B****",
+      "url": "https://open.spotify.com/track/16UI5CNYBmvAHFMyXOyKkk"
     },
     {
       "album": {
@@ -6136,7 +6176,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 166774,
       "name": "Sugar daddy",
       "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"

@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 204041,
       "name": "A Beautiful Woman",
       "url": "https://open.spotify.com/track/5PBNRXaQwtE6zNpPIRKasf"
@@ -8456,6 +8456,28 @@
       "duration_ms": 181920,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X"
+    },
+    {
+      "album": {
+        "name": "October Nights",
+        "url": "https://open.spotify.com/album/0y7LN7tEQW36PYKwTHzt2H"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144945,
+      "name": "Put You On",
+      "url": "https://open.spotify.com/track/6HSXrgFu7uYx3mYQyOc3hA"
     },
     {
       "album": {

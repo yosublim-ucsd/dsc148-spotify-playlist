@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : SEX SHOP MUSHROOMS
+> Les meilleures nouveautés de la scène rock française\. Photo : Bryan's Magic Tears
 
-276 songs - 16 hr 52 min
+280 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-07-18 |  |
 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 | 2023-09-28 | 2023-11-10 |
 | [Curse](https://open.spotify.com/track/5oDoLOYCpj3yWvdOYPI0j8) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Curse](https://open.spotify.com/album/3prw2GR8dd3xJB9b1jWSx5) | 3:02 | 2024-05-02 | 2024-10-01 |
+| [Cut Me Down](https://open.spotify.com/track/6rhLBMMmq3CysCX1yz2utB) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Welcome To My Funeral](https://open.spotify.com/album/215thklqXyGatQqQjt8RoH) | 2:23 | 2024-10-17 |  |
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-09-28 | 2024-06-14 |
 | [Dance](https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX) | [MADAM](https://open.spotify.com/artist/6JbwGT0YARZ43pze31ST8h) | [Thanks for the Noise](https://open.spotify.com/album/5ypPwi6yhfMZ6wEhgX5aV3) | 3:28 | 2024-04-11 | 2024-10-04 |
 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 | 2023-11-09 | 2023-12-08 |
@@ -87,7 +88,7 @@
 | [Feeling Fine](https://open.spotify.com/track/5ME9PbpmM05EobMN3sHqIh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Feeling Fine](https://open.spotify.com/album/0Y2w2sOj4Ob7JZmmD5ZX0r) | 3:36 | 2023-09-28 | 2023-10-20 |
 | [Flamme Jumelle](https://open.spotify.com/track/6aPEzAyxqNJcRUNLFFmpe8) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Flamme Jumelle](https://open.spotify.com/album/4cvWh6jZ5K4fyitO6fzMQc) | 5:17 | 2024-04-18 | 2024-09-20 |
 | [Forknox](https://open.spotify.com/track/37MYGEELoba3gk2pN7qGxZ) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Forknox](https://open.spotify.com/album/5LpBxTZIzjWTzrKmPy6Eq2) | 3:49 | 2024-03-21 | 2024-04-19 |
-| [Forts](https://open.spotify.com/track/5MR1xIIZdWLltx9dEm9rEJ) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Forts](https://open.spotify.com/album/66wWFG5srUdrjZyxzomrRG) | 3:11 | 2024-09-12 |  |
+| [Forts](https://open.spotify.com/track/5MR1xIIZdWLltx9dEm9rEJ) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Forts](https://open.spotify.com/album/66wWFG5srUdrjZyxzomrRG) | 3:11 | 2024-09-12 | 2024-10-18 |
 | [From Zero](https://open.spotify.com/track/2rBxyjJZPPSz7HHVBExEAW) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [From Zero](https://open.spotify.com/album/7nt2Z2wjPtE4Iu6X2lsjK9) | 2:50 | 2023-09-28 | 2023-10-06 |
 | [Full Speed Ahead](https://open.spotify.com/track/47Ze9JFgxEc0a9OS46D8X7) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/5pDqns1lE2Lax57DaLqrpX) | 3:07 | 2023-10-13 | 2024-03-01 |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-10-12 | 2023-11-10 |
@@ -101,6 +102,7 @@
 | [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 | 2024-02-01 | 2024-03-01 |
 | [Hear Me Out](https://open.spotify.com/track/1Sh0phQGheIJBeEiNrdYjD) | [AFTER GEOGRAPHY](https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI) | [Hear Me Out](https://open.spotify.com/album/7FWAslvZJ9C8Xcv6tKEiA4) | 4:17 | 2024-10-11 |  |
 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 | 2024-06-06 |  |
+| [Hole](https://open.spotify.com/track/3PoIPfMHUqAzXm33jdWXXn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Backyard](https://open.spotify.com/album/1MqbbfL6asJCkcHZHUF71Q) | 4:33 | 2024-10-17 |  |
 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 | 2024-09-30 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 | 2024-02-09 |
 | [Horns](https://open.spotify.com/track/0b3EiGpz4epW3iBRD7Q4hX) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Veil](https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz) | 3:26 | 2024-04-25 | 2024-10-11 |
@@ -113,6 +115,7 @@
 | [I'm Picky \- Unplugged](https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [I'm Picky \(Unplugged\)](https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f) | 3:25 | 2024-06-13 | 2024-07-19 |
 | [Ignition](https://open.spotify.com/track/0h3K04iQP75lCuo6eWWgBc) | [The Redshift Empire](https://open.spotify.com/artist/281h6Q0ZjiaowIEl77K000) | [New Horizons](https://open.spotify.com/album/5nTX6Gy6ivhCStwSL2xTu9) | 3:51 | 2023-11-09 | 2024-03-01 |
 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 | 2023-10-05 | 2023-12-08 |
+| [In Decline](https://open.spotify.com/track/2q9Hu0rH1V9lpO2ul5I792) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [In Decline](https://open.spotify.com/album/3zb4ZBJwpCazWkUwGZFkHJ) | 3:22 | 2024-10-17 |  |
 | [In Stone](https://open.spotify.com/track/5d17zQEKvgoXlCtszxL7it) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Human](https://open.spotify.com/album/07SPetFV41UfQXMpsHj4CO) | 3:34 | 2023-09-28 | 2023-11-10 |
 | [Instant Shutdown](https://open.spotify.com/track/0LxwxnfEmCgngLoULk0CTR) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [The Great Anticipation](https://open.spotify.com/album/1ylkDNSrkbFMAW8MQC56Pn) | 6:13 | 2024-06-13 | 2024-08-02 |
 | [Interdit](https://open.spotify.com/track/0QIEQkx5Bv09oZwyck7RKS) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Interdit](https://open.spotify.com/album/28jFGiYbKuGcZU5aQIL7RX) | 2:38 | 2024-06-27 |  |
@@ -221,6 +224,7 @@
 | [Sonora](https://open.spotify.com/track/7ndufWPCrZze2WkkRYRwNr) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [16 Dreams a Minute](https://open.spotify.com/album/1485FZSX7HEo5vwK1KHk8c) | 3:18 | 2024-02-01 | 2024-04-26 |
 | [Spin](https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Spin](https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO) | 3:39 | 2023-10-05 | 2023-11-17 |
 | [Splendore Evolution](https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Splendore Evolution](https://open.spotify.com/album/1MZeEPvgvGW86AIvg6F46u) | 3:07 | 2023-10-26 | 2023-12-01 |
+| [Stalker](https://open.spotify.com/track/3DqRN9Vy5GqDKOWjXNSbLU) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Stalker](https://open.spotify.com/album/3e1O57LkVDlrw6jnynFy48) | 3:42 | 2024-10-17 |  |
 | [State of Alert](https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk) | [Frustration](https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4) | [State of Alert](https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso) | 2:19 | 2024-01-26 | 2024-03-15 |
 | [Still The Same](https://open.spotify.com/track/49CZ9ovDlZniGnEHybxJmz) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Still The Same](https://open.spotify.com/album/5wyQcppvnY3Xr8cvrRGIb7) | 2:37 | 2024-06-27 | 2024-08-30 |
 | [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-28 | 2024-01-19 |

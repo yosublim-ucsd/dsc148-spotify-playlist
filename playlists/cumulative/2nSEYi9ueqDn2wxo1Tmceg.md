@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
 
-1,103 songs - 3 day 3 hr 35 min
+1,104 songs - 3 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1063,6 +1063,7 @@
 | [Water Underground](https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Water Underground](https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI) | 3:26 | 2023-11-27 | 2024-02-01 |
 | [Wave a Flag for Harvey Milk](https://open.spotify.com/track/1ucKIEDuGeZP2n9Cf1aGGa) | [Mr\. Greg](https://open.spotify.com/artist/1EfhVeO6Oi24r13WXUPyvn), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wave a Flag for Harvey Milk](https://open.spotify.com/album/1WGuKxMpGZoQqwT1dMe5Wz) | 3:22 | 2023-06-28 | 2023-08-10 |
 | [Wax](https://open.spotify.com/track/45MtG2vD5sc6imxYK6QLSt) | [W.A.T.](https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz) | [World According To](https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB) | 3:39 | 2023-09-27 | 2023-11-09 |
+| [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-17 |  |
 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-08-14 | 2024-09-19 |
 | [We Have Sex](https://open.spotify.com/track/4MvwfdgnZMq2Nlgg6ou99v) | [Stephen Pastel](https://open.spotify.com/artist/1Mgkzst7Krb2uB3Ourbfby), [Gavin Thomson](https://open.spotify.com/artist/19sJuu2SqWOfW8vDU2PHhL), [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP), [Unexpensive Superstars](https://open.spotify.com/artist/6TCZqtmUomnu1luh5sK8Cw) | [We Have Sex / Introduction To Why I Did It](https://open.spotify.com/album/5bhu41ez9JezoYxiCn01DT) | 2:57 | 2024-04-24 | 2024-05-16 |
 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-06-22 | 2022-08-04 |

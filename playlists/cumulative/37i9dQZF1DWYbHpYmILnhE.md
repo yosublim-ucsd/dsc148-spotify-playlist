@@ -2,9 +2,9 @@
 
 ### [Naija Drill ](https://open.spotify.com/playlist/37i9dQZF1DWYbHpYmILnhE)
 
-> Drilling through Naij\. Cover: Apex Village, Laime  &  Psycho YP
+> Drilling through Naij\. Cover: Reeplay
 
-76 songs - 3 hr 25 min
+78 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-06-28 |  |
 | [JAIYE EVERYDAY](https://open.spotify.com/track/0nhnrU29FPbsVAubi8kMJx) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:01 | 2024-06-28 |  |
 | [Jericho](https://open.spotify.com/track/7ddW60kwiu0jeUjhPDR9Wf) | [Kishboy](https://open.spotify.com/artist/5sc1htwJcqKWKiFd3E4pPn), [CYZA](https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY) | [Jericho](https://open.spotify.com/album/5Dc4vOJp7kEGlaynskuMIQ) | 2:45 | 2024-06-28 |  |
-| [JOHNBULL](https://open.spotify.com/track/3nJWni9IsAtHca7x9ewODS) | [YungTee](https://open.spotify.com/artist/0XKBGKz5XzRuQZJCzFqIdF) | [JOHNBULL](https://open.spotify.com/album/200TK74gk1yUs0KdLAetLT) | 2:03 | 2024-09-20 |  |
+| [Jesu L'oba](https://open.spotify.com/track/4jViEhNnW1ssArb7I53JiP) | [8tch](https://open.spotify.com/artist/4FWaqkWWKH14AibDK0LIEg) | [Toranjitto](https://open.spotify.com/album/11wIPN7GEFMUAEuxRvqfQO) | 3:14 | 2024-10-18 |  |
+| [JOHNBULL](https://open.spotify.com/track/3nJWni9IsAtHca7x9ewODS) | [YungTee](https://open.spotify.com/artist/0XKBGKz5XzRuQZJCzFqIdF) | [JOHNBULL](https://open.spotify.com/album/200TK74gk1yUs0KdLAetLT) | 2:03 | 2024-09-20 | 2024-10-18 |
 | [JOHNBULL](https://open.spotify.com/track/51myjOUrplFHpUEc3hkZc9) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [JOHNBULL](https://open.spotify.com/album/0jKVBOpPcnxZOwYM71CIFF) | 1:45 | 2024-06-28 |  |
 | [JOY](https://open.spotify.com/track/7FHUtQbPkCzWMwGltW8q4K) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [JOY](https://open.spotify.com/album/0VtCiQ5GuMqVw37EGKQkiq) | 2:49 | 2024-08-02 |  |
 | [Kalambolo](https://open.spotify.com/track/2vHOq5WHAxc4zxvV9lFzZT) | [EEZZ](https://open.spotify.com/artist/1Oq5k0FmnhtFz3cwLpmGea), [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9), [Moefasa](https://open.spotify.com/artist/6tQT0z3D3FhNlojteLj5Mj) | [Kalambolo](https://open.spotify.com/album/084eDI42ruF1KHeGdxmCls) | 3:25 | 2024-06-28 |  |
@@ -65,6 +66,7 @@
 | [Puff Puff Pass](https://open.spotify.com/track/4IUJeJoEnzeVbBHQybYqMS) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Puff Puff Pass](https://open.spotify.com/album/3Kn0IGNPhsQnO3PZCNPVYo) | 2:31 | 2024-06-28 |  |
 | [Raba](https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Sir hopy](https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu) | [Raba](https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS) | 2:38 | 2024-09-20 | 2024-09-28 |
 | [Receipts](https://open.spotify.com/track/1pfvwzTRFBlnzL882eqcVu) | [Nuell June](https://open.spotify.com/artist/6yUIhBmG4Ve72lyfAAwcrc) | [Abuja's Very Own II](https://open.spotify.com/album/3tDZYCT0WPvIHWNImuPxy5) | 1:56 | 2024-06-28 |  |
+| [Refund \(Part 2\)](https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Refund \(Part 2\)](https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN) | 2:43 | 2024-10-18 |  |
 | [Requirements](https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:39 | 2024-07-19 | 2024-08-02 |
 | [Robo Skeng](https://open.spotify.com/track/5OdztLfcClvhROjA2syzh1) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Robo Skeng](https://open.spotify.com/album/2x85UtMv8YDiSZEFrNAJ1m) | 2:49 | 2024-06-28 | 2024-07-27 |
 | [SAINT OBI \(feat\. Reeplay\)](https://open.spotify.com/track/49ewqUwtm7nmz8RthRJNQw) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/06natpnSRzMo4rkRZuLX3z) | 2:34 | 2024-06-28 |  |

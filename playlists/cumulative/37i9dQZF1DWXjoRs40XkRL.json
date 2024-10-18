@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 361080,
       "name": "Palkan",
       "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
@@ -5712,6 +5712,32 @@
       "duration_ms": 207749,
       "name": "Sajan More Ghar Aayo",
       "url": "https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91"
+    },
+    {
+      "album": {
+        "name": "Sajaniya (From \"Vividh Bharti\")",
+        "url": "https://open.spotify.com/album/6UeAXXSktmQVieATzFXWwl"
+      },
+      "artists": [
+        {
+          "name": "Bramha",
+          "url": "https://open.spotify.com/artist/54aaAVP09vkCtRd9WjuEW8"
+        },
+        {
+          "name": "Krishnakali Saha",
+          "url": "https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g"
+        },
+        {
+          "name": "dipgrix",
+          "url": "https://open.spotify.com/artist/4A1Q9Q5Vf2G0MWwq5Ane1R"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Sajaniya (From \"Vividh Bharti\")",
+      "url": "https://open.spotify.com/track/4IxKMIMMPWwmbg9yS63dSC"
     },
     {
       "album": {

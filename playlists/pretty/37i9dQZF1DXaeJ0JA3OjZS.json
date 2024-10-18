@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 143015,
+  "num_followers": 143162,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corrido Del Payaso",
-        "url": "https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i"
+        "name": "Mi Potrillo",
+        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
       },
       "artists": [
         {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+          "name": "Banda Alta Potencia",
+          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
         }
       ],
-      "duration_ms": 206585,
-      "name": "Corrido Del Payaso",
-      "url": "https://open.spotify.com/track/71aFPlBP9HDFfppHCBv7bL"
+      "duration_ms": 210800,
+      "name": "Mi Potrillo",
+      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+        "name": "Corrido Del Payaso",
+        "url": "https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i"
       },
       "artists": [
         {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+      "duration_ms": 206585,
+      "name": "Corrido Del Payaso",
+      "url": "https://open.spotify.com/track/71aFPlBP9HDFfppHCBv7bL"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "La Panchita",
-        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "La Panchita",
-      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "El Caballo de Mi Padre",
         "url": "https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 201317,
       "name": "El Caballo de Mi Padre",
       "url": "https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
     },
     {
       "added_at": "2024-09-20 06:00:00",

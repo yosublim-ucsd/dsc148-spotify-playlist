@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231922,
+  "num_followers": 231921,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
+        "name": "Jovelina P\u00e9rola Negra",
+        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Menina Voc\u00ea Bebeu",
+      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
-        "name": "Jovelina P\u00e9rola Negra",
-        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Menina Voc\u00ea Bebeu",
-      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
     },
     {
       "added_at": "2024-10-04 13:58:33",

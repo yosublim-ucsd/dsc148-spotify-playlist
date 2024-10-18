@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 299871,
       "name": "Glory On The Other Side",
       "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
@@ -5117,6 +5117,32 @@
     },
     {
       "album": {
+        "name": "REDEEMED",
+        "url": "https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Julia McMillan",
+          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft"
+    },
+    {
+      "album": {
         "name": "Never Leave Me",
         "url": "https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG"
       },
@@ -6108,7 +6134,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 210745,
       "name": "perfect union",
       "url": "https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK"
@@ -7054,6 +7080,24 @@
       "duration_ms": 271950,
       "name": "Testify",
       "url": "https://open.spotify.com/track/469a5ribFps5STVVzbnL3l"
+    },
+    {
+      "album": {
+        "name": "tethered",
+        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225009,
+      "name": "tethered",
+      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
     },
     {
       "album": {

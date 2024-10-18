@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: Barry Can't Swim",
+  "description": "A new world of alternative electronic music. \nCover: RONA",
   "name": "Portal",
   "tracks": [
     {
@@ -681,6 +681,50 @@
     },
     {
       "album": {
+        "name": "Rise N Shine",
+        "url": "https://open.spotify.com/album/2Ul3MpoocG2vSNyHDNCfE4"
+      },
+      "artists": [
+        {
+          "name": "Borrowed CS",
+          "url": "https://open.spotify.com/artist/0WWzsIwtv8c5thhyBoWtxC"
+        },
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293625,
+      "name": "All My People",
+      "url": "https://open.spotify.com/track/7esNCdJ6U8pXwor6C9c2Fm"
+    },
+    {
+      "album": {
+        "name": "All Of It (BRUX Remix)",
+        "url": "https://open.spotify.com/album/2UXC8W7Mgc5EEUWSxqK2pY"
+      },
+      "artists": [
+        {
+          "name": "Hockeysmith",
+          "url": "https://open.spotify.com/artist/3itcvCMZ1CrfgKuOhkqpXf"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238762,
+      "name": "All Of It - BRUX Remix",
+      "url": "https://open.spotify.com/track/5WbAHjF11Enps3uOg7XKCA"
+    },
+    {
+      "album": {
         "name": "All Over This Party (salute Remix)",
         "url": "https://open.spotify.com/album/53GjjALiKKreMQoAwPz9ZY"
       },
@@ -1004,6 +1048,28 @@
       "duration_ms": 262002,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3XfPp58J7IGaF4fRmd28fv"
+    },
+    {
+      "album": {
+        "name": "B Somebody",
+        "url": "https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172033,
+      "name": "B Somebody",
+      "url": "https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW"
     },
     {
       "album": {
@@ -1594,6 +1660,24 @@
       "duration_ms": 359040,
       "name": "Beta Zest",
       "url": "https://open.spotify.com/track/73VnqalXrZQ7k5w8dA6vuZ"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7KFNVBCS3aQz2NJv5KZHrc"
+      },
+      "artists": [
+        {
+          "name": "Leo James",
+          "url": "https://open.spotify.com/artist/6xWQDu66fTX5US3kBiFGab"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454080,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1kMxWL0YbATNIRmprClrYW"
     },
     {
       "album": {
@@ -2353,6 +2437,28 @@
     },
     {
       "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/7s4Uf9U1OCqCyTB2jJY5dB"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        },
+        {
+          "name": "KYE",
+          "url": "https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272108,
+      "name": "Burn It",
+      "url": "https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx"
+    },
+    {
+      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg"
       },
@@ -2682,7 +2788,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 186982,
       "name": "Changes",
       "url": "https://open.spotify.com/track/5MFbNnmY32OzSI1dYMzWsB"
@@ -3088,6 +3194,24 @@
       "duration_ms": 240725,
       "name": "Contact",
       "url": "https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA"
+    },
+    {
+      "album": {
+        "name": "CONTROL / REAL MOVE TOUCH",
+        "url": "https://open.spotify.com/album/2tNUSK9v8s5MkCwer6bcNB"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225470,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/1m7hihmsGGlQCWU5lLvWZQ"
     },
     {
       "album": {
@@ -4014,6 +4138,24 @@
       "duration_ms": 350737,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK"
+    },
+    {
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330126,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/6jpMHF5tzxRdWExRDoDG87"
     },
     {
       "album": {
@@ -5090,6 +5232,24 @@
       "duration_ms": 496001,
       "name": "Flores - Meera (NO) Remix",
       "url": "https://open.spotify.com/track/7hJdfNjNHfzXMEmO5PIObo"
+    },
+    {
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/54ZNQrNG6ZNNU9VYLHaARK"
+      },
+      "artists": [
+        {
+          "name": "Eternal Love",
+          "url": "https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297949,
+      "name": "Flotamos",
+      "url": "https://open.spotify.com/track/77wLiqHdLO2iZeqMwq4Gai"
     },
     {
       "album": {
@@ -6593,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/1pkrlrW9kOkUOU2vjwYUac"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195173,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1nxNsIJ6tvThm68lXtL4db"
+    },
+    {
+      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -7744,7 +7922,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 283620,
       "name": "Let Yourself Go!",
       "url": "https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1"
@@ -12733,6 +12911,28 @@
     },
     {
       "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Strength (R U Ready) [feat. Joy Crookes]",
+      "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -13042,7 +13242,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 415000,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/7cp7Ej2npnDebtc0XKlhrm"
@@ -13706,6 +13906,28 @@
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
+      "album": {
+        "name": "Us Two",
+        "url": "https://open.spotify.com/album/53KeCWH79dIEetwOjFcupt"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252676,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN"
     },
     {
       "album": {

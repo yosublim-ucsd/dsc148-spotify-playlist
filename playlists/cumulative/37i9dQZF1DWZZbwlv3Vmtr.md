@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-973 songs - 1 day 13 hr 42 min
+974 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 | 2023-11-17 |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
 | [Brief](https://open.spotify.com/track/6caIcf9eRI7X8wHp7GeWNZ) | [Tuva Sersh](https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk) | [Brief](https://open.spotify.com/album/6atjEq08QMtLbB8PKqQQKl) | 2:22 | 2024-02-09 |  |
-| [bro, I got this](https://open.spotify.com/track/0N2rxpezHCsA5GnlGJGunk) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [bro, I got this](https://open.spotify.com/album/7ziI4iKKqgzM6QwUhp5HZD) | 2:06 | 2024-03-22 |  |
+| [bro, I got this](https://open.spotify.com/track/0N2rxpezHCsA5GnlGJGunk) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [bro, I got this](https://open.spotify.com/album/7ziI4iKKqgzM6QwUhp5HZD) | 2:06 | 2024-03-22 | 2024-10-18 |
 | [Buck Stop](https://open.spotify.com/track/59pbhakI7VpgKLB3J9r7gO) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Buck Stop](https://open.spotify.com/album/1wep5cvBwgCQlWZJYtqUEU) | 2:21 | 2024-03-08 |  |
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2022-04-15 | 2023-10-13 |
 | [Building](https://open.spotify.com/track/6OZ3MPodudMKFDndMrvGiT) | [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62) | [Building](https://open.spotify.com/album/0qhJu9J9ui5YTqjahdXQ3s) | 1:21 | 2022-06-24 | 2022-07-08 |
@@ -824,6 +824,7 @@
 | [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 |  |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
+| [sweatshop](https://open.spotify.com/track/4fIrnMVgzowokBFTp8LFqR) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [sweatshop](https://open.spotify.com/album/3Oo6Wh0ynjJHbRXk3FV1g7) | 2:22 | 2024-10-16 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-15 | 2022-09-03 |
 | [Symbols](https://open.spotify.com/track/5ICH0pKxnPXbO2HxRIZu7B) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Symbols](https://open.spotify.com/album/27nTElJC0ZAZmaxhXVEXVB) | 2:04 | 2022-12-09 | 2023-10-08 |
 | [T's in Model T's](https://open.spotify.com/track/52Iy35HXTRVQ8J3Y0RPDRk) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Tangerine Tanlines](https://open.spotify.com/album/3drfIDIHXitp4lycIMqgkU) | 2:53 | 2022-04-15 | 2022-05-20 |

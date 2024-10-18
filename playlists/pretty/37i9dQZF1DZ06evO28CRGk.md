@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. The essential tracks, all in one playlist.
+> This Is Marco Polo\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 432 likes - 50 songs - 2 hr 51 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28CRGk.md) - [plain]
 | 49 | [What Is The Question](https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 2:30 |
 | 50 | [Danger](https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0) | [Double Barrel](https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY) | 3:00 |
 
-Snapshot ID: `Zw2wgAAAAACCwdhEP/IFsD4XFg5x+Uhm`
+Snapshot ID: `Zw8CAAAAAABtMGJHgr7arMUT4aRjt2su`

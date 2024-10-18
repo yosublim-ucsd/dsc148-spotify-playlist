@@ -4013,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "Dangomushi",
+        "url": "https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199930,
+      "name": "Dangomushi",
+      "url": "https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM"
+    },
+    {
+      "album": {
         "name": "Dark Ballet",
         "url": "https://open.spotify.com/album/6KlAn04BDkqs7QbNl0UcU6"
       },
@@ -12035,7 +12053,7 @@
       "artists": [
         {
           "name": "Velludo",
-          "url": "https://open.spotify.com/artist/5OkJ1tB3VjeT27zJPmmMkm"
+          "url": "https://open.spotify.com/artist/0ZFxspJHmeXIH5ox6XGyHG"
         }
       ],
       "date_added": "2024-10-15",
@@ -18640,7 +18658,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 281160,
       "name": "Still Remember",
       "url": "https://open.spotify.com/track/09LIZF2fpKHNTmAwokmj6O"

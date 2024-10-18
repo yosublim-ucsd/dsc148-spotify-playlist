@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Potter Payper",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nemzzz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -7526,7 +7526,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 135000,
       "name": "CHAKRa",
       "url": "https://open.spotify.com/track/0X8wuklQTi8fVrdeNAj6Au"
@@ -12532,6 +12532,24 @@
       "duration_ms": 190566,
       "name": "Everything's Personal",
       "url": "https://open.spotify.com/track/6WDFw2wrH5QoKqQX6bi8qk"
+    },
+    {
+      "album": {
+        "name": "Evicted",
+        "url": "https://open.spotify.com/album/3OhdKF1s2F5ZwXNd3UXYaP"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw"
     },
     {
       "album": {
@@ -18632,7 +18650,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 194738,
       "name": "Jet Pack",
       "url": "https://open.spotify.com/track/3V3UFoD3bOmQwmCMdwXTqw"
@@ -19836,6 +19854,24 @@
       "duration_ms": 134567,
       "name": "Last Night In Brixton",
       "url": "https://open.spotify.com/track/6F7zun3KXebaBImS9S085I"
+    },
+    {
+      "album": {
+        "name": "Last Night In Kingston (Konan Freestyle)",
+        "url": "https://open.spotify.com/album/0gc3fTM5LTKqmiwO9aVLED"
+      },
+      "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153763,
+      "name": "Last Night In Kingston - Konan Freestyle",
+      "url": "https://open.spotify.com/track/4btn0FQ4yVmt455Th68xZM"
     },
     {
       "album": {
@@ -25222,6 +25258,24 @@
       "duration_ms": 190985,
       "name": "No Heart",
       "url": "https://open.spotify.com/track/303B1oCceeD8qqLsXya9js"
+    },
+    {
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK"
     },
     {
       "album": {

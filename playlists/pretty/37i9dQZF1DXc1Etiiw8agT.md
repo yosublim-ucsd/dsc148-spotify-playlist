@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 
 > Continuous brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,775 likes - 238 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,790 likes - 238 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 | 183 | [Tranquil Brown Noise](https://open.spotify.com/track/7dQxSOe970eA588wdrRJwP) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Tranquil Brown Noise](https://open.spotify.com/album/7xp0o274OOr733c3AqszDc) | 3:44 |
 | 184 | [Stirring Brown Noise](https://open.spotify.com/track/7goxlmUQdorgNYshYPHIVO) | [Loud Lowness](https://open.spotify.com/artist/1Z06uiXhn2kHV9f5cPlONe) | [Stirring Brown Noise](https://open.spotify.com/album/1aCAC99YhuhxTGL6SXb9tF) | 2:36 |
 | 185 | [Brown Noise Dream](https://open.spotify.com/track/4eGCTk4n1GXu9C1keB4ama) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Soft Brown Noise](https://open.spotify.com/album/3hwBhINVPJ9NDri4krChxd) | 2:52 |
-| 186 | [300 Hz Brown Noise](https://open.spotify.com/track/1vd0lL7y6ALu8bWPNfXhMQ) | [Zen Minds](https://open.spotify.com/artist/7ebgqohp81s0bZ3oWiTu9R) | [Brown Zen Noise](https://open.spotify.com/album/2tgF6LmkwmMcX7TfkE4kFl) | 2:46 |
+| 186 | [300 Hz Brown Noise](https://open.spotify.com/track/1vd0lL7y6ALu8bWPNfXhMQ) | [Zen Minds](https://open.spotify.com/artist/60Fm4GFdvEYvMM0uueCYtt) | [Brown Zen Noise](https://open.spotify.com/album/2tgF6LmkwmMcX7TfkE4kFl) | 2:46 |
 | 187 | [Brown Noise \- 1.400 Hz \- Cutoff](https://open.spotify.com/track/7weKSvgicnoAr4dujNGkTE) | [Technical Sleep](https://open.spotify.com/artist/1ZsuYhFu8JGCi3NBaGL61v) | [Brown Noise For Sleep](https://open.spotify.com/album/5YhA1CtVFppw9e8f0HU2ae) | 2:11 |
 | 188 | [Spaceful Brownie Freq 460 Hz](https://open.spotify.com/track/4ogGqsPTZdtWV9fw2Yup2O) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 3:06 |
 | 189 | [Brown Noise Crib](https://open.spotify.com/track/2FYieh34KBeeTotVS4oIOU) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Brown Noise for Better Sleep](https://open.spotify.com/album/2F7mlg1XSUs8YgRYXkPm1B) | 5:07 |

@@ -4,7 +4,7 @@
 
 > This Is Qlank\. Los temas esenciales, todos en una lista.
 
-89 songs - 5 hr 31 min
+91 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Caldera](https://open.spotify.com/track/0T1P5ngGzqMhLWV6gRevha) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Caldera](https://open.spotify.com/album/5881VqXsgmHR7Ib16nzl9b) | 3:10 | 2024-01-03 |  |
 | [Cell Phone](https://open.spotify.com/track/4vrxiotFxYfjEB11oRAfqN) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cell Phone](https://open.spotify.com/album/178yvgtt01oNSUQwL36bud) | 2:50 | 2024-03-25 | 2024-04-03 |
 | [Chai Tea](https://open.spotify.com/track/7BCIfos9MNom10BdK2domq) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:48 | 2024-01-04 | 2024-10-17 |
+| [Control](https://open.spotify.com/track/3Q9SwqsTaR28B2646gN37n) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Therapy EP](https://open.spotify.com/album/0FUzCN0xgPAaKTPHfcjEtV) | 2:30 | 2024-10-18 |  |
 | [Crown \- Qlank Remix](https://open.spotify.com/track/0ejt8Oi2qMU2KU8uoZZsJg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Crown Remixes](https://open.spotify.com/album/1rVdfi3hGxWVjAW95TwqYM) | 4:15 | 2024-05-02 | 2024-06-30 |
 | [Dance Again](https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:41 | 2024-01-03 | 2024-10-07 |
 | [DGAF](https://open.spotify.com/track/06Z345gYT6n333z9XYXsiY) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:17 | 2024-01-03 | 2024-09-13 |
@@ -32,7 +33,7 @@
 | [Drunk](https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:03 | 2024-01-03 |  |
 | [Elise](https://open.spotify.com/track/7aoPqIaW8W1hwsiaSrNFks) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Elise](https://open.spotify.com/album/1l4tCggsaDZ8s0bjSymMz8) | 3:05 | 2024-01-03 |  |
 | [Fast Beats](https://open.spotify.com/track/7c79srksl4pd0AX1dbSuzT) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is Off The Deep End](https://open.spotify.com/album/76WlRA8IoM6lYCzyEp9LRl) | 4:03 | 2024-01-03 | 2024-04-01 |
-| [Fast Beats](https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End](https://open.spotify.com/album/4sqdlKShrnyfzEH86X3bfW) | 4:03 | 2024-04-01 |  |
+| [Fast Beats](https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End](https://open.spotify.com/album/4sqdlKShrnyfzEH86X3bfW) | 4:03 | 2024-04-01 | 2024-10-18 |
 | [Fast Beats \(Mixed\)](https://open.spotify.com/track/5oYFyzwBY1UcPIbqpszII5) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End \(Dj Mix\)](https://open.spotify.com/album/0yXnktH2sNowgwiFUwMYOs) | 3:33 | 2024-03-13 | 2024-10-02 |
 | [Feel](https://open.spotify.com/track/09lLEr6ET6EptJTjzgMTaL) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Quinn](https://open.spotify.com/artist/2ra5scTrNqQy2ygL3H6Fyp) | [Paradise](https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl) | 4:23 | 2024-01-03 | 2024-10-17 |
 | [Find Away](https://open.spotify.com/track/45GUKSyfsmue7hTzNq9Dfp) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 2:43 | 2024-01-03 | 2024-04-28 |
@@ -71,7 +72,7 @@
 | [Ohh](https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Alien](https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa) | 3:50 | 2024-01-03 |  |
 | [On Time](https://open.spotify.com/track/39c7seNRijZVUBqXVDtJ42) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cataclysm](https://open.spotify.com/album/7zohwMTAFoqBaVhM7ll8h3) | 3:02 | 2024-01-03 |  |
 | [Outta Nothing](https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Workshop](https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC) | 3:18 | 2024-01-03 |  |
-| [Play It](https://open.spotify.com/track/6Mb4HGtEwowwZ3aFDK2s9y) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Play It](https://open.spotify.com/album/1lbSa349DdXHGneMapw1cg) | 2:33 | 2024-01-03 |  |
+| [Play It](https://open.spotify.com/track/6Mb4HGtEwowwZ3aFDK2s9y) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Play It](https://open.spotify.com/album/1lbSa349DdXHGneMapw1cg) | 2:33 | 2024-01-03 | 2024-10-18 |
 | [Ponder](https://open.spotify.com/track/2aPkC8UGlOtEcYTl0aGyt8) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cataclysm](https://open.spotify.com/album/7zohwMTAFoqBaVhM7ll8h3) | 2:30 | 2024-01-03 |  |
 | [Pretty Deep](https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:18 | 2024-01-03 |  |
 | [Problem](https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Problem](https://open.spotify.com/album/4SU1oWWE8KK62aRXiitiG6) | 3:50 | 2024-01-03 | 2024-09-25 |
@@ -82,6 +83,7 @@
 | [Step Aside](https://open.spotify.com/track/4lHD2jO3RVoy7qoT1i1zsl) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 4:17 | 2024-03-22 | 2024-08-20 |
 | [Submarine](https://open.spotify.com/track/1hgaNjE0jepk3XviaXD62M) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Workshop](https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC) | 4:22 | 2024-01-03 |  |
 | [Suffocating](https://open.spotify.com/track/3gRjHUl4CYD60Vumx0HFy3) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [Suffocating](https://open.spotify.com/album/0bLfEwZD7x7U6kWJabjjga) | 2:54 | 2024-01-03 |  |
+| [Technical](https://open.spotify.com/track/2WmqQRfjlBkvh1FQ3eIyXp) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Therapy EP](https://open.spotify.com/album/0FUzCN0xgPAaKTPHfcjEtV) | 3:30 | 2024-10-18 |  |
 | [The 5th](https://open.spotify.com/track/3YM8KRCeNSoucF8eDC8VZm) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [The 5th](https://open.spotify.com/album/5P2JVO5pl0ZC4yUQU28ZOa) | 2:29 | 2024-01-03 |  |
 | [The Count](https://open.spotify.com/track/7jxOB6F6JyAdlGDG9JdJoE) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Workshop](https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC) | 5:03 | 2024-01-03 |  |
 | [The Grind \- Original Mix](https://open.spotify.com/track/52c6FLGHCN7gM51vMqU74B) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [The Boat House Deck Party, Vol\. 2](https://open.spotify.com/album/6bzOUNVz4qAk4ipUtrCIil) | 4:55 | 2024-06-30 | 2024-07-13 |

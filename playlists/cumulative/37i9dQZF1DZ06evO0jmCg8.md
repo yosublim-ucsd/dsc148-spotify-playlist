@@ -2,7 +2,7 @@
 
 ### [This Is Arch Enemy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jmCg8)
 
-> This is Arch Enemy\. Todos os maiores hits em uma só playlist.
+> This is Arch Enemy\. The essential tracks, all in one playlist.
 
 79 songs - 5 hr 25 min
 

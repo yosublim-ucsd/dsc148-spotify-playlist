@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,569 likes - 132 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,606 likes - 132 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 18 | [静かな夜に](https://open.spotify.com/track/7sKoW5NArHgY4WoYSnQFFt) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [静かな夜に](https://open.spotify.com/album/5v9b2h2Xs8CSZUTIKDggmZ) | 4:53 |
 | 19 | [暁の車](https://open.spotify.com/track/2QHGJFiaRzbHChnloaXHhI) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/4PEChc3kKbcV371ZDYUArC) | 5:03 |
 | 20 | [水の証](https://open.spotify.com/track/6xwmNJopUWsknupGG3kTUQ) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [水の証](https://open.spotify.com/album/5YNdnDhVQsf6cyWqanKgXH) | 4:27 |
-| 21 | [Gundam出撃](https://open.spotify.com/track/7iCgATyb3pNsuQqsaGzWWj) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 1](https://open.spotify.com/album/5iCvEvBVvnRvL1EuNbRtH4) | 1:15 |
+| 21 | [GUNDAM出撃](https://open.spotify.com/track/7iCgATyb3pNsuQqsaGzWWj) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 1](https://open.spotify.com/album/5iCvEvBVvnRvL1EuNbRtH4) | 1:15 |
 | 22 | [STRIKE出撃](https://open.spotify.com/track/3cb1MdR6o62zIqzPlUMC4G) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 2](https://open.spotify.com/album/38eCcmzqetsVf76XJ4SYkf) | 3:49 |
 | 23 | [平和の祈り](https://open.spotify.com/track/383fUsSfK4f4m8uwIFEZU2) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 2](https://open.spotify.com/album/38eCcmzqetsVf76XJ4SYkf) | 1:37 |
 | 24 | [翔べ！フリーダム](https://open.spotify.com/track/4VlIw7jWgkVl7mZ4AobD92) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 3](https://open.spotify.com/album/36EhBfneJa6KCyZoy4qK26) | 1:45 |

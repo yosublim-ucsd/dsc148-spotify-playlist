@@ -5993,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Olivia Lunny",
+        "url": "https://open.spotify.com/album/1teEg0P7AZ02YP29N3AKW3"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lunny",
+          "url": "https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120031,
+      "name": "Who Could Say No",
+      "url": "https://open.spotify.com/track/1xuwqJHuotPWz2lOHzyzLJ"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },

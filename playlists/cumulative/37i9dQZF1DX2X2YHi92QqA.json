@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Michael J",
+        "url": "https://open.spotify.com/album/6RkOQHkqG0TcGZjGxPz30T"
+      },
+      "artists": [
+        {
+          "name": "Krechet",
+          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122411,
+      "name": "Michael J",
+      "url": "https://open.spotify.com/track/0AlVElhcp5XyrHOYHw6lpe"
+    },
+    {
+      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -1029,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u043e \u0420\u0430\u043d\u043a\u0443",
+        "url": "https://open.spotify.com/album/1eUX3yrGfo8UtExXzew1mm"
+      },
+      "artists": [
+        {
+          "name": "GEZWEIRDO",
+          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171025,
+      "name": "\u0414\u043e \u0420\u0430\u043d\u043a\u0443",
+      "url": "https://open.spotify.com/track/1uiIyQg4ygKdkTJ1FF7uHs"
+    },
+    {
+      "album": {
         "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
         "url": "https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q"
       },
@@ -1142,6 +1178,24 @@
       "duration_ms": 268618,
       "name": "\u0417\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/6f8g9KiXUOtisu8NTTKm13"
+    },
+    {
+      "album": {
+        "name": "\u0412\u043e\u044f\u0436",
+        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
+      },
+      "artists": [
+        {
+          "name": "YARIMA",
+          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136943,
+      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
     },
     {
       "album": {
@@ -1634,7 +1688,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 166000,
       "name": "\u041c\u043e\u044f \u0437\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI"
@@ -1742,7 +1796,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 147359,
       "name": "\u041d\u0435 \u0437\u0430\u0441\u043d\u0443",
       "url": "https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER"
@@ -1760,7 +1814,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 152835,
       "name": "\u041d\u0435 \u0437\u043d\u0430\u0454\u0448",
       "url": "https://open.spotify.com/track/3reJdN9u8tZK59kG8WYwYt"
@@ -1912,7 +1966,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 210248,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
@@ -2360,6 +2414,28 @@
       "duration_ms": 150000,
       "name": "\u0423 \u0422\u041e\u0411\u0406",
       "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
+    },
+    {
+      "album": {
+        "name": "\u0423\u0431\u0435\u0440",
+        "url": "https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT"
+      },
+      "artists": [
+        {
+          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
+          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
+        },
+        {
+          "name": "Igor Kirilenko",
+          "url": "https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0423\u0431\u0435\u0440",
+      "url": "https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain]
 
 > Stories, tales, ballads, etc
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 26 songs - 1 hr 41 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 27 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,6 @@ pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain]
 | 24 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 |
 | 25 | [Misery Fell](https://open.spotify.com/track/01BMA2zYOX51Vz7QHdSAgO) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 3:34 |
 | 26 | [Down Under](https://open.spotify.com/track/5c7fPE77YRElAsUUXNvpGr) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Down Under](https://open.spotify.com/album/7fviHYYN5OFnCiVTwgxEfZ) | 3:39 |
+| 27 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 |
 
-Snapshot ID: `AAAAH6t1V9ZDbJ0VFDPMHMxEad1bZ/aC`
+Snapshot ID: `AAAAIEpf/ywaeUxaaUirbCKA289V/MjO`

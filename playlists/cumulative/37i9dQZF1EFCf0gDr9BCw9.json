@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "And His Mother Called Him Bill",
+        "url": "https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259160,
+      "name": "Blood Count",
+      "url": "https://open.spotify.com/track/2FN3icajFPjlWRlhSqe37u"
+    },
+    {
+      "album": {
         "name": "Lush Life: The Music of Billy Strayhorn",
         "url": "https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 439973,
       "name": "Blood Count",
       "url": "https://open.spotify.com/track/0kX3qTP8uPVAxXV2oqOg1g"
@@ -548,6 +566,24 @@
       "duration_ms": 218266,
       "name": "Chalmeau",
       "url": "https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD"
+    },
+    {
+      "album": {
+        "name": "And His Mother Called Him Bill",
+        "url": "https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Charpoy",
+      "url": "https://open.spotify.com/track/4lZsHmKzHztc3Q4uTkHqTZ"
     },
     {
       "album": {

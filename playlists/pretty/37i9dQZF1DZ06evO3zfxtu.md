@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3zfxtu.md) - [plain]
 
 ### [This Is Eva Shaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zfxtu)
 
-> This is Eva Shaw\. The essential tracks, all in one playlist.
+> This Is Eva Shaw\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 101 likes - 50 songs - 2 hr 35 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3zfxtu.md) - [plain]
 | 49 | [BUST DOWN](https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Fedd the God](https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Reeves Junya](https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR) | [BUST DOWN](https://open.spotify.com/album/3bgkI3gkKiszPdTpSdaRLO) | 2:58 |
 | 50 | [Snakes](https://open.spotify.com/track/4IlWWcO4X4VUZUNjxLYX2E) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [Snakes](https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb) | 3:41 |
 
-Snapshot ID: `Zw2wgAAAAABujKA2e1yqNzwyvmt2cgW2`
+Snapshot ID: `Zw8CAAAAAADnpL1nIJvGRCt2fo6rWMJN`

@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-366 songs - 18 hr 33 min
+367 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Lift Off](https://open.spotify.com/track/77Whia5VOt6Ld1ffWKP5vu) | [Pei Pei](https://open.spotify.com/artist/5feFhyZ3MkVAxnnC0m6cdf), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [Lift Off](https://open.spotify.com/album/5D2bNPZh3mKBWozCWPdOOF) | 3:58 | 2023-10-12 |  |
 | [Like Dis](https://open.spotify.com/track/4BlhVVLEJ7H2QsPcZ0v6bL) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Like Dis](https://open.spotify.com/album/2pFskPFDiMLmH3D8HHKpDl) | 2:18 | 2023-08-24 |  |
 | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V) | 2:57 | 2022-11-18 | 2023-04-22 |
+| [Little Putz](https://open.spotify.com/track/0hKVb7ZHPQKT2UwTU10nhv) | [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Little Putz](https://open.spotify.com/album/031Wkq7AMRssBs4LKNyEEs) | 2:38 | 2024-10-17 |  |
 | [Loca](https://open.spotify.com/track/4Lr23vrGbFFdaLm7pqdOVA) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Revealed Recordings presents Miami Sampler 2024](https://open.spotify.com/album/2Dau7iVX0oPQw9uKrGdiOF) | 2:44 | 2024-03-14 |  |
 | [Lose My Breath](https://open.spotify.com/track/4fe1BxaEEfyUd4hzunQoHb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Lose My Breath](https://open.spotify.com/album/2gZEGpM7495Gnwknm2QN9E) | 2:30 | 2024-05-17 | 2024-06-22 |
 | [Lose Your Mind](https://open.spotify.com/track/0XBpOxxdLc3xH6OjjnaWML) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [Lose Your Mind](https://open.spotify.com/album/4pO5ePc9H7RG2a3CSVdmm4) | 2:38 | 2023-11-08 |  |

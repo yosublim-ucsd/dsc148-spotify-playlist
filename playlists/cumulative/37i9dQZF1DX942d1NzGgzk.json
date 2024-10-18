@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 184901,
       "name": "A Million Ways",
       "url": "https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn"
@@ -3154,6 +3154,24 @@
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "album": {
+        "name": "Lights Camera",
+        "url": "https://open.spotify.com/album/0KAGCqqtwVCQHI5gybH94S"
+      },
+      "artists": [
+        {
+          "name": "Mellina Tey",
+          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+        }
+      ],
+      "date_added": "2024-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159292,
+      "name": "Lights Camera",
+      "url": "https://open.spotify.com/track/4vwqmgzfGY1dJkU2uXa1dg"
     },
     {
       "album": {

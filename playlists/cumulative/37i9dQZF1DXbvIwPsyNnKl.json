@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 163809,
       "name": "4 2nite",
       "url": "https://open.spotify.com/track/3x0vnR5bpjgPWXPmXLpMBq"
@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Ashtray",
+        "url": "https://open.spotify.com/album/1Sg2cru2SJiSOOFdQmgy2h"
+      },
+      "artists": [
+        {
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
+        },
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "Ashtray",
+      "url": "https://open.spotify.com/track/7acx61pQgmxeYw7FBh4DYX"
+    },
+    {
+      "album": {
         "name": "Atin-Atin Lang",
         "url": "https://open.spotify.com/album/1QcUcqYEgnQppd7UhU2MNW"
       },
@@ -568,6 +590,28 @@
       "duration_ms": 244800,
       "name": "Bakante",
       "url": "https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT"
+    },
+    {
+      "album": {
+        "name": "Martial Lao",
+        "url": "https://open.spotify.com/album/2NU7PW7QQdrrGDwDIUZxk6"
+      },
+      "artists": [
+        {
+          "name": "Don Pao",
+          "url": "https://open.spotify.com/artist/7HnBKbjSa10sPCoX3HMp8Z"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287778,
+      "name": "Balagbag",
+      "url": "https://open.spotify.com/track/3s1BMSp0yxKDbTo6MDeueq"
     },
     {
       "album": {
@@ -1006,7 +1050,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 146166,
       "name": "Di man lagi",
       "url": "https://open.spotify.com/track/6GjNUBBNKxrgwVnRJCt4wa"
@@ -2566,7 +2610,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 184000,
       "name": "Medyo Crazy",
       "url": "https://open.spotify.com/track/7JZG2ljaYhgCLz3YwcI9zH"
@@ -3883,6 +3927,44 @@
     },
     {
       "album": {
+        "name": "WADADADENG!",
+        "url": "https://open.spotify.com/album/09YfFV0VRkkHjZJ9XI2OsX"
+      },
+      "artists": [
+        {
+          "name": "YGxTUS",
+          "url": "https://open.spotify.com/artist/5YvqE9ZXZJrQ5jblXbD3no"
+        },
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        },
+        {
+          "name": "Tus Brothers",
+          "url": "https://open.spotify.com/artist/4ZCNeTANx54cTP0bc6avwM"
+        },
+        {
+          "name": "SCOOP DOGG",
+          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
+        },
+        {
+          "name": "G",
+          "url": "https://open.spotify.com/artist/1C38PTwUrzm7cRKV6lFDR4"
+        },
+        {
+          "name": "Rudyrude",
+          "url": "https://open.spotify.com/artist/6fcL4uy3EeCyO3FeRVftws"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188025,
+      "name": "WADADADENG!",
+      "url": "https://open.spotify.com/track/0AuZUiq6K6E9l2GOWTuy5c"
+    },
+    {
+      "album": {
         "name": "Wag Na",
         "url": "https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57"
       },
@@ -4064,7 +4146,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 185476,
       "name": "Yes Hello",
       "url": "https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH"

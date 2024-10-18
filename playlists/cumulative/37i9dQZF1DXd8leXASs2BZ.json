@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Ashley",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -870,6 +870,24 @@
       "duration_ms": 149572,
       "name": "ALL DAYS",
       "url": "https://open.spotify.com/track/6EaYcsHsDDuvicUeAt4kBd"
+    },
+    {
+      "album": {
+        "name": "LOVE OR FAMOUS",
+        "url": "https://open.spotify.com/album/51jrvmDd2k7VbzYvOu3h86"
+      },
+      "artists": [
+        {
+          "name": "Don Tecch",
+          "url": "https://open.spotify.com/artist/7J6OOBxFd5bYFJvFHw169l"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137631,
+      "name": "ALL FOR MY FRIENDS",
+      "url": "https://open.spotify.com/track/6kM0EqXlaZZPmCwM40DUvM"
     },
     {
       "album": {
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 188000,
       "name": "Bussin'",
       "url": "https://open.spotify.com/track/57qstzbbD7PZ6Em649gLjj"
@@ -3115,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "Don't Bug Me",
+        "url": "https://open.spotify.com/album/545EbsXhiTUcvJ12tJ72zx"
+      },
+      "artists": [
+        {
+          "name": "Lil Merry",
+          "url": "https://open.spotify.com/artist/5JUoa1lxsWCQ1zyWZc5dRQ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188809,
+      "name": "Don't Bug Me",
+      "url": "https://open.spotify.com/track/4BHmwOL4zmuW8cnJ6L1nez"
+    },
+    {
+      "album": {
         "name": "Don't Pray",
         "url": "https://open.spotify.com/album/561GgmmAssSlhTawP2ewgI"
       },
@@ -4124,7 +4160,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 155747,
       "name": "Flight mode",
       "url": "https://open.spotify.com/track/532HfsnpcvAbw7wWsYmnzU"
@@ -4956,7 +4992,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 224809,
       "name": "Green & Blue",
       "url": "https://open.spotify.com/track/4LpWL3qzgCfzwSEPcEq1mh"
@@ -5304,7 +5340,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 77674,
       "name": "Hello\u3068Goodbye\uff08STUDIO\uff09",
       "url": "https://open.spotify.com/track/3RB33HXyNPfcw592EjH7dn"
@@ -6468,7 +6504,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 133177,
       "name": "KANTE",
       "url": "https://open.spotify.com/track/1WXNIPbDMaGnEtFuSE0AqO"
@@ -6620,7 +6656,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 206870,
       "name": "KISHIWADA",
       "url": "https://open.spotify.com/track/1PoUcFRHy3Kqj8AMVcn1zS"
@@ -7178,6 +7214,24 @@
       "duration_ms": 193531,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5iOymT2CgoCGgrpt5Do9Md"
+    },
+    {
+      "album": {
+        "name": "VARIOUS TAPE",
+        "url": "https://open.spotify.com/album/6scau8PfKZuX284je50V3O"
+      },
+      "artists": [
+        {
+          "name": "B.I.G. JOHN",
+          "url": "https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207111,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/7hlnOBb3lNrBMfScz1rPFR"
     },
     {
       "album": {
@@ -8126,7 +8180,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189050,
       "name": "nimo",
       "url": "https://open.spotify.com/track/3kzWYEZbCHMD3sFrNMSC1e"
@@ -8148,6 +8202,50 @@
       "duration_ms": 112115,
       "name": "NO BODY",
       "url": "https://open.spotify.com/track/084K8j62ylG6n9qNro7cXG"
+    },
+    {
+      "album": {
+        "name": "Judge My Iris",
+        "url": "https://open.spotify.com/album/5mevVb2Fr2ouPfJfjEfI1f"
+      },
+      "artists": [
+        {
+          "name": "Kidney Fuji",
+          "url": "https://open.spotify.com/artist/5ImlGMjtl8oe8VVdjY2mwd"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171678,
+      "name": "No Cap The Beanie",
+      "url": "https://open.spotify.com/track/6zHS39Ep15WzyRgoSNivS9"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        },
+        {
+          "name": "E.V.P",
+          "url": "https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU"
+        },
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx"
     },
     {
       "album": {
@@ -8266,6 +8364,28 @@
       "duration_ms": 241070,
       "name": "Not me us",
       "url": "https://open.spotify.com/track/6fiKYj4yRSw5LCJbkpzjEJ"
+    },
+    {
+      "album": {
+        "name": "Not Same",
+        "url": "https://open.spotify.com/album/6XNkj1gPnBnshMSNl0zmSL"
+      },
+      "artists": [
+        {
+          "name": "YungFLX",
+          "url": "https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe"
+        },
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Not Same",
+      "url": "https://open.spotify.com/track/5LnAlgKjwvIS9QgMEbcr1R"
     },
     {
       "album": {
@@ -8821,6 +8941,28 @@
     },
     {
       "album": {
+        "name": "PARALLEL",
+        "url": "https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104282,
+      "name": "PARALLEL",
+      "url": "https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT"
+    },
+    {
+      "album": {
         "name": "PAROPARO G",
         "url": "https://open.spotify.com/album/6bT1zDT7iBryIANoAw6cCq"
       },
@@ -9296,7 +9438,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 185509,
       "name": "Question",
       "url": "https://open.spotify.com/track/6noHxXC8atnQWzCq40SSGm"
@@ -11541,6 +11683,24 @@
     },
     {
       "album": {
+        "name": "TORIKAGO",
+        "url": "https://open.spotify.com/album/4CZxPgF6y10pfhiJC6jKN8"
+      },
+      "artists": [
+        {
+          "name": "MELLMWOR1D",
+          "url": "https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "TORIKAGO",
+      "url": "https://open.spotify.com/track/0XEIBjxWSRJDT10AJH9Lzu"
+    },
+    {
+      "album": {
         "name": "TOYOTA CAROLLA",
         "url": "https://open.spotify.com/album/69hNAvQ8asBkrJMjGDggDD"
       },
@@ -11880,7 +12040,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 165882,
       "name": "VVS PRIDE",
       "url": "https://open.spotify.com/track/55JY5TGyXVGUH3kJFfLwIF"
@@ -12212,6 +12372,32 @@
       "duration_ms": 191695,
       "name": "WEEK",
       "url": "https://open.spotify.com/track/6LV86HR3dMXC4LrHCDLy0W"
+    },
+    {
+      "album": {
+        "name": "weirdo/Millennium",
+        "url": "https://open.spotify.com/album/6JpLwidvOTk4WUEa1uDSFb"
+      },
+      "artists": [
+        {
+          "name": "Neo Dull Gal",
+          "url": "https://open.spotify.com/artist/1d6kbQK4mir4XWuZFz6O5H"
+        },
+        {
+          "name": "Has-ki",
+          "url": "https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA"
+        },
+        {
+          "name": "WeSSker",
+          "url": "https://open.spotify.com/artist/48sZzOWgl5UNqG9hFvKH5v"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "weirdo",
+      "url": "https://open.spotify.com/track/3JPV6hVbgukzEIROS98UEX"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: The Motans
+> Cele mai noi hituri pop românești\. Cover: Theo Rose
 
-111 songs - 5 hr 11 min
+112 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,9 +93,10 @@
 | [Pierde Vara](https://open.spotify.com/track/3WFs2YbpuhYViZHUnALLO6) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Pierde Vara](https://open.spotify.com/album/0wHgl70qHZ0Z0ghACxg4Z1) | 2:55 | 2024-08-08 | 2024-10-11 |
 | [Ploi de Tequila](https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ploi de Tequila](https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk) | 2:26 | 2024-08-15 |  |
 | [Prieteni](https://open.spotify.com/track/762tfyVXBlCKIzKebDJaVU) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Prieteni](https://open.spotify.com/album/1oFPhfgmm9Bwo3olTP6a5G) | 2:49 | 2024-07-04 | 2024-08-30 |
+| [Prima](https://open.spotify.com/track/7EFYXFaEUy3zDdOwswRABH) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2) | [Prima](https://open.spotify.com/album/6LxdybTWDkQE9uoMdhI7GX) | 3:19 | 2024-10-17 |  |
 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 | 2024-06-27 |  |
 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 | 2024-06-27 |  |
-| [RiTiTi](https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [RiTiTi](https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm) | 2:19 | 2024-09-05 |  |
+| [RiTiTi](https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [RiTiTi](https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm) | 2:19 | 2024-09-05 | 2024-10-18 |
 | [Roșu nuclear](https://open.spotify.com/track/2AMOK3ZRupIVD0NNKd8fLg) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Roșu nuclear](https://open.spotify.com/album/6wHZ8Mkj52kWsMWV0cJ6XT) | 2:35 | 2024-06-27 | 2024-09-06 |
 | [Scena vieții](https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Scena vieții](https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH) | 2:51 | 2024-08-22 |  |
 | [Soarele](https://open.spotify.com/track/3FuoK7AJsoiREE68u177Np) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp), [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Soarele](https://open.spotify.com/album/2STRuouXSKx44WAvolBCvw) | 2:38 | 2024-09-19 |  |

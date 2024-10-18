@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,604 likes - 566 songs - 1 day 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,618 likes - 566 songs - 1 day 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 161 | [Trascendente](https://open.spotify.com/track/73PZWE2BdEjTSOZz04cwyZ) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Trascendente](https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony) | 1:30 |
 | 162 | [No Importa el Lugar \(Luismi\)](https://open.spotify.com/track/6ornDRiWKj8oYkrqD1QGMm) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Trascendente](https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony) | 1:25 |
 | 163 | [PTLM](https://open.spotify.com/track/1QmoQc8Zzu4hzcIBPA1Li6) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 2:18 |
-| 164 | [OVERTHINKING](https://open.spotify.com/track/0KyDHcSdBtnbOlnfGbGvj1) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 2:35 |
-| 165 | [DEJO AL JEVO](https://open.spotify.com/track/2PwEVpInyO6MMxKK6wny5i) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 3:14 |
+| 164 | [OVERTHINKING](https://open.spotify.com/track/0KyDHcSdBtnbOlnfGbGvj1) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Álvaro Díaz](https://open.spotify.com/artist/0cn182v9T2NPfhnpKnOYq9) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 2:35 |
+| 165 | [DEJO AL JEVO](https://open.spotify.com/track/2PwEVpInyO6MMxKK6wny5i) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Ñejo](https://open.spotify.com/artist/7mdooyGSGp2tNwYQcbaLTi) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 3:14 |
 | 166 | [FruityBoy](https://open.spotify.com/track/3hSJJsUkP7CQ9Hl5pGxgop) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 2:55 |
 | 167 | [CamGirl >.< !!!](https://open.spotify.com/track/4qHJIpKryl4jLCdkyXwbKb) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 2:35 |
 | 168 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |

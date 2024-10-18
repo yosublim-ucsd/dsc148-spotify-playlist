@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Anastasia ",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 187730,
       "name": "Apo To 1 Os To 100",
       "url": "https://open.spotify.com/track/0MqTIkt51D8HJhNRTYvANs"
@@ -562,6 +562,24 @@
       "duration_ms": 144552,
       "name": "FLX",
       "url": "https://open.spotify.com/track/5BGsV1OzGDMvtu15TC0fFU"
+    },
+    {
+      "album": {
+        "name": "GAZI",
+        "url": "https://open.spotify.com/album/74esBZnAUIfyXFfsFJ6fF0"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166128,
+      "name": "GAZI",
+      "url": "https://open.spotify.com/track/3p5pRqTyhP2APMspQvccvA"
     },
     {
       "album": {
@@ -945,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Milame Gia Erota",
+        "url": "https://open.spotify.com/album/3XjBviyW4jsCN1hZbGdkZI"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Giannias",
+          "url": "https://open.spotify.com/artist/5Zhz9yMdYnBBy6hH2AII46"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230734,
+      "name": "Milame Gia Erota",
+      "url": "https://open.spotify.com/track/3V0v0maG0ROHL5tE2dtbOl"
+    },
+    {
+      "album": {
         "name": "Misi Kardia",
         "url": "https://open.spotify.com/album/27vjoREultOZefvf0GwvHD"
       },
@@ -1065,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Neon Sky",
+        "url": "https://open.spotify.com/album/7bhgW6xg1uvqhDzlUD14Vg"
+      },
+      "artists": [
+        {
+          "name": "Kid Moxie",
+          "url": "https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Neon Sky",
+      "url": "https://open.spotify.com/track/2mw0Apayn8IKWyKwsaZ8mx"
+    },
+    {
+      "album": {
         "name": "Noumero 1",
         "url": "https://open.spotify.com/album/0IqPdSYN3oTYYx8PYlTWRq"
       },
@@ -1083,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Ousia",
+        "url": "https://open.spotify.com/album/0RYLaTL1YzdDKtda4nX6Fc"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142166,
+      "name": "Ousia",
+      "url": "https://open.spotify.com/track/2BsP53xyo5Nf3HrBbnF0tA"
+    },
+    {
+      "album": {
         "name": "Oute Ligo",
         "url": "https://open.spotify.com/album/2eNJFF5e7TT1ZVnxZIB6EB"
       },
@@ -1094,7 +1166,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 153711,
       "name": "Oute Ligo",
       "url": "https://open.spotify.com/track/70p1lyvyuFmWtX2ia1SxJJ"
@@ -1218,7 +1290,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 287351,
       "name": "Pirotehnimata - Playmen Remix",
       "url": "https://open.spotify.com/track/0MCyMfoKFcYfyguoKGiQsM"
@@ -1594,7 +1666,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 165604,
       "name": "XANA",
       "url": "https://open.spotify.com/track/70WlqksyNuh668wCoKD7zn"

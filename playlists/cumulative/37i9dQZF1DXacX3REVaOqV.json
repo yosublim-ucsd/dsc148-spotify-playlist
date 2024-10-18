@@ -88,6 +88,10 @@
         {
           "name": "Kurtis Wells",
           "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
       "date_added": "2024-10-10",
@@ -1906,7 +1910,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 158740,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/6fx38TLTNzsZ5irbKEnVQO"
@@ -7962,6 +7966,24 @@
       "duration_ms": 413745,
       "name": "Right On - Dario D'attis Remix",
       "url": "https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj"
+    },
+    {
+      "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/41BUkrdl42fJx9qYlhsmi1"
+      },
+      "artists": [
+        {
+          "name": "KEANU",
+          "url": "https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202851,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/5Cs5XxTatXhs6oj0Vo77Vk"
     },
     {
       "album": {

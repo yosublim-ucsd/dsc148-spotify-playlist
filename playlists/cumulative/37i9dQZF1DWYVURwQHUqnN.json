@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Guy2Bezbar",
+  "description": "Photo : KeBlack",
   "name": "Best Life",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 161760,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/3FkkftN0UpnJbjHOMQPVVY"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 152523,
       "name": "C\u0153ur lourd",
       "url": "https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W"
@@ -1062,6 +1062,24 @@
       "duration_ms": 151351,
       "name": "D\u00e8s l'matin",
       "url": "https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sol\u00e9",
+        "url": "https://open.spotify.com/album/7KZeYhjTDjtmeqv0uSpEIt"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "D\u00e9sol\u00e9",
+      "url": "https://open.spotify.com/track/6xPkTu22FkhoqT0BiIRJkf"
     },
     {
       "album": {
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 135257,
       "name": "OHMA TOKITA",
       "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
@@ -2370,6 +2388,28 @@
       "duration_ms": 166914,
       "name": "On est pr\u00eat",
       "url": "https://open.spotify.com/track/3roPtG7hZaqEqbJIqt412J"
+    },
+    {
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/1Jz5ZUcuwsqrJSXNOLDhXn"
+      },
+      "artists": [
+        {
+          "name": "2Wi",
+          "url": "https://open.spotify.com/artist/65jimE7WVnHLs0ZAQJej2O"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141134,
+      "name": "ON SE REVERRA",
+      "url": "https://open.spotify.com/track/5ArceZKYhOVmFGQ5gXZAKQ"
     },
     {
       "album": {
@@ -3460,7 +3500,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 187298,
       "name": "Terminal 2F",
       "url": "https://open.spotify.com/track/0kcTNJvmhpx2Oeb4VChx14"

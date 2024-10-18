@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 
 > Music From "Pretty Cure" series! 音楽で辿る「プリキュア」シリーズの世界!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,869 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,887 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 | 6 | [DELICIOUS HAPPY DAYS♪](https://open.spotify.com/track/6NIi6mT411gAaBBdpoTKD6) | [吉武千颯](https://open.spotify.com/artist/7pSHeDPpr7dU6nkxAa2D83) | [デリシャスパーティ♡プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/15JIJms7qoGCJA9iF0jtKY) | 3:41 |
 | 7 | [トロピカ I・N・G](https://open.spotify.com/track/7rSnYX4G93eUKMI1W5WiqC) | [吉武千颯](https://open.spotify.com/artist/7pSHeDPpr7dU6nkxAa2D83) | [トロピカル～ジュ！プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/5Uhnlt9yiEpf4tKlAYmlGJ) | 4:11 |
 | 8 | [Viva! Spark!トロピカル～ジュ！プリキュア](https://open.spotify.com/track/3JMxx8Ro0ib4ya12I07IIr) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [トロピカル～ジュ！プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/5Uhnlt9yiEpf4tKlAYmlGJ) | 4:22 |
-| 9 | [ヒーリングっど♥プリキュア Touch!!](https://open.spotify.com/track/5hdV3SdDnisJEd7rEhUZyD) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [ヒーリングっど♥プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 3:47 |
-| 10 | [ミラクルっと♥Link Ring!](https://open.spotify.com/track/7oTZJP8WeEdfrDDeR7bJWU) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [ヒーリングっど♥プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 4:07 |
+| 9 | [ヒーリングっど♥プリキュア Touch!!](https://open.spotify.com/track/5hdV3SdDnisJEd7rEhUZyD) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [ヒーリングっど♥プリキュア　主題歌シングル　【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 3:47 |
+| 10 | [ミラクルっと♥Link Ring！](https://open.spotify.com/track/7oTZJP8WeEdfrDDeR7bJWU) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [ヒーリングっど♥プリキュア　主題歌シングル　【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 4:07 |
 | 11 | [Dokkin◇魔法つかいプリキュア！Part2](https://open.spotify.com/track/1rZqrzMcKUsve3EC3IbTmv) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [「魔法つかいプリキュア！」後期主題歌 OP：Dokkin◇魔法つかいプリキュア！Part2／ED：魔法アラ・ドーモ！](https://open.spotify.com/album/0Fz971mYrUywS9X2YCFF5K) | 3:10 |
-| 12 | [Alright!ハートキャッチプリキュア!](https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [「ハートキャッチプリキュア!」主題歌 OP:Alright!ハートキャッチプリキュア!/ED:ハートキャッチ☆パラダイス!](https://open.spotify.com/album/0OqbFn5pWCZAnzWpN7z8pf) | 3:46 |
+| 12 | [Alright！ハートキャッチプリキュア！](https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [「ハートキャッチプリキュア！」主題歌 OP:Alright！ハートキャッチプリキュア！／ED:ハートキャッチ☆パラダイス！](https://open.spotify.com/album/0OqbFn5pWCZAnzWpN7z8pf) | 3:46 |
 | 13 | [まかせて★スプラッシュ☆スター★](https://open.spotify.com/track/4xzNfGzS08C77PUUu2Tn6G) | [うちやえゆか](https://open.spotify.com/artist/4WBOJBHJLNQwKkJ7t3Anmj) | [まかせて★スプラッシュ☆スター★/「笑うが勝ち!」でGO!](https://open.spotify.com/album/3rJJEnGmG3sFnassNyGeeP) | 3:48 |
 | 14 | [SHINE!! キラキラ☆プリキュアアラモード](https://open.spotify.com/track/5Q1d5akQ9koYHID9jvyb5j) | [Yuri Komagata](https://open.spotify.com/artist/6atHQbSsM5REhBq8wSFkQw) | [「キラキラ☆プリキュアアラモード」主題歌シングル【通常盤】OP：SHINE!! キラキラ☆プリキュアアラモード／ED：レッツ・ラ・クッキン☆ショータイム](https://open.spotify.com/album/6fSVxsN5hXfziL35fm0og5) | 3:45 |
 | 15 | [ハピネスチャージプリキュア！ＷＯＷ！](https://open.spotify.com/track/2l7JC7sDxhhBPGVJx3UjvL) | [Sayaka Nakaya](https://open.spotify.com/artist/0dxAJMlXatPl27JLd5Z1Rd) | [「ハピネスチャージプリキュア！」主題歌シングル OP:ハピネスチャージプリキュア！ＷＯＷ！/ED:プリキュア・メモリ【通常盤】](https://open.spotify.com/album/1ClWd3t145NYbQuKfwuEkJ) | 3:46 |

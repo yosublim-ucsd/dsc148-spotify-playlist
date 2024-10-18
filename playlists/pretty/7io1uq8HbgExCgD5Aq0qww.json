@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAH6t1V9ZDbJ0VFDPMHMxEad1bZ/aC",
+  "snapshot_id": "AAAAIEpf/ywaeUxaaUirbCKA289V/MjO",
   "tracks": [
     {
       "added_at": "2023-03-21 22:26:52",
@@ -459,6 +459,26 @@
       "duration_ms": 219293,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/5c7fPE77YRElAsUUXNvpGr"
+    },
+    {
+      "added_at": "2024-10-17 04:37:51",
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO"
     }
   ],
   "unique_name": "The Bard",

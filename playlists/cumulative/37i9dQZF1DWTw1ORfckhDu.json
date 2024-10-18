@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Jore & Zpoppa.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Turisti.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 180159,
       "name": "Dice",
       "url": "https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc"
@@ -1950,6 +1950,24 @@
       "duration_ms": 162000,
       "name": "Ei tipu - Legacy RMX",
       "url": "https://open.spotify.com/track/5zQE5aCCp57GwTPngvf9AX"
+    },
+    {
+      "album": {
+        "name": "NEVERSELLOUT",
+        "url": "https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123018,
+      "name": "Ei t\u00e4n\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16"
     },
     {
       "album": {
@@ -4202,6 +4220,28 @@
       "duration_ms": 175314,
       "name": "jos s\u00e4 tahdot niin (feat. koira)",
       "url": "https://open.spotify.com/track/3uhmFaAajDvhc3Q39ARBxi"
+    },
+    {
+      "album": {
+        "name": "Juhlittavaa (feat. Lytt\u00e4)",
+        "url": "https://open.spotify.com/album/27f3BuFXVj423LXp423lTd"
+      },
+      "artists": [
+        {
+          "name": "Rosvo",
+          "url": "https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1"
+        },
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166510,
+      "name": "Juhlittavaa (feat. Lytt\u00e4)",
+      "url": "https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ"
     },
     {
       "album": {
@@ -7598,7 +7638,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 182368,
       "name": "MILJON\u00c4\u00c4RI",
       "url": "https://open.spotify.com/track/0K6Lmd36re3KZb1FdkIehh"
@@ -8211,6 +8251,32 @@
     },
     {
       "album": {
+        "name": "My\u00f6t\u00e4virta (feat. Kojo & Shabu)",
+        "url": "https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Kojo",
+          "url": "https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0"
+        },
+        {
+          "name": "Shabu",
+          "url": "https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187196,
+      "name": "My\u00f6t\u00e4virta (feat. Kojo & Shabu)",
+      "url": "https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi"
+    },
+    {
+      "album": {
         "name": "M\u00e4 + S\u00e4",
         "url": "https://open.spotify.com/album/0KamvhJfssRJURAfaMSdja"
       },
@@ -8484,6 +8550,32 @@
       "duration_ms": 232454,
       "name": "Niinku Ennen Tehtiin",
       "url": "https://open.spotify.com/track/5LKu3UuIECUPeOaiwc5vie"
+    },
+    {
+      "album": {
+        "name": "PAHA TYTT\u00d6 ERA - EP",
+        "url": "https://open.spotify.com/album/3xzGmpefWNCVfkBnuzoKEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Routa",
+          "url": "https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN"
+        },
+        {
+          "name": "Matriarkaatti",
+          "url": "https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ"
+        },
+        {
+          "name": "Veera Heaven",
+          "url": "https://open.spotify.com/artist/0qwGCqaqSbO4ZBwKiY7Gmp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197750,
+      "name": "Noidat",
+      "url": "https://open.spotify.com/track/1h5vHVilrS4luBjTaMZAwQ"
     },
     {
       "album": {
@@ -10595,6 +10687,24 @@
     },
     {
       "album": {
+        "name": "T\u00e4htisumua",
+        "url": "https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145053,
+      "name": "Sata shottii",
+      "url": "https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO"
+    },
+    {
+      "album": {
         "name": "Sattumaa",
         "url": "https://open.spotify.com/album/39BvTFfIYfvCho4grrwoQJ"
       },
@@ -10859,6 +10969,24 @@
     },
     {
       "album": {
+        "name": "SELKEE",
+        "url": "https://open.spotify.com/album/3Jk7ZQtHg72U9ii2PzOhAf"
+      },
+      "artists": [
+        {
+          "name": "Bojos",
+          "url": "https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215574,
+      "name": "SELKEE",
+      "url": "https://open.spotify.com/track/08CGtOPPlteUVTynBU7Lfx"
+    },
+    {
+      "album": {
         "name": "Selvii p\u00e4ivii",
         "url": "https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5"
       },
@@ -10870,7 +10998,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 180031,
       "name": "Selvii p\u00e4ivii",
       "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
@@ -11150,7 +11278,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 142419,
       "name": "somet1mes a gangsta need a hug 2",
       "url": "https://open.spotify.com/track/3afmu7jGrb67d55mlEr3yX"
@@ -11712,6 +11840,24 @@
       "duration_ms": 150000,
       "name": "Syd\u00e4n kaipaa Hesuliin",
       "url": "https://open.spotify.com/track/7hVgfkKkFB0KMi173SGZ2O"
+    },
+    {
+      "album": {
+        "name": "SYNTT\u00c4RIT",
+        "url": "https://open.spotify.com/album/22sP804H7zbRl0m17PHSGx"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130865,
+      "name": "SYNTT\u00c4RIT",
+      "url": "https://open.spotify.com/track/2BzACnJd4byI5vred73DuD"
     },
     {
       "album": {
@@ -13540,7 +13686,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 182468,
       "name": "Vielki kentil",
       "url": "https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC"
@@ -14274,7 +14420,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 169091,
       "name": "Y\u00f6t\u00f6n y\u00f6",
       "url": "https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF"
@@ -14354,7 +14500,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 158455,
       "name": "\u00c4rsytt\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ"

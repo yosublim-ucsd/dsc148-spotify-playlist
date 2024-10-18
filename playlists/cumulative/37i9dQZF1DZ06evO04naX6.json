@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
+  "description": "This is Yandel. The essential tracks, all in one playlist.",
   "name": "This Is Yandel",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 126016,
       "name": "CON CO",
       "url": "https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02"
@@ -1430,6 +1430,32 @@
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "album": {
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222698,
+      "name": "MAQUINA",
+      "url": "https://open.spotify.com/track/1H2wUSN2cJZh261gnw0LmP"
     },
     {
       "album": {

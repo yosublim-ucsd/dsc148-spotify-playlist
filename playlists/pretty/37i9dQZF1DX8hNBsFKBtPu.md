@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Svea S on the cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,987 likes - 111 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,991 likes - 111 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

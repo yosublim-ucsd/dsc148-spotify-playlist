@@ -4,7 +4,7 @@
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-285 songs - 12 hr 53 min
+286 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 | 2022-07-14 | 2024-10-05 |
 | [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 | 2023-01-20 | 2024-10-14 |
 | [Semprerosa](https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Semprerosa](https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F) | 3:20 | 2023-02-23 | 2024-07-02 |
+| [Sentiti libera](https://open.spotify.com/track/5WfwO3nuHubBjtkAXX4X9I) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Sentiti libera](https://open.spotify.com/album/3KEXoEM1U0S5GtdJgMakIF) | 2:37 | 2024-10-17 |  |
 | [senza te](https://open.spotify.com/track/6FzDpbUfMipKnZHvk4egh2) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [senza te](https://open.spotify.com/album/7ee5kaFMWyI7Wpnr0LHMNL) | 2:38 | 2023-11-09 | 2023-12-14 |
 | [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 | 2024-06-12 |
 | [Settembre](https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Settembre](https://open.spotify.com/album/1QQalKla8lTJZSLEoPBhir) | 2:11 | 2022-06-13 | 2023-01-13 |
@@ -268,7 +269,7 @@
 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 | 2023-09-07 |  |
 | [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 | 2022-04-21 | 2022-12-15 |
 | [TI VA DI FARMI A PEZZI](https://open.spotify.com/track/4MGY99wRcj1dGIjdaleCyr) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [TI VA DI FARMI A PEZZI](https://open.spotify.com/album/3FF8qWE3B4B3XdLjzfgpsD) | 2:58 | 2022-06-16 | 2023-03-25 |
-| [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 | 2022-05-26 |  |
+| [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 | 2022-05-26 | 2024-10-18 |
 | [TRISTE SETTEMBRE](https://open.spotify.com/track/1Sf6k23fxs2foTVNojH8B4) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [TRISTE SETTEMBRE](https://open.spotify.com/album/1DplDQKyynARCFXHvp3kSk) | 3:38 | 2022-12-05 | 2023-01-13 |
 | [Troia](https://open.spotify.com/track/2bTaFk4O8I9WsHJ6qDoka0) | [Disa](https://open.spotify.com/artist/3vxADmyPkDsjBzoUu8imYj) | [Troia](https://open.spotify.com/album/3BtL4SL6xF75s3SSvoS69R) | 2:56 | 2022-09-22 | 2022-12-09 |
 | [Tu mi fai bene](https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Tu mi fai bene](https://open.spotify.com/album/55VCDai04r0JFf3mySHac6) | 1:57 | 2023-06-14 |  |

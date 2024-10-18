@@ -2,9 +2,9 @@
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. Todos os maiores hits em uma só playlist.
+> This is League of Legends\. Tutti i brani in un'unica playlist.
 
-77 songs - 4 hr 22 min
+78 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5QWjrWckcPcSVqQNfbD4Bc) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4IqXRlsnNgkhuQMrdrtoxY) | 3:50 | 2024-01-29 | 2024-09-20 |
 | [Guns for Hire \(from the series Arcane League of Legends\)](https://open.spotify.com/track/38x5NsjgoLaYCnhAghHdyo) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Guns for Hire \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5NgVCpHat6HmhlEISyXdIV) | 3:46 | 2024-09-11 |  |
 | [Hall of Legends: Orchestral Theme](https://open.spotify.com/track/3uUhu7AwioNHpA50nFdhdo) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hall of Legends: Orchestral Theme](https://open.spotify.com/album/21L28RGYsJBThdnvVLdG86) | 5:06 | 2024-06-26 | 2024-07-23 |
+| [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-10-18 |  |
 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 | 2024-01-29 | 2024-05-29 |
 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 | 2024-01-29 | 2024-10-05 |
 | [I'LL SHOW YOU](https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:18 | 2024-01-29 |  |

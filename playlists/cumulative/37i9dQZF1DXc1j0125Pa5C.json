@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Resenha das Minas 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298602,
+      "name": "Em Busca da Minha Sorte / Vai Valer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4uGdM1nTvm0dMyWgNMmqij"
+    },
+    {
+      "album": {
         "name": "Sorriso Maroto As Antigas - Parte 1 - Ao Vivo",
         "url": "https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw"
       },
@@ -1769,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Na Alegria ou na Tristeza / A Dist\u00e2ncia / Por Mais Cem Anos",
+        "url": "https://open.spotify.com/album/45K60gGGpSmN0C9N94fWo0"
+      },
+      "artists": [
+        {
+          "name": "Imaginasamba",
+          "url": "https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269381,
+      "name": "Na Alegria ou na Tristeza / A Dist\u00e2ncia / Por Mais Cem Anos",
+      "url": "https://open.spotify.com/track/5lMG9h7PqWuu4E5kGqd1Su"
+    },
+    {
+      "album": {
         "name": "Samba da Ladeira (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP"
       },
@@ -2184,7 +2224,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 663913,
       "name": "Pot-Pourri: Ch\u00e1 de Sumi\u00e7o | Confian\u00e7a | Carona do Amor | V\u00f4o Pro Jap\u00e3o | Sem Perceber | Linguagem dos Olhos",
       "url": "https://open.spotify.com/track/4KMGttvIbuSAkqH0RW5omZ"
@@ -2928,7 +2968,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 298992,
       "name": "Teu Segredo / Duvido / Pra N\u00e3o Dar Bandeira",
       "url": "https://open.spotify.com/track/6FxwOCgaBBUrL7pKi4nHEt"

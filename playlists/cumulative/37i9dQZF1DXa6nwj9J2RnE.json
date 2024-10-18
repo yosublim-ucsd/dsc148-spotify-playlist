@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 281253,
       "name": "Glas",
       "url": "https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 97586,
       "name": "Hard",
       "url": "https://open.spotify.com/track/1ei3aZ5fgpR1h1Uh8PEqEF"
@@ -978,6 +978,24 @@
       "duration_ms": 152044,
       "name": "het mag ook eens stil zijn",
       "url": "https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma"
+    },
+    {
+      "album": {
+        "name": "Het Valt Niet Uit De lucht",
+        "url": "https://open.spotify.com/album/5r3l8KL9HprbvEvOOPGzZm"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124448,
+      "name": "Het Valt Niet Uit De Lucht",
+      "url": "https://open.spotify.com/track/58imytk9xaRuOmyyMDPXlz"
     },
     {
       "album": {
@@ -1676,6 +1694,36 @@
       "duration_ms": 158012,
       "name": "met de tijd",
       "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
+    },
+    {
+      "album": {
+        "name": "Huilen In De Rokersruimte",
+        "url": "https://open.spotify.com/album/4xnKLvwiSiEibu83ZhQt8C"
+      },
+      "artists": [
+        {
+          "name": "Jong Louis",
+          "url": "https://open.spotify.com/artist/5zgkHKzkko4hE6CmPyxd7c"
+        },
+        {
+          "name": "Jimmy De Ville",
+          "url": "https://open.spotify.com/artist/0vrn3Hsu2D0gekGf3Q94i4"
+        },
+        {
+          "name": "Alphie",
+          "url": "https://open.spotify.com/artist/4PI1vCgLkIXoWUJqBcCmt3"
+        },
+        {
+          "name": "Meezy F",
+          "url": "https://open.spotify.com/artist/4dfwfwxqZ29Y6wHw5ILDYm"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244057,
+      "name": "Mexican Mule",
+      "url": "https://open.spotify.com/track/0x8UNO5jrfgzkg9fxSdcKJ"
     },
     {
       "album": {

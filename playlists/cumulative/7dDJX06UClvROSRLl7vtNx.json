@@ -153,6 +153,32 @@
     },
     {
       "album": {
+        "name": "Alelujah",
+        "url": "https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Alelujah",
+      "url": "https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62"
+    },
+    {
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/1fD4dmOFr7TEmwq9tVTQM4"
       },

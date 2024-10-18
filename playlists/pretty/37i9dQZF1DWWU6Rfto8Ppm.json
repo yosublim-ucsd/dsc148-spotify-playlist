@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Daddy Yankee.",
-  "num_followers": 3590693,
+  "num_followers": 3590834,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
+        "name": "El Bokisucio",
+        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Gata Oficial",
+      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
-        "name": "El Bokisucio",
-        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Gata Oficial",
-      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 224706,
       "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
       "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "In Business",
-        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 188320,
       "name": "Sol, Playa Y Arena",
       "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "In Business",
+        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -1939,38 +1939,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "Broke & Famous",
-        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Sexo En La Playa",
-      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
-      },
-      "artists": [
-        {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -2015,6 +1983,38 @@
       "duration_ms": 269558,
       "name": "los Disicipulos",
       "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "Broke & Famous",
+        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Sexo En La Playa",
+      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+      },
+      "artists": [
+        {
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "Drama Queen - Deluxe Version",
-        "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "La Vida Es As\u00ed",
-      "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "Drama Queen (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -2659,30 +2659,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "Money Is Still A Major Issue",
-        "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Culo Remix",
-      "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "Matador (Official Remix)",
         "url": "https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq"
       },
@@ -2711,6 +2687,30 @@
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "Money Is Still A Major Issue",
+        "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Culo Remix",
+      "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -2991,18 +2991,22 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "Megahitz Volumen Uno",
-        "url": "https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U"
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
         }
       ],
-      "duration_ms": 262407,
-      "name": "Maniatica",
-      "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
+      "duration_ms": 190186,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -3023,22 +3027,18 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+        "name": "Megahitz Volumen Uno",
+        "url": "https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U"
       },
       "artists": [
         {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
+      "duration_ms": 262407,
+      "name": "Maniatica",
+      "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "Drag\u00f3n & Caballero",
-        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
-      },
-      "artists": [
-        {
-          "name": "Dragon & Caballero",
-          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
-        }
-      ],
-      "duration_ms": 218928,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "The Money Machine Presenta: El Bando Korrupto 2",
         "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
       },
@@ -3171,6 +3155,22 @@
       "duration_ms": 171066,
       "name": "Voz Sensual",
       "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "Drag\u00f3n & Caballero",
+        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
+      },
+      "artists": [
+        {
+          "name": "Dragon & Caballero",
+          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
+        }
+      ],
+      "duration_ms": 218928,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
     },
     {
       "added_at": "2024-09-27 12:46:12",
@@ -3411,26 +3411,6 @@
     {
       "added_at": "2024-09-27 12:46:12",
       "album": {
-        "name": "Guanabanas Update, Vol. 2",
-        "url": "https://open.spotify.com/album/33OqL37rJF7Kv9Sj6KsJTU"
-      },
-      "artists": [
-        {
-          "name": "Guanabanas",
-          "url": "https://open.spotify.com/artist/65PHKFCs7HHGUXdOlqHwvK"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 229694,
-      "name": "Mi Gatita y Yo",
-      "url": "https://open.spotify.com/track/3SNi0cgDGKJxUOZbbnAn7w"
-    },
-    {
-      "added_at": "2024-09-27 12:46:12",
-      "album": {
         "name": "The Royalty",
         "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
       },
@@ -3463,6 +3443,26 @@
       "duration_ms": 225055,
       "name": "Pum Pum",
       "url": "https://open.spotify.com/track/27cJ2fmLUPntkn86UVe1BR"
+    },
+    {
+      "added_at": "2024-09-27 12:46:12",
+      "album": {
+        "name": "Guanabanas Update, Vol. 2",
+        "url": "https://open.spotify.com/album/33OqL37rJF7Kv9Sj6KsJTU"
+      },
+      "artists": [
+        {
+          "name": "Guanabanas",
+          "url": "https://open.spotify.com/artist/65PHKFCs7HHGUXdOlqHwvK"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 229694,
+      "name": "Mi Gatita y Yo",
+      "url": "https://open.spotify.com/track/3SNi0cgDGKJxUOZbbnAn7w"
     },
     {
       "added_at": "2024-09-27 12:46:12",

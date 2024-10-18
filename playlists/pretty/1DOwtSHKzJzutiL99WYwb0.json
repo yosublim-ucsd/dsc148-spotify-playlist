@@ -1,13 +1,61 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: xikers",
-  "num_followers": 748,
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: KISS OF LIFE",
+  "num_followers": 749,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAHOjhT/MzW+iBEZWb1XEUZn5+DFuLn",
+  "snapshot_id": "AAAHQbqwXCTWZlb/3IQ1o41P7fgOivjE",
   "tracks": [
+    {
+      "added_at": "2024-10-18 01:14:06",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n"
+    },
+    {
+      "added_at": "2024-10-18 01:15:18",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2024-10-18 01:15:07",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "A Sleepless Night",
+      "url": "https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX"
+    },
     {
       "added_at": "2024-10-10 07:54:35",
       "album": {
@@ -1587,54 +1635,6 @@
       "duration_ms": 179000,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD"
-    },
-    {
-      "added_at": "2023-08-21 09:01:44",
-      "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "ICKY",
-      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2023-08-21 09:01:34",
-      "album": {
-        "name": "I feel",
-        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "Queencard",
-      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
-    },
-    {
-      "added_at": "2023-08-21 09:01:27",
-      "album": {
-        "name": "The Beginning : \u98db\u4e0a",
-        "url": "https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4"
-      },
-      "artists": [
-        {
-          "name": "ATBO",
-          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

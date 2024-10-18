@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney.
 
-137 songs - 6 hr 58 min
+138 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [U Know What's Up](https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:08 | 2023-09-15 |  |
 | [Un Amigo Fiel](https://open.spotify.com/track/6GTcMZqvnPzBvOeylpRSdk) | [Rubén Trujillo](https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:26 | 2023-09-15 |  |
 | [Un mundo ideal \(Versión Créditos\)](https://open.spotify.com/track/5pGJgq1KxaRHEOZTD0egWL) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Aladdín \(Banda De Sonido Original en Español\)](https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs) | 4:01 | 2023-09-15 |  |
-| [Un Poco Loco](https://open.spotify.com/track/2FkSd709jZmvngPNUg7jkQ) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 | 2023-09-15 |  |
+| [Un Poco Loco](https://open.spotify.com/track/2FkSd709jZmvngPNUg7jkQ) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 | 2023-09-15 | 2024-10-18 |
+| [Un Poco Loco](https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \- Banda Sonora Original en Español](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 1:52 | 2024-10-17 |  |
 | [Un Salto Adelante](https://open.spotify.com/track/4YLKSQgmCpl3TS1k4p7rpS) | [Demian Bichir](https://open.spotify.com/artist/64QY3QAj4yJWXcpWuw9fMo) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:22 | 2023-09-15 |  |
 | [Una estrella](https://open.spotify.com/track/4pyXG2EVYQarFHT2TdCk2M) | [Elenco de Wish](https://open.spotify.com/artist/3cIjHsZRKDs0AiZbd462y6) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:54 | 2024-04-30 | 2024-09-12 |
 | [Under the Sea](https://open.spotify.com/track/7Cux0Rc1hY5Pt5T28apnzv) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Cast \- The Little Mermaid](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 3:04 | 2023-09-15 | 2024-05-01 |

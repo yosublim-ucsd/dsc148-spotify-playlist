@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 171982,
       "name": "Adivinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3WZSGhQRG3RVxH04HTkJL3"
@@ -289,7 +289,7 @@
     },
     {
       "album": {
-        "name": "Blus\u00e3o - Ao Vivo",
+        "name": "Blus\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6iCs5eDoJN23kTTDBx3czc"
       },
       "artists": [
@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Simplesmente (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4M57NG8CTLKFPgo6JpwLmi"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Fraquinho De Apar\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0PkYUMQMDzb9ynyVKCuAYV"
+    },
+    {
+      "album": {
         "name": "Gemidinho de Transa",
         "url": "https://open.spotify.com/album/4abhx1J0B2DijVPkWgt2Xf"
       },
@@ -1663,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "Na For\u00e7a do \u00d3dio",
+        "url": "https://open.spotify.com/album/6PI3RjnAVWWsHYQ5YtMtSX"
+      },
+      "artists": [
+        {
+          "name": "Sandro e C\u00edcero",
+          "url": "https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173047,
+      "name": "Na For\u00e7a do \u00d3dio",
+      "url": "https://open.spotify.com/track/265yVcXUOeQZbWL0WTK8oJ"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Pra Valer, Vol. 2",
         "url": "https://open.spotify.com/album/4JNg8Cf0XNKEy2vOxaF1LH"
       },
@@ -1696,7 +1736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 223642,
       "name": "Nem Balancei (Ao Vivo)",
       "url": "https://open.spotify.com/track/6ENo0tjJEwNi5vjIp0WlIo"
@@ -1826,7 +1866,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 194226,
       "name": "O Cara",
       "url": "https://open.spotify.com/track/0TOOPFFL5wTIxycbOtNcAT"
@@ -2252,7 +2292,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 149357,
       "name": "P\u00f5e Ela no Grupo",
       "url": "https://open.spotify.com/track/5Z1s8rvAfsvOQHLrjxyeVy"
@@ -2376,6 +2416,24 @@
       "duration_ms": 203400,
       "name": "Rela\u00e7\u00e3o Engra\u00e7ada",
       "url": "https://open.spotify.com/track/7vKofUNaqkOTCEPBFrNrYN"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/4XPrgbfG9rIwGiVqIFtv9q"
+      },
+      "artists": [
+        {
+          "name": "Maycon e Vinicius",
+          "url": "https://open.spotify.com/artist/74VKtdiqmUGvy1MXU8cHBX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183594,
+      "name": "Roupa de Frio - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2Y6qEeWMbchwA2S3O5rOr3"
     },
     {
       "album": {
@@ -2816,7 +2874,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 188344,
       "name": "Tentativa Tr\u00eas - Ao Vivo",
       "url": "https://open.spotify.com/track/0S4o9S8vdbMVY6UuG2BoqF"
@@ -3068,6 +3126,32 @@
       "duration_ms": 228026,
       "name": "Vai Descendo - Ao Vivo",
       "url": "https://open.spotify.com/track/2niXqu7FF1ujNbYh1loM5g"
+    },
+    {
+      "album": {
+        "name": "Vai Devagar (V\u00ea Se Pod)",
+        "url": "https://open.spotify.com/album/3cWh38xxXDECHFHT7BbjKq"
+      },
+      "artists": [
+        {
+          "name": "Tales e Conrado",
+          "url": "https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN"
+        },
+        {
+          "name": "Pedro Sanchez e Thiago",
+          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
+        },
+        {
+          "name": "New Music Play",
+          "url": "https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Vai Devagar - V\u00ea Se Pod, Ao Vivo",
+      "url": "https://open.spotify.com/track/142G3bhmGuJCrbfHvf4X5w"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Prepare for the upcoming Seoul concert by listening to 2NE1's best songs! \(2NE1의 베스트 곡들을 들으며 다가오는 서울 콘서트를 준비해보세요!\)
 
-23 songs - 1 hr 24 min
+24 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Do You Love Me](https://open.spotify.com/track/6edlzM2EaYIVArdeM3UCDb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [Do You Love Me](https://open.spotify.com/album/3ofiarxWhnL1RC5e1rUXQ1) | 3:35 | 2024-09-30 |  |
 | [Falling In Love](https://open.spotify.com/track/2Jj05yf4C9PWgH7xQuVNIm) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [Falling In Love](https://open.spotify.com/album/5qleO7H9bcv7NSdrFwUO6v) | 3:46 | 2024-09-30 |  |
 | [Fire](https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:42 | 2024-09-30 |  |
-| [Go Away \- Live](https://open.spotify.com/track/6EYd1PIM48x8sFHYYhgxU8) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2012 2NE1 Global Tour Live New Evolution in Seoul](https://open.spotify.com/album/6AraFzMUlYpbdm5UNTnyLe) | 3:52 | 2024-09-30 |  |
+| [Go Away](https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:39 | 2024-10-17 |  |
+| [Go Away \- Live](https://open.spotify.com/track/6EYd1PIM48x8sFHYYhgxU8) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2012 2NE1 Global Tour Live New Evolution in Seoul](https://open.spotify.com/album/6AraFzMUlYpbdm5UNTnyLe) | 3:52 | 2024-09-30 | 2024-10-18 |
 | [GOTTA BE YOU](https://open.spotify.com/track/29yVLesUDgcKvnTdipu3rw) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:51 | 2024-09-30 |  |
 | [Hate You](https://open.spotify.com/track/75gfxN38PUOF2r22yTKCA5) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 2nd Mini Album](https://open.spotify.com/album/0zWLbtlKLJINtIiqnSXqag) | 3:33 | 2024-09-30 |  |
 | [I Am the Best \(내가 제일 잘 나가\)](https://open.spotify.com/track/0duGEEnNcvRgkeoZVx6qFu) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 2nd Mini Album](https://open.spotify.com/album/0zWLbtlKLJINtIiqnSXqag) | 3:30 | 2024-09-30 |  |

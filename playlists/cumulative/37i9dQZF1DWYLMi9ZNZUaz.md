@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Các anh Long của làng hip\-hop: Emcee L, WEAN, Rtee, Low G
+> Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Masew, Double2T, Tuấn Cry
 
 232 songs - 13 hr 40 min
 

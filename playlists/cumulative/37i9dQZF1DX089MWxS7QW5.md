@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SOLE\(쏠\)\)
 
-435 songs - 23 hr 42 min
+437 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI) | 2:08 | 2023-10-05 | 2024-02-07 |
 | [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 | 2024-08-10 |  |
 | [Call me \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/7CeNFCLirNI1Rm5rT2BCeR) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [Are we still friends?](https://open.spotify.com/album/0HGTY8Zn3ubz3fROe0ZsFA) | 3:35 | 2022-11-14 | 2023-04-28 |
+| [Call me more sometimes](https://open.spotify.com/track/4lKOkt7lH8lJyPP7tSBa0Y) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Call me more sometimes](https://open.spotify.com/album/1afLJlSObs6o8OvbIOserN) | 3:49 | 2024-10-17 |  |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-11-15 |
 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 | 2023-01-10 | 2023-07-08 |
 | [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 | 2023-03-27 | 2023-04-28 |
@@ -357,7 +358,7 @@
 | [Summer Night \(feat\. Pat Kiloran\)](https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Pat Kiloran](https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5) | [Summer Night](https://open.spotify.com/album/1qedG8sbfkuESe0OtH9M76) | 3:01 | 2024-08-30 |  |
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 | 2022-12-14 |
 | [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 | 2023-11-29 |
-| [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 | 2024-08-10 |  |
+| [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 | 2024-08-10 | 2024-10-18 |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 | 2022-11-07 |
 | [Superpower \(Feat\. J.O.Y\)](https://open.spotify.com/track/0EwVpYFx8wxy3ccd6vCkjY) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Superpower](https://open.spotify.com/album/1qXyCHvL6mgPm5lbDXVKRG) | 2:25 | 2024-09-02 |  |
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 | 2024-08-22 |
@@ -369,7 +370,7 @@
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-03-28 |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2023-10-28 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 | 2022-06-21 |
-| [The Night Of You & Me](https://open.spotify.com/track/3nPqJUSXNjvdsqaQuWsc6d) | [Rosoulful](https://open.spotify.com/artist/6FeHW0Ct6VvBPOoHrXjRcH) | [The Night Of You & Me](https://open.spotify.com/album/3wVzpdrpWDDac6g2Jgkenz) | 2:32 | 2024-08-12 |  |
+| [The Night Of You & Me](https://open.spotify.com/track/3nPqJUSXNjvdsqaQuWsc6d) | [Rosoulful](https://open.spotify.com/artist/6FeHW0Ct6VvBPOoHrXjRcH) | [The Night Of You & Me](https://open.spotify.com/album/3wVzpdrpWDDac6g2Jgkenz) | 2:32 | 2024-08-12 | 2024-10-18 |
 | [The One I Love](https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU) | [The One I Love](https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl) | 2:56 | 2022-08-18 | 2022-12-16 |
 | [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 | 2024-01-19 | 2024-05-28 |
 | [This Moment Here With You](https://open.spotify.com/track/6iSrr1z0D85A0hLKkjkCvH) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [This Moment Here With You](https://open.spotify.com/album/5utByaMBaKrdlbV7FrOtNX) | 5:15 | 2023-11-02 | 2024-04-05 |
@@ -378,6 +379,7 @@
 | [Thorn](https://open.spotify.com/track/5oApK38Fycj7FemmYnpJm3) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [Thorn](https://open.spotify.com/album/2ESqLtziuxHNUc71jCTHKZ) | 2:46 | 2023-01-10 | 2023-07-08 |
 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 | 2024-10-14 |  |
 | [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 | 2022-08-20 |
+| [Time Machine](https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Time Machine](https://open.spotify.com/album/3BatyD1PQYv2rkHjUTC68T) | 2:39 | 2024-10-17 |  |
 | [To be honest](https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [To be honest](https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74) | 3:10 | 2023-01-20 | 2023-08-18 |
 | [To you](https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [To you](https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us) | 2:52 | 2023-10-05 | 2024-01-09 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 | 2024-04-19 |

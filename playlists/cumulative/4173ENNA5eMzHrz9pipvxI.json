@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet x Cheat Codes",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gil Glze x Afrojack",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -3428,7 +3428,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
@@ -7409,6 +7409,28 @@
     },
     {
       "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141479,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
+    },
+    {
+      "album": {
         "name": "Don't Hurt Me (What Is Love)",
         "url": "https://open.spotify.com/album/4NM3zrdNq6tpELPeaPM8QY"
       },
@@ -8226,7 +8248,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 128371,
       "name": "Dudada",
       "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
@@ -10512,7 +10534,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 191739,
       "name": "FOREIGN",
       "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
@@ -15641,6 +15663,32 @@
     },
     {
       "album": {
+        "name": "Kolkata (Techno Version)",
+        "url": "https://open.spotify.com/album/421QWBCNHDoQTqDk41JYfj"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Kolkata (Techno Version)",
+      "url": "https://open.spotify.com/track/3Bk4ZohpjYTuJXbxFRSyPg"
+    },
+    {
+      "album": {
         "name": "KOMNAARMETOE",
         "url": "https://open.spotify.com/album/3LGJyIxQR0RHcFpjYjfWHl"
       },
@@ -16279,6 +16327,28 @@
     },
     {
       "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/1OeAgQpEOIyuE5ghCasm9H"
+      },
+      "artists": [
+        {
+          "name": "Luke Miller",
+          "url": "https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD"
+        },
+        {
+          "name": "OFFDATA",
+          "url": "https://open.spotify.com/artist/2Gy19A1Xs1NuIHND1dCh7p"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO"
+    },
+    {
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
       },
@@ -16432,7 +16502,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
@@ -20178,7 +20248,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179815,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe"
@@ -24154,7 +24224,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 124900,
       "name": "Quit That Love (feat. Glacier Baby)",
       "url": "https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y"
@@ -26905,6 +26975,32 @@
     },
     {
       "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/0NRKmZUelQc3JcEO3ll7E1"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119129,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg"
+    },
+    {
+      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/4nTaBQgE0Qy3vEQCvZL8cJ"
       },
@@ -28813,6 +28909,24 @@
     },
     {
       "album": {
+        "name": "Taste Of Summer",
+        "url": "https://open.spotify.com/album/0NCqqYXAgNdHtFoPGrIDAl"
+      },
+      "artists": [
+        {
+          "name": "Calum Kieran",
+          "url": "https://open.spotify.com/artist/2rbfvpGH3D4WogHpndteUF"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186478,
+      "name": "Taste Of Summer",
+      "url": "https://open.spotify.com/track/3566cOSTCoQmPNTn9LbX6J"
+    },
+    {
+      "album": {
         "name": "Te Marchar",
         "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
       },
@@ -30382,7 +30496,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
@@ -30472,7 +30586,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179777,
       "name": "Toccata",
       "url": "https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL"

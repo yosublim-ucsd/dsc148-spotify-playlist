@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 7 hr 1 min
+135 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 | 2024-01-29 |  |
 | [Weekends](https://open.spotify.com/track/33PS3s3FyzBQp1bLx7mgKa) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 2:07 | 2024-03-31 |  |
 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2024-01-29 | 2024-04-01 |
-| [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 | 2024-01-29 |  |
+| [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 | 2024-01-29 | 2024-10-18 |
+| [What I Wanted](https://open.spotify.com/track/5iqAtskcRzCVWBefPulu1d) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/0mQItA2D37eMe3ovkqEnKP) | 2:32 | 2024-10-17 |  |
 | [What I Wanted \- Denis Neve Remix](https://open.spotify.com/track/2KmS4tAa0XegfGt5LOHCsj) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t), [Denis Neve](https://open.spotify.com/artist/5IROUcc1w1dYbubLCM3Dsl) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:46 | 2024-07-10 |  |
 | [What I Wanted \- Dub Mix](https://open.spotify.com/track/2hz4fFw6cB0BBX8f9NkI7q) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:48 | 2024-01-29 | 2024-07-11 |
 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/7zchcn4SERfMjsjOmWhdqh), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 | 2024-01-29 |  |

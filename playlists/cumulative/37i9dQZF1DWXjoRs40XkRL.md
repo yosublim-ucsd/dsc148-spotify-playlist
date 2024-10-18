@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-305 songs - 1 day 1 hr 43 min
+306 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
 | [Paayaliya](https://open.spotify.com/track/1PnLIY2hOt9lGfqpFvoAUt) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Outsky](https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg) | [Paayaliya](https://open.spotify.com/album/3s5f1LXoiICTgZ8hMzmua7) | 2:48 | 2024-06-24 | 2024-09-07 |
-| [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
+| [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 | 2024-10-18 |
 | [Panchii](https://open.spotify.com/track/61v9NMnW3ssoI0RkW8Cghu) | [Akshay \- Ninaad](https://open.spotify.com/artist/3T3CqgjgFXbag2RS5JNq5X) | [Panchii](https://open.spotify.com/album/15dguOp3WQC16Gw7bD0jV4) | 3:24 | 2024-09-20 |  |
 | [Parcchain \(Counting Days\)](https://open.spotify.com/track/06VwLKV6JqJ0PxXdhKJb6g) | [Tarish Prakash](https://open.spotify.com/artist/7x2ombGZwIYN2Ye7sm3Lzi), [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Vastvik Roy](https://open.spotify.com/artist/2EZIUlymZWjLB8As3QBoET) | [Parcchain \(Counting Days\)](https://open.spotify.com/album/2grJHFAs9qGkg3ZDTOg9RD) | 2:46 | 2023-10-16 | 2023-12-02 |
 | [Payaliya](https://open.spotify.com/track/01PrstkiG8yl6Za84sYkmA) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/2pZbrfjNSECl6oTaYC8eZ3) | 4:10 | 2023-12-15 | 2024-04-06 |
@@ -267,6 +267,7 @@
 | [Saiyaan Hatto Jaao](https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Barnali Chattopadhyay](https://open.spotify.com/artist/0PuNZqpWjKq5qMLueUM2UF), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 5:13 | 2024-05-16 |  |
 | [Saiyyan](https://open.spotify.com/track/4GSvSi4BA4Pddnjmmqmw49) | [Lagori](https://open.spotify.com/artist/1qnNpqNICqHeFjbBLD58M6) | [Lagori](https://open.spotify.com/album/0haROYCw0OBoA5wXki40tY) | 4:35 | 2022-05-17 | 2022-09-24 |
 | [Sajan More Ghar Aayo](https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Sajan More Ghar Aayo](https://open.spotify.com/album/2di5VXstqggP6QdHJoyH9r) | 3:27 | 2024-07-19 |  |
+| [Sajaniya \(From "Vividh Bharti"\)](https://open.spotify.com/track/4IxKMIMMPWwmbg9yS63dSC) | [Bramha](https://open.spotify.com/artist/54aaAVP09vkCtRd9WjuEW8), [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g), [dipgrix](https://open.spotify.com/artist/4A1Q9Q5Vf2G0MWwq5Ane1R) | [Sajaniya \(From "Vividh Bharti"\)](https://open.spotify.com/album/6UeAXXSktmQVieATzFXWwl) | 1:49 | 2024-10-17 |  |
 | [Sakal Ban \(From "Heeramandi"\) \- Original](https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Sakal Ban \(From "Heeramandi"\) \- Single](https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh) | 2:30 | 2024-03-09 |  |
 | [Sakhi](https://open.spotify.com/track/1wnP0kMnl9NJC7Ek2rrHkB) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 8:26 | 2022-05-17 | 2023-05-24 |
 | [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-15 | 2023-08-24 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Aerosmith. Los temas esenciales, todos en una lista.",
-  "num_followers": 694087,
+  "description": "This is Aerosmith. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 694149,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAACY3zxLszsL3SPSovz1CRiz",
+  "snapshot_id": "Zw8CAAAAAACslN8y5Lmd1AP+L9FCnDsQ",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 254686,
-      "name": "Lord Of The Thighs",
-      "url": "https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ"
+      "duration_ms": 249600,
+      "name": "F.I.N.E.",
+      "url": "https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 249600,
-      "name": "F.I.N.E.",
-      "url": "https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I"
+      "duration_ms": 254686,
+      "name": "Lord Of The Thighs",
+      "url": "https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 295637,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
+      "duration_ms": 204059,
+      "name": "Draw The Line",
+      "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 204059,
-      "name": "Draw The Line",
-      "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
+      "duration_ms": 295637,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
     },
     {
       "added_at": null,

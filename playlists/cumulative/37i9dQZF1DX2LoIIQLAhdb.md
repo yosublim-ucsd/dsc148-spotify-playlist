@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Jungeli
+> Le R&B français, nouvelle ère\. Photo : RnBoi
 
-360 songs - 17 hr 10 min
+362 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-11-24 | 2023-01-13 |
 | [Dans ma tête](https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [IDENTITÉ](https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X) | 2:51 | 2024-06-27 |  |
 | [Dans son tel](https://open.spotify.com/track/45hdgr7UGtAFE8aN8aQI10) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dans son tel](https://open.spotify.com/album/3Ua1IfFgIPVlD9aiNGD2AG) | 3:46 | 2024-04-11 | 2024-06-01 |
+| [Day & night](https://open.spotify.com/track/49IEOx7anHYA2XFEe7hU2l) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Mélodie céleste](https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c) | 2:43 | 2024-10-17 |  |
 | [Demoiselle](https://open.spotify.com/track/1rBGjBW9hsKvPt0QVnQk0g) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Demoiselle](https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4) | 2:25 | 2023-07-06 | 2023-07-21 |
 | [Dernier je t'aime](https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Dernier je t'aime](https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M) | 2:48 | 2023-01-26 | 2023-10-27 |
 | [Derrière toi](https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Train de vie](https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez) | 3:10 | 2023-02-09 | 2023-03-23 |
@@ -140,7 +141,7 @@
 | [Henny](https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Henny](https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R) | 2:29 | 2023-06-29 | 2023-09-01 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-10-26 | 2023-12-01 |
 | [HONEY GYAL](https://open.spotify.com/track/2NujDJs4LGSx2cWOQ4lrwA) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [HONEY GYAL](https://open.spotify.com/album/2lDgH803WV1A2ZtiAc6piQ) | 2:44 | 2024-09-26 |  |
-| [Hypnotic](https://open.spotify.com/track/7fye5mKD8gNSaM3G1IM0Kj) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Mélodie céleste](https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c) | 3:19 | 2024-06-06 |  |
+| [Hypnotic](https://open.spotify.com/track/7fye5mKD8gNSaM3G1IM0Kj) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Mélodie céleste](https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c) | 3:19 | 2024-06-06 | 2024-10-18 |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 | 2023-12-08 | 2024-05-10 |
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
 | [Insomnie](https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Plus Comme Avant \(Réedition\)](https://open.spotify.com/album/1iMYREpP3YxR6ePZftIRpy) | 3:04 | 2023-12-08 | 2024-04-05 |
@@ -202,6 +203,7 @@
 | [Ma régulière](https://open.spotify.com/track/40hqQuVxKG2FYQ5TcTOQIM) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Ma régulière](https://open.spotify.com/album/3FMOWAJ1aYcu3dHPo7orFv) | 2:37 | 2024-07-04 | 2024-08-23 |
 | [Ma sœur](https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Ma sœur](https://open.spotify.com/album/3ZDRqdWiCFIvg7iHIYIIMM) | 3:03 | 2023-12-28 | 2024-04-05 |
 | [Ma ville](https://open.spotify.com/track/6L4F0EkPQw2u4Z1U05LFVK) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Ma ville](https://open.spotify.com/album/2lCynzkp4TkRTzxXePjDD2) | 2:58 | 2023-06-08 | 2023-06-30 |
+| [Main B\*\*\*\*](https://open.spotify.com/track/16UI5CNYBmvAHFMyXOyKkk) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Main B\*\*\*\*](https://open.spotify.com/album/1CVizIswK8OyrMgxHEzvtc) | 3:44 | 2024-10-17 |  |
 | [Makelele](https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS), [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Makele](https://open.spotify.com/album/4y2B5kpPU9volLqTnDDoCZ) | 2:45 | 2023-08-10 | 2023-10-06 |
 | [Mal de toi](https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Authentic](https://open.spotify.com/album/5cmjUzsRFXb7KyejfkphQ0) | 3:15 | 2022-11-24 | 2023-03-18 |
 | [Malsaine](https://open.spotify.com/track/3m5x9wW6Aj03rAY1bEgR9v) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Malsaine](https://open.spotify.com/album/6JxRMFBzS1Ls0jigCEqY2w) | 3:08 | 2024-03-28 | 2024-06-14 |
@@ -326,7 +328,7 @@
 | [Stalker](https://open.spotify.com/track/18LJA309PjDoViodm94Us1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA \- Réédition](https://open.spotify.com/album/77womOdnf0Ttqnv7VeEDQn) | 2:51 | 2024-08-08 | 2024-09-27 |
 | [STARBOY](https://open.spotify.com/track/5dcr1TKZrq2N15lVIfaK21) | [CHRISUPTOWN](https://open.spotify.com/artist/30N4KghspyCmNAmOlmW2z5), [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [STARBOY](https://open.spotify.com/album/6UqiTNHnZugEVwRuRW9TQC) | 2:34 | 2023-06-29 | 2023-07-21 |
 | [Step By Step](https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Step By Step](https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA) | 2:51 | 2023-08-03 | 2023-10-06 |
-| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-08-22 |  |
+| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-08-22 | 2024-10-18 |
 | [T'avais raison](https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H) | [NL](https://open.spotify.com/artist/44CpDft3h6UMOzq06YrHFO), [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [T'avais raison](https://open.spotify.com/album/41zHFFsPyr6i85IP4LKbYQ) | 2:42 | 2023-04-27 | 2023-06-16 |
 | [T'oublier](https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [T'oublier](https://open.spotify.com/album/4rqWSfrrmZQDTicb0bqK5t) | 3:27 | 2024-04-25 | 2024-09-20 |
 | [Ta queen](https://open.spotify.com/track/0mc5DjPqI8lGnoybr4YU9L) | [Karabalik Beatz](https://open.spotify.com/artist/460I5w9PL2AG09pjwwY5D6), [Hayla Peter](https://open.spotify.com/artist/3UcE1V9cLBH9GtHamHjai1) | [Dans le coeur](https://open.spotify.com/album/3exmuax22PozgPSs7HPzLZ) | 2:55 | 2023-12-21 | 2024-01-12 |

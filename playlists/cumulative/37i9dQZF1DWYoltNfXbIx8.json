@@ -863,24 +863,6 @@
     },
     {
       "album": {
-        "name": "Sobrevivendo no Inferno",
-        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "date_added": "2022-02-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 456840,
-      "name": "Ma\u0301gico de Oz",
-      "url": "https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY"
-    },
-    {
-      "album": {
         "name": "Ruas de Sangue",
         "url": "https://open.spotify.com/album/684stUH00OGoXW4J8jACwR"
       },
@@ -896,6 +878,24 @@
       "duration_ms": 360000,
       "name": "Meu Filho Minhas Regras",
       "url": "https://open.spotify.com/track/0Dlh7GZRUh2so0f3oHdSPe"
+    },
+    {
+      "album": {
+        "name": "Sobrevivendo no Inferno",
+        "url": "https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456840,
+      "name": "M\u00e1gico de Oz",
+      "url": "https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY"
     },
     {
       "album": {

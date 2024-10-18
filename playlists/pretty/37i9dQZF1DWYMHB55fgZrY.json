@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Juan Brujo por siempre ",
-  "num_followers": 548474,
+  "num_followers": 548515,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "En Esta Ciudad",
+        "url": "https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Carretera",
+      "url": "https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Piel De Banqueta",
         "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 167226,
       "name": "Paquita Disco",
       "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "En Esta Ciudad",
-        "url": "https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Toussaint",
-          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Carretera",
-      "url": "https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3"
     },
     {
       "added_at": "2024-09-20 06:00:00",

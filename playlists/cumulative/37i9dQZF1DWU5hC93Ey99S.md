@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-681 songs - 1 day 12 hr 26 min
+684 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [goldeneye 007](https://open.spotify.com/track/6DeccmTFZxuJ7nv7Cx2GFe) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/00nsuf3f7BVivDVU7ZNmpT) | 2:05 | 2023-04-27 | 2024-01-06 |
 | [Good Times](https://open.spotify.com/track/5FWfJSPotjdGUat9bL5bZu) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Good Times](https://open.spotify.com/album/1wkaDOeP0t8MzulEqn3pex) | 3:24 | 2024-05-30 |  |
 | [Goodbyes](https://open.spotify.com/track/3CoTxjHzLNzuSceVoPly5U) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Goodbyes](https://open.spotify.com/album/4RgU7Z5O3vXfxrqmiJKocf) | 4:09 | 2024-01-05 |  |
+| [Greed \- Radio Edit](https://open.spotify.com/track/5iU0vZYbjDbq6JJiOwe6Af) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Greed \(Radio Edit\)](https://open.spotify.com/album/19l8CyTUsMvhVrDXITgi9V) | 3:30 | 2024-10-17 |  |
 | [Hangover](https://open.spotify.com/track/5RowCPFtnH874UBD6KGqwt) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Hangover](https://open.spotify.com/album/5dACeSQRrbBOeDo0gijmMr) | 2:52 | 2024-08-15 |  |
 | [Have Fun Forgetting About Me](https://open.spotify.com/track/532tXrhlAGohExwprUgERu) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Have Fun Forgetting About Me](https://open.spotify.com/album/0E0xCpOd2zUwQzNc6bmClu) | 2:49 | 2023-07-14 | 2024-01-06 |
 | [Have you](https://open.spotify.com/track/5ZPAYylfnIJJLAcH9uAvIg) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm) | [Arrived too early / Have you](https://open.spotify.com/album/3I4Nk1wslBKALwENz11oea) | 2:52 | 2023-11-30 | 2024-01-06 |
@@ -317,6 +318,7 @@
 | [Kratos \- A Little Closer](https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf) | 2:30 | 2023-06-08 | 2023-08-27 |
 | [La leçon particulière](https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [La leçon particulière](https://open.spotify.com/album/0ZcIjW5V4jfAEAP2mcIJ5r) | 2:34 | 2023-08-03 |  |
 | [Lavendel](https://open.spotify.com/track/0lbjpK5PxeMycGZaZ1idNf) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 | 2023-06-08 | 2024-01-06 |
+| [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA) | 3:01 | 2024-10-17 |  |
 | [Leave Me Slowly](https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw) | [Leave Me Slowly](https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs) | 2:47 | 2024-08-15 |  |
 | [Leave Right Now](https://open.spotify.com/track/4yqRDBnW5ZBwrmbFDaLbyt) | [M!KE V](https://open.spotify.com/artist/659jXSj42G6bsbde5wVfmH) | [Leave Right Now](https://open.spotify.com/album/7EgZSRFeutQtOkTrTG6vyn) | 3:42 | 2024-01-18 | 2024-01-26 |
 | [Leave The Water Still](https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Leave The Water Still](https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz) | 3:00 | 2023-08-03 | 2024-01-06 |
@@ -367,6 +369,7 @@
 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 | 2024-05-09 |  |
 | [Loved Ones](https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Loved Ones](https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu) | 3:18 | 2023-04-27 | 2024-01-06 |
 | [loveday](https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5) | [JHN](https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk), [a friend of mine](https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8) | [loveday](https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X) | 2:28 | 2023-06-15 | 2024-01-06 |
+| [Loving You](https://open.spotify.com/track/0Mwie7rYZP4ENgcxNTjRFV) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [CJAKJ](https://open.spotify.com/artist/2btZobO5cyVfhbEVMOITOl) | [Loving You](https://open.spotify.com/album/04XdUm9jo68vDw8FVimIo4) | 2:17 | 2024-10-17 |  |
 | [LUCKY](https://open.spotify.com/track/0kCCzjemQEcwZ8GjGIQWrC) | [Petit Ocean](https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf) | [LUCKY](https://open.spotify.com/album/0BwWuaG9kMfF9cR5hsA2do) | 2:41 | 2024-05-23 |  |
 | [Made For Us](https://open.spotify.com/track/0Y8XFZFn7CtjNeJ3Nv4J6n) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Jay Tastic](https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG) | [Made For Us](https://open.spotify.com/album/4j72ePKF78g0SauH9eYejU) | 2:50 | 2023-09-07 | 2024-01-06 |
 | [Make It Better \[ZAC & BAKKA \(BR\) Remix\]](https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm) | [Dashdot](https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Make It Better \(Remixes Vol.1\)](https://open.spotify.com/album/0Vgs0dllM7oSR7U1oZPgs3) | 4:56 | 2023-09-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Lena&Linus",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Dominik Hartz",
+        "url": "https://open.spotify.com/album/4MN9icGkGIMtEK216IfsBd"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148978,
+      "name": "3 buchstaben",
+      "url": "https://open.spotify.com/track/7nH2cvTPsZWW7kJiCjCGxg"
+    },
+    {
+      "album": {
         "name": "3 Tage am Meer",
         "url": "https://open.spotify.com/album/5TOXyNzX3TA44g9xizRrNQ"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 138500,
       "name": "35",
       "url": "https://open.spotify.com/track/7BHYGtf2CdYLpMgPntkOLL"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 129187,
       "name": "55 Shoreditch",
       "url": "https://open.spotify.com/track/7D020QGwzsfLDgVFKvefsI"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 294000,
       "name": "Almost Hit By A Discokugel",
       "url": "https://open.spotify.com/track/6mqxkxgtNyTLbbd3XsDz40"
@@ -2663,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Da wo ich bin",
+        "url": "https://open.spotify.com/album/6B99ec0yFkuZynpFDRJ9zq"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218845,
+      "name": "Da wo ich bin",
+      "url": "https://open.spotify.com/track/2b0xpAXTDVmuT62dMpd06A"
+    },
+    {
+      "album": {
         "name": "Dachlatte",
         "url": "https://open.spotify.com/album/3oZKx5UGTICjl10psqJLtu"
       },
@@ -3112,7 +3148,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189496,
       "name": "Die Anderen",
       "url": "https://open.spotify.com/track/1VDdozteKgbeGkqTOt8lIU"
@@ -4295,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "Es k\u00f6nnte sch\u00f6n sein",
+        "url": "https://open.spotify.com/album/0cxkKVjq8xa1OwLUkUEhHg"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Es k\u00f6nnte sch\u00f6n sein",
+      "url": "https://open.spotify.com/track/3tXkPtBGJ9a57T7JWWMtna"
+    },
+    {
+      "album": {
         "name": "Es regnet Hirn (feat. Paula Carolina)",
         "url": "https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M"
       },
@@ -4314,6 +4368,28 @@
       "duration_ms": 194746,
       "name": "Es regnet Hirn (feat. Paula Carolina)",
       "url": "https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk"
+    },
+    {
+      "album": {
+        "name": "Es regnet Sterne",
+        "url": "https://open.spotify.com/album/0jvUUTyk06MvWg2txQmZgL"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        },
+        {
+          "name": "Tim Tautorat",
+          "url": "https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123594,
+      "name": "Es regnet Sterne",
+      "url": "https://open.spotify.com/track/0949DNBvJzGgDT8mtIGo9F"
     },
     {
       "album": {
@@ -4935,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00fchst\u00fcck bei Tiffany",
+        "url": "https://open.spotify.com/album/0oHrksXV8Ux6p9zKFTQrSO"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165814,
+      "name": "Fr\u00fchst\u00fcck bei Tiffany",
+      "url": "https://open.spotify.com/track/19AcOqKvhhgagNly6AcHQC"
+    },
+    {
+      "album": {
         "name": "Funkroboter",
         "url": "https://open.spotify.com/album/6cXsWtUgdTmZTgUPbiz2fZ"
       },
@@ -5308,7 +5402,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 176867,
       "name": "gasleuchte",
       "url": "https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5"
@@ -6899,6 +6993,24 @@
     },
     {
       "album": {
+        "name": "Innenhof",
+        "url": "https://open.spotify.com/album/6zYNjyY25QsA5bTiQUgxv7"
+      },
+      "artists": [
+        {
+          "name": "Jette Sorgenfrey",
+          "url": "https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "Innenhof",
+      "url": "https://open.spotify.com/track/57IRJnCO1pkHBdSBL4e08X"
+    },
+    {
+      "album": {
         "name": "Interesse",
         "url": "https://open.spotify.com/album/1k7edVnkFM2I84o83MZZTd"
       },
@@ -7453,6 +7565,32 @@
     },
     {
       "album": {
+        "name": "100Angst",
+        "url": "https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b"
+      },
+      "artists": [
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227059,
+      "name": "Kaum Vertrauen",
+      "url": "https://open.spotify.com/track/39n7eOnGuMHT5rHcB6XfSx"
+    },
+    {
+      "album": {
         "name": "Kaviar in Dubai",
         "url": "https://open.spotify.com/album/06nM50CXpNgEMxqYUsXEjO"
       },
@@ -7958,7 +8096,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 132727,
       "name": "Kuss und Schmerzlos",
       "url": "https://open.spotify.com/track/3BGkBAE1ggsmNh9BtwAxGT"
@@ -8394,6 +8532,24 @@
       "duration_ms": 191538,
       "name": "Lichtblick",
       "url": "https://open.spotify.com/track/3bclSz6FTJriC5YVWoAzo7"
+    },
+    {
+      "album": {
+        "name": "liebe das",
+        "url": "https://open.spotify.com/album/65Y5EIAFfPvFIjHJy9CgIX"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188871,
+      "name": "liebe das",
+      "url": "https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO"
     },
     {
       "album": {
@@ -9139,6 +9295,24 @@
     },
     {
       "album": {
+        "name": "harddrive2024",
+        "url": "https://open.spotify.com/album/5Yf0rI6XnpwDrTAQQtnCCS"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103262,
+      "name": "mein herz setzt aus_v2",
+      "url": "https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR"
+    },
+    {
+      "album": {
         "name": "Mein Leben ist monoton",
         "url": "https://open.spotify.com/album/0EKxnINrNTMbio7BAlpu91"
       },
@@ -9202,7 +9376,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 168613,
       "name": "meinen die uns",
       "url": "https://open.spotify.com/track/3AB4Fi1stxmdaO3XWlMLbp"
@@ -9896,7 +10070,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 186791,
       "name": "Nie vorbei",
       "url": "https://open.spotify.com/track/3FhEyMqCdrsuMFwc1yFclm"
@@ -10174,7 +10348,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 175237,
       "name": "Nur Nachts",
       "url": "https://open.spotify.com/track/0WwPwsSDyIDU4C1WYxIKjl"
@@ -11357,6 +11531,42 @@
     },
     {
       "album": {
+        "name": "Rosarote Brille",
+        "url": "https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232843,
+      "name": "Rosarote Brille",
+      "url": "https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf"
+    },
+    {
+      "album": {
+        "name": "Rosaroter Tee",
+        "url": "https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163005,
+      "name": "Rosaroter Tee",
+      "url": "https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv"
+    },
+    {
+      "album": {
         "name": "Rosenkohl",
         "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
       },
@@ -11730,7 +11940,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 141582,
       "name": "schweigen uns an_v3",
       "url": "https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70"
@@ -12034,7 +12244,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 141904,
       "name": "seventies",
       "url": "https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7"
@@ -13550,7 +13760,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 208434,
       "name": "Treppenhaus",
       "url": "https://open.spotify.com/track/1eTiOyNPZjKCYdlD14wbjC"
@@ -15537,6 +15747,24 @@
     },
     {
       "album": {
+        "name": "Zitter Nicht",
+        "url": "https://open.spotify.com/album/2t3CQSGbWLzpSZIKMY43w0"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Zitter Nicht",
+      "url": "https://open.spotify.com/track/0c5dQYCKXpwfwLcjsfbv48"
+    },
+    {
+      "album": {
         "name": "Zittern",
         "url": "https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY"
       },
@@ -15730,7 +15958,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 126391,
       "name": "Zur\u00fcck ans Meer",
       "url": "https://open.spotify.com/track/1sY2XVttZlnC9yUWXCNK0J"
@@ -15868,6 +16096,24 @@
       "duration_ms": 153600,
       "name": "\u00dcbergang",
       "url": "https://open.spotify.com/track/4NUIHkcjtTtNdX5DTYZEGb"
+    },
+    {
+      "album": {
+        "name": "\u00dcberlebt",
+        "url": "https://open.spotify.com/album/5IueMw3WGPut0N3HHLEDce"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122874,
+      "name": "\u00dcberlebt",
+      "url": "https://open.spotify.com/track/6nlgaWkhi3E4VFPNwTMf0j"
     },
     {
       "album": {

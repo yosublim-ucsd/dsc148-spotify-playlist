@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: The Wiggles
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,673 likes - 258 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,750 likes - 258 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 14 | [Show Me](https://open.spotify.com/track/623mhijjASUaftZdCv2jkx) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Buffalo Kids \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Nm3j6TUPfnD9QcIsbc5pN) | 2:33 |
 | 15 | [Dracula Spectacular](https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [John Bayne](https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE) | [Dracula Spectacular](https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc) | 2:29 |
 | 16 | [The Wheels on the Halloween Bus](https://open.spotify.com/track/0s1UgIZsNTIsaeuJ9ahVGa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Spooky Sing\-Along Halloween Songs](https://open.spotify.com/album/3Pqck35IQqpzHjsDmIoz4B) | 1:43 |
-| 17 | [Bluey Theme Tune \- Vocal Version](https://open.spotify.com/track/3gdxFjvOJCy2Th5VtoOm6i) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey Theme Tune \(Vocal Version\)](https://open.spotify.com/album/5c7hjw3czDNPf6Ni4Zc9ES) | 1:23 |
+| 17 | [Bluey Theme Tune \(Vocal Version\)](https://open.spotify.com/track/3gdxFjvOJCy2Th5VtoOm6i) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Bluey Theme Tune \(Vocal Version\)](https://open.spotify.com/album/5c7hjw3czDNPf6Ni4Zc9ES) | 1:23 |
 | 18 | [Party Like It's Halloween](https://open.spotify.com/track/0gRQ47Opbtm5dKFA2FquFM) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Halloween Countdown](https://open.spotify.com/album/1hIYWPFeioHQYLnJLHzj1C) | 2:25 |
 | 19 | [Everyone is Special \(In Their Own Way\)](https://open.spotify.com/track/16kM1crKdpOAASMln1WPWT) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Everyone Is Special \(In Their Own Way\) \[From Barney's World: Vol\. 1\]](https://open.spotify.com/album/3MuEXDQLm4kionCbl7cNm5) | 2:11 |
 | 20 | [ABC Boo \(Caitie\)](https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [ABC Boo \(Caitie\)](https://open.spotify.com/album/4ca7iydzxw93rvcX8WGACN) | 3:12 |

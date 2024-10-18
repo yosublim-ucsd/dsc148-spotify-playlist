@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 585153,
+  "num_followers": 585175,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
-        "name": "FAMILY & MONEY",
-        "url": "https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS"
-      },
-      "artists": [
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 148861,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
         "name": "Himmel Leer",
         "url": "https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 182823,
       "name": "Himmel Leer",
       "url": "https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
+        "name": "FAMILY & MONEY",
+        "url": "https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 148861,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
-        "name": "Ich brauche dich",
-        "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
+        "name": "Was du nicht siehst (feat. ela.)",
+        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
       "artists": [
         {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
         }
       ],
-      "duration_ms": 147973,
-      "name": "Ich brauche dich",
-      "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
+      "duration_ms": 151704,
+      "name": "Was du nicht siehst (feat. ela.)",
+      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -947,22 +951,18 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
-        "name": "Was du nicht siehst (feat. ela.)",
-        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
+        "name": "Ich brauche dich",
+        "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
       },
       "artists": [
         {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "ela.",
-          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
         }
       ],
-      "duration_ms": 151704,
-      "name": "Was du nicht siehst (feat. ela.)",
-      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
+      "duration_ms": 147973,
+      "name": "Ich brauche dich",
+      "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
-        "name": "NaNa",
-        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141313,
-      "name": "NaNa",
-      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 141313,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
+        "name": "NuR Du :/",
+        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 206085,
+      "name": "NuR Du :/",
+      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 169842,
       "name": "King",
       "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
-        "name": "NuR Du :/",
-        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 206085,
-      "name": "NuR Du :/",
-      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
-        "name": "Uluda\u011f und Sorgen",
-        "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Uluda\u011f und Sorgen",
-      "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
+        "name": "Uluda\u011f und Sorgen",
+        "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Uluda\u011f und Sorgen",
+      "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
+        "name": "Let me love you",
+        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Let me love you",
+      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -1423,6 +1439,22 @@
       "duration_ms": 164011,
       "name": "trauen",
       "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
+        "name": "Nie wieder sehen",
+        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 161212,
+      "name": "Nie wieder sehen",
+      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1443,22 +1475,6 @@
       "duration_ms": 151026,
       "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
       "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
-        "name": "Let me love you",
-        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
-      },
-      "artists": [
-        {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        }
-      ],
-      "duration_ms": 167889,
-      "name": "Let me love you",
-      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1491,38 +1507,6 @@
       "duration_ms": 157800,
       "name": "Liebe = Schmerz",
       "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
-        "name": "Nie wieder sehen",
-        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 161212,
-      "name": "Nie wieder sehen",
-      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Kopf aus",
-      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Kopf aus",
+      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 158448,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
         "name": "BERETTA",
         "url": "https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 158448,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
         "name": "BOI",
         "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
       },
@@ -1675,26 +1675,6 @@
       "duration_ms": 228736,
       "name": "Monoton",
       "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
-        "name": "Ich schw\u00f6r bei Gott",
-        "url": "https://open.spotify.com/album/7jJs0KTEZcKsmToM6YeELg"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "PA Sports",
-          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "Ich schw\u00f6r bei Gott",
-      "url": "https://open.spotify.com/track/2bicGF7dHTbCynG3cgD485"
     },
     {
       "added_at": "2024-10-14 11:37:39",
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
+        "name": "Ich schw\u00f6r bei Gott",
+        "url": "https://open.spotify.com/album/7jJs0KTEZcKsmToM6YeELg"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "Ich schw\u00f6r bei Gott",
+      "url": "https://open.spotify.com/track/2bicGF7dHTbCynG3cgD485"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
         "name": "Wegen Dir",
         "url": "https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl"
       },
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2024-10-14 11:37:39",
       "album": {
+        "name": "MISSED CALLS",
+        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "MISSED CALLS",
+      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
+    },
+    {
+      "added_at": "2024-10-14 11:37:39",
+      "album": {
         "name": "1000 Sterne",
         "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 160119,
       "name": "Du liebst mich nicht",
       "url": "https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA"
-    },
-    {
-      "added_at": "2024-10-14 11:37:39",
-      "album": {
-        "name": "Ein Jahr (feat. Montez)",
-        "url": "https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 176077,
-      "name": "Ein Jahr (feat. Montez)",
-      "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
     }
   ],
   "unique_name": "Rap in deep",

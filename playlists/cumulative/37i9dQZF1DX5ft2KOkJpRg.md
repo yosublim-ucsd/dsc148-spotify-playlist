@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ft2KOkJpRg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ft2KOkJpRg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ft2KOkJpRg)
 
-### [Jueves 10 x awitado](https://open.spotify.com/playlist/37i9dQZF1DX5ft2KOkJpRg)
+### [awitado](https://open.spotify.com/playlist/37i9dQZF1DX5ft2KOkJpRg)
 
-> solo recuerda el día en que te conocí, un jueves 10 😔🥀💔
+> ¿qué se siente ser feliz? :\(
 
 293 songs - 16 hr 37 min
 

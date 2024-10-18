@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-988 songs - 2 day 23 hr 3 min
+989 songs - 2 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,6 +828,7 @@
 | [Swift Code](https://open.spotify.com/track/7vxz7zMvdxhsB8CDiN95ec) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Marcus Roloff](https://open.spotify.com/artist/1tSfw9JqNOKJmRzxXioK8w) | [A Forest](https://open.spotify.com/album/7zczp6XRwsdgnAolUjgfEh) | 4:24 | 2019-06-19\* | 2022-04-20 |
 | [Syria \- Satori Remix](https://open.spotify.com/track/4gPajk6ojip36b3P7sSyvw) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:07 | 2019-05-26\* | 2020-08-26 |
 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 | 2024-08-05 | 2024-10-08 |
+| [Take Me Away](https://open.spotify.com/track/5N005JHBSGHp98gh8Hrg8A) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Jordin Post](https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:47 | 2024-10-11 |  |
 | [Take Them](https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Take Them](https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp) | 4:47 | 2021-07-23 | 2022-07-28 |
 | [Take Three](https://open.spotify.com/track/0SLH9b0nlK4larScjLxfSn) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Take Three](https://open.spotify.com/album/0l9qAgwvMjXvkhUC2gMpZr) | 2:23 | 2019-05-26\* | 2020-08-26 |
 | [Taking Flight](https://open.spotify.com/track/1zjvaSKCycMyeNOHn3FYBE) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX) | [Taking Flight](https://open.spotify.com/album/4tVXufhktGzIBqJWpKvDm3) | 3:00 | 2019-06-19\* | 2020-08-26 |
@@ -851,7 +852,7 @@
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2023-05-06 |
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
 | [The Fall](https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [The Fall](https://open.spotify.com/album/18Jz4mjnghTjTztG4LQNGJ) | 4:58 | 2024-09-14 | 2024-10-08 |
-| [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 |  |
+| [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 | 2024-10-18 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2023-12-16 |
 | [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 | 2024-04-19 |
 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 | 2019-05-26\* | 2022-04-20 |

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Deno",
+        "url": "https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t"
+      },
+      "artists": [
+        {
+          "name": "Donado Stone",
+          "url": "https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206732,
+      "name": "either way",
+      "url": "https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR"
+    },
+    {
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc"
       },
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "A Man of Nyadhi",
+        "url": "https://open.spotify.com/album/5GXqyYjAYSFRccVUK4MIPz"
+      },
+      "artists": [
+        {
+          "name": "Brian Sigu",
+          "url": "https://open.spotify.com/artist/2JlsCtKF5nCMKWmjarc0u2"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321551,
+      "name": "Sulwe",
+      "url": "https://open.spotify.com/track/4LMaeL6iAmsv9M5F4f6sCB"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29"
       },
@@ -1814,6 +1850,28 @@
       "duration_ms": 96444,
       "name": "Uko Poa",
       "url": "https://open.spotify.com/track/1DJgI3D1o5k4dnktOJFG2e"
+    },
+    {
+      "album": {
+        "name": "UNIFIED LOVE",
+        "url": "https://open.spotify.com/album/1shCSJhobpWDyP5akTEUIr"
+      },
+      "artists": [
+        {
+          "name": "KN_Tini",
+          "url": "https://open.spotify.com/artist/4O5Of6pRjTlXZ3pdWGJdOc"
+        },
+        {
+          "name": "THE GaMbLeR",
+          "url": "https://open.spotify.com/artist/0Xa986czvVLKnJsu4ekoeZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265325,
+      "name": "UNIFIED LOVE",
+      "url": "https://open.spotify.com/track/0F0i8OwqGcT1oNK00r4y6E"
     },
     {
       "album": {

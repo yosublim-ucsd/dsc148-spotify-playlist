@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 218089,
+  "num_followers": 218205,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+        "name": "Sexy Salsa",
+        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Mario Ortiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
         }
       ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
+      "duration_ms": 300533,
+      "name": "A Fuego Lento",
+      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sexy Salsa",
-        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
       "artists": [
         {
-          "name": "Mario Ortiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 300533,
-      "name": "A Fuego Lento",
-      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -823,22 +807,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Back To Work",
-        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 398536,
-      "name": "Te Vas De Mi",
-      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Pura Salsa",
         "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 301960,
       "name": "Yo Me Quedo",
       "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Back To Work",
+        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 398536,
+      "name": "Te Vas De Mi",
+      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
     },
     {
       "added_at": "2024-07-11 00:51:42",

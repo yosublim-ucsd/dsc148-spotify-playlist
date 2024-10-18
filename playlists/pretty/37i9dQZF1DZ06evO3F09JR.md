@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 ### [This Is Alessandro Cortini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR)
 
-> This Is Alessandro Cortini\. Los temas esenciales, todos en una lista.
+> This is Alessandro Cortini\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 49 | [Seconda Emosfera](https://open.spotify.com/track/2swOxJgEdleBGXTQiAOKQW) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 5:38 |
 | 50 | [Conta](https://open.spotify.com/track/0R8ceqLCh0YHQPOfRzgDTi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 6:07 |
 
-Snapshot ID: `Zw2wgAAAAACGc7yQS93lLkBU3BIcEJnK`
+Snapshot ID: `Zw8CAAAAAADkk4p7EAP36+dBwcB+TyuV`

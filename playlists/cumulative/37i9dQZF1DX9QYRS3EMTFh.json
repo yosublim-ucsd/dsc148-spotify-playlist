@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Kalibwoy",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1664,6 +1664,32 @@
       "duration_ms": 122400,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR"
+    },
+    {
+      "album": {
+        "name": "C Carr\u00e9",
+        "url": "https://open.spotify.com/album/2rnldmO2YRl8aB0Kxtkd8H"
+      },
+      "artists": [
+        {
+          "name": "Lya",
+          "url": "https://open.spotify.com/artist/36gjO1QUVa9mEXVCzN26o3"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130423,
+      "name": "C carr\u00e9",
+      "url": "https://open.spotify.com/track/1iLEeAsDP8zDExqOweU09v"
     },
     {
       "album": {
@@ -5653,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "Mondialit\u00e9",
+        "url": "https://open.spotify.com/album/2oQdkHrSfTF8E6kzeeSagi"
+      },
+      "artists": [
+        {
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129373,
+      "name": "Mondialit\u00e9",
+      "url": "https://open.spotify.com/track/70e5eDplRVp58E4ide0nIV"
+    },
+    {
+      "album": {
         "name": "Money & Done (Remix)",
         "url": "https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO"
       },
@@ -5918,6 +5962,32 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
+    },
+    {
+      "album": {
+        "name": "No Follow",
+        "url": "https://open.spotify.com/album/0iWLZTpHioac1sUdC5ySQB"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171197,
+      "name": "No Follow",
+      "url": "https://open.spotify.com/track/6u7kaJxH3ZcSuaautLweli"
     },
     {
       "album": {
@@ -7218,7 +7288,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 150927,
       "name": "Real Badman",
       "url": "https://open.spotify.com/track/6K9E9IhuWhSio7ZvE8Tzdt"
@@ -7748,7 +7818,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 174782,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0Un7faRDF3UYaLXTL6Whce"
@@ -7804,6 +7874,28 @@
       "duration_ms": 143593,
       "name": "Sidung & Slay",
       "url": "https://open.spotify.com/track/3WJ38AKbw4WyVTVZlVDPce"
+    },
+    {
+      "album": {
+        "name": "Sit Down",
+        "url": "https://open.spotify.com/album/6eTV0xMECRpjVsuDQMe9VN"
+      },
+      "artists": [
+        {
+          "name": "Lahrel",
+          "url": "https://open.spotify.com/artist/6QLId1xjDwBhWpk9TLfvZ5"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158359,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV"
     },
     {
       "album": {
@@ -9220,7 +9312,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 127800,
       "name": "Wah We Say (Pow Pow)",
       "url": "https://open.spotify.com/track/1i9A4A5luEoX8AI6EwDnNg"

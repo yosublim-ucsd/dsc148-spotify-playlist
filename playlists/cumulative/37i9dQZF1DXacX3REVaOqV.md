@@ -4,7 +4,7 @@
 
 > The best in house music
 
-522 songs - 1 day 11 hr 11 min
+523 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100% Pure Love](https://open.spotify.com/track/7cLoWbdlgwRLEXi9kEMKDi) | [Matonii](https://open.spotify.com/artist/1WvBjWjdscfaCIHY9SzQYo) | [100% Pure Love](https://open.spotify.com/album/6hF9ArQzImGN6d4UoBvVO6) | 3:19 | 2024-09-12 |  |
 | [1987](https://open.spotify.com/track/46UEgy406DHqVEVzm8ArpM) | [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [1987](https://open.spotify.com/album/1QGMyaPen1SrbflgLh6SfK) | 4:50 | 2022-04-14 | 2022-07-28 |
 | [2001](https://open.spotify.com/track/2LvBuNhDu3SWaPudMo2zGq) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [2001](https://open.spotify.com/album/163b7exEQvkGqfQxInxYBC) | 3:39 | 2022-04-26 | 2024-04-10 |
-| [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 | 2024-10-10 |  |
+| [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 | 2024-10-10 |  |
 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-09-26 | 2024-10-11 |
 | [333 \- Cut Version](https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Majoness](https://open.spotify.com/artist/3AUYGVHoXYjXumJ9aAfgYR) | [333 EP](https://open.spotify.com/album/4X9pRIOXjqMJKYjb6ydtqJ) | 4:05 | 2022-05-05 | 2024-04-12 |
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-05-16 | 2024-08-31 |
@@ -99,7 +99,7 @@
 | [Da Bump](https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI) | [Da Bump](https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y) | 3:25 | 2024-03-04 |  |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-09-15 | 2023-07-15 |
 | [Dance \- Hills Mix](https://open.spotify.com/track/6YPTwdX857pt8aukdjWqBW) | [Os Digitalistas](https://open.spotify.com/artist/5O4Wo1qbQZNpzBYC2qNahm) | [Dance \(Hills Mix\)](https://open.spotify.com/album/4PejagKHSIAq3Qy3LdqDUB) | 2:59 | 2022-07-28 | 2023-02-10 |
-| [Dance All Night](https://open.spotify.com/track/6fx38TLTNzsZ5irbKEnVQO) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Dance All Night](https://open.spotify.com/album/71tuwWftwkJQA1D7SgHTH5) | 2:38 | 2024-09-12 |  |
+| [Dance All Night](https://open.spotify.com/track/6fx38TLTNzsZ5irbKEnVQO) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Dance All Night](https://open.spotify.com/album/71tuwWftwkJQA1D7SgHTH5) | 2:38 | 2024-09-12 | 2024-10-18 |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-03-14 | 2024-08-30 |
 | [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-29 |  |
 | [Dancing Queen](https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB) | 2:54 | 2022-07-28 | 2024-03-01 |
@@ -384,6 +384,7 @@
 | [Rescue](https://open.spotify.com/track/2xNLma1p2hPU1lqLYWEgiG) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Rescue](https://open.spotify.com/album/5wnHew8RsixkmPnW7aaicg) | 2:39 | 2022-04-20 | 2024-03-21 |
 | [Revolution \- Deep In Jersey Extended Mix](https://open.spotify.com/track/0Qs8VmB3VPecGLGef4shI0) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Revolution \(Deep In Jersey Extended Mix\)](https://open.spotify.com/album/365BQjbQ7guC3hyTE2erVZ) | 5:27 | 2022-04-26 | 2022-07-12 |
 | [Right On \- Dario D'attis Remix](https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Hanlei](https://open.spotify.com/artist/52XjTMBxCVoJDBnTvDUV90), [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Right On](https://open.spotify.com/album/1WxhKRgNpICvt7Asa3cxtN) | 6:53 | 2022-04-14 | 2022-07-29 |
+| [Rock With Me](https://open.spotify.com/track/5Cs5XxTatXhs6oj0Vo77Vk) | [KEANU](https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3) | [Rock With Me](https://open.spotify.com/album/41BUkrdl42fJx9qYlhsmi1) | 3:22 | 2024-10-17 |  |
 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 | 2023-02-01 | 2024-03-01 |
 | [SAHARA](https://open.spotify.com/track/0YDZ9MFlzJl2VfciFjJxAw) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [SAHARA](https://open.spotify.com/album/2TiChCfHbe8bqkBoyEwgou) | 6:24 | 2023-10-06 | 2024-09-13 |
 | [Sanctuary \- Fouk Remix](https://open.spotify.com/track/0qLLqOUiS74hxoMOqqed73) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [Annabelle Maginnis](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk) | [Sanctuary \(Remix\)](https://open.spotify.com/album/6rOH89ayjEkZ8gYOpxBNDx) | 5:49 | 2022-04-14 | 2022-07-29 |

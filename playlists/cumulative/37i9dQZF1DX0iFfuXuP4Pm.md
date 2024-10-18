@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Arthur Nery
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: juan karlos
 
-208 songs - 12 hr 47 min
+209 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB) | 3:13 | 2024-09-04 |  |
 | [Halik Sobrang Diin](https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Halik Sobrang Diin](https://open.spotify.com/album/4OtUimDzomnLyZPdtswcbf) | 3:51 | 2024-04-10 | 2024-05-15 |
 | [HBD](https://open.spotify.com/track/5sH9HLm2WfjOHLIMFRZWGm) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [HBD](https://open.spotify.com/album/3XVq8uwst8BgCMnhP8T4bX) | 4:17 | 2024-01-24 | 2024-02-29 |
+| [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 | 2024-10-17 |  |
 | [Hiwaga](https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Hiwaga](https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd) | 3:53 | 2024-09-26 |  |
 | [Hmmm \(Masasawi\)](https://open.spotify.com/track/23XWtmVCCqqusWLmtxWUM8) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Hmmm \(Masasawi\)](https://open.spotify.com/album/3LYlh3KDntUE3YrsNW9Ui4) | 3:01 | 2024-08-14 | 2024-10-03 |
 | [Hollywood](https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Hollywood](https://open.spotify.com/album/0EpJoojhVdp2BrnxkutGH1) | 3:37 | 2024-03-06 | 2024-04-24 |
@@ -159,7 +160,7 @@
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 | 2024-04-04 |
 | [Patintero](https://open.spotify.com/track/3nupCyAjgcopsWicJpGk6D) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patintero](https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk) | 2:53 | 2024-02-14 | 2024-02-29 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-01-24 | 2024-02-08 |
-| [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-06-05 |  |
+| [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-06-05 | 2024-10-18 |
 | [PLANETA](https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk) | [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [PLANETA](https://open.spotify.com/album/4X8lD1CYW5tonDqQ9iUTSc) | 4:23 | 2024-03-06 | 2024-04-24 |
 | [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-01-24 | 2024-06-27 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-11 | 2024-10-03 |

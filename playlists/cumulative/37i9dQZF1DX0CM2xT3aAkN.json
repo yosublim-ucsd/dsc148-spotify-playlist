@@ -1223,6 +1223,32 @@
     },
     {
       "album": {
+        "name": "Magi videntes stellam \u00e0 5",
+        "url": "https://open.spotify.com/album/32mSq39SYGGR2DaI3AtxnF"
+      },
+      "artists": [
+        {
+          "name": "Blasius Amon",
+          "url": "https://open.spotify.com/artist/0ENCByzk1VlMVS2JzhShsX"
+        },
+        {
+          "name": "Huelgas Ensemble",
+          "url": "https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM"
+        },
+        {
+          "name": "Paul Van Nevel",
+          "url": "https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163156,
+      "name": "Magi videntes stellam \u00e0 5",
+      "url": "https://open.spotify.com/track/5ujOQ4wfNL1BHxhjs7E2Wb"
+    },
+    {
+      "album": {
         "name": "From the Imperial Court: Music for the House of Hapsburg",
         "url": "https://open.spotify.com/album/35iG8E3ERgSolhDz6qnEGS"
       },

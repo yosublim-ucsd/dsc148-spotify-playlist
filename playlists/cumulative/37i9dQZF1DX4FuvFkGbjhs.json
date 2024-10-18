@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Obongjayar",
+  "description": "Beyond titles, beyond genre. Cover: Maverick Sabre",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg"
+    },
+    {
+      "album": {
         "name": "ANOTHER YEAR",
         "url": "https://open.spotify.com/album/5hKYQPVWD4WqX6WQuqh0Qh"
       },
@@ -248,6 +266,32 @@
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "album": {
+        "name": "Anything (Cool Online x Ross MacDonald Remix)",
+        "url": "https://open.spotify.com/album/0I0vM9pgP0pJGbFyVMO252"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        },
+        {
+          "name": "Cool Online",
+          "url": "https://open.spotify.com/artist/7m76RD1yrTSHAVSmqbVvul"
+        },
+        {
+          "name": "Ross MacDonald",
+          "url": "https://open.spotify.com/artist/2hPEnT56mZnN91tr8XCmx7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193506,
+      "name": "Anything (Cool Online x Ross MacDonald Remix)",
+      "url": "https://open.spotify.com/track/3pGcXxl3YByfCInvIv3HIq"
     },
     {
       "album": {
@@ -432,7 +476,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 201789,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3XEVA7c2Wm7WzYgJfQppgK"
@@ -858,7 +902,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 281833,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
@@ -1051,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Gramarye",
+        "url": "https://open.spotify.com/album/4pb1CggtOYd2EAko22VJ6C"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4YUw1UYxRwhNeKuK2N088o"
+    },
+    {
+      "album": {
         "name": "Verbathim",
         "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
       },
@@ -1120,7 +1182,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 286874,
       "name": "DEEP HOLES",
       "url": "https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4"
@@ -1970,7 +2032,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190060,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
@@ -2358,7 +2420,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 342680,
       "name": "Into Gold",
       "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
@@ -2676,7 +2738,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 175389,
       "name": "Lately You're Not Picking Up",
       "url": "https://open.spotify.com/track/7kyyrC8wfNCxFZLbCl9kzb"
@@ -2962,7 +3024,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 248906,
       "name": "MEASURE ME",
       "url": "https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF"
@@ -3060,7 +3122,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
@@ -3513,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "Perfect Stranger",
+        "url": "https://open.spotify.com/album/44GIXVGBr6kzE1abQixw2f"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/26mCESsJXRzt5ZIlzjSKfW"
+    },
+    {
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
       },
@@ -3608,6 +3688,24 @@
       "duration_ms": 157998,
       "name": "Poison Cookie ft. AUDREY NUNA",
       "url": "https://open.spotify.com/track/49fSj7bWWBfsi8thBoHN3S"
+    },
+    {
+      "album": {
+        "name": "Chaos Is Her Name",
+        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
     },
     {
       "album": {
@@ -3773,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "album": {
         "name": "Roses Ether",
         "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
       },
@@ -3846,6 +3962,24 @@
       "duration_ms": 207366,
       "name": "Running Circles",
       "url": "https://open.spotify.com/track/3KUL4h740SPCPSnuOdwOW8"
+    },
+    {
+      "album": {
+        "name": "SUNDAY 2 SUNDAY",
+        "url": "https://open.spotify.com/album/3NXFbf3l52OhNGWzekkj12"
+      },
+      "artists": [
+        {
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152379,
+      "name": "RUNNING FOR DAYS",
+      "url": "https://open.spotify.com/track/25TXKIB0SntxnyEQnwBden"
     },
     {
       "album": {
@@ -3962,6 +4096,28 @@
       "duration_ms": 249306,
       "name": "Security",
       "url": "https://open.spotify.com/track/22dFLZtw7uOkgL2kSk1GWJ"
+    },
+    {
+      "album": {
+        "name": "i don't mind floating",
+        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        },
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "september lightning",
+      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
     },
     {
       "album": {
@@ -4486,7 +4642,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 186572,
       "name": "The High",
       "url": "https://open.spotify.com/track/4GloPBHACX7gnpmLy6g1Z6"
@@ -4656,7 +4812,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189991,
       "name": "TOO MUCH!",
       "url": "https://open.spotify.com/track/6IXFA7Sh0gHQtJoNhHl6qU"
@@ -5135,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Winter Baby / New Jersey Blues",
+        "url": "https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152770,
+      "name": "Winter Baby / New Jersey Blues",
+      "url": "https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP"
+    },
+    {
+      "album": {
         "name": "INTRO",
         "url": "https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF"
       },
@@ -5146,10 +5320,28 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 213602,
       "name": "YOMM",
       "url": "https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV"
+    },
+    {
+      "album": {
+        "name": "Burn The Right Things Down",
+        "url": "https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "You Don't Even Need It",
+      "url": "https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz"
     },
     {
       "album": {

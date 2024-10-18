@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: Caiiro
+> The best dance hits in South Africa and across the globe\. Cover: Thakzin
 
-1,099 songs - 4 day 2 hr 40 min
+1,100 songs - 4 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,7 +834,7 @@
 | [Shayi Zule](https://open.spotify.com/track/21keT1eQuf6w8KPqeRtABM) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Shayi Zule](https://open.spotify.com/album/16TKkNsgcw8kmYXUBnvPZB) | 5:53 | 2022-05-12 | 2022-07-08 |
 | [Shayo Galore \(feat\. Le Mav\)](https://open.spotify.com/track/4vxJVCRV3CZR7Wy2NCsMBf) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [Arieenati](https://open.spotify.com/artist/4ylIqJiqWnd05U4Ng8f616), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Shayo Galore \(feat\. Le Mav\)](https://open.spotify.com/album/3CFoj1BZZ61ZKTWWTuKDmj) | 2:18 | 2023-09-15 | 2023-11-24 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-11-23 | 2024-02-16 |
-| [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-13 |  |
+| [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-13 | 2024-10-18 |
 | [Shifting Space](https://open.spotify.com/track/6UPPo0GvBqWPjRty9CqOGT) | [Master Deep RZA](https://open.spotify.com/artist/6RXjo4i3ySYa3aRAuLKweX) | [Shifting Space](https://open.spotify.com/album/5mkS3ysVycffZucb0kQlsm) | 6:48 | 2021-12-02 | 2022-02-04 |
 | [Shiva's Friend](https://open.spotify.com/track/3TVs5j4SehVNEJB6PIx7mD) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Shiva's Friend](https://open.spotify.com/album/7aEl9Jk15e7yo5ICy8SYxV) | 6:44 | 2023-06-23 | 2023-07-08 |
 | [Shotgun](https://open.spotify.com/track/5Rk1ZtD7VeivnsNO3oKXkF) | [Bliss Ü](https://open.spotify.com/artist/4cWlMWAxYIwOLfCia5jPbI), [Cobez](https://open.spotify.com/artist/5jLKe96xKalXo8OU31kN4b) | [Shotgun](https://open.spotify.com/album/2qYe18Q20L5lmnGRwqK2GS) | 2:52 | 2022-07-07 | 2022-07-15 |
@@ -881,6 +881,7 @@
 | [Step & Clap](https://open.spotify.com/track/1vXJLNokop0LTWMTzAtrjR) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Bohemian Dusk EP](https://open.spotify.com/album/7nBVn9mZAROFAgKAi2cK5O) | 6:57 | 2024-02-15 | 2024-02-17 |
 | [Step & Clap](https://open.spotify.com/track/2mqcozGNbNMZ6VpLyARu5H) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 6:57 | 2024-02-15 | 2024-06-01 |
 | [Stingy](https://open.spotify.com/track/5jVDjYaYHP0silwrtOM0Rh) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Road Trip](https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58) | 5:22 | 2022-06-30 | 2022-08-26 |
+| [Stir It Up](https://open.spotify.com/track/5H8gp8UiaXHqm92q8HjWmm) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Chemistry](https://open.spotify.com/album/6q6tVEqyzWkv5K87R50VW4) | 7:06 | 2024-10-18 |  |
 | [Stomp Your Feet](https://open.spotify.com/track/1GBXxdxLD1wmjvXC716sZ7) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [TorQue MuziQ](https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK) | [Stomp Your Feet](https://open.spotify.com/album/7pAvUrQXAxW1RD0WME0n0c) | 3:30 | 2022-07-28 | 2022-09-02 |
 | [Strange Pattens](https://open.spotify.com/track/2WPTYHFM48KQFGMJVSwUGS) | [Hypesoul](https://open.spotify.com/artist/4jyzeXKboAkzAeKgUSHrZu) | [Yin Yang Africa](https://open.spotify.com/album/6nnTxW3tz27e9SLrg5qKXM) | 5:36 | 2022-12-31 | 2023-01-20 |
 | [Strangers \(with Mansionair\) \- Nora En Pure Remix](https://open.spotify.com/track/4XWwO9fZnrDhXZrMBMGesE) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Strangers \(with Mansionair\) \[Nora En Pure Remix\]](https://open.spotify.com/album/4YGsa7amsy1eR6NoCzQyyZ) | 3:10 | 2022-03-10 | 2022-04-08 |

@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 2 hr 55 min
+60 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [April Fooled Me](https://open.spotify.com/track/5mQrITejERpSEWTAvbdUmf) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 3:51 | 2024-07-26 |  |
-| [Baby Dream Your Dream](https://open.spotify.com/track/7AfkrxjhBgMt0oUtEkbGRw) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Want You \(Deluxe Edition\)](https://open.spotify.com/album/4NUSPaeTc26ngwt4koXxDI) | 3:31 | 2024-10-13 |  |
+| [Baby Dream Your Dream](https://open.spotify.com/track/7AfkrxjhBgMt0oUtEkbGRw) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Want You \(Deluxe Edition\)](https://open.spotify.com/album/4NUSPaeTc26ngwt4koXxDI) | 3:31 | 2024-10-13 | 2024-10-18 |
+| [Baby Dream Your Dream](https://open.spotify.com/track/1sEY6wuPDneYXTS9xLzQsg) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Want You \(Deluxe Edition\)](https://open.spotify.com/album/1uD9FC7PbIPI2TAj82JYlI) | 3:35 | 2024-10-17 |  |
 | [Baby, Dream Your Dream](https://open.spotify.com/track/2iQpxVtqxDZwjzlWf5Ar9a) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Chemistry](https://open.spotify.com/album/6rkonLk9wgbl8OLRSWLmZi) | 3:29 | 2024-07-26 | 2024-10-09 |
 | [Big Spender](https://open.spotify.com/track/3YO0RMWVBJRmzwKVGAgSLF) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Big Spender](https://open.spotify.com/album/5UGnhlHoDzkuMBLp24ylfv) | 2:07 | 2024-07-26 |  |
 | [Bows](https://open.spotify.com/track/4vH8JU5vIM5opsx0BRECZ5) | [Ethan Freeman](https://open.spotify.com/artist/1YdCl5921QwUPWnGgsDPFb), [Jacqueline Dankworth](https://open.spotify.com/artist/19hNZvnRXRvI7mTZoOmchl), [Josephine Blake](https://open.spotify.com/artist/58GaOo2YG5oBCD7XZy0eGe), [Shezwae Powell](https://open.spotify.com/artist/23aC5Id1A3n35FRDGCIKVu) | [Sweet Charity \(2007 London Studio Cast\)](https://open.spotify.com/album/5PKMwKCyfhSzjvy3APMFhZ) | 0:54 | 2024-07-26 |  |

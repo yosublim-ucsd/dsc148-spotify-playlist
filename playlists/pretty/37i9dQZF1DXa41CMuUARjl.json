@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Adam Port, Stryv, & Camila Cabello",
-  "num_followers": 499206,
+  "num_followers": 499356,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -37,7 +37,7 @@
         },
         {
           "name": "Orso",
-          "url": "https://open.spotify.com/artist/5i9Qt8HYwztn37VIhWWUqI"
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
         }
       ],
       "duration_ms": 180236,
@@ -755,50 +755,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 294624,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "You & Me (SG Lewis Remix)",
-        "url": "https://open.spotify.com/album/1FMP05aBC9JRXP4vwOMhhJ"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 182340,
-      "name": "You & Me - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/2RadfxTUE036JNHuxM6MYW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2Jd6pgvCVkVy3apKPe0n09"
       },
@@ -819,6 +775,46 @@
       "duration_ms": 294374,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/13F2gancTCuNE1QQMjup6h"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 294624,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -863,38 +859,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/4qXErNvcgrnFSwEN2bw6Aa"
+        "name": "You & Me (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/1FMP05aBC9JRXP4vwOMhhJ"
       },
       "artists": [
         {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1a7D0XoJJE9KEIk7dFEccq"
-      },
-      "artists": [
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        },
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 124444,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/7CAkh7GRqyaeJvIMj5qLHJ"
+      "duration_ms": 182340,
+      "name": "You & Me - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/2RadfxTUE036JNHuxM6MYW"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -915,6 +899,22 @@
       "duration_ms": 169531,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/6xosjTIiCn0zG9stxQKLBO"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1a7D0XoJJE9KEIk7dFEccq"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/7CAkh7GRqyaeJvIMj5qLHJ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "LEAVING THE WORLD BEHIND",
-        "url": "https://open.spotify.com/album/7tJEB5mI2gBZXQ44w3TbYY"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        },
-        {
-          "name": "Northside Hollow",
-          "url": "https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "FINDING SILENCE (feat. Northside Hollow)",
-      "url": "https://open.spotify.com/track/1xzR4DrNBk6klyHFB3PXOE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Stunt Like This",
         "url": "https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 166774,
       "name": "Stunt Like This",
       "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "LEAVING THE WORLD BEHIND",
+        "url": "https://open.spotify.com/album/7tJEB5mI2gBZXQ44w3TbYY"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Northside Hollow",
+          "url": "https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "FINDING SILENCE (feat. Northside Hollow)",
+      "url": "https://open.spotify.com/track/1xzR4DrNBk6klyHFB3PXOE"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1075,42 +1075,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/1rD2dKmNN1JdNb6m9octdH"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
       },
       "artists": [
         {
-          "name": "Ytram",
-          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "LADANZA",
-          "url": "https://open.spotify.com/artist/7j5C97sz8xBIdtaKlMXjJI"
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
         }
       ],
-      "duration_ms": 140753,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/1pYGNDvjgADXavJ7OpYmql"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "SEROTONIN",
-        "url": "https://open.spotify.com/album/60MfyEyAjQacig6zUbwgYK"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 169777,
-      "name": "SEROTONIN",
-      "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
+      "duration_ms": 164324,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1143,22 +1123,42 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
+        "name": "SEROTONIN",
+        "url": "https://open.spotify.com/album/60MfyEyAjQacig6zUbwgYK"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         },
         {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
         }
       ],
-      "duration_ms": 164324,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
+      "duration_ms": 169777,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/1rD2dKmNN1JdNb6m9octdH"
+      },
+      "artists": [
+        {
+          "name": "Ytram",
+          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
+        },
+        {
+          "name": "LADANZA",
+          "url": "https://open.spotify.com/artist/7j5C97sz8xBIdtaKlMXjJI"
+        }
+      ],
+      "duration_ms": 140753,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/1pYGNDvjgADXavJ7OpYmql"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/4ciftam1hNH7DtmRjHCL1q"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 327047,
-      "name": "OBSESSION",
-      "url": "https://open.spotify.com/track/5eNxvo9z150tcwLfgZIabt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Beckoning",
         "url": "https://open.spotify.com/album/1OryBUdpwEpEjR1dwcodL7"
       },
@@ -1367,6 +1351,42 @@
       "duration_ms": 222720,
       "name": "Beckoning",
       "url": "https://open.spotify.com/track/5XfC11eePr4YEm21nMHBfE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/4ciftam1hNH7DtmRjHCL1q"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 327047,
+      "name": "OBSESSION",
+      "url": "https://open.spotify.com/track/5eNxvo9z150tcwLfgZIabt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Golden Touch",
+        "url": "https://open.spotify.com/album/7dPBybya4P4cPd38hJPmXd"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        },
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 150288,
+      "name": "Golden Touch",
+      "url": "https://open.spotify.com/track/4szCTQkvcKLyMGfjtaEpbU"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1415,26 +1435,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Golden Touch",
-        "url": "https://open.spotify.com/album/7dPBybya4P4cPd38hJPmXd"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        },
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 150288,
-      "name": "Golden Touch",
-      "url": "https://open.spotify.com/track/4szCTQkvcKLyMGfjtaEpbU"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
       },
@@ -1451,6 +1451,26 @@
       "duration_ms": 278840,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bodies in Motion",
+        "url": "https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "When We're Together",
+      "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bodies in Motion",
-        "url": "https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA"
-      },
-      "artists": [
-        {
-          "name": "Love Language",
-          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
-        },
-        {
-          "name": "Gilligan Moss",
-          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "When We're Together",
-      "url": "https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Waver",
         "url": "https://open.spotify.com/album/1lBiIbT7SUasPbqOjYOjK1"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 179999,
       "name": "Waver",
       "url": "https://open.spotify.com/track/6EhLGfnkaiTcdEVJxRuoxi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "WAKE AND BREAK",
+        "url": "https://open.spotify.com/album/1OlLUIQhCxebpCtxqiU2v0"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "WAKE AND BREAK",
+      "url": "https://open.spotify.com/track/18iBaqJWh0SjEv4MffX7na"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1543,42 +1559,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "WAKE AND BREAK",
-        "url": "https://open.spotify.com/album/1OlLUIQhCxebpCtxqiU2v0"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "WAKE AND BREAK",
-      "url": "https://open.spotify.com/track/18iBaqJWh0SjEv4MffX7na"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "AFTERWORK",
-        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 137276,
-      "name": "TIME OF YOUR LIFE",
-      "url": "https://open.spotify.com/track/5kKnlvlcBzACYEOX1H4oyz"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4xKJ8VVgGr27I0ebi8yDSw"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 175081,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "AFTERWORK",
+        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 137276,
+      "name": "TIME OF YOUR LIFE",
+      "url": "https://open.spotify.com/track/5kKnlvlcBzACYEOX1H4oyz"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/7sdccZPSC4rftHEkcKxybL"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/52B9bBfIrbzpKyEp4QXJe4"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/3kDp06NY6s7diMNHMN6mMF"
       },
@@ -1671,6 +1687,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "KNIGHTS OF HEAVEN",
+        "url": "https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 201483,
+      "name": "KNIGHTS OF HEAVEN",
+      "url": "https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "honest times",
         "url": "https://open.spotify.com/album/6TAcekvYpMgiTPU435hFyB"
       },
@@ -1687,34 +1719,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/7sdccZPSC4rftHEkcKxybL"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/1thp3kVmCI247UNoTRwicf"
       },
       "artists": [
         {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/52B9bBfIrbzpKyEp4QXJe4"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "KNIGHTS OF HEAVEN",
-        "url": "https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 201483,
-      "name": "KNIGHTS OF HEAVEN",
-      "url": "https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp"
+      "duration_ms": 203269,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1739,6 +1755,26 @@
       "duration_ms": 340161,
       "name": "Bombalaya - Chris Avantgarde Remix",
       "url": "https://open.spotify.com/track/5EutCYk0BuR5gKFN54pY8w"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/5mtTCps7w1BxcDQSU5j2x5"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0Pe4Z3QAZI9ZEAoqwoWbvZ"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 143673,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/2nQ8IRyTMH0JO6MNvr1Nsq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1775,42 +1811,6 @@
       "duration_ms": 253221,
       "name": "Back 2 Me (feat. Sadie Walker)",
       "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/1thp3kVmCI247UNoTRwicf"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/5mtTCps7w1BxcDQSU5j2x5"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0Pe4Z3QAZI9ZEAoqwoWbvZ"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 143673,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/2nQ8IRyTMH0JO6MNvr1Nsq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2043,30 +2043,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/45dZ63dssaU29R9DaTyMOW"
-      },
-      "artists": [
-        {
-          "name": "Hutcher",
-          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
-        },
-        {
-          "name": "Naike",
-          "url": "https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 174782,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/0kwBfJOy6GC1xdsSo54eeq"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Turned To Stone",
         "url": "https://open.spotify.com/album/5rNIoqHBRHto0d1CvsdIma"
       },
@@ -2099,6 +2075,30 @@
       "duration_ms": 148040,
       "name": "riding it",
       "url": "https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/45dZ63dssaU29R9DaTyMOW"
+      },
+      "artists": [
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        },
+        {
+          "name": "Naike",
+          "url": "https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/0kwBfJOy6GC1xdsSo54eeq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Hold Back",
-        "url": "https://open.spotify.com/album/25VNdKMea6JSfeqgCaALd1"
-      },
-      "artists": [
-        {
-          "name": "Lili Chan",
-          "url": "https://open.spotify.com/artist/71yMv4PuuiRAJWqQzb3w0U"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Hold Back",
-      "url": "https://open.spotify.com/track/5WvQUO8IlVVP838y56DXI7"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Disfruto",
         "url": "https://open.spotify.com/album/5FkMMiC56yb9QY8TTLhZUb"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 182068,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/3gbbwC93cE7WkQwBVjuTDo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Hold Back",
+        "url": "https://open.spotify.com/album/25VNdKMea6JSfeqgCaALd1"
+      },
+      "artists": [
+        {
+          "name": "Lili Chan",
+          "url": "https://open.spotify.com/artist/71yMv4PuuiRAJWqQzb3w0U"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Hold Back",
+      "url": "https://open.spotify.com/track/5WvQUO8IlVVP838y56DXI7"
     },
     {
       "added_at": "2024-10-11 04:00:00",

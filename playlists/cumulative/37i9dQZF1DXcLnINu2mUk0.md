@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: CADU
+> Chill rap e R&B: É um mood suave e envolvente\. Foto:  Ivandro, LUDMILLA
 
-648 songs - 1 day 10 hr 33 min
+649 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 | 2023-05-11 | 2023-06-09 |
 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 | 2023-02-17 |
 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 | 2023-01-20 | 2023-02-10 |
-| [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 | 2024-04-18 | 2024-10-16 |
+| [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 | 2024-04-18 |  |
 | [Acredita](https://open.spotify.com/track/0QMxCv5qL8vwMl7bzH01BB) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm) | [Acredita](https://open.spotify.com/album/3MoOc4Mfh0lQFEeaoQMwxr) | 3:04 | 2023-11-10 | 2023-11-18 |
 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 | 2022-12-13 |
 | [After Hours](https://open.spotify.com/track/4orKcwZBZMdGXrNxilo8Jt) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [After Hours](https://open.spotify.com/album/0pn34Jy1gpmSxndfxRgk2W) | 3:10 | 2023-07-20 | 2023-08-04 |
@@ -49,7 +49,7 @@
 | [Amor](https://open.spotify.com/track/4INDkE9mhwrcfVZdC3GgEr) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Quente](https://open.spotify.com/album/7osQ0gzVF3aXXawd685gWX) | 1:56 | 2023-10-12 | 2023-10-24 |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-07 | 2022-07-21 |
 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 | 2024-07-18 |  |
-| [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 | 2024-09-13 |  |
+| [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 | 2024-09-13 | 2024-10-18 |
 | [Antes e Depois](https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Antes e Depois](https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb) | 2:36 | 2022-09-08 | 2022-09-23 |
 | [Aprendi a Amar](https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA) | [Oestrela](https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE) | [Aprendi a Amar](https://open.spotify.com/album/07Xhxbh0q271QHx5iPJctj) | 2:59 | 2024-02-09 | 2024-03-01 |
 | [Aproximar](https://open.spotify.com/track/2rtlkeLwPPoYdHC0SmzlXM) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Diogo Ribeiro](https://open.spotify.com/artist/4M8WzxjaLIlIBYtwnmYk3i) | [Aproximar](https://open.spotify.com/album/6Dus4s197Sp6WNgkfH4mD2) | 3:07 | 2023-03-01 | 2023-03-25 |
@@ -225,7 +225,7 @@
 | [Fala\-me A Verdade](https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala\-me A Verdade](https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ) | 2:52 | 2024-05-09 |  |
 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 | 2023-03-03 | 2023-06-23 |
 | [Falsa Cinderela](https://open.spotify.com/track/4KCR3YcAV2hwdnTDrRQKQo) | [VARC](https://open.spotify.com/artist/5oS1nvRZ8gHlNirN7dDlLn) | [Falsa Cinderela](https://open.spotify.com/album/0QvKQ9d42TVCt1anDSDCUg) | 2:51 | 2024-01-05 | 2024-02-02 |
-| [Falta](https://open.spotify.com/track/0mrwjSTuSaj5rSKEKrd1AV) | [Lucas Davis](https://open.spotify.com/artist/6vO6Yhs4AFnGERI23LmHC5), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [Falta](https://open.spotify.com/album/2IfhQVVGAwd0qndVoS5X6V) | 2:48 | 2024-09-26 |  |
+| [Falta](https://open.spotify.com/track/0mrwjSTuSaj5rSKEKrd1AV) | [Lucas Davis](https://open.spotify.com/artist/6vO6Yhs4AFnGERI23LmHC5), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [Falta](https://open.spotify.com/album/2IfhQVVGAwd0qndVoS5X6V) | 2:48 | 2024-09-26 | 2024-10-18 |
 | [Faltou Mais Amor](https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg) | [DJ Edson Kulembe](https://open.spotify.com/artist/0AHLV1obvqEboZpOmsrqGJ), [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Faltou Mais Amor](https://open.spotify.com/album/6OqWMI2Y7hTpeCrsJVqTAY) | 3:04 | 2023-06-01 | 2023-06-16 |
 | [Far Away](https://open.spotify.com/track/2p4bamqictuUYxWRq7UawI) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [7.83Hz](https://open.spotify.com/album/2wTXxQkoieXJNyIyRL5Qd6) | 4:11 | 2024-02-09 | 2024-03-08 |
 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 | 2022-07-07 |  |
@@ -386,6 +386,7 @@
 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 | 2023-03-17 | 2024-04-19 |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 | 2024-04-20 |
 | [NADA DE NOVO](https://open.spotify.com/track/4O1Uk0lAty6YBmrAdmYk2A) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC) | [NADA DE NOVO](https://open.spotify.com/album/6qzOOim4Cn6gYlOtNCxeBU) | 2:44 | 2024-09-05 | 2024-10-04 |
+| [NATURAL THING](https://open.spotify.com/track/1gonVjMNVSzTVg3w5PzsiV) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [BECCAA](https://open.spotify.com/artist/6TTTChDt7x8Qp1NdA1zfF4) | [NATURAL THING](https://open.spotify.com/album/649gr6IHq69jSqnGRo2uD8) | 3:05 | 2024-10-17 |  |
 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 | 2022-10-27 | 2022-11-18 |
 | [Nazaré](https://open.spotify.com/track/1egCduaKZy7kiJiAtozeGz) | [P.L.E.N.A](https://open.spotify.com/artist/3yhNvnt2mdwKiuJTvlVNtF) | [Nazaré](https://open.spotify.com/album/6OmfdNi5uveoVGPtWZ2fv7) | 1:54 | 2023-11-17 | 2023-12-09 |
 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 | 2024-02-16 | 2024-06-21 |

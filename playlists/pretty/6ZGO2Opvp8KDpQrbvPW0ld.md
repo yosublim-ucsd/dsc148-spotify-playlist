@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,702 likes - 350 songs - 12 hr 38 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,701 likes - 350 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 86 | [Mozzarella](https://open.spotify.com/track/7qXDCRYcx7mCYScPdbSDrp) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Mozzarella](https://open.spotify.com/album/0VekWNMZt4Ctg8gRBJ7pAY) | 1:50 |
 | 87 | [Step Back](https://open.spotify.com/track/6TheSvloMrP3mQTeuUDki0) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [ELLIBOI](https://open.spotify.com/artist/1Qqgaa7f7RjQoy1mpJlfy8) | [Step Back](https://open.spotify.com/album/6EqlhmjZwz49HKLZ7OecBX) | 1:58 |
 | 88 | [Conscious](https://open.spotify.com/track/4QBKgFIOXqOSauhQEhB0QP) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Conscious](https://open.spotify.com/album/6AyDAYvTT4BzdAwM8i7ni5) | 2:25 |
-| 89 | [Bird's Eye View](https://open.spotify.com/track/3DlYWoXp76qasN18ZRTjN1) | [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Bird's Eye View](https://open.spotify.com/album/7f54LsDleGjIyZ76KA9Cyj) | 2:28 |
+| 89 | [Bird's Eye View](https://open.spotify.com/track/3DlYWoXp76qasN18ZRTjN1) | [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Bird's Eye View](https://open.spotify.com/album/7f54LsDleGjIyZ76KA9Cyj) | 2:28 |
 | 90 | [Angel Groove](https://open.spotify.com/track/5FRDK0kLs7ysIiO0CuQKHz) | [Prysh](https://open.spotify.com/artist/1g9HWe7jXMwF9oVy1bByhb) | [Angel Groove](https://open.spotify.com/album/00k60AjGC83fZLa6X5Z6Vr) | 2:04 |
 | 91 | [Feather In Air](https://open.spotify.com/track/4zuXUMr4tSGSsg6360EUkg) | [made.at.4am](https://open.spotify.com/artist/3aoANE91vD4GzVzeg9ENsb), [Soulful.](https://open.spotify.com/artist/5GDm4G5nVl8P0tmB86KTtp) | [Feather In Air](https://open.spotify.com/album/2o68vASAfxDxT6f0DT0kHm) | 4:03 |
 | 92 | [Beautiful Day](https://open.spotify.com/track/2uMKkCKZyw4geZwG7H3P5s) | [Goldenninjah](https://open.spotify.com/artist/7h8yHAeuxxeKQjRXc7XiBu) | [Beautiful Day](https://open.spotify.com/album/3ZiYr7jAkSQzYaN2DKTHQ2) | 2:10 |

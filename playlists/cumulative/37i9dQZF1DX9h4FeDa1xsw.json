@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : And\u00e9ol",
+  "description": "Photo : Luidji",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 92274,
       "name": "30 secondes",
       "url": "https://open.spotify.com/track/2TiyqnbzipvZDBHqRA5vTh"
+    },
+    {
+      "album": {
+        "name": "A la folie",
+        "url": "https://open.spotify.com/album/395fRjBGn4yoTYp97mAOUq"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "A la folie",
+      "url": "https://open.spotify.com/track/4CkPnK5pnxA5rGIgG6WmpU"
     },
     {
       "album": {
@@ -388,7 +406,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 182487,
       "name": "J'\u00e9cris",
       "url": "https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj"
@@ -518,7 +536,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 142133,
       "name": "La temp\u00eate approche",
       "url": "https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX"
@@ -562,6 +580,24 @@
       "duration_ms": 232120,
       "name": "Liverpool",
       "url": "https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2"
+    },
+    {
+      "album": {
+        "name": "MAMIMAMI",
+        "url": "https://open.spotify.com/album/7j7XhCrbyJXkrE34jzspJC"
+      },
+      "artists": [
+        {
+          "name": "Luidji",
+          "url": "https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115066,
+      "name": "MAMIMAMI",
+      "url": "https://open.spotify.com/track/0tGjmmFerDwJox0ZCPOUxw"
     },
     {
       "album": {
@@ -714,6 +750,24 @@
       "duration_ms": 126859,
       "name": "Pansement",
       "url": "https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3"
+    },
+    {
+      "album": {
+        "name": "PAS CHEZ MOI",
+        "url": "https://open.spotify.com/album/0LwEw2LjM9mEVbENVdQ3eE"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "PAS CHEZ MOI",
+      "url": "https://open.spotify.com/track/5IBwwAbYOhgXoOu8CgeQAV"
     },
     {
       "album": {
@@ -962,7 +1016,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190947,
       "name": "TOUS CEUX",
       "url": "https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX"

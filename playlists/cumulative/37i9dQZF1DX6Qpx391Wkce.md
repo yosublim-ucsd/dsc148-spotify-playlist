@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-387 songs - 1 day 11 hr 34 min
+387 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Latin Lovers \- 2004 Version Edit](https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 3:46 | 2024-07-19 |  |
 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-07-19 |  |
 | [Layer](https://open.spotify.com/track/01Cz1Q65JgWPP6ozK8E0GC) | [Veerus](https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH) | [Layer](https://open.spotify.com/album/6kkAgfXtdyWZ8NZote4R3j) | 3:47 | 2024-07-05 | 2024-09-10 |
-| [Le Meilleur Est à Venir](https://open.spotify.com/track/16KHLdMoI351SMD459aTcF) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Le Meilleur Est à Venir](https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW) | 6:18 | 2024-09-09 |  |
+| [Le Meilleur Est à Venir](https://open.spotify.com/track/16KHLdMoI351SMD459aTcF) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Le Meilleur Est à Venir](https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW) | 3:49 | 2024-09-09 |  |
 | [Leben](https://open.spotify.com/track/45CNEM8SEc03KraMU3zOOm) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:36 | 2023-07-14 | 2023-09-16 |
 | [Leben \- Extended Mix](https://open.spotify.com/track/0JGVJBpIFL9AOyS8kgnYAE) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Leben \(Extended Mix\)](https://open.spotify.com/album/68sOYMFg1iayXlamMtaShO) | 5:54 | 2023-09-15 | 2024-02-10 |
 | [Legends \- Zafer Atabey Remix](https://open.spotify.com/track/7dqzY8JkKGSmXuM9UJIgzI) | [Gaga](https://open.spotify.com/artist/0kolce4lQQT3kf9QJmEuMX), [Mateo!](https://open.spotify.com/artist/3XTXJ0qA1B0EZxqdPcISv2), [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [Legends](https://open.spotify.com/album/63rqiTHHTobOqJCxZRpwhC) | 6:30 | 2023-09-15 | 2023-10-14 |
@@ -242,8 +242,8 @@
 | [Old School](https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Old School EP](https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw) | 5:31 | 2023-10-13 | 2024-01-13 |
 | [Oldschool](https://open.spotify.com/track/15c7mZtr57FWGFGIEs5IxA) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [From the Soul](https://open.spotify.com/album/1xUWN0evOcPEJOqyPFBY5w) | 4:03 | 2024-10-11 |  |
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2024-09-09 |  |
-| [Once In A Lifetime](https://open.spotify.com/track/0mwI1pte7ogpA01wWfIR06) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Once In A Lifetime](https://open.spotify.com/album/6kdnloLqMVkcClPrPZweWr) | 5:05 | 2024-08-02 |  |
-| [Once In A Lifetime](https://open.spotify.com/track/2ITYwxUxfQvl6BAGQPJTGk) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Le Meilleur Est à Venir](https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW) | 5:05 | 2024-09-09 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/0mwI1pte7ogpA01wWfIR06) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Once In A Lifetime](https://open.spotify.com/album/6kdnloLqMVkcClPrPZweWr) | 3:57 | 2024-08-02 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/2ITYwxUxfQvl6BAGQPJTGk) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Le Meilleur Est à Venir](https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW) | 3:57 | 2024-09-09 |  |
 | [One Love \- Nick Curly Remix \[2023 Edit\]](https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [One Love \(Nick Curly Remix \[2023 Edit\]\)](https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC) | 3:48 | 2023-12-01 | 2024-07-20 |
 | [Orbital Overdrive](https://open.spotify.com/track/55nGYZkyqpm6C3uh8koxyT) | [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [Orbital Overdrive](https://open.spotify.com/album/56QmnmzAwcHtoYh3keiymi) | 4:14 | 2024-08-02 |  |
 | [Organ Grinder](https://open.spotify.com/track/5NZ9LVbLXUegemJ6nE25Dr) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Circular EP](https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a) | 5:40 | 2024-03-01 | 2024-05-25 |

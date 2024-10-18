@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-577 songs - 1 day 10 hr 5 min
+578 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2022-12-12 |  |
 | [Mazhai Kuruvi](https://open.spotify.com/track/54uxMrzHA19Uw3K1EYrRzU) | [Shameel J](https://open.spotify.com/artist/21peBnGpGmNdiC9UwnBMdg), [Cv Laksh](https://open.spotify.com/artist/3RbNOYexLa2GmQzelTXPSa) | [Mazhai Kuruvi](https://open.spotify.com/album/3810ANE6YEusX5tYeSHIoG) | 4:00 | 2022-10-13 | 2023-01-11 |
 | [Meenavan](https://open.spotify.com/track/2dEiyopwCao8uIM7tVsEb7) | [Keshore Kumarr](https://open.spotify.com/artist/5BD7bGKYa8EtnwRpEjYd2f) | [Meenavan](https://open.spotify.com/album/691oVQJTXlZsGxcZQ7VC7m) | 4:38 | 2023-02-06 | 2023-07-11 |
-| [Meenu](https://open.spotify.com/track/4LPtOxsnWaSvXp4QNEELZc) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx) | [Meenu](https://open.spotify.com/album/08i3xSuoGshAB78Qaj0ttz) | 2:20 | 2024-08-12 |  |
+| [Meenu](https://open.spotify.com/track/4LPtOxsnWaSvXp4QNEELZc) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx) | [Meenu](https://open.spotify.com/album/08i3xSuoGshAB78Qaj0ttz) | 2:20 | 2024-08-12 | 2024-10-18 |
 | [Meliyana \- From "Think Specials"](https://open.spotify.com/track/0PSZHMF4syM3zCaJO6gFEW) | [Aswin Ram](https://open.spotify.com/artist/2xo9fOoNP5uhKmHa4z6fNr), [Simran Sehgal](https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Meliyana \(From "Think Specials"\)](https://open.spotify.com/album/2MC5oVrtoRDvOooEMqEbNh) | 3:12 | 2022-11-14 | 2023-01-11 |
 | [Mellamayi Pokalam](https://open.spotify.com/track/2rk30QOX1UseqHRQpnJ8e2) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Mellamayi Pokalam](https://open.spotify.com/album/3Qip9djelq7rqCXmPnVZ6X) | 3:33 | 2023-01-16 | 2023-12-19 |
 | [Mila](https://open.spotify.com/track/0ZAot67HK95veTMRyfNftK) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Mila](https://open.spotify.com/album/570npVAI6oge332efE1Zak) | 3:36 | 2023-07-17 |  |
@@ -357,6 +357,7 @@
 | [Nila](https://open.spotify.com/track/7hSaOZrT35GNK74UKnda8L) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Krishnamurthy Kiitty](https://open.spotify.com/artist/2eGNuqkPQ5mdFd94l5nRTz), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Nila](https://open.spotify.com/album/2e0B7pyQzsdZVXGRRAa8oN) | 3:14 | 2023-03-06 | 2023-03-18 |
 | [Nila Mugam](https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Nila Mugam](https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL) | 3:53 | 2023-02-10 | 2023-04-01 |
 | [Nila Sirikirathu](https://open.spotify.com/track/7qhdHW4TyRlWuvS3H8h26f) | [T\. S\. Ayyappan](https://open.spotify.com/artist/5T2ed9WGqsPWsCeUG8wD75) | [Nila](https://open.spotify.com/album/3J3PgzJw7GxKnbAn6NlHac) | 4:31 | 2022-09-21 | 2022-10-14 |
+| [Nilai](https://open.spotify.com/track/3ZGTWcFuIURG6gX8omp5kL) | [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj) | [Nilai](https://open.spotify.com/album/6c0bgegNqZ9H9nYjCBO15y) | 4:34 | 2024-10-17 |  |
 | [Nilai Maarum Payanam](https://open.spotify.com/track/60dwrCvW8ww7iMA8pCX2JX) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Nilai Maarum Payanam](https://open.spotify.com/album/7fpSor3wlk5MUb3CMY3u5y) | 3:15 | 2022-09-23 | 2023-02-09 |
 | [Nilave](https://open.spotify.com/track/0bBFHTeJKIqDZruxAGrAsd) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Sugirtharaja Sapesan](https://open.spotify.com/artist/1VVa6EfoRKLOsx744VfO3C) | [Nilave](https://open.spotify.com/album/0Xg3ZLaeQzbhwm3Tk7vZOR) | 3:16 | 2022-05-31 | 2022-07-28 |
 | [Nilla Mazhaiye](https://open.spotify.com/track/7Hr9ckrf61lR4DzhZVh5qv) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Nilla Mazhaiye](https://open.spotify.com/album/3tGnd1qzSk38wdliXhPAyI) | 4:25 | 2023-07-24 |  |

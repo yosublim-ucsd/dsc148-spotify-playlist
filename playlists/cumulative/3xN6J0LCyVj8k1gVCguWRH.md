@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,049 songs - 9 day 11 hr 30 min
+4,051 songs - 9 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1960,6 +1960,7 @@
 | [Lava](https://open.spotify.com/track/6cr32HRXGnxzeb2CigrVw9) | [EFIA](https://open.spotify.com/artist/7gxMBeCcMlBk8mczc1fkKd) | [Lava](https://open.spotify.com/album/5XJY6MAzMt0rcAXjR4LPNO) | 3:49 | 2019-11-11 | 2019-12-04 |
 | [LAY WITH ME \(REMIX\)](https://open.spotify.com/track/3LbyMox8uvUT1uX6OSSNXZ) | [BAM.](https://open.spotify.com/artist/4b6sRvbiJdiUvlEMGx4TjX) | [SEXTAPE \(DELUXE\)](https://open.spotify.com/album/3QaHKMwrqImPnxzZvfqRcD) | 3:00 | 2022-03-18 | 2022-04-05 |
 | [Layover](https://open.spotify.com/track/6dyraSX2wUXjJHcgUXqcUC) | [Parker Matthews](https://open.spotify.com/artist/0ooRSJF7rQhoaLpHq0VBtb) | [Layover](https://open.spotify.com/album/7L78rVnNdyYVzIp93IwIzK) | 2:58 | 2023-05-05 | 2023-05-27 |
+| [Lazy Afternoon](https://open.spotify.com/track/0Tde9ugDDNAYlnZofE9bQW) | [Lil Flower Nasti](https://open.spotify.com/artist/1tJPjknR9uXKSOfZ89KnAs) | [The Evolution of Sarah](https://open.spotify.com/album/1TGwy2m7YShaJb8ECAtT7k) | 2:42 | 2024-10-17 |  |
 | [Lazy Afternoon In NY](https://open.spotify.com/track/3VsrwH71KmP73pqrDx7CuU) | [Sabrina Asiani](https://open.spotify.com/artist/5SCxd7VRtijXnsGC4Llmbd), [Claudio Fontana](https://open.spotify.com/artist/3ouGmCwbPpbM2YsNzMDmHL) | [Lazy Days](https://open.spotify.com/album/7N2qm6qjMssXBSb2N9HoXB) | 4:17 | 2024-01-13 | 2024-01-22 |
 | [Lazy Leg](https://open.spotify.com/track/6AcWdmn7mgj9kdUt69H9yT) | [Sabolious](https://open.spotify.com/artist/47u6aQaJf5PSotCEpFqod2) | [Lazy Leg](https://open.spotify.com/album/6QbU6qAkiDar2JtaziGjDw) | 3:26 | 2023-05-05 | 2023-05-27 |
 | [Le Départ](https://open.spotify.com/track/0FTpFi1BlqoBVELlh7jK50) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 0:59 | 2024-06-05 | 2024-06-17 |
@@ -2751,6 +2752,7 @@
 | [Play To Tease](https://open.spotify.com/track/5fNPdXqUH2cLc75V9DUUhU) | [Shania Juzil](https://open.spotify.com/artist/3DQysDkHXUZ32ZHyFsjbxK) | [Play To Tease](https://open.spotify.com/album/7nx2ZhLDgbMUwdFRNCcbBl) | 3:12 | 2021-07-10 | 2021-07-25 |
 | [Playlist](https://open.spotify.com/track/0xu5fobRmWiQI3hGbCF5qu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Playlist](https://open.spotify.com/album/65zm0Vv44YuJKIkxmklQ5u) | 3:01 | 2022-12-15 | 2023-01-13 |
 | [PLEASE](https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [PLEASE](https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz) | 4:25 | 2024-09-25 | 2024-10-07 |
+| [Please Don't Call Me](https://open.spotify.com/track/7GqwLdZ5WDoFPn0ic9EayK) | [KKyle](https://open.spotify.com/artist/7f0jta51sdmrZEkTrpcMYU) | [Please Don't Call Me](https://open.spotify.com/album/6EllXwFP1gUUW7TmGZkMWE) | 2:00 | 2024-10-17 |  |
 | [Please Stay](https://open.spotify.com/track/3kRR0BXjpP7B8aLWsPlCQy) | [RAD III](https://open.spotify.com/artist/4VOKPyqkzuUlunlQUFeHNR) | [Please Stay](https://open.spotify.com/album/6Y5P1YsrxmowlIX3hOKZQf) | 4:12 | 2023-08-11 | 2023-09-01 |
 | [Pleasure](https://open.spotify.com/track/3XeaQtDcd6nOfersQwo3KM) | [Treis](https://open.spotify.com/artist/6hUIDnCrzRoxekFkOoy8Fi) | [Homesick](https://open.spotify.com/album/7qxWIr6enjaJKvrB3a5Qoz) | 3:16 | 2024-03-19 | 2024-04-02 |
 | [Pluto](https://open.spotify.com/track/6qqgC2Fxb6bcNAApAIfm3Z) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Pluto](https://open.spotify.com/album/5d0La3iOmeP9Ydzv07bHXK) | 4:04 | 2024-04-29 | 2024-05-14 |

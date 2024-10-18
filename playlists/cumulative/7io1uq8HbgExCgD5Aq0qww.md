@@ -4,7 +4,7 @@
 
 > Stories, tales, ballads, etc
 
-26 songs - 1 hr 41 min
+27 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [The Piper](https://open.spotify.com/track/5jBPAlYvSkGDz4iDW7r2FC) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 3:26 | 2024-09-20 |  |
 | [The Plank](https://open.spotify.com/track/191qPeOpllZfaApp35HXK3) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 2:26 | 2023-05-10 |  |
 | [The Stranger at My Door](https://open.spotify.com/track/0JBcton8gfm1O79eSdUIkX) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:42 | 2023-05-05 |  |
+| [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 | 2024-10-17 |  |
 | [You & the Cockroach](https://open.spotify.com/track/1DytbGZoEsEMV5UeMr9Vtv) | [Hobo Johnson](https://open.spotify.com/artist/05SdqPzK4m3k1ljK2wrTSP) | [The Fall of Hobo Johnson](https://open.spotify.com/album/3QrkHSj8pBzE1Kwhpnktkw) | 4:01 | 2023-03-31 |  |
 | [You Don't Mess Around with Jim](https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:02 | 2024-09-17 |  |
 

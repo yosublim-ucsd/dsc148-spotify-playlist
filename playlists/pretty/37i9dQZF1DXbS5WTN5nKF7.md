@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,839 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,888 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Queen of My Castle](https://open.spotify.com/track/5svpgXwbxHqyZcvTJFBWa2) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen of My Castle](https://open.spotify.com/album/6sV8sz1lhDo4JFyMnUa8mx) | 2:36 |
 | 50 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 
-Snapshot ID: `Zw7l4AAAAAC1/RJnaNKabHmdYXjIat11`
+Snapshot ID: `ZxGI4AAAAADuwasbl/0q5EEW+M9mrfF2`

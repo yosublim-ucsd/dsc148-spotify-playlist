@@ -2,12 +2,13 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Aliocha Schneider
+> Le meilleur de la chanson française actuelle\. Photo : Clou
 
-83 songs - 4 hr 40 min
+86 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adorer](https://open.spotify.com/track/2A0fiFC0aaMzUGgudG3w8x) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe) | [Adorer](https://open.spotify.com/album/7uCxw62zvzZ2BBo2yEHuCh) | 3:36 | 2024-10-17 |  |
 | [AMOURFOU](https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [APRÈS DEUIL\(S\)](https://open.spotify.com/album/0ZpYSAaOfQvIo55zbEx4ly) | 3:36 | 2024-06-27 | 2024-09-20 |
 | [Après l'amour \- Session Théâtre de l'Atelier](https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Après l'amour \(Session Théâtre de l'Atelier\)](https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ) | 4:09 | 2024-06-27 |  |
 | [Aujourd'hui Kurt Cobain est mort](https://open.spotify.com/track/0jEkGlpUANVeYw7g0cEAHc) | [Joseph d'Anvers](https://open.spotify.com/artist/1k8xwxvWduyzLf7W4Ov92u), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Un garçon ordinaire \(D'après le roman de Joseph d'Anvers\)](https://open.spotify.com/album/0nDtgDNJX1wCKbuyXCJG5w) | 3:51 | 2024-06-27 | 2024-07-19 |
@@ -22,7 +23,7 @@
 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 | 2024-06-27 | 2024-08-30 |
 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 | 2024-08-29 |  |
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-10 |  |
-| [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 |  |
+| [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 | 2024-10-18 |
 | [FVL](https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [FVL](https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ) | 3:45 | 2024-06-27 | 2024-10-04 |
 | [Göttingen](https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Göttingen](https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS) | 3:09 | 2024-06-27 |  |
 | [Hauteurs](https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0) | [Blondino](https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8) | [Hauteurs](https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq) | 3:20 | 2024-07-18 |  |
@@ -55,9 +56,11 @@
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
 | [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 |  |
 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 | 2024-09-26 | 2024-10-11 |
+| [Les battements du cœur](https://open.spotify.com/track/3TJb4Bi0FFec1NSf3SWQz6) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Les battements du cœur](https://open.spotify.com/album/7i5WbGyIr7aqoGL5g673kv) | 3:14 | 2024-10-17 |  |
 | [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 |  |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 |  |
+| [Longtemps](https://open.spotify.com/track/4CBquCNpWBMWSF1hzlLBtv) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:55 | 2024-10-17 |  |
 | [Ma jeunesse](https://open.spotify.com/track/4V35BujGypFe8OzBwmSsbS) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Ma jeunesse](https://open.spotify.com/album/2RCuQSryCXllyUPREA6DzR) | 3:00 | 2024-10-10 |  |
 | [Ma mère](https://open.spotify.com/track/6hCsNW3jamyjGIsiQUmPgn) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma mère](https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Manquer à quelqu'un quelque part](https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs) | [Clarika](https://open.spotify.com/artist/286N26F5niRQqjn3PeqFjH) | [Danse encore](https://open.spotify.com/album/0xRbi5yizZ5215IUA0HnNW) | 3:15 | 2024-06-27 | 2024-07-19 |
@@ -77,9 +80,9 @@
 | [Rien à voir](https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP), [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Rien à voir](https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA) | 3:03 | 2024-06-27 |  |
 | [Romance](https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:10 | 2024-09-19 |  |
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-27 |  |
-| [SAKTI](https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAKTI](https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a) | 3:14 | 2024-06-27 |  |
+| [SAKTI](https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAKTI](https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a) | 3:14 | 2024-06-27 | 2024-10-18 |
 | [Salut](https://open.spotify.com/track/1JKaVKszQvRRRWkC4Jl7NE) | [Côme Ranjard](https://open.spotify.com/artist/40PTFLX9GHiZm6sF2RCCoz) | [Salut](https://open.spotify.com/album/2JrNI1AjKnD11vR5Gn4hXo) | 3:42 | 2024-08-29 | 2024-09-20 |
-| [sapon](https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [contrebande 02\. le disque de l'été](https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG) | 3:10 | 2024-06-27 |  |
+| [sapon](https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [contrebande 02\. le disque de l'été](https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG) | 3:10 | 2024-06-27 | 2024-10-18 |
 | [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/album/4VGzc4Y6rxaDIDEeeaPXcH) | 3:25 | 2024-07-18 |  |
 | [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 | 2024-06-27 |  |
 | [Seul](https://open.spotify.com/track/7zIncbn5OIPjHKrlPSBNdJ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Seul](https://open.spotify.com/album/5yxQkHMcwhgLyeu9ZQka2r) | 3:01 | 2024-06-27 |  |

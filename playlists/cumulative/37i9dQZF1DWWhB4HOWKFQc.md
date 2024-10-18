@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Ernie Zakri, Ade Govinda
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Nyoman Paul
 
-780 songs - 1 day 22 hr 59 min
+781 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-09-11 |  |
 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2024-06-27 | 2024-07-27 |
 | [Just Say Hello](https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm) | [Melo\-D](https://open.spotify.com/artist/2i1ftWZdQCfRZExJCmumZL) | [Just Say Hello](https://open.spotify.com/album/06k6PpQ15XGk2MVQuKljyH) | 4:48 | 2023-06-30 | 2023-08-19 |
+| [Just Say The Words](https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Just Say The Words](https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV) | 3:10 | 2024-10-17 |  |
 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 | 2023-12-01 | 2024-02-02 |
 | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/album/0ckVPtsAvHRAEe03eZU4Ih) | 2:17 | 2024-04-02 | 2024-04-19 |
 | [Kami Belum Tentu](https://open.spotify.com/track/38yM3PwNtTSsb8UqEgqaUl) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Kami Belum Tentu](https://open.spotify.com/album/6SkKvMB1eykgdm8sXzddTc) | 3:53 | 2024-08-28 | 2024-10-03 |

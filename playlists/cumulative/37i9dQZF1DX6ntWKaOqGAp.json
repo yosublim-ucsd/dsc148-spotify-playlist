@@ -14949,6 +14949,24 @@
     },
     {
       "album": {
+        "name": "Till Dawn",
+        "url": "https://open.spotify.com/album/7HuJjAZAnus0fqOGrxCaDX"
+      },
+      "artists": [
+        {
+          "name": "Name the Night",
+          "url": "https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Till Dawn",
+      "url": "https://open.spotify.com/track/2pQWpslYgqZ5n9UFs7NrCV"
+    },
+    {
+      "album": {
         "name": "Time Travel Girl",
         "url": "https://open.spotify.com/album/3RvM5QWyMn7lkkcev0cmbz"
       },
@@ -19468,7 +19486,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 227426,
       "name": "\u30aa\u30ec\u306f\u97f3\u697d",
       "url": "https://open.spotify.com/track/3YFnjnksApVEq8PnjQPjNP"

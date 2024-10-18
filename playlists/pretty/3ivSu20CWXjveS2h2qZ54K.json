@@ -1,13 +1,373 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6605,
+  "num_followers": 6604,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACiJ1gvc+mIAWMJiXkdogfo4gZz7Hmo",
+  "snapshot_id": "AACiPSHNKjOoudn+qRojaYggzNbBjAO3",
   "tracks": [
+    {
+      "added_at": "2024-10-17 22:28:02",
+      "album": {
+        "name": "Yo solo quer\u00eda escribir una canci\u00f3n de amor",
+        "url": "https://open.spotify.com/album/0I9UvMSJOjES5NpdbMGnfG"
+      },
+      "artists": [
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "duration_ms": 218877,
+      "name": "Yo solo quer\u00eda escribir una canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/1EJt1nn1MD8BWtS7w7ZwML"
+    },
+    {
+      "added_at": "2024-10-17 22:27:30",
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
+    },
+    {
+      "added_at": "2024-10-17 22:26:56",
+      "album": {
+        "name": "No Me Cansare",
+        "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "No Me Cansare",
+      "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
+    },
+    {
+      "added_at": "2024-10-17 22:27:37",
+      "album": {
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "added_at": "2024-10-17 22:30:09",
+      "album": {
+        "name": "Ruido Blanco",
+        "url": "https://open.spotify.com/album/6vHK4Aw6Do2slwN7DXtGSz"
+      },
+      "artists": [
+        {
+          "name": "La Plata",
+          "url": "https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Ruido Blanco",
+      "url": "https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5"
+    },
+    {
+      "added_at": "2024-10-17 04:54:02",
+      "album": {
+        "name": "Defense",
+        "url": "https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Cindy Lee",
+          "url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA"
+        }
+      ],
+      "duration_ms": 275120,
+      "name": "Defense",
+      "url": "https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy"
+    },
+    {
+      "added_at": "2024-10-17 22:29:23",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5brVHpDSJozJOBYmmopAZZ"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 132972,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4i44BQiyplTEvH9S415cCE"
+    },
+    {
+      "added_at": "2024-10-17 22:29:48",
+      "album": {
+        "name": "TECHNO RICO",
+        "url": "https://open.spotify.com/album/3zIsrJrxViK89NMQyvN55Z"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "duration_ms": 159419,
+      "name": "TECHNO RICO",
+      "url": "https://open.spotify.com/track/6eY5RjZpG6tKQ70rGU8uNq"
+    },
+    {
+      "added_at": "2024-10-17 22:29:13",
+      "album": {
+        "name": "A SOLAS 2",
+        "url": "https://open.spotify.com/album/1soOiLMhlPupIDWx8AYSG3"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 237594,
+      "name": "A SOLAS 2",
+      "url": "https://open.spotify.com/track/7bH6YEVzuyrWM1Qk4ymWEp"
+    },
+    {
+      "added_at": "2024-10-17 22:28:13",
+      "album": {
+        "name": "BOYBAND Parte I",
+        "url": "https://open.spotify.com/album/3vYo4X9mmDWOCpGLb6o1tj"
+      },
+      "artists": [
+        {
+          "name": "Flavio Rodriguez",
+          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
+        },
+        {
+          "name": "Pepe y Vizio",
+          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz"
+        }
+      ],
+      "duration_ms": 180374,
+      "name": "quemasda?",
+      "url": "https://open.spotify.com/track/5K9x3a7DxC6tSx0Zf1Zhu1"
+    },
+    {
+      "added_at": "2024-10-17 22:30:18",
+      "album": {
+        "name": "FANZINE",
+        "url": "https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        }
+      ],
+      "duration_ms": 186976,
+      "name": "FANZINE",
+      "url": "https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl"
+    },
+    {
+      "added_at": "2024-10-17 22:27:44",
+      "album": {
+        "name": "SAYONARA: FINALES ALTERNOS",
+        "url": "https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 286760,
+      "name": "JPN",
+      "url": "https://open.spotify.com/track/7a66e0TSXh1fKpSCLDQvUa"
+    },
+    {
+      "added_at": "2024-10-17 22:28:37",
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 193006,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
+    },
+    {
+      "added_at": "2024-10-17 22:29:32",
+      "album": {
+        "name": "LA BALADA",
+        "url": "https://open.spotify.com/album/0DHAxtCoUwyXVGoMYzHSNj"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 155919,
+      "name": "LA BALADA",
+      "url": "https://open.spotify.com/track/7CTyrGSh3b4wgNlb4XQN7c"
+    },
+    {
+      "added_at": "2024-10-17 06:50:05",
+      "album": {
+        "name": "Ya no est\u00e1",
+        "url": "https://open.spotify.com/album/3OM2kqSjVeIVeUK9CasrCD"
+      },
+      "artists": [
+        {
+          "name": "Eva Calyza",
+          "url": "https://open.spotify.com/artist/6rUgNfaBgUk0WCQbNafgKh"
+        }
+      ],
+      "duration_ms": 155634,
+      "name": "Ya no est\u00e1",
+      "url": "https://open.spotify.com/track/1wI9VKQcaZcPq1CAqKA3AD"
+    },
+    {
+      "added_at": "2024-10-17 22:28:23",
+      "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/2WtUQ2qrQ7Bm5H36sjIOyb"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 149547,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla"
+    },
+    {
+      "added_at": "2024-10-17 22:27:20",
+      "album": {
+        "name": "KIZAO",
+        "url": "https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 220361,
+      "name": "KIZAO",
+      "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "added_at": "2024-10-17 22:28:54",
+      "album": {
+        "name": "Un \u00faltimo vals",
+        "url": "https://open.spotify.com/album/5EIyVu9MNNnpn7nuaYHMRp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Un \u00faltimo vals",
+      "url": "https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp"
+    },
+    {
+      "added_at": "2024-10-17 22:27:53",
+      "album": {
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
+    },
+    {
+      "added_at": "2024-10-17 22:27:08",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
     {
       "added_at": "2024-10-11 04:50:42",
       "album": {

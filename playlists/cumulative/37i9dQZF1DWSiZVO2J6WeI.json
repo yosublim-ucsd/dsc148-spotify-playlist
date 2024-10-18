@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "741 Hz Pure Expression",
+        "url": "https://open.spotify.com/album/3R1ahXku6SNrnXE5xVThif"
+      },
+      "artists": [
+        {
+          "name": "Floating On Clouds",
+          "url": "https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182070,
+      "name": "741 Hz Pure Expression",
+      "url": "https://open.spotify.com/track/48R0qTAVmLRyTxxT8PhUA9"
+    },
+    {
+      "album": {
         "name": "Ornamental",
         "url": "https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 142004,
       "name": "Annalkande",
       "url": "https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,887 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,905 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 35 | [ユフィの為に](https://open.spotify.com/track/5YIZP7oUsttoPCVbIQJehR) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 3:11 |
 | 36 | [Shirley](https://open.spotify.com/track/5vgsReLHruzforPeG19bWP) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:38 |
 | 37 | [GREEN GIRL](https://open.spotify.com/track/4HFEQxji2Bk232ops71Thm) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 3:24 |
-| 38 | [モアザンワーズ](https://open.spotify.com/track/3Ujwh566BdLD746tBogDZ8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「コードギアス 亡国のアキト」 Original Soundtrack](https://open.spotify.com/album/1A7tlxD4CP0GCmwmMVTXa0) | 5:05 |
+| 38 | [モアザンワーズ](https://open.spotify.com/track/3Ujwh566BdLD746tBogDZ8) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「コードギアス　亡国のアキト」 Original Soundtrack](https://open.spotify.com/album/1A7tlxD4CP0GCmwmMVTXa0) | 5:05 |
 | 39 | [アルコ](https://open.spotify.com/track/6oNNZZ8muMk2VhehkpnoAH) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [コードギアス 亡国のアキト O.S.T.2](https://open.spotify.com/album/0HDCyBbbjUaA3AHalV2MWR) | 5:38 |
 | 40 | [Masquerade](https://open.spotify.com/track/0WeJnDwWCwhBRv9mASWGyZ) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.](https://open.spotify.com/album/0rQxjmgwxlqxf9pDC5yEFx) | 4:40 |
-| 41 | [Alone](https://open.spotify.com/track/31xxzAePWwf1Sw4LoPxztS) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス 反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 3:47 |
-| 42 | [Innocent Days](https://open.spotify.com/track/0WYWXGlTjTvqpogtR27HtV) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス 反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:27 |
-| 43 | [ピカレスク](https://open.spotify.com/track/51V6Tg9hPtNpZxjuCTr6H2) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [コードギアス 反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:02 |
-| 44 | [Callin'](https://open.spotify.com/track/5UcEEehOyD2WeO8H9bD7XT) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [コードギアス 反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:37 |
+| 41 | [Alone](https://open.spotify.com/track/31xxzAePWwf1Sw4LoPxztS) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 3:47 |
+| 42 | [Innocent Days](https://open.spotify.com/track/0WYWXGlTjTvqpogtR27HtV) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:27 |
+| 43 | [ピカレスク](https://open.spotify.com/track/51V6Tg9hPtNpZxjuCTr6H2) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:02 |
+| 44 | [Callin'](https://open.spotify.com/track/5UcEEehOyD2WeO8H9bD7XT) | [Mikio Sakai](https://open.spotify.com/artist/6KFocrrFAPX0HOIsRQG9Hr) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 4:37 |
 | 45 | [僕は、鳥になる。](https://open.spotify.com/track/1pvbI84iNZ4lazReX8mYqN) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス 反逆のルルーシュ R2 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4vw1voQ0P58bdeOilp619g) | 5:08 |
 | 46 | [今はここに](https://open.spotify.com/track/6y0aFx8yruYbEZf8wk8Wkz) | [相坂優歌](https://open.spotify.com/artist/3s96N2VlNLmsyVyDoG8vyS) | [屋上の真ん中　で君の心は青く香るまま](https://open.spotify.com/album/2IYqL8Oei8sUMUFhHAuULL) | 5:11 |
 | 47 | [螺旋のピース](https://open.spotify.com/track/1ENdkzdd9CJC8NTNoIYxrb) | [Rayflower](https://open.spotify.com/artist/1GDSfCGBESdvPvas0YT7Q9) | [映画『コードギアス 復活のルルーシュ』オリジナル サウンドトラック](https://open.spotify.com/album/1HruZAho249DSJ2DfUDyGM) | 5:27 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 50 | [Nightmare](https://open.spotify.com/track/455VndgUWw2YLmQQwrdcwq) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス　反逆のルルーシュ O.S.T.](https://open.spotify.com/album/0rQxjmgwxlqxf9pDC5yEFx) | 1:08 |
 | 51 | [0](https://open.spotify.com/track/3tSLfihhr9n6s2GKIdBgBd) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス　反逆のルルーシュ O.S.T.](https://open.spotify.com/album/0rQxjmgwxlqxf9pDC5yEFx) | 1:34 |
 | 52 | [All Hail Britannia!!!](https://open.spotify.com/track/37OUJhWDubi1DknHrzkrOy) | [清水宏樹](https://open.spotify.com/artist/4rRjyBWQ8h6sQqbg34opWm), [谷友博](https://open.spotify.com/artist/4ZgWYXtUw2d8iY915sN7tE), [中西勝之](https://open.spotify.com/artist/4ILWsQpCRplQ6Be88F0DMC) | [コードギアス　反逆のルルーシュ O.S.T.](https://open.spotify.com/album/0rQxjmgwxlqxf9pDC5yEFx) | 2:32 |
-| 53 | [Previous Notice](https://open.spotify.com/track/0QkJKYxkV6j6UqYWe6TlLw) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス 反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 1:16 |
+| 53 | [Previous Notice](https://open.spotify.com/track/0QkJKYxkV6j6UqYWe6TlLw) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス　反逆のルルーシュ O.S.T.2](https://open.spotify.com/album/1OJBXfLqmg1cEA23ap7nCa) | 1:16 |
 | 54 | [Le Repos Du Guerrier](https://open.spotify.com/track/4Lhh8UyVz0futVxxph1ug7) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス 反逆のルルーシュ R2 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4vw1voQ0P58bdeOilp619g) | 2:04 |
 | 55 | [Madder Sky](https://open.spotify.com/track/26yTRCX89Ur88Gzl7Dwdiv) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス　反逆のルルーシュ R2 O.S.T.](https://open.spotify.com/album/3eeB3dIdCLcJ2lp5VDtl2m) | 2:56 |
 | 56 | [The Master](https://open.spotify.com/track/3Dv5DhwhCINby7TAlG3bDA) | [Koutarou Nakagawa](https://open.spotify.com/artist/604Ej862poeBoROkXMzsGx) | [コードギアス　反逆のルルーシュ R2 O.S.T.](https://open.spotify.com/album/3eeB3dIdCLcJ2lp5VDtl2m) | 2:03 |
-| 57 | [No Choice but to Fight](https://open.spotify.com/track/1akSEWYcnn2AufW9brxZN1) | [Ichiko Hashimoto](https://open.spotify.com/artist/4wTSNilt4EsffHSJrcnwbQ) | [「コードギアス 亡国のアキト」 Original Soundtrack](https://open.spotify.com/album/1A7tlxD4CP0GCmwmMVTXa0) | 3:19 |
+| 57 | [No Choice but to Fight](https://open.spotify.com/track/1akSEWYcnn2AufW9brxZN1) | [Ichiko Hashimoto](https://open.spotify.com/artist/4wTSNilt4EsffHSJrcnwbQ) | [「コードギアス　亡国のアキト」 Original Soundtrack](https://open.spotify.com/album/1A7tlxD4CP0GCmwmMVTXa0) | 3:19 |
 | 58 | [Stories](https://open.spotify.com/track/1FbtWX23RxzMNKiHk5p1AE) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [コードギアス　反逆のルルーシュ O.S.T.](https://open.spotify.com/album/0rQxjmgwxlqxf9pDC5yEFx) | 5:19 |
 | 59 | [REINCARNATION](https://open.spotify.com/track/3nxorwwyquXuGfkwpn6TY1) | [C.C.\(CV.ゆかな\)](https://open.spotify.com/artist/4J0l6xwT4VKUTpEqpgjf9m) | [MBS・TBS系アニメーション コードギアス 反逆のルルーシュ キャラクターソング ベスト](https://open.spotify.com/album/1WJ3HOMjgJXCfUPAyYJpjT) | 3:35 |
 | 60 | [Back to Zero](https://open.spotify.com/track/7y0ELo921xEc9u9p2qNalk) | [ルルーシュ\(CV.福山潤\)](https://open.spotify.com/artist/3ygVJ6xMNHPQsnpVnSefUE) | [コードギアス 反逆のルルーシュ CODE BLACK+](https://open.spotify.com/album/6wcohlmDNVqQIb68PyBXUL) | 5:22 |

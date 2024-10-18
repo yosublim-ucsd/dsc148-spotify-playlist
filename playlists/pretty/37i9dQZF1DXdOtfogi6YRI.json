@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: M\u0142ody Leszcz, Molehead, PAWLACZ",
-  "num_followers": 17979,
+  "num_followers": 17983,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/469rGu6MSyXHKPsnAQFbLJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 242608,
       "name": "NONSTOP",
       "url": "https://open.spotify.com/track/6ZYojLrnfvENyrsvP5Lru8"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -671,18 +671,22 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "czapka",
-        "url": "https://open.spotify.com/album/6vEQZWhkRaCNONxyoA0Ab6"
+        "name": "flashback",
+        "url": "https://open.spotify.com/album/0diY9FiAxiy2liNChOCy6E"
       },
       "artists": [
         {
-          "name": "majtis",
-          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
         }
       ],
-      "duration_ms": 161777,
-      "name": "czapka",
-      "url": "https://open.spotify.com/track/6EYkyZ1NqxqD8qhZAgwXBt"
+      "duration_ms": 142451,
+      "name": "flashback",
+      "url": "https://open.spotify.com/track/35e811UW0wDUT0bNN7o9Oj"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -727,22 +731,18 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "flashback",
-        "url": "https://open.spotify.com/album/0diY9FiAxiy2liNChOCy6E"
+        "name": "czapka",
+        "url": "https://open.spotify.com/album/6vEQZWhkRaCNONxyoA0Ab6"
       },
       "artists": [
         {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
         }
       ],
-      "duration_ms": 142451,
-      "name": "flashback",
-      "url": "https://open.spotify.com/track/35e811UW0wDUT0bNN7o9Oj"
+      "duration_ms": 161777,
+      "name": "czapka",
+      "url": "https://open.spotify.com/track/6EYkyZ1NqxqD8qhZAgwXBt"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "BACKLOG",
-        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
-      },
-      "artists": [
-        {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "BACKLOG",
-      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 253604,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
+        "name": "BACKLOG",
+        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "BACKLOG",
+      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
+        "name": "usa",
+        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        },
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "usa",
+      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
         "name": "HIP HOP",
         "url": "https://open.spotify.com/album/5NzcSRE2QbkshX2VAKrkMd"
       },
@@ -1247,26 +1267,6 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "usa",
-        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "usa",
-      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
         "name": "Off My Mind",
         "url": "https://open.spotify.com/album/1EbapENzyUNSIEpAlbS54p"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 173342,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/1CahJRBO4FJBH902lTpXul"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
+        "name": "3w1",
+        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "3w1",
+      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -1319,22 +1335,6 @@
       "duration_ms": 170602,
       "name": "Sto lat",
       "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
-        "name": "3w1",
-        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "3w1",
-      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
-        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        },
-        {
-          "name": "Zajac",
-          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
-      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
         "name": "Jak Wiatr",
         "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
       },
@@ -1847,26 +1827,6 @@
       "duration_ms": 181160,
       "name": "Jak Wiatr",
       "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
-        "name": "RODOPSYNA",
-        "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
-      },
-      "artists": [
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        },
-        {
-          "name": "Cold Patek",
-          "url": "https://open.spotify.com/artist/6BLMt6YfWqjIngqKkAsilH"
-        }
-      ],
-      "duration_ms": 148553,
-      "name": "puzzel",
-      "url": "https://open.spotify.com/track/1gbluZrfKq4UEwNDc6EJqO"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -1911,6 +1871,46 @@
       "duration_ms": 212142,
       "name": "MIASTO AWANTUR",
       "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
+        "name": "RODOPSYNA",
+        "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
+      },
+      "artists": [
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        },
+        {
+          "name": "Cold Patek",
+          "url": "https://open.spotify.com/artist/6BLMt6YfWqjIngqKkAsilH"
+        }
+      ],
+      "duration_ms": 148553,
+      "name": "puzzel",
+      "url": "https://open.spotify.com/track/1gbluZrfKq4UEwNDc6EJqO"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
+        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        },
+        {
+          "name": "Zajac",
+          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
     },
     {
       "added_at": "2024-10-11 13:02:27",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-10-11 13:02:27",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
-      },
-      "artists": [
-        {
-          "name": "PAL SECAM",
-          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
-    },
-    {
-      "added_at": "2024-10-11 13:02:27",
-      "album": {
         "name": "Napad",
         "url": "https://open.spotify.com/album/64LvULdyg978WFebqFmQzX"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 135211,
       "name": "Napad",
       "url": "https://open.spotify.com/track/0Y1hSwTKDFHSgmll2o95HF"
+    },
+    {
+      "added_at": "2024-10-11 13:02:27",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
+      },
+      "artists": [
+        {
+          "name": "PAL SECAM",
+          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
     },
     {
       "added_at": "2024-10-11 13:02:27",

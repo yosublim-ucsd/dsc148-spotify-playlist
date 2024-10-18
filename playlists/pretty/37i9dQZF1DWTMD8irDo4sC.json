@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 70399,
+  "num_followers": 70413,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Aw'at (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 185345,
+      "name": "Aw'at (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
         "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 188852,
       "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
       "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Aw'at (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 185345,
-      "name": "Aw'at (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
     },
     {
       "added_at": "2022-05-09 08:05:11",

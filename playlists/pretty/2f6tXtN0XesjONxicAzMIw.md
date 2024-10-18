@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
-### [2000s HITS THROWBACKS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
+### [2000s HITS Y2K THROWBACKS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
 > The best of 2000s Y2K nostalgia, from \*NSYNC's &quot;Bye Bye Bye&quot; \(from Deadpool and Wolverine\), to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,574,422 likes - 150 songs - 9 hr 53 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,574,833 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 149 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 | 150 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
 
-Snapshot ID: `AAAIq6+Yr38YFJzUKzUjgUiv/rWoe9aO`
+Snapshot ID: `AAAIrItOwWcE1L4wt1xFZCxTTvYh6TEu`

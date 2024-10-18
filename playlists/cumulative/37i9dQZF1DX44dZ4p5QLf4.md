@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Bnnyhunna
 
-460 songs - 1 day 2 hr 57 min
+461 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2021-12-16 | 2022-01-26 |
 | [Make A Place](https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Make A Place](https://open.spotify.com/album/7hyTC1R6gccWhdMZ9437ZB) | 3:19 | 2022-09-29 | 2023-10-12 |
 | [Make It To Summer](https://open.spotify.com/track/7FsyUisTus0MEQqGVPAukP) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Blink Twice If You’re Okay](https://open.spotify.com/album/02vMw0MNNUbBxS6WeB1PR4) | 3:01 | 2024-05-09 |  |
+| [Make Money \(feat\. Mereba\)](https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Make Money \(feat\. Mereba\)](https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui) | 3:51 | 2024-10-17 |  |
 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 | 2023-12-11 |  |
 | [Masego’s Interlude](https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego’s Interlude](https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH) | 2:06 | 2023-09-14 | 2024-09-13 |
 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 | 2023-04-06 | 2024-05-24 |

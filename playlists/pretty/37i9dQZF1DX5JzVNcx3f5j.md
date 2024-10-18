@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,063 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,097 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 58 | [Beautiful Days](https://open.spotify.com/track/2Xp2VP7RS5z5fKJgEN9tYd) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Beautiful Days](https://open.spotify.com/album/1KBRny9ik8UTkE84f8oAdj) | 3:52 |
 | 59 | [グロリアスデイズ](https://open.spotify.com/track/0wsgQQJ4MVe9jvXwZ88XeC) | [THREE LIGHTS DOWN KINGS](https://open.spotify.com/artist/3IN5Twv2f6MM4yIyhwHIIo) | [グロリアスデイズ](https://open.spotify.com/album/4VjYWDTjfuIX4u5oPugu16) | 3:58 |
 | 60 | [KNOW KNOW KNOW](https://open.spotify.com/track/2BjrK3jm8zI80GcUAM43Wm) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [KNOW KNOW KNOW](https://open.spotify.com/album/0KTqFokIYKVvjp2AjuQjZu) | 3:22 |
-| 61 | [闇夜の虫は光に集う\~妖刀・紅桜\~](https://open.spotify.com/track/6Quvn9F1FSjezrl8z9A8q9) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 新訳紅桜篇」オリジナル・サウンドトラック](https://open.spotify.com/album/1WZcWJtOHVGjGhKCflhKSk) | 2:52 |
+| 61 | [闇夜の虫は光に集う～妖刀・紅桜～](https://open.spotify.com/track/6Quvn9F1FSjezrl8z9A8q9) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 新訳紅桜篇」オリジナル・サウンドトラック](https://open.spotify.com/album/1WZcWJtOHVGjGhKCflhKSk) | 2:52 |
 | 62 | [茨ガキと薔薇ガキ](https://open.spotify.com/track/43NptdH7JkT1D8N48EeCmt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:14 |
 | 63 | [お控えなすって！](https://open.spotify.com/track/0LpBRTBl7Z7PWtBf9vA9Mf) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:03 |
 | 64 | [ゆけ！カイエーン](https://open.spotify.com/track/08MEYNJ878h5sX2UODJyhr) | [singman](https://open.spotify.com/artist/3vKk3DDuHO0gabQsCvk7mL) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 1:37 |

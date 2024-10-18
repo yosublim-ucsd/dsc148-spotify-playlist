@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Fyegoodgurl",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: James Alyn",
   "name": "mood.",
   "tracks": [
     {
@@ -2120,6 +2120,24 @@
       "duration_ms": 160490,
       "name": "Call Me What You Want",
       "url": "https://open.spotify.com/track/1f4q0lAXGTPqCouPcJnzDM"
+    },
+    {
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7CFp2qe0xlpcqqIBg6y0Bd"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158821,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/71JJBvDh1CnqEpupd4DKIV"
     },
     {
       "album": {
@@ -7718,7 +7736,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 163500,
       "name": "In Love With A Stranger (Remake)",
       "url": "https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa"
@@ -8538,7 +8556,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 263000,
       "name": "Leave a Message",
       "url": "https://open.spotify.com/track/3AVoUtsorHTqjR6qURurFR"
@@ -10177,6 +10195,28 @@
     },
     {
       "album": {
+        "name": "Misty Lady",
+        "url": "https://open.spotify.com/album/6yu1cmlpr8AvizsRklhm6X"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "Ahh-G",
+          "url": "https://open.spotify.com/artist/3yfEuVkzesPhMTPKZCH04k"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259006,
+      "name": "Misty Lady",
+      "url": "https://open.spotify.com/track/5xzgh9o1HnqTtVoEPbFP6F"
+    },
+    {
+      "album": {
         "name": "heaven sent",
         "url": "https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6"
       },
@@ -10765,6 +10805,32 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        },
+        {
+          "name": "E.V.P",
+          "url": "https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU"
+        },
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx"
+    },
+    {
+      "album": {
         "name": "No Evil",
         "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
       },
@@ -11261,6 +11327,24 @@
     },
     {
       "album": {
+        "name": "On Your Own",
+        "url": "https://open.spotify.com/album/5aLoS7nVdZqaXCtSVFeMEA"
+      },
+      "artists": [
+        {
+          "name": "Echo Huang",
+          "url": "https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166385,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/7cR4MDCGlxveEjymmRuufe"
+    },
+    {
+      "album": {
         "name": "Private Blizzard",
         "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
       },
@@ -11428,6 +11512,28 @@
       "duration_ms": 206052,
       "name": "OTNW",
       "url": "https://open.spotify.com/track/0GxBWLwTRnpM6HUTu6Kde0"
+    },
+    {
+      "album": {
+        "name": "OTW",
+        "url": "https://open.spotify.com/album/19SgkNmHCz1ePuQry6At8u"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "RICK",
+          "url": "https://open.spotify.com/artist/5czgwKH54SxujkR4aHsyDS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "OTW",
+      "url": "https://open.spotify.com/track/1z06EFZw57FScJTILcSRDR"
     },
     {
       "album": {
@@ -11904,10 +12010,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 181875,
       "name": "piece of mind",
       "url": "https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0"
+    },
+    {
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
       "album": {
@@ -12559,6 +12687,24 @@
     },
     {
       "album": {
+        "name": "RIDE",
+        "url": "https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV"
+      },
+      "artists": [
+        {
+          "name": "OJ Reambillo",
+          "url": "https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "RIDE",
+      "url": "https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu"
+    },
+    {
+      "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM"
       },
@@ -12600,6 +12746,28 @@
       "duration_ms": 204000,
       "name": "RIDIN (with Lil Wayne)",
       "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
+    },
+    {
+      "album": {
+        "name": "RIGHT/WRONG (feat. Jimmy Brown)",
+        "url": "https://open.spotify.com/album/1lizldjBkOUNHdgveJnxmO"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "RIGHT/WRONG - feat. Jimmy Brown",
+      "url": "https://open.spotify.com/track/1uQyHTf0rUAjSp3lPzTJ8M"
     },
     {
       "album": {
@@ -14846,7 +15014,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 211961,
       "name": "Super-dandelion",
       "url": "https://open.spotify.com/track/2DZamyk2e20VPrD8IOU5aY"
@@ -16961,6 +17129,24 @@
     },
     {
       "album": {
+        "name": "Walk Out The Door",
+        "url": "https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228675,
+      "name": "Walk Out The Door",
+      "url": "https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR"
+    },
+    {
+      "album": {
         "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
         "url": "https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV"
       },
@@ -17308,7 +17494,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 218836,
       "name": "WHAT'S THE USE?",
       "url": "https://open.spotify.com/track/40zlYkPmq88ZLEpbk3nxkH"

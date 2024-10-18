@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 351705,
+  "num_followers": 351696,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LqMpyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LqR7SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/3UNoGm9ffxIxgFN8cUoW6b"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5Haev5dXGbz0Snui8ukwD7"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "\u00daltima Noite",
         "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
         "url": "https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2qgt9GiXVhFIXTA3OdHDUG"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Do Jeito Que Voc\u00ea Mete",
         "url": "https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -93,43 +93,7 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 137272,
-      "name": "ESCADA DO PR\u00c9DIO",
-      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -149,7 +113,43 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 137272,
+      "name": "ESCADA DO PR\u00c9DIO",
+      "url": "https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "\u00c9 Ele",
         "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
@@ -165,23 +165,7 @@
       "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "I'm Gonna Miss You",
-      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
@@ -197,7 +181,7 @@
       "url": "https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "EPica 2",
         "url": "https://open.spotify.com/album/4T3LzTlRz61Pak52Bo1qm1"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7IK0jM6FX2JvsX21kTnYok"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Pow Pow na Pepekinha",
         "url": "https://open.spotify.com/album/0gR3fZefISjEgXjLIvzW3v"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/1iNb89RNRk4Lsydg4HT9cB"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Botano (\u00datero Baixo)",
         "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Dia 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3JfBVupnDt9rPcJGzO5Nzs"
@@ -305,27 +305,7 @@
       "url": "https://open.spotify.com/track/3hOEoT2oxqpfFe7sjQrsgA"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "De Volta Pra Gaiola: Amor de Verdade e Amor",
-        "url": "https://open.spotify.com/album/1fLYybGdtcoF1PfcT213xe"
-      },
-      "artists": [
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 107648,
-      "name": "Pagodin",
-      "url": "https://open.spotify.com/track/5cb6RYi3jU1vM3FIYuj0wD"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3TAdD0NlcZTlkoVfpPhQJa"
@@ -349,7 +329,7 @@
       "url": "https://open.spotify.com/track/1QibZsBeNPlYjTyc2zmInb"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / EP1)",
         "url": "https://open.spotify.com/album/4HothMjvojSA740SFUAiRC"
@@ -365,7 +345,27 @@
       "url": "https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "De Volta Pra Gaiola: Amor de Verdade e Amor",
+        "url": "https://open.spotify.com/album/1fLYybGdtcoF1PfcT213xe"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 107648,
+      "name": "Pagodin",
+      "url": "https://open.spotify.com/track/5cb6RYi3jU1vM3FIYuj0wD"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
@@ -381,23 +381,7 @@
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 142521,
-      "name": "Spring breakers",
-      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
@@ -421,7 +405,7 @@
       "url": "https://open.spotify.com/track/7ARsJNRK0SD0asnybQo2oi"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "GGUM",
         "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
@@ -437,7 +421,7 @@
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "365 Dias (Vida Mansa)",
         "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
@@ -473,7 +457,7 @@
       "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Pense Em Mim",
         "url": "https://open.spotify.com/album/1UBo6r14c6N8BXGqHJo5tV"
@@ -493,23 +477,7 @@
       "url": "https://open.spotify.com/track/5MQHvST7iWSb6vznUV9ZCU"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Heavy Is the Crown",
-        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "Heavy Is the Crown",
-      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -525,39 +493,7 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
@@ -577,7 +513,55 @@
       "url": "https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -593,7 +577,7 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Parada Obrigat\u00f3ria, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SkKauPb86QelsQUcSSlpu"
@@ -621,43 +605,7 @@
       "url": "https://open.spotify.com/track/1ksLhXiPeKIK6IgCfxuylu"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Blame It On The Rain (Sped Up)",
-        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Blame It on the Rain",
-      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Automotivo da Turbulencia",
         "url": "https://open.spotify.com/album/4oBA63HKO89DopUAfIMdBH"
@@ -681,23 +629,27 @@
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
-        "name": "Julho 2K24",
-        "url": "https://open.spotify.com/album/4lsBksZlQnopzYltYinVhJ"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
       "artists": [
         {
-          "name": "Edison Ribeiro",
-          "url": "https://open.spotify.com/artist/22YNH1nYzkac84HAX15JgF"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 213635,
-      "name": "Vagabundo Apaixonado",
-      "url": "https://open.spotify.com/track/2vqHa8WyNfGgyjgRdTz0sC"
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -717,7 +669,7 @@
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Reacende a Chama - Ao Vivo",
         "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
@@ -733,23 +685,39 @@
       "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "Blame It On The Rain (Sped Up)",
+        "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
         }
       ],
-      "duration_ms": 214033,
-      "name": "TUDO",
-      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
+      "duration_ms": 248533,
+      "name": "Blame It on the Rain",
+      "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "Julho 2K24",
+        "url": "https://open.spotify.com/album/4lsBksZlQnopzYltYinVhJ"
+      },
+      "artists": [
+        {
+          "name": "Edison Ribeiro",
+          "url": "https://open.spotify.com/artist/22YNH1nYzkac84HAX15JgF"
+        }
+      ],
+      "duration_ms": 213635,
+      "name": "Vagabundo Apaixonado",
+      "url": "https://open.spotify.com/track/2vqHa8WyNfGgyjgRdTz0sC"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "FUNK DO BOUNCE (Slowed)",
         "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
@@ -765,23 +733,43 @@
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
-        "name": "Era uma vez",
-        "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 145996,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
+      "duration_ms": 214033,
+      "name": "TUDO",
+      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
+        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
+      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
@@ -805,7 +793,39 @@
       "url": "https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "Nego Raul",
+        "url": "https://open.spotify.com/album/7qkhmQV5lYNIw7N5t7VDdl"
+      },
+      "artists": [
+        {
+          "name": "Klaus Millions",
+          "url": "https://open.spotify.com/artist/5j333AGNVDmUb6YCcGapr7"
+        }
+      ],
+      "duration_ms": 641590,
+      "name": "Nego Raul",
+      "url": "https://open.spotify.com/track/6tg4okIeXW0foqBz6Piymv"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / EP1)",
+        "url": "https://open.spotify.com/album/4HothMjvojSA740SFUAiRC"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 192034,
+      "name": "Seja Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ghRkxJXkQCFO0l8Kn8i8U"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "A Danada Me Ligando",
         "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
@@ -837,27 +857,23 @@
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
-        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
-        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
+        "name": "Era uma vez",
+        "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
       },
       "artists": [
         {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 144923,
-      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
-      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
+      "duration_ms": 145996,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
@@ -873,23 +889,7 @@
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Manifesto Musical 2 (Ao Vivo / EP1)",
-        "url": "https://open.spotify.com/album/4HothMjvojSA740SFUAiRC"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 192034,
-      "name": "Seja Ex - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ghRkxJXkQCFO0l8Kn8i8U"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "VAPO NO SETOR",
         "url": "https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse"
@@ -909,23 +909,7 @@
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
-      "album": {
-        "name": "Nego Raul",
-        "url": "https://open.spotify.com/album/7qkhmQV5lYNIw7N5t7VDdl"
-      },
-      "artists": [
-        {
-          "name": "Klaus Millions",
-          "url": "https://open.spotify.com/artist/5j333AGNVDmUb6YCcGapr7"
-        }
-      ],
-      "duration_ms": 641590,
-      "name": "Nego Raul",
-      "url": "https://open.spotify.com/track/6tg4okIeXW0foqBz6Piymv"
-    },
-    {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -953,28 +937,52 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-10-16 14:40:59",
+      "added_at": "2024-10-17 15:27:57",
       "album": {
-        "name": "Piseiro Hawaiano",
-        "url": "https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS"
+        "name": "Eu sou Cantor N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89"
       },
       "artists": [
         {
-          "name": "DJ Marc\u00e3o 019",
-          "url": "https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v"
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
         },
         {
-          "name": "Dj D\u00e9dda",
-          "url": "https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX"
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
         },
         {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Piseiro Hawaiano",
-      "url": "https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD"
+      "duration_ms": 266666,
+      "name": "Eu sou Cantor N\u00e3o Sou Bandido",
+      "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
+    },
+    {
+      "added_at": "2024-10-17 15:27:57",
+      "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

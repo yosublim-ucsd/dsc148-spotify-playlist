@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Maheva",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Joseph Kamel & Mentissa",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Adieux",
+        "url": "https://open.spotify.com/album/22pHUTTizZSQBYu9sAmV4G"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/61f2KBpaXd1xBcPnyLswaV"
+    },
+    {
+      "album": {
         "name": "Am\u00e8re",
         "url": "https://open.spotify.com/album/7D1iEGT0tmSrwX2e0tlqDa"
       },
@@ -77,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Aucune chance",
+        "url": "https://open.spotify.com/album/7xoZYONo4efsvoZm4AVuiD"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        },
+        {
+          "name": "Delso",
+          "url": "https://open.spotify.com/artist/6az8KWBdkgVyQ2oFG2dtaL"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174230,
+      "name": "Aucune chance",
+      "url": "https://open.spotify.com/track/3BiO1EhyXVegBDiqO88VkH"
+    },
+    {
+      "album": {
         "name": "C'EST VRAI OU PAS",
         "url": "https://open.spotify.com/album/7fTIIvEY1iZRor9IJumqpB"
       },
@@ -106,7 +146,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 149546,
       "name": "C'est \u00e7a la vie",
       "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
@@ -1201,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Sign\u00e9, Linh",
+        "url": "https://open.spotify.com/album/3OXwUO2YTrDnmAyVmP22eo"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Ne me dis plus jamais",
+      "url": "https://open.spotify.com/track/6GPZUss1JVFJPOnfzJLDc8"
+    },
+    {
+      "album": {
         "name": "Normal (Version Lino)",
         "url": "https://open.spotify.com/album/23h206XG2Hm9E24wOdNOn5"
       },
@@ -1266,7 +1324,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 146253,
       "name": "On est plein",
       "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
@@ -1466,7 +1524,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 174875,
       "name": "Plus L'Time (Stereo Love)",
       "url": "https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3"
@@ -1502,7 +1560,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179732,
       "name": "Que tu restes",
       "url": "https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y"
@@ -1830,7 +1888,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179533,
       "name": "Tout ira bien",
       "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
@@ -1877,6 +1935,46 @@
     },
     {
       "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+    },
+    {
+      "album": {
+        "name": "Miroirs (Edition deluxe)",
+        "url": "https://open.spotify.com/album/7mLcWzWLGy4XcTHB4jImB2"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "Tu vis (feat. Mentissa)",
+      "url": "https://open.spotify.com/track/4cSC9LFdVKFqD6x7dfxXDG"
+    },
+    {
+      "album": {
         "name": "Umani Terra",
         "url": "https://open.spotify.com/album/4bEcAf4AK0a2NV40KVX01y"
       },
@@ -1910,6 +2008,24 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "Va-t'en ou reste",
+        "url": "https://open.spotify.com/album/3R7J362s95r0IqhNNSbD3r"
+      },
+      "artists": [
+        {
+          "name": "Camille Lellouche",
+          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172205,
+      "name": "Va-t'en ou reste",
+      "url": "https://open.spotify.com/track/371OlmdAKRrq27OQkfoN6w"
     },
     {
       "album": {
@@ -1964,7 +2080,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 141576,
       "name": "Z\u00c9RO PAR MOIS",
       "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"

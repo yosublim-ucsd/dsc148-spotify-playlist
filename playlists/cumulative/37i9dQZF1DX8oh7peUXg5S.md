@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8oh7peUXg5S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8oh7peUXg5S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8oh7peUXg5S)
 
-### [Cantautoras](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
+### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Sílvia Pérez Cruz.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-306 songs - 19 hr 25 min
+308 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 | 2022-06-09 |  |
 | [Cantemos](https://open.spotify.com/track/5p95jCRYdFtazDos009mW5) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS), [Mäbu](https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591), [Efecto Mariposa](https://open.spotify.com/artist/2fFrIDTV1Tk8MwAv4OJiY5), [BAMBIKINA](https://open.spotify.com/artist/6yQRoGwzyeHHHnUZGf6iZW), [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2), [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Cantemos](https://open.spotify.com/album/5F7EGX8TbjsuqnChaYs1l5) | 2:46 | 2022-06-30 | 2022-08-12 |
 | [Cançó de Nadal](https://open.spotify.com/track/1XheQm7y912AOlnGEdEZBO) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Cançó de Nadal](https://open.spotify.com/album/0UakZEMLJxs9SZ9HZSE8IJ) | 2:49 | 2023-10-26 | 2024-01-26 |
+| [Capitana](https://open.spotify.com/track/76TSlE0RFkF6hiO1jVwFUz) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Capitana](https://open.spotify.com/album/23yZOe2sG4VGvobqauJha7) | 4:33 | 2024-10-17 |  |
 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 | 2022-06-09 |  |
 | [Cinturón Blanco](https://open.spotify.com/track/4Am2nJAc0WjbQYlISLx33I) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Cinturón Blanco](https://open.spotify.com/album/4UH2EGtddKgfDOQBy9nsyj) | 3:40 | 2022-06-30 | 2022-08-04 |
 | [Comando Antivandálico, Pero Violento](https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Comando Antivandálico, Pero Violento](https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x) | 3:34 | 2023-06-29 | 2023-08-20 |
@@ -60,7 +61,7 @@
 | [Contamíname \- En Directo](https://open.spotify.com/track/41Ewbqzdnv82EV494sQRua) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:22 | 2022-06-09 | 2022-07-29 |
 | [Contigo](https://open.spotify.com/track/2GzabawNQ8PUGHWaAnJfLx) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/1wMfxsd5wrabprLzgWcDdK) | 4:54 | 2022-06-09 | 2022-07-29 |
 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 | 2022-06-30 | 2024-04-09 |
-| [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 | 2022-06-09 |  |
+| [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 | 2022-06-09 | 2024-10-18 |
 | [Contigo](https://open.spotify.com/track/4pesB5Dew0MP6mwvyfj4sX) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 3:20 | 2022-06-09 | 2022-07-27 |
 | [Contigo](https://open.spotify.com/track/7uoynvwsKMefF60kNjByC6) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 3:20 | 2022-06-30 | 2022-09-23 |
 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 | 2022-06-09 |  |
@@ -81,7 +82,7 @@
 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 | 2024-02-15 | 2024-03-16 |
 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 | 2022-06-09 |  |
 | [Desengaño](https://open.spotify.com/track/4lPrY70fkKQy1aQRZEKsSE) | [Luis Pastor](https://open.spotify.com/artist/0GF14xtdEUhEMxLH3TFDr0) | [Extremadura Fado](https://open.spotify.com/album/3IkTQ3ZF79DuMU0q1eMWTM) | 3:39 | 2022-06-09 | 2022-07-01 |
-| [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 |  |
+| [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 | 2024-10-18 |
 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 | 2022-06-30 | 2022-07-12 |
 | [Día De Luz \- 80 Aniversario](https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Día De Luz \(80 Aniversario\)](https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK) | 4:11 | 2023-03-31 | 2023-05-23 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 | 2024-09-17 |
@@ -294,6 +295,7 @@
 | [Un Día De Estos](https://open.spotify.com/track/6ZmJgYJp4agUqbcPVPCTv9) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Un Día De Estos](https://open.spotify.com/album/2OIxW8I2nTppWY04ty45A3) | 3:21 | 2023-09-14 | 2023-10-27 |
 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 | 2022-06-09 |  |
 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 | 2022-06-09 |  |
+| [Un último vals](https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Un último vals](https://open.spotify.com/album/5EIyVu9MNNnpn7nuaYHMRp) | 4:13 | 2024-10-17 |  |
 | [Una carta con tu nombre](https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Una carta con tu nombre](https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa) | 3:55 | 2024-05-30 | 2024-06-15 |
 | [Una cueva en el invierno](https://open.spotify.com/track/4ttTVZY3XxVFDdKtHsQXCS) | [Marilia](https://open.spotify.com/artist/0vpLum5X3NNpmdvLPMm5El) | [Una cueva en el invierno](https://open.spotify.com/album/1ZJuPuaPhSuHYLc9dgQAaR) | 3:06 | 2022-11-24 | 2022-12-24 |
 | [Una de Dos \- Remasterizado](https://open.spotify.com/track/4QmQLKTxrxjUd2GJfwFdmT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 4:49 | 2022-06-09 | 2022-07-29 |

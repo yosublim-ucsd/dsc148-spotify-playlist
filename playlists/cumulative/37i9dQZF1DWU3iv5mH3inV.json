@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 109337,
       "name": "1234",
       "url": "https://open.spotify.com/track/7ezIbzvieKXW0pFZotcffA"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 196947,
       "name": "AFIXIAO",
       "url": "https://open.spotify.com/track/46KcMb9ryGQdpkhBcOcCEH"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 136361,
       "name": "Botellas",
       "url": "https://open.spotify.com/track/4zj4X1m7RFvgFGvbBp16Or"
@@ -1858,6 +1858,28 @@
       "duration_ms": 153725,
       "name": "Chiviriki",
       "url": "https://open.spotify.com/track/3oFjvBSe1eGB08WmbWXY1F"
+    },
+    {
+      "album": {
+        "name": "Chocala",
+        "url": "https://open.spotify.com/album/6M91anHTNh8rkKYL4OlAHS"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108723,
+      "name": "Chocala",
+      "url": "https://open.spotify.com/track/4alyCJ0pWmUOS5zJjUGncE"
     },
     {
       "album": {
@@ -3478,7 +3500,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 185365,
       "name": "Dominguito",
       "url": "https://open.spotify.com/track/5QcwrMLWShJEleFfffobvV"
@@ -4872,7 +4894,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 152874,
       "name": "Entiende Entiende",
       "url": "https://open.spotify.com/track/6nzIWkTOhgkfuf3OEaooM3"
@@ -5874,7 +5896,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 124673,
       "name": "Japonesa",
       "url": "https://open.spotify.com/track/2vb7Bg1Buf8KuaNwbFwlCL"
@@ -5996,7 +6018,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 120902,
       "name": "Karla",
       "url": "https://open.spotify.com/track/14wgskctvTuWJijtnTkJOZ"
@@ -6144,7 +6166,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 107937,
       "name": "Kito",
       "url": "https://open.spotify.com/track/1wDlGkzTHtpRhgb6VE2eDh"
@@ -7709,6 +7731,24 @@
     },
     {
       "album": {
+        "name": "MA MAMALO",
+        "url": "https://open.spotify.com/album/6N7ueV1rPJT1oTjYfu9vQj"
+      },
+      "artists": [
+        {
+          "name": "dreyx",
+          "url": "https://open.spotify.com/artist/6KYyEAqF4NYp7i4YrgjHh4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126316,
+      "name": "MA MAMALO",
+      "url": "https://open.spotify.com/track/14Ymcm5i0c2bY7H1ySsmfH"
+    },
+    {
+      "album": {
         "name": "Ma Me Mi Mo Mu",
         "url": "https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3"
       },
@@ -8267,6 +8307,32 @@
     },
     {
       "album": {
+        "name": "Mas Rapida",
+        "url": "https://open.spotify.com/album/5dAHcap0gZiB67CgjZC4lo"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108129,
+      "name": "Mas Rapida",
+      "url": "https://open.spotify.com/track/5iO3OnVroeKmKFIUByvyIg"
+    },
+    {
+      "album": {
         "name": "Matadora",
         "url": "https://open.spotify.com/album/7h8QOqVOVS9AZXeXwSqAzk"
       },
@@ -8420,6 +8486,24 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
+    },
+    {
+      "album": {
+        "name": "ME PEGU\u00c9 DE NUEVO",
+        "url": "https://open.spotify.com/album/3xdIWQHkaBaPTVl8O4xBHX"
+      },
+      "artists": [
+        {
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80476,
+      "name": "ME PEGUE DE NUEVO",
+      "url": "https://open.spotify.com/track/4ZqCYtXhWYgWJ5jqjTCDMV"
     },
     {
       "album": {
@@ -9987,6 +10071,24 @@
     },
     {
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/5aIzvD5lifAtyfsn2GqJAP"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114676,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea"
+    },
+    {
+      "album": {
         "name": "Ou Ay!",
         "url": "https://open.spotify.com/album/1ekdrieJpKhRaNRxAfKyiA"
       },
@@ -10838,6 +10940,32 @@
       "duration_ms": 134054,
       "name": "Perro que Ladra",
       "url": "https://open.spotify.com/track/3Iqzp0H9DWwaqfHMVQ6oHe"
+    },
+    {
+      "album": {
+        "name": "Perrona",
+        "url": "https://open.spotify.com/album/4dE12Atx3NhHZw4AY6y7ev"
+      },
+      "artists": [
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Perrona",
+      "url": "https://open.spotify.com/track/497KoMouB3DpY2KDwG6EYs"
     },
     {
       "album": {
@@ -12633,6 +12761,28 @@
     },
     {
       "album": {
+        "name": "RIKITAN",
+        "url": "https://open.spotify.com/album/0zoORWF6pBULBolPucv8hQ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108422,
+      "name": "RIKITAN",
+      "url": "https://open.spotify.com/track/44IP4sYV77eP2p1r5cNgwT"
+    },
+    {
+      "album": {
         "name": "Rojo Ferrari",
         "url": "https://open.spotify.com/album/6f7a8Ez4pQwqrYBRW7SL0N"
       },
@@ -12688,6 +12838,24 @@
       "duration_ms": 122480,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/701EI3PDB8Yjb7kN7hCPY9"
+    },
+    {
+      "album": {
+        "name": "RULAY",
+        "url": "https://open.spotify.com/album/0U1HCSdPX4IQTGh8kWRjBH"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "RULAY",
+      "url": "https://open.spotify.com/track/7AynIkGpqhpEMPywgDpK0b"
     },
     {
       "album": {
@@ -13546,7 +13714,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 91115,
       "name": "SOTO SHUFFLE",
       "url": "https://open.spotify.com/track/4sE9xbthMgxleOyq86jeZJ"
@@ -15346,7 +15514,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 144004,
       "name": "To No Morimo",
       "url": "https://open.spotify.com/track/0WjYqtGGmGoPEVGk5kFqu8"
@@ -16220,7 +16388,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 126923,
       "name": "T\u00fa Sabe",
       "url": "https://open.spotify.com/track/4dhRYfJsE7lbs3d8mBRv17"
@@ -16246,7 +16414,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 111496,
       "name": "T\u00fa Ver\u00e1",
       "url": "https://open.spotify.com/track/3x7RoFpq8ro2i0sy98QeUg"
@@ -16326,10 +16494,36 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 168608,
       "name": "Un Muah",
       "url": "https://open.spotify.com/track/4n5tjQToFhV3CfKNhHs4kD"
+    },
+    {
+      "album": {
+        "name": "Un Sorbo",
+        "url": "https://open.spotify.com/album/6JIJQifVkl989OjiiJoD0a"
+      },
+      "artists": [
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Jayco 440",
+          "url": "https://open.spotify.com/artist/0WiDFWAwoFKDXA5BbNOVRT"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137160,
+      "name": "Un Sorbo",
+      "url": "https://open.spotify.com/track/0bKYJKtHDo770Fz69vKCWG"
     },
     {
       "album": {
@@ -16578,7 +16772,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 145862,
       "name": "Vamo A Romper To Los Partys",
       "url": "https://open.spotify.com/track/2JfVYCgvuaw34VMkGfiuxe"

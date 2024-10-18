@@ -2947,6 +2947,28 @@
     },
     {
       "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69291,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP"
+    },
+    {
+      "album": {
         "name": "Staden",
         "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
       },

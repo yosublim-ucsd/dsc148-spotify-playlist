@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Alejo con Kutxi Romero.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -3003,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "El mar y la nada",
+        "url": "https://open.spotify.com/album/2In4eYiCDojX40k52suvwp"
+      },
+      "artists": [
+        {
+          "name": "Chencho Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7dFJ6w6OTNwVKot15V3RMx"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205957,
+      "name": "El mar y la nada",
+      "url": "https://open.spotify.com/track/7JthbNMW9fMTkzn8v83Ldd"
+    },
+    {
+      "album": {
         "name": "El regreso del Perro Andaluz",
         "url": "https://open.spotify.com/album/5qJiA0yTkkj2BQ4CAsGZTI"
       },
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
@@ -4404,7 +4422,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 197069,
       "name": "La Hornacina",
       "url": "https://open.spotify.com/track/1EBPP4vUNTWH27DVvV0zEh"
@@ -4774,6 +4792,24 @@
       "duration_ms": 243320,
       "name": "La vereda de la puerta de atr\u00e1s",
       "url": "https://open.spotify.com/track/4kJP8Z888wREJ8bRMWNMuk"
+    },
+    {
+      "album": {
+        "name": "Ladridos del perro m\u00e1gico",
+        "url": "https://open.spotify.com/album/6EajD8cjnGIihwYgcwjfeW"
+      },
+      "artists": [
+        {
+          "name": "Jose Ignacio Lapido",
+          "url": "https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343000,
+      "name": "Ladridos del perro m\u00e1gico",
+      "url": "https://open.spotify.com/track/2NGiLDSvs8OrETbUHzqNct"
     },
     {
       "album": {
@@ -6754,7 +6790,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 173910,
       "name": "Polvo en el viento",
       "url": "https://open.spotify.com/track/3eYLwbFkc842p6aoIOZfoa"
@@ -6870,6 +6906,24 @@
       "duration_ms": 206000,
       "name": "Por las noches",
       "url": "https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd"
+    },
+    {
+      "album": {
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     },
     {
       "album": {
@@ -7252,7 +7306,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
@@ -8533,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "Un \u00faltimo vals",
+        "url": "https://open.spotify.com/album/5EIyVu9MNNnpn7nuaYHMRp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253769,
+      "name": "Un \u00faltimo vals",
+      "url": "https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp"
+    },
+    {
+      "album": {
         "name": "Una de Dylan",
         "url": "https://open.spotify.com/album/5nLvLWl6RBIEyUI6kHqr4C"
       },
@@ -8708,6 +8780,24 @@
       "duration_ms": 136494,
       "name": "Vende tu coraz\u00f3n",
       "url": "https://open.spotify.com/track/6UsL31NTuPGvwS0lXeyyEI"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00e1s",
+        "url": "https://open.spotify.com/album/0FYL1Q2BchIHRogmsSGcol"
+      },
+      "artists": [
+        {
+          "name": "Gato Ventura",
+          "url": "https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188450,
+      "name": "Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/6IaZILw8muryUrRQOVtpAs"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Cubatón](https://open.spotify.com/playlist/37i9dQZF1DWWM5o62BfFWh)
 
-> ¡Música urbana representando a Cuba! Cover: Gente de Zona
+> ¡Música urbana representando a Cuba! Cover: El Taiger
 
 151 songs - 8 hr 51 min
 

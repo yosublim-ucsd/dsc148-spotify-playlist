@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, GloRilla, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,100 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,249 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Don't Run](https://open.spotify.com/track/7aF8RVVBrvcKd0jUCVRA9i) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Don't Run](https://open.spotify.com/album/66fEf9nO1wF4ZorbtFwIaw) | 2:11 |
 | 36 | [Street Nigga](https://open.spotify.com/track/0My2LaoMVGzDPSHkllKgRx) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Street Nigga](https://open.spotify.com/album/5jjZUmxOU29dHJGEaRDwrY) | 1:55 |
 | 37 | [Down Bad](https://open.spotify.com/track/7jrdf335V59CeDBnF247HN) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Down Bad](https://open.spotify.com/album/6cvuCLMl1SdA5wJGAO9tEX) | 2:04 |
-| 38 | [BTD](https://open.spotify.com/track/2cQQMnWN62QPeSNHf6djXb) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [BTD](https://open.spotify.com/album/33Vks6vtJic7YtGpT17Lbz) | 2:05 |
-| 39 | [Kyros Interlude](https://open.spotify.com/track/58MKxd8fo6epYgmRzqVnNZ) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Kyros Interlude](https://open.spotify.com/album/3rqnJp5R9SORq2LE6ACoiF) | 3:57 |
-| 40 | [FLY ENOUGH TO BE VIRGIL](https://open.spotify.com/track/2pmvjtXQUwBWvHTFDGN6uL) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [FLY ENOUGH TO BE VIRGIL](https://open.spotify.com/album/71pwHwI3DfIRMFg69jMtxw) | 3:48 |
-| 41 | [CRASH](https://open.spotify.com/track/6hM7knC7CIAuxG7bJcgZmv) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [CRASH](https://open.spotify.com/album/34LItJrg9t6iM6czPVw3qX) | 2:33 |
-| 42 | [i'm kool](https://open.spotify.com/track/2IRZDifDq21gQfmf8tuKy8) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD) | [i'm kool](https://open.spotify.com/album/67KXT0u8VewjmFBUQh3vYo) | 2:26 |
-| 43 | [ZONE](https://open.spotify.com/track/5UfFkT3i5V20VrvjQkLJHx) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MERCZONE](https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA) | 2:05 |
-| 44 | [Have Nots](https://open.spotify.com/track/2W9o5R0R00FSWPRCIxQhZL) | [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N), [Issa Gold](https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Have Nots](https://open.spotify.com/album/5uHuTY5aOOY2JgxN6r22Go) | 3:02 |
-| 45 | [BEAT IT UP!](https://open.spotify.com/track/53Ukh8zhylaXTYACGmbUwF) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [KAST GOT WINGS](https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N) | 1:41 |
-| 46 | [Need4Speed](https://open.spotify.com/track/1G1iwWjnbctKpb0LhcX93Q) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Need4Speed](https://open.spotify.com/album/3cC26wAhhU2RBp1NENgcN9) | 2:33 |
-| 47 | [Stood My Ground](https://open.spotify.com/track/0Lh3lK3OV1Yb1xeJRvgyZz) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Stood My Ground](https://open.spotify.com/album/657LgV9ACUYMaYT2Zoso9u) | 2:12 |
-| 48 | [Hate Me \(feat\. Coco & Clair Clair\)](https://open.spotify.com/track/3lOBtNsuSrbFvY1l3tMuDn) | [Popstar Benny](https://open.spotify.com/artist/5PZD35H2aDtmF0GpBN4dTu), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Oasis](https://open.spotify.com/album/5aC8X8Q7ZZ8zbQBYp7A70O) | 1:49 |
+| 38 | [Die 4 Anything](https://open.spotify.com/track/0Drcr0fLRnNSirV45hXSVL) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Die 4 Anything](https://open.spotify.com/album/1e8SHjjt5fxhFXLhjiVie3) | 1:49 |
+| 39 | [BTD](https://open.spotify.com/track/2cQQMnWN62QPeSNHf6djXb) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [BTD](https://open.spotify.com/album/33Vks6vtJic7YtGpT17Lbz) | 2:05 |
+| 40 | [Kyros Interlude](https://open.spotify.com/track/58MKxd8fo6epYgmRzqVnNZ) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Kyros Interlude](https://open.spotify.com/album/3rqnJp5R9SORq2LE6ACoiF) | 3:57 |
+| 41 | [FLY ENOUGH TO BE VIRGIL](https://open.spotify.com/track/2pmvjtXQUwBWvHTFDGN6uL) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [FLY ENOUGH TO BE VIRGIL](https://open.spotify.com/album/71pwHwI3DfIRMFg69jMtxw) | 3:48 |
+| 42 | [CRASH](https://open.spotify.com/track/6hM7knC7CIAuxG7bJcgZmv) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [CRASH](https://open.spotify.com/album/34LItJrg9t6iM6czPVw3qX) | 2:33 |
+| 43 | [i'm kool](https://open.spotify.com/track/2IRZDifDq21gQfmf8tuKy8) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD) | [i'm kool](https://open.spotify.com/album/67KXT0u8VewjmFBUQh3vYo) | 2:26 |
+| 44 | [ZONE](https://open.spotify.com/track/5UfFkT3i5V20VrvjQkLJHx) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MERCZONE](https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA) | 2:05 |
+| 45 | [Have Nots](https://open.spotify.com/track/2W9o5R0R00FSWPRCIxQhZL) | [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N), [Issa Gold](https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Have Nots](https://open.spotify.com/album/5uHuTY5aOOY2JgxN6r22Go) | 3:02 |
+| 46 | [BEAT IT UP!](https://open.spotify.com/track/53Ukh8zhylaXTYACGmbUwF) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [KAST GOT WINGS](https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N) | 1:41 |
+| 47 | [Need4Speed](https://open.spotify.com/track/1G1iwWjnbctKpb0LhcX93Q) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Need4Speed](https://open.spotify.com/album/3cC26wAhhU2RBp1NENgcN9) | 2:33 |
+| 48 | [Stood My Ground](https://open.spotify.com/track/0Lh3lK3OV1Yb1xeJRvgyZz) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Stood My Ground](https://open.spotify.com/album/657LgV9ACUYMaYT2Zoso9u) | 2:12 |
+| 49 | [Hate Me \(feat\. Coco & Clair Clair\)](https://open.spotify.com/track/3lOBtNsuSrbFvY1l3tMuDn) | [Popstar Benny](https://open.spotify.com/artist/5PZD35H2aDtmF0GpBN4dTu), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Oasis](https://open.spotify.com/album/5aC8X8Q7ZZ8zbQBYp7A70O) | 1:49 |
 
 Snapshot ID: `ZwiiwAAAAAAyT9DeL8ED528Q7RwH2NRI`

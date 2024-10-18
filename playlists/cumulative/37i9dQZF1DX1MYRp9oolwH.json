@@ -1365,6 +1365,32 @@
     },
     {
       "album": {
+        "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
+        "url": "https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Nithyasree",
+          "url": "https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS"
+        },
+        {
+          "name": "Krishna Chaitanya",
+          "url": "https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
+      "url": "https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW"
+    },
+    {
+      "album": {
         "name": "Samajavaragamana",
         "url": "https://open.spotify.com/album/0vYWeWvhip93WkwleOx566"
       },

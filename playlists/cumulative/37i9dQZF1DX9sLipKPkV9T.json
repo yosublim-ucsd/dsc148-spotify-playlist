@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10,000 Faces",
+        "url": "https://open.spotify.com/album/6EdrwPIWH0WV1CNDRCz4ly"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176228,
+      "name": "10,000 Faces",
+      "url": "https://open.spotify.com/track/0CuWhNNup3O1iAmXvPNx9S"
+    },
+    {
+      "album": {
         "name": "All Eyes On Us",
         "url": "https://open.spotify.com/album/3JHkjFz8STwsBJ4oN4yBq8"
       },
@@ -323,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/0BSoCHrlcG0P6n9tRHOFdz"
+      },
+      "artists": [
+        {
+          "name": "Ziv Moran",
+          "url": "https://open.spotify.com/artist/2rbMHBakqM1TudxGhkyv9q"
+        },
+        {
+          "name": "Alma Zohar",
+          "url": "https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200958,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/7hOQIADSK0zU0FEuZJUoi7"
+    },
+    {
+      "album": {
         "name": "Pass U By",
         "url": "https://open.spotify.com/album/1GNrcBRDyHm8ryGreISHG8"
       },
@@ -472,6 +512,24 @@
       "duration_ms": 131964,
       "name": "\u05d0\u05d5\u05e4\u05e8\u05ea \u05e1\u05d1\u05d5\u05df",
       "url": "https://open.spotify.com/track/5cKv2ibQr5YHwMNImOSxqm"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/5STvo8gcAPRfnyl0UBICgG"
+      },
+      "artists": [
+        {
+          "name": "Ran Danker",
+          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "\u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/1HNItVZCGypC82tE0M82NP"
     },
     {
       "album": {
@@ -1402,7 +1460,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 144137,
       "name": "\u05d5\u05d9\u05e0\u05d9 \u05d5\u05d9\u05d3\u05d9 \u05d5\u05d9\u05e6'\u05d9",
       "url": "https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx"
@@ -1518,7 +1576,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 164000,
       "name": "\u05d7\u05e5 \u05d1\u05dc\u05d1",
       "url": "https://open.spotify.com/track/2YCkZcx69SlG17eCcLDq4O"

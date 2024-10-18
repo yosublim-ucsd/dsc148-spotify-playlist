@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "BERETTA",
+        "url": "https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2"
+      },
+      "artists": [
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        },
+        {
+          "name": "Pig the Gemini",
+          "url": "https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "BERETTA",
+      "url": "https://open.spotify.com/track/5oFigb8ql8JTtowM87T979"
+    },
+    {
+      "album": {
         "name": "Bird Sanctuary",
         "url": "https://open.spotify.com/album/0eFo49QMBP8QcNuLv1XwPN"
       },

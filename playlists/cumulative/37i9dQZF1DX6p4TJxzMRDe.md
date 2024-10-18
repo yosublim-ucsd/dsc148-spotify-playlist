@@ -2,7 +2,7 @@
 
 ### [This Is One Direction](https://open.spotify.com/playlist/37i9dQZF1DX6p4TJxzMRDe)
 
-> Dance all night to the best songs ever!
+> All their biggest songs in one playlist.
 
 60 songs - 3 hr 26 min
 

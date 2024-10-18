@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 204831,
+  "num_followers": 204864,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 246506,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Versi\u00f3n Original",
         "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 297240,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/78Bem5yP49K6uybhAMAFdy"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
+      "duration_ms": 288493,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -667,6 +667,22 @@
       "duration_ms": 308040,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -759,22 +775,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 266949,
-      "name": "El Santo Cach\u00f3n",
-      "url": "https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+      "duration_ms": 307720,
+      "name": "Las Razones Del Amor",
+      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos: Rafael Orozco",
-        "url": "https://open.spotify.com/album/5pGuwOF6KPOskJb9x2sTTV"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Dime Pajarito",
-      "url": "https://open.spotify.com/track/1b6JXzkLGjYtQY9JKi46VC"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -871,6 +855,38 @@
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 266949,
+      "name": "El Santo Cach\u00f3n",
+      "url": "https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos: Rafael Orozco",
+        "url": "https://open.spotify.com/album/5pGuwOF6KPOskJb9x2sTTV"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Dime Pajarito",
+      "url": "https://open.spotify.com/track/1b6JXzkLGjYtQY9JKi46VC"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -903,22 +919,6 @@
       "duration_ms": 300666,
       "name": "Directo al coraz\u00f3n",
       "url": "https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 307720,
-      "name": "Las Razones Del Amor",
-      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -995,38 +995,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Sombra Perdida",
-      "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Adi\u00f3s A La Diosa",
         "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
       },
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Historia del Vallenato en el Siglo XX, Vol. 3",
         "url": "https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 241297,
       "name": "Ceniza Fr\u00eda",
       "url": "https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Sombra Perdida",
+      "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

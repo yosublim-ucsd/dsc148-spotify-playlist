@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,388 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,395 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 9 | [Love Hurts](https://open.spotify.com/track/3iyxOE7ZrxMCVMNzFkWtZY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Love Hurts](https://open.spotify.com/album/5Tmdgf9queNWN4lqQnvqr7) | 3:24 |
 | 10 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
 | 11 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
-| 12 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 |
+| 12 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 |
 | 13 | [Vibe](https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Vibe](https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn) | 2:20 |
 | 14 | [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 |
 | 15 | [Sarpanchi](https://open.spotify.com/track/30CMziHsZI5HmEJaJNkAq3) | [Guri Sandhu](https://open.spotify.com/artist/2iAqRnqDryFoVQyWzmpCSL) | [Sarpanchi](https://open.spotify.com/album/4g7EWxNOuojE9b0iymAfEx) | 2:19 |

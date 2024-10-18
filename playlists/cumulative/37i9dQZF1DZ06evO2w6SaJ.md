@@ -2,7 +2,7 @@
 
 ### [This Is Crazy Town](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2w6SaJ)
 
-> This is Crazy Town\. The essential tracks, all in one playlist.
+> This Is Crazy Town\. Los temas esenciales, todos en una lista.
 
 40 songs - 2 hr 20 min
 

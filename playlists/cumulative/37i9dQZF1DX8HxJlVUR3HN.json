@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : SEX SHOP MUSHROOMS",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Bryan's Magic Tears",
   "name": "Volume France",
   "tracks": [
     {
@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Welcome To My Funeral",
+        "url": "https://open.spotify.com/album/215thklqXyGatQqQjt8RoH"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143994,
+      "name": "Cut Me Down",
+      "url": "https://open.spotify.com/track/6rhLBMMmq3CysCX1yz2utB"
+    },
+    {
+      "album": {
         "name": "Dad\u2019Algorhythm",
         "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 191200,
       "name": "Forts",
       "url": "https://open.spotify.com/track/5MR1xIIZdWLltx9dEm9rEJ"
@@ -1691,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Backyard",
+        "url": "https://open.spotify.com/album/1MqbbfL6asJCkcHZHUF71Q"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273285,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/3PoIPfMHUqAzXm33jdWXXn"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc"
       },
@@ -1904,6 +1940,24 @@
       "duration_ms": 668573,
       "name": "Ilion",
       "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
+    },
+    {
+      "album": {
+        "name": "In Decline",
+        "url": "https://open.spotify.com/album/3zb4ZBJwpCazWkUwGZFkHJ"
+      },
+      "artists": [
+        {
+          "name": "Clavicule",
+          "url": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "In Decline",
+      "url": "https://open.spotify.com/track/2q9Hu0rH1V9lpO2ul5I792"
     },
     {
       "album": {
@@ -3860,6 +3914,24 @@
       "duration_ms": 187093,
       "name": "Splendore Evolution",
       "url": "https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD"
+    },
+    {
+      "album": {
+        "name": "Stalker",
+        "url": "https://open.spotify.com/album/3e1O57LkVDlrw6jnynFy48"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/3DqRN9Vy5GqDKOWjXNSbLU"
     },
     {
       "album": {

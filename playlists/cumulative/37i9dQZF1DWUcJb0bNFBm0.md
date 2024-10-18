@@ -2,16 +2,16 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: envy\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: Luby Sparks\)
 
-132 songs - 9 hr 15 min
+134 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always](https://open.spotify.com/track/7frdnV62ZVTt6HOqtHadnk) | [Ozzga](https://open.spotify.com/artist/4LoxjSTESClUkXDI7mP6t4) | [When You're Away](https://open.spotify.com/album/4BvY1NnxqLpigHsghwhVuU) | 4:34 | 2024-06-27 |  |
 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 | 2024-06-27 |  |
 | [Beauty Little Eyes](https://open.spotify.com/track/08eCVhr2ka4SPw79tXPC4h) | [vievv](https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn) | [Beauty Little Eyes](https://open.spotify.com/album/5up5XKBnZLcCQoGoKLUys0) | 3:56 | 2024-06-27 | 2024-08-31 |
-| [Bitterness](https://open.spotify.com/track/0QnAfmv5CwrotxI8W1ZsGQ) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [Bitterness](https://open.spotify.com/album/4vU22oFOy1LjDvipzgwim7) | 3:53 | 2024-06-27 |  |
+| [Bitterness](https://open.spotify.com/track/0QnAfmv5CwrotxI8W1ZsGQ) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [Bitterness](https://open.spotify.com/album/4vU22oFOy1LjDvipzgwim7) | 3:53 | 2024-06-27 | 2024-10-18 |
 | [BLUE WINE](https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci) | [EÄZZ.](https://open.spotify.com/artist/1ybobnnnwcuBzeWoae5LEY) | [Soft,Frail and Blue](https://open.spotify.com/album/1bM9Qt42jRnIlZIIMqkxdb) | 4:13 | 2024-06-27 |  |
 | [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-06-27 |  |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 | 2024-08-09 |
@@ -90,6 +90,7 @@
 | [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-06-27 |  |
 | [One day, the sky that I stood still and looked at while walking on the crosswalk in front of Dunchon\-dong Station](https://open.spotify.com/track/6b97W8MSTHi58KAqZPUi4V) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 6:32 | 2024-06-27 |  |
 | [Our Summer Days](https://open.spotify.com/track/7sOOqL5a968IFjVAwgsMCl) | [Belinda May](https://open.spotify.com/artist/0n8J6ZvqzlHjbJTAXvfmnr) | [Our Summer Days / Dreams](https://open.spotify.com/album/4KHJ9jDWNyI8B03KPcnldl) | 3:28 | 2024-06-27 |  |
+| [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-17 |  |
 | [p.m.5:00](https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx) | [the slow films](https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk) | [p.m.5:00 / 夢の中で](https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO) | 3:19 | 2024-08-08 |  |
 | [Painless](https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Painless](https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk) | 5:15 | 2024-07-14 |  |
 | [Panodrama](https://open.spotify.com/track/3EANM5StwnirYbt7fmVgIO) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Panodrama](https://open.spotify.com/album/1Ls3E6DUQFRSHBl83ARiYU) | 3:58 | 2024-06-27 |  |
@@ -102,6 +103,7 @@
 | [Precious Me](https://open.spotify.com/track/1gyIGh5Zqjc7BG0xUfTjP9) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Precious Me / Feel Any Pain](https://open.spotify.com/album/4pQOw5OThpX8wjRKyk8Ypf) | 3:42 | 2024-06-27 | 2024-08-09 |
 | [Pudar](https://open.spotify.com/track/6UlVDJKmiqJ29Ut5lutkpX) | [eyesun](https://open.spotify.com/artist/29PELbih4pFV1CfXeHfrXF) | [Feel Something](https://open.spotify.com/album/0TW6qkK2DLqtiDBDceTTyv) | 5:28 | 2024-06-27 |  |
 | [Realize](https://open.spotify.com/track/7qVKgHJDWENFmqtnvr6Tzq) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fault](https://open.spotify.com/album/4vl7hn0TDJg3GJPeAOGFhS) | 3:55 | 2024-06-27 | 2024-08-09 |
+| [Reunion Song](https://open.spotify.com/track/0vfSaylAxEZV172XA5RfdV) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Reunion Song](https://open.spotify.com/album/2M2r0MC6PNElnzIjq8GINA) | 3:50 | 2024-10-17 |  |
 | [Rhythm Zero](https://open.spotify.com/track/0dknXr1zTEA69doNENzam7) | [Kognes Park](https://open.spotify.com/artist/5nTF0UCjFrt9cJ3AHC8xX3) | [Kognes Park](https://open.spotify.com/album/7DlCjdy48gJ1lkCNaypwiD) | 3:20 | 2024-06-27 |  |
 | [Ribs](https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq) | [AVA](https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP) | [Ribs](https://open.spotify.com/album/0sUvrfyz1Yko9iPSFGQhwe) | 4:31 | 2024-06-27 | 2024-10-11 |
 | [Runaway](https://open.spotify.com/track/6izvABDCV72LltDtObbvDw) | [SHIMMER SHRIMPMER](https://open.spotify.com/artist/5B7i15EPohPeNKNVLVjiaQ) | [Runaway](https://open.spotify.com/album/03UecZcOqMePoExqhAMZoH) | 4:40 | 2024-06-27 |  |
@@ -126,7 +128,7 @@
 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:10 | 2024-10-10 |  |
 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 | 2024-06-27 |  |
 | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY) | [The Wallflower Dept.](https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv), [Ananda Yala](https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL) | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy) | 4:11 | 2024-08-05 |  |
-| [We Shine at Night](https://open.spotify.com/track/30UtvytdKLQjvLZesEaR3v) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/4PbTT54u3bIOnYKjOIvn5c) | 6:27 | 2024-06-27 |  |
+| [We Shine at Night](https://open.spotify.com/track/30UtvytdKLQjvLZesEaR3v) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/4PbTT54u3bIOnYKjOIvn5c) | 6:27 | 2024-06-27 | 2024-10-18 |
 | [Whale blows rainbow](https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O) | [Tyrell](https://open.spotify.com/artist/6TjVmU32VkhCqd3kbqQ0jg) | [Whale blows rainbow](https://open.spotify.com/album/0blsoeRWMeUWMlFt3O7pNN) | 6:06 | 2024-06-27 | 2024-08-09 |
 | [Whiteout](https://open.spotify.com/track/20VHVwnyan4eSTq4zYgRi5) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Whiteout](https://open.spotify.com/album/1xySdt3n5nPbTH5pUH5Ms8) | 3:13 | 2024-09-13 |  |
 | [Why](https://open.spotify.com/track/2nKWmGyL3h8xu6dlsD7CB7) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Coming Up Roses](https://open.spotify.com/album/2r3PtUTGT3h6QmnrDSJo6X) | 5:51 | 2024-06-27 |  |

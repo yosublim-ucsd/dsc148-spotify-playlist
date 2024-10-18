@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "aperol spritz",
+        "url": "https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8"
+      },
+      "artists": [
+        {
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130600,
+      "name": "aperol spritz",
+      "url": "https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS"
+    },
+    {
+      "album": {
         "name": "apple pie",
         "url": "https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO"
       },
@@ -7798,7 +7816,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 140572,
       "name": "flat disc - Coffe Shop",
       "url": "https://open.spotify.com/track/3dwL80oiNV7KBbihAgcmRZ"
@@ -8124,7 +8142,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 151499,
       "name": "Foggy Fields",
       "url": "https://open.spotify.com/track/1mjpBiNzn3VsNmrQqk3pGP"
@@ -17141,6 +17159,32 @@
     },
     {
       "album": {
+        "name": "nonkina",
+        "url": "https://open.spotify.com/album/3aPqjYGt4rBG5KKu9W40IC"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        },
+        {
+          "name": "Nstlgk",
+          "url": "https://open.spotify.com/artist/0hVFuztPYOY56o6ZpoyO3l"
+        },
+        {
+          "name": "Faydruh",
+          "url": "https://open.spotify.com/artist/5A4riiuWB7tryclPqAE6kX"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111549,
+      "name": "nonkina",
+      "url": "https://open.spotify.com/track/3K8m1rfEpFP6fLHrEcWFYp"
+    },
+    {
+      "album": {
         "name": "Noodles",
         "url": "https://open.spotify.com/album/3mSEOxuKk4TUoOuFsoJuVV"
       },
@@ -18532,7 +18576,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 117600,
       "name": "Peppercorn",
       "url": "https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR"
@@ -19600,7 +19644,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 131660,
       "name": "Rainy Garden",
       "url": "https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q"

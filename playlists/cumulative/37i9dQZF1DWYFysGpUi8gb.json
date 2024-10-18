@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "welcome to the underground. greetings from geordie greep.",
+  "description": "welcome to the underground. greetings from sorry.",
   "name": "melomania",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 154413,
       "name": "Battle",
       "url": "https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 196688,
       "name": "Dreams Aren't Enough",
       "url": "https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 177706,
       "name": "Exactly As It Seems",
       "url": "https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn"
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Flowers in the Rain",
+        "url": "https://open.spotify.com/album/3ch7NaK5OfME3gyySmo7Dt"
+      },
+      "artists": [
+        {
+          "name": "W. H. Lung",
+          "url": "https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215186,
+      "name": "Flowers in the Rain",
+      "url": "https://open.spotify.com/track/56sGK0Vx2NKKh3iTQVR6cF"
+    },
+    {
+      "album": {
         "name": "Butter Wouldn't Melt",
         "url": "https://open.spotify.com/album/1boGE1Y6CfBS2s6JjRZ7BM"
       },
@@ -882,6 +900,24 @@
       "duration_ms": 190371,
       "name": "God Hold You",
       "url": "https://open.spotify.com/track/7Gq9OnykAtXspBgGrQ3QuA"
+    },
+    {
+      "album": {
+        "name": "God Of Everything Else",
+        "url": "https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "God Of Everything Else",
+      "url": "https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35"
     },
     {
       "album": {
@@ -2264,7 +2300,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 283014,
       "name": "The Well",
       "url": "https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e"
@@ -2451,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Warplane",
+        "url": "https://open.spotify.com/album/0ePj8KIjP3uTJEozHRIIRb"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331673,
+      "name": "Warplane",
+      "url": "https://open.spotify.com/track/0mam1gwPpYCmK9Ns0K05xz"
+    },
+    {
+      "album": {
         "name": "Warsaw",
         "url": "https://open.spotify.com/album/2Sst2B9jLtDMMHm3VaWDEu"
       },
@@ -2466,6 +2520,24 @@
       "duration_ms": 243918,
       "name": "Warsaw",
       "url": "https://open.spotify.com/track/60rYY3UckgJzOjijhGjAaP"
+    },
+    {
+      "album": {
+        "name": "Waxwing",
+        "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215369,
+      "name": "Waxwing",
+      "url": "https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd"
     },
     {
       "album": {

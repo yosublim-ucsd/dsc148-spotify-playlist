@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 170002,
+  "num_followers": 170022,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Essential",
-        "url": "https://open.spotify.com/album/2qvgU7ANFcPldErKcJkcnR"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "Rubber Ball",
-      "url": "https://open.spotify.com/track/3Onckv4ELY5JiWgoqUFxvf"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Magic Of Jo Stafford",
         "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 152226,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/2qvgU7ANFcPldErKcJkcnR"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "Rubber Ball",
+      "url": "https://open.spotify.com/track/3Onckv4ELY5JiWgoqUFxvf"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 177493,
       "name": "I'll Take You Home Again, Kathleen",
       "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
     },
     {
       "added_at": "2023-10-17 16:18:55",

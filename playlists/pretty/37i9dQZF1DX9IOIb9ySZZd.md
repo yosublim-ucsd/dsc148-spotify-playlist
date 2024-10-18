@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 
 > Enjoy music from "Macross Series"! SF超大作アニメ、マクロスシリーズの主題歌/挿入歌 /サントラ曲を1つのプレイリストで！©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,002 likes - 98 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,019 likes - 98 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 | 32 | [りんごのうた](https://open.spotify.com/track/62MS0grt1BwP2hhx8mR8OI) | [フレイアΔ鈴木みのり](https://open.spotify.com/artist/5UygToMQWkkgLGGNu03XCE) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」オリジナルサウンドトラック](https://open.spotify.com/album/0ZB1ik7s5kLyRbqCvy8VzP) | 1:37 |
 | 33 | [Diva in Abyss](https://open.spotify.com/track/3xHrDbcQXMHMTNha373I4U) | [Yami\_Q\_ray](https://open.spotify.com/artist/3B5LOVdhVCxkl1YXdqCvcc) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」オリジナルサウンドトラック](https://open.spotify.com/album/0ZB1ik7s5kLyRbqCvy8VzP) | 6:14 |
 | 34 | [Overture at the End](https://open.spotify.com/track/43rhCiU9hJ6oOmaMYLiOxH) | [Saeko Suzuki](https://open.spotify.com/artist/6slBFejXc5oLl86V4NSdCq), [Tomisiro](https://open.spotify.com/artist/6bChsZF2OYwZkNRK6HX0qq) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」オリジナルサウンドトラック](https://open.spotify.com/album/0ZB1ik7s5kLyRbqCvy8VzP) | 1:13 |
-| 35 | [息をしてる 感じている](https://open.spotify.com/track/38kJYFe8kCYPFPDqxqempb) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij), [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [息をしてる 感じている](https://open.spotify.com/album/601dP8mnhBjID8vwTdPeka) | 4:38 |
+| 35 | [息をしてる　感じている](https://open.spotify.com/track/38kJYFe8kCYPFPDqxqempb) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij), [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [息をしてる　感じている](https://open.spotify.com/album/601dP8mnhBjID8vwTdPeka) | 4:38 |
 | 36 | [突撃ラブハート（Duet Version）](https://open.spotify.com/track/0ConlINv5bp12zqc6X68nu) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO) | [「マクロス7」LET'S FIRE!!](https://open.spotify.com/album/1bperZa8VrSjLpU6ptETtm) | 4:14 |
 | 37 | [ノーザンクロス](https://open.spotify.com/track/7cWo236kkAKkPB3agVwYam) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」オープニングテーマ ライオン](https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm) | 5:11 |
 | 38 | [AXIA～ダイスキでダイキライ～](https://open.spotify.com/track/2Pf53mIOIZMlNzOqDPjrtK) | [ワルキューレ/\(カナメΔ安野希世乃/レイナΔ東山奈央/マキナΔ西田望見\)](https://open.spotify.com/artist/4lJEWl7ZvQCuXMVyYPpy5n) | [TVアニメーション「マクロスΔ」ボーカルアルバム　Walkure Attack!](https://open.spotify.com/album/7Jm1ejQiJemzAxwA26gr4v) | 5:34 |

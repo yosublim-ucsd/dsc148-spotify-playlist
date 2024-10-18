@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 186773,
       "name": "Heaven (Feat. Sam Kim)",
       "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
@@ -13554,6 +13554,24 @@
       "duration_ms": 197552,
       "name": "TIME DIFFERENCE",
       "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/3BatyD1PQYv2rkHjUTC68T"
+      },
+      "artists": [
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159193,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2"
     },
     {
       "album": {

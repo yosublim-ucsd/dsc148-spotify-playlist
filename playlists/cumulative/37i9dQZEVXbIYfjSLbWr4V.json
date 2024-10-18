@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 188733,
       "name": "\u0411\u0430\u043d\u0434\u0430 \u041a\u0440\u044b\u0441",
       "url": "https://open.spotify.com/track/5yX4rBk1qUoX93nhUBZ6wH"
@@ -4735,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0430\u0443\u043d\u0434\u0442\u0440\u0435\u043a \u043a \u0442\u0430\u043a \u0438 \u043d\u0435 \u0441\u043d\u044f\u0442\u043e\u043c\u0443 \u0444\u0438\u043b\u044c\u043c\u0443",
+        "url": "https://open.spotify.com/album/6qPh7WIuRsTxrHbjbl3sYr"
+      },
+      "artists": [
+        {
+          "name": "Kaspiyskiy Gruz",
+          "url": "https://open.spotify.com/artist/5g5a3ENOYfn6myyLen218w"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178264,
+      "name": "\u041b\u044e\u0431\u043e\u0432\u044c HD1080",
+      "url": "https://open.spotify.com/track/61nzEAmKgzWRL5vFuwwd3B"
+    },
+    {
+      "album": {
         "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
         "url": "https://open.spotify.com/album/7FLL81YdbJHC7OB0ntas4C"
       },
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 156116,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ"
@@ -5460,7 +5478,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 246743,
       "name": "\u041f\u041e\u0420\u041d\u0425\u0410\u0411 \u041a\u0420\u0418\u0421\u041c\u0410\u0421 \u041a\u041b\u0410\u0411",
       "url": "https://open.spotify.com/track/5jgFvROeP9DlLl9dMHQEtw"
@@ -5554,7 +5572,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 162526,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 115135,
       "name": "\u0420\u0438\u043d\u043e\u043f\u043b\u0430\u0441\u0442\u0438\u043a\u0430 - Surgery",
       "url": "https://open.spotify.com/track/6dXPD2BzUrKjceT1c3eOtK"

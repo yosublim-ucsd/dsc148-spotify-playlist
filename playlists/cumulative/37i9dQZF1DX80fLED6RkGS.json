@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Fathermoh, Marioo, Ssaru, Sean MMG",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Exray Taniua",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -900,6 +900,28 @@
       "duration_ms": 209560,
       "name": "Big Bumpa",
       "url": "https://open.spotify.com/track/5Cz0TBJtKm79Q3X325U1Gc"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/3lQ1lCpSxpm8PlJCHUHzKc"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218736,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/3Db7tGvehZIUahqzxuysXJ"
     },
     {
       "album": {
@@ -2770,7 +2792,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 206064,
       "name": "Hatukai Sana",
       "url": "https://open.spotify.com/track/0TBvfpxaNgqufL1Zi9rMJC"
@@ -4139,6 +4161,28 @@
     },
     {
       "album": {
+        "name": "Kwa Ndae",
+        "url": "https://open.spotify.com/album/0MhBL1y515Ozl3MXIyhDzt"
+      },
+      "artists": [
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        },
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166144,
+      "name": "Kwa Ndae",
+      "url": "https://open.spotify.com/track/0gDISI8zi3d9EwYk7IKq8W"
+    },
+    {
+      "album": {
         "name": "Kwa News",
         "url": "https://open.spotify.com/album/1NxSdHbSm1oO7TH18kd9mu"
       },
@@ -4446,7 +4490,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 209397,
       "name": "Makofi",
       "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
@@ -5633,6 +5677,28 @@
     },
     {
       "album": {
+        "name": "Ndio Inafaa Kuwa",
+        "url": "https://open.spotify.com/album/5Vkk23KQfSMDR4mcNsMs7E"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Ndio Inafaa Kuwa",
+      "url": "https://open.spotify.com/track/6qiCH0wLDPug2zjCVxRXoq"
+    },
+    {
+      "album": {
         "name": "Ndiwike",
         "url": "https://open.spotify.com/album/4lRUfKVEB7fAC7NiE3Ecfv"
       },
@@ -5878,7 +5944,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 168000,
       "name": "Nilinky",
       "url": "https://open.spotify.com/track/1ibC0wqkhrx3IJ7XvZgyT3"

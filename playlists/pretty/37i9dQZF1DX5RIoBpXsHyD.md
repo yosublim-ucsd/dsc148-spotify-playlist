@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 
 > Unleash the power of Persona and immerse yourself in the world of this epic RPG series with this\. 『ペルソナ３リロード: Episode Aegis』を含む、ペルソナシリーズの世界に浸れる公式プレイリスト！ⒸATLUS\. ⒸSEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,436 likes - 87 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,527 likes - 87 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 | 70 | [Truth or Dare](https://open.spotify.com/track/4XmQICcglTtNjlGrbmbfXw) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ５ タクティカ オリジナル・サウンドトラック](https://open.spotify.com/album/4uqbr3RRJ47LoRK5jZlzPS) | 6:25 |
 | 71 | [Quiet Storm](https://open.spotify.com/track/78H5UO8qgRTslVXqlTx8ZM) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ５ タクティカ オリジナル・サウンドトラック](https://open.spotify.com/album/4uqbr3RRJ47LoRK5jZlzPS) | 3:53 |
 | 72 | [The Night We Stood](https://open.spotify.com/track/6hA6S77WrtBTJBkOtclvky) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ５ タクティカ オリジナル・サウンドトラック](https://open.spotify.com/album/4uqbr3RRJ47LoRK5jZlzPS) | 3:40 |
-| 73 | [GROOVY](https://open.spotify.com/track/63ZJBdql1nHBXN67U0gxwy) | [Lyn](https://open.spotify.com/artist/19jhG1anZ3DfVcr43rqgmN) | [ペルソナダンシング 『P3D』＆『P5D』 サウンドトラック \(ADVANCED EDITION\)](https://open.spotify.com/album/7FzDtEmN9Eyf27BnzuIHk6) | 3:41 |
-| 74 | [One Nightbreak](https://open.spotify.com/track/4O8tA5a0C1OxNGAdSFXJzI) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [ペルソナ5 ダンシング・スターナイト サウンドトラック](https://open.spotify.com/album/7arRwlcCRTiJYmDrj2EW9H) | 4:04 |
+| 73 | [GROOVY](https://open.spotify.com/track/63ZJBdql1nHBXN67U0gxwy) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [ペルソナダンシング 『P3D』＆『P5D』 サウンドトラック \(ADVANCED EDITION\)](https://open.spotify.com/album/7FzDtEmN9Eyf27BnzuIHk6) | 3:41 |
+| 74 | [One Nightbreak](https://open.spotify.com/track/4O8tA5a0C1OxNGAdSFXJzI) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [ペルソナ５ ダンシング・スターナイト サウンドトラック](https://open.spotify.com/album/7arRwlcCRTiJYmDrj2EW9H) | 4:04 |
 | 75 | [MAZE OF LIFE](https://open.spotify.com/track/1ARy9XwOjCTUrQi5s2U8zx) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U), [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナQ シャドウ オブ ザ ラビリンス オリジナル・サウンドトラック](https://open.spotify.com/album/6JrIUY6g58IaR7vV7QUbca) | 4:24 |
 | 76 | [Light the Fire Up in the Night ”KAGEJIKAN”](https://open.spotify.com/track/5DY7ASf3yoiZVD25BcdHMM) | [川村ゆみ](https://open.spotify.com/artist/55yEcpOYHnvIFiQGqN4t6U), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [ペルソナQ シャドウ オブ ザ ラビリンス オリジナル・サウンドトラック](https://open.spotify.com/album/6JrIUY6g58IaR7vV7QUbca) | 2:40 |
 | 77 | [Laser Beam](https://open.spotify.com/track/2ZNw0KNfSlY7vgqFi4H7z1) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [ペルソナQ シャドウ オブ ザ ラビリンス オリジナル・サウンドトラック](https://open.spotify.com/album/6JrIUY6g58IaR7vV7QUbca) | 3:13 |

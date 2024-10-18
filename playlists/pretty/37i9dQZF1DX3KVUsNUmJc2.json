@@ -1,13 +1,37 @@
 {
   "description": "Every legend has a beginning. Listen to music from Arcane, now streaming on Netflix. ",
-  "num_followers": 56016,
+  "num_followers": 56346,
   "original_name": "Arcane Offical Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuCWlAAAAAAEKKXrLfnbQX1qoOqwKB99",
+  "snapshot_id": "ZxF9KgAAAAA7MhzbS3t4ay9NGD+rL4L2",
   "tracks": [
+    {
+      "added_at": "2024-10-17 21:10:02",
+      "album": {
+        "name": "Come Play (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2mhZyOisiQGu7sirnHn2tx"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Come Play (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1FnfyD5qFO7Q9ZHPpIcfcb"
+    },
     {
       "added_at": "2024-09-05 04:00:00",
       "album": {

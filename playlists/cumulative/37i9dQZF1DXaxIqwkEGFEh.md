@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: BabyChiefDoIt
 
-1,555 songs - 2 day 23 hr 47 min
+1,556 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Diapers](https://open.spotify.com/track/3zXZcKgkvMcQpRZclhprxS) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Diapers](https://open.spotify.com/album/6sNwECVSTPQloh3A4ZKnss) | 2:01 | 2022-07-08 | 2022-08-20 |
 | [Did It First](https://open.spotify.com/track/5yRQ75CGxdzPm28AqoDorY) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Did It First](https://open.spotify.com/album/6Q0eKfGDutKiEaAeUC7vxQ) | 2:26 | 2023-10-06 | 2023-12-02 |
 | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/track/68hn4O7tjgp4ITx5dSpuNL) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7) | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/album/5ruuJ043cD6LUtzBP2kprc) | 2:36 | 2022-06-24 | 2022-10-08 |
+| [Die 4 Anything](https://open.spotify.com/track/0Drcr0fLRnNSirV45hXSVL) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Die 4 Anything](https://open.spotify.com/album/1e8SHjjt5fxhFXLhjiVie3) | 1:49 | 2024-10-11 |  |
 | [Die Trying](https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:33 | 2024-02-02 | 2024-08-10 |
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-17 | 2021-12-24 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-04-29 |

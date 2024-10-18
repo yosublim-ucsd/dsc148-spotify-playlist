@@ -1,13 +1,29 @@
 {
-  "description": "Dosis musical para disfrutar el momento. Foto: Ali Aka Mind, Penyair",
-  "num_followers": 57324,
+  "description": "Dosis musical para disfrutar el momento. Foto: Junior Zamora",
+  "num_followers": 57330,
   "original_name": "Parchadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9j8gAAAADyTHn1ec32gFwOMX7xuz/n",
+  "snapshot_id": "ZxGoqQAAAAAlSEYDcCrToeCl+2I8BIet",
   "tracks": [
+    {
+      "added_at": "2024-10-18 00:15:37",
+      "album": {
+        "name": "Joyas Del Barrio",
+        "url": "https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 175914,
+      "name": "VALLADO 3",
+      "url": "https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f"
+    },
     {
       "added_at": "2024-08-30 04:59:00",
       "album": {
@@ -315,26 +331,6 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
-    },
-    {
-      "added_at": "2024-08-30 04:59:00",
-      "album": {
-        "name": "Saltas Por Mi",
-        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Saltas Por Mi",
-      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
     },
     {
       "added_at": "2024-08-30 04:59:00",

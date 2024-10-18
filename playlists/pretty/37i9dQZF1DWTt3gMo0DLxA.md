@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Devara
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,573 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,499 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 2 | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5) | 4:20 |
 | 3 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
 | 4 | [Ammayi](https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:35 |
-| 5 | [Garam Garam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Garam Garam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3) | 4:10 |
+| 5 | [Garam Garam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Garam Garam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3) | 4:10 |
 | 6 | [Oh My Baby \(From "Guntur Kaaram"\)\(Telugu\)](https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Oh My Baby \(From "Guntur Kaaram"\)\(Telugu\)](https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar) | 2:36 |
 | 7 | [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 |
 | 8 | [Ghallu Ghallu](https://open.spotify.com/track/4Bb4Vgzp1kAebqI7KnDFPn) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa) | [Indra](https://open.spotify.com/album/6DCevkH61bKK4qIxQV50eB) | 5:51 |

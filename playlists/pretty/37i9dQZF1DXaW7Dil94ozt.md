@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,038 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 17 | [Mirror](https://open.spotify.com/track/5DypcKUjc5MGsrVPCUpsVX) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 4:40 |
 | 18 | [SINK HOLE](https://open.spotify.com/track/1dhRhB9ZBVLN9JqLC5UtjC) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 4:14 |
 | 19 | [MANDRAKE](https://open.spotify.com/track/65WGn1Wrk9NiBLk0io6mjJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 6:11 |
-| 20 | [말달리자 Speed Up Losers](https://open.spotify.com/track/42OTaKIDWseqiU8qflqjap) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [말달리자 Speed Up Losers](https://open.spotify.com/album/2qGZXupHBC6oJQawNh13Pc) | 3:06 |
+| 20 | [말달리자 Speed Up Losers](https://open.spotify.com/track/42OTaKIDWseqiU8qflqjap) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [말달리자 Speed Up Losers](https://open.spotify.com/album/2qGZXupHBC6oJQawNh13Pc) | 3:06 |
 | 21 | [룩셈부르크 Luxembourg](https://open.spotify.com/track/0JvKtUqGrzI0XZQzrMdxe2) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 2:25 |
 | 22 | [좋지 아니한가 Isn't That Good?](https://open.spotify.com/track/7L13P7XjzgJyENZZjITPcV) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut 3 Singles](https://open.spotify.com/album/22GNw0B9gLX7wLKt1hgiSe) | 4:24 |
 | 23 | [서커스 매직 유랑단 Circus Magic Clowns](https://open.spotify.com/track/4kFHd8N3mzYUNS0WFG4HmO) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [서커스 매직 유랑단 Circus Magic Clowns](https://open.spotify.com/album/3IcCMyt1uE97C130L1vPc3) | 4:03 |

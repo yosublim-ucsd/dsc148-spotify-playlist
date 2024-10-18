@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Powers Pleasant
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,456 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,527 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 4 | [BEAT IT UP!](https://open.spotify.com/track/53Ukh8zhylaXTYACGmbUwF) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [KAST GOT WINGS](https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N) | 1:41 |
 | 5 | [HYPE ME UP](https://open.spotify.com/track/2fMgGrKk8IFglMGn5CTXN5) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [HYPE ME UP](https://open.spotify.com/album/2Mpaeojxd7u1vnjqjT1PY6) | 1:49 |
 | 6 | [Baby Boy Is Drunk \(feat, AG Club & AUDREY NUNA\)](https://open.spotify.com/track/258wpVH5k51Aa2ZZh07Fz2) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Baby Boy Is Drunk \(feat, AG Club & AUDREY NUNA\)](https://open.spotify.com/album/6nLSvRBhJMSfRAntC9p9Y7) | 2:40 |
-| 7 | [\#baby boy! \(feat\. SONNY, NombreKari & Menace4hire\)](https://open.spotify.com/track/7DPc9VW1G2VJj0wZb0j6c5) | [Kaicrewsade](https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx), [SONNY](https://open.spotify.com/artist/6Uo8DWitVulLdaWaZ3gwun), [NombreKari](https://open.spotify.com/artist/02qDjHpQqiweSIMa5VKa8t), [Menace4hire](https://open.spotify.com/artist/4oFfYNnynfSqQVW3hOfIMb) | [Yvette](https://open.spotify.com/album/53388BPskJA1DRffgJiGaO) | 4:49 |
+| 7 | [\#baby boy! \(feat\. SONNY, NombreKari & Menace4hire\)](https://open.spotify.com/track/7DPc9VW1G2VJj0wZb0j6c5) | [Kaicrewsade](https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx), [SONNY](https://open.spotify.com/artist/3KDKJ7Z0kgJrQS1CH43PM4), [NombreKari](https://open.spotify.com/artist/02qDjHpQqiweSIMa5VKa8t), [Menace4hire](https://open.spotify.com/artist/4oFfYNnynfSqQVW3hOfIMb) | [Yvette](https://open.spotify.com/album/53388BPskJA1DRffgJiGaO) | 4:49 |
 | 8 | [Son Gohan](https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Son Gohan](https://open.spotify.com/album/39EdvibZaks6Vi4ujEXHGA) | 1:40 |
 | 9 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
 | 10 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |

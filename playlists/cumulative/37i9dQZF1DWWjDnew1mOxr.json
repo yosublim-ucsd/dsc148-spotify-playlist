@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Seb Lowe",
+  "description": "Boss music for boss people. Cover: Fiona-Lee",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 168994,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m"
@@ -4965,6 +4965,28 @@
     },
     {
       "album": {
+        "name": "Sweet Surrender (feat. Brooke Combe)",
+        "url": "https://open.spotify.com/album/2RkPZQvlWzaQYCGm7ZVSpz"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        },
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214058,
+      "name": "Sweet Surrender (feat. Brooke Combe)",
+      "url": "https://open.spotify.com/track/5UiWUZm7xh9KXes34q1DDz"
+    },
+    {
+      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/3wEckVQAgY7X74TqBlvvpg"
       },
@@ -4998,6 +5020,24 @@
       "duration_ms": 118835,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY"
+    },
+    {
+      "album": {
+        "name": "Technofear",
+        "url": "https://open.spotify.com/album/74S1PUTNT3ytS3tWQlmkCE"
+      },
+      "artists": [
+        {
+          "name": "The Slow Readers Club",
+          "url": "https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Technofear",
+      "url": "https://open.spotify.com/track/6CIrj2Av1omuZonMOxhQX2"
     },
     {
       "album": {
@@ -5948,7 +5988,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 196525,
       "name": "Yesterday Is Gone",
       "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"

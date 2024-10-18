@@ -2,9 +2,9 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> welcome to the underground\. greetings from geordie greep.
+> welcome to the underground\. greetings from sorry.
 
-143 songs - 8 hr 43 min
+147 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 |  |
 | [Back2bed](https://open.spotify.com/track/1cC6rj10DoUfWPNkYYyB5D) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Back2bed](https://open.spotify.com/album/1w2jKlJbVynIPpHj8w2oBl) | 2:53 | 2024-10-06 |  |
 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 | 2024-06-14 | 2024-09-27 |
-| [Battle](https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Battle](https://open.spotify.com/album/3IbYC7UpTbAYKDmNRPdrUp) | 2:34 | 2024-06-14 |  |
+| [Battle](https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Battle](https://open.spotify.com/album/3IbYC7UpTbAYKDmNRPdrUp) | 2:34 | 2024-06-14 | 2024-10-18 |
 | [BIG FISH](https://open.spotify.com/track/3gGtZis4nJpIMGGM2g0lcm) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [BIG FISH](https://open.spotify.com/album/3YOYvZEPsU7hMRiTmf9GWb) | 3:10 | 2024-09-05 |  |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 |  |
 | [Blanket \- Dan Carey Remix](https://open.spotify.com/track/0n7MDEsT31gB6W1dcYOS32) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi), [Dan Carey](https://open.spotify.com/artist/1PXStuNqw9YDsim4EhMSq7) | [Blanket \(Dan Carey Remix\)](https://open.spotify.com/album/7fNGZksnLZi3ZHkzQd2VfP) | 3:40 | 2024-06-14 | 2024-09-06 |
@@ -42,20 +42,22 @@
 | [Dogs](https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd), [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Dogs](https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm) | 3:33 | 2024-09-26 |  |
 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-06-14 |  |
 | [Dream Untitled \(On and On\)](https://open.spotify.com/track/7D7C76K9lJvDiZhzMNZrlM) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Dream Untitled \(On and On\)](https://open.spotify.com/album/18F789MGT0N0PgNsES9HPA) | 4:03 | 2024-09-05 |  |
-| [Dreams Aren't Enough](https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg) | [IST IST](https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq) | [Dreams Aren't Enough](https://open.spotify.com/album/1RhlvRwVVjKKC29gg5BCrS) | 3:16 | 2024-08-16 |  |
+| [Dreams Aren't Enough](https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg) | [IST IST](https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq) | [Dreams Aren't Enough](https://open.spotify.com/album/1RhlvRwVVjKKC29gg5BCrS) | 3:16 | 2024-08-16 | 2024-10-18 |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef) | 3:44 | 2024-06-14 | 2024-08-17 |
 | [DYLM](https://open.spotify.com/track/6sINksp0eE9N704kiauZJs) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [DYLM](https://open.spotify.com/album/2THuRoV8RDoYb7mnYGZCqZ) | 3:54 | 2024-08-16 |  |
 | [End Of The Night](https://open.spotify.com/track/1rN641NwfrIYcIfZyNK80f) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [End Of The Night](https://open.spotify.com/album/1HdaI08dFvKfr3rg50XQE8) | 4:10 | 2024-06-14 |  |
 | [Everything](https://open.spotify.com/track/4nrxXuVl1LQdUAn7zNYdSg) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX) | [Pilot](https://open.spotify.com/album/7kkFHOhqj5safgBxzNDeZI) | 5:18 | 2024-06-14 | 2024-09-27 |
-| [Exactly As It Seems](https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 2:57 | 2024-06-14 |  |
+| [Exactly As It Seems](https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 2:57 | 2024-06-14 | 2024-10-18 |
 | [Expensive Thrills](https://open.spotify.com/track/0ZmChmFVUK2N3Qz9k3jYiY) | [C Turtle](https://open.spotify.com/artist/4JoZT9uT2cj9DQ7i23pn4h) | [Expensive Thrills](https://open.spotify.com/album/5dpFQjEaHPiURz2ZF08nth) | 4:04 | 2024-06-14 | 2024-09-27 |
 | [Fashion Week](https://open.spotify.com/track/433HpKlid41v9T6ngkcTfu) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Fashion Week](https://open.spotify.com/album/7bLFCD6ileG1OIVhKBGugF) | 3:27 | 2024-07-12 |  |
 | [Fear](https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Fear](https://open.spotify.com/album/1AalLj6vq3wHgrjGC6dEJU) | 2:24 | 2024-07-12 | 2024-10-07 |
 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 | 2024-06-14 | 2024-07-13 |
 | [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-14 | 2024-10-07 |
+| [Flowers in the Rain](https://open.spotify.com/track/56sGK0Vx2NKKh3iTQVR6cF) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [Flowers in the Rain](https://open.spotify.com/album/3ch7NaK5OfME3gyySmo7Dt) | 3:35 | 2024-10-17 |  |
 | [Frog](https://open.spotify.com/track/1NRYR8oEWf17e3wcEbG06O) | [Daisy and The Deadheads](https://open.spotify.com/artist/2W9Smxs6424NtrKRN53rSb) | [Butter Wouldn't Melt](https://open.spotify.com/album/1boGE1Y6CfBS2s6JjRZ7BM) | 4:04 | 2024-07-12 |  |
 | [Fugue \(Bin Song\)](https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Fugue \(Bin Song\)](https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL) | 5:22 | 2024-06-14 | 2024-07-27 |
 | [God Hold You](https://open.spotify.com/track/7Gq9OnykAtXspBgGrQ3QuA) | [Famous](https://open.spotify.com/artist/76pvNo3GAo5aeXBZ4jVz0k) | [God Hold You / It Goes On Forever](https://open.spotify.com/album/2inEe0Fw5lktiQlK12NlNd) | 3:10 | 2024-07-12 |  |
+| [God Of Everything Else](https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [God Of Everything Else](https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN) | 3:24 | 2024-10-17 |  |
 | [Gone Girl](https://open.spotify.com/track/5bajgZvZb1x9OScsPAC1gB) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Gone Girl](https://open.spotify.com/album/3Fgk1n5Tdm7FcE7SpAlW39) | 2:58 | 2024-06-14 | 2024-09-06 |
 | [Green Shirt](https://open.spotify.com/track/1Lgx5ZUYGcJiDQMqQ6jAGo) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Green Shirt](https://open.spotify.com/album/0ac6cMBpx1ICVqKFSnztEt) | 2:08 | 2024-06-14 |  |
 | [Grief In Phantasia](https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Grief In Phantasia](https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu) | 5:07 | 2024-06-14 | 2024-09-06 |
@@ -132,7 +134,7 @@
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-06-14 | 2024-07-27 |
 | [The Real Thing](https://open.spotify.com/track/2Qe5XnI7iRXFlvk7fBEBQw) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [The Real Thing](https://open.spotify.com/album/3YBdxfIcSYZdnNmjLcSBSN) | 2:54 | 2024-06-14 | 2024-08-17 |
 | [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-06 |  |
-| [The Well](https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e) | [Rubber Oh](https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL) | [The Well](https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD) | 4:43 | 2024-09-05 |  |
+| [The Well](https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e) | [Rubber Oh](https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL) | [The Well](https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD) | 4:43 | 2024-09-05 | 2024-10-18 |
 | [Therapy \- Edit](https://open.spotify.com/track/3dXb6Bv8Gy13B8nQnVQNvs) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Therapy](https://open.spotify.com/album/6jHgbO9dacL4avMfBmhWam) | 3:31 | 2024-06-14 | 2024-07-13 |
 | [Third Time At The Beach](https://open.spotify.com/track/7trK6mw7eOjGVSJtYPLS4m) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Third Time at the Beach](https://open.spotify.com/album/1Lx2GjCpZYgev59mFrQjB1) | 3:21 | 2024-09-26 |  |
 | [This Is Not The End](https://open.spotify.com/track/20OZFpJWz3ojDCNKfIbrmx) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heaven Sent](https://open.spotify.com/album/1tghmd68kDvjfM9zf0obnm) | 3:16 | 2024-06-14 | 2024-09-06 |
@@ -143,7 +145,9 @@
 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 | 2024-08-16 |  |
 | [Unpaid Intern](https://open.spotify.com/track/574VcgcnXEFHdMsmbuHdMw) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Scream If You Wanna Go Faster](https://open.spotify.com/album/4AxGhOQv7Bql3UzBTEOwl3) | 2:44 | 2024-07-26 |  |
 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 | 2024-06-14 | 2024-07-13 |
+| [Warplane](https://open.spotify.com/track/0mam1gwPpYCmK9Ns0K05xz) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Warplane](https://open.spotify.com/album/0ePj8KIjP3uTJEozHRIIRb) | 5:31 | 2024-10-17 |  |
 | [Warsaw](https://open.spotify.com/track/60rYY3UckgJzOjijhGjAaP) | [Martial Arts](https://open.spotify.com/artist/6Io0X7BBqmDmJLaKbEq14E) | [Warsaw](https://open.spotify.com/album/2Sst2B9jLtDMMHm3VaWDEu) | 4:03 | 2024-06-14 | 2024-09-27 |
+| [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-17 |  |
 | [We Can Still Win This](https://open.spotify.com/track/0kVnN6ffJCubItoBM1Nmzx) | [Dog Unit](https://open.spotify.com/artist/6AgUBiASnQufBjqqNtE3qj) | [At Home](https://open.spotify.com/album/3yxwAfkilyiPZIgwzkz0q9) | 6:03 | 2024-06-14 | 2024-09-27 |
 | [Wearing Faces](https://open.spotify.com/track/1VBuq23g66KF7AWQwDxlfg) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Smile While You're Losing](https://open.spotify.com/album/33I0BwTfQ5VM5UZr1ob7XZ) | 3:22 | 2024-09-05 |  |
 | [Well Done Honey](https://open.spotify.com/track/3wSMGOqlVmrE6yhv7kCKfp) | [Half Happy](https://open.spotify.com/artist/1dwwH3Hj6GgsQnBzyDBuRj) | [Well Done Honey](https://open.spotify.com/album/7L3hHtrAwWrAjAhZS5rKLM) | 4:16 | 2024-08-16 |  |

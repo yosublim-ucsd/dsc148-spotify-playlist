@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover:  sanjay.",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: OJ Reambillo ",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -1658,6 +1658,24 @@
       "duration_ms": 32179,
       "name": "physicaltouch",
       "url": "https://open.spotify.com/track/0gyABf30UplLQPRFCiPj6j"
+    },
+    {
+      "album": {
+        "name": "RIDE",
+        "url": "https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV"
+      },
+      "artists": [
+        {
+          "name": "OJ Reambillo",
+          "url": "https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "RIDE",
+      "url": "https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu"
     },
     {
       "album": {

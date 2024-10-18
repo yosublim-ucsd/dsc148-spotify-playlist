@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "2Much Future",
+          "url": "https://open.spotify.com/artist/3mLmDRSfkhpaXTaCIQ16lk"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221190,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe"
+    },
+    {
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/10racGxkbniYEwyKcajmba"
       },
@@ -1042,6 +1064,28 @@
       "duration_ms": 222883,
       "name": "Desande",
       "url": "https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3"
+    },
+    {
+      "album": {
+        "name": "Disco Shit",
+        "url": "https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo"
+      },
+      "artists": [
+        {
+          "name": "Vittor",
+          "url": "https://open.spotify.com/artist/3epyeoRc1gn7KoFUSi77Ud"
+        },
+        {
+          "name": "ONNE",
+          "url": "https://open.spotify.com/artist/4CYh95bpSaKKF9AvEI6G6X"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172263,
+      "name": "Disco Shit",
+      "url": "https://open.spotify.com/track/6Od1L6369vboOOofSij7mj"
     },
     {
       "album": {
@@ -1486,7 +1530,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 275847,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz"
@@ -3011,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "O Superman",
+        "url": "https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259680,
+      "name": "O Superman",
+      "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
+    },
+    {
+      "album": {
         "name": "Oi Oi Oi",
         "url": "https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg"
       },
@@ -3424,7 +3486,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 186666,
       "name": "Reason",
       "url": "https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB"
@@ -4408,7 +4470,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"

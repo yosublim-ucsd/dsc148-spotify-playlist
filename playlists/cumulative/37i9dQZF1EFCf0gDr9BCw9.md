@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-191 songs - 14 hr 24 min
+193 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Balcony Serenade \(Love\) \[Sonata\]](https://open.spotify.com/track/16iuWzKyvbJsh2EiUVADah) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:09 | 2022-09-08 |  |
 | [Ballet of the Flyin' Saucers](https://open.spotify.com/track/6vRq5rh1qGnRLyTTEbtFRh) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 4:48 | 2022-09-08 |  |
 | [Big Fat Alice's Blues](https://open.spotify.com/track/5p0hnipiGSOZkBSpFCeTkJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:56 | 2022-09-08 |  |
-| [Blood Count](https://open.spotify.com/track/0kX3qTP8uPVAxXV2oqOg1g) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 7:19 | 2024-09-15 |  |
+| [Blood Count](https://open.spotify.com/track/2FN3icajFPjlWRlhSqe37u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 | 2024-10-17 |  |
+| [Blood Count](https://open.spotify.com/track/0kX3qTP8uPVAxXV2oqOg1g) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 7:19 | 2024-09-15 | 2024-10-18 |
 | [Blossom](https://open.spotify.com/track/6lz6Jryza3yur1ryPt0Xw3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:29 | 2022-09-08 |  |
 | [Blue Heart](https://open.spotify.com/track/7qUp2TX0RDdOTqamY0IauJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:38 | 2022-09-08 |  |
 | [Blue House](https://open.spotify.com/track/7pDvQGCUCIuUj9H4dxzQ1q) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 4:20 | 2022-09-08 |  |
@@ -37,6 +38,7 @@
 | [Carribee Joe](https://open.spotify.com/track/4INUy71Qk3A6dOC54tZ8lv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:58 | 2022-09-08 |  |
 | [Cashmere Cutie](https://open.spotify.com/track/0ERpyYWqiHtWNQKHWOWKIn) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:16 | 2022-09-08 |  |
 | [Chalmeau](https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD) | [Harry Carney](https://open.spotify.com/artist/28fgw4cYFSCSciUyDqnbXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Music For Loving](https://open.spotify.com/album/1feZuoiJrSbos4LfhUIZF0) | 3:38 | 2022-09-08 |  |
+| [Charpoy](https://open.spotify.com/track/4lZsHmKzHztc3Q4uTkHqTZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:07 | 2024-10-17 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 | 2022-09-08 | 2023-09-26 |
 | [Circle \- Exodus Album Version](https://open.spotify.com/track/4JZ9Pc0QK921qM5g5Aexeg) | [Plus One](https://open.spotify.com/artist/5TMRulP603VraQhrFUUKnR) | [Exodus](https://open.spotify.com/album/156VxyrWt0Y50ypQYm8HCd) | 3:26 | 2022-09-08 |  |
 | [Circle of Fourths](https://open.spotify.com/track/3gYdEuSW3WulxmjkJoCnXK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 1:44 | 2022-09-08 |  |

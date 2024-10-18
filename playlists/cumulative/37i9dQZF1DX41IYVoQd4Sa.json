@@ -123,6 +123,24 @@
     },
     {
       "album": {
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/52incfSBJrQkGGmZpYAnBU"
+      },
+      "artists": [
+        {
+          "name": "Dekel",
+          "url": "https://open.spotify.com/artist/5gxM8dhLvPicBCFCjsI4gx"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/4nwYbjn238n47DPCzmUReh"
+    },
+    {
+      "album": {
         "name": "Water on Water",
         "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
@@ -461,6 +479,28 @@
     },
     {
       "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/0BSoCHrlcG0P6n9tRHOFdz"
+      },
+      "artists": [
+        {
+          "name": "Ziv Moran",
+          "url": "https://open.spotify.com/artist/2rbMHBakqM1TudxGhkyv9q"
+        },
+        {
+          "name": "Alma Zohar",
+          "url": "https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200958,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/7hOQIADSK0zU0FEuZJUoi7"
+    },
+    {
+      "album": {
         "name": "PC People (feat. ROUSSO)",
         "url": "https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc"
       },
@@ -574,7 +614,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
@@ -614,6 +654,24 @@
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "album": {
+        "name": "warawara",
+        "url": "https://open.spotify.com/album/5aWXvqxQ0LLRXeGfsvZU55"
+      },
+      "artists": [
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113320,
+      "name": "warawara",
+      "url": "https://open.spotify.com/track/3uLbLFMk7VeOwVdv8J6Y1I"
     },
     {
       "album": {
@@ -2328,7 +2386,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"

@@ -4,7 +4,7 @@
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-104 songs - 5 hr 28 min
+106 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/10W6cSzVxb5Pn17y2Ll90Z) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:35 | 2021-11-19 |  |
 | [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/4a60fGnWygEx4njLHZK4n8) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN) | 2:35 | 2022-02-07 | 2024-04-19 |
 | [Last Wish](https://open.spotify.com/track/0VtanrAoaETJZIbjs0774r) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Last Wish](https://open.spotify.com/album/3qVv7p85Mh5TAkl78VsSFw) | 2:28 | 2021-11-19 |  |
+| [Le Lac \- FloFilz Reprise](https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Le Lac](https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu) | 2:14 | 2024-10-18 |  |
 | [Leave It That Way](https://open.spotify.com/track/0n99I1623b6nC4dBfpEljZ) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Shooter On](https://open.spotify.com/album/0BRRMCcCM2UjEUt0jUPTfQ) | 3:32 | 2021-11-19 |  |
 | [Little Biggie](https://open.spotify.com/track/7nUPCYLMcE8ZLvEnqW5QfO) | [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Little Biggie](https://open.spotify.com/album/1OdSvRcnEDHilSS5u7TPD9) | 2:08 | 2021-11-19 |  |
 | [Mah God](https://open.spotify.com/track/4rqpIQZoXj5SUnyD7uVvGS) | [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Ding Dong 2](https://open.spotify.com/album/1HxbGP39aILkb23ue7kA9C) | 3:04 | 2021-11-19 |  |
@@ -87,6 +88,7 @@
 | [On the Move](https://open.spotify.com/track/54T4IsMdTKSQLdYG17DRPx) | [JustRuss Beats](https://open.spotify.com/artist/2T6laBFc8RbTFPy5XnStZU) | [On the Move](https://open.spotify.com/album/6tj1SvmeltaHazOAyDBelm) | 2:34 | 2021-11-19 |  |
 | [Paco](https://open.spotify.com/track/3a2nLz2jfjxf5Wj9hOekPJ) | [Majk Jutbo](https://open.spotify.com/artist/3RKi74FYzVb4nyAzheLiUv) | [Paco](https://open.spotify.com/album/1GfyzbJ3IFAHUcAlc2aftg) | 2:19 | 2022-02-07 | 2024-04-19 |
 | [Paco](https://open.spotify.com/track/4voV4NPAtNDEGAVdUbQ32g) | [Majk Jutbo](https://open.spotify.com/artist/3RKi74FYzVb4nyAzheLiUv) | [Paco](https://open.spotify.com/album/4lvN7X2GR3826mqru4Fj93) | 2:19 | 2021-11-19 |  |
+| [Party & Bullshit](https://open.spotify.com/track/2PjBbQAAA5iYpK1pa3pr6s) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg) | [Party & Bullshit](https://open.spotify.com/album/3j9haaFUq0vmUI7t7bwDuD) | 2:16 | 2024-10-18 |  |
 | [Rasgo \(Valles\-T Vs Chang\)](https://open.spotify.com/track/2paSRFDPmbz7zR6pI3tFbA) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [AlcaZone](https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW) | [Alcazone Beats 2019](https://open.spotify.com/album/4AXZOhiaetKRwQEPLQtZrh) | 3:32 | 2021-11-19 | 2024-03-09 |
 | [Reel](https://open.spotify.com/track/5P1yvxHczMSnDDzxqDWipt) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Limit Cliffs, Yah: Build It Up](https://open.spotify.com/album/1OUXsPRbiY5kDjY42RU6gm) | 2:48 | 2021-11-19 |  |
 | [Ride One](https://open.spotify.com/track/0D0ok8ZMKVNl3URWx0myWb) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Rich Coast](https://open.spotify.com/album/3MpXQhHOAJC6oug9XlEyQS) | 3:46 | 2021-11-19 |  |

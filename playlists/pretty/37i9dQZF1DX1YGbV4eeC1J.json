@@ -1,15 +1,15 @@
 {
-  "description": "What is your love language? Say it in Swahili.  Cover: Phina",
-  "num_followers": 25841,
+  "description": "What is your love language? Say it in Swahili.  Cover: Otile Brown",
+  "num_followers": 25852,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhqRAAAAACag8nRcJtEzkzPJzseMu0V",
+  "snapshot_id": "ZxGkxAAAAAC+QWFVmiCjeS/NZmUuId5A",
   "tracks": [
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Utaniua",
         "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Baridi",
         "url": "https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Mahaba",
         "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Ova",
         "url": "https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J"
@@ -73,23 +73,27 @@
       "url": "https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
-        "name": "Natamba Nae",
-        "url": "https://open.spotify.com/album/6BvjRDF1KPbgXWJvNY3iaI"
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng"
       },
       "artists": [
         {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+          "name": "Barakah The Prince",
+          "url": "https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL"
+        },
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Natamba Nae",
-      "url": "https://open.spotify.com/track/5plP08rSnbrT8deupxla78"
+      "duration_ms": 219574,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
@@ -109,7 +113,23 @@
       "url": "https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
+      "album": {
+        "name": "Natamba Nae",
+        "url": "https://open.spotify.com/album/6BvjRDF1KPbgXWJvNY3iaI"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Natamba Nae",
+      "url": "https://open.spotify.com/track/5plP08rSnbrT8deupxla78"
+    },
+    {
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo"
@@ -125,7 +145,27 @@
       "url": "https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
+      "album": {
+        "name": "Mazoea",
+        "url": "https://open.spotify.com/album/2LF6l6r1OaEoPRbzYLhshL"
+      },
+      "artists": [
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Mazoea",
+      "url": "https://open.spotify.com/track/7GvUgSu32aNICCupZqUxnP"
+    },
+    {
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Nitadumu Nae",
         "url": "https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02"
@@ -145,7 +185,43 @@
       "url": "https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
+      "album": {
+        "name": "Lonely (feat. Nandy)",
+        "url": "https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "duration_ms": 211067,
+      "name": "Lonely (feat. Nandy)",
+      "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
+    },
+    {
+      "added_at": "2024-10-17 23:59:00",
+      "album": {
+        "name": "Utaniua",
+        "url": "https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo"
+      },
+      "artists": [
+        {
+          "name": "Christian Bella",
+          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Utaniua",
+      "url": "https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP"
+    },
+    {
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
         "url": "https://open.spotify.com/album/52cracIwbALowujVVS3onE"
@@ -169,63 +245,7 @@
       "url": "https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
-      "album": {
-        "name": "Lonely (feat. Nandy)",
-        "url": "https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI"
-      },
-      "artists": [
-        {
-          "name": "Yammi",
-          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
-        },
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        }
-      ],
-      "duration_ms": 211067,
-      "name": "Lonely (feat. Nandy)",
-      "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
-    },
-    {
-      "added_at": "2024-10-10 23:59:00",
-      "album": {
-        "name": "Utaniua",
-        "url": "https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo"
-      },
-      "artists": [
-        {
-          "name": "Christian Bella",
-          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Utaniua",
-      "url": "https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP"
-    },
-    {
-      "added_at": "2024-10-10 23:59:00",
-      "album": {
-        "name": "Yule (Remix)",
-        "url": "https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e"
-      },
-      "artists": [
-        {
-          "name": "Ay Masta",
-          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Yule - Remix",
-      "url": "https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG"
-    },
-    {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Queen of the East",
         "url": "https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN"
@@ -245,7 +265,7 @@
       "url": "https://open.spotify.com/track/13R4oID4F5Cpq9Bte0tSdn"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Cherie",
         "url": "https://open.spotify.com/album/54PSZbN5VAD9a6nA7KxJyY"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "You Better Go",
         "url": "https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Ololo",
         "url": "https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "THE MOTIONS",
         "url": "https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq"
@@ -309,7 +329,27 @@
       "url": "https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
+      "album": {
+        "name": "Yule (Remix)",
+        "url": "https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e"
+      },
+      "artists": [
+        {
+          "name": "Ay Masta",
+          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Yule - Remix",
+      "url": "https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG"
+    },
+    {
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Kipofu (feat. Alikiba)",
         "url": "https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6"
@@ -329,7 +369,7 @@
       "url": "https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "The Black Queen",
         "url": "https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Ex Mpya",
         "url": "https://open.spotify.com/album/5DnaaqL5KQqcJR3H6hR7Gn"
@@ -361,7 +401,7 @@
       "url": "https://open.spotify.com/track/0ZleYBcgetkVk2LMiLAIaE"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Nimekoma",
         "url": "https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM"
@@ -377,7 +417,7 @@
       "url": "https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Nibusu (feat. Yammi & Mbosso)",
         "url": "https://open.spotify.com/album/45cqgSwHq5eKZJzRFaE0m8"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Tina",
         "url": "https://open.spotify.com/album/0PenAHs174BfKImPfisGti"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Rafiki",
         "url": "https://open.spotify.com/album/19iYWFjjmHxMlhJZJlGhdj"
@@ -433,7 +473,7 @@
       "url": "https://open.spotify.com/track/1zO5X1JsGxihdhwdp3mG6X"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/18tAdLw8uME5BDHtEtipBd"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Pambe Tu",
         "url": "https://open.spotify.com/album/3By27Rll9J132bK0qKxObI"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "2025",
         "url": "https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi"
@@ -485,35 +525,7 @@
       "url": "https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4X2KerKCdtjZbhVHNYIGty"
-      },
-      "artists": [
-        {
-          "name": "Ay Masta",
-          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
-        },
-        {
-          "name": "Taz",
-          "url": "https://open.spotify.com/artist/6bzZpgvlwwhSRV6nbsKrXa"
-        },
-        {
-          "name": "Joh Makini",
-          "url": "https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0"
-        },
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4eXsImZyEfPFOp5SC2uW8A"
-    },
-    {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW"
@@ -533,7 +545,7 @@
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Nibusu (feat. Yammi)",
         "url": "https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV"
@@ -553,7 +565,7 @@
       "url": "https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Mi Nawe",
         "url": "https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2"
@@ -569,7 +581,7 @@
       "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Zawadi (feat. Dadiposlim)",
         "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
@@ -589,7 +601,7 @@
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
@@ -605,7 +617,7 @@
       "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Double Treble",
         "url": "https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ"
@@ -621,7 +633,7 @@
       "url": "https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Katerina",
         "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
@@ -637,7 +649,7 @@
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
@@ -653,7 +665,7 @@
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
@@ -669,7 +681,7 @@
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Jeraha",
         "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
@@ -689,7 +701,7 @@
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Nisiulizwe",
         "url": "https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv"
@@ -705,7 +717,7 @@
       "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
@@ -725,7 +737,7 @@
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Romeo (feat. Zuchu)",
         "url": "https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP"
@@ -745,7 +757,7 @@
       "url": "https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "I Am the President",
         "url": "https://open.spotify.com/album/47HdTlyOykb4gzsXQlqEor"
@@ -761,7 +773,7 @@
       "url": "https://open.spotify.com/track/6UsnEVoABSeJJcXM0KiFYt"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5"
@@ -777,23 +789,7 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
-      "album": {
-        "name": "Nitaubeba",
-        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Nitaubeba",
-      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
-    },
-    {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Mali Safi",
         "url": "https://open.spotify.com/album/7fotVPs9r5uBiCmpzidB76"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/275GPFzAqqi5hEZWTvdmPU"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Water & Wine",
         "url": "https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC"
@@ -837,23 +833,7 @@
       "url": "https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
-      "album": {
-        "name": "Unanifaa",
-        "url": "https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW"
-      },
-      "artists": [
-        {
-          "name": "Killy Tz",
-          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
-        }
-      ],
-      "duration_ms": 198761,
-      "name": "Unanifaa",
-      "url": "https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t"
-    },
-    {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Number one",
         "url": "https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5"
@@ -873,7 +853,7 @@
       "url": "https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Mar Gaya",
         "url": "https://open.spotify.com/album/6T4f3NNgFGBCaH3FNTGYgM"
@@ -889,7 +869,7 @@
       "url": "https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb"
     },
     {
-      "added_at": "2024-10-10 23:59:00",
+      "added_at": "2024-10-17 23:59:00",
       "album": {
         "name": "Zoba",
         "url": "https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh"

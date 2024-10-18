@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: CLARA",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Ghali",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189910,
       "name": "Festa",
       "url": "https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Ho paura di tutto",
+        "url": "https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8"
+      },
+      "artists": [
+        {
+          "name": "SANTI FRANCESI",
+          "url": "https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198241,
+      "name": "Ho paura di tutto",
+      "url": "https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo"
+    },
+    {
+      "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
       },
@@ -662,6 +680,24 @@
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
+    },
+    {
+      "album": {
+        "name": "il filo rosso",
+        "url": "https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187403,
+      "name": "il filo rosso",
+      "url": "https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7"
     },
     {
       "album": {
@@ -728,7 +764,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190107,
       "name": "Immagina (feat. Tredici Pietro, Francesca Michielin & Mecna)",
       "url": "https://open.spotify.com/track/61JX1tmCPidoTJiKqieFb5"
@@ -830,7 +866,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 222750,
       "name": "La ghigliottina",
       "url": "https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp"
@@ -1127,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "MMH (feat. Rose Villain)",
+        "url": "https://open.spotify.com/album/5JUg1RbqXhroV8e4nfxSMy"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187454,
+      "name": "MMH (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/49mN8ph1LK58r7TMYW1Srb"
+    },
+    {
+      "album": {
         "name": "Molto amore",
         "url": "https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK"
       },
@@ -1196,6 +1254,24 @@
       "duration_ms": 184228,
       "name": "NERO GOTICO",
       "url": "https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs"
+    },
+    {
+      "album": {
+        "name": "NIENTE DI MALE",
+        "url": "https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "NIENTE DI MALE",
+      "url": "https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt"
     },
     {
       "album": {
@@ -1465,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "CALMOCOBRA",
+        "url": "https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195245,
+      "name": "PUNK LOVE STORIA",
+      "url": "https://open.spotify.com/track/76axnsywKEligswiOVYW2M"
+    },
+    {
+      "album": {
         "name": "pupille",
         "url": "https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt"
       },
@@ -1476,7 +1570,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 169328,
       "name": "pupille",
       "url": "https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3"
@@ -1570,7 +1664,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 151800,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"

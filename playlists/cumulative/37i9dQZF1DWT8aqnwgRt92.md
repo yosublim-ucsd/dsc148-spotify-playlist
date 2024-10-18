@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,614 songs - 4 day 4 hr 50 min
+1,616 songs - 4 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 | 2024-01-19 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-05-28 | 2022-07-06 |
 | [buddy](https://open.spotify.com/track/0LHtfCDgLj6iaTLVWg7dnl) | [Amber’s](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [buddy](https://open.spotify.com/album/4fpXr9KaCTMvBiBt7OyGHw) | 4:05 | 2023-01-05 | 2023-03-04 |
-| [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-03 |  |
+| [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-03 | 2024-10-18 |
 | [C'est la vie drive](https://open.spotify.com/track/49LyBdc6vYTuUhjaqon1MH) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [LIVE IT NOW](https://open.spotify.com/album/2XaxTGukcDL6bjiNQmR5aO) | 3:24 | 2024-06-12 | 2024-07-06 |
 | [call your name](https://open.spotify.com/track/1snkssvlrMIAtqv4ADS4IL) | [katagiri](https://open.spotify.com/artist/0ncQh2zi1V4dWyYO1XdQKn) | [call your name](https://open.spotify.com/album/4LrgyIbZINIY1WXXU1LeNU) | 4:01 | 2023-07-11 | 2023-07-13 |
 | [Call Your Name](https://open.spotify.com/track/3pRl5QoiepOfraAbXTRvkN) | [Katagiri](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS) | [Call Your Name](https://open.spotify.com/album/3p7SxKPzfrVf5ipQyhZpDH) | 4:01 | 2023-07-11 | 2023-08-23 |
@@ -1202,6 +1202,7 @@
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-05-28 | 2022-07-08 |
 | [ビボウロク](https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ビボウロク](https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA) | 3:25 | 2022-07-12 | 2022-09-15 |
 | [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-09 | 2022-08-17 |
+| [ピッカーン！](https://open.spotify.com/track/1QidgC1vyuG6053IY5S4UG) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto), [松田里奈](https://open.spotify.com/artist/6G9h9p39TzvYDbzhxlrrog), [森田ひかる](https://open.spotify.com/artist/3y1DM5BpZqr9CW49VYAeMb) | [ピッカーン！](https://open.spotify.com/album/2e722N2XGcKUu87PYQdbIX) | 2:46 | 2024-10-17 |  |
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2022-12-27 | 2022-12-29 |
 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-07-03 |  |
 | [ファンタジック・パートナー](https://open.spotify.com/track/1prl1AtKjdOofWAwjL4usH) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ファンタジック・パートナー](https://open.spotify.com/album/7iaa4HGI4wfMl5Rvp8TtmN) | 4:16 | 2023-01-17 | 2023-02-22 |
@@ -1312,7 +1313,7 @@
 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-23 | 2023-09-27 |
 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 | 2023-12-30 |
 | [克己心](https://open.spotify.com/track/6yFMWYm58u166jylc5T1vZ) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [克己心](https://open.spotify.com/album/0Wlqk9zfvANGyN3ipKKe9F) | 3:06 | 2023-09-26 | 2023-09-28 |
-| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
+| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 | 2024-10-18 |
 | [共感されなくてもいいじゃない](https://open.spotify.com/track/1WiNgf25GMxurtnGFYRe6F) | [高橋李依](https://open.spotify.com/artist/12iQR4yHrznblXyarjpvoh) | [共感されなくてもいいじゃない](https://open.spotify.com/album/25Ff7KFRmdA2WmvfErCfpx) | 3:53 | 2022-10-06 | 2022-10-08 |
 | [再会](https://open.spotify.com/track/10ACXnQKEBvb8Tgzl3DmZd) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [再会](https://open.spotify.com/album/1bJD2yH4SsmowfbYhfo9tL) | 4:12 | 2022-12-20 | 2023-01-18 |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-05-28 | 2022-07-13 |
@@ -1484,6 +1485,7 @@
 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 | 2022-10-26 |
 | [消えるまで](https://open.spotify.com/track/39v0hXWTXExgku2HrkBhJX) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/5KfRRpVhvrtESciHQy4gWo) | 3:25 | 2023-10-07 | 2024-01-07 |
 | [淋しい熱帯魚](https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj) | 4:26 | 2023-05-09 | 2023-07-05 |
+| [淡く微か](https://open.spotify.com/track/2OUnNkuS59ssxA7eS3bBaA) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [淡く微か](https://open.spotify.com/album/1qS1QPOmFqm9goorWoVSuz) | 3:17 | 2024-10-17 |  |
 | [灯火](https://open.spotify.com/track/3lcBFczHT6GgHtCTIcO4h6) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [灯火](https://open.spotify.com/album/2nlvi70ynicKcQZlVjNwOC) | 4:19 | 2023-07-11 | 2023-08-02 |
 | [灰ト祈リ](https://open.spotify.com/track/2YDcTSeBYrfKwHt1ABMVYH) | [GEMS COMPANY](https://open.spotify.com/artist/6XnWrx5hdp7NtFzHQ1SbZ9) | [灰ト祈リ](https://open.spotify.com/album/24iWQBAAvREhJeSxw07mox) | 4:37 | 2024-07-05 | 2024-10-04 |
 | [点と線](https://open.spotify.com/track/6Ay2JS645i4rwRGMPirynZ) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [点と線 \(TVアニメ「星屑テレパス」オープニング・テーマ\)](https://open.spotify.com/album/6nUCj1ED7bZLocuAwsUuWI) | 4:45 | 2023-10-10 | 2023-10-25 |

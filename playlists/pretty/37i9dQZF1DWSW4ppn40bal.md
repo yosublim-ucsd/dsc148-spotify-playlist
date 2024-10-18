@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,180 likes - 356 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,204 likes - 356 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,7 +270,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 260 | [Brown Waves Deep](https://open.spotify.com/track/6rplR7Geu3z8F2aqbe8ytD) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Brown Collection Part 3](https://open.spotify.com/album/51HlZRPzaEuyvugOBGQ337) | 3:05 |
 | 261 | [Brown Noise Bliss](https://open.spotify.com/track/5kIF95v6YpJ9E0zw8RjFkD) | [Marronicity](https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI) | [Shades Of Brown](https://open.spotify.com/album/5uRuMEZqivuCsfCY7GOZMM) | 2:52 |
 | 262 | [Brown Noise for a Better Sleep](https://open.spotify.com/track/1YQGoYjVe5MInsnmUnclFD) | [Audio Receptors](https://open.spotify.com/artist/1nG7LQZv00osMyTjUAMxRm) | [Waterfall Brown Noise](https://open.spotify.com/album/3cF28iQrmlV3a0CGk9neK3) | 2:24 |
-| 263 | [300 Hz Brown Noise](https://open.spotify.com/track/1vd0lL7y6ALu8bWPNfXhMQ) | [Zen Minds](https://open.spotify.com/artist/7ebgqohp81s0bZ3oWiTu9R) | [Brown Zen Noise](https://open.spotify.com/album/2tgF6LmkwmMcX7TfkE4kFl) | 2:46 |
+| 263 | [300 Hz Brown Noise](https://open.spotify.com/track/1vd0lL7y6ALu8bWPNfXhMQ) | [Zen Minds](https://open.spotify.com/artist/60Fm4GFdvEYvMM0uueCYtt) | [Brown Zen Noise](https://open.spotify.com/album/2tgF6LmkwmMcX7TfkE4kFl) | 2:46 |
 | 264 | [Brown Mellow Noise 360 Hz Light Q \- Seamless](https://open.spotify.com/track/3igT2HOsfVZgYTsTObLbxZ) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 3:00 |
 | 265 | [Dream Machine](https://open.spotify.com/track/4QlqE1sO6rXsIR9AZOlawN) | [Galaxial](https://open.spotify.com/artist/4BniOFwcRpQCq7MjHB62lg) | [Dark Noise](https://open.spotify.com/album/2lpg0TQOdO6GGRX1UxQClj) | 3:34 |
 | 266 | [Peaceful Mind Noise](https://open.spotify.com/track/3Itfj9OAXvpTF8IVOFRMHW) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:18 |

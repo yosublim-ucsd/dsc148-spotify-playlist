@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-42 songs - 2 hr 34 min
+44 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,14 @@
 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 | 2023-04-02 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [Jeff Found A Genie](https://open.spotify.com/track/3FZ6EglonCHH9vBDuRiVyQ) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 2:26 | 2023-07-09 |  |
+| [Jesus! \(A Communist Disco\)](https://open.spotify.com/track/1qtd6TyvriZ2YPNSI71tZF) | [Micah Tewers](https://open.spotify.com/artist/4q76x3kCPsXh9PwmcvcG1V) | [Jesus! \(A Communist Disco\)](https://open.spotify.com/album/5BYKJu5Ns5719LEwCO0MVv) | 5:09 | 2024-10-17 |  |
 | [John Brown's Body](https://open.spotify.com/track/40kPi5XMLrlVONe2EE2y6a) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vols\. 1\-5 \(Box Set\)](https://open.spotify.com/album/0WyzonIUHozsiu3Zmf5BJq) | 3:01 | 2023-04-05 |  |
 | [Kiss Me, Son of God \- Alternate Version](https://open.spotify.com/track/2y7LfqHAlQjOiOATA2yh96) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Then: The Earlier Years](https://open.spotify.com/album/2NxD978NSpgrG9ME6p5Uj7) | 1:49 | 2023-03-26 |  |
 | [Lady, What Do You Do All Day?](https://open.spotify.com/track/3LTn81Zr4LWGBXFz9kUDpi) | [Peggy Seeger](https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU) | [Folkways Years, 1955\-1992: Songs of Love and Politics](https://open.spotify.com/album/3uDKUH0dPtS3Ii0CLB9Bw7) | 3:46 | 2024-09-16 |  |
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2024-09-19 |  |
 | [No Irish Need Apply](https://open.spotify.com/track/29QLU0cH9Ibwv12WRQMB9r) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [We’ve Only Just Begun: A Century of Labor Song](https://open.spotify.com/album/67h5o3Y9jnOGMk9kfaJnoG) | 2:10 | 2024-09-16 |  |
+| [One Big Gay Disco](https://open.spotify.com/track/5oO1Jhord8LXAuTLLRuZJJ) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [We're Not So Different](https://open.spotify.com/album/7HzNAPDOT70DUBT2nL2n9K) | 4:36 | 2024-10-17 |  |
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 | 2023-05-22 |  |
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2023-07-07 |  |
 | [Reaganomics](https://open.spotify.com/track/6ForyBso37QPHoEM06IDwK) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 3:31 | 2023-03-21 |  |

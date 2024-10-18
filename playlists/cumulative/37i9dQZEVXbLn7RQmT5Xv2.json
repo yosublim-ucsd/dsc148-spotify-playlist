@@ -15276,7 +15276,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 162580,
       "name": "\u0631\u0648\u0642\u0627\u0646",
       "url": "https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf"
@@ -16841,6 +16841,28 @@
     },
     {
       "album": {
+        "name": "\u0645\u0631\u062c\u0639\u0644\u064a\u0634",
+        "url": "https://open.spotify.com/album/1mvX2AFdwzkareU83ll5NK"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        },
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304367,
+      "name": "\u0645\u0631\u062c\u0639\u0644\u064a\u0634",
+      "url": "https://open.spotify.com/track/76qVLkjVBysfvhiNRBpY5d"
+    },
+    {
+      "album": {
         "name": "\u0645\u0631\u062d\u0628 \u0634\u0647\u0631 \u0627\u0644\u0635\u0648\u0645",
         "url": "https://open.spotify.com/album/2qwjTs4ZIBzIkxfc0ev3cE"
       },
@@ -17018,7 +17040,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 179118,
       "name": "\u0645\u0646 \u0641\u0636\u0644 \u0627\u0644\u0627\u062e\u0635\u0627\u0645 \u062e\u0641\u0648 \u0627\u0644\u062a\u062e\u0637\u064a\u0631 ( \u0627\u0646\u0627 \u0645\u0634 \u0639 \u0627\u0644\u062f\u0648\u0627\u0642 )",
       "url": "https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE"
@@ -17370,7 +17392,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 212688,
       "name": "\u0647\u0646\u0637 \u062c\u0627\u0645\u0628 \u0628\u0627\u0644\u0627\u0648\u0643\u0627\u0628\u064a",
       "url": "https://open.spotify.com/track/7kNyHl1MLu8p3jQmqRgFgQ"

@@ -2,7 +2,7 @@
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: Beth Hart
+> De mooiste liedjes van het moment\. Cover: Jana Mila
 
 516 songs - 1 day 5 hr 51 min
 

@@ -8036,7 +8036,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 132126,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6"
@@ -15889,6 +15889,24 @@
     },
     {
       "album": {
+        "name": "Ljuger f\u00f6r mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128657,
+      "name": "Ljuger f\u00f6r mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS"
+    },
+    {
+      "album": {
         "name": "Ljusen (feat. Joakim Berg & Opera: 1)",
         "url": "https://open.spotify.com/album/6crZwLY8uqxlDQ2evd9cL7"
       },
@@ -19652,6 +19670,24 @@
       "duration_ms": 174509,
       "name": "Old Love",
       "url": "https://open.spotify.com/track/2LHfTmsBdzIWGE3Cafqpvm"
+    },
+    {
+      "album": {
+        "name": "\u00c4lska mig en sista g\u00e5ng",
+        "url": "https://open.spotify.com/album/0AupobRdLVg89hbnGnFBRm"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Om & om",
+      "url": "https://open.spotify.com/track/6pWyrCOLubc9o2ONNif6K8"
     },
     {
       "album": {
@@ -29758,7 +29794,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"

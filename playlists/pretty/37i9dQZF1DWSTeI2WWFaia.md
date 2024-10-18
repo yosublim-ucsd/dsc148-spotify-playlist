@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,590,841 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590,818 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 32 | [Dope Sellers](https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Dope Sellers](https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb) | 3:16 |
 | 33 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
 | 34 | [Love Life](https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:56 |
-| 35 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 |
-| 36 | [Squeeze 1St 2](https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Squeeze 1St 2](https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2) | 3:51 |
-| 37 | [High Stakes](https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [High Stakes](https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq) | 2:25 |
+| 35 | [Squeeze 1St 2](https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Squeeze 1St 2](https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2) | 3:51 |
+| 36 | [High Stakes](https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [High Stakes](https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq) | 2:25 |
+| 37 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 |
 | 38 | [Boiler Room \(feat\. Benny The Butcher\)](https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Peerless](https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T) | 2:41 |
 | 39 | [Beverly Drive](https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Beverly Drive](https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac) | 4:08 |
 | 40 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 44 | [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 |
 | 45 | [I Didn't Go](https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 5:48 |
 | 46 | [plz don’t cut my wings \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 3:38 |
-| 47 | [87 Cutlass](https://open.spotify.com/track/6lGflWI0Ql5OBDT28M1oHU) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [87 Cutlass](https://open.spotify.com/album/47NGsYLUrcZubdvMbGohIA) | 4:32 |
+| 47 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
 | 48 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
-| 49 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
-| 50 | [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 |
+| 49 | [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 |
+| 50 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 |
 
 Snapshot ID: `ZwiiwAAAAADab4RRBs4VzxABbIHPruRA`

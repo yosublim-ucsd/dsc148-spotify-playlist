@@ -2526,10 +2526,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 152599,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht"
+    },
+    {
+      "album": {
+        "name": "What I Wanted",
+        "url": "https://open.spotify.com/album/0mQItA2D37eMe3ovkqEnKP"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152599,
+      "name": "What I Wanted",
+      "url": "https://open.spotify.com/track/5iqAtskcRzCVWBefPulu1d"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. CoCo in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Nicola Siciliano in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 192507,
       "name": "Forever Alone",
       "url": "https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl"
@@ -2954,6 +2954,36 @@
       "duration_ms": 111817,
       "name": "Jeep",
       "url": "https://open.spotify.com/track/2ZH8L9c8uH1nDV6ro7LKUP"
+    },
+    {
+      "album": {
+        "name": "JET PRIVATO (feat. Luch\u00e8)",
+        "url": "https://open.spotify.com/album/3BqSfkcTRosNZQ4LrJHQ48"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Dele",
+          "url": "https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "JET PRIVATO (feat. Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3aB5SuXdCdibhAFpjqrJ0c"
     },
     {
       "album": {
@@ -5146,7 +5176,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 121963,
       "name": "PACTO",
       "url": "https://open.spotify.com/track/1iYAxtlitQm6FNRH2HkIln"
@@ -5804,6 +5834,24 @@
       "duration_ms": 154402,
       "name": "PRIMMO AMMORE",
       "url": "https://open.spotify.com/track/0UuY3i8Ee0VZWDY5VJfKNw"
+    },
+    {
+      "album": {
+        "name": "PROVA VIVENTE",
+        "url": "https://open.spotify.com/album/3LtEbDNS4fQzu4NWYsl6tl"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126897,
+      "name": "PROVA VIVENTE",
+      "url": "https://open.spotify.com/track/5NnRhwXUVIc7EAxnJ9e7Hy"
     },
     {
       "album": {
@@ -7305,6 +7353,28 @@
     },
     {
       "album": {
+        "name": "Trafficant",
+        "url": "https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "Youngotti",
+          "url": "https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143611,
+      "name": "Trafficant",
+      "url": "https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp"
+    },
+    {
+      "album": {
         "name": "TRANSALP",
         "url": "https://open.spotify.com/album/1ZL6Wk21dWNHRoaqKALNxR"
       },
@@ -7620,6 +7690,24 @@
       "duration_ms": 126588,
       "name": "Uh Ah Ah",
       "url": "https://open.spotify.com/track/1JDIwqwmJZkMyekXsyjCHq"
+    },
+    {
+      "album": {
+        "name": "Umore",
+        "url": "https://open.spotify.com/album/61NwMFUVud9O77K0dWrkse"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174681,
+      "name": "Umore",
+      "url": "https://open.spotify.com/track/0jMQyLlQKwHoYKw2cAXbKs"
     },
     {
       "album": {
@@ -8050,7 +8138,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 181165,
       "name": "YOU",
       "url": "https://open.spotify.com/track/6hNhO6JOgTGeT3CWjPSiIm"

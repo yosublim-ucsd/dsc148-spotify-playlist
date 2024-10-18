@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 33580,
+  "num_followers": 33585,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw9tBQAAAABAE1qcE6qobwNAHLUfopBt",
+  "snapshot_id": "ZxEFrQAAAAAiBjSq09AivkLs9guITEWz",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -53,24 +53,24 @@
       "url": "https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo"
     },
     {
-      "added_at": "2024-10-10 12:42:35",
+      "added_at": "2024-10-17 12:40:13",
       "album": {
-        "name": "Naa Kannula Mungitlo",
-        "url": "https://open.spotify.com/album/2bMW2uDJtNrGiHVoWxZ7OA"
+        "name": "Palike Bangarama",
+        "url": "https://open.spotify.com/album/6uDgrSulYlHxXOCl0MT8xF"
       },
       "artists": [
         {
-          "name": "Yamini Gowribhatla",
-          "url": "https://open.spotify.com/artist/09eHXlBRFrtxi4kSKTnJUl"
+          "name": "Dinker kalvala",
+          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
         },
         {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+          "name": "Priyadarshan Balasubramanian",
+          "url": "https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH"
         }
       ],
-      "duration_ms": 265384,
-      "name": "Naa Kannula Mungitlo",
-      "url": "https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4"
+      "duration_ms": 237187,
+      "name": "Palike Bangarama",
+      "url": "https://open.spotify.com/track/3YpyoS5iuxNWf6HpAtoMKU"
     },
     {
       "added_at": "2024-10-16 07:36:37",
@@ -95,6 +95,26 @@
       "duration_ms": 184347,
       "name": "Style",
       "url": "https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs"
+    },
+    {
+      "added_at": "2024-10-10 12:42:35",
+      "album": {
+        "name": "Naa Kannula Mungitlo",
+        "url": "https://open.spotify.com/album/2bMW2uDJtNrGiHVoWxZ7OA"
+      },
+      "artists": [
+        {
+          "name": "Yamini Gowribhatla",
+          "url": "https://open.spotify.com/artist/09eHXlBRFrtxi4kSKTnJUl"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "duration_ms": 265384,
+      "name": "Naa Kannula Mungitlo",
+      "url": "https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4"
     },
     {
       "added_at": "2024-10-07 13:05:03",

@@ -2,7 +2,7 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This Is Lou Rawls\. Los temas esenciales, todos en una lista.
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
 114 songs - 7 hr 13 min
 

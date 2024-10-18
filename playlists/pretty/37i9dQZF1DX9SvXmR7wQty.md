@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,218 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,225 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 7 | [Première chance](https://open.spotify.com/track/4zsHoz1M4qD4XK3YwzWbNI) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Un coin sombre pour danser](https://open.spotify.com/album/4OStFEVnCdXkjjKZQaro2l) | 2:44 |
 | 8 | [911](https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [911](https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv) | 4:21 |
 | 9 | [Pickup](https://open.spotify.com/track/6KG4QjMExxShMAlozINvae) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Pickup](https://open.spotify.com/album/17SQM0VornpdLSuuc4FgEY) | 2:14 |
-| 10 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 |
+| 10 | [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 |
 | 11 | [Descente aux enfers](https://open.spotify.com/track/1tFBUTJkx8rPa8baeObKQG) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [Phénix](https://open.spotify.com/album/5r0WDq2OcLMz4zDa5cV4hs) | 3:04 |
 | 12 | [PONA NINI](https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:06 |
 | 13 | [Parapluie](https://open.spotify.com/track/3q8fHuRJy1St1p7098jLSn) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI), [Chanceko](https://open.spotify.com/artist/0rIcS71BzqNgTQl8yjiprz) | [Émotionnellement indisponible](https://open.spotify.com/album/3Nt5rqYSqTpde5H3ONdO8t) | 2:13 |
-| 14 | [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 |
+| 14 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 |
 | 15 | [TIK TAK](https://open.spotify.com/track/0IkvITCUa64UM1YrB6msU3) | [Tali\-B](https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT) | [TIK TAK](https://open.spotify.com/album/6anLNLmJcfC28huG3aTmb6) | 2:09 |
 | 16 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 |
 | 17 | [Pied de poule](https://open.spotify.com/track/3cf8vWYBDE2qZO4C5yssUk) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [BONJOUR \(BIS\)](https://open.spotify.com/album/5Snsg0R4yKgTOc5dS7piYZ) | 4:26 |

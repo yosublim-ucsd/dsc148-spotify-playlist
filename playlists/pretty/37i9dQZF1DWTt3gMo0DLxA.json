@@ -1,6 +1,6 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 187573,
+  "num_followers": 188499,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
@@ -118,6 +118,10 @@
         {
           "name": "Vishal Dadlani",
           "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Sanapati Bharadwaj Patrudu",
+          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
         }
       ],
       "duration_ms": 250761,

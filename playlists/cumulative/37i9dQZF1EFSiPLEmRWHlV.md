@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 7 hr 23 min
+128 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2024-06-13 |  |
 | [Mixed Emotions](https://open.spotify.com/track/4kVpdy4mnZ8FLPw0hGV8hk) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:44 | 2024-06-13 |  |
 | [Mountain Song](https://open.spotify.com/track/1H9OoezsLOH6tCCPQIMvmR) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Auras](https://open.spotify.com/album/6L9xMiwvTGzes1STTQ6VqD) | 4:44 | 2024-06-13 |  |
-| [Need Somebody](https://open.spotify.com/track/2lAKCOAltfHzrnWDCMfQ7r) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:52 | 2024-06-13 |  |
+| [Need Somebody](https://open.spotify.com/track/11GpZntix44GCa1ELQREj8) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2R0ef8WJZD7XOIf6QXln98) | 2:52 | 2024-10-17 |  |
+| [Need Somebody](https://open.spotify.com/track/2lAKCOAltfHzrnWDCMfQ7r) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:52 | 2024-06-13 | 2024-10-18 |
 | [Need You Now](https://open.spotify.com/track/3xSJRO7U763TI1dzGH8ixZ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Need You Now](https://open.spotify.com/album/1aBZkuy9Rv9k6fxKiAqzCb) | 2:40 | 2024-06-13 |  |
 | [Never Let You Go](https://open.spotify.com/track/5yQzLPrsfpPW4OjlacvJgF) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Never Let You Go](https://open.spotify.com/album/0OtpU10W9Ce2winkVNcoTh) | 4:14 | 2024-06-13 |  |
 | [NGFM](https://open.spotify.com/track/64vuzGjFknp6dpA7hiUFvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [NGFM](https://open.spotify.com/album/4ZPv83UmqVfQHY0NgFbwli) | 3:43 | 2024-06-13 |  |

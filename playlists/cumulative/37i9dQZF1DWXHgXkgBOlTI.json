@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 245093,
       "name": "Acceleration",
       "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
@@ -1348,6 +1348,24 @@
       "duration_ms": 205480,
       "name": "Slow Motion Town",
       "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+    },
+    {
+      "album": {
+        "name": "Defying",
+        "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
+      },
+      "artists": [
+        {
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
+        }
+      ],
+      "date_added": "2024-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Sol Levante",
+      "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
     },
     {
       "album": {

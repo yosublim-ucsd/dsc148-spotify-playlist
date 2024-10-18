@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-494 songs - 1 day 4 hr 25 min
+496 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Fake Friends](https://open.spotify.com/track/3OnCuJmMGAGCu59ixJnMFK) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Fake Friends](https://open.spotify.com/album/3uQBucC9DeP7iqCGKNJ1sk) | 2:54 | 2024-01-29 |  |
 | [fake love don't last \(feat\. iann dior\)](https://open.spotify.com/track/4UHyrGQCHu0Orh2utUxbNY) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:23 | 2024-01-29 |  |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/63IC8gaszSBCasV9THojiT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:28 | 2024-01-29 |  |
+| [Fall](https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Fall](https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu) | 3:37 | 2024-10-17 |  |
 | [Falling](https://open.spotify.com/track/5i0g98UudqymFhmcBfCs9I) | [Josh Hoge](https://open.spotify.com/artist/3xlxlp5Pzc1JYmyUPS79VC) | [This Holiday](https://open.spotify.com/album/3SYNzzNRhQBNQgtfIopiyH) | 2:12 | 2024-01-29 |  |
 | [Favorite Song](https://open.spotify.com/track/5QmWwEZY23peUBTVC8bIYA) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:45 | 2024-01-29 |  |
 | [Favourite Scar](https://open.spotify.com/track/68gjvd3jdbJa4ByEpd5mt6) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:36 | 2024-01-29 |  |
@@ -462,6 +463,7 @@
 | [Waking Up](https://open.spotify.com/track/1GQO5U0Sx74BUoH1faCUWC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 6:07 | 2024-01-29 |  |
 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 | 2024-01-29 |  |
 | [Wanted](https://open.spotify.com/track/3fT6xqEkC1jm4mHjOyXbKw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:16 | 2024-01-29 |  |
+| [Wanted](https://open.spotify.com/track/1qUwV6QCa06WyvH89eeCW5) | [Rise Up Children's Choir](https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy) | [Wanted](https://open.spotify.com/album/7mzYY4dNHM6exwuUhHBRZZ) | 2:29 | 2024-10-17 |  |
 | [We Got Us \(From "Songland"\)](https://open.spotify.com/track/0atHkREVqo4abF3jq0Zpi6) | [Brandin Jay](https://open.spotify.com/artist/6DDkY2dyl6CxbDK9h4nkVf) | [We Got Us \(From "Songland"\)](https://open.spotify.com/album/574gbvmiQQtysH6vU4CUiA) | 3:28 | 2024-01-29 |  |
 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 | 2024-01-29 |  |
 | [We Remain \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0G3iJ1r5SSv7nUBNCgBmwF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [We Remain \(From "The Hunger Games: Catching Fire" Soundtrack\)](https://open.spotify.com/album/1eV7Ibmg1o9TVRfOB71l6f) | 4:00 | 2024-01-29 |  |

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAE2S7sxwTpOJhwCzgI/GlQo8KphND",
+  "snapshot_id": "AAAAFF0Rjk2aiNL+xqhU1lTurRIrrSYI",
   "tracks": [
     {
       "added_at": "2024-01-02 09:29:56",
@@ -263,6 +263,26 @@
       "duration_ms": 204370,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
+    },
+    {
+      "added_at": "2024-10-17 04:38:48",
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO"
     }
   ],
   "unique_name": "Queerly Beloved",

@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Enanitos Verdes. Los temas esenciales, todos en una lista.",
-  "num_followers": 193302,
+  "num_followers": 193337,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAADpd0OFrr70GA74Ylh7uEVh",
+  "snapshot_id": "Zw8CAAAAAABwaj983DXCzXmpd1eAW4pN",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+        "name": "Habia Una Vez",
+        "url": "https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Dale Pascual",
-      "url": "https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp"
+      "duration_ms": 179066,
+      "name": "Buscando la Manera",
+      "url": "https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4"
     },
     {
       "added_at": null,
@@ -504,15 +504,15 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 271640,
-      "name": "Solo Dame Otra Oportunidad",
-      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
+      "duration_ms": 150106,
+      "name": "Simulacro de Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Habia Una Vez",
-        "url": "https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C"
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Buscando la Manera",
-      "url": "https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4"
+      "duration_ms": 194866,
+      "name": "Dale Pascual",
+      "url": "https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 150106,
-      "name": "Simulacro de Tensi\u00f3n",
-      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
+      "duration_ms": 271640,
+      "name": "Solo Dame Otra Oportunidad",
+      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
     },
     {
       "added_at": null,

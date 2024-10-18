@@ -367,6 +367,32 @@
     },
     {
       "album": {
+        "name": "E Seun O",
+        "url": "https://open.spotify.com/album/2pHqdmgXUAWwduRb0mLLtj"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel Okesola",
+          "url": "https://open.spotify.com/artist/1UVWelRHKzIEOm4n6jhTcU"
+        },
+        {
+          "name": "Olayinka Darasimi",
+          "url": "https://open.spotify.com/artist/7sC9n52n6KNXEjwVkbNzhK"
+        },
+        {
+          "name": "Magdalene Whowha",
+          "url": "https://open.spotify.com/artist/2t0gHmJnDX2gD9NbOm0YBb"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "E Seun O",
+      "url": "https://open.spotify.com/track/51HmiQqyR8YbeOGlIrg1Fz"
+    },
+    {
+      "album": {
         "name": "Ebezina (Remix)",
         "url": "https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd"
       },
@@ -678,7 +704,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 304927,
       "name": "Halle - Remix",
       "url": "https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH"
@@ -1458,7 +1484,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 502834,
       "name": "Reign",
       "url": "https://open.spotify.com/track/5Ihx5hpbXnuKyT2O2pmaxw"
@@ -1734,7 +1760,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 340632,
       "name": "Yabo da Sujada -a Worship Experience (Live)",
       "url": "https://open.spotify.com/track/0L7X9VDmvgtXVFuqO1lt7g"

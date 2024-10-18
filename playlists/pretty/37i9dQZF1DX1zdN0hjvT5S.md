@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zdN0hjvT5S.md) - [plain]
 
 > <a href="spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q">Ezekiel</a>'s track IDs\. Updated regularly\. Curated by Ezekiel\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,690 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,713 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zdN0hjvT5S.md) - [plain]
 | 38 | [from paris, with love](https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [drive\-by lullabies](https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05) | 3:02 |
 | 39 | [can you really blame me for how i react](https://open.spotify.com/track/5LWNeUDJYidxGHgVs9UWka) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [drive\-by lullabies](https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05) | 3:31 |
 | 40 | [NSFW](https://open.spotify.com/track/6On4YRm1kwBvPBYCzgMt6D) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ess B](https://open.spotify.com/album/4nUsz8m44CTCqj1nv8PxQB) | 2:26 |
-| 41 | [IF U SAY SO](https://open.spotify.com/track/3VkUyBzNBduw4X5LyerZqQ) | [NOLANBEROLLIN](https://open.spotify.com/artist/7tWGL5GVOJlbycpq3AgiU9) | [【﻿g\-tec club】](https://open.spotify.com/album/39gxjiLjcqRvxfAd6TiEWp) | 1:43 |
+| 41 | [IF U SAY SO](https://open.spotify.com/track/3VkUyBzNBduw4X5LyerZqQ) | [NOLANBEROLLIN](https://open.spotify.com/artist/7tWGL5GVOJlbycpq3AgiU9) | [【﻿ｇ－ｔｅｃ　ｃｌｕｂ】](https://open.spotify.com/album/39gxjiLjcqRvxfAd6TiEWp) | 1:43 |
 | 42 | [Madonna Rocket](https://open.spotify.com/track/15WUTQUL9L4d3tFHUg6McH) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dog Whistle](https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy) | 2:27 |
 | 43 | [Drought](https://open.spotify.com/track/22TQY9Uzlh6MuOc0EgzB0e) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dog Whistle](https://open.spotify.com/album/4osZNJ2yO18sYtqJIFvMFy) | 2:39 |
 | 44 | [On God](https://open.spotify.com/track/2SasoXZyv82yYgHiVOvxQn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 2:16 |

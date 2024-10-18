@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u67ef\u667a\u68e0 (Kowen Ko)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Hua Chen (\u9673\u83ef)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 246750,
       "name": "Dancing In the Rain - Wendy Wander Remake",
       "url": "https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T"
@@ -1072,10 +1072,32 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179586,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/5o6lyYNKQC0CL7gQhu78lb"
+    },
+    {
+      "album": {
+        "name": "Fear (Mong Tong Remix)",
+        "url": "https://open.spotify.com/album/3Gz3xyZhWUfIyvxNEFLu4g"
+      },
+      "artists": [
+        {
+          "name": "Lomboy",
+          "url": "https://open.spotify.com/artist/7laFKr0vZdtV9KNGfJ0Ird"
+        },
+        {
+          "name": "Mong Tong",
+          "url": "https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182537,
+      "name": "Fear - Mong Tong Remix",
+      "url": "https://open.spotify.com/track/4amEFQlOmB3cJwy0CEhX5Q"
     },
     {
       "album": {
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 220363,
       "name": "FLAME (feat. MANDARK)",
       "url": "https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc"
@@ -1366,10 +1388,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 130917,
       "name": "GOOD LOOKING",
       "url": "https://open.spotify.com/track/2mEk627nf8k8K7zTBYy6XI"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6LQct65jk9rTw9kLXH4bLW"
+      },
+      "artists": [
+        {
+          "name": "PuFFcorn",
+          "url": "https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE"
+        },
+        {
+          "name": "\u5deb\u8a60\u6b61HAPPY",
+          "url": "https://open.spotify.com/artist/6QgZ4pYqYuyiwUxt42PoqK"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201276,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/1ayyscg1ndJ3SpZp4HJWiE"
     },
     {
       "album": {
@@ -1566,6 +1610,28 @@
       "duration_ms": 133636,
       "name": "I reach for the stars",
       "url": "https://open.spotify.com/track/6Dy6M7uQWa5QxRSPFPecRQ"
+    },
+    {
+      "album": {
+        "name": "I Want To Be With You",
+        "url": "https://open.spotify.com/album/3aDWgiykjPhsVwepM3yNaG"
+      },
+      "artists": [
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        },
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R"
     },
     {
       "album": {
@@ -1818,6 +1884,28 @@
       "duration_ms": 171036,
       "name": "Kingdom Lifestyle",
       "url": "https://open.spotify.com/track/5ggXo9i7mow2cMtkB6V7CA"
+    },
+    {
+      "album": {
+        "name": "Kitchen feat. 9m88",
+        "url": "https://open.spotify.com/album/4MFYspvE6bzFdvV5CnK075"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "Kitchen feat. 9m88",
+      "url": "https://open.spotify.com/track/5oHBt8OoRWUZw0VwPUZZa7"
     },
     {
       "album": {
@@ -2326,7 +2414,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 240085,
       "name": "Nothing ever stops me",
       "url": "https://open.spotify.com/track/7IUwvUe5oa4nGu1aXgiyc6"
@@ -2950,6 +3038,24 @@
       "duration_ms": 241893,
       "name": "Sent",
       "url": "https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM"
+    },
+    {
+      "album": {
+        "name": "Serious Addiction",
+        "url": "https://open.spotify.com/album/47TPp2TTC8JAI1UL8mWr7j"
+      },
+      "artists": [
+        {
+          "name": "Everydaze",
+          "url": "https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203879,
+      "name": "Serious Addiction",
+      "url": "https://open.spotify.com/track/7tffweBCg9Yuzmt6fHSN4h"
     },
     {
       "album": {
@@ -3618,7 +3724,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 281880,
       "name": "This is My World",
       "url": "https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz"
@@ -3920,6 +4026,24 @@
       "duration_ms": 161666,
       "name": "WHY AM I HERE",
       "url": "https://open.spotify.com/track/4pFD8YFEzOXslurT0tXLer"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Let You Go - \u300a\u827e\u5609\u98df\u5802\u300b\u63d2\u66f2",
+        "url": "https://open.spotify.com/album/74Em8G3EBrXlHunnmEEVkN"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143736,
+      "name": "Won\u2019t Let You Go - \u300a\u827e\u5609\u98df\u5802\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/0MirQIYKUjUVvI0oK0Qwfw"
     },
     {
       "album": {

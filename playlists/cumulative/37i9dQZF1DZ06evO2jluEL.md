@@ -2,7 +2,7 @@
 
 ### [This Is Ludmila Ferber](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jluEL)
 
-> This Is Ludmila Ferber\. Todas as faixas essenciais numa única playlist.
+> This is Ludmila Ferber\. Todos os maiores hits em uma só playlist.
 
 64 songs - 5 hr 29 min
 

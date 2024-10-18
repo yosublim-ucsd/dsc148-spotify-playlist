@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
@@ -22489,6 +22489,40 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30c3\u30ab\u30fc\u30f3\uff01",
+        "url": "https://open.spotify.com/album/2e722N2XGcKUu87PYQdbIX"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        },
+        {
+          "name": "\u6afb\u574246",
+          "url": "https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto"
+        },
+        {
+          "name": "\u677e\u7530\u91cc\u5948",
+          "url": "https://open.spotify.com/artist/6G9h9p39TzvYDbzhxlrrog"
+        },
+        {
+          "name": "\u68ee\u7530\u3072\u304b\u308b",
+          "url": "https://open.spotify.com/artist/3y1DM5BpZqr9CW49VYAeMb"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "\u30d4\u30c3\u30ab\u30fc\u30f3\uff01",
+      "url": "https://open.spotify.com/track/1QidgC1vyuG6053IY5S4UG"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV"
       },
@@ -24580,7 +24614,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 254280,
       "name": "\u516d\u7b49\u661f",
       "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
@@ -27790,6 +27824,24 @@
       "duration_ms": 266670,
       "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
       "url": "https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM"
+    },
+    {
+      "album": {
+        "name": "\u6de1\u304f\u5fae\u304b",
+        "url": "https://open.spotify.com/album/1qS1QPOmFqm9goorWoVSuz"
+      },
+      "artists": [
+        {
+          "name": "sajou no hana",
+          "url": "https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197025,
+      "name": "\u6de1\u304f\u5fae\u304b",
+      "url": "https://open.spotify.com/track/2OUnNkuS59ssxA7eS3bBaA"
     },
     {
       "album": {

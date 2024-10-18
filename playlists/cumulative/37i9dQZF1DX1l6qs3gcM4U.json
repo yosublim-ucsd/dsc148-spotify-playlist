@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cleyton David, Tamyris Moiane",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 165957,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/14tIxwfij6H2iverAOGQb8"
@@ -3043,6 +3043,28 @@
     },
     {
       "album": {
+        "name": "Habiba",
+        "url": "https://open.spotify.com/album/2M6a8IxqKAnp4axXKNkDuI"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/5OMKjwTfUTdqmfaHYv31wh"
+    },
+    {
+      "album": {
         "name": "Haver\u00e1 Sinais",
         "url": "https://open.spotify.com/album/7mmFtGC5xBKl3LGaclN8fW"
       },
@@ -3172,6 +3194,24 @@
       "duration_ms": 216868,
       "name": "Homem Que \u00c9 Homem",
       "url": "https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh"
+    },
+    {
+      "album": {
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/3PA0a3ZOjEzpQVnzXnSWrp"
+      },
+      "artists": [
+        {
+          "name": "Penelas Sidney",
+          "url": "https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132495,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/5WvRopVTRgfSNK5NFS7Eyf"
     },
     {
       "album": {
@@ -3598,7 +3638,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 153786,
       "name": "Kenha",
       "url": "https://open.spotify.com/track/74o0Tq9QEQx5PX68L1PbIv"
@@ -3672,6 +3712,28 @@
       "duration_ms": 181346,
       "name": "Kua Buaru",
       "url": "https://open.spotify.com/track/4CleTVckv87HCeEpj05X52"
+    },
+    {
+      "album": {
+        "name": "Kuyar Assim",
+        "url": "https://open.spotify.com/album/4ua52jcTMzkvFS6CQz2Yzk"
+      },
+      "artists": [
+        {
+          "name": "Biura",
+          "url": "https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193710,
+      "name": "Kuyar Assim",
+      "url": "https://open.spotify.com/track/4UZNXdjwzKLk6NC5Iq8E8v"
     },
     {
       "album": {
@@ -4917,6 +4979,28 @@
     },
     {
       "album": {
+        "name": "Nice Life",
+        "url": "https://open.spotify.com/album/4xOnww5NikaipOVoxE0kNP"
+      },
+      "artists": [
+        {
+          "name": "J. Winston7",
+          "url": "https://open.spotify.com/artist/48fK11OLtwJ5swlV9oazwM"
+        },
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126451,
+      "name": "Nice Life",
+      "url": "https://open.spotify.com/track/1dz0JCJEABCDEteiusseLZ"
+    },
+    {
+      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -5752,7 +5836,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 213855,
       "name": "Pelo Amor de Deus",
       "url": "https://open.spotify.com/track/5eD71okAFMIoaNien4WXzQ"
@@ -7312,7 +7396,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 255690,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
@@ -8194,6 +8278,24 @@
       "duration_ms": 220360,
       "name": "Vamos Ficar por Aqui",
       "url": "https://open.spotify.com/track/6sAukzDGVFKv3Z6dF3pU9X"
+    },
+    {
+      "album": {
+        "name": "Van Mij",
+        "url": "https://open.spotify.com/album/4p6foGsaqND4BI2nerPvMx"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Van Mij",
+      "url": "https://open.spotify.com/track/6ABD5xqDPVX0sJbvE4pWHB"
     },
     {
       "album": {

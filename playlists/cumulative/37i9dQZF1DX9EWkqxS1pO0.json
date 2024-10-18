@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Ayberk Serin",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Robin",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 168133,
       "name": "N'olur Gelsen",
       "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"
@@ -1434,6 +1434,24 @@
       "duration_ms": 226415,
       "name": "olmazsan da olur",
       "url": "https://open.spotify.com/track/0YrMEGICoUQ5QzQPmUDqou"
+    },
+    {
+      "album": {
+        "name": "olsayd\u0131n yan\u0131mda",
+        "url": "https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131004,
+      "name": "olsayd\u0131n yan\u0131mda",
+      "url": "https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp"
     },
     {
       "album": {

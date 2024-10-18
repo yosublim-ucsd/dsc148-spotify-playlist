@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Shalipoppi",
+  "description": "Hip hop and rap music from Nigeria. Cover: Blaqbonez",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 142702,
       "name": "Beng Beng Beng",
       "url": "https://open.spotify.com/track/1QJr0nCavAGYteCOLUf2lN"
@@ -2990,6 +2990,24 @@
       "duration_ms": 166736,
       "name": "Elephant Man",
       "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
+    },
+    {
+      "album": {
+        "name": "\"Of Many Colors\": Orange",
+        "url": "https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Emeka Dance",
+      "url": "https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG"
     },
     {
       "album": {
@@ -6128,7 +6146,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189199,
       "name": "No Love In Lagos",
       "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
@@ -7742,6 +7760,32 @@
       "duration_ms": 206750,
       "name": "Reason You",
       "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"
+    },
+    {
+      "album": {
+        "name": "Refund (Part 2)",
+        "url": "https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN"
+      },
+      "artists": [
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Refund (Part 2)",
+      "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"
     },
     {
       "album": {

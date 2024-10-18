@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Mattyeux
+> The best French indie tracks right now\. Cover : Emma Hoet
 
-539 songs - 1 day 5 hr 27 min
+541 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
 | [Bonifacio](https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Bonifacio](https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA) | 2:15 | 2024-09-12 |  |
+| [Bonsaï](https://open.spotify.com/track/53zqXpNLN6WHnYChphcm8Z) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD) | [L'hiver au soleil](https://open.spotify.com/album/2O6Jo9HP7NVRUTmD9xoTO4) | 3:00 | 2024-10-17 |  |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-23 | 2023-04-28 |
 | [BPM](https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [BPM](https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh) | 2:58 | 2024-02-15 | 2024-09-06 |
@@ -241,7 +242,7 @@
 | [Konami](https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Konami](https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB) | 2:48 | 2023-02-02 | 2023-03-03 |
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-06-22 | 2024-04-05 |
 | [L'Extase](https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [L'Extase](https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy) | 4:21 | 2022-03-10 | 2022-04-15 |
-| [L'hiver au soleil](https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD) | [L'hiver au soleil](https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv) | 3:12 | 2024-07-11 |  |
+| [L'hiver au soleil](https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD) | [L'hiver au soleil](https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv) | 3:12 | 2024-07-11 | 2024-10-18 |
 | [L'imbécile](https://open.spotify.com/track/0RcaTIQtHiyJjlllYoCLAz) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Carambolages](https://open.spotify.com/album/5UF124cCkyEHbPzvlPFJMp) | 2:40 | 2023-10-26 | 2024-06-28 |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-10-27 |
 | [L'ÉTÉ](https://open.spotify.com/track/0rwsEAo5cS4jMcPOznBEpo) | [Tallisker](https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH) | [CONTREPOINTS](https://open.spotify.com/album/7IQfExwIGb8PpwbFkR4awD) | 3:27 | 2022-04-07 | 2022-07-01 |
@@ -282,6 +283,7 @@
 | [Les yeux, le reste](https://open.spotify.com/track/3DrMtgnkoPtgQ3iLkXaEzw) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Les yeux, le reste](https://open.spotify.com/album/0BLe8NfFlxiHkfZwe8sBXb) | 3:13 | 2023-01-19 | 2023-02-17 |
 | [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 | 2023-06-29 | 2023-11-03 |
 | [Levitate](https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Levitate](https://open.spotify.com/album/701cjd2rHs91n8kog79dzm) | 3:00 | 2022-02-03 | 2022-05-13 |
+| [Life Goes on When All Falls Down](https://open.spotify.com/track/2nEwgI2vuYe6gW0SF92EJr) | [Jil Is Lucky](https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku) | [May the Robots Do It Better](https://open.spotify.com/album/6DRIzLicuX2GBIGooXAwOZ) | 2:54 | 2024-10-17 |  |
 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 | 2022-09-01 | 2022-10-14 |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 | 2022-04-08 |
 | [Lost](https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Lost](https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES) | 3:20 | 2024-01-25 | 2024-03-29 |
@@ -295,7 +297,7 @@
 | [Ma plus belle aventure](https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Ma plus belle aventure](https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO) | 3:17 | 2022-02-03 | 2022-09-16 |
 | [Mademoiselle](https://open.spotify.com/track/07yFYf562vEHlWVBaGXhCz) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Charlotte Casiraghi](https://open.spotify.com/artist/5h8kHvSPcreeL9fErOCEUi) | [EXTATIC](https://open.spotify.com/album/68dFckjqN3mRFHZtU0UrkM) | 2:55 | 2022-07-14 | 2022-08-26 |
 | [Magique](https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Magique](https://open.spotify.com/album/1QovWMxy4xIatjjkvvqD1W) | 2:58 | 2023-01-12 | 2023-03-25 |
-| [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 |  |
+| [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 | 2024-10-18 |
 | [Marathon](https://open.spotify.com/track/65Jfx0QMcK8YBSeILwgXZx) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Marathon](https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm) | 3:02 | 2023-09-28 | 2024-01-19 |
 | [Masque d'or](https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Masque d'or](https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt) | 3:31 | 2021-12-16 | 2022-11-11 |
 | [Massilia \(feat\. Adrien Gallo\)](https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [Massilia \(feat\. Adrien Gallo\)](https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM) | 3:55 | 2023-11-30 | 2024-10-11 |

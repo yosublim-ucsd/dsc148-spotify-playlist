@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Ahmed, With Love. ",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Jamilah Barry",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2422,6 +2422,24 @@
       "duration_ms": 366152,
       "name": "Last Before Lights",
       "url": "https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112938,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D"
     },
     {
       "album": {

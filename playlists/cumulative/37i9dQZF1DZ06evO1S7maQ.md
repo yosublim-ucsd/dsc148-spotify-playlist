@@ -2,7 +2,7 @@
 
 ### [This Is Bruce Springsteen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S7maQ)
 
-> This Is Bruce Springsteen\. Los temas esenciales, todos en una lista.
+> This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
 114 songs - 8 hr 11 min
 

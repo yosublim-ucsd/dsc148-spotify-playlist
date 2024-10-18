@@ -2,7 +2,7 @@
 
 ### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 
-> This Is Kenny G\. Los temas esenciales, todos en una lista.
+> This is Kenny G แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
 
 55 songs - 3 hr 58 min
 

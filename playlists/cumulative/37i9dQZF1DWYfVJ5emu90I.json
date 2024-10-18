@@ -1383,7 +1383,7 @@
     },
     {
       "album": {
-        "name": "Gotta go",
+        "name": "Gotta go (feat. Jinmenusagi)",
         "url": "https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ"
       },
       "artists": [
@@ -1400,7 +1400,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157168,
-      "name": "Gotta go",
+      "name": "Gotta go (feat. Jinmenusagi)",
       "url": "https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt"
     },
     {
@@ -1801,7 +1801,7 @@
     },
     {
       "album": {
-        "name": "Kick Up",
+        "name": "Kick Up (feat. ralph)",
         "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
       },
       "artists": [
@@ -1818,7 +1818,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187696,
-      "name": "Kick Up",
+      "name": "Kick Up (feat. ralph)",
       "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
     },
     {
@@ -3806,28 +3806,6 @@
     {
       "album": {
         "name": "X RIOT",
-        "url": "https://open.spotify.com/album/1AK4X8fWHGR0gDrbsjWdiB"
-      },
-      "artists": [
-        {
-          "name": "XLARGE",
-          "url": "https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv"
-        },
-        {
-          "name": "Tokyo Young Vision",
-          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
-        }
-      ],
-      "date_added": "2024-02-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188762,
-      "name": "X RIOT",
-      "url": "https://open.spotify.com/track/3cxU9leESo9h2aqomdO7NY"
-    },
-    {
-      "album": {
-        "name": "X RIOT",
         "url": "https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk"
       },
       "artists": [
@@ -3846,6 +3824,28 @@
       "duration_ms": 188762,
       "name": "X RIOT",
       "url": "https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC"
+    },
+    {
+      "album": {
+        "name": "X RIOT (feat. Tokyo Young Vision)",
+        "url": "https://open.spotify.com/album/1AK4X8fWHGR0gDrbsjWdiB"
+      },
+      "artists": [
+        {
+          "name": "XLARGE",
+          "url": "https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv"
+        },
+        {
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188762,
+      "name": "X RIOT (feat. Tokyo Young Vision)",
+      "url": "https://open.spotify.com/track/3cxU9leESo9h2aqomdO7NY"
     },
     {
       "album": {

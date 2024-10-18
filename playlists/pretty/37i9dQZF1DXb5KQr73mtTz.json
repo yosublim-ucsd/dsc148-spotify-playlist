@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17517,
+  "num_followers": 17515,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
-      },
-      "artists": [
-        {
-          "name": "Aalia",
-          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
-        }
-      ],
-      "duration_ms": 233317,
-      "name": "About loneliness",
-      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "duration_ms": 233317,
+      "name": "About loneliness",
+      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Letter",
-        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
-      },
-      "artists": [
-        {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Letter",
-      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Don't ever say love me (Feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
+      "duration_ms": 213813,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -767,6 +747,26 @@
       "duration_ms": 176111,
       "name": "Why Would I",
       "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Don't ever say love me (Feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
     },
     {
       "added_at": "2024-09-02 03:43:35",

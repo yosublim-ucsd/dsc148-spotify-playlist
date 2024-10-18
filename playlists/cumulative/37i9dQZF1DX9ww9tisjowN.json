@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 245453,
       "name": "B-Cuz",
       "url": "https://open.spotify.com/track/3L6UQB8Av3FJFQ3GBK4vrL"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 211499,
       "name": "Falling Leaves",
       "url": "https://open.spotify.com/track/6kyJ4urjlw9E2SbwX5iRJI"
@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189498,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702"
+    },
+    {
+      "album": {
         "name": "FREEDOM",
         "url": "https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 175578,
       "name": "From Now!",
       "url": "https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190892,
       "name": "GORILLA\u829d\u5c45",
       "url": "https://open.spotify.com/track/5J9T9da4CFU5fFiFqD8oaL"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 217900,
       "name": "Horizon Dreamer",
       "url": "https://open.spotify.com/track/6LlUyPPQ3nHa8odNOXpoh7"
@@ -2816,6 +2834,32 @@
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "album": {
+        "name": "KIZAO",
+        "url": "https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220361,
+      "name": "KIZAO",
+      "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
     },
     {
       "album": {
@@ -4579,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/44LudOcruib8E2QoacG6I8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
+    },
+    {
+      "album": {
         "name": "RadioVision",
         "url": "https://open.spotify.com/album/0S7TdMhLUC1eECJvlRvfSy"
       },
@@ -4644,7 +4706,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 233543,
       "name": "RE RESCUE",
       "url": "https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U"
@@ -4846,6 +4908,24 @@
       "duration_ms": 274786,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/7mt66OyghItqZbTrepdvgc"
+    },
+    {
+      "album": {
+        "name": "Same Blue",
+        "url": "https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237836,
+      "name": "Same Blue",
+      "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
     },
     {
       "album": {
@@ -5722,6 +5802,24 @@
       "duration_ms": 195822,
       "name": "TONDEMO-WONDERZ",
       "url": "https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW"
+    },
+    {
+      "album": {
+        "name": "Too busy work",
+        "url": "https://open.spotify.com/album/3h2CGevquC3dntTZrefUMG"
+      },
+      "artists": [
+        {
+          "name": "oops cool",
+          "url": "https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196237,
+      "name": "Too busy work",
+      "url": "https://open.spotify.com/track/1OHsNCfi14qQpt4B9IPxEY"
     },
     {
       "album": {
@@ -7923,6 +8021,40 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30c3\u30ab\u30fc\u30f3\uff01",
+        "url": "https://open.spotify.com/album/2e722N2XGcKUu87PYQdbIX"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        },
+        {
+          "name": "\u6afb\u574246",
+          "url": "https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto"
+        },
+        {
+          "name": "\u677e\u7530\u91cc\u5948",
+          "url": "https://open.spotify.com/artist/6G9h9p39TzvYDbzhxlrrog"
+        },
+        {
+          "name": "\u68ee\u7530\u3072\u304b\u308b",
+          "url": "https://open.spotify.com/artist/3y1DM5BpZqr9CW49VYAeMb"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "\u30d4\u30c3\u30ab\u30fc\u30f3\uff01",
+      "url": "https://open.spotify.com/track/1QidgC1vyuG6053IY5S4UG"
+    },
+    {
+      "album": {
         "name": "Kimochy Season",
         "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
       },
@@ -8836,6 +8968,24 @@
       "duration_ms": 303243,
       "name": "\u50d5\u306f\u9811\u5f35\u308b\u3088\u3063 feat. ano",
       "url": "https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u3089\u3057\u3055",
+        "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "\u50d5\u3089\u3057\u3055",
+      "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
     },
     {
       "album": {
@@ -10084,7 +10234,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 254733,
       "name": "\u72c2\u8a69\u66f2",
       "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
@@ -10724,7 +10874,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 282458,
       "name": "\u900f\u660e\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/5wPltFGxoCje2DSLG3WA1G"
@@ -10902,6 +11052,24 @@
       "duration_ms": 188083,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/4m4VvIEq5qRkEmOaWhaGUQ"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u795e",
+        "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235543,
+      "name": "\u98a8\u795e",
+      "url": "https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC"
     },
     {
       "album": {

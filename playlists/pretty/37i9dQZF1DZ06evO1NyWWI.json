@@ -1,12 +1,12 @@
 {
-  "description": "This is Led Zeppelin. The essential tracks, all in one playlist.",
-  "num_followers": 1147540,
+  "description": "This is Led Zeppelin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1147649,
   "original_name": "This Is Led Zeppelin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAABP2FoyyytBYiha2Ygyidv9",
+  "snapshot_id": "Zw8CAAAAAADg7+Kfw9hrw3dLfwNKm4fB",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Through the out Door (Remaster)",
-        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 370920,
-      "name": "Fool in the Rain - Remaster",
-      "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 401066,
       "name": "Babe I'm Gonna Leave You - 1990 Remaster",
       "url": "https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 370920,
+      "name": "Fool in the Rain - Remaster",
+      "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Led Zeppelin II (Remaster)",
-        "url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 159300,
-      "name": "Living Loving Maid (She's Just a Woman) - Remaster",
-      "url": "https://open.spotify.com/track/49C6EGQhCUSgyADHYvJ7ez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 386373,
       "name": "Dazed and Confused - 1990 Remaster",
       "url": "https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Led Zeppelin II (Remaster)",
+        "url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 159300,
+      "name": "Living Loving Maid (She's Just a Woman) - Remaster",
+      "url": "https://open.spotify.com/track/49C6EGQhCUSgyADHYvJ7ez"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "What Is and What Should Never Be - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5G7uLHtoEW140QOcBpJlfz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 147933,
       "name": "Communication Breakdown - 1990 Remaster",
       "url": "https://open.spotify.com/track/0yVs7eSL8mPnIu2CGKHpUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "What Is and What Should Never Be - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5G7uLHtoEW140QOcBpJlfz"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Thank You - 1990 Remaster",
-      "url": "https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 278907,
       "name": "Misty Mountain Hop - Remaster",
       "url": "https://open.spotify.com/track/5NnZ4JJxWiqqhYNu3rwmFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Thank You - 1990 Remaster",
+      "url": "https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO"
     },
     {
       "added_at": null,

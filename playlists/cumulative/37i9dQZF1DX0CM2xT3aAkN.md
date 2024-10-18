@@ -4,7 +4,7 @@
 
 > Choral and instrumental classical music from the Renaissance era.
 
-100 songs - 7 hr 25 min
+101 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Liturgia de Pascua en el Madrid de los Austrias / Ad Vesperas: Himnus: Ad caenam Agni providi \[Ad Vesperas\]](https://open.spotify.com/track/0OvNQt4kuO1ub1cGEOmiAi) | [Tomás Luis de Victoria](https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d), [Ensemble Plus Ultra](https://open.spotify.com/artist/0Eif0BvJSaktdSIM4pbbz3), [Michael Noone](https://open.spotify.com/artist/22ZDYpcTdwy6W7ieShj5bN) | [Victoria – Splendor of the Renaissance](https://open.spotify.com/album/15BZRm6yPpsyf19mvYNuSw) | 6:25 | 2022-07-18 |  |
 | [Ma maistresse](https://open.spotify.com/track/5PjIPYLd3Rw0WFhUF5VDSh) | [Johannes Ockeghem](https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO), [Capilla Flamenca](https://open.spotify.com/artist/4vrvpzjBFqTwbi4XX5ZTKi) | [Oh Flanders Free: Music of the Flemish Renaissance](https://open.spotify.com/album/03J4dHdAIDXI8Rg5oJhp41) | 5:32 | 2016-02-21 | 2022-07-19 |
 | [Madrigals, Book 1 \(Il primo libro di madrigali\): Deh, or foss'io col vago della luna](https://open.spotify.com/track/70klAeiBjlOkxppeFHEQU5) | [Giovanni Pierluigi da Palestrina](https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem), [Concerto Italiano](https://open.spotify.com/artist/3f26hJvBDQnllvH0aP4OSb), [Rinaldo Alessandrini](https://open.spotify.com/artist/1CqIIrCkdFMduTzAdIaeZb) | [Palestrina: Il primo libro de Madrigali a qauttro voci](https://open.spotify.com/album/4sp8o9VcBoSFwPEWXvT4lZ) | 2:18 | 2016-02-21 | 2022-07-19 |
+| [Magi videntes stellam à 5](https://open.spotify.com/track/5ujOQ4wfNL1BHxhjs7E2Wb) | [Blasius Amon](https://open.spotify.com/artist/0ENCByzk1VlMVS2JzhShsX), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Magi videntes stellam à 5](https://open.spotify.com/album/32mSq39SYGGR2DaI3AtxnF) | 2:43 | 2024-10-17 |  |
 | [Magnificat primi toni](https://open.spotify.com/track/0xVGP0zZTLuumso7Pr4eT2) | [Nicolas Gombert](https://open.spotify.com/artist/70cNSxX4RxvHQi0eg4qbeQ), [Stile Antico](https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG) | [From the Imperial Court: Music for the House of Hapsburg](https://open.spotify.com/album/35iG8E3ERgSolhDz6qnEGS) | 11:47 | 2017-03-20 | 2022-07-19 |
 | [Mass For Four Voices: 1\. Gloria](https://open.spotify.com/track/6GzfuT24wqfHZquZZwLYIV) | [Thomas Tallis](https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS) | [Tallis: The Lamentations Of Jeremiah](https://open.spotify.com/album/5xzL1xekOtok9HF0STLt5n) | 5:09 | 2022-07-18 | 2024-04-19 |
 | [Mass For Four Voices: 1\. Gloria](https://open.spotify.com/track/2PhclxPrZW16t67YAGRYoR) | [Thomas Tallis](https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS), [Paul Hillier](https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF) | [Tallis: The Lamentations Of Jeremiah](https://open.spotify.com/album/5gMOEzoVfghYeo9sPedL5d) | 5:09 | 2017-11-18 |  |

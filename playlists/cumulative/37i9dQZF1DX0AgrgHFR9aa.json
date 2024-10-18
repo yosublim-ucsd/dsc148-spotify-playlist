@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssef Swatt's",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 212995,
       "name": "24 ans",
       "url": "https://open.spotify.com/track/2WoL0xAc3ngFWyMhgI1UV9"
@@ -123,6 +123,24 @@
     },
     {
       "album": {
+        "name": "A propos",
+        "url": "https://open.spotify.com/album/5tozyKVQZGr5lPdYDwQksY"
+      },
+      "artists": [
+        {
+          "name": "Zek",
+          "url": "https://open.spotify.com/artist/0ZvXadOwtNaacnVKZVFzLr"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222279,
+      "name": "A propos",
+      "url": "https://open.spotify.com/track/7mWbONmkFQUJpLzJBp0AOJ"
+    },
+    {
+      "album": {
         "name": "Alain",
         "url": "https://open.spotify.com/album/1EW4m0Hyks4GIitJfFwBFr"
       },
@@ -156,6 +174,28 @@
       "duration_ms": 437453,
       "name": "Anomalie",
       "url": "https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG"
+    },
+    {
+      "album": {
+        "name": "Apn\u00e9e (feat. Sheldon)",
+        "url": "https://open.spotify.com/album/0lsmvSGUHUhbtPxkG6vnGe"
+      },
+      "artists": [
+        {
+          "name": "Maydo",
+          "url": "https://open.spotify.com/artist/1JGcG0hGyvwIobPI8kvEAr"
+        },
+        {
+          "name": "Sheldon",
+          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186583,
+      "name": "Apn\u00e9e (feat. Sheldon)",
+      "url": "https://open.spotify.com/track/4HBElMde9FrnY8AOlr1m4t"
     },
     {
       "album": {
@@ -336,10 +376,64 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 302104,
       "name": "Coup de fil - Cuts DJ dinokun",
       "url": "https://open.spotify.com/track/6Hfj5r6deGumzx6oHfNuvK"
+    },
+    {
+      "album": {
+        "name": "Croisades Puissance2frappe",
+        "url": "https://open.spotify.com/album/4qmbyhKttYaIpJB5rm0IR1"
+      },
+      "artists": [
+        {
+          "name": "Dibson",
+          "url": "https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182265,
+      "name": "Croisades Puissance2frappe",
+      "url": "https://open.spotify.com/track/5T5NkRAUTc2YS5l2mRwRrk"
+    },
+    {
+      "album": {
+        "name": "DANS LA DUR\u00c9E",
+        "url": "https://open.spotify.com/album/4ZVJot0pHwBjvK0iMBWjQC"
+      },
+      "artists": [
+        {
+          "name": ".H.K",
+          "url": "https://open.spotify.com/artist/61qvcZWDAT1yvsw4bEVowX"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163224,
+      "name": "DANS LA DUR\u00c9E",
+      "url": "https://open.spotify.com/track/5sBeSpODd2x8ZZHJRnxJFf"
+    },
+    {
+      "album": {
+        "name": "Pyramide 2",
+        "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Emelyne",
+      "url": "https://open.spotify.com/track/2raEeGwUcTICrIdX6tXdru"
     },
     {
       "album": {
@@ -528,7 +622,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 162679,
       "name": "Jubilee Year",
       "url": "https://open.spotify.com/track/37xT591ePNYFZiEuz7Bzu8"
@@ -776,7 +870,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 294648,
       "name": "LE NOM DU P\u00c8RE",
       "url": "https://open.spotify.com/track/4DbosJ6sBVGSjDNlUqB1se"
@@ -1270,7 +1364,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 210000,
       "name": "Un monde meilleur",
       "url": "https://open.spotify.com/track/7J2n6JG3yiHU0VxyPbiyQV"

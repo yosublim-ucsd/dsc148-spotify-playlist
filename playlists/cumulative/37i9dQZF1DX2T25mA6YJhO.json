@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Camellos.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Aiko el grupo.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 199797,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/2O9IemDWvMSVmBnhjX3zxe"
+    },
+    {
+      "album": {
+        "name": "A tomar por culo",
+        "url": "https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118743,
+      "name": "A la Mierda",
+      "url": "https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz"
     },
     {
       "album": {
@@ -294,7 +312,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 230250,
       "name": "Arder en Fuego",
       "url": "https://open.spotify.com/track/3JHcfsP9SZP77qZ7ueGbuk"
@@ -395,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Calle Plata",
+        "url": "https://open.spotify.com/album/6vFve1hrFj2UBoSRW2beM9"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "Calle Plata",
+      "url": "https://open.spotify.com/track/6VsaC41vcwH8AczuZZZERO"
+    },
+    {
+      "album": {
         "name": "Candorro",
         "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
       },
@@ -468,7 +504,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 194453,
       "name": "Cenar de Pie",
       "url": "https://open.spotify.com/track/64PaZIsuNZpvjJcezzwbJY"
@@ -562,7 +598,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 127804,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/2bLVe53Ko7B7HoNxAES9Wh"
@@ -692,7 +728,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 280288,
       "name": "Deconstrucci\u00f3n",
       "url": "https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP"
@@ -1147,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Fuera del Disco-Pub!",
+        "url": "https://open.spotify.com/album/4nJQ84VmLVRlvbKotRkVxJ"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99466,
+      "name": "Fuera del Disco-Pub!",
+      "url": "https://open.spotify.com/track/2DdCuf4YcT2OcXaer3Cbjl"
+    },
+    {
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1314,7 +1368,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
@@ -1470,6 +1524,28 @@
       "duration_ms": 180386,
       "name": "La matanza de Texas",
       "url": "https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY"
+    },
+    {
+      "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        },
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211882,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN"
     },
     {
       "album": {
@@ -1972,7 +2048,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 173991,
       "name": "Misil",
       "url": "https://open.spotify.com/track/6M6ucWnHHexdjFYx1whr2M"
@@ -2160,7 +2236,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 154208,
       "name": "Nuestro Mejor Momento",
       "url": "https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4"
@@ -3235,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Vacaciones Permanentes",
+        "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
+      },
+      "artists": [
+        {
+          "name": "Vacaciones Permanentes",
+          "url": "https://open.spotify.com/artist/5bZw7KsPssYA9vjHvHgFVu"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188525,
+      "name": "Vampiros",
+      "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
+    },
+    {
+      "album": {
         "name": "Ventajas",
         "url": "https://open.spotify.com/album/26KpPjdZJ3CG5QDZ50VgVO"
       },
@@ -3264,7 +3358,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 112551,
       "name": "Vicente Amor",
       "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
@@ -3282,7 +3376,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 167088,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/5VXpWsJuT0MOw0Tb6iNu6O"

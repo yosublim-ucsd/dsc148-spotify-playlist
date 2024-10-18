@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,499 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,500 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 29 | [風の谷のナウシカ / 風の谷のナウシカ](https://open.spotify.com/track/6B8bngjUglEjJWoI3KfM4k) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [風の谷のナウシカ / 風の谷のナウシカ](https://open.spotify.com/album/4G7Xuld6KvyYhvSpzpkIpR) | 3:45 |
 | 30 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 |
 | 31 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 32 | [Summer Story](https://open.spotify.com/track/5U2iO7WwTlOIH5yF6kVCYQ) | [可愛いって言わないと呪う](https://open.spotify.com/artist/4trB4UhKGx2rPNr2RsN4N6) | [Summer Story](https://open.spotify.com/album/6TY94OimhoxkgPu88ovYYU) | 4:15 |
+| 32 | [Summer Story](https://open.spotify.com/track/5U2iO7WwTlOIH5yF6kVCYQ) | [Kawaiitte Iwanaito Norou!](https://open.spotify.com/artist/4trB4UhKGx2rPNr2RsN4N6) | [Summer Story](https://open.spotify.com/album/6TY94OimhoxkgPu88ovYYU) | 4:15 |
 | 33 | [dear zombie](https://open.spotify.com/track/2WqRCAvJvd1slZaFyjclAl) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [dear zombie](https://open.spotify.com/album/6IXAfKz0J3ecCCzv9QDQY9) | 3:46 |
 | 34 | [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 |
 | 35 | [Disco Punk Night!!!](https://open.spotify.com/track/7iaOBcwc7Ea6Q6l1YlEJS1) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Disco Punk Night!!!](https://open.spotify.com/album/46kxIDCiX8eHoEUEixBSvC) | 3:40 |

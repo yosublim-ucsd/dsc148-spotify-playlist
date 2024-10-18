@@ -811,6 +811,50 @@
     },
     {
       "album": {
+        "name": "Infinity Glitch",
+        "url": "https://open.spotify.com/album/49JyMHpb8nxxfW1hGRsqEG"
+      },
+      "artists": [
+        {
+          "name": "Tony Grey",
+          "url": "https://open.spotify.com/artist/4YIpmOub8uUSREpCwKCoaf"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387296,
+      "name": "Elastic Man",
+      "url": "https://open.spotify.com/track/7GX8c0mwHCi9QelFCLNtfF"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/16wbiKEGGx4qXKMgPF7bkt"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220672,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/68WxRXjtVXccZOfH69H44v"
+    },
+    {
+      "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
@@ -984,7 +1028,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
@@ -1795,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "N29 to Berlin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "N29 to Berlin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx"
+    },
+    {
+      "album": {
         "name": "Never In My Short Sweet Life (Makaya McCraven Remix)",
         "url": "https://open.spotify.com/album/7lgzfRbWcQchFcsynkGelI"
       },
@@ -2281,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Grande-Terre",
+        "url": "https://open.spotify.com/album/77VpcoLff1MKzDPZQ4rSyu"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412626,
+      "name": "Rumba Roy",
+      "url": "https://open.spotify.com/track/1eVXW0c6PT1iwP0HDN7vVF"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/38tjI9MwZC7uSqnAdRrvdX"
       },
@@ -2751,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Waterscape",
+        "url": "https://open.spotify.com/album/61UOaMKJDLBt0H5ngGadQQ"
+      },
+      "artists": [
+        {
+          "name": "NEWLY",
+          "url": "https://open.spotify.com/artist/30qeN6y7bk4ASVG6zPd3sQ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Waterscape",
+      "url": "https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w"
+    },
+    {
+      "album": {
         "name": "ELECTRIC RIDER",
         "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
       },
@@ -2766,6 +2864,24 @@
       "duration_ms": 183920,
       "name": "WHAT IS ??",
       "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
+    },
+    {
+      "album": {
+        "name": "WHIP.wav",
+        "url": "https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98500,
+      "name": "WHIP.wav",
+      "url": "https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh"
     },
     {
       "album": {
@@ -2950,6 +3066,28 @@
       "duration_ms": 219398,
       "name": "\u308f\u308c\u308f\u308c\u306e\u3057\u307e",
       "url": "https://open.spotify.com/track/7lMPVBtPdoxVENSe16W9Hn"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u56e3\u5730 (feat. \u6709\u5742\u670b\u6075)",
+        "url": "https://open.spotify.com/album/7tWQavWNFZSAGFINf8x3MB"
+      },
+      "artists": [
+        {
+          "name": "ku-ten",
+          "url": "https://open.spotify.com/artist/5kigcfJtgrmnwom5rwGy26"
+        },
+        {
+          "name": "\u6709\u5742\u670b\u6075",
+          "url": "https://open.spotify.com/artist/3zH4bLzYXkPVk2NyRzbGYJ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u56e3\u5730 (feat. \u6709\u5742\u670b\u6075)",
+      "url": "https://open.spotify.com/track/0Z17pYcnG59l4Rpd4a8M9O"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: HOME
 
-1,934 songs - 5 day 0 hr 16 min
+1,935 songs - 5 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [DANCE扁桃体](https://open.spotify.com/track/2pVnjeeJu6GrByXApWvTLN) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [最後の初恋](https://open.spotify.com/album/0dEoSEaWD6MmHSlrzcXtij) | 3:01 | 2024-06-11 | 2024-09-11 |
 | [Dancing](https://open.spotify.com/track/4Aj3dm1ryaip9mVQRbJDXh) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [未来からきた人](https://open.spotify.com/album/7JjAs2x4QWKXm96SvIreSJ) | 3:12 | 2023-01-17 | 2023-03-08 |
 | [Dancing In The River](https://open.spotify.com/track/77lbsUYxFbDhSKg4qtanax) | [Ogawa & Tokoro](https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA) | [Mutual Mutation](https://open.spotify.com/album/6Ooa3F2AlDmIdmMkOlewAr) | 7:49 | 2023-11-23 | 2023-12-06 |
+| [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 | 2024-10-15 |  |
 | [Dark Ballet](https://open.spotify.com/track/5Vn3NnDFgIizhVeXj1go61) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Dark Ballet](https://open.spotify.com/album/6KlAn04BDkqs7QbNl0UcU6) | 3:47 | 2023-06-20 | 2023-07-07 |
 | [Darling Dear](https://open.spotify.com/track/5S2eRGQVvX8DgcZJWr6szm) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [Darling Dear](https://open.spotify.com/album/3uq3EylPq0MO2AURJsPuyR) | 3:51 | 2023-01-12 | 2023-01-18 |
 | [Dawn](https://open.spotify.com/track/79P9kz64a2His4YTbuuHTB) | [Kohei Shimizu](https://open.spotify.com/artist/3zX8cCqgrhnASsckLs4ZI9), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [Hypervoid](https://open.spotify.com/album/4rae4Gei2oSjAjKq9Iq8la) | 2:09 | 2024-06-04 | 2024-06-12 |
@@ -644,7 +645,7 @@
 | [miasma](https://open.spotify.com/track/6OTk1A5SN4UvNaJT2MUck9) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [Germination of Concepts](https://open.spotify.com/album/1hnCEzbxkge62IBR0VnSsD) | 4:28 | 2023-03-14 | 2023-03-29 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 | 2023-06-21 | 2023-07-05 |
 | [Michi\-tono\-Sogu](https://open.spotify.com/track/6uIr38NbHnYN8KVfDuHcAQ) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/5nBKR9qLUlMjRdr5uD2CVQ) | 4:30 | 2023-06-20 | 2023-06-22 |
-| [Mighty Mystic Eyes](https://open.spotify.com/track/4Dru9BTXYTtVF4MdlkYcAk) | [Velludo](https://open.spotify.com/artist/5OkJ1tB3VjeT27zJPmmMkm) | [Mighty Mystic Eyes](https://open.spotify.com/album/1n9PiDCMPuyNzkm5zCHEsO) | 4:34 | 2024-10-15 |  |
+| [Mighty Mystic Eyes](https://open.spotify.com/track/4Dru9BTXYTtVF4MdlkYcAk) | [Velludo](https://open.spotify.com/artist/0ZFxspJHmeXIH5ox6XGyHG) | [Mighty Mystic Eyes](https://open.spotify.com/album/1n9PiDCMPuyNzkm5zCHEsO) | 4:34 | 2024-10-15 |  |
 | [Mild Child](https://open.spotify.com/track/22SRljDCEqspX5xTeFn6jd) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Mild Child](https://open.spotify.com/album/6xZ7LBjsMfANHQAMt7wmWk) | 4:13 | 2024-06-11 | 2024-06-26 |
 | [Miles Day Blues](https://open.spotify.com/track/5rmYtVeUM7Lr4G6BxJAd2J) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Miles Day Blues](https://open.spotify.com/album/1OKgxHur481MYFpS7GJlp9) | 5:10 | 2023-09-26 | 2023-10-04 |
 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 | 2023-03-28 | 2023-04-07 |
@@ -996,7 +997,7 @@
 | [Stellar](https://open.spotify.com/track/75jg2C0JJPx1OE6yDgTbSR) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Unspoiled](https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t) | 5:35 | 2024-06-18 | 2024-09-18 |
 | [Step By Step](https://open.spotify.com/track/2yOWhJp10UqSiW5WuE1pJF) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Step By Step](https://open.spotify.com/album/6hjTU7HdnWBk41VUnymI2m) | 3:54 | 2024-06-18 | 2024-08-09 |
 | [Still Dreaming](https://open.spotify.com/track/6I22fRk15SGhKaLTaqo2hp) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP2](https://open.spotify.com/album/3l4Os3DBXtlGCWLWRoJbft) | 4:28 | 2024-10-15 |  |
-| [Still Remember](https://open.spotify.com/track/09LIZF2fpKHNTmAwokmj6O) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 4:41 | 2024-09-03 |  |
+| [Still Remember](https://open.spotify.com/track/09LIZF2fpKHNTmAwokmj6O) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 4:41 | 2024-09-03 | 2024-10-18 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 | 2023-11-27 |
 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 | 2024-09-04 |

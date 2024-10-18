@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Saripodhaa Sanivaaram",
-  "num_followers": 134515,
+  "num_followers": 134578,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuqtDgAAAADtmCXatG0j+w9TFi8xfAtS",
+  "snapshot_id": "ZxEFjQAAAABlj0ofD5pySMy/2szNOMrt",
   "tracks": [
     {
       "added_at": "2024-07-14 04:20:52",
@@ -31,6 +31,30 @@
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
+    },
+    {
+      "added_at": "2024-10-17 12:39:41",
+      "album": {
+        "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
+        "url": "https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Nithyasree",
+          "url": "https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS"
+        },
+        {
+          "name": "Krishna Chaitanya",
+          "url": "https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hey Taara (From \"Appudo Ippudo Eppudo\")",
+      "url": "https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW"
     },
     {
       "added_at": "2024-08-05 12:07:16",

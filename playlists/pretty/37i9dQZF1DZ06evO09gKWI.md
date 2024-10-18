@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. Todos os maiores hits em uma só playlist.
+> This is Bivolt\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 357 likes - 42 songs - 2 hr 24 min
 
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 41 | [Taças](https://open.spotify.com/track/76JB7GfUO9vDuFra3IHlka) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Taças](https://open.spotify.com/album/20QFe1QqXSOCoJGzo27rRn) | 2:36 |
 | 42 | [Papo Reto](https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Papo Reto](https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B) | 3:12 |
 
-Snapshot ID: `Zw2wgAAAAADcGsDItWY1A2CIFONh1Iup`
+Snapshot ID: `Zw8CAAAAAABrpVr0fuWfXXuExo2sR7mH`

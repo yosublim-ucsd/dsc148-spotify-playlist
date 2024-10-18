@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Tourist",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Qrion",
   "name": "Altar JP",
   "tracks": [
     {
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Back in London(Somuchhavefun)",
+        "url": "https://open.spotify.com/album/5s8EKUQvoTTTAT4YrjINsQ"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202783,
+      "name": "Back in London(Somuchhavefun)",
+      "url": "https://open.spotify.com/track/3CAIrF9uNBAnBW3J1V4xO2"
+    },
+    {
+      "album": {
         "name": "BACK ON",
         "url": "https://open.spotify.com/album/0fF0wqKHPa6G1wYpgsXPyG"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 308946,
       "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
       "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 298490,
       "name": "Deceltica",
       "url": "https://open.spotify.com/track/2eSYJNS1tIahDojepc8rF5"
@@ -6437,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4sen",
+        "url": "https://open.spotify.com/album/4Z1FqaRoi6j5isxDZmUQ67"
+      },
+      "artists": [
+        {
+          "name": "La Fleur",
+          "url": "https://open.spotify.com/artist/5bt7DkWw4iHzjzRF2d9scU"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365971,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/1G4A4B60Mab0JL3hs5lilw"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox"
       },
@@ -6746,7 +6782,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 229131,
       "name": "Gemini Sun RMX",
       "url": "https://open.spotify.com/track/328awPzEm97Q0upxwXqW1k"
@@ -7966,6 +8002,28 @@
       "duration_ms": 311491,
       "name": "Humble Bluff",
       "url": "https://open.spotify.com/track/5nF1SQOMETnrqI8WxkW5DE"
+    },
+    {
+      "album": {
+        "name": "Hush My Heart",
+        "url": "https://open.spotify.com/album/0QOBaWXv5duVX0QXdmTHDI"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "Hush My Heart",
+      "url": "https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY"
     },
     {
       "album": {
@@ -10610,7 +10668,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 408006,
       "name": "MALAKA - CALPISS & DJ Moras Remix",
       "url": "https://open.spotify.com/track/1rpvQR2C5PSzOXA88cLsmu"
@@ -14720,7 +14778,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 152746,
       "name": "She Dances",
       "url": "https://open.spotify.com/track/3UP84ZNKydVuFSmNpXOtJU"
@@ -15760,6 +15818,28 @@
       "duration_ms": 364455,
       "name": "Stream State",
       "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
+    },
+    {
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Strength (R U Ready) [feat. Joy Crookes]",
+      "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
     },
     {
       "album": {
@@ -18222,6 +18302,24 @@
       "duration_ms": 365217,
       "name": "Wakes From Coma",
       "url": "https://open.spotify.com/track/46Ggm1Afg7qEalv81D4PCg"
+    },
+    {
+      "album": {
+        "name": "Hekdb Product 002",
+        "url": "https://open.spotify.com/album/0PTBTCMALXowwutaEL7y5W"
+      },
+      "artists": [
+        {
+          "name": "Sattle",
+          "url": "https://open.spotify.com/artist/4RVMHIhW9fGIk1uEuSVFLe"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Wallace Line",
+      "url": "https://open.spotify.com/track/0LTPakbAkiiaJaK5F2B1av"
     },
     {
       "album": {

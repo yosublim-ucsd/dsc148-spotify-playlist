@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAIcTBXZJbLHStGnQPLifh2MbUVAGg",
+  "snapshot_id": "AAAAI67XvOGyn/1CxdJARbpBUmYkH6YR",
   "tracks": [
     {
       "added_at": "2023-03-23 07:57:00",
@@ -463,6 +463,42 @@
       "duration_ms": 103877,
       "name": "Spirit Halloween Theme Song",
       "url": "https://open.spotify.com/track/2DIwgmGJtqDKyIxfWUeEvW"
+    },
+    {
+      "added_at": "2024-10-17 04:30:35",
+      "album": {
+        "name": "Rave in the Grave",
+        "url": "https://open.spotify.com/album/2XPegg8qwhY3CHGR4n812W"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Rave in the Grave",
+      "url": "https://open.spotify.com/track/6Sf2YqGzNmVfSNpLFWuYbz"
+    },
+    {
+      "added_at": "2024-10-17 06:42:48",
+      "album": {
+        "name": "A-Haunting We Will Go-Go",
+        "url": "https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk"
+      },
+      "artists": [
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
+        }
+      ],
+      "duration_ms": 93533,
+      "name": "Surfin' Spooks",
+      "url": "https://open.spotify.com/track/2R8t1qlB2wMiWwho1u3eYq"
     }
   ],
   "unique_name": "Halloween",

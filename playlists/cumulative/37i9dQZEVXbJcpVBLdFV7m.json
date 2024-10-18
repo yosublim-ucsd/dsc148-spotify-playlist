@@ -5816,7 +5816,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -11478,7 +11478,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 142521,
       "name": "Spring breakers",
       "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
@@ -13389,6 +13389,24 @@
     },
     {
       "album": {
+        "name": "Antologia Chast I (Anthology Part I)",
+        "url": "https://open.spotify.com/album/25N9cGMDOc3ml4FQDg87nt"
+      },
+      "artists": [
+        {
+          "name": "Shturcite",
+          "url": "https://open.spotify.com/artist/4lSoH3WMMc6shXt7SqKmBc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194530,
+      "name": "Veselina",
+      "url": "https://open.spotify.com/track/7Jk5LO15Be01lrXuVlBZNI"
+    },
+    {
+      "album": {
         "name": "Vip Cars (VIP)",
         "url": "https://open.spotify.com/album/7HmS1ntzK6E8wUlJGVae2J"
       },
@@ -15014,7 +15032,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 190213,
       "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"

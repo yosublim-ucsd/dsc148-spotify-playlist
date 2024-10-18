@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 
 > Prepare for the upcoming Seoul concert by listening to 2NE1's best songs! \(2NE1의 베스트 곡들을 들으며 다가오는 서울 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,156 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,241 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fire](https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:42 |
 | 2 | [I Am the Best \(내가 제일 잘 나가\)](https://open.spotify.com/track/0duGEEnNcvRgkeoZVx6qFu) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 2nd Mini Album](https://open.spotify.com/album/0zWLbtlKLJINtIiqnSXqag) | 3:30 |
 | 3 | [I Don't Care](https://open.spotify.com/track/1ErdaM9N7EJ7trhXFnDECg) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:58 |
-| 4 | [Go Away \- Live](https://open.spotify.com/track/6EYd1PIM48x8sFHYYhgxU8) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2012 2NE1 Global Tour Live New Evolution in Seoul](https://open.spotify.com/album/6AraFzMUlYpbdm5UNTnyLe) | 3:52 |
+| 4 | [Go Away](https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:39 |
 | 5 | [Can't Nobody](https://open.spotify.com/track/6bdrK3DnKZWfAsvO21oj1q) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:28 |
 | 6 | [Do You Love Me](https://open.spotify.com/track/6edlzM2EaYIVArdeM3UCDb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [Do You Love Me](https://open.spotify.com/album/3ofiarxWhnL1RC5e1rUXQ1) | 3:35 |
 | 7 | [I LOVE YOU](https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Love You](https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg) | 3:57 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 | 22 | [Let's Go Party](https://open.spotify.com/track/0tfSZHuscf970voflvUcXT) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:48 |
 | 23 | [Stay Together](https://open.spotify.com/track/3dbDqyQQz5MUhcrQEJOHFP) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:44 |
 
-Snapshot ID: `Zv/V1gAAAABKUR2mIBAzcPs5Ii2SQo/t`
+Snapshot ID: `ZxC0XQAAAADWNdhvR4daFvLMc7QVef+4`

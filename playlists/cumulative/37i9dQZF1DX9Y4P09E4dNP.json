@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: Fameye",
+  "description": "The big Hip-Life hits rn. Cover: King Paluuta",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 221283,
       "name": "3:30",
       "url": "https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt"
+    },
+    {
+      "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
     },
     {
       "album": {
@@ -753,6 +771,32 @@
     },
     {
       "album": {
+        "name": "Road To Fuego",
+        "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171073,
+      "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
+      "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
+    },
+    {
+      "album": {
         "name": "G.I.N.A",
         "url": "https://open.spotify.com/album/5FP1OJulMa7Y7siPhErW2F"
       },
@@ -1195,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "Days Pass By",
+        "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Days Pass By",
+      "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
+    },
+    {
+      "album": {
         "name": "Old School Hiplife Vol.1",
         "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
       },
@@ -1546,6 +1612,24 @@
       "duration_ms": 195434,
       "name": "Fly Girl (feat. Oseikrom Sikanii) - Remix",
       "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
+    },
+    {
+      "album": {
+        "name": "For the Popping",
+        "url": "https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "For the Popping",
+      "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
     },
     {
       "album": {
@@ -3368,6 +3452,32 @@
       "duration_ms": 308688,
       "name": "Police Abaa",
       "url": "https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL"
+    },
+    {
+      "album": {
+        "name": "PUFF PUFF",
+        "url": "https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164182,
+      "name": "PUFF PUFF",
+      "url": "https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy"
     },
     {
       "album": {

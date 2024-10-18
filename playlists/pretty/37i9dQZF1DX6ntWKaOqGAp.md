@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: ドレスコーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,129 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,142 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 93 | [時代](https://open.spotify.com/track/4TOFPGQv4i4C4BiiZiz1a9) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ghosts](https://open.spotify.com/album/56Vj2K6rfWoPwLHnF9KUWv) | 4:44 |
 | 94 | [Hikari to synergy](https://open.spotify.com/track/4Xu2AqIcCV0yDLXvmbpwlh) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [Hikari to synergy](https://open.spotify.com/album/7Fy3YpHL5bzjRd6ZODCCnt) | 4:06 |
 | 95 | [Heart Ni Hug Shiyou](https://open.spotify.com/track/2cdz2v8QblxRIDTIb6kWsu) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Heart Ni Hug Shiyou](https://open.spotify.com/album/7ieJFmH2zUOvoI3AlZAaXh) | 4:40 |
-| 96 | [また思い出しただけ](https://open.spotify.com/track/4AWy2NT05FYBIYgSILhOhC) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [また思い出しただけ](https://open.spotify.com/album/2YH2U3oJ6YHfVR2dltwHl1) | 4:11 |
-| 97 | [Baby, Please Burn Out](https://open.spotify.com/track/4YJtLVYxiUaomvDCMtYtzs) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Baby, Please Burn Out](https://open.spotify.com/album/4JI4yopTA6KJbC8BIXrAby) | 2:31 |
-| 98 | [Seigi Man](https://open.spotify.com/track/1p9rJ6lwSN9AWV7NNkEgkw) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Shutsugen ! Nezumi Jodo](https://open.spotify.com/album/2HiJGL4GwkC1abzNE3MCSV) | 3:25 |
-| 99 | [Monkey Discooooooo \(2024\)](https://open.spotify.com/track/7x3XEYusnyIed5PYxLS5FX) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Disco Punk Night!!! E.P.](https://open.spotify.com/album/6QbyL20xPJhWPKQsMJyY3s) | 4:12 |
-| 100 | [オレは音楽](https://open.spotify.com/track/3YFnjnksApVEq8PnjQPjNP) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [SQUEEZE and RELEASE](https://open.spotify.com/album/2q2lcW7n1QvtrObsGgTEw7) | 3:47 |
+| 96 | [Till Dawn](https://open.spotify.com/track/2pQWpslYgqZ5n9UFs7NrCV) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Till Dawn](https://open.spotify.com/album/7HuJjAZAnus0fqOGrxCaDX) | 3:09 |
+| 97 | [また思い出しただけ](https://open.spotify.com/track/4AWy2NT05FYBIYgSILhOhC) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [また思い出しただけ](https://open.spotify.com/album/2YH2U3oJ6YHfVR2dltwHl1) | 4:11 |
+| 98 | [Baby, Please Burn Out](https://open.spotify.com/track/4YJtLVYxiUaomvDCMtYtzs) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Baby, Please Burn Out](https://open.spotify.com/album/4JI4yopTA6KJbC8BIXrAby) | 2:31 |
+| 99 | [Seigi Man](https://open.spotify.com/track/1p9rJ6lwSN9AWV7NNkEgkw) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Shutsugen ! Nezumi Jodo](https://open.spotify.com/album/2HiJGL4GwkC1abzNE3MCSV) | 3:25 |
+| 100 | [Monkey Discooooooo \(2024\)](https://open.spotify.com/track/7x3XEYusnyIed5PYxLS5FX) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Disco Punk Night!!! E.P.](https://open.spotify.com/album/6QbyL20xPJhWPKQsMJyY3s) | 4:12 |
 
-Snapshot ID: `Zw6ZMAAAAACYgliEIlrW6Iasjt3UsBeA`
+Snapshot ID: `ZxEmcAAAAAApwOqUmTXO06g5pkH4LE7a`

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 341731,
+  "num_followers": 341757,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Best Of Blind Melon",
-        "url": "https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "Change - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/2xmJNIkGmYBVoiu1WqA9il"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Best Of Blind Melon",
+        "url": "https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "Change - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/2xmJNIkGmYBVoiu1WqA9il"
     },
     {
       "added_at": "2024-07-05 19:40:49",

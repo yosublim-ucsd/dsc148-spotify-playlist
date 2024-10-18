@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,999 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,978 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 75 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 |
 | 76 | [UNHHH](https://open.spotify.com/track/7GMUOZVVsXs0si8sJ9QXQP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Please Hold](https://open.spotify.com/album/3yTyKaDM9gEzPuSgTCWTmq) | 2:14 |
 | 77 | [Whatever](https://open.spotify.com/track/1VM8R8iByjEbrWUFDkaful) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [Whatever](https://open.spotify.com/album/09M2iavquvwhrN43gVsqfG) | 3:44 |
-| 78 | [Wouldn't It Be Nice](https://open.spotify.com/track/60t0oNLBuyqeiIbl9igwO2) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [King Cruff](https://open.spotify.com/artist/7khMTiNuI9RMmvl76YJmnV) | [It's Always Sunny in Glendale](https://open.spotify.com/album/1moQepqI0UO0mctopBmp9O) | 1:58 |
+| 78 | [Wouldn't It Be Nice](https://open.spotify.com/track/60t0oNLBuyqeiIbl9igwO2) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [It's Always Sunny in Glendale](https://open.spotify.com/album/1moQepqI0UO0mctopBmp9O) | 1:58 |
 | 79 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 80 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 81 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 |

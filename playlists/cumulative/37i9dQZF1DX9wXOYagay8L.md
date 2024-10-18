@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs?si=CMXYK9TzRrKRW3PHPFs2Nw">Donald</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=6\-fBrKMITCus2FGdp2ZMfA">Zamajobe</a>
 
-603 songs - 1 day 19 hr 10 min
+604 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Akasangifuni](https://open.spotify.com/track/3gFgWXXr5TO2WI2ykUeSxi) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Airic](https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO), [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi) | [Mkabayi](https://open.spotify.com/album/0U8KEPzwdRROQUwsUigcOW) | 4:20 | 2023-08-24 | 2023-09-01 |
 | [Akathintwa](https://open.spotify.com/track/3vT35rhGVQZVBMQODC0ora) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Akathintwa](https://open.spotify.com/album/0Y9hPEypFpNLU2n8zcNccs) | 5:15 | 2022-12-01 | 2023-03-03 |
 | [Akulungi Lutho](https://open.spotify.com/track/5SLGxSQTPOvh4LDsSFbG1P) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [Van Toeka](https://open.spotify.com/album/2P1RPn3p1ViRvfnLt8GIga) | 4:13 | 2024-08-29 |  |
+| [Akusemnandi](https://open.spotify.com/track/2R7Kl3OPhVSiiz0WLzDJFW) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Akusemnandi](https://open.spotify.com/album/0wXPoNPIxpsYRolcIr3GFo) | 4:59 | 2024-10-17 |  |
 | [All 2.0](https://open.spotify.com/track/39Bhr2KDJVTJb3guVOjPAj) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60) | [All 2.0](https://open.spotify.com/album/1yBJX7ZTeezyroWMUMjIcK) | 4:24 | 2022-09-01 | 2022-09-23 |
 | [All In You](https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [All In You](https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95) | 8:32 | 2022-12-15 | 2023-07-08 |
 | [All My Life](https://open.spotify.com/track/6eyJuobFFGXLAOOkxrIdSV) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [All My Life](https://open.spotify.com/album/6Ik9e7LZgsK0az1tzEVEG0) | 4:26 | 2024-08-29 |  |
@@ -35,7 +36,7 @@
 | [Amalobolo](https://open.spotify.com/track/7g4TQSi0sO8Ju4gWed3YG9) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Amalobolo](https://open.spotify.com/album/0CLBWzVbiIp3ZT9aubfOY1) | 4:19 | 2023-03-09 | 2023-04-28 |
 | [Amalobolo](https://open.spotify.com/track/11wimQmyafLaiXvGsgUv0q) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Amalobolo](https://open.spotify.com/album/4T76XTHVURPGheBs1dCoiL) | 3:23 | 2022-08-25 | 2022-10-21 |
 | [Amanxeba Othando \(feat\. Mduduzi Ncube\)](https://open.spotify.com/track/0NH6wxjDcflP9Ymw8UQu4b) | [Bekezela](https://open.spotify.com/artist/4iZu4DzXizc1qAOSpa3qCX), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Asiwine](https://open.spotify.com/album/0Ug7YS6FRnN7QVH4HbAxKr) | 3:20 | 2022-08-04 | 2022-10-29 |
-| [Amaqaba](https://open.spotify.com/track/6PvyDgb1ChljnQk1qwy1dg) | [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Isibane Selali](https://open.spotify.com/album/0dfYUSlAXQ45wCowCf4Mda) | 3:48 | 2024-01-25 |  |
+| [Amaqaba](https://open.spotify.com/track/6PvyDgb1ChljnQk1qwy1dg) | [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Isibane Selali](https://open.spotify.com/album/0dfYUSlAXQ45wCowCf4Mda) | 3:48 | 2024-01-25 | 2024-10-18 |
 | [Amaqatha Amancane](https://open.spotify.com/track/60VjGvGReNEvFixZjzkAnI) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Amaqatha Amancane](https://open.spotify.com/album/4hsxCzsRFIhmFyCu4lvHrB) | 1:37 | 2024-04-25 | 2024-08-16 |
 | [Amatshe](https://open.spotify.com/track/1aiAtLoft4PcGAUjoZbzBI) | [Zandie Khumalo](https://open.spotify.com/artist/4GdUhcBI1SwljnDQlLYo6b) | [Amatshe](https://open.spotify.com/album/7dZRGOyNhIeX80lTE2nlTg) | 3:30 | 2023-06-02 | 2023-07-14 |
 | [Amavaka](https://open.spotify.com/track/62aLwvsufVEshiNSoATYJB) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 3:42 | 2023-02-02 | 2023-06-30 |

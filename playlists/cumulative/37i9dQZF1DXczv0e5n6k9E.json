@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FLY LO",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos, Billy Sio ",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 180743,
       "name": "3:33",
       "url": "https://open.spotify.com/track/6ZogZyvoQJDfrIa6Hzojyq"
+    },
+    {
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5G5fiHWAAAyrdrBTndyy3Q"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/6Wq97Q9kQ8pioRtYQYfcNQ"
     },
     {
       "album": {
@@ -204,7 +226,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 198000,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/22v0nQAXYjRlRcO9KFKYgN"
@@ -434,7 +456,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 160183,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/3rrxhhuSWx0qWbmjVSwpx1"
@@ -937,6 +959,32 @@
     },
     {
       "album": {
+        "name": "DIDGERIDOO",
+        "url": "https://open.spotify.com/album/4uig9vBX3NqSFTqZXC6JZd"
+      },
+      "artists": [
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        },
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        },
+        {
+          "name": "Lil Riico",
+          "url": "https://open.spotify.com/artist/7jJIWDEEEQvarOBiEd6WQq"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "DIDGERIDOO",
+      "url": "https://open.spotify.com/track/0eKVBdxBNs9vgG3Yi4Ccqj"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/0LZpJ5aYy9WRFpK79m0T6u"
       },
@@ -1306,7 +1354,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 219516,
       "name": "FOTIA",
       "url": "https://open.spotify.com/track/1c6BBiaz1uXPs8Nw2WCCpr"
@@ -1340,6 +1388,24 @@
       "duration_ms": 182370,
       "name": "FREE RICTA",
       "url": "https://open.spotify.com/track/7oHFRhJ7dGXWLmM8WkhYRl"
+    },
+    {
+      "album": {
+        "name": "Frena",
+        "url": "https://open.spotify.com/album/0atM4r99hBpMjA5uJE3vPk"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Frena",
+      "url": "https://open.spotify.com/track/1sk1gRQHhySVQvLKEheGmm"
     },
     {
       "album": {
@@ -1486,6 +1552,24 @@
       "duration_ms": 117557,
       "name": "Giati",
       "url": "https://open.spotify.com/track/6jKKmTfNGuoIPB9AzynlpA"
+    },
+    {
+      "album": {
+        "name": "Gioconda",
+        "url": "https://open.spotify.com/album/3MJGltkrRzqNfg9WcriZRF"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Gioconda",
+      "url": "https://open.spotify.com/track/17M10WNrMkrxBzoW6jK2Dg"
     },
     {
       "album": {
@@ -1862,7 +1946,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190336,
       "name": "Kamia San Esena",
       "url": "https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0"
@@ -1906,6 +1990,32 @@
       "duration_ms": 188688,
       "name": "Ke Ti Den Tha Dina",
       "url": "https://open.spotify.com/track/63BVcYK5badAGfZoUJarvK"
+    },
+    {
+      "album": {
+        "name": "Killer Instict",
+        "url": "https://open.spotify.com/album/04WDxf97RsiTJT9QBQXURX"
+      },
+      "artists": [
+        {
+          "name": "Thanasimos",
+          "url": "https://open.spotify.com/artist/4YoN5V5F6zpHFq5Z8unNk5"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        },
+        {
+          "name": "#nofucksgiven",
+          "url": "https://open.spotify.com/artist/6Kc5Wrbn3elNtie6N4iafs"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Killer Instict",
+      "url": "https://open.spotify.com/track/0JqVQLDT3Y21rTZwGrdjlu"
     },
     {
       "album": {
@@ -2667,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "NO COMPETITION",
+        "url": "https://open.spotify.com/album/1TKNjxFfKZ1oKFuiJ82CKy"
+      },
+      "artists": [
+        {
+          "name": "Retro",
+          "url": "https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb"
+        },
+        {
+          "name": "Longlive",
+          "url": "https://open.spotify.com/artist/7mcUh5VoiIjOD7A4koQ4AC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "NO COMPETITION",
+      "url": "https://open.spotify.com/track/4eVLHEcnNHs8F21hmF3Smq"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5qG5y6SRTfGo04942HUpDS"
       },
@@ -2826,6 +2958,24 @@
       "duration_ms": 143389,
       "name": "ONE DANCE",
       "url": "https://open.spotify.com/track/2moVjjYXKWy91ih9yh0oZH"
+    },
+    {
+      "album": {
+        "name": "OTAN LEIPEIS",
+        "url": "https://open.spotify.com/album/63ffcQ0xLrauoaOVRphL8B"
+      },
+      "artists": [
+        {
+          "name": "Trouf",
+          "url": "https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "OTAN LEIPEIS",
+      "url": "https://open.spotify.com/track/539ZkoZfOt9DdoOjbyKwr9"
     },
     {
       "album": {
@@ -3009,6 +3159,28 @@
     },
     {
       "album": {
+        "name": "POIOTHTA",
+        "url": "https://open.spotify.com/album/46zFf3W5CZEE2fsFDiO1dS"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138157,
+      "name": "POIOTHTA",
+      "url": "https://open.spotify.com/track/0W8MQTfKYsEFGzfB8kIjJS"
+    },
+    {
+      "album": {
         "name": "POLICIA",
         "url": "https://open.spotify.com/album/6rvJfaK4fjRwbPa2KjCFWZ"
       },
@@ -3164,7 +3336,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 137142,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3"
@@ -3480,7 +3652,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 151048,
       "name": "Sto telos",
       "url": "https://open.spotify.com/track/18FXt9Cm9h16e02nyozL8o"
@@ -3822,7 +3994,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 158204,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/7nqgLwE4IdKVQs6XrFBZU0"
@@ -4076,7 +4248,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 168000,
       "name": "WOLT",
       "url": "https://open.spotify.com/track/2udzvMtNBuBYyWqY29LJod"

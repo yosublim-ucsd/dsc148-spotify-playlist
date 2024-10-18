@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,074 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,086 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 8 | [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 |
 | 9 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 |
 | 10 | [COLADINHO](https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2) | [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Liz Kaweria](https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77), [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [COLADINHO](https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj) | 2:32 |
-| 11 | [Hipnose](https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Hipnose](https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6) | 3:29 |
-| 12 | [Foto no Espelho](https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [De Lua](https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa) | 3:08 |
+| 11 | [Foto no Espelho](https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [De Lua](https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa) | 3:08 |
+| 12 | [Hipnose](https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Hipnose](https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6) | 3:29 |
 | 13 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
 | 14 | [PEGA PEGA](https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Biuw](https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv) | [PILULA DO DIA SEGUINTE](https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy) | 2:30 |
 | 15 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |

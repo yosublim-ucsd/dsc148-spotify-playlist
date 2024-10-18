@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=XeeVnwcDRLK-7fn3mXNm4g\">Eloff</a> en <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=vwpvgRPdQZ6B_qW6sI0dTA\">Die Piesangskille</a>",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=1o9-vzRJSWqE7TPL5OXo-Q\">Tamlyn Wessel</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178146,
+      "name": "Keeza",
+      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
+    },
+    {
+      "album": {
         "name": "Afrikaans is Groot Vol. 14",
         "url": "https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 178146,
       "name": "Keeza",
       "url": "https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e"
@@ -2020,6 +2038,24 @@
       "duration_ms": 148776,
       "name": "Klaar Gesmeek",
       "url": "https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8"
+    },
+    {
+      "album": {
+        "name": "Klein Bietjie",
+        "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181194,
+      "name": "Klein Bietjie",
+      "url": "https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr"
     },
     {
       "album": {
@@ -3894,7 +3930,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 220831,
       "name": "Swipe Regs",
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"

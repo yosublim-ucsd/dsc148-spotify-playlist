@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168928,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa"
       },
@@ -498,6 +516,32 @@
       "duration_ms": 236998,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
+    },
+    {
+      "album": {
+        "name": "CRASH DUMMY MUZIK",
+        "url": "https://open.spotify.com/album/4NlIVt9HcukdI7EEzXWkuo"
+      },
+      "artists": [
+        {
+          "name": "Nauti",
+          "url": "https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Roland Jones",
+          "url": "https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201720,
+      "name": "CRASH DUMMY MUZIK",
+      "url": "https://open.spotify.com/track/3DIgMO31zNSpR2wOZT7JcD"
     },
     {
       "album": {
@@ -1093,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "High Standards",
+        "url": "https://open.spotify.com/album/1Z5o4bvn3UfgHxKNxosdWU"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156888,
+      "name": "High Standards",
+      "url": "https://open.spotify.com/track/15TdTzxecMez1Dw6IvxhhM"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
@@ -1190,7 +1252,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 180817,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/3QewaXYrA2yRzcxEbpFwat"
@@ -1344,7 +1406,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 174315,
       "name": "IDK",
       "url": "https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR"
@@ -1486,6 +1548,24 @@
       "duration_ms": 228000,
       "name": "Just Holdin' On (feat. Eo)",
       "url": "https://open.spotify.com/track/3nTIPxhqxPZ0eErd3WqKgc"
+    },
+    {
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/4wkb1ikv8zY8rMAeeIVG56"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223229,
+      "name": "Leave Me Low",
+      "url": "https://open.spotify.com/track/5A6FXagEPwOWV6MIurNgTK"
     },
     {
       "album": {
@@ -2048,7 +2128,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 139000,
       "name": "No Peace, No Time",
       "url": "https://open.spotify.com/track/66Be4ATVoOu2JiyS2QFich"
@@ -2734,7 +2814,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 215776,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
@@ -2862,6 +2942,24 @@
       "duration_ms": 219173,
       "name": "Stand By Me (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/01PiYj34jxVHb1kHK0ZwJP"
+      },
+      "artists": [
+        {
+          "name": "CHISEKO",
+          "url": "https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3wqxUy1vzbwjTHzZV5gfzb"
     },
     {
       "album": {
@@ -3564,7 +3662,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 238864,
       "name": "Witness",
       "url": "https://open.spotify.com/track/3I4Ay3SjBeJvp0JQCEu6mh"

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-655 songs - 1 day 22 hr 12 min
+656 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Breeze](https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Breeze](https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL) | 4:27 | 2024-09-26 |  |
 | [BTR2](https://open.spotify.com/track/6Xyp52mHcrl7iuTSYNw849) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [MADELEINE](https://open.spotify.com/artist/6KLwe6l8iwIv4ijdPgdiSK) | [All That We Have EP](https://open.spotify.com/album/4GxxrZH9jVQJdU4lyx16PS) | 5:22 | 2024-03-08 | 2024-03-12 |
 | [Buckle Up](https://open.spotify.com/track/6B1TQPyyswTiskhWurN1Rs) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk) | [Buckle Up](https://open.spotify.com/album/4mBCq5MffoxUYKJFx4aU1U) | 5:02 | 2021-12-17 | 2022-05-27 |
+| [Butter](https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Butter](https://open.spotify.com/album/0kHYxQbKPKpWYSDwY3kjOo) | 3:01 | 2024-10-10 |  |
 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-27 |  |
 | [Calder Shapes](https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Calder Shapes](https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe) | 7:08 | 2023-07-06 | 2023-10-27 |
 | [Call It Rain](https://open.spotify.com/track/5o8LS7rhCBlSemwsveSbva) | [Matilda Bond](https://open.spotify.com/artist/5tIQBzXX3zv7BtBqOQI3Ab) | [Call It Rain](https://open.spotify.com/album/7e8EIb8PQETwbte8XlrGzY) | 4:37 | 2022-01-14 | 2022-06-01 |
@@ -651,7 +652,7 @@
 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 | 2023-03-17 | 2024-06-01 |
 | [Woman](https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Find Your Flame](https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL) | 4:50 | 2024-05-02 |  |
 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 | 2022-07-14 | 2024-02-23 |
-| [Working It Out](https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Working It Out](https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft) | 3:55 | 2024-07-18 |  |
+| [Working It Out](https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Working It Out](https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft) | 3:55 | 2024-07-18 | 2024-10-18 |
 | [Wrong Tree](https://open.spotify.com/track/4UGMSoA1nHKpdpMeWLF20w) | [Ellie Harris](https://open.spotify.com/artist/6BeXJVRF7Qv5KWuzlu77rU), [Sam Ellwood](https://open.spotify.com/artist/4wUAogYCoypUYMcLI4Q7yC) | [Wrong Tree](https://open.spotify.com/album/4gPrpWUTDbIoIqIDmKjOAD) | 2:29 | 2022-03-08 | 2022-04-21 |
 | [Wrong Tree](https://open.spotify.com/track/6iOk705HhdjM3TbififXPh) | [Ellie Harris](https://open.spotify.com/artist/6BeXJVRF7Qv5KWuzlu77rU), [Sam Ellwood](https://open.spotify.com/artist/4wUAogYCoypUYMcLI4Q7yC) | [Wrong Tree](https://open.spotify.com/album/7LxgHjwdmuvJhoVDscVx9v) | 2:29 | 2023-03-08 | 2023-03-09 |
 | [Y Gwydd](https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY) | [Huw Marc Bennett](https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ) | [Y Gwydd \(Radio Edit\)](https://open.spotify.com/album/4W0NOkttgn5fjLfOoyMdcT) | 5:38 | 2023-05-05 | 2023-08-30 |

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: ドレスコーズ
 
-1,789 songs - 4 day 16 hr 35 min
+1,790 songs - 4 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 | 2024-02-02 |
 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 | 2023-12-26 | 2024-01-10 |
 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:51 | 2023-02-21 | 2023-03-01 |
+| [Till Dawn](https://open.spotify.com/track/2pQWpslYgqZ5n9UFs7NrCV) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Till Dawn](https://open.spotify.com/album/7HuJjAZAnus0fqOGrxCaDX) | 3:09 | 2024-10-17 |  |
 | [Time Travel Girl](https://open.spotify.com/track/7Gyut69T9psJY0WvK8pgDM) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Time Travel Girl](https://open.spotify.com/album/3RvM5QWyMn7lkkcev0cmbz) | 3:42 | 2023-04-06 | 2023-04-26 |
 | [Timelapse](https://open.spotify.com/track/4BYhd9xyESVjmNE8rP5Cmk) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [Timelapse](https://open.spotify.com/album/5qXF6RVMK1lqFz1vDfam91) | 3:49 | 2024-09-17 | 2024-10-09 |
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-02-15 |
@@ -1072,7 +1073,7 @@
 | [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 | 2023-10-10 | 2023-10-12 |
 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-04 | 2023-08-09 |
 | [オルゴール](https://open.spotify.com/track/6tC2Ve7ZQ8ThKMeF23OdaJ) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/3DBeQa3cCjFw0B4RIKarvk) | 4:11 | 2023-07-04 | 2023-07-06 |
-| [オレは音楽](https://open.spotify.com/track/3YFnjnksApVEq8PnjQPjNP) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [SQUEEZE and RELEASE](https://open.spotify.com/album/2q2lcW7n1QvtrObsGgTEw7) | 3:47 | 2024-10-08 |  |
+| [オレは音楽](https://open.spotify.com/track/3YFnjnksApVEq8PnjQPjNP) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [SQUEEZE and RELEASE](https://open.spotify.com/album/2q2lcW7n1QvtrObsGgTEw7) | 3:47 | 2024-10-08 | 2024-10-18 |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-28 | 2024-06-26 |
 | [オワラナイ](https://open.spotify.com/track/2355W95j0FiTZLtoOvkieU) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [オワラナイ](https://open.spotify.com/album/0cdAV4bwFBQ03TchF7qFgI) | 4:33 | 2023-04-06 | 2023-04-26 |
 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 | 2024-04-16 | 2024-05-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: King Nassar",
+  "description": "Dendang Dangdut teratas. Cover: Iqhbal, Selfi Yamma",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 255849,
       "name": "Ampunan Dosa",
       "url": "https://open.spotify.com/track/407M4k7Z3Cc9iBNovzgNRo"
@@ -244,6 +244,28 @@
       "duration_ms": 287322,
       "name": "Angin",
       "url": "https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb"
+    },
+    {
+      "album": {
+        "name": "Anugerah Cinta",
+        "url": "https://open.spotify.com/album/4nkfcqn1QoczR6L3oEZARZ"
+      },
+      "artists": [
+        {
+          "name": "Iqhbal",
+          "url": "https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M"
+        },
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502666,
+      "name": "Anugerah Cinta",
+      "url": "https://open.spotify.com/track/6dr1zYGUfWPtxYcEcSNb05"
     },
     {
       "album": {
@@ -646,7 +668,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 347575,
       "name": "Cinta Tak Terpisahkan - Live Ska Reggae",
       "url": "https://open.spotify.com/track/5O6qQZLSMLwK7eGwAKruUH"
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 302575,
       "name": "Hanya Insan Biasa - Live Ska Reggae",
       "url": "https://open.spotify.com/track/6qJIqqPqWim82D36xcYXua"
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 276995,
       "name": "Merayu - Live",
       "url": "https://open.spotify.com/track/50fiMmuMbK6NacXfcxQ1yB"
@@ -2651,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "Rindu Tapi Jauh (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/20lrZtjVOwF9jeLq6eyx5S"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Ochi Alvira",
+          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287979,
+      "name": "Rindu Tapi Jauh - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/4wxu9KzFOFifxJAh3V8iTj"
+    },
+    {
+      "album": {
         "name": "Rindu Tapi Malu (Live At Ska Reggae)",
         "url": "https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj"
       },
@@ -2774,7 +2818,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 287599,
       "name": "Salahmu Sendiri - (Live Ska Reggae)",
       "url": "https://open.spotify.com/track/6hjseVVhxshzbMzeSDgEeH"
@@ -3178,7 +3222,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 338203,
       "name": "Suci - Live At Ska Reggae",
       "url": "https://open.spotify.com/track/6FDjmD8pvkNPy5YBAy3tl9"

@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Can't Talk",
+        "url": "https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7"
+      },
+      "artists": [
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Can't Talk",
+      "url": "https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js"
+    },
+    {
+      "album": {
         "name": "Candy Store",
         "url": "https://open.spotify.com/album/6TykQyorYzB76eYARhIMHB"
       },
@@ -10222,6 +10240,24 @@
       "duration_ms": 208038,
       "name": "WY@",
       "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+    },
+    {
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
       "album": {

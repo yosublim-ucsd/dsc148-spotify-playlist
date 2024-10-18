@@ -4,7 +4,7 @@
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-97 songs - 4 hr 29 min
+98 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Camelot: If Ever I Would Leave You](https://open.spotify.com/track/6XwsI37WkJFP7jKq0odpWi) | [Frederick Loewe](https://open.spotify.com/artist/6vSV6SDf1vteodhgV83AJ6), [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR), [Original Broadway Cast of Camelot](https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5), [Franz Allers](https://open.spotify.com/artist/6WdfiLSbnrKRLINWsG1UCe) | [The Essential Robert Goulet](https://open.spotify.com/album/5oMHT5nCTGvtSrH4r64bw0) | 3:09 | 2023-03-17 | 2024-08-11 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2023-03-17 | 2024-08-11 |
 | [Change of Habit](https://open.spotify.com/track/2mF94iWhTOcWPGwIY7qJyz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Let's Be Friends \(Expanded Edition\)](https://open.spotify.com/album/1Y2xJiEIq4l8FMSLNTyzwd) | 3:19 | 2023-03-17 | 2024-08-11 |
+| [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1FnfyD5qFO7Q9ZHPpIcfcb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2mhZyOisiQGu7sirnHn2tx) | 2:41 | 2024-10-17 |  |
 | [Crying In the Chapel](https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [How Great Thou Art](https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt) | 2:25 | 2023-03-17 | 2024-08-11 |
 | [Dirty Little Animals \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3GAkqaCeVaT4CxHR06Eztc) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:25 | 2024-08-10 |  |
 | [Don't](https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol\. 2](https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe) | 2:48 | 2023-03-17 | 2024-08-11 |

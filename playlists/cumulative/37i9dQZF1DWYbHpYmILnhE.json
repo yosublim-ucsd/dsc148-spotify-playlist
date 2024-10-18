@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Drilling through Naij. Cover: Apex Village, Laime  &  Psycho YP",
+  "description": "Drilling through Naij. Cover: Reeplay",
   "name": "Naija Drill ",
   "tracks": [
     {
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Toranjitto",
+        "url": "https://open.spotify.com/album/11wIPN7GEFMUAEuxRvqfQO"
+      },
+      "artists": [
+        {
+          "name": "8tch",
+          "url": "https://open.spotify.com/artist/4FWaqkWWKH14AibDK0LIEg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Jesu L'oba",
+      "url": "https://open.spotify.com/track/4jViEhNnW1ssArb7I53JiP"
+    },
+    {
+      "album": {
         "name": "JOHNBULL",
         "url": "https://open.spotify.com/album/200TK74gk1yUs0KdLAetLT"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 123088,
       "name": "JOHNBULL",
       "url": "https://open.spotify.com/track/3nJWni9IsAtHca7x9ewODS"
@@ -1240,6 +1258,32 @@
       "duration_ms": 116839,
       "name": "Receipts",
       "url": "https://open.spotify.com/track/1pfvwzTRFBlnzL882eqcVu"
+    },
+    {
+      "album": {
+        "name": "Refund (Part 2)",
+        "url": "https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN"
+      },
+      "artists": [
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Refund (Part 2)",
+      "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"
     },
     {
       "album": {

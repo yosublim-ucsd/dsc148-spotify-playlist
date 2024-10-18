@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,137 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,277 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 31 | [アシタカとサン](https://open.spotify.com/track/5gHNrHBDPcUnWxXNqy6xrx) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [もののけ姫 サウンドトラック](https://open.spotify.com/album/5R4jAUVZWLmTyJVaCT1XHs) | 3:12 |
 | 32 | [帰らざる日々](https://open.spotify.com/track/41z7RiOfPIiULtH6Ia1qsz) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [紅の豚 サウンドトラック](https://open.spotify.com/album/0dvirg2JnLKVfvVuTuGF2i) | 2:16 |
 | 33 | [Fine On The Outside](https://open.spotify.com/track/36uOUE8q85zt9TO9T7dipa) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [思い出のマーニー サントラ音楽集](https://open.spotify.com/album/58944XvsZq3PcXKWYZieGn) | 4:15 |
-| 34 | [旅路\(夢中飛行\)](https://open.spotify.com/track/5WJTQoNLeSGUdOXVa7oqhI) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風立ちぬ サウンドトラック](https://open.spotify.com/album/22CabmJSWNFJqzzvgYw3JD) | 2:55 |
+| 34 | [旅路（夢中飛行）](https://open.spotify.com/track/5WJTQoNLeSGUdOXVa7oqhI) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風立ちぬ サウンドトラック](https://open.spotify.com/album/22CabmJSWNFJqzzvgYw3JD) | 2:55 |
 | 35 | [失われた楽園](https://open.spotify.com/track/6rgTOGveOsUggcHoNozOUZ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [天空の城ラピュタ イメージアルバム \~空から降ってきた少女\~](https://open.spotify.com/album/4tkScj5kyZhGVGAnmzbHni) | 2:15 |
 | 36 | [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 |
 | 37 | [崖の上のポニョ](https://open.spotify.com/track/631B0Vtr5oMc6GJJNXZLnp) | [藤岡藤巻と大橋のぞみ](https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz) | [崖の上のポニョ イメージアルバム](https://open.spotify.com/album/17JPYIKQJndwCf6Hwza1Fp) | 2:46 |

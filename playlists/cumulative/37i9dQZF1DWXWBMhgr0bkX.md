@@ -4,7 +4,7 @@
 
 > Your future favourite pop stars, fresh for the UK\. Cover: Chloe Qisha
 
-116 songs - 5 hr 57 min
+121 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ain't Waiting For The World To Turn](https://open.spotify.com/track/193fZueEjp0NMkHSvMtZB4) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Ain't Waiting For The World To Turn](https://open.spotify.com/album/5kdDzOYJV6OTsCNSAQiO66) | 2:50 | 2024-06-04 | 2024-08-17 |
 | [All of a Sudden](https://open.spotify.com/track/5hBiUf48QNbdNCsiQRxPlY) | [Samuel Evanson](https://open.spotify.com/artist/4hEhLE7JCrPZOiG3o4Kqi8) | [All of a Sudden](https://open.spotify.com/album/5b8VNZwBlaN65NpBQQttQa) | 3:34 | 2024-06-04 | 2024-09-06 |
 | [All The Time](https://open.spotify.com/track/15kh7Rja9cOZZ2yI5bZlvX) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [All The Time](https://open.spotify.com/album/4vOAXgADY2UDmrX7o3Qa2E) | 2:58 | 2024-06-04 | 2024-09-13 |
-| [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-08-08 |  |
+| [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-08-08 | 2024-10-18 |
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-08 | 2024-10-11 |
 | [angie](https://open.spotify.com/track/55lfk9iyLoKBFlznN3ebkO) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [angie](https://open.spotify.com/album/3MpGkxdtN037VpIKirfrUp) | 2:55 | 2024-10-04 |  |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-10 |  |
@@ -41,14 +41,16 @@
 | [Dark Arts](https://open.spotify.com/track/5q8lO9GDY33DvVH4gkkPNa) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Dark Arts](https://open.spotify.com/album/3cZJKRV8PnPOuBUZJbHZaZ) | 3:27 | 2024-09-12 | 2024-10-11 |
 | [Daydreams](https://open.spotify.com/track/1Zd1rB7gPvaIhtJmorOUgU) | [Theo Zellus](https://open.spotify.com/artist/4FhoAhb3rM2xpTPkoskUts) | [Daydreams](https://open.spotify.com/album/4i8AntK5jOzWkf2n3JYiIC) | 2:45 | 2024-06-04 | 2024-09-06 |
 | [Death of the Party](https://open.spotify.com/track/0SqMmcSIHxx1T4Dy4JDQTP) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Death of the Party](https://open.spotify.com/album/60Yanp9xzdfHQ9rbQEkUTb) | 2:02 | 2024-06-04 | 2024-09-06 |
-| [Don't Come To My Show](https://open.spotify.com/track/5zHUE4o1luklrJ6qkpyzmj) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Pulverise](https://open.spotify.com/album/4E530gmLhANJ9Gr8niP3n2) | 3:53 | 2024-08-08 |  |
+| [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 | 2024-10-17 |  |
+| [Don't Come To My Show](https://open.spotify.com/track/5zHUE4o1luklrJ6qkpyzmj) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Pulverise](https://open.spotify.com/album/4E530gmLhANJ9Gr8niP3n2) | 3:53 | 2024-08-08 | 2024-10-18 |
 | [Don't Delete My Number](https://open.spotify.com/track/3e2MjASA9WQrL1pVLLbSwj) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Don't Delete My Number](https://open.spotify.com/album/4YKm31taPYgs8DNJrqJXK7) | 2:55 | 2024-08-30 |  |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-06-04 | 2024-09-13 |
 | [erase u](https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [erase u](https://open.spotify.com/album/74Ho6d5Ftge7QFc4LDMwlM) | 3:03 | 2024-09-12 |  |
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-08 |  |
 | [Everything](https://open.spotify.com/track/07QBu6WtJhsuCQDmL8SwI5) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [The Death Of A Troubadour](https://open.spotify.com/album/2aaKgTHj3rXwbLIbjKXEVN) | 2:58 | 2024-06-04 | 2024-09-28 |
 | [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-05 |  |
-| [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-08-08 |  |
+| [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-08-08 | 2024-10-18 |
+| [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-17 |  |
 | [find your own](https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [find your own](https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC) | 3:16 | 2024-08-16 | 2024-09-13 |
 | [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-06-04 | 2024-09-20 |
 | [Following My Heart](https://open.spotify.com/track/2aYwidfNNH7zhdtX7IDzPG) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Following My Heart](https://open.spotify.com/album/1qo7PGE11c3aZtTJnn96py) | 4:19 | 2024-06-04 | 2024-09-20 |
@@ -98,12 +100,14 @@
 | [pretty](https://open.spotify.com/track/5BCaPnsHqowMxitUiMZZF2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [pretty](https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc) | 2:40 | 2024-06-04 | 2024-08-09 |
 | [Queen](https://open.spotify.com/track/4fidflpyukTVL9kPG0f1xj) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Queen](https://open.spotify.com/album/4clewFmbeplurLGqTVcoVT) | 3:01 | 2024-06-04 | 2024-09-13 |
 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 | 2024-06-04 |  |
+| [Renaissance](https://open.spotify.com/track/4QiSg946Nqt4J745prLpz4) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Renaissance](https://open.spotify.com/album/3OET72XzRHo2zYl7off9cG) | 2:37 | 2024-10-17 |  |
 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-04 |  |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-16 |  |
 | [Room Service](https://open.spotify.com/track/3n3z00AYYXA9PpKjesESux) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Life Of The Party](https://open.spotify.com/album/02cnQUDeztCpLawkPAjXtW) | 2:08 | 2024-09-12 |  |
 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 | 2024-08-08 |  |
+| [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-17 |  |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-10 |  |
-| [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 | 2024-08-16 |  |
+| [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 | 2024-08-16 | 2024-10-18 |
 | [Someone Else](https://open.spotify.com/track/4vkXqsEML2t4PJuWdGLKrU) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Someone Else](https://open.spotify.com/album/0qeDAljm3Up71IapQ1Oy5n) | 3:19 | 2024-08-30 |  |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-19 |  |
 | [Studio Apartment](https://open.spotify.com/track/6IsAc56JsJpxwVVLVznD0M) | [Chanel Yates](https://open.spotify.com/artist/5YABtAJlBJAzqxfIJA4nQd) | [Studio Apartment](https://open.spotify.com/album/4sZi0Cl6KHqpYNJcUwwx7I) | 3:30 | 2024-06-04 | 2024-08-31 |
@@ -122,7 +126,8 @@
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-04 |  |
 | [Wingman](https://open.spotify.com/track/553ChZNK0odFJhu4aYNh63) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Wingman](https://open.spotify.com/album/4Woi2Ikh8raJvjMGPNrdZG) | 3:07 | 2024-06-04 | 2024-09-13 |
 | [Wonder](https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Wonder](https://open.spotify.com/album/4hK3BiVM1UsQGNvVle14bP) | 3:23 | 2024-08-30 | 2024-10-11 |
-| [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 | 2024-08-08 |  |
+| [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 | 2024-08-08 | 2024-10-18 |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 |  |
+| [You Got The Thing](https://open.spotify.com/track/5grSq7F9QB6u2rtXgUbvuT) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [You Got The Thing](https://open.spotify.com/album/76pzyDWIjY8NoQpUH3EeSP) | 2:33 | 2024-10-17 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

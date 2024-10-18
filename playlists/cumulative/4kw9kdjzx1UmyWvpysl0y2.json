@@ -13516,7 +13516,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 188667,
       "name": "Slaughter",
       "url": "https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2"
@@ -16330,6 +16330,24 @@
       "duration_ms": 176444,
       "name": "Vermin",
       "url": "https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5"
+    },
+    {
+      "album": {
+        "name": "Violet Sky",
+        "url": "https://open.spotify.com/album/0DFlOSSgdDUMVCiFdgr9j0"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Violet Sky (A Letter For You)",
+      "url": "https://open.spotify.com/track/3YLwSJoYBTWBrFaGYG0jkc"
     },
     {
       "album": {

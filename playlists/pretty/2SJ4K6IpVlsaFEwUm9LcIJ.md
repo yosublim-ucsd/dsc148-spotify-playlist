@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,788 likes - 49 songs - 2 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,792 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 47 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 |
 | 48 | [Dolly](https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1) | [Microdisney](https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb) | [Everybody Is Fantastic](https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO) | 3:20 |
 | 49 | [Klonkmelodin](https://open.spotify.com/track/1MdoqTzAV9BPbw1ZbZw9iU) | [Sagor & Swing](https://open.spotify.com/artist/3KIUFqenyBNPkZIQjVnfdX) | [Melodier och fåglar](https://open.spotify.com/album/0f9hohz1u0EeHY8j8RBAQH) | 2:03 |
+| 50 | [BERETTA](https://open.spotify.com/track/5oFigb8ql8JTtowM87T979) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 2:42 |
 
-Snapshot ID: `AAALLtCMlqUqRmfrjXHznwystAKmHf2p`
+Snapshot ID: `AAALL1Xx7uMuxGd/iM9mK4ghs614p4Vu`

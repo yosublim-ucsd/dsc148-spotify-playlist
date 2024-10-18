@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-840 songs - 1 day 23 hr 51 min
+841 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,7 +660,7 @@
 | [Sip On This](https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Sip On This](https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k) | 3:20 | 2024-06-14 | 2024-09-07 |
 | [Sky](https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Sky](https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi) | 3:36 | 2022-10-29 | 2023-01-24 |
 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 | 2022-12-14 |
-| [Slaughter](https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Slaughter](https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc) | 3:08 | 2024-07-26 |  |
+| [Slaughter](https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Slaughter](https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc) | 3:08 | 2024-07-26 | 2024-10-18 |
 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 | 2022-10-20 | 2023-01-07 |
 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 | 2022-10-18 | 2022-12-17 |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 | 2022-11-09 |
@@ -794,6 +794,7 @@
 | [Valhalla](https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Valhalla](https://open.spotify.com/album/49ViXJDQNm2nV1bCMFMcAJ) | 3:57 | 2023-03-01 | 2023-05-30 |
 | [Venom](https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Venom](https://open.spotify.com/album/52zDxxZIO61QgxP0TI256o) | 2:45 | 2024-04-10 | 2024-06-29 |
 | [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 | 2023-04-05 | 2023-06-29 |
+| [Violet Sky \(A Letter For You\)](https://open.spotify.com/track/3YLwSJoYBTWBrFaGYG0jkc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Violet Sky](https://open.spotify.com/album/0DFlOSSgdDUMVCiFdgr9j0) | 3:02 | 2024-10-17 |  |
 | [Vitamin R](https://open.spotify.com/track/3FmdXSMfZjqo9Lz4li7GpW) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [SQISHI](https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h) | [Vitamin R](https://open.spotify.com/album/4xd9LfqmvWcibXiwsk3NIn) | 3:05 | 2023-10-03 | 2024-01-16 |
 | [WAIT4U](https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [WAIT4U](https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6) | 4:12 | 2023-10-13 | 2024-01-27 |
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |

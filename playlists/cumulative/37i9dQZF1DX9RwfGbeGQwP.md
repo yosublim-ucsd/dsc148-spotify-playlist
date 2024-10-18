@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,482 songs - 2 day 7 hr 47 min
+1,484 songs - 2 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Another](https://open.spotify.com/track/1KnTl30Tw99mB01rlm5VpN) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Another](https://open.spotify.com/album/7iH8qptr0RgdF8at4M9WzC) | 2:32 | 2022-04-15 | 2022-11-12 |
 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/5P1tayGhNEZlky687uFT06) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [Anti](https://open.spotify.com/track/3zqBbUO98vVRF8SBFVMDrI) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Anti](https://open.spotify.com/album/6uWgVDRheEtVFDnlTOzsvf) | 2:14 | 2022-07-08 | 2022-12-10 |
+| [aperol spritz](https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [aperol spritz](https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8) | 2:10 | 2024-10-04 |  |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 |  |
 | [April](https://open.spotify.com/track/2Tc2p3pNAWjnIjiP6fS6y4) | [Young Akino](https://open.spotify.com/artist/4u16ySAhgpcfh3aRi0pv5o) | [April](https://open.spotify.com/album/60e5ClJJ339aOagoS3C21n) | 2:00 | 2023-08-03 |  |
 | [Aqua Bar](https://open.spotify.com/track/2fMjuehxqKJQml8jitq4Xd) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93) | [Aqua Bar](https://open.spotify.com/album/1ZBxF4yICm5p5i3gwqBW4F) | 1:33 | 2022-09-02 | 2023-09-05 |
@@ -415,7 +416,7 @@
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-01-27 | 2023-06-06 |
 | [fizzy pop](https://open.spotify.com/track/1x0vuG5frwPlJ9FNwVwBRX) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [fizzy pop](https://open.spotify.com/album/7q3FJ623E6o7m0pV2cOMar) | 2:01 | 2023-01-06 |  |
 | [Flat Break Chill](https://open.spotify.com/track/1ongVSMsyKxwKx2yyEq7Wk) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Flat Break Chill](https://open.spotify.com/album/0salf5DpBpU4i3tvhqH2WS) | 2:14 | 2022-11-11 |  |
-| [flat disc \- Coffe Shop](https://open.spotify.com/track/3dwL80oiNV7KBbihAgcmRZ) | [wet by water](https://open.spotify.com/artist/3r2OmZNHijxZSUSUGaFFES) | [flat disc](https://open.spotify.com/album/6BUybCnu96pymfwetnSms2) | 2:20 | 2022-05-27 |  |
+| [flat disc \- Coffe Shop](https://open.spotify.com/track/3dwL80oiNV7KBbihAgcmRZ) | [wet by water](https://open.spotify.com/artist/3r2OmZNHijxZSUSUGaFFES) | [flat disc](https://open.spotify.com/album/6BUybCnu96pymfwetnSms2) | 2:20 | 2022-05-27 | 2024-10-18 |
 | [Flip](https://open.spotify.com/track/5bWgEFytYDCT9aztfUfakd) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Flip](https://open.spotify.com/album/0NWxH3iq2Pv3jdrvcaTxiw) | 2:07 | 2023-09-04 | 2023-10-20 |
 | [Flip Around](https://open.spotify.com/track/2nQqrEnAZgyP3GcT7tMIdz) | [Eli Stewart](https://open.spotify.com/artist/2cyxeWKnrm59EavSUK4h7O) | [Flip Around](https://open.spotify.com/album/4LZgxPGON2n2BTm3njiVcE) | 2:37 | 2022-01-27 | 2023-08-04 |
 | [Float](https://open.spotify.com/track/0XSq6J7KEeR5IH7GjfeDfX) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Float](https://open.spotify.com/album/4A4ZWRt6nOvuOirw3yWqQo) | 2:10 | 2022-01-27 | 2023-04-28 |
@@ -432,7 +433,7 @@
 | [Flying Away](https://open.spotify.com/track/7zckDVftCAoW2NeuEp9Qvc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Flying Away](https://open.spotify.com/album/6HybhwMgx3nwXFk5qEoNhG) | 1:39 | 2023-03-16 |  |
 | [Flying Dreams](https://open.spotify.com/track/62bePphA3RaOww3GuDtq6c) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Flying Dreams](https://open.spotify.com/album/0HPhtKf6LJOgEpuGro9czt) | 2:37 | 2022-12-16 | 2023-10-06 |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-01-27 | 2022-07-08 |
-| [Foggy Fields](https://open.spotify.com/track/1mjpBiNzn3VsNmrQqk3pGP) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU) | [Foggy Fields](https://open.spotify.com/album/2AxLq4LhRyjPRuSzalp68C) | 2:31 | 2024-09-13 |  |
+| [Foggy Fields](https://open.spotify.com/track/1mjpBiNzn3VsNmrQqk3pGP) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU) | [Foggy Fields](https://open.spotify.com/album/2AxLq4LhRyjPRuSzalp68C) | 2:31 | 2024-09-13 | 2024-10-18 |
 | [Foil](https://open.spotify.com/track/22Ao5rxOyEjgzPlZu21AZa) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Foil](https://open.spotify.com/album/4oDsFrfSMfYn6rspURihaa) | 2:02 | 2024-07-12 |  |
 | [Fold It Twice](https://open.spotify.com/track/45yyYYto4MqFmWPsuwCQLa) | [Yuri Yuri](https://open.spotify.com/artist/3SyyUOPWd82oHTfDnSmMDD) | [Fold It Twice](https://open.spotify.com/album/1aLWcR8oiWnvLD8UoieLQC) | 2:09 | 2023-10-20 | 2023-10-27 |
 | [folks on the hill](https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 7](https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S) | 1:27 | 2023-01-13 | 2023-09-05 |
@@ -902,6 +903,7 @@
 | [No Wonder](https://open.spotify.com/track/2C94rpZSU8ea13n6j7EBSd) | [remember property](https://open.spotify.com/artist/25E5zGd4262arDCKSv3S1f) | [No Wonder](https://open.spotify.com/album/2lmRLKTDX9SZvvFbTkP0du) | 2:17 | 2022-11-25 | 2023-09-29 |
 | [No Worries](https://open.spotify.com/track/1N3Itp1ooPiPNctk0MlkdA) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [No Worries](https://open.spotify.com/album/3IYlfKlLTilQXgerBfyZYk) | 2:15 | 2023-11-17 | 2024-05-14 |
 | [Nobody's Business](https://open.spotify.com/track/1bmhiux4RAI387pkzBRXAw) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Nobody's Business](https://open.spotify.com/album/58IKgakwQZWP8LvgTFyL2y) | 2:03 | 2023-02-07 | 2023-09-05 |
+| [nonkina](https://open.spotify.com/track/3K8m1rfEpFP6fLHrEcWFYp) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Nstlgk](https://open.spotify.com/artist/0hVFuztPYOY56o6ZpoyO3l), [Faydruh](https://open.spotify.com/artist/5A4riiuWB7tryclPqAE6kX) | [nonkina](https://open.spotify.com/album/3aPqjYGt4rBG5KKu9W40IC) | 1:51 | 2024-10-04 |  |
 | [Noodles \- Coffe Ambience](https://open.spotify.com/track/3vS9LucGvr1uHM17nWjjfr) | [Dan Juno](https://open.spotify.com/artist/4XB8JAQw1Kturm4SPu6fgo) | [Noodles](https://open.spotify.com/album/3mSEOxuKk4TUoOuFsoJuVV) | 2:07 | 2022-06-03 | 2022-12-17 |
 | [Nostalgia](https://open.spotify.com/track/1E9MSPVa7lS8gvP51Fzqdz) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/4k3iJ5fUl56bqnJ6t9Pog4) | 2:24 | 2022-12-09 | 2023-09-22 |
 | [Nostalgia](https://open.spotify.com/track/1KURe9cp0LSD5hKMwP6Opj) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/4jiL3huicySFF2n56ch3vN) | 2:24 | 2022-10-15 | 2022-11-24 |
@@ -974,7 +976,7 @@
 | [Peanut Butter](https://open.spotify.com/track/3FGaTQ0PoGKi3GrrzNuk94) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Peanut Butter](https://open.spotify.com/album/4Ptym5GUg6PGORKUZSn7Jz) | 1:01 | 2022-01-27 | 2022-05-20 |
 | [Pear](https://open.spotify.com/track/5kaYTtwCO4n0YrP8PydD79) | [Kyomi](https://open.spotify.com/artist/40Ni6zxyeBMGPnEXaObaw1) | [Pear](https://open.spotify.com/album/0LDnXv9hWIg2O96qkbDY9Z) | 2:26 | 2022-08-12 | 2022-10-15 |
 | [Peoples Plan](https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Peoples Plan](https://open.spotify.com/album/2idlBBN2mSxgUS5GWJEl4t) | 2:22 | 2023-09-22 |  |
-| [Peppercorn](https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Peppercorn](https://open.spotify.com/album/65dRHJnh2IU4UtGMeRF34D) | 1:57 | 2023-04-20 | 2024-09-14 |
+| [Peppercorn](https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Peppercorn](https://open.spotify.com/album/65dRHJnh2IU4UtGMeRF34D) | 1:57 | 2023-04-20 |  |
 | [Peppermint](https://open.spotify.com/track/3XzMvogtB7BXWwElYGyYXO) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Peppermint](https://open.spotify.com/album/1FkmCmUVsXYRnBk8VBaGQ2) | 2:19 | 2022-08-12 | 2022-11-12 |
 | [Perception](https://open.spotify.com/track/6771GihRWSltfIeiffL35K) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Perception](https://open.spotify.com/album/5P3uVvsBSqIU4GMqR6EeRf) | 2:22 | 2024-09-13 | 2024-10-08 |
 | [Perfect Moment](https://open.spotify.com/track/4LQXHGOAjC249XnciBfeAA) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [Perfect Moment](https://open.spotify.com/album/0kVPrRM5ESaI9uRJlpeBqa) | 2:24 | 2023-04-11 | 2024-08-10 |
@@ -1030,7 +1032,7 @@
 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-01-27 | 2022-09-03 |
 | [Rainbow Dragon Waterfall](https://open.spotify.com/track/2VEaXzY3365EVAOB3ktamQ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Rainbow Dragon Waterfall](https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn) | 2:24 | 2022-01-27 | 2023-04-21 |
 | [Rainbower](https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Rainbower](https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC) | 2:08 | 2024-05-13 |  |
-| [Rainy Garden](https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Rainy Garden](https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV) | 2:11 | 2024-08-30 |  |
+| [Rainy Garden](https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Rainy Garden](https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV) | 2:11 | 2024-08-30 | 2024-10-18 |
 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 | 2022-11-11 |  |
 | [Ramen and Herb](https://open.spotify.com/track/7tSFbpe1KLESU6k3v2eBPA) | [Ferris Ferris](https://open.spotify.com/artist/54ePGakNB08wThnuKbgu8r) | [Ramen and Herb](https://open.spotify.com/album/4Dnkjwb9A8dHF6IcmQSUGI) | 2:17 | 2022-01-27 | 2023-04-21 |
 | [Rare Rocks That Look Like David Letterman](https://open.spotify.com/track/5tHoLQiFtgJLLSsRIS2YqK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Fuchsia Badusha](https://open.spotify.com/album/3OPJ6lE0knNq6E7q5YSITv) | 2:29 | 2022-01-27 | 2022-09-03 |

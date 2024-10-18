@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Alif
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,100 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,108 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 30 | [Bolo Na](https://open.spotify.com/track/4gykSpn0bOprFfyfDtHfKd) | [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Bolo Na](https://open.spotify.com/album/3DbjQTbIy679U7SufnWRuf) | 3:02 |
 | 31 | [Jogiya](https://open.spotify.com/track/2vr8kfUuubwbSDU6Tyl8Xf) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Jogiya](https://open.spotify.com/album/0c6nd7YDSB8iiJWf6MZxMd) | 3:09 |
 | 32 | [Kaha Mera](https://open.spotify.com/track/5Gaem0vsKpfOGKSr6ytTTC) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c), [The Dirty\-Jays](https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft) | [Kaha Mera](https://open.spotify.com/album/2Ypsn4ZvmcydxfWLMfR4sI) | 2:45 |
-| 33 | [MAMA SAID!](https://open.spotify.com/track/5HpwMkNhG7JtAGinn0gLyJ) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [PLAY ME!](https://open.spotify.com/album/7iXcD4AT1FWwTwrSQWkW5a) | 3:17 |
+| 33 | [MAMA SAID!](https://open.spotify.com/track/5HpwMkNhG7JtAGinn0gLyJ) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD) | [PLAY ME!](https://open.spotify.com/album/7iXcD4AT1FWwTwrSQWkW5a) | 3:17 |
 | 34 | [Don't Cut Me Down](https://open.spotify.com/track/5cphONhhYqXTgIwfhkzvDu) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [Don't Cut Me Down](https://open.spotify.com/album/5WsE1d5oHfcnihzETt9mRf) | 5:34 |
 | 35 | [Khoyi Si](https://open.spotify.com/track/4mhh6ImzhoEAnFEjSLwar6) | [Remee](https://open.spotify.com/artist/5tjyFvhnukNkJDBrS4Jahe), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Khoyi Si](https://open.spotify.com/album/0rsv08pM8x2yJTKJDbrb16) | 2:23 |
 | 36 | [Dheere](https://open.spotify.com/track/3LQTxhCQUNGhlpUpXYmgwE) | [Shubham Roy](https://open.spotify.com/artist/6yon1QQ3G3GGhK8g67F7Io), [Katya Krishnan](https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD) | [Dheere](https://open.spotify.com/album/6K8zVGUcqMD8lzckysCTms) | 4:04 |

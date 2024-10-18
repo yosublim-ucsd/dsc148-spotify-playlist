@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "General\u00edssima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325483,
+      "name": "General\u00edssima - Ao Vivo",
+      "url": "https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI"
+    },
+    {
+      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 213500,
       "name": "Iluminada H\u00f3stia - Ao Vivo",
       "url": "https://open.spotify.com/track/05sIKKIc67wLaafJw95ePa"
@@ -1848,6 +1866,24 @@
       "duration_ms": 276885,
       "name": "J\u00e1 Deu Certo",
       "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+    },
+    {
+      "album": {
+        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324268,
+      "name": "Levanta e Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
     },
     {
       "album": {
@@ -2820,7 +2856,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 276490,
       "name": "P\u00e3o dos Anjos",
       "url": "https://open.spotify.com/track/2mRPXSMTiy7JDa8QjmMHzG"
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 232000,
       "name": "Todo Tempo do Mundo",
       "url": "https://open.spotify.com/track/5enLDl3yrtx3L3aMIiXKFC"
@@ -3622,6 +3658,24 @@
       "duration_ms": 264560,
       "name": "Vida ou Morte",
       "url": "https://open.spotify.com/track/7C3vHGEp7ti62nYBPduaOw"
+    },
+    {
+      "album": {
+        "name": "Viva a M\u00e3e de Deus e Nossa",
+        "url": "https://open.spotify.com/album/3wqbsTRpxdJ2n7HE5ip2pp"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251956,
+      "name": "Viva a M\u00e3e de Deus e Nossa",
+      "url": "https://open.spotify.com/track/3Tm1zXUqSPuGHdM3DFvBZz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Yoëls & Joaquina Mertz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,895 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,878 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 5 | [zapopan \- sesión noviembre/en vivo](https://open.spotify.com/track/149MZOl0xLdTstY7VfaqKI) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [zapopan \- sesión noviembre/en vivo](https://open.spotify.com/album/2CMWssfS62CL0LbcpDeOqH) | 2:59 |
 | 6 | [IKIGAI](https://open.spotify.com/track/0ZXJcJ5D8btTkxaqLIc8nx) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [IKIGAI](https://open.spotify.com/album/20YshQAetSMKMwpLWl0D1i) | 4:02 |
 | 7 | [Esfera](https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Esfera](https://open.spotify.com/album/0bIlVh4N9g9NkWhez98eG4) | 3:46 |
-| 8 | [Palabras](https://open.spotify.com/track/4rndNVqAVEaQbmaQQDYpw7) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw), [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Palabras](https://open.spotify.com/album/7xsmfNsxoHN7QzBD5w4ppr) | 4:05 |
+| 8 | [Palabras](https://open.spotify.com/track/4rndNVqAVEaQbmaQQDYpw7) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Palabras](https://open.spotify.com/album/7xsmfNsxoHN7QzBD5w4ppr) | 4:05 |
 | 9 | [Svlpdqs](https://open.spotify.com/track/5R185V2FV3ACdtIt5bZR8i) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [Svlpdqs](https://open.spotify.com/album/2RkGDIGCMCXpFNZD6dm5x2) | 1:29 |
 | 10 | [Las Flores y el Campo](https://open.spotify.com/track/2DzEBfKlJBGc7fZJWq0Gr6) | [Chicos al Sol](https://open.spotify.com/artist/2a4bbDjvKAOBfOLTfvvTZ0), [Tutute](https://open.spotify.com/artist/2RfPdsNKTM3NFPjUiZvtmV) | [Las Flores y el Campo](https://open.spotify.com/album/2EV4ZNMc1JL8J8oQk5qyYc) | 3:32 |
 | 11 | [Noche Estrellada](https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG) | [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Noche Estrellada](https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO) | 3:41 |

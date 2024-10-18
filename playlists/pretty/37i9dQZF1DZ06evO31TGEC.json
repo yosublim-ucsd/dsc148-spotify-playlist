@@ -1,12 +1,12 @@
 {
   "description": "This Is El Chapo De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 47977,
+  "num_followers": 47990,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAABTmuXubn7ellyjuzNoZ/Nh",
+  "snapshot_id": "Zw8CAAAAAACXDYKWSU2wHty8xWTME1dy",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1KAhDlBrljisYzGlu8xa5U"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "LUCKY RICH",
-          "url": "https://open.spotify.com/artist/0POO98DJpZXkFVDQSygyRf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/5MFfc5NY6gN8dBhGJXTrlX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 194461,
       "name": "Mas Fuerte Que el Viento",
       "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1KAhDlBrljisYzGlu8xa5U"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "LUCKY RICH",
+          "url": "https://open.spotify.com/artist/0POO98DJpZXkFVDQSygyRf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/5MFfc5NY6gN8dBhGJXTrlX"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

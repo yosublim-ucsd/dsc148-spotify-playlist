@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,111 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,127 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 27 | [Eu Sô Função](https://open.spotify.com/track/6G9bkmb5SZTsLJ6vj0JLII) | [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Função](https://open.spotify.com/artist/5uq8RHK62SHZYx137LF3Sq), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Exilado Sim, Preso Não](https://open.spotify.com/album/2tsoZpakSlcb85m9opu4Cz) | 6:27 |
 | 28 | [Us Mano e as Mina](https://open.spotify.com/track/75LqUvMAxMeEvcJsrVahB1) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:39 |
 | 29 | [Tik Tak \- Extended Mix](https://open.spotify.com/track/2VaEsWr6qb4IZjtlyeweW0) | [Doctor MC's](https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh) | [Mallokeragem Zona Leste](https://open.spotify.com/album/5uWvrQPCn5ivSJRKwnwiZ8) | 4:59 |
-| 30 | [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 |
+| 30 | [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 |
 | 31 | [Qui Nem Judeu](https://open.spotify.com/track/2R58QvBYID3mTnOqtlW5bv) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j) | [O Clã Prossegue](https://open.spotify.com/album/4JkoDMrs2dTPuMXfstGa6m) | 5:00 |
 | 32 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 33 | [Corre Corre](https://open.spotify.com/track/6LK9B8x7qw4Ncbso1gY5rG) | [Jigaboo](https://open.spotify.com/artist/5fjd8UuuZAAHiMHu9McnlU) | [As Aparências Enganam](https://open.spotify.com/album/0AKcpKNzc8ulNANZHOLmBV) | 5:32 |

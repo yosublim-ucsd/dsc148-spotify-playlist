@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1418544,
+  "num_followers": 1419201,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "LOVELY BASTARDS (Slowed)",
-        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 152674,
-      "name": "LOVELY BASTARDS - Slowed",
-      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
         "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
       "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "LOVELY BASTARDS (Slowed)",
+        "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 152674,
+      "name": "LOVELY BASTARDS - Slowed",
+      "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
     },
     {
       "added_at": "2024-05-24 04:38:40",

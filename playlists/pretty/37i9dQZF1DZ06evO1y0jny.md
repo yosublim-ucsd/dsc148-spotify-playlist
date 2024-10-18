@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 
 ### [This Is Keauhou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1y0jny)
 
-> This is Keauhou\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Keauhou\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 153 likes - 31 songs - 1 hr 23 min
 
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1y0jny.md) - [plain]
 | 30 | [O Ukumehame](https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 3:22 |
 | 31 | [Aloha Kuu Aina o Kauaula](https://open.spotify.com/track/0s3YBKhXcbIVe4tlNC94Ir) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 2:21 |
 
-Snapshot ID: `Zw2wgAAAAADrBxNZ9f460hteUvL8sdtj`
+Snapshot ID: `Zw8CAAAAAADjgFZWtBiBeQBCLfjFATnn`

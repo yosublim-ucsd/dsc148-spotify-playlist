@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,654 songs - 3 day 13 hr 50 min
+1,656 songs - 3 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 | 2023-08-31 | 2024-01-19 |
 | [Famlande fingrar](https://open.spotify.com/track/6inUJXZBkpQRiCSgcazVjQ) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Famlande fingrar](https://open.spotify.com/album/3SRC61hkO8NFtgsPjt3Zuk) | 2:41 | 2023-10-05 | 2023-12-03 |
 | [Fan va dyrt](https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Fan va dyrt](https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj) | 3:06 | 2023-10-06 | 2024-01-26 |
-| [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 | 2024-10-10 |  |
+| [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 | 2024-10-10 | 2024-10-18 |
 | [Fantasi](https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Fantasi](https://open.spotify.com/album/0LirSVW5JLGusEimyUv0rt) | 3:36 | 2022-03-10 | 2022-05-13 |
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Farväl](https://open.spotify.com/track/78ojtQHsb5KBUjjTIJGvf1) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Farväl](https://open.spotify.com/album/4xrJlXt3MvNTbfNPuQfHrK) | 2:32 | 2024-04-18 | 2024-05-17 |
@@ -856,6 +856,7 @@
 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 | 2024-06-13 | 2024-08-16 |
 | [Ljug för mig](https://open.spotify.com/track/07EL8zmTSyiatI1e8Q93SK) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/7J7VPIsNWZbe5vgcV4GIrm) | 3:14 | 2024-02-15 | 2024-04-05 |
 | [Ljug för mig](https://open.spotify.com/track/0Yw8WYGz7tY6CvcoH7QKtm) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Brev som inte lämnat bordet](https://open.spotify.com/album/0MD40yNkk9Ftdqsg0JzE3L) | 3:14 | 2024-02-15 | 2024-02-21 |
+| [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 | 2024-10-17 |  |
 | [Ljusen \(feat\. Joakim Berg & Opera: 1\)](https://open.spotify.com/track/1pU4uBk9ASlKLHLx98QoiQ) | [Sakarias](https://open.spotify.com/artist/1yUcWPpu3UbKZFMmC5W3ZR), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Opera: 1](https://open.spotify.com/artist/4LEQ0IpTqQ1GuvezjIGZCW) | [Ljusen \(feat\. Joakim Berg & Opera: 1\)](https://open.spotify.com/album/6crZwLY8uqxlDQ2evd9cL7) | 3:42 | 2024-03-21 | 2024-05-03 |
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK) | 3:39 | 2021-12-16 | 2022-03-11 |
 | [Long Gone](https://open.spotify.com/track/4vz7ZHKiBy0WcdE5aTRfT1) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Long Gone](https://open.spotify.com/album/2H0zi4Ne3mxQY8hYeywMiG) | 3:03 | 2022-06-09 | 2022-07-15 |
@@ -1057,6 +1058,7 @@
 | [OKÄND MARK](https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [OKÄND MARK](https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF) | 2:21 | 2024-10-04 |  |
 | [Old Bad Habit](https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL) | [Ella Sandberg](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Old Bad Habit](https://open.spotify.com/album/6D0kdMFXdmHr6Du1WYK6vI) | 3:41 | 2022-05-26 | 2022-07-28 |
 | [Old Love](https://open.spotify.com/track/2LHfTmsBdzIWGE3Cafqpvm) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Overflow](https://open.spotify.com/album/3EJugt4J6YJ4ieReakz5TC) | 2:54 | 2021-12-16 | 2022-03-11 |
+| [Om & om](https://open.spotify.com/track/6pWyrCOLubc9o2ONNif6K8) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Älska mig en sista gång](https://open.spotify.com/album/0AupobRdLVg89hbnGnFBRm) | 3:30 | 2024-10-17 |  |
 | [Om det ändå räckte att ångra sig](https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Djur och människa](https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd) | 3:03 | 2022-06-09 | 2023-02-17 |
 | [om du skulle gå](https://open.spotify.com/track/2mrxW0pN3qTg6Wk0MRTWzF) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [om du skulle gå](https://open.spotify.com/album/688I1IjT2fxRX27McxhU9b) | 2:03 | 2024-02-01 | 2024-04-05 |
 | [om du skulle gå \(du gick\)](https://open.spotify.com/track/72i98bgPnpI1qrZLc7h6QY) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [om du skulle gå \(du gick\)](https://open.spotify.com/album/23edkwr3CSgipyhQR7o8tv) | 2:09 | 2024-02-29 | 2024-04-19 |
@@ -1597,7 +1599,7 @@
 | [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 | 2023-10-20 |
 | [We're In This Together](https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [We're In This Together](https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs) | 2:20 | 2024-06-13 | 2024-08-16 |
 | [Weak](https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Weak](https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh) | 3:48 | 2024-08-29 | 2024-09-15 |
-| [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 |  |
+| [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 | 2024-10-18 |
 | [Weekend](https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Weekend](https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI) | 2:23 | 2024-06-06 | 2024-08-09 |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |

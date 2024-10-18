@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kito, DJ\_Dave, Eera, evilgiane, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,782 likes - 100 songs - 5 hr 36 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,830 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

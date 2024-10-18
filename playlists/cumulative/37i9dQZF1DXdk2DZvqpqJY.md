@@ -4,13 +4,14 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-457 songs - 1 day 4 hr 6 min
+458 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2021](https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [2021](https://open.spotify.com/album/6m2Lew9fzZPIXJfjsHKsQG) | 2:08 | 2022-02-17 | 2022-05-04 |
 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 | 2022-02-17 | 2023-03-21 |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2023-03-20 | 2024-02-27 |
+| [A Lonely Walk](https://open.spotify.com/track/2BY6E8FQnKEtZKp6zxguv5) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [A Lonely Walk](https://open.spotify.com/album/7z3Ybpfqcbdjv5riUCh05d) | 3:14 | 2024-10-15 |  |
 | [A Simple Book](https://open.spotify.com/track/2djXr7LTah8IBtXTviKLA7) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:35 | 2023-05-04 | 2024-01-18 |
 | [A Slice Of The Top](https://open.spotify.com/track/6FYkE7YkOeTXc4m6tc2em6) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:11 | 2022-02-17 | 2022-04-22 |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-20 |  |
@@ -390,7 +391,7 @@
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-20 |  |
 | [The Message](https://open.spotify.com/track/1L6cVfyVnlkd3Heg8Ylb0M) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The Message](https://open.spotify.com/album/6eYurS4v6bT0aOsnXwYnVa) | 4:10 | 2022-02-17 | 2022-07-28 |
 | [The Message](https://open.spotify.com/track/4coCk3GIa2lYd2y5uySZja) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:10 | 2022-06-22 | 2022-10-07 |
-| [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-20 |  |
+| [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-20 | 2024-10-18 |
 | [The Other Side](https://open.spotify.com/track/6QQhvz6gvWh6r9SJLkWDPi) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Other Side](https://open.spotify.com/album/1h1lCBNb4OinPezoP17VBW) | 3:38 | 2022-03-03 | 2022-06-03 |
 | [The People's Changes](https://open.spotify.com/track/7uYrtiRSwgK6KccFG9iJo7) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matt Dal Din](https://open.spotify.com/artist/7M4LaKk6OEcNxF4cKKhEsX), [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Aron Ottignon](https://open.spotify.com/artist/6iRKnXGoDegUsRqRZ5SBlK), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV) | [The People's Changes](https://open.spotify.com/album/7pMXg7uSgfZTt3lNYksc64) | 3:42 | 2022-02-17 | 2022-12-16 |
 | [The Resurrection](https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te) | 4:03 | 2022-06-22 | 2023-03-21 |

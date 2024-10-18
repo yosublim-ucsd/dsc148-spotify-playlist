@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 169343,
       "name": "Adevaru' obscen",
       "url": "https://open.spotify.com/track/31Xr1dMPE183zUQbEpgqHG"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 228000,
       "name": "GIN",
       "url": "https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "ROLLIE",
+        "url": "https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn"
+      },
+      "artists": [
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "ROLLIE",
+      "url": "https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b"
+    },
+    {
+      "album": {
         "name": "Sa MM Care Pleaca",
         "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 166082,
       "name": "SLIPPER\u0218I NOI",
       "url": "https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy"
@@ -1556,6 +1574,32 @@
       "duration_ms": 134000,
       "name": "Transportin' - Remix",
       "url": "https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM"
+    },
+    {
+      "album": {
+        "name": "TRATAMENT",
+        "url": "https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3"
+      },
+      "artists": [
+        {
+          "name": "RENVT\u00d8",
+          "url": "https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "TRATAMENT",
+      "url": "https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2"
     },
     {
       "album": {
@@ -1760,6 +1804,28 @@
       "duration_ms": 160000,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z"
+    },
+    {
+      "album": {
+        "name": "\u00ceNCASEZ",
+        "url": "https://open.spotify.com/album/5KeGYMhZv6tk2W1x7nM7Tk"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "\u00ceNCASEZ",
+      "url": "https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62"
     },
     {
       "album": {

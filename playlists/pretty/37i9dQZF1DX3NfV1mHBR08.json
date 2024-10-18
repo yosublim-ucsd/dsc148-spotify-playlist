@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14381,
+  "num_followers": 14386,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -637,7 +637,7 @@
       "artists": [
         {
           "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+          "url": "https://open.spotify.com/artist/6hm6cRg1O2MWOhXX61jA2w"
         }
       ],
       "duration_ms": 177999,
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
+        "name": "Take-off",
+        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "I'm happy",
+      "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
+    },
+    {
+      "added_at": "2024-08-10 15:58:49",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 251374,
       "name": "Happier (feat. Crush)",
       "url": "https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx"
-    },
-    {
-      "added_at": "2024-08-10 15:58:49",
-      "album": {
-        "name": "Take-off",
-        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "I'm happy",
-      "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
     },
     {
       "added_at": "2024-08-10 15:58:49",

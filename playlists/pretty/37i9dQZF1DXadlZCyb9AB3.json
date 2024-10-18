@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 181152,
+  "num_followers": 181239,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 93493,
-      "name": "New Radio",
-      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+      "duration_ms": 160860,
+      "name": "Double Dare Ya",
+      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -531,8 +531,8 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 160860,
-      "name": "Double Dare Ya",
-      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Dry",
-        "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Ladies, Women and Girls",
         "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 146946,
       "name": "Eating Toothpaste",
       "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Dry",
+        "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Look Blue Go Purple Compilation",
-        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
-      },
-      "artists": [
-        {
-          "name": "Look Blue Go Purple",
-          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "I Don't Want You Anyway",
-      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Such Friends Are Dangerous",
         "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 188226,
       "name": "Watchmaker",
       "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Look Blue Go Purple Compilation",
+        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
+      },
+      "artists": [
+        {
+          "name": "Look Blue Go Purple",
+          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "I Don't Want You Anyway",
+      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
     },
     {
       "added_at": "2024-10-07 20:36:39",

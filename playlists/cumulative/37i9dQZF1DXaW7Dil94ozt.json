@@ -2131,24 +2131,6 @@
     },
     {
       "album": {
-        "name": "\ub9d0\ub2ec\ub9ac\uc790 Speed Up Losers",
-        "url": "https://open.spotify.com/album/2qGZXupHBC6oJQawNh13Pc"
-      },
-      "artists": [
-        {
-          "name": "CRYING NUT",
-          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
-        }
-      ],
-      "date_added": "2023-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186000,
-      "name": "\u1106\u1161\u11af\u1103\u1161\u11af\u1105\u1175\u110c\u1161 Speed Up Losers",
-      "url": "https://open.spotify.com/track/42OTaKIDWseqiU8qflqjap"
-    },
-    {
-      "album": {
         "name": "OK \ubaa9\uc7a5\uc758 \uc816\uc18c Milk Cattle at the OK Corral",
         "url": "https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf"
       },
@@ -2316,6 +2298,24 @@
       "duration_ms": 240686,
       "name": "\ub098\ub780\ub188",
       "url": "https://open.spotify.com/track/7paPfJ8amuTCpHSK5t9jbC"
+    },
+    {
+      "album": {
+        "name": "\ub9d0\ub2ec\ub9ac\uc790 Speed Up Losers",
+        "url": "https://open.spotify.com/album/2qGZXupHBC6oJQawNh13Pc"
+      },
+      "artists": [
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\ub9d0\ub2ec\ub9ac\uc790 Speed Up Losers",
+      "url": "https://open.spotify.com/track/42OTaKIDWseqiU8qflqjap"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : Nilusi
 
-215 songs - 10 hr 37 min
+216 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dis\-moi ce que je dois faire](https://open.spotify.com/track/69FcnOE8Cvm2ZO0zcaGqcQ) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Dis\-moi ce que je dois faire](https://open.spotify.com/album/32yTwatVMuuASNG6BtVUdn) | 2:39 | 2024-09-12 |  |
 | [Donne\-moi le temps](https://open.spotify.com/track/712cCUL7oIMdyQOWJRY02o) | [Denzel Macintosh](https://open.spotify.com/artist/3rJT4WiFhdI1RCZynrgv1G), [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG) | [Donne\-moi le temps](https://open.spotify.com/album/2WncVOTRl18k7LtNSsD1vW) | 2:55 | 2024-09-19 |  |
 | [Donne\-moi tout](https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc) | [Joss Bari](https://open.spotify.com/artist/4rJInvuWe6jp7FDVpOdwap) | [Donne\-moi tout](https://open.spotify.com/album/2IsCZeyIFElBBw0rZX4Jkz) | 3:02 | 2023-12-08 | 2024-02-16 |
+| [douce danse](https://open.spotify.com/track/0SpNlQ9Xvu98LjnA8Sqfhb) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [douce danse](https://open.spotify.com/album/7CcbkVKDb7XbodL9GO7jbi) | 2:45 | 2024-10-17 |  |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-02 |  |
 | [Déconnectée](https://open.spotify.com/track/5iPIGpFQZLtvw78mvcWqQZ) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Déconnectée](https://open.spotify.com/album/10veteFNNieljiqKbrJuDn) | 2:51 | 2023-12-14 | 2024-01-26 |
 | [Déranger](https://open.spotify.com/track/7gyKui5nepxMoJoRr0937W) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SOLSTICE](https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB) | 3:17 | 2024-02-01 | 2024-06-21 |
@@ -161,7 +162,7 @@
 | [PRETTY BABY](https://open.spotify.com/track/1X9w07ZCQU1WZFOnOiD07s) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs), [Gaby](https://open.spotify.com/artist/7LlIOJgT58BCUb5YoMC42w) | [PRETTY BABY](https://open.spotify.com/album/7wQORrQHcS4IhzbFU3LRA6) | 3:14 | 2024-03-28 | 2024-05-03 |
 | [Prédatrice](https://open.spotify.com/track/2YUGbE007BGwUEUBWRO5kk) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [Prédatrice](https://open.spotify.com/album/6wftxblgo2IdoUoVDLzOfj) | 3:12 | 2024-02-22 | 2024-05-03 |
 | [Que la nuit](https://open.spotify.com/track/5z2n55eaoZSM7KipCmIHa4) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Que la nuit](https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94) | 2:39 | 2023-11-09 | 2023-12-01 |
-| [quel type de vibe?](https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T) | 1:56 | 2023-10-12 |  |
+| [quel type de vibe?](https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/4b71KrH0rd453L1aHPN57T) | 1:56 | 2023-10-12 | 2024-10-18 |
 | [quel type de vibe?](https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l) | 1:56 | 2023-10-19 | 2024-04-19 |
 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 | 2023-11-16 |  |
 | [Recommencer](https://open.spotify.com/track/1Mjo0gMzdJK7wQX6izTsAf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [Recommencer](https://open.spotify.com/album/1EcA5Z4Tdghb4dYpMfzJsI) | 2:31 | 2024-04-04 |  |

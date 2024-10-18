@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "dk rap var ventet p\u00e5 det her track  \ud83e\udd75  <a href=\"spotify:artist:2dfY7zXIP61MKHtD175hFp\">Noah Carter</a>  /<a href=\"spotify:track:2bFgjHMqGThTzlv6V94V5v\">Har H\u00f8rt Dig</a> ",
+  "description": "dk rap og den vibe  <a href=\"spotify:artist:1YwMnnHvnG64fJxYSVwmN6\">Branco</a> p\u00e5 deluxe \ud83d\udc8e",
   "name": "100 DK",
   "tracks": [
     {
@@ -3019,6 +3019,32 @@
     },
     {
       "album": {
+        "name": "TIDEN G\u00c5R",
+        "url": "https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN"
+      },
+      "artists": [
+        {
+          "name": "Josef",
+          "url": "https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Mhhh (feat. MAS & Artigeardit)",
+      "url": "https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU"
       },
@@ -3376,6 +3402,24 @@
       "duration_ms": 163482,
       "name": "Palermo (feat. KESI)",
       "url": "https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa"
+    },
+    {
+      "album": {
+        "name": "BABA BUSINESS 3 (DELUXE)",
+        "url": "https://open.spotify.com/album/1jsKNmpMXAq6jIVLeqgTt8"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140003,
+      "name": "PASSES & PLEJES",
+      "url": "https://open.spotify.com/track/0TmC1L3dxMPv9B2CNrSSWr"
     },
     {
       "album": {

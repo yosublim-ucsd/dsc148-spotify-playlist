@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,814 likes - 73 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,825 likes - 73 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 68 | [the world](https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK1](https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl) | 5:03 |
 | 69 | [heigen](https://open.spotify.com/track/1p0LwK96oOlMLqnI7TbxYc) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION II](https://open.spotify.com/album/7fCgqETJoKKBfzaFuhyiBX) | 5:29 |
 | 70 | [battle of the shadows](https://open.spotify.com/track/0RSLSKWQPsNhwzQpDcZAsF) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [TVアニメ『プリンセス・プリンシパル』オリジナルサウンドトラック「Sound of Foggy London」](https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd) | 3:11 |
-| 71 | [everlasting song \~japanese edition](https://open.spotify.com/track/287Jt9dagw3V9TINvtoXAk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Everlasting Songs](https://open.spotify.com/album/0tCtSGFDkLFapppBSx7gkK) | 4:35 |
+| 71 | [everlasting song　　～japanese edition](https://open.spotify.com/track/287Jt9dagw3V9TINvtoXAk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Everlasting Songs](https://open.spotify.com/album/0tCtSGFDkLFapppBSx7gkK) | 4:35 |
 | 72 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
-| 73 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
+| 73 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [ＮＯＩＲ　ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
 Snapshot ID: `Za/UcAAAAAC0/MeMmZkksvU1y33+35iF`

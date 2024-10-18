@@ -1,12 +1,12 @@
 {
   "description": "This Is Mot\u00f6rhead. Los temas esenciales, todos en una lista.",
-  "num_followers": 195638,
+  "num_followers": 195663,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAAC9/WkWhr0vO6uq1pqDGgbI",
+  "snapshot_id": "Zw8CAAAAAACEK3xyIq9W9LlCu8GLcxGc",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bomber Demos",
+        "url": "https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 209978,
+      "name": "Alligator - Bomber Demo",
+      "url": "https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Are Mot\u00f6rhead",
         "url": "https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bomber Demos",
-        "url": "https://open.spotify.com/album/61ftZFyu2rAtikKrE2xtfH"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 209978,
-      "name": "Alligator - Bomber Demo",
-      "url": "https://open.spotify.com/track/7jOHDp3bYzivNs9sP1sDWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
       },
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bomber (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Stone Dead Forever",
+      "url": "https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enter Sandman EP",
         "url": "https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 255800,
       "name": "I Ain't No Nice Guy",
       "url": "https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bomber (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Stone Dead Forever",
-      "url": "https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG"
     },
     {
       "added_at": null,

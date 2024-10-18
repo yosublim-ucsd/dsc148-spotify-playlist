@@ -1299,6 +1299,32 @@
     },
     {
       "album": {
+        "name": "Dangalua",
+        "url": "https://open.spotify.com/album/5kCIWCU6lNVUuRWMuVCQ6A"
+      },
+      "artists": [
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        },
+        {
+          "name": "NSI",
+          "url": "https://open.spotify.com/artist/4uNLthBXcuFFUoGPCi2kVT"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Dangalua",
+      "url": "https://open.spotify.com/track/2ozDVt4RIwunG78HL7tS2a"
+    },
+    {
+      "album": {
         "name": "Dare Your Move",
         "url": "https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU"
       },

@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-273 songs - 1 day 2 hr 46 min
+274 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Cumbé \- Cuzco Mix](https://open.spotify.com/track/6XUrR2Es01NOJxDueRRJSC) | [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT), [Medusa Odyssey](https://open.spotify.com/artist/1P0GxzCg57SIrXtBnR26UO), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Cumbé EP](https://open.spotify.com/album/4KdhLnoEFxGDQtWq4Lu2wL) | 7:26 | 2022-04-13 | 2022-09-16 |
 | [D:evotion](https://open.spotify.com/track/3gcmh7rWcT1ppvVqQNfezy) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [D:evotion](https://open.spotify.com/album/03MR8BaM8z6HZ75ZQM6ulS) | 6:11 | 2023-04-07 |  |
 | [Dan Dale \- Ucha Remix](https://open.spotify.com/track/0RB5Epiaiewx4UdbInDDWD) | [Keyano](https://open.spotify.com/artist/3xEXhUZOzus3uL8jZ01rRH), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Dan Dale \(Ucha Remix\)](https://open.spotify.com/album/3F43VMK42YJQvoAnGG7AzO) | 3:28 | 2023-03-13 |  |
+| [Dangalua](https://open.spotify.com/track/2ozDVt4RIwunG78HL7tS2a) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD), [NSI](https://open.spotify.com/artist/4uNLthBXcuFFUoGPCi2kVT), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Dangalua](https://open.spotify.com/album/5kCIWCU6lNVUuRWMuVCQ6A) | 2:44 | 2024-10-14 |  |
 | [Dare Your Move](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Dare Your Move](https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU) | 2:49 | 2023-03-23 | 2023-06-02 |
 | [Delia](https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr) | [Sharapov](https://open.spotify.com/artist/0I3DQVcZQqBIIVxNtzqaVW), [Patrick Hofmann](https://open.spotify.com/artist/5rDo6U4yJGDuypi7G25hvx) | [Delia](https://open.spotify.com/album/0alsKMzOPqOzgmExMxi19b) | 6:02 | 2022-04-13 | 2023-04-21 |
 | [Demedim Mi? \- Billy Esteban Remix](https://open.spotify.com/track/5ZFz49ewCbvqUIsfiSoCRV) | [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h), [Erdi Arslan](https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0) | [Demedim Mi?](https://open.spotify.com/album/0wXfKxgecoVfuN6b1bIAMW) | 5:18 | 2022-11-10 | 2022-11-14 |

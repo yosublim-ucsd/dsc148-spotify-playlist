@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover the best in new music from Aotearoa. Cover: Jon Toogood",
+  "description": "Discover the best in new music from Aotearoa. Cover: Kiki Rockwell",
   "name": "The Local List Aotearoa",
   "tracks": [
     {
@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Eldest Daughter Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266706,
+      "name": "Faery King",
+      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
+    },
+    {
+      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31"
       },
@@ -988,6 +1006,24 @@
       "duration_ms": 238918,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/7A88nTuJXs45pD7Y1miTQX"
+    },
+    {
+      "album": {
+        "name": "right now, forever",
+        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204080,
+      "name": "FFS",
+      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
     },
     {
       "album": {
@@ -2268,6 +2304,24 @@
       "duration_ms": 179419,
       "name": "Night Like This",
       "url": "https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh"
+    },
+    {
+      "album": {
+        "name": "No God",
+        "url": "https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC"
+      },
+      "artists": [
+        {
+          "name": "Rita Mae",
+          "url": "https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "No God",
+      "url": "https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Plutonio entra na zona.
+> CADU entra na zona.
 
-639 songs - 1 day 10 hr 3 min
+640 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 | 2024-01-05 | 2024-03-01 |
 | [Não](https://open.spotify.com/track/3BoOl2GNbhf9an8wsRHhF0) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Não](https://open.spotify.com/album/1d2c3KSL2HHoiIatAeMSEZ) | 3:30 | 2023-02-17 | 2023-03-10 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-16 | 2022-10-01 |
-| [Não Me Cortes A Vibe](https://open.spotify.com/track/78dvl1t86li0wlEqecZkPR) | [Mundo Secreto](https://open.spotify.com/artist/2VX4LgRN7wbvkT2tu4PE9g) | [Não Me Cortes A Vibe](https://open.spotify.com/album/58C9bKuMWp08IvseR9CpWn) | 4:02 | 2024-10-03 |  |
+| [Não Me Cortes A Vibe](https://open.spotify.com/track/78dvl1t86li0wlEqecZkPR) | [Mundo Secreto](https://open.spotify.com/artist/2VX4LgRN7wbvkT2tu4PE9g) | [Não Me Cortes A Vibe](https://open.spotify.com/album/58C9bKuMWp08IvseR9CpWn) | 4:02 | 2024-10-03 | 2024-10-18 |
 | [Não me deixe só](https://open.spotify.com/track/64QVkG7vRtjGDkaGZc8zAb) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Não me deixe só](https://open.spotify.com/album/0m9UDriPUMgHGHFQSpXoCK) | 3:53 | 2024-04-25 | 2024-06-28 |
 | [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 | 2023-06-08 | 2023-06-30 |
 | [Não Posso Agora](https://open.spotify.com/track/5UaD8d3304kcnBtlOpxPL8) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Não Posso Agora](https://open.spotify.com/album/15G7TOQBrQD0huFgZMIXKQ) | 2:37 | 2023-02-10 | 2023-03-31 |
@@ -530,6 +530,7 @@
 | [Saudades](https://open.spotify.com/track/23l4pQCiOq8QwMXVzVIIvc) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Saudades](https://open.spotify.com/album/71v5WtAmhAec4TaepatISH) | 3:10 | 2023-08-31 | 2023-12-15 |
 | [Scarface](https://open.spotify.com/track/6MqlhwynlRWbmWybRfFbLl) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Scarface](https://open.spotify.com/album/6CA8b74HHcdqY6qMZUyU4C) | 3:07 | 2023-12-08 | 2023-12-22 |
 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 | 2023-03-24 | 2024-02-09 |
+| [Sei Bem Que Tens Saudades](https://open.spotify.com/track/2ZvW1VHTRzLHfekEqTXw4q) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Sei Bem Que Tens Saudades](https://open.spotify.com/album/0tSctKFMqZAHAcw3Tlp0se) | 2:16 | 2024-10-17 |  |
 | [Sem Adversários](https://open.spotify.com/track/5XXfmE8eLjEkOIQjr78UFi) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [Sem Adversários](https://open.spotify.com/album/1JXDDmDi09WpQBNm23ZvT1) | 3:20 | 2024-02-02 | 2024-02-23 |
 | [sem pé](https://open.spotify.com/track/2MO8cXrJ8B72x6n9z7yKGm) | [João Tamura](https://open.spotify.com/artist/3sPu1TUK3Sg53uMqMBvNzT), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [sem pé](https://open.spotify.com/album/5Yl6lEPMGik9TgXxdIpVWo) | 2:55 | 2023-12-08 | 2023-12-15 |
 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 | 2023-06-29 |  |

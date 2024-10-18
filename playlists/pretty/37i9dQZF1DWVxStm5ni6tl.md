@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,584 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [i know i'm a hopeless romantic](https://open.spotify.com/track/0jsQ2ThLTEzvMB0eHNrpSP) | [Bukola](https://open.spotify.com/artist/3DI1hTY14mlkNoehKLD6wA) | [i know i'm a hopeless romantic](https://open.spotify.com/album/1s5ZRP7NnLkzGAIAyrwAxx) | 4:02 |
-| 2 | [Ill\-Intentions](https://open.spotify.com/track/2sk6IrT2yoJFN039Hbmoll) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Ill\-Intentions](https://open.spotify.com/album/0jKpk5FceDoVX7vKnFGGBs) | 3:49 |
-| 3 | [Can't Stand No One](https://open.spotify.com/track/6yhgFFvujtJ695Pcg0yqZJ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [BENT](https://open.spotify.com/album/6YLlsONyRIZTvNLwyuALqT) | 2:22 |
-| 4 | [30% OFF](https://open.spotify.com/track/7n2qgwgbvNMki4RCKMiJ0A) | [Dom Dias](https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B) | [30% OFF](https://open.spotify.com/album/6fao6aEY59SYPe5v5Xm5dO) | 2:10 |
-| 5 | [DVTR](https://open.spotify.com/track/3DpFwHKU1UqdQzAO2Nx2U0) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [BONJOUR](https://open.spotify.com/album/2qT9AUh1DkajMBAsZSktjm) | 2:16 |
-| 6 | [Youth](https://open.spotify.com/track/4F3o1NgUyyVIMyc9jRmYyK) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Youth](https://open.spotify.com/album/5nMzr2speC3Wj7dlk718M6) | 3:16 |
+| 1 | [Youth](https://open.spotify.com/track/4F3o1NgUyyVIMyc9jRmYyK) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Youth](https://open.spotify.com/album/5nMzr2speC3Wj7dlk718M6) | 3:16 |
+| 2 | [i know i'm a hopeless romantic](https://open.spotify.com/track/0jsQ2ThLTEzvMB0eHNrpSP) | [Bukola](https://open.spotify.com/artist/3DI1hTY14mlkNoehKLD6wA) | [i know i'm a hopeless romantic](https://open.spotify.com/album/1s5ZRP7NnLkzGAIAyrwAxx) | 4:02 |
+| 3 | [Ill\-Intentions](https://open.spotify.com/track/2sk6IrT2yoJFN039Hbmoll) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Ill\-Intentions](https://open.spotify.com/album/0jKpk5FceDoVX7vKnFGGBs) | 3:49 |
+| 4 | [Can't Stand No One](https://open.spotify.com/track/6yhgFFvujtJ695Pcg0yqZJ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [BENT](https://open.spotify.com/album/6YLlsONyRIZTvNLwyuALqT) | 2:22 |
+| 5 | [30% OFF](https://open.spotify.com/track/7n2qgwgbvNMki4RCKMiJ0A) | [Dom Dias](https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B) | [30% OFF](https://open.spotify.com/album/6fao6aEY59SYPe5v5Xm5dO) | 2:10 |
+| 6 | [DVTR](https://open.spotify.com/track/3DpFwHKU1UqdQzAO2Nx2U0) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [BONJOUR](https://open.spotify.com/album/2qT9AUh1DkajMBAsZSktjm) | 2:16 |
 | 7 | [Hair Down](https://open.spotify.com/track/48MVRO4ReqK2qIiOnSbcyB) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru) | [Hair Down](https://open.spotify.com/album/0MsxbGq8zb9kVKHqsUp64u) | 2:28 |
 | 8 | [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 |
 | 9 | [Soy Rebelde](https://open.spotify.com/track/23vkEGYnqrWdhGuT9kAVbd) | [Daniella Mass](https://open.spotify.com/artist/1oFM36gh05mHL9d7gMspOC), [Céline Paolini](https://open.spotify.com/artist/67uoiFEh9OiuAkIeI04yap) | [Soy Rebelde](https://open.spotify.com/album/4InakZ7gUWcLNQM3uDdSuk) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [hopeulisten.](https://open.spotify.com/track/4WqoVBRCeYirfi08DtiBSV) | [Donat Jackson](https://open.spotify.com/artist/22VAakx8ju6tEIQjVYxLL3), [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [hopeulisten.](https://open.spotify.com/album/4NiJv7TwCiqc4UndtnMB2h) | 2:58 |
 | 75 | [Ring On Your Hand](https://open.spotify.com/track/7h5pfMw1u20E0QklldwmYE) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Ring On Your Hand](https://open.spotify.com/album/5o9e143ipHGGHAECrGxySM) | 3:02 |
 
-Snapshot ID: `Zw86QAAAAAB046RQQwBoeAJ7vZeaWNiY`
+Snapshot ID: `ZxF4ZgAAAAAOyTEkt0kW5MlUm7BerOhz`

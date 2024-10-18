@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,257 songs - 6 day 18 hr 27 min
+4,258 songs - 6 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Bado](https://open.spotify.com/track/4DJBMSRLlPc0y7JQfFHT2l) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Bado & Tubby](https://open.spotify.com/album/4ccrZL9qlKi1c2CiODMseA) | 1:44 | 2019-10-17 | 2020-03-19 |
 | [Badu in the JuJu Cypher](https://open.spotify.com/track/5ckG2eCtby3ABGB6NrU3Wj) | [Kutmah](https://open.spotify.com/artist/5Wn9vkJRR8S8Sr7oMdGzvF) | [Isolation Tapes](https://open.spotify.com/album/5LT0K3MvKsk8uCxWKIGn4g) | 2:50 | 2020-11-21 | 2020-12-18 |
 | [Baduizm](https://open.spotify.com/track/3oKjiHooUXDm2aomYju3Sm) | [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Baduizm](https://open.spotify.com/album/0Sd6sQ9lnMZCB8HJ0Gqusu) | 2:30 | 2021-10-10 | 2022-01-14 |
-| [Balance](https://open.spotify.com/track/1Zyrub8wCKUVVMUlV6VstA) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Balance](https://open.spotify.com/album/3yaiRIuCbDsq0TyWFazSyE) | 2:26 | 2024-09-02 |  |
+| [Balance](https://open.spotify.com/track/1Zyrub8wCKUVVMUlV6VstA) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Balance](https://open.spotify.com/album/3yaiRIuCbDsq0TyWFazSyE) | 2:26 | 2024-09-02 | 2024-10-18 |
 | [Balance](https://open.spotify.com/track/3fiOgFT8BOAu3EqtHDhp26) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Balance](https://open.spotify.com/album/0q7zdFirG3Oz46K639CNtp) | 1:19 | 2023-05-18 | 2023-05-26 |
 | [Balconia](https://open.spotify.com/track/6bK3vaE8H5miE0gaIIOFoc) | [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Balconia](https://open.spotify.com/album/2uOAfAGiPWVZwg63FTVs7L) | 1:46 | 2022-01-27 | 2022-09-28 |
 | [Balcony Vibes](https://open.spotify.com/track/3qfu4A3XzXzx9fY2eXRsLj) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Balcony Vibes](https://open.spotify.com/album/1xq1PH0YOL6ULbcxkMTmkl) | 2:15 | 2020-04-24 | 2020-12-04 |
@@ -2262,6 +2262,7 @@
 | [Mermaid's Garden](https://open.spotify.com/track/6GL6TKpg1RkYstOcNqhY8e) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [Mermaid's Garden](https://open.spotify.com/album/3FubTRqOiK5q3P78OVmnv8) | 2:23 | 2020-09-18 | 2021-04-09 |
 | [metelkova](https://open.spotify.com/track/2102AdMDG3ye0LXVGe0TyB) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [metelkova / lángos](https://open.spotify.com/album/0sEAKrB7hBSGBFhY2ujgxa) | 1:58 | 2020-04-18 | 2020-06-19 |
 | [Metropolis](https://open.spotify.com/track/5TycMfS6hwjtK0stjkHLnZ) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Metropolis](https://open.spotify.com/album/7blESGfeNdB9KhjQ6avpq3) | 2:14 | 2021-11-19 | 2022-04-08 |
+| [Mi Vida](https://open.spotify.com/track/3CauIbXSxW0RvhD9M0BPu9) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Mi Vida](https://open.spotify.com/album/6BV1B7EYh41WQvR1p6aBSu) | 2:08 | 2024-10-10 |  |
 | [Michel](https://open.spotify.com/track/0Wt81tPpX6Ow9X7F17lfOV) | [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94) | [Michel](https://open.spotify.com/album/2rQS0EQCgETigFEXAYrOgi) | 2:16 | 2020-06-16 | 2020-08-24 |
 | [Midas Touch](https://open.spotify.com/track/0PHy0K3tjogmJyLTqQggfY) | [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0), [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg) | [Dusty by Nature](https://open.spotify.com/album/1MwSQlf09TQfAre0gxGd5T) | 1:48 | 2021-05-07 | 2021-09-03 |
 | [midday stroll](https://open.spotify.com/track/70EDNWwio2eDSpPmmiQSBV) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [midday stroll](https://open.spotify.com/album/4uTIqnPpyHoIs7yquA2OOj) | 2:16 | 2020-05-14 | 2020-07-24 |

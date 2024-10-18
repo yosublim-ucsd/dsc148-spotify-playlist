@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: CARLANGAS.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "ACL\u00c1RATE",
+        "url": "https://open.spotify.com/album/5kO97Ekq0JdOap2PzxIxCM"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "ACL\u00c1RATE",
+      "url": "https://open.spotify.com/track/12EZnXoQuxMns3ANHhlMIZ"
+    },
+    {
+      "album": {
         "name": "Acostumbrarme",
         "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
@@ -78,6 +96,24 @@
       "duration_ms": 143989,
       "name": "Acostumbrarme",
       "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
+    },
+    {
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5NRpzktazsRUIOE67brguj"
+      },
+      "artists": [
+        {
+          "name": "Belize",
+          "url": "https://open.spotify.com/artist/6Q4GR1xgJ5euecQK8cQPYm"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136946,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2a5xxtnfyDsKBLosKJSaw2"
     },
     {
       "album": {
@@ -164,7 +200,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 148911,
       "name": "AL OTRO LADO",
       "url": "https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW"
@@ -472,7 +508,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 196385,
       "name": "CAGARLA",
       "url": "https://open.spotify.com/track/2XPGuKGXnRe4RNNWfESyDp"
@@ -1562,7 +1598,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 172699,
       "name": "Full Gas",
       "url": "https://open.spotify.com/track/4ee1OX2Vo9NYJRgCtmdcwA"
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 182596,
       "name": "Igual hemos roto y no me he enterado",
       "url": "https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk"
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 226549,
       "name": "KORAJE",
       "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 169914,
       "name": "Las musas de Madrid",
       "url": "https://open.spotify.com/track/1C7J7LnRtJoYMrMI42WgDe"
@@ -2148,6 +2184,24 @@
       "duration_ms": 248093,
       "name": "Lo que Queda Tras el Apag\u00f3n",
       "url": "https://open.spotify.com/track/2Xfu3HBvqt29dTjuVQmDDs"
+    },
+    {
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193006,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
     },
     {
       "album": {
@@ -2655,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "No est\u00e1s",
+        "url": "https://open.spotify.com/album/3tA6xsVubWPBVrmjoCEHhz"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205694,
+      "name": "No est\u00e1s",
+      "url": "https://open.spotify.com/track/3TrrxU0SjBUju6w0afOiBS"
+    },
+    {
+      "album": {
         "name": "Casa Linda",
         "url": "https://open.spotify.com/album/0QeEF4yiYHMzh66Qhv7Z9j"
       },
@@ -2768,10 +2840,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 81813,
       "name": "Nosoutros",
       "url": "https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8"
+    },
+    {
+      "album": {
+        "name": "Contenido Sensible",
+        "url": "https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Nuevo Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t"
     },
     {
       "album": {
@@ -3317,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Bail\u00f3dromo, Vol. 1",
+        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268253,
+      "name": "Siempre Vuelve",
+      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
+    },
+    {
+      "album": {
         "name": "SIMELLAMA / LAPLATA",
         "url": "https://open.spotify.com/album/1pHADvO4qpeaoTLSEgZjgh"
       },
@@ -3444,6 +3552,24 @@
       "duration_ms": 189998,
       "name": "TALANQUERA",
       "url": "https://open.spotify.com/track/7l9ESULRKHh8ABJmlVZ2oB"
+    },
+    {
+      "album": {
+        "name": "TECHNO RICO",
+        "url": "https://open.spotify.com/album/3zIsrJrxViK89NMQyvN55Z"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159419,
+      "name": "TECHNO RICO",
+      "url": "https://open.spotify.com/track/6eY5RjZpG6tKQ70rGU8uNq"
     },
     {
       "album": {

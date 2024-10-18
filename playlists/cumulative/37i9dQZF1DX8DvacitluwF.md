@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Elaine
 
-391 songs - 20 hr 37 min
+392 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-09-03 |
 | [All About You](https://open.spotify.com/track/4GmaFkiZ2TFVcztCeCvbQY) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [All About You](https://open.spotify.com/album/6REE4bY6T3SMMBlniNrPmX) | 2:36 | 2024-02-14 | 2024-02-23 |
 | [All I Need](https://open.spotify.com/track/4ez5tXxdlc2N2L6KM8skxP) | [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU) | [Guilt Free](https://open.spotify.com/album/48VUg8Curh2m3zbmjSUf95) | 2:34 | 2024-05-16 | 2024-09-03 |
+| [All in \- freestyle](https://open.spotify.com/track/2sVjY6NkFogpHQzMkK89hg) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [All in \(freestyle\)](https://open.spotify.com/album/5jMT8055zHmV18trqRUeac) | 1:26 | 2024-10-18 |  |
 | [All Night](https://open.spotify.com/track/3y8MHPIIdUbbp5QozCbJ9G) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [All Night](https://open.spotify.com/album/2XpBUiJMArDm0DdU5k2h6d) | 2:30 | 2023-10-12 | 2024-01-26 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-16 | 2024-03-22 |
 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-12 | 2024-02-09 |
@@ -108,7 +109,7 @@
 | [Every day](https://open.spotify.com/track/7HywDyyDdavWKQr8GoJi7m) | [Namakau Star](https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc) | [Every day](https://open.spotify.com/album/0zyh418J1qN9cQ6ZOpY62k) | 2:48 | 2024-03-21 | 2024-08-31 |
 | [Faded](https://open.spotify.com/track/6TJgXf6N6IQepcNXZVlIoW) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj) | [Faded](https://open.spotify.com/album/3ZINMS47XDb9RVdaAG9yYA) | 3:05 | 2023-10-12 | 2023-10-20 |
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 | 2024-08-16 |
-| [falling](https://open.spotify.com/track/2CZS9mJns7gUtACHBw2dYl) | [Leia](https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI) | [falling in love](https://open.spotify.com/album/0KaGZZ7MjQdrVAy7ZGorFs) | 3:25 | 2024-09-11 |  |
+| [falling](https://open.spotify.com/track/2CZS9mJns7gUtACHBw2dYl) | [Leia](https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI) | [falling in love](https://open.spotify.com/album/0KaGZZ7MjQdrVAy7ZGorFs) | 3:25 | 2024-09-11 | 2024-10-18 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2023-10-12 | 2023-10-20 |
 | [FALLING FOR YOU](https://open.spotify.com/track/6DmwKKCAlA8aKoaB4O7vFd) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [LOVE LETTERS](https://open.spotify.com/album/0MDMXbXsB0P15a8piifP7W) | 2:47 | 2024-09-02 | 2024-09-12 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-10-12 | 2024-01-26 |

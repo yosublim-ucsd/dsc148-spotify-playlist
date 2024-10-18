@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 132923,
       "name": "A Cloud",
       "url": "https://open.spotify.com/track/3wR8GPN8EeoIC3GimOTNMY"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -584,6 +584,24 @@
       "duration_ms": 89600,
       "name": "BORDERLINE PERSONALITY DISORDER - CLUB MIX",
       "url": "https://open.spotify.com/track/0q9nAzxAkkW2Pt4EfG5kSt"
+    },
+    {
+      "album": {
+        "name": "BRAINS OUT",
+        "url": "https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116472,
+      "name": "BRAINS OUT",
+      "url": "https://open.spotify.com/track/6aOZOwdGDThb7z3BS8JXFr"
     },
     {
       "album": {
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "Die Sterne",
       "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 131391,
       "name": "Get Nasty (w/ Rico Nasty & Whethan)",
       "url": "https://open.spotify.com/track/6aQTUN8woa742emFXZ8wbu"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 170322,
       "name": "Grim Reaper",
       "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 110769,
       "name": "HOUSE PARTY",
       "url": "https://open.spotify.com/track/63BMFfN0SjDw7mPzp8S2kn"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 134237,
       "name": "Just A Hint",
       "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
@@ -3000,6 +3018,28 @@
       "duration_ms": 82008,
       "name": "LOOKIN FOR YA",
       "url": "https://open.spotify.com/track/2dcdT5V0ZdxMABFjlWRnuJ"
+    },
+    {
+      "album": {
+        "name": "LOSS",
+        "url": "https://open.spotify.com/album/5FSoEYwr5CjLMeTheWpmHd"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAPHIC",
+          "url": "https://open.spotify.com/artist/2yPM0IoRm8CdXlqFT9opFZ"
+        },
+        {
+          "name": "angel vox",
+          "url": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "LOSS",
+      "url": "https://open.spotify.com/track/5X1sglbu3MB4Uz5xFXKFu8"
     },
     {
       "album": {
@@ -3272,7 +3312,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 201028,
       "name": "New Species",
       "url": "https://open.spotify.com/track/43IxujU228QDYxlnMcotzW"
@@ -3330,7 +3370,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 140952,
       "name": "NOW YOU KNOW",
       "url": "https://open.spotify.com/track/6NgiRS8rt57wpckZVzcT0K"
@@ -3444,6 +3484,24 @@
       "duration_ms": 123808,
       "name": "OMG XD",
       "url": "https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph"
+    },
+    {
+      "album": {
+        "name": "BRAINS OUT",
+        "url": "https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123808,
+      "name": "OMG XD",
+      "url": "https://open.spotify.com/track/5PPGxJs9esA47j65JSvliC"
     },
     {
       "album": {
@@ -3824,7 +3882,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 115094,
       "name": "POSSESSIVE LOVE DISORDER",
       "url": "https://open.spotify.com/track/0D2xaGV4gxw3gKYnjbxrjz"
@@ -4428,7 +4486,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"

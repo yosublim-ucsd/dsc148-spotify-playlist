@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Gut Health",
+  "description": "New and local indie noise. Cover: Lucian Rice",
   "name": "Local Noise",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179608,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/3hA261S9ScDqG4SvNEYNqn"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 215143,
       "name": "Changing The Weather",
       "url": "https://open.spotify.com/track/1c62eQmGuCbpNCffeOyqE9"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 188106,
       "name": "Control",
       "url": "https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 95117,
       "name": "Dead, Rich or In Jail",
       "url": "https://open.spotify.com/track/7CGIuV8NJYU4XxwzcBIPeV"
@@ -1152,6 +1152,24 @@
       "duration_ms": 269554,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6Sd9z0nNfoozZZ55UOdZmR"
+    },
+    {
+      "album": {
+        "name": "Did You Dim The Lights",
+        "url": "https://open.spotify.com/album/43CsLHaNekFF80fqQ0XkIR"
+      },
+      "artists": [
+        {
+          "name": "King Ibis",
+          "url": "https://open.spotify.com/artist/3ciAz4U6O3iW2wpUZqeVZb"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199804,
+      "name": "Did You Dim The Lights",
+      "url": "https://open.spotify.com/track/1Q83UyFnqJ8ZXKcWbxl48S"
     },
     {
       "album": {
@@ -1523,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "right now, forever",
+        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204080,
+      "name": "FFS",
+      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
+    },
+    {
+      "album": {
         "name": "wishiwasyourgirlfriend",
         "url": "https://open.spotify.com/album/48CcSEjUUaYhyCpA9bFp3e"
       },
@@ -1664,6 +1700,24 @@
       "duration_ms": 200654,
       "name": "FISHSACK",
       "url": "https://open.spotify.com/track/52NiXjaFL8Bvbovwdbqlds"
+    },
+    {
+      "album": {
+        "name": "flood",
+        "url": "https://open.spotify.com/album/6zQ6z0C1ACh57yfZZ9rgSG"
+      },
+      "artists": [
+        {
+          "name": "Fan Girl",
+          "url": "https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195616,
+      "name": "flood",
+      "url": "https://open.spotify.com/track/41Pn0bj8sB5GAzpImm2Sg7"
     },
     {
       "album": {
@@ -2168,7 +2222,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 177709,
       "name": "HOPELESS",
       "url": "https://open.spotify.com/track/1kvrh0fvOZUZMbjJs3d1Sc"
@@ -2828,7 +2882,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 295484,
       "name": "Love That Takes You Up",
       "url": "https://open.spotify.com/track/0zBmEE0ruiNSs1JEXUKl3I"
@@ -3055,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/4iYWpXw3b8gsAV0oTbivb7"
+      },
+      "artists": [
+        {
+          "name": "Scatter Light",
+          "url": "https://open.spotify.com/artist/0Xm0TXqKzbyZVDLZgJFgbD"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/3usPMzPwvPJfP5PzX5IeRr"
+    },
+    {
+      "album": {
         "name": "Moving Out",
         "url": "https://open.spotify.com/album/7djWr41uB6oGxWJNLgkPhn"
       },
@@ -3178,6 +3250,24 @@
       "duration_ms": 175010,
       "name": "ninezero",
       "url": "https://open.spotify.com/track/1TzuF0wtfTOLRjSc7mhN8w"
+    },
+    {
+      "album": {
+        "name": "No God",
+        "url": "https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC"
+      },
+      "artists": [
+        {
+          "name": "Rita Mae",
+          "url": "https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "No God",
+      "url": "https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI"
     },
     {
       "album": {
@@ -3365,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "One Metaphor",
+        "url": "https://open.spotify.com/album/2LPd8kbzqnhQy3Hm3lEpD5"
+      },
+      "artists": [
+        {
+          "name": "Arbes",
+          "url": "https://open.spotify.com/artist/4EJsm8GVADYCXpKNNrFjtu"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306064,
+      "name": "One Metaphor",
+      "url": "https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN"
+    },
+    {
+      "album": {
         "name": "One on One",
         "url": "https://open.spotify.com/album/0GQQvjMDFqSINU7pG2X4oV"
       },
@@ -3412,7 +3520,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 195790,
       "name": "Ottoway",
       "url": "https://open.spotify.com/track/4tRkdz8e9M32RSK82CveHH"
@@ -3895,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Digital Pet",
+        "url": "https://open.spotify.com/album/1C97iUJ0sJPyevPzLF6ZVA"
+      },
+      "artists": [
+        {
+          "name": "1-800-Mikey",
+          "url": "https://open.spotify.com/artist/4FsaaJrgOdlftovTmc6fKN"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116760,
+      "name": "Rental Girlfriend",
+      "url": "https://open.spotify.com/track/6SDT43k16uUxMUqvug3zeY"
+    },
+    {
+      "album": {
         "name": "Heavy Weight Heart",
         "url": "https://open.spotify.com/album/6mH9asZNJIotnXY0aDRWFY"
       },
@@ -4374,7 +4500,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 172931,
       "name": "Sow",
       "url": "https://open.spotify.com/track/7yL6dFWL7mIdyIVE2lZZwX"
@@ -4504,7 +4630,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 115338,
       "name": "Strategic Living",
       "url": "https://open.spotify.com/track/0unLpqclIM6yjzIWI5msEI"
@@ -4544,6 +4670,24 @@
       "duration_ms": 210502,
       "name": "STRUNG OUT",
       "url": "https://open.spotify.com/track/5xYkAqW73WUUuSkDUAqmXm"
+    },
+    {
+      "album": {
+        "name": "Pacific Highway Music",
+        "url": "https://open.spotify.com/album/3Gj02Upr1O1ojSMzE0Jtd3"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "Stuck In Cheyenne",
+      "url": "https://open.spotify.com/track/4M6WG6R3Rx3aB7LrNL9mx8"
     },
     {
       "album": {
@@ -4796,6 +4940,24 @@
       "duration_ms": 171303,
       "name": "The Ants",
       "url": "https://open.spotify.com/track/0HK3HtEmnidY5r13CyZf1x"
+    },
+    {
+      "album": {
+        "name": "The Cow",
+        "url": "https://open.spotify.com/album/1XCHKTg0PCOrcUSwDGr6dv"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243442,
+      "name": "The Cow",
+      "url": "https://open.spotify.com/track/0EMUBh5n48w0lzVE8tDpNq"
     },
     {
       "album": {

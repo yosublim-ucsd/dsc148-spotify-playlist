@@ -6841,6 +6841,24 @@
     },
     {
       "album": {
+        "name": "Die 4 Anything",
+        "url": "https://open.spotify.com/album/1e8SHjjt5fxhFXLhjiVie3"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109136,
+      "name": "Die 4 Anything",
+      "url": "https://open.spotify.com/track/0Drcr0fLRnNSirV45hXSVL"
+    },
+    {
+      "album": {
         "name": "PRE5L",
         "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
       },

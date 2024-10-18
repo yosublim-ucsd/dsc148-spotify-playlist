@@ -2,9 +2,9 @@
 
 ### [The Local List Aotearoa](https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs)
 
-> Discover the best in new music from Aotearoa\. Cover: Jon Toogood
+> Discover the best in new music from Aotearoa\. Cover: Kiki Rockwell
 
-185 songs - 10 hr 26 min
+188 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,10 @@
 | [Ease](https://open.spotify.com/track/2HvffwR0uYWNC8ha31BlJp) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Ease](https://open.spotify.com/album/3Cmmi0B9mnT1cXT5olINFu) | 3:20 | 2024-05-20 |  |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-08-15 |  |
 | [Eyes On Me](https://open.spotify.com/track/1mECl3Zcm5Yp0APfuW5qfi) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me](https://open.spotify.com/album/5oStuVQ3cIli57rHOqi42c) | 3:43 | 2024-05-20 |  |
+| [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 | 2024-05-20 | 2024-08-16 |
 | [Falling For You](https://open.spotify.com/track/7A88nTuJXs45pD7Y1miTQX) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Falling For You](https://open.spotify.com/album/5ub2Bf8lPIsARvvDDfsD0M) | 3:58 | 2024-05-20 | 2024-08-16 |
+| [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 | 2024-10-18 |  |
 | [Flames](https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Flames](https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc) | 2:47 | 2024-09-26 |  |
 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \- Edit](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 | 2024-09-26 |  |
 | [Follow You](https://open.spotify.com/track/1nI65UwP9P5AECQ20H7LCa) | [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Follow You](https://open.spotify.com/album/18zkpvInzvgLrQ7QxqSD7m) | 3:29 | 2024-05-20 |  |
@@ -127,6 +129,7 @@
 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 | 2024-05-20 |  |
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-09-12 |  |
 | [Night Like This](https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Night Like This](https://open.spotify.com/album/4wI3VU8L0pgcKBFi3Xa0E3) | 2:59 | 2024-05-20 |  |
+| [No God](https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [No God](https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC) | 2:44 | 2024-10-18 |  |
 | [Not This Time](https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Not This Time](https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe) | 3:21 | 2024-09-12 |  |
 | [Ocean Demon](https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:20 | 2024-05-20 |  |
 | [Oh Hi](https://open.spotify.com/track/6s4moU8cfNSqwJaKdQ6HSn) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Oh Hi](https://open.spotify.com/album/1dOYHCT5VVIOAOuTX9b2i2) | 2:59 | 2024-05-20 |  |

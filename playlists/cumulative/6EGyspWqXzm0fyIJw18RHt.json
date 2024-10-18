@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Rave in the Grave",
+        "url": "https://open.spotify.com/album/2XPegg8qwhY3CHGR4n812W"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162732,
+      "name": "Rave in the Grave",
+      "url": "https://open.spotify.com/track/6Sf2YqGzNmVfSNpLFWuYbz"
+    },
+    {
+      "album": {
         "name": "Monster Dance Party",
         "url": "https://open.spotify.com/album/4Ucm5B1SXAUCRuuBFQUPWE"
       },
@@ -424,6 +446,24 @@
       "duration_ms": 255973,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx"
+    },
+    {
+      "album": {
+        "name": "A-Haunting We Will Go-Go",
+        "url": "https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk"
+      },
+      "artists": [
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93533,
+      "name": "Surfin' Spooks",
+      "url": "https://open.spotify.com/track/2R8t1qlB2wMiWwho1u3eYq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:57zYbDb1zNVoTYNUGmv45d">Ben Fuller</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,239 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,337 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 77 | [Stand Firm](https://open.spotify.com/track/3Cqaqx89L3DJHWD10pgESH) | [Dreaming The Impossible](https://open.spotify.com/artist/2EqD1GwqOZoVc29Ru6y5Dm), [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Stand Firm](https://open.spotify.com/album/4qrCqqXLBE8os86yLkC8AO) | 3:49 |
 | 78 | [Yahweh \(Holy\) \- Live](https://open.spotify.com/track/3VbsnAdGGvOrCE3CWCtW1i) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm) | [Yahweh \(Holy\) \- Live](https://open.spotify.com/album/6xk6PoQ9T32p8i63PeR9Y3) | 6:47 |
 | 79 | [You Won't Let Go \- Live](https://open.spotify.com/track/0bD7dFq7LP8dYWpnKjy47S) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [You Won't Let Go \- Live](https://open.spotify.com/album/6NR6EBnJe0qnlSTvpXo9vC) | 5:05 |
-| 80 | [The Stand](https://open.spotify.com/track/1LVD0DMUHOSi5B8PPYPj6r) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [The Well: An Acoustic Project](https://open.spotify.com/album/4nfOgcGLkleelHSXy8E5WT) | 5:25 |
+| 80 | [The Stand](https://open.spotify.com/track/1LVD0DMUHOSi5B8PPYPj6r) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J) | [The Well: An Acoustic Project](https://open.spotify.com/album/4nfOgcGLkleelHSXy8E5WT) | 5:25 |
 | 81 | [In Your Love](https://open.spotify.com/track/3gFgPH3rwoxgV57QTnoS7W) | [James Wilson](https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk), [Glory MSC](https://open.spotify.com/artist/32khG4YnpYkgZ8u4J4pYKJ), [KENLEY](https://open.spotify.com/artist/1WMVso4SXrc44qKPStq1K8) | [In Your Love](https://open.spotify.com/album/5nilbm6BtXFs0kHzKfuwCy) | 5:05 |
 | 82 | [Scarlet](https://open.spotify.com/track/226x3SnfqKmWipiwilLE2G) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Scarlet](https://open.spotify.com/album/5Co6yLI3KGvUphFbkt4nRM) | 2:59 |
 | 83 | [No One Knows Me Like You](https://open.spotify.com/track/1c9gSVQI8wUnXh7998XLp7) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Caleb Yetton](https://open.spotify.com/artist/27zD09dXJnOpZ3qfeXpzu8) | [No One Knows Me Like You](https://open.spotify.com/album/5NatSPOYgRfBCxdFIaI9wN) | 3:15 |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler. Kapak: Dedubl\u00fcman x Can Kazaz",
+  "description": "viral, trend ve y\u00fckselenler. Kapak: Ati242",
   "name": "trend 2024",
   "tracks": [
+    {
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Ait Hissetmiyorum",
+      "url": "https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn"
+    },
     {
       "album": {
         "name": "Ankara R\u00fczgar\u0131",
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 246960,
       "name": "Zalim (Ellerine Sa\u011fl\u0131k) - Remastered",
       "url": "https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y"

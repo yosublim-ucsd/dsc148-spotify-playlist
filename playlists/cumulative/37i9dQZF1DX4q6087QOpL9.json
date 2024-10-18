@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Don't Lose The Magic (Emmaculate Remix)",
+        "url": "https://open.spotify.com/album/1z56YMP1A1eyW8pawt1vVu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Christopher",
+          "url": "https://open.spotify.com/artist/3TONYCzAeoUCwR3i1nAQwB"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Don't Lose The Magic - Emmaculate Extended Club Mix",
+      "url": "https://open.spotify.com/track/1tdfiSE0sC95hib1ChBn8z"
+    },
+    {
+      "album": {
         "name": "The Universe Is Magic",
         "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
       },
@@ -2576,7 +2598,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 449500,
       "name": "History Repeating",
       "url": "https://open.spotify.com/track/1HxspvM1G4sLwQJjHFHfUl"

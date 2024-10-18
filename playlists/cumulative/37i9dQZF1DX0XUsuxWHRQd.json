@@ -41806,6 +41806,24 @@
     {
       "album": {
         "name": "Try Me",
+        "url": "https://open.spotify.com/album/33fn2juK3vTw00RXKRVxDX"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2CY92qejUrhyPUASawNVRr"
+    },
+    {
+      "album": {
+        "name": "Try Me",
         "url": "https://open.spotify.com/album/71ziNzfuk5VLPwiAvQaC1X"
       },
       "artists": [

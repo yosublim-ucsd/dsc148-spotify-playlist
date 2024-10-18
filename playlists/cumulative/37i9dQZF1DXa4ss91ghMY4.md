@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-504 songs - 1 day 1 hr 51 min
+505 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-13 | 2023-07-15 |
 | [Me Chama](https://open.spotify.com/track/5nkQ6XoigkqO9lqy28hLis) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Me Chama](https://open.spotify.com/album/40WvdGsOPwzkEVcVSzW8lO) | 2:35 | 2022-02-18 | 2022-07-29 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2022-03-02 | 2022-07-23 |
-| [Meu Quesito é Saber Viver \- Ao Vivo](https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 3](https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1) | 3:19 | 2023-10-27 |  |
+| [Meu Quesito é Saber Viver \- Ao Vivo](https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 3](https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1) | 3:19 | 2023-10-27 | 2024-10-18 |
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2022-03-25 | 2022-04-17 |
 | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/album/2bl8B6G1wit5BFNtAwkX51) | 2:36 | 2022-02-18 | 2022-06-21 |
 | [Moment](https://open.spotify.com/track/5ECMw9uUKsESaf3EeKTGID) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strangers / Lovers](https://open.spotify.com/album/7voNzojlnciw4Dld8KywVw) | 2:45 | 2022-03-25 | 2022-04-17 |
@@ -397,6 +397,7 @@
 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 | 2023-03-08 |  |
 | [Sobre mim \(talvez\) sobre você](https://open.spotify.com/track/6DakXDnZ1xh2KgPsZE6gKL) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Sobre mim \(talvez\) sobre você](https://open.spotify.com/album/6l5JLJLY1tTGwzNUYu77IZ) | 2:47 | 2022-03-14 | 2022-07-29 |
 | [Solar Power](https://open.spotify.com/track/2WKjP0l2Y25Tp14RPjIAqJ) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4nLTdxvGBp9ykHIvY5QJFS) | 3:12 | 2022-03-25 | 2022-04-17 |
+| [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-10-17 |  |
 | [Something Better](https://open.spotify.com/track/4IR7UUjO9EV8ajqoKOIkyU) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Something Better](https://open.spotify.com/album/5SAZJIBnQOAy0Y97GzwzuO) | 3:03 | 2022-04-08 | 2022-04-11 |
 | [something special](https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [something special \(hi\)](https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy) | 2:37 | 2022-04-08 | 2022-04-13 |
 | [Somewhere Else](https://open.spotify.com/track/4R6ieI2t41EXZUwlUGoneq) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Somewhere Else](https://open.spotify.com/album/3Om86yugvEvBx0q6xLVBnw) | 3:28 | 2022-03-25 | 2022-04-16 |

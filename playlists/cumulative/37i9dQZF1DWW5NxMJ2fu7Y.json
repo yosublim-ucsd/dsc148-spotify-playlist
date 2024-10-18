@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Daiki",
+        "url": "https://open.spotify.com/album/5RnjVIXXZq2g0Uoo2ClCXP"
+      },
+      "artists": [
+        {
+          "name": "Namak",
+          "url": "https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150802,
+      "name": "Daiki",
+      "url": "https://open.spotify.com/track/262iAPHNUSIK50QhsTWUqG"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 170770,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 208745,
       "name": "Light",
       "url": "https://open.spotify.com/track/7B81kYMqsw0gMWtghdo7Q6"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 136968,
       "name": "LOTSOFLOVE",
       "url": "https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd"
@@ -1321,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "NDAM!",
+        "url": "https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "NDAM!",
+      "url": "https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5"
+    },
+    {
+      "album": {
         "name": "Nfss Lhala",
         "url": "https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7"
       },
@@ -1438,6 +1474,24 @@
       "duration_ms": 225230,
       "name": "Omri",
       "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
+    },
+    {
+      "album": {
+        "name": "Paroles",
+        "url": "https://open.spotify.com/album/5XUXJPa45A8pegZHEPFQyZ"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219916,
+      "name": "Paroles",
+      "url": "https://open.spotify.com/track/6uh1U3KqmmhPWtgskdKH4h"
     },
     {
       "album": {

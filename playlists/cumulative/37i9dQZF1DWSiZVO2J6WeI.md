@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-393 songs - 20 hr 10 min
+394 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [528 Hz Chakra](https://open.spotify.com/track/2ltJWrTVi01JEV0b4ClKLN) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 3](https://open.spotify.com/album/3dbNlAIfcmieBOZrhoI2Ll) | 2:57 | 2022-04-13 | 2022-04-21 |
 | [528 Hz Clarity Vibrations](https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Clarity Vibrations](https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC) | 2:12 | 2023-03-10 |  |
 | [528 Hz Seraphic Waves](https://open.spotify.com/track/2vAOQNm009ERHXW1uclwg0) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Seraphic Waves](https://open.spotify.com/album/4cEtf9VE8UVNhvGgfJTLTq) | 2:51 | 2024-01-17 |  |
+| [741 Hz Pure Expression](https://open.spotify.com/track/48R0qTAVmLRyTxxT8PhUA9) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [741 Hz Pure Expression](https://open.spotify.com/album/3R1ahXku6SNrnXE5xVThif) | 3:02 | 2024-10-15 |  |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2022-01-12 | 2024-05-21 |
 | [Aarshedh](https://open.spotify.com/track/5Y6o3Nq4bKwMovfImGrgpP) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Peaceful Binaural](https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo) | 3:53 | 2022-04-13 | 2022-04-21 |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-01-17 | 2024-02-08 |
@@ -31,7 +32,7 @@
 | [Alpha 10 Hz](https://open.spotify.com/track/7qULBKJPUl7W5yZ0rNFV34) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:27 | 2022-04-13 | 2022-04-17 |
 | [Angelic Spaces](https://open.spotify.com/track/54neOde1RbPnHN0jvhc3Bb) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Angelic Spaces](https://open.spotify.com/album/0Na5e10kAhbEWpStQ1wmPB) | 2:18 | 2024-01-17 | 2024-02-08 |
 | [Angular Distance](https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Angular Distance](https://open.spotify.com/album/0iDOTiVv2ZylCqS7Q8ckLX) | 3:20 | 2024-01-17 | 2024-08-27 |
-| [Annalkande](https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Annalkande](https://open.spotify.com/album/2rbOag8Yg0cQ58nmdVcubY) | 2:22 | 2023-12-01 |  |
+| [Annalkande](https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Annalkande](https://open.spotify.com/album/2rbOag8Yg0cQ58nmdVcubY) | 2:22 | 2023-12-01 | 2024-10-18 |
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2022-08-15 | 2024-09-07 |
 | [Apesanteur](https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Apesanteur](https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39) | 2:38 | 2022-01-12 | 2024-05-21 |
 | [Aphelion](https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Aphelion](https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW) | 3:20 | 2022-01-12 | 2024-02-09 |

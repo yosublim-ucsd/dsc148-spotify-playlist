@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Plutonio entra na zona. ",
+  "description": "CADU entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -8636,7 +8636,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 242000,
       "name": "N\u00e3o Me Cortes A Vibe",
       "url": "https://open.spotify.com/track/78dvl1t86li0wlEqecZkPR"
@@ -10838,6 +10838,28 @@
       "duration_ms": 177464,
       "name": "Seguran\u00e7a",
       "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
+    },
+    {
+      "album": {
+        "name": "Sei Bem Que Tens Saudades",
+        "url": "https://open.spotify.com/album/0tSctKFMqZAHAcw3Tlp0se"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136798,
+      "name": "Sei Bem Que Tens Saudades",
+      "url": "https://open.spotify.com/track/2ZvW1VHTRzLHfekEqTXw4q"
     },
     {
       "album": {

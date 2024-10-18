@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,792 likes - 101 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,907 likes - 101 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 | 48 | [聽媽媽的話](https://open.spotify.com/track/14YooSSTGCikWjqD0e5r4j) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/15CNwI7alagWFBSj5EPmvV) | 4:23 |
 | 49 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 |
 | 50 | [粉色海洋](https://open.spotify.com/track/1iOBnWtpU48hivRYemWBAl) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B) | 3:06 |
-| 51 | [我落淚,情緒零碎](https://open.spotify.com/track/4bGurSMTKFekGCIEuvnvtW) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:18 |
+| 51 | [我落淚，情緒零碎](https://open.spotify.com/track/4bGurSMTKFekGCIEuvnvtW) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:18 |
 | 52 | [浪漫手機](https://open.spotify.com/track/4ofmSKnAYj295dE0klRGQx) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 3:58 |
 | 53 | [斷了的弦](https://open.spotify.com/track/7yriqF8s3ESXqwuDxUaleo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [尋找周杰倫](https://open.spotify.com/album/1frU5PezpjokLBrfy7l4i1) | 4:53 |
 | 54 | [不愛我就拉倒](https://open.spotify.com/track/0rqkH1SCZaoGhWo0GqrFCM) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B) | 4:06 |

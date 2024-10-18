@@ -2129,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "IFA",
+        "url": "https://open.spotify.com/album/59rJFtuzmKx5TOgSfa2UMK"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Pacify",
+          "url": "https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135639,
+      "name": "IFA",
+      "url": "https://open.spotify.com/track/7FR9RhaJnSnEywOJRxwJLv"
+    },
+    {
+      "album": {
         "name": "\u00c5 Drukne En Fisk",
         "url": "https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK"
       },
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 178802,
       "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
       "url": "https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh"

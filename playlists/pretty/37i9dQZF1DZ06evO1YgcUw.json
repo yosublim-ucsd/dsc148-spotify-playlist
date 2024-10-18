@@ -1,12 +1,12 @@
 {
-  "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 317973,
+  "description": "This Is The Beach Boys. Los temas esenciales, todos en una lista.",
+  "num_followers": 317986,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAABFmWNBolv4Ch2aiPVbwAeh",
+  "snapshot_id": "Zw8CAAAAAAA3INgX3nV2O7LVqTSD8Doc",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pet Sounds",
-        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pet Sounds",
-        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Sloop John B",
-      "url": "https://open.spotify.com/track/72fAewq2UVWSf3RjtqICdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Days (And Summer Nights) - Remastered",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 160360,
       "name": "California Girls - Remix/Remastered 2001",
       "url": "https://open.spotify.com/track/6bJuuCtXYiwOcKT9s8uRh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Sloop John B",
+      "url": "https://open.spotify.com/track/72fAewq2UVWSf3RjtqICdS"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfer Girl (Remastered)",
-        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "Surfer Girl - Remastered 2001",
-      "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Days (And Summer Nights) - Remastered",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 168240,
       "name": "Help Me, Rhonda - Single Version/Remastered 2001",
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfer Girl (Remastered)",
+        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "Surfer Girl - Remastered 2001",
+      "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfer Girl (Remastered)",
-        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 100933,
-      "name": "Little Deuce Coupe - Remastered 2001",
-      "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Days (And Summer Nights) - Remastered",
         "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 137866,
       "name": "Then I Kissed Her - Remastered 2001",
       "url": "https://open.spotify.com/track/3Ez3Pk5Xe6GmocOVZ6dEks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfer Girl (Remastered)",
+        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 100933,
+      "name": "Little Deuce Coupe - Remastered 2001",
+      "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfer Girl (Remastered)",
-        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134133,
-      "name": "In My Room - Remastered",
-      "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1967 - Sunshine Tomorrow",
         "url": "https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 60466,
       "name": "A Thing Or Two - Track & Backing Vocals",
       "url": "https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfer Girl (Remastered)",
+        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134133,
+      "name": "In My Room - Remastered",
+      "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
-        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "I Get Around - 2021 Stereo Mix",
-      "url": "https://open.spotify.com/track/5nfO4MpLIU4rbohUOKofzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.A. (Light Album) [Remastered]",
         "url": "https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 239240,
       "name": "Lady Lynda - Remastered 2000",
       "url": "https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
+        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "I Get Around - 2021 Stereo Mix",
+      "url": "https://open.spotify.com/track/5nfO4MpLIU4rbohUOKofzW"
     },
     {
       "added_at": null,

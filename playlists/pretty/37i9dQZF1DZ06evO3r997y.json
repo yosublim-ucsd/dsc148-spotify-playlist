@@ -1,12 +1,12 @@
 {
-  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
-  "num_followers": 2227,
-  "original_name": "This Is Akari Kito",
+  "description": "This is \u9b3c\u982d\u660e\u91cc\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 2228,
+  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAAAJOSCmGZef66J1L9J9Lk79",
+  "snapshot_id": "Zw8CAAAAAAAVtQJhYFG0Plle0bKxJM13",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Oxidation",
-      "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
+      "duration_ms": 253040,
+      "name": "illminate",
+      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-        "url": "https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl"
+        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
+        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 295320,
-      "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi"
+      "duration_ms": 258252,
+      "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
     },
     {
       "added_at": null,
@@ -564,15 +564,15 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 204986,
+      "name": "Oxidation",
+      "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
-        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
+        "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+        "url": "https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 258252,
-      "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
+      "duration_ms": 295320,
+      "name": "Tiny Light Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi"
     },
     {
       "added_at": null,
@@ -633,6 +633,6 @@
       "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
     }
   ],
-  "unique_name": "This Is Akari Kito",
+  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

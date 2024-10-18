@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: Stray Kids\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: SEVENTEEN\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-611 songs - 1 day 9 hr 49 min
+612 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Close your eyes](https://open.spotify.com/track/2S55QaJ7WPKbwCGAr8MU72) | [Bz\-Boys](https://open.spotify.com/artist/73FA33YtQWdPuswF6u7u4D) | [CONTRAST](https://open.spotify.com/album/7ku0nYsGBPFkhwKp7RepI9) | 3:21 | 2022-04-15 | 2022-07-28 |
 | [Combo](https://open.spotify.com/track/3LUi9n9mMOR1eK3kle7oCe) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/7ug3rkXUrzOKpDZ1Sxk7Oh) | 3:39 | 2024-09-04 | 2024-09-25 |
 | [COME](https://open.spotify.com/track/2WasDVjYFmLgukoxIcUTZp) | [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW) | [COME](https://open.spotify.com/album/2wCPKaa4xP9Pxqa2fmsdzZ) | 3:04 | 2022-03-22 | 2022-04-20 |
+| [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 | 2024-10-17 |  |
 | [Coming Home \(Sung by TAEIL, DOYOUNG, JAEHYUN, HAECHAN\)](https://open.spotify.com/track/1A7pDII9Zy07oCDW3xldgy) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [STATION X 4 LOVEs for Winter Part.2](https://open.spotify.com/album/6KCFJyHGY6CL9DJIcOQxzZ) | 4:23 | 2022-03-22 | 2022-04-20 |
 | [Complete](https://open.spotify.com/track/4rzJ2hzZINazNrqxRv9XoN) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [You Complete Me](https://open.spotify.com/album/7HdYN5CBIdmOj2zhKkqnwb) | 3:06 | 2022-03-22 | 2022-04-17 |
 | [coNEXTion \(Age of Light\)](https://open.spotify.com/track/27vGornenTX2Vrzg9nOyBA) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [coNEXTion \(Age of Light\) \- SM STATION : NCT LAB](https://open.spotify.com/album/4Q1QbnNAgUGq4glyv7dAXn) | 3:46 | 2022-03-21 | 2022-04-13 |
@@ -183,7 +184,7 @@
 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-07-27 | 2024-04-19 |
 | [FAKER](https://open.spotify.com/track/4yIP456UEjLIDBdRvBTTcw) | [루커스](https://open.spotify.com/artist/5nYClr2BjPKj9lENjV5Hbx) | [FAKER](https://open.spotify.com/album/5NXALmMcE00WExg8Bqr1U6) | 3:37 | 2022-03-31 | 2022-04-16 |
 | [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-11-28 | 2024-05-07 |
-| [Falling Up \(from "Tower of God: WORKSHOP BATTLE"\) \(Korean ver.\)](https://open.spotify.com/track/30xTeoaulxYKDjH9SIq0YZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT \(Korean ver.\)](https://open.spotify.com/album/1BBigQeejhkNHwAB25JNg6) | 3:10 | 2024-10-11 |  |
+| [Falling Up \(from "Tower of God: WORKSHOP BATTLE"\) \(Korean ver.\)](https://open.spotify.com/track/30xTeoaulxYKDjH9SIq0YZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT \(Korean ver.\)](https://open.spotify.com/album/1BBigQeejhkNHwAB25JNg6) | 3:10 | 2024-10-11 | 2024-10-18 |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-04-20 |
 | [FANTASIA](https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:06 | 2022-03-30 | 2022-07-13 |
 | [Farewell](https://open.spotify.com/track/7rJZp1DVysX95a6lX9ThiP) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Farewell](https://open.spotify.com/album/2Ub5QAeVor8nv2MvmedyJF) | 3:15 | 2024-07-18 | 2024-07-24 |

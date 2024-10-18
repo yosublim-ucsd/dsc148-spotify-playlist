@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 208000,
       "name": "Caigo (Stumblin' In)",
       "url": "https://open.spotify.com/track/0BFVoZViKatuNpRthpxIUP"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 165908,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/1I5gFwsDUOcIJoz0sdfHAs"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 155748,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 182189,
       "name": "Dominvs",
       "url": "https://open.spotify.com/track/0t4D3Wpuzn0gMqDeoIC5qh"
@@ -1498,6 +1498,28 @@
       "duration_ms": 151277,
       "name": "Don't Get Lazy",
       "url": "https://open.spotify.com/track/5otmd1vyOCxDtcvYRrJQ3u"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141479,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
     },
     {
       "album": {
@@ -1752,7 +1774,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 164160,
       "name": "Elbows (feat. Troz\u00e9)",
       "url": "https://open.spotify.com/track/3p0z5sooMDJyprzbm9JD3N"
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 191739,
       "name": "FOREIGN",
       "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 157777,
       "name": "Girls Just Wanna Have Fun",
       "url": "https://open.spotify.com/track/0bHJwpXNSEYjzxSiADRTfG"
@@ -3104,7 +3126,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 241080,
       "name": "I'm Too Sexy (Eric Kupper Remix)",
       "url": "https://open.spotify.com/track/79luzgoRfJUmHakzks602J"
@@ -3292,7 +3314,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 174375,
       "name": "Junglin",
       "url": "https://open.spotify.com/track/55m5dkip1lCp6DPeVnj07C"
@@ -3406,10 +3428,36 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 158015,
       "name": "Knock",
       "url": "https://open.spotify.com/track/7532rqVHUqlSfFUMVo65yx"
+    },
+    {
+      "album": {
+        "name": "Kolkata (Techno Version)",
+        "url": "https://open.spotify.com/album/421QWBCNHDoQTqDk41JYfj"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Kolkata (Techno Version)",
+      "url": "https://open.spotify.com/track/3Bk4ZohpjYTuJXbxFRSyPg"
     },
     {
       "album": {
@@ -3520,6 +3568,28 @@
       "duration_ms": 165000,
       "name": "Latenight - Radio Mix",
       "url": "https://open.spotify.com/track/7byMAHyVjnkDkzsGsp31uE"
+    },
+    {
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/1OeAgQpEOIyuE5ghCasm9H"
+      },
+      "artists": [
+        {
+          "name": "Luke Miller",
+          "url": "https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD"
+        },
+        {
+          "name": "OFFDATA",
+          "url": "https://open.spotify.com/artist/2Gy19A1Xs1NuIHND1dCh7p"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO"
     },
     {
       "album": {
@@ -3824,7 +3894,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 175250,
       "name": "Love You Inside Out",
       "url": "https://open.spotify.com/track/5Jdhi3inKqfpBuo7Im293T"
@@ -4366,7 +4436,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179815,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe"
@@ -4428,7 +4498,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 155075,
       "name": "My Best Life (feat. Mike Waters) [Psy Mix]",
       "url": "https://open.spotify.com/track/6jJOhHyOgpIOHWq3DaFiyM"
@@ -4534,7 +4604,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 170196,
       "name": "Never Leave You (Uh Oooh, Uh Oooh)",
       "url": "https://open.spotify.com/track/03bA59As8j2ODRyZRE3X7X"
@@ -5402,7 +5472,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 146029,
       "name": "SexyBack - TechnoBack",
       "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
@@ -5684,6 +5754,32 @@
       "duration_ms": 131444,
       "name": "Somebody Else (feat. Blair)",
       "url": "https://open.spotify.com/track/1NOZKVCCAHa61neGa8pPUX"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/0NRKmZUelQc3JcEO3ll7E1"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119129,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg"
     },
     {
       "album": {
@@ -6061,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Taste Of Summer",
+        "url": "https://open.spotify.com/album/0NCqqYXAgNdHtFoPGrIDAl"
+      },
+      "artists": [
+        {
+          "name": "Calum Kieran",
+          "url": "https://open.spotify.com/artist/2rbfvpGH3D4WogHpndteUF"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186478,
+      "name": "Taste Of Summer",
+      "url": "https://open.spotify.com/track/3566cOSTCoQmPNTn9LbX6J"
+    },
+    {
+      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -6198,7 +6312,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 153036,
       "name": "The Chant (feat. Savage) - Anderex Remix",
       "url": "https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ"
@@ -6348,7 +6462,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
@@ -6366,7 +6480,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 179777,
       "name": "Toccata",
       "url": "https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL"

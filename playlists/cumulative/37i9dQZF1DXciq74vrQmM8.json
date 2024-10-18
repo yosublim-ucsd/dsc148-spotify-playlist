@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. emily jeffri",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. BEX",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "BEWARE, THE EYES IN THE CORNER OF THE ROOM",
+        "url": "https://open.spotify.com/album/01f8MXg9Iy2h6vOI5pTEYM"
+      },
+      "artists": [
+        {
+          "name": "tommy.",
+          "url": "https://open.spotify.com/artist/61sAraGpRoTyiM1pzlOFgp"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171980,
+      "name": "ALL AMERICAN NIGHTMARE",
+      "url": "https://open.spotify.com/track/6urGFOw5gaknvtYxTXxYi3"
+    },
+    {
+      "album": {
         "name": "ALL COPS ARE BASTARDS*",
         "url": "https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr"
       },
@@ -504,6 +522,24 @@
       "duration_ms": 190066,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/4xQSKB4sB45F3tKVeCBh2F"
+    },
+    {
+      "album": {
+        "name": "ALLIGATOR",
+        "url": "https://open.spotify.com/album/20tuHWUfwJe3BIu8lyIa7l"
+      },
+      "artists": [
+        {
+          "name": "Cody Frost",
+          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162064,
+      "name": "ALLIGATOR",
+      "url": "https://open.spotify.com/track/65UWHk2wQf6hjZeeNOwqsP"
     },
     {
       "album": {
@@ -2218,7 +2254,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 210857,
       "name": "Break",
       "url": "https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk"
@@ -2978,6 +3014,24 @@
       "duration_ms": 124489,
       "name": "CIGARETTES",
       "url": "https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig"
+    },
+    {
+      "album": {
+        "name": "Circle Pit // Bad Seed",
+        "url": "https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175365,
+      "name": "Circle Pit",
+      "url": "https://open.spotify.com/track/7cY80346hpJqWsZICV8AP2"
     },
     {
       "album": {
@@ -4574,7 +4628,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 213333,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE"
@@ -5889,6 +5943,28 @@
     },
     {
       "album": {
+        "name": "Slivering The Senses",
+        "url": "https://open.spotify.com/album/0fnKw7H5rGLcVk5WiuB47q"
+      },
+      "artists": [
+        {
+          "name": "NOWHERE2RUN",
+          "url": "https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186458,
+      "name": "Floodlights (feat. Siiickbrain)",
+      "url": "https://open.spotify.com/track/4oB1uQsNHRTaX6KLxPdSM8"
+    },
+    {
+      "album": {
         "name": "Flower Girl",
         "url": "https://open.spotify.com/album/4uVm4K5cgn9rqiNBt7XNCC"
       },
@@ -6992,6 +7068,24 @@
       "duration_ms": 135757,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/31JgkeYLMlgzZgmFBStbeG"
+    },
+    {
+      "album": {
+        "name": "MG Ultra",
+        "url": "https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/3EN9EFQHqDSLoNXAOkJzlJ"
     },
     {
       "album": {
@@ -14069,6 +14163,28 @@
     },
     {
       "album": {
+        "name": "REPTILIAN",
+        "url": "https://open.spotify.com/album/542STUXz3gaRxZyZaKoEzK"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147119,
+      "name": "REPTILIAN",
+      "url": "https://open.spotify.com/track/5e5qV3j9X8Ed13JC9OFO0s"
+    },
+    {
+      "album": {
         "name": "revenant",
         "url": "https://open.spotify.com/album/25WnPXxjljgQEwcRaHRVfT"
       },
@@ -15695,6 +15811,24 @@
     },
     {
       "album": {
+        "name": "Sum Kinda Syko",
+        "url": "https://open.spotify.com/album/5vaiMc8YWWBaosDCLRrA40"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172215,
+      "name": "Sum Kinda Syko",
+      "url": "https://open.spotify.com/track/0BWQxDNl3yj7CjWRQ9NKJO"
+    },
+    {
+      "album": {
         "name": "sunDae",
         "url": "https://open.spotify.com/album/7CUZVkweNek1Be07QednRF"
       },
@@ -15984,7 +16118,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 173344,
       "name": "Taste Better",
       "url": "https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E"
@@ -16136,6 +16270,24 @@
       "duration_ms": 165750,
       "name": "the boy has to go",
       "url": "https://open.spotify.com/track/4FjpjCIamZBgedcleaCvXW"
+    },
+    {
+      "album": {
+        "name": "the cost of giving up",
+        "url": "https://open.spotify.com/album/5ny4Uho4k56brX600DlYiF"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197849,
+      "name": "the cost of giving up",
+      "url": "https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme"
     },
     {
       "album": {
@@ -18188,7 +18340,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189904,
       "name": "wolf",
       "url": "https://open.spotify.com/track/2ZnNZzwNIMsQ8j8jdNKdgc"

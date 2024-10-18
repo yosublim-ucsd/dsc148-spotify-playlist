@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Amores como el nuestro RMX",
+        "url": "https://open.spotify.com/album/54wZkOmwiH94rhgf3kfTfl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137052,
+      "name": "Amores como el nuestro RMX",
+      "url": "https://open.spotify.com/track/551EUDVlKhTmg9XD9UHVO7"
+    },
+    {
+      "album": {
         "name": "Anda Sola",
         "url": "https://open.spotify.com/album/4aCvjyaBDIusZH70KjWc0J"
       },
@@ -1090,7 +1112,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 154624,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
@@ -4319,6 +4341,36 @@
     },
     {
       "album": {
+        "name": "JBL",
+        "url": "https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "JBL",
+      "url": "https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU"
+    },
+    {
+      "album": {
         "name": "Jodido Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3vf7r2oc46hcO1tVhI7XK2"
       },
@@ -4992,7 +5044,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
@@ -5014,6 +5066,24 @@
       "duration_ms": 615615,
       "name": "Lagrima de amor / Ahora me quedo sin ti / Amanecio / Primer amor - En Vivo",
       "url": "https://open.spotify.com/track/0V15kEh0CmPl1ThdnaInAJ"
+    },
+    {
+      "album": {
+        "name": "70-30 (Vol 1)",
+        "url": "https://open.spotify.com/album/2ValAxEHkpIwTby46zuAZ1"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/5QO9bnUb6v3VqUXR7JEcPJ"
     },
     {
       "album": {
@@ -6130,7 +6200,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
@@ -7959,6 +8029,28 @@
     },
     {
       "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0L0JB7dfQPRbIFMO7Av4ek"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "El Vecino",
+          "url": "https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/599y33cIzYBxPKerpPUmDG"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/29b9UQw9UwVIuO4b5aEJGW"
       },
@@ -9252,7 +9344,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 176289,
       "name": "Si Alguien Me Ve",
       "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
@@ -9662,7 +9754,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
@@ -10384,7 +10476,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 160909,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J"

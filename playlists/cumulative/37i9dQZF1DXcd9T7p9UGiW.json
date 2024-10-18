@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Teni",
+  "description": "Catching flights and going global. Cover: Wizkid & Brent Faiyaz ",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 142697,
       "name": "ACTIVE",
       "url": "https://open.spotify.com/track/2EdcRG3Xf7pgfNIJu5TuFK"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 224369,
       "name": "Free My Mind (Remix)",
       "url": "https://open.spotify.com/track/7rFvHbi9PX9Ty17sIr4jR4"
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 184722,
       "name": "JEJEREJE (with Ginton)",
       "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
@@ -5936,6 +5936,32 @@
       "duration_ms": 169325,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/0NkWxvR0jlPVgQiaBdma3U"
+    },
+    {
+      "album": {
+        "name": "Katuka (Chily & BackRoad Gee Remix)",
+        "url": "https://open.spotify.com/album/60wdpvEVT3zVAFANnkl3Ga"
+      },
+      "artists": [
+        {
+          "name": "Agatchu",
+          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153659,
+      "name": "Katuka - Chily & BackRoad Gee Remix",
+      "url": "https://open.spotify.com/track/5WMCsEQMWouVPhIUIZUqMK"
     },
     {
       "album": {
@@ -8306,7 +8332,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 263895,
       "name": "No Police",
       "url": "https://open.spotify.com/track/555YPV71yCcEdeHhCGFE1h"
@@ -9185,6 +9211,28 @@
     },
     {
       "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -9400,7 +9448,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 199102,
       "name": "PRAY FOR ME (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/2vkSZp7EDzpJ1tWY9HFThc"
@@ -9632,7 +9680,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
@@ -10534,7 +10582,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 177142,
       "name": "Sex & Marijuana",
       "url": "https://open.spotify.com/track/4IYlivA2JNikyAskn9JVhh"
@@ -11532,6 +11580,28 @@
       "duration_ms": 221611,
       "name": "Stir It Up (Feat. Sarkodie)",
       "url": "https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO"
+    },
+    {
+      "album": {
+        "name": "What Happens After",
+        "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
     },
     {
       "album": {

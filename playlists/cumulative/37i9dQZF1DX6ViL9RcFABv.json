@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 202920,
       "name": "Despedida de Solteira",
       "url": "https://open.spotify.com/track/3iM2GDnBgSWoANyN2KzMtX"
@@ -1769,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Olha Para N\u00f3s (feat. Nuno Ribeiro)",
+        "url": "https://open.spotify.com/album/0ebnb1xnlEZ3NQC1VqrjrY"
+      },
+      "artists": [
+        {
+          "name": "Anjos",
+          "url": "https://open.spotify.com/artist/3QbSxaHvxBJgyDPfekyDTi"
+        },
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206836,
+      "name": "Olha Para N\u00f3s (feat. Nuno Ribeiro)",
+      "url": "https://open.spotify.com/track/5Jcb7C5CslUS9xb1JFWS42"
+    },
+    {
+      "album": {
         "name": "Ondas Do Mar",
         "url": "https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD"
       },
@@ -2334,6 +2356,24 @@
       "duration_ms": 148695,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8"
+    },
+    {
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3siFdTrUNLxFNkRV2ksiwQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Supera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Muse](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yp56w)
 
-> This Is Muse\. Los temas esenciales, todos en una lista.
+> This is Muse\. The essential tracks, all in one playlist.
 
 86 songs - 6 hr 2 min
 

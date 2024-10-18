@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 | 2022-02-28 |  |
+| [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [ＮＯＩＲ　ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 | 2022-02-28 |  |
 | [a small pearl](https://open.spotify.com/track/0qtkVFlBzSecq60GOVpXJn) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [『海賊王女』オリジナルサウンドトラック](https://open.spotify.com/album/0LCqqqGm9ioLvzkJBxRtN3) | 1:47 | 2022-02-28 |  |
 | [a small pearl](https://open.spotify.com/track/1r9KTd0OA5eK1FR3FCYdkn) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [Fena: Pirate Princess ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ujRMr9i0cI839qXWCEsIr) | 1:47 | 2022-02-28 | 2024-04-19 |
 | [a song of storm and fire](https://open.spotify.com/track/22DBM0EDuHyhziJSel0H0a) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 4:02 | 2022-02-28 |  |
@@ -22,7 +22,7 @@
 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 | 2022-02-28 |  |
 | [edge](https://open.spotify.com/track/7jyqWifqQ5iqhVIR1q2Lqp) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [edge / 黄昏の海](https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6) | 3:28 | 2022-02-28 |  |
 | [Emerald Green](https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:27 | 2022-02-28 |  |
-| [everlasting song \~japanese edition](https://open.spotify.com/track/287Jt9dagw3V9TINvtoXAk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Everlasting Songs](https://open.spotify.com/album/0tCtSGFDkLFapppBSx7gkK) | 4:35 | 2022-02-28 |  |
+| [everlasting song　　～japanese edition](https://open.spotify.com/track/287Jt9dagw3V9TINvtoXAk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Everlasting Songs](https://open.spotify.com/album/0tCtSGFDkLFapppBSx7gkK) | 4:35 | 2022-02-28 |  |
 | [fake wings](https://open.spotify.com/track/57TCwW3DTmdgcmZJ2kI4S8) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [FICTION](https://open.spotify.com/album/2w1GcYScuH5MSCFtAjalbS) | 2:35 | 2022-02-28 |  |
 | [Fields of hope](https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1) | [Lacus Clyne \(CV: Rie Tanaka\)](https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH) | [Fields of hope](https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E) | 5:09 | 2023-05-07 | 2024-04-19 |
 | [Fields of hope](https://open.spotify.com/track/3ac0U3m8f5gVBFhoJJ0KE8) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [Fields of hope](https://open.spotify.com/album/6DjJGXV9Yn8jqd3Vfy08qC) | 5:09 | 2022-02-28 |  |

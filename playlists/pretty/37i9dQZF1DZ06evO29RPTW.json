@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 124220,
+  "num_followers": 124249,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAADYPBClfvdNjAn15RH7oeye",
+  "snapshot_id": "Zw8CAAAAAAAhPQ6UAZYxUgxdIjlbvRHM",
   "tracks": [
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Halloween Hootenanny",
+        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Medication For The Melancholy",
-      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
+      "duration_ms": 170066,
+      "name": "Halloween (She's So Mean)",
+      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
     },
     {
       "added_at": null,
@@ -771,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween Hootenanny",
-        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "The Ghastly Ones",
-          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Halloween (She's So Mean)",
-      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Satanic Cyanide ! The Killer Rocks On !",
-      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
+      "duration_ms": 146853,
+      "name": "Medication For The Melancholy",
+      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
     },
     {
       "added_at": null,
@@ -843,6 +827,30 @@
       "duration_ms": 252693,
       "name": "Hands Of Death (Burn Baby Burn)",
       "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mondo Sex Head",
+        "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        },
+        {
+          "name": "Jonathan Davis",
+          "url": "https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Thunder Kiss '65 - JDevil Number Of The Beast Remix",
+      "url": "https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j"
     }
   ],
   "unique_name": "This Is Rob Zombie",

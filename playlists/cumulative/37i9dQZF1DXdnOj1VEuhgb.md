@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
+> Türkiye'nin en sıkı çalma listesi\. Kapak:  Aksan x UZI
 
-449 songs - 19 hr 53 min
+450 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [KAN](https://open.spotify.com/track/50xHT2mvWw3F1M0kY7KQSr) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [KAN,TER](https://open.spotify.com/album/4Vo5JRP1ZwJTMCIpevTeP4) | 1:47 | 2023-10-05 | 2023-11-11 |
 | [Kan Kaybı](https://open.spotify.com/track/1m5pdgxphP7rhrpHMTRJHe) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Kan Kaybı](https://open.spotify.com/album/1FXF7bIW1G6xeBtywQDZCh) | 3:19 | 2024-08-15 | 2024-08-30 |
 | [Kan Çanağı](https://open.spotify.com/track/4fWE61BnYG503szkFFGzIo) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Istanbul Funk](https://open.spotify.com/album/0dd8nhQGASfuqNVgbujWlb) | 2:17 | 2023-12-12 | 2024-01-05 |
+| [Kanıtlandık](https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kanıtlandık](https://open.spotify.com/album/17lncZtNv43ABznkL46Eia) | 2:36 | 2024-10-17 |  |
 | [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-01-22 | 2024-04-12 |
 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 | 2024-04-04 |  |
 | [Kara Üzüm Habbesi](https://open.spotify.com/track/0ZJQK22q4A3Q1YkpvenzfR) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Kara Üzüm Habbesi](https://open.spotify.com/album/65Foe2PLk4ZSmfS25OMV1b) | 2:31 | 2023-09-28 | 2024-01-26 |
@@ -247,7 +248,7 @@
 | [KÜL](https://open.spotify.com/track/5APeJmSITQTYuDJsVFETKY) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [KÜL](https://open.spotify.com/album/1O7VrMR3QXz17WS3pUQ6Gh) | 2:51 | 2023-06-15 | 2023-07-07 |
 | [Küllük Dolu](https://open.spotify.com/track/4GUtswpSzgffHKkI3vld7m) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [Küllük Dolu](https://open.spotify.com/album/14ujEZDtMDRHzQHwFjWkDI) | 2:29 | 2024-04-04 | 2024-04-19 |
 | [Küllük Dolu](https://open.spotify.com/track/2jTtNd0L0n8RWBRAPrWYHj) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [BLL Feru](https://open.spotify.com/artist/5vhdApDXLi87SxIP8aXsW9) | [Küllük Dolu](https://open.spotify.com/album/0BXfxZe9ASffx66oqrwKUz) | 2:29 | 2024-04-18 | 2024-05-03 |
-| [Kırmızı Reçete](https://open.spotify.com/track/3CBTM42v5aAd85RND86MlY) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw), [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Kırmızı Reçete](https://open.spotify.com/album/4ax2WfwwRwtJqxFISyC7ym) | 2:52 | 2024-10-03 |  |
+| [Kırmızı Reçete](https://open.spotify.com/track/3CBTM42v5aAd85RND86MlY) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw), [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Kırmızı Reçete](https://open.spotify.com/album/4ax2WfwwRwtJqxFISyC7ym) | 2:52 | 2024-10-03 | 2024-10-18 |
 | [LA HAVLE VELA BOOM BAP](https://open.spotify.com/track/3hQn0Fpg8pKvKv6voVvj7p) | [Saian](https://open.spotify.com/artist/6ybd4tPF7McLj3BNhZavQi), [K''st](https://open.spotify.com/artist/4x19qDNFXvWQnudUjs0XOE) | [Otonom Piyade: Kuzuların Sessizliği](https://open.spotify.com/album/4O0Va9SCV5pkAVnDpBVs4l) | 3:19 | 2024-09-19 | 2024-10-04 |
 | [La La La](https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [La La La](https://open.spotify.com/album/3v5bQhGBimvJJrvmhb2mR8) | 2:19 | 2024-08-22 |  |
 | [La Turka](https://open.spotify.com/track/1sKZZSqhqOjx75b0Nvz43l) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [La Turka](https://open.spotify.com/album/1KvbRd1fQkfGwC6gX9lmL0) | 2:33 | 2023-08-10 | 2023-08-25 |

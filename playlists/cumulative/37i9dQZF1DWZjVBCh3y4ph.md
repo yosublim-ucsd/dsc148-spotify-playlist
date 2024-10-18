@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Kim
+> Les hits zouk du moment\. Photo : Mik L
 
-170 songs - 9 hr 4 min
+172 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 | 2023-12-21 | 2024-05-24 |
 | [C'est toi](https://open.spotify.com/track/5nX34wrZT1NwgGxboF85Af) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [C'est toi](https://open.spotify.com/album/4UxDJj1WG9I0gWYFi6Lgjt) | 3:06 | 2024-10-03 |  |
 | [Cadence](https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cadence](https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4) | 3:07 | 2023-09-28 | 2024-09-27 |
-| [CALAPA](https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [CALAPA](https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT) | 2:31 | 2024-08-29 |  |
+| [CALAPA](https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [CALAPA](https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT) | 2:31 | 2024-08-29 | 2024-10-18 |
 | [Call me](https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Call me](https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP) | 2:37 | 2024-07-04 | 2024-09-13 |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 |  |
 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:14 | 2024-01-04 | 2024-06-14 |
@@ -75,6 +75,7 @@
 | [Karésé Mwen \- Toi et Moi](https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ) | [Dj Jackson](https://open.spotify.com/artist/2GYAHdjq5ecEb71veYasKB), [Methi's](https://open.spotify.com/artist/4Sx9MLqVbK6oUTFK9HrEoa), [KENNY HAITI](https://open.spotify.com/artist/6xK22PI2rZCvTE4KECYDb7) | [Karésé Mwen \(Toi et Moi\)](https://open.spotify.com/album/5BzzjwPp294mjhdQ5TcwX5) | 4:54 | 2023-09-28 | 2023-10-27 |
 | [KEN](https://open.spotify.com/track/2sd3y1eow3RdwiWF17EF8h) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [KEN](https://open.spotify.com/album/3TUmGASRCnlDi3r8JWnehM) | 3:19 | 2023-12-08 | 2024-02-23 |
 | [Kitem Ale](https://open.spotify.com/track/5j7mEjt9YzWhE5hBQmKlkZ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 3:52 | 2024-04-04 |  |
+| [Kité mwen viv](https://open.spotify.com/track/5SvnOPyDmVeKX7ScUvHeBH) | [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4), [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4) | [Kité mwen viv](https://open.spotify.com/album/66bbikdf2Uz1ufYHVieGAu) | 3:27 | 2024-10-17 |  |
 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 | 2023-09-28 | 2023-11-17 |
 | [LA BEST](https://open.spotify.com/track/6JWqSrA6W2r2P1ZIQFLBC4) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [RMN’PROD](https://open.spotify.com/artist/2mV9eCX5doDUKeBRD4uV1i) | [LA BEST](https://open.spotify.com/album/2AnxHAMKA64G2gat36DDVa) | 3:31 | 2023-09-28 | 2023-11-17 |
 | [La la land \(Part\. 2\)](https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [La la land \(Part\. 2\)](https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2) | 3:58 | 2024-07-11 |  |
@@ -86,6 +87,7 @@
 | [Ma dose](https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Ma dose](https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z) | 2:55 | 2024-02-08 | 2024-09-06 |
 | [Ma partition](https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Ma partition](https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7) | 3:35 | 2024-08-22 |  |
 | [Ma Vie](https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [En Boucle \(Deluxe\)](https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs) | 3:06 | 2023-09-28 | 2023-12-22 |
+| [Ma woman](https://open.spotify.com/track/5mxkWPEeK9xtESvK7dA8in) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Ma woman](https://open.spotify.com/album/0zxfdqT2f5DqI3u35Ki3ed) | 3:42 | 2024-10-17 |  |
 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 | 2023-11-23 | 2024-06-07 |
 | [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 | 2024-02-01 | 2024-03-29 |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 | 2024-02-09 |
@@ -132,7 +134,7 @@
 | [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 | 2024-06-21 |
 | [RDMV](https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [RDMV](https://open.spotify.com/album/2pJJ5RSEmFb7rl0Q9KzmA5) | 2:25 | 2024-09-26 |  |
 | [Reviens\-moi](https://open.spotify.com/track/4fRONCP1im6oryMMLXgVfl) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Reviens\-moi](https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4) | 2:44 | 2023-09-28 | 2023-10-06 |
-| [Rosalie](https://open.spotify.com/track/17lQCngPjOFEgHwprsVYif) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Skyro](https://open.spotify.com/artist/6G97rMBD9PiOYqKgMrpRBo) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:27 | 2024-06-27 |  |
+| [Rosalie](https://open.spotify.com/track/17lQCngPjOFEgHwprsVYif) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Skyro](https://open.spotify.com/artist/6G97rMBD9PiOYqKgMrpRBo) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:27 | 2024-06-27 | 2024-10-18 |
 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 | 2023-09-28 | 2023-12-08 |
 | [San vou](https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT), [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [San vou](https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH) | 3:26 | 2024-09-19 |  |
 | [Serment \- Radio edit](https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Serment](https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB) | 2:57 | 2024-05-16 |  |

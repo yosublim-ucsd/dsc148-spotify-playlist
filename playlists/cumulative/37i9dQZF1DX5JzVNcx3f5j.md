@@ -93,7 +93,7 @@
 | [鉄を叩きながら　てめーの魂を叩き上げろ](https://open.spotify.com/track/5RL3YwSu4XXPe84fLspU2l) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ２](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 2:37 | 2023-04-27 |  |
 | [銀色の空](https://open.spotify.com/track/2QhNy6CIibtY4fsSw1HfH5) | [redballoon](https://open.spotify.com/artist/5Vy3sqkiOe2QlsbGQw0CPy) | [銀色の空](https://open.spotify.com/album/3c4fofZe3UKLaGqImuj9oj) | 3:37 | 2023-04-27 |  |
 | [闇夜の虫は光に集う](https://open.spotify.com/track/1Qq8krh80ZUNu7lyr91dUj) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ２](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 1:56 | 2023-04-27 |  |
-| [闇夜の虫は光に集う\~妖刀・紅桜\~](https://open.spotify.com/track/6Quvn9F1FSjezrl8z9A8q9) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 新訳紅桜篇」オリジナル・サウンドトラック](https://open.spotify.com/album/1WZcWJtOHVGjGhKCflhKSk) | 2:52 | 2023-04-27 |  |
+| [闇夜の虫は光に集う～妖刀・紅桜～](https://open.spotify.com/track/6Quvn9F1FSjezrl8z9A8q9) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 新訳紅桜篇」オリジナル・サウンドトラック](https://open.spotify.com/album/1WZcWJtOHVGjGhKCflhKSk) | 2:52 | 2023-04-27 |  |
 | [雪のツバサ](https://open.spotify.com/track/5DbIPyr5055bvt3WQvgDdD) | [redballoon](https://open.spotify.com/artist/5Vy3sqkiOe2QlsbGQw0CPy) | [雪のツバサ](https://open.spotify.com/album/4DFebufaqFB0Q1C2aReMDD) | 3:47 | 2023-04-27 |  |
 | [風船ガム](https://open.spotify.com/track/4eVP2YlBgMq9xGwq231jQ0) | [Captain Straydum](https://open.spotify.com/artist/1kiShRZTn0LtrsSim2GX1i) | [風船ガム](https://open.spotify.com/album/5SY1aDh3QbBmsOem8oXjYy) | 4:17 | 2023-04-27 |  |
 

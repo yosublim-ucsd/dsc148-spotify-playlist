@@ -4,7 +4,7 @@
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-113 songs - 6 hr 48 min
+115 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV) | 3:34 | 2023-04-27 |  |
 | [Bad Intentions](https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Bad Intentions](https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx) | 2:23 | 2023-10-19 |  |
 | [Battle](https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Battle](https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe) | 2:41 | 2023-11-16 |  |
+| [Be Someone](https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Be Someone](https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW) | 3:45 | 2024-10-17 |  |
 | [Best Love](https://open.spotify.com/track/42ZTvtzDTTwq5J74RaZKUJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:51 | 2023-04-27 |  |
 | [Best Of Me](https://open.spotify.com/track/7F0K8l8zL5ci567eovodtD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:53 | 2023-04-27 |  |
 | [Better Now](https://open.spotify.com/track/4baFSFLNit6bSF4tAt6NGS) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Better Now](https://open.spotify.com/album/67SECQMJ3wC0VislGuQDA0) | 3:52 | 2023-04-27 |  |
@@ -118,6 +119,7 @@
 | [Tourist](https://open.spotify.com/track/20A2K6ZbdhIORwhL2Wnmt7) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Yuna](https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg) | 3:45 | 2023-04-27 |  |
 | [Unrequited Love](https://open.spotify.com/track/7EMR7wcOHzK7qdyRPnqRMm) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:09 | 2023-04-27 |  |
 | [Used To Love You](https://open.spotify.com/track/7nOtXCM1w97j4KeBRH2rPj) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:29 | 2023-04-27 |  |
+| [Watak Utama](https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Watak Utama](https://open.spotify.com/album/0bEfwNHBmyoUUYjMYRPl5D) | 2:57 | 2024-10-17 |  |
 | [Young](https://open.spotify.com/track/0MnxYkWTQbq82DwLdGfFRb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/1OJCkNCcUCFlFs8ATbanwU) | 3:12 | 2023-11-16 |  |
 | [Young](https://open.spotify.com/track/4gm6Wt1RPjxUObbW4RJk5m) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0) | 3:12 | 2023-04-27 | 2024-04-19 |
 | [Your Love](https://open.spotify.com/track/52FKgcBw9YcVVguoqiDFEq) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:38 | 2023-04-27 |  |

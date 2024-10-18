@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-607 songs - 1 day 2 hr 30 min
+608 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Million Suns](https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [DTT Felix](https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm) | [A Million Suns](https://open.spotify.com/album/5PRpzouBKGp7Lmulcycf8C) | 2:44 | 2024-07-08 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/4rBBgGAgZjq0YjXvQzg4Sh) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY) | [A Sky Full of Stars](https://open.spotify.com/album/4obAVOq1QC1x1LUAYqjaNc) | 3:29 | 2024-05-11 | 2024-07-13 |
 | [afterglow](https://open.spotify.com/track/1NVTZFS9vAIBXDwxgcpkpP) | [elsaaa](https://open.spotify.com/artist/0l9ymNLUakebec39MWLAuE) | [afterglow](https://open.spotify.com/album/3BAIQJ314MKCfhyjHI64Di) | 2:37 | 2024-04-21 | 2024-07-05 |
+| [Alelujah](https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Alelujah](https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL) | 2:52 | 2024-10-17 |  |
 | [All Alone](https://open.spotify.com/track/0LS1QHHL2PwsjngC77l0VS) | [MUNICH MONSTRS](https://open.spotify.com/artist/65JeCEZBSZlp9lJGDZov3f) | [All Alone](https://open.spotify.com/album/1fD4dmOFr7TEmwq9tVTQM4) | 2:10 | 2024-05-03 | 2024-06-23 |
 | [All Because Of You](https://open.spotify.com/track/3CVQcey35nX0Yo3dpXAc7a) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [All Because Of You](https://open.spotify.com/album/4iw9Md8QwcwKhEDZ8ycHLk) | 2:19 | 2024-05-27 | 2024-06-10 |
 | [All I Wanna Know](https://open.spotify.com/track/5KYNaaD5q5bDTyxCvMmAT3) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [pinkskies](https://open.spotify.com/artist/3D0ZLvHVSldg6LyN8fa3f1) | [All I Wanna Know](https://open.spotify.com/album/4eUh2Uskg8nd7au5imGEy7) | 2:26 | 2024-10-08 |  |

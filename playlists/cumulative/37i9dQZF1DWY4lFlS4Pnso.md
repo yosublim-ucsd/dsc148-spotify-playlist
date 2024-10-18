@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Ndotz
+> The UK's biggest playlist\. Cover: Charli xcx, Ariana Grande
 
 228 songs - 11 hr 56 min
 

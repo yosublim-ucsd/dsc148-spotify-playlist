@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Jinan Laetitia
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:   Putri Ariani
 
-187 songs - 11 hr 2 min
+191 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Be Your Lover](https://open.spotify.com/track/3sRQutpCOD2gzfjlgrt9Cu) | [The Public Service](https://open.spotify.com/artist/08ZFsKiZID7MsOWnXGcLRS) | [Be Your Lover](https://open.spotify.com/album/01hJL0Q7gbF57TOcmZxQTI) | 3:10 | 2024-06-27 | 2024-07-27 |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-08-09 |  |
 | [birthday bae](https://open.spotify.com/track/4h00RvjZYWkCIIB67JqIgu) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [birthday bae](https://open.spotify.com/album/3GsXEIZGiUQQYdAg6pZ0at) | 2:48 | 2024-09-05 |  |
+| [bite u everywhere!](https://open.spotify.com/track/2d2qyuCJhsGk1SD2PKlNqd) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP), [Mulan Theory](https://open.spotify.com/artist/4LjPxqUg7n76B4CeXVgN08), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [Redline Impact](https://open.spotify.com/album/22nmCm7Uq4Pf74GqnHRFli) | 2:31 | 2024-10-17 |  |
 | [BLACKONBLACK FREESTYLE](https://open.spotify.com/track/2MjkZXFRPsNNOxDTztFiL8) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BLACKONBLACK FREESTYLE](https://open.spotify.com/album/50KXBmUr5mJqP3gGYOiS6h) | 2:13 | 2024-07-23 |  |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-06-27 | 2024-10-11 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-27 |  |
@@ -76,6 +77,7 @@
 | [GP5](https://open.spotify.com/track/6NQ3prsIYwHWpp0JXvZiQH) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [GP5](https://open.spotify.com/album/7Ab5uQR4vYCqw0CpoFc4W3) | 2:28 | 2024-10-03 |  |
 | [Greedy](https://open.spotify.com/track/5FYnl9ZJkkB7SlQsfSWx3z) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Greedy](https://open.spotify.com/album/4gPCF2bVowiYubLshSzfHE) | 2:30 | 2024-07-25 | 2024-09-06 |
 | [Hallucinating](https://open.spotify.com/track/1mcRI934kP0AFik3aSl8Yy) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [Hallucinating](https://open.spotify.com/album/5S1Um41uYuVKOpMBcI8z1i) | 4:53 | 2024-10-10 |  |
+| [HANDZ](https://open.spotify.com/track/01Tp7ZXRoDejbgzFY4W6EX) | [Gerald Liu](https://open.spotify.com/artist/5RbFRImP5QQkMWpVfYXaT6), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [HANDZ](https://open.spotify.com/album/0LbIyhrThIId1JDXWA3ePI) | 3:12 | 2024-10-17 |  |
 | [happy ever after](https://open.spotify.com/track/6vkTNFN5FgW3zLEPCiaowP) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [happy ever after](https://open.spotify.com/album/6dUltwYPdCDF5NWkCFjbdc) | 2:25 | 2024-06-27 | 2024-09-06 |
 | [HARDEST PART \(feat\. Suisei\)](https://open.spotify.com/track/08sjKIRWyeDbtyaMbVxiXs) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [FRACTURE](https://open.spotify.com/album/1XMXf6XuiIPxprbim1FAwt) | 3:12 | 2024-06-27 | 2024-08-10 |
 | [hey, i'm tired](https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [life update](https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf) | 4:05 | 2024-09-05 |  |
@@ -131,6 +133,7 @@
 | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/album/63IkYy3t5JcO919xtJ04De) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-06-27 | 2024-09-27 |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-27 | 2024-10-11 |
+| [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-17 |  |
 | [Ontime](https://open.spotify.com/track/00cKHPOFw2rOoYsKCwMmye) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Ontime](https://open.spotify.com/album/3krCAjtsQ42SfF4Y73GZ3Z) | 3:28 | 2024-10-10 |  |
 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 | 2024-07-25 | 2024-09-27 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-23 |  |
@@ -151,6 +154,7 @@
 | [Sandy Shores](https://open.spotify.com/track/4Q8Djo5qXzHHC5XPuZcdau) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [reverie](https://open.spotify.com/album/67BJw0CEEx8R80cKVSIem3) | 3:32 | 2024-09-05 |  |
 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 | 2024-06-27 | 2024-09-27 |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 |  |
+| [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-17 |  |
 | [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 | 2024-10-10 |  |
 | [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-09-19 |  |
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-06-27 | 2024-08-02 |

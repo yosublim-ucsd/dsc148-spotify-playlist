@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 189973,
       "name": "Dios mio hasta que me enamor\u00e9",
       "url": "https://open.spotify.com/track/2oW4NFj701D1MlL3ik9znN"
@@ -1131,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "Hasta Que Duela la Cabeza",
+        "url": "https://open.spotify.com/album/1bbiTYC8vWdhGCXRMpaDGG"
+      },
+      "artists": [
+        {
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
+        },
+        {
+          "name": "Handa",
+          "url": "https://open.spotify.com/artist/4LpZfYp1BP3igeRu8RHAYq"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160867,
+      "name": "Hasta Que Duela la Cabeza",
+      "url": "https://open.spotify.com/track/6DmuJ7Wl9TrBquH5MH1DF4"
+    },
+    {
+      "album": {
         "name": "17 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2fSQZdE24zSmpHvft5FwfP"
       },
@@ -1218,6 +1240,28 @@
       "duration_ms": 250986,
       "name": "Imposible Olvidarte",
       "url": "https://open.spotify.com/track/28OYshVQTfw9ytKlXHjaqg"
+    },
+    {
+      "album": {
+        "name": "Julio Jaramillo",
+        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
+      },
+      "artists": [
+        {
+          "name": "Papaya Dada",
+          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Julio Jaramillo",
+      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
     },
     {
       "album": {
@@ -2296,7 +2340,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-18",
       "duration_ms": 245453,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2cRSwtruzYvuCwg8rzbLIL"

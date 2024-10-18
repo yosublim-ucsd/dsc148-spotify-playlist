@@ -1,13 +1,33 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Timmy Trumpet x Cheat Codes",
-  "num_followers": 120269,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gil Glze x Afrojack",
+  "num_followers": 120272,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAeRauLD0bMsUm0HIUFxlZanVriQNJ0",
+  "snapshot_id": "AAAeTJvIbzSUBln6Nh3bOab/FbqnDIfI",
   "tracks": [
+    {
+      "added_at": "2024-10-17 13:38:39",
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 141479,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
+    },
     {
       "added_at": "2024-10-10 12:21:27",
       "album": {
@@ -27,30 +47,6 @@
       "duration_ms": 127714,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
-    },
-    {
-      "added_at": "2024-10-10 12:21:27",
-      "album": {
-        "name": "When It Runs Out (feat. Felix Samuel)",
-        "url": "https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "Maduk",
-          "url": "https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "When It Runs Out (feat. Felix Samuel)",
-      "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
     },
     {
       "added_at": "2024-10-10 12:21:27",
@@ -81,92 +77,112 @@
       "url": "https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF"
     },
     {
-      "added_at": "2024-10-03 10:46:00",
+      "added_at": "2024-10-10 12:21:27",
       "album": {
-        "name": "Quit That Love (feat. Glacier Baby)",
-        "url": "https://open.spotify.com/album/3N3T4X1IZ4625VZ6GgAH76"
+        "name": "When It Runs Out (feat. Felix Samuel)",
+        "url": "https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs"
       },
       "artists": [
         {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
         },
         {
-          "name": "Glacier Baby",
-          "url": "https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES"
+          "name": "Maduk",
+          "url": "https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 124900,
-      "name": "Quit That Love (feat. Glacier Baby)",
-      "url": "https://open.spotify.com/track/5GRqG2vmcHMdqe65cpqy1y"
+      "duration_ms": 127500,
+      "name": "When It Runs Out (feat. Felix Samuel)",
+      "url": "https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t"
     },
     {
-      "added_at": "2024-10-03 13:48:57",
+      "added_at": "2024-10-17 13:38:39",
       "album": {
-        "name": "Born To Love Ya",
-        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+        "name": "Kolkata (Techno Version)",
+        "url": "https://open.spotify.com/album/421QWBCNHDoQTqDk41JYfj"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "JDG",
+          "url": "https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP"
         },
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Born To Love Ya",
-      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+      "duration_ms": 171428,
+      "name": "Kolkata (Techno Version)",
+      "url": "https://open.spotify.com/track/3Bk4ZohpjYTuJXbxFRSyPg"
     },
     {
-      "added_at": "2024-10-03 10:46:00",
+      "added_at": "2024-10-17 13:38:39",
       "album": {
-        "name": "Dudada",
-        "url": "https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR"
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/1OeAgQpEOIyuE5ghCasm9H"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Luke Miller",
+          "url": "https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD"
         },
         {
-          "name": "Goldcher",
-          "url": "https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+          "name": "OFFDATA",
+          "url": "https://open.spotify.com/artist/2Gy19A1Xs1NuIHND1dCh7p"
         }
       ],
-      "duration_ms": 128371,
-      "name": "Dudada",
-      "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
+      "duration_ms": 146250,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO"
     },
     {
-      "added_at": "2024-10-03 10:46:00",
+      "added_at": "2024-10-17 13:38:39",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
+        "name": "Taste Of Summer",
+        "url": "https://open.spotify.com/album/0NCqqYXAgNdHtFoPGrIDAl"
       },
       "artists": [
         {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Calum Kieran",
+          "url": "https://open.spotify.com/artist/2rbfvpGH3D4WogHpndteUF"
         }
       ],
-      "duration_ms": 159577,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
+      "duration_ms": 186478,
+      "name": "Taste Of Summer",
+      "url": "https://open.spotify.com/track/3566cOSTCoQmPNTn9LbX6J"
+    },
+    {
+      "added_at": "2024-10-17 13:38:39",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/0NRKmZUelQc3JcEO3ll7E1"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "duration_ms": 119129,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg"
     },
     {
       "added_at": "2024-10-10 12:21:27",
@@ -259,82 +275,6 @@
       "duration_ms": 194545,
       "name": "Midnight Trip",
       "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
-    },
-    {
-      "added_at": "2024-09-27 14:26:38",
-      "album": {
-        "name": "Time To Say Goodbye",
-        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
-    },
-    {
-      "added_at": "2024-10-03 12:53:28",
-      "album": {
-        "name": "FOREIGN",
-        "url": "https://open.spotify.com/album/5jrKedsVRq5yQFIRq7m6Jc"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "Moses",
-          "url": "https://open.spotify.com/artist/7xihR0iAXmuXt2XJobep51"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 191739,
-      "name": "FOREIGN",
-      "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
-    },
-    {
-      "added_at": "2024-10-03 10:46:00",
-      "album": {
-        "name": "Move Your Feet",
-        "url": "https://open.spotify.com/album/1h3Yj4y5ImmCOpDagP7JYe"
-      },
-      "artists": [
-        {
-          "name": "Luke Alexander",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4zOeuvMhFMFNOxOSp82jNe"
-    },
-    {
-      "added_at": "2024-10-03 10:46:00",
-      "album": {
-        "name": "Toccata",
-        "url": "https://open.spotify.com/album/3H53Y8XFX5XdomiCJ31Wzu"
-      },
-      "artists": [
-        {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
-        }
-      ],
-      "duration_ms": 179777,
-      "name": "Toccata",
-      "url": "https://open.spotify.com/track/5CBlCyRHO23hGUpi4WsYdL"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

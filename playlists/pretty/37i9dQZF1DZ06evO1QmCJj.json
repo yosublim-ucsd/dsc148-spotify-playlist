@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 41510,
+  "num_followers": 41522,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAAAsBlq7DM5iLQJJ4cwA77I+",
+  "snapshot_id": "Zw8CAAAAAAALPbUtdWb6CunoExckEkw2",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romeo Y Julieta",
-        "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 178753,
-      "name": "Romeo Y Julieta",
-      "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -667,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "AN1MAL",
-      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -699,6 +663,42 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "AN1MAL",
+      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romeo Y Julieta",
+        "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 178753,
+      "name": "Romeo Y Julieta",
+      "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/1gmighJ1w3l8qJL8hd7LsA"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Rep\u00fablica",
         "url": "https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 182546,
       "name": "Respira",
       "url": "https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/1gmighJ1w3l8qJL8hd7LsA"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT"
     },
     {
       "added_at": null,

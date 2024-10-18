@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36762,
+  "num_followers": 36761,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
         "name": "Snooze",
         "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 182408,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
     },
     {
       "added_at": "2024-10-11 17:16:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
-        "name": "Ig o",
-        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Ig o",
-      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
         "name": "Long Year",
         "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
@@ -1127,6 +1111,38 @@
     {
       "added_at": "2024-10-11 17:16:37",
       "album": {
+        "name": "Without My Love",
+        "url": "https://open.spotify.com/album/222SoIbjNhExQMwEExMvek"
+      },
+      "artists": [
+        {
+          "name": "Dominic Strike",
+          "url": "https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Without My Love",
+      "url": "https://open.spotify.com/track/6MLeDTqtMW4oDLgmrCMP1q"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
+        "name": "Ig o",
+        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
+      },
+      "artists": [
+        {
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Ig o",
+      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
+    },
+    {
+      "added_at": "2024-10-11 17:16:37",
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 177299,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
-    },
-    {
-      "added_at": "2024-10-11 17:16:37",
-      "album": {
-        "name": "Schwarz auf Gr\u00fcn",
-        "url": "https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5"
-      },
-      "artists": [
-        {
-          "name": "jan SEVEN dettwyler",
-          "url": "https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej"
-        }
-      ],
-      "duration_ms": 146366,
-      "name": "H\u00f6r mir noch einmal zu",
-      "url": "https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw"
     },
     {
       "added_at": "2024-10-11 17:16:37",
