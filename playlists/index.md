@@ -1,4 +1,4 @@
-## Playlists \(8228\)
+## Playlists \(8229\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2000,6 +2000,7 @@
 - [Epic & Melodic](/playlists/pretty/37i9dQZF1DX37bXS7EGI3f.md)
 - [Epic Classical](/playlists/pretty/37i9dQZF1DX9G9wwzwWL2k.md)
 - [Epic Loves](/playlists/pretty/37i9dQZF1DXd7hkYz1WKOe.md)
+- [Epic Mix](/playlists/pretty/37i9dQZF1EIdh9id0uduYA.md)
 - [Errando Gostoso](/playlists/pretty/37i9dQZF1DX8vpLK1FoEw3.md)
 - [Escena Electrónica Experimental](/playlists/pretty/37i9dQZF1DWWzc8XPy0ntN.md)
 - [Escena Pop Punk](/playlists/pretty/37i9dQZF1DXaDPSVSkBhhM.md)
