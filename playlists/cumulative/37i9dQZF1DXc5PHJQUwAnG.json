@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 247280,
       "name": "Bajar De Aqu\u00ed",
       "url": "https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA"
@@ -3134,6 +3134,28 @@
       "duration_ms": 164571,
       "name": "Infraganti",
       "url": "https://open.spotify.com/track/3gslN5n2cRyJKHUMV4M7dl"
+    },
+    {
+      "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Badly Rouse",
+          "url": "https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Inigualable",
+      "url": "https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k"
     },
     {
       "album": {

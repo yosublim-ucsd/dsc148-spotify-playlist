@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. GRECAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,533 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,681 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 26 | [Soy Un Cabrón](https://open.spotify.com/track/5UlF27OaeC3fQRQnwJBpp1) | [Nadal015](https://open.spotify.com/artist/4XV4e5IqR6DKCJMJWuG7Vi), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Soy Un Cabrón](https://open.spotify.com/album/2TWA1zlyYjXIEOAtzpu6ag) | 3:14 |
 | 27 | [Vuelves](https://open.spotify.com/track/5gpeWZITMV7AragQLuNpyH) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [Igual Que Nadie](https://open.spotify.com/album/3S82dtiNIiGbFioYVkjzdS) | 4:10 |
 | 28 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
-| 29 | [Hidetoshi Nakata](https://open.spotify.com/track/1acPhlnq9elw4NgBQjYprc) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Hidetoshi Nakata](https://open.spotify.com/album/7IBf9V9Xp2nxRlYYVXP8Fd) | 1:49 |
+| 29 | [Hidetoshi Nakata](https://open.spotify.com/track/1acPhlnq9elw4NgBQjYprc) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [DistrictBeats](https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe) | [Hidetoshi Nakata](https://open.spotify.com/album/7IBf9V9Xp2nxRlYYVXP8Fd) | 1:49 |
 | 30 | [Cautious](https://open.spotify.com/track/03SJ1NbA83RuAgTuEiE1sm) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Cautious](https://open.spotify.com/album/2HBccwi0CRQoRQchggY6yH) | 3:15 |
 | 31 | [Replay](https://open.spotify.com/track/69bkxL92sOLeEh6waaridp) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [Replay](https://open.spotify.com/album/0Y6fb5jCCzqOnO3HcgTZrS) | 2:27 |
 | 32 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 350403,
+  "num_followers": 350478,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8XwgAAAACfJe1/vL719o2Fomd3NzDC",
+  "snapshot_id": "ZxKrrAAAAABZMz7zcI59y3dNY2obBDbe",
   "tracks": [
     {
       "added_at": "2024-01-03 18:52:26",
@@ -317,20 +317,24 @@
       "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
     },
     {
-      "added_at": "2023-11-23 02:41:10",
+      "added_at": "2024-10-18 18:40:44",
       "album": {
-        "name": "New Blue Sun",
-        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+        "name": "Skyline - Instant Composition Vol. 2",
+        "url": "https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Henrik Jespersen",
+          "url": "https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy"
         }
       ],
-      "duration_ms": 740010,
-      "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
-      "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
+      "duration_ms": 196242,
+      "name": "Earning Sounds",
+      "url": "https://open.spotify.com/track/43N1zJZhn3C74KdKQTLNHm"
     },
     {
       "added_at": "2024-08-12 17:55:26",
@@ -381,20 +385,20 @@
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2023-11-23 02:41:10",
       "album": {
-        "name": "Living Room Songs",
-        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
         }
       ],
-      "duration_ms": 208589,
-      "name": "Near Light",
-      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
+      "duration_ms": 740010,
+      "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
+      "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
     },
     {
       "added_at": "2022-03-11 05:43:48",
@@ -431,6 +435,22 @@
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 208589,
+      "name": "Near Light",
+      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
       "added_at": "2023-05-09 01:20:43",
@@ -539,22 +559,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Filoxiny",
         "url": "https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps"
       },
@@ -635,6 +639,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "When Man Fails You",
         "url": "https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK"
       },
@@ -681,6 +701,22 @@
       "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
     },
     {
+      "added_at": "2024-02-02 04:17:18",
+      "album": {
+        "name": "Everywhere at the End of Time (Stage 1)",
+        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "B4 - The loves of my entire life",
+      "url": "https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Promises",
@@ -703,22 +739,6 @@
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
-    },
-    {
-      "added_at": "2024-02-02 04:17:18",
-      "album": {
-        "name": "Everywhere at the End of Time (Stage 1)",
-        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
-      },
-      "artists": [
-        {
-          "name": "The Caretaker",
-          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "B4 - The loves of my entire life",
-      "url": "https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -835,22 +855,6 @@
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Winter's Lament",
-        "url": "https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Winter's Lament",
-      "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
     }
   ],
   "unique_name": "Deep Listening",

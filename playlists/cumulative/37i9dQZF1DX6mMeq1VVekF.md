@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: D7
 
-401 songs - 20 hr 46 min
+402 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Dora](https://open.spotify.com/track/4OL39vZOiYvqBiC2UOwoyr) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Dora](https://open.spotify.com/album/1EFVYHuhITenIZQgL4yAFu) | 2:27 | 2022-06-24 | 2022-07-29 |
 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 | 2024-10-10 |  |
 | [Drilly Rucksack](https://open.spotify.com/track/4LhjS59xVRicl3x9Pky58Z) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8) | [Drilly Rucksack](https://open.spotify.com/album/0nlruuoypWaVHuN8mCIzqG) | 3:43 | 2022-06-24 | 2022-07-13 |
-| [DUALITY](https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DUALITY](https://open.spotify.com/album/0q1b78P8H2S1F2RgjUGb4h) | 3:43 | 2024-10-03 |  |
+| [DUALITY](https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DUALITY](https://open.spotify.com/album/0q1b78P8H2S1F2RgjUGb4h) | 3:43 | 2024-10-03 | 2024-10-19 |
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-23 | 2023-05-16 |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2022-06-24 | 2024-10-04 |
 | [Electric](https://open.spotify.com/track/1g3GvbzoNjOqKNK9Z7srQ5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb) | [Electric](https://open.spotify.com/album/4mi5IauJU5FowQivOCg4un) | 3:07 | 2022-06-24 | 2022-07-17 |
@@ -404,6 +404,7 @@
 | [White Peach Sangria](https://open.spotify.com/track/12UqNOESUMgvJu7Radn2xl) | [re'mi](https://open.spotify.com/artist/3b9VVrJfw8sLw7Qok1Ja5Y) | [White Peach Sangria](https://open.spotify.com/album/4y80BlorpM3fplK7C8G8Ip) | 1:56 | 2023-05-19 | 2023-06-17 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-06-24 | 2022-11-02 |
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2022-10-23 | 2024-04-19 |
+| [Won!](https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [We Got Food At Home](https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M) | 2:00 | 2024-10-10 |  |
 | [Wyoming](https://open.spotify.com/track/4Iaac6Kgm98iHq75YogSk2) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ), [venny](https://open.spotify.com/artist/3BfUEQE3t4l3FXUXV77Ca3) | [Wyoming](https://open.spotify.com/album/7oxTSclrHt2L9WIIjAxQHM) | 1:43 | 2024-10-10 |  |
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2022-08-22 | 2023-04-14 |
 | [You Know](https://open.spotify.com/track/2juQKYR7TFwBbRlFbEke7z) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [You Know](https://open.spotify.com/album/5Ojgg4O0Hdley9R3Pvr12P) | 2:22 | 2022-07-17 | 2022-07-22 |

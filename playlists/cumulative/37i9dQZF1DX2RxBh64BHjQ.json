@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/62dxP5Rds4BGwzjbJlMvgI"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140840,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/03e6ATyNO3OTDDPjElXQWF"
+    },
+    {
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/3WKSeXqTJkMAP8qFYAYSFR"
       },
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 102342,
       "name": "Bad Bitty",
       "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
@@ -7459,6 +7477,28 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172738,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn"
+    },
+    {
+      "album": {
         "name": "REAL RAW!",
         "url": "https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk"
       },
@@ -9906,7 +9946,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 131998,
       "name": "Don't Run",
       "url": "https://open.spotify.com/track/7aF8RVVBrvcKd0jUCVRA9i"
@@ -10178,6 +10218,28 @@
       "duration_ms": 177012,
       "name": "DRIP (feat. E-40 & OHGEESY)",
       "url": "https://open.spotify.com/track/6b6jyIRJra0eLwy7NnAo3u"
+    },
+    {
+      "album": {
+        "name": "Drive Da Boat (feat. BabyChiefDoit)",
+        "url": "https://open.spotify.com/album/5jiqJPoIRQ4BXmeEsdgRBV"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127894,
+      "name": "Drive Da Boat (feat. BabyChiefDoit)",
+      "url": "https://open.spotify.com/track/5uzUq9JgKWzcLuf0FBQD3a"
     },
     {
       "album": {
@@ -13792,7 +13854,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
@@ -14222,6 +14284,24 @@
       "duration_ms": 169880,
       "name": "Google Maps",
       "url": "https://open.spotify.com/track/1CNwYnjWQHMTmDgYxGiOHw"
+    },
+    {
+      "album": {
+        "name": "GOOGLE ME",
+        "url": "https://open.spotify.com/album/2Z79LbEWXsurWgUvy6whnh"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207972,
+      "name": "GOOGLE ME",
+      "url": "https://open.spotify.com/track/5kd6nThD2Gxdoxc6WFyGdB"
     },
     {
       "album": {
@@ -17245,6 +17325,24 @@
     },
     {
       "album": {
+        "name": "ETHER",
+        "url": "https://open.spotify.com/album/3HrygzZaAlDsGPWkS1SvEk"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219744,
+      "name": "IM HER WIZARD",
+      "url": "https://open.spotify.com/track/6eH2qSW7zLQDSoXqMdYfs0"
+    },
+    {
+      "album": {
         "name": "SEX DRIVE",
         "url": "https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh"
       },
@@ -18676,7 +18774,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
@@ -20386,6 +20484,24 @@
       "duration_ms": 180002,
       "name": "Live Life Die Faster (with Kodak Black)",
       "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
+    },
+    {
+      "album": {
+        "name": "Living Legend",
+        "url": "https://open.spotify.com/album/6Qtrhep6csqw0jdKOy6YkY"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Living Legend",
+      "url": "https://open.spotify.com/track/1oUMONFJ4ne768oA5siqez"
     },
     {
       "album": {
@@ -23746,7 +23862,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 127872,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
@@ -26109,6 +26225,28 @@
     },
     {
       "album": {
+        "name": "Options (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152410,
+      "name": "Options (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
+    },
+    {
+      "album": {
         "name": "Or What",
         "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
       },
@@ -26820,7 +26958,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 155754,
       "name": "PARASITE",
       "url": "https://open.spotify.com/track/6j69bnzsC2K5qnrqNDpJi4"
@@ -27678,7 +27816,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 223317,
       "name": "POOL PARTY (with 42 Dugg & YTB Fatt)",
       "url": "https://open.spotify.com/track/4heM9EKJoYrE2u2FR1zpqJ"
@@ -28844,7 +28982,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 88491,
       "name": "raise your hands",
       "url": "https://open.spotify.com/track/3Vi8lkQSdU2H6y0lowTmHm"
@@ -31067,6 +31205,24 @@
     },
     {
       "album": {
+        "name": "School Dance",
+        "url": "https://open.spotify.com/album/5s7s0DlvA7zSx1W67StPa9"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115248,
+      "name": "School Dance",
+      "url": "https://open.spotify.com/track/6gSqpyoUgEiak4AR2ZVwh1"
+    },
+    {
+      "album": {
         "name": "Score",
         "url": "https://open.spotify.com/album/6nCbwIgJDREfocOft96v2B"
       },
@@ -31370,6 +31526,28 @@
       "duration_ms": 182880,
       "name": "Settle (feat. Seddy Hendrinx)",
       "url": "https://open.spotify.com/track/5tSEc1zFTKe8gBpeOi600K"
+    },
+    {
+      "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "Sh*t Sad",
+      "url": "https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF"
     },
     {
       "album": {
@@ -32750,7 +32928,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 179631,
       "name": "So Bad (with 4batz)",
       "url": "https://open.spotify.com/track/6UO6qKbBUV3dkAL8944zyh"
@@ -33660,6 +33838,24 @@
       "duration_ms": 150720,
       "name": "Steppers",
       "url": "https://open.spotify.com/track/0Cof04dNGqSQPNc2NpQg8J"
+    },
+    {
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104751,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
     },
     {
       "album": {
@@ -35388,7 +35584,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 150997,
       "name": "The Viper",
       "url": "https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx"
@@ -36216,7 +36412,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 156106,
       "name": "Took A While (Be Us)",
       "url": "https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ"
@@ -38195,6 +38391,24 @@
     },
     {
       "album": {
+        "name": "Way Out The Hood",
+        "url": "https://open.spotify.com/album/4mgFykLJbtBuybp4tBZnB9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146136,
+      "name": "Way Out The Hood",
+      "url": "https://open.spotify.com/track/5TJplMJ2bR22jWghoiWG3X"
+    },
+    {
+      "album": {
         "name": "Way Too Much Love",
         "url": "https://open.spotify.com/album/5EIIQ8X8H76jHh1ADRNG2O"
       },
@@ -38480,6 +38694,28 @@
       "duration_ms": 193714,
       "name": "What It Is?!",
       "url": "https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3"
+    },
+    {
+      "album": {
+        "name": "What It Iz",
+        "url": "https://open.spotify.com/album/1YV0BK6JdrWC1SkRRGFFST"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "What It Iz",
+      "url": "https://open.spotify.com/track/2X77wo27HXr3A69G2xqAPB"
     },
     {
       "album": {
@@ -40266,7 +40502,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 111311,
       "name": "Yes Freestyle (feat. Sheff G)",
       "url": "https://open.spotify.com/track/0qGH4Nwcv39LR70Bi5mYYM"
@@ -40342,7 +40578,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 172934,
       "name": "YOSHIMITSU",
       "url": "https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc"
@@ -40590,6 +40826,24 @@
       "duration_ms": 110608,
       "name": "Yung OG Flow",
       "url": "https://open.spotify.com/track/6JY8Ygpx1r9cApONDumYIL"
+    },
+    {
+      "album": {
+        "name": "I PRAY YOU DIE",
+        "url": "https://open.spotify.com/album/2YIoPX7DnOtey7S5MjfuX8"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120874,
+      "name": "ZOMBIE LAND",
+      "url": "https://open.spotify.com/track/6vXDqGc6QJT7vbOieUpQqf"
     },
     {
       "album": {

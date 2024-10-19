@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc99EBXIFPLV/pqUMbC2vIWjPWAAX6",
+  "snapshot_id": "AAAc+qjMfhJ3FcqyykBHWfltNbbbR33G",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3543,6 +3543,58 @@
       "duration_ms": 112153,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L"
+    },
+    {
+      "added_at": "2024-10-18 22:26:28",
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "ORCHESTRAT\u00cb",
+      "url": "https://open.spotify.com/track/3Ygb9jYG5TeibrrKJzCPmV"
+    },
+    {
+      "added_at": "2024-10-18 22:26:37",
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 170187,
+      "name": "GEEK TIM\u00cb",
+      "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
+    },
+    {
+      "added_at": "2024-10-18 22:32:25",
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
     }
   ],
   "unique_name": "main ",

@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: Azakel
+> New and emerging R&B, afropop and Alternative tracks\. Cover: Azekel
 
-1,081 songs - 2 day 3 hr 58 min
+1,083 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Feel Your Soul](https://open.spotify.com/track/6l70v6PAM2O99OBmcakjH1) | [Princess Ade](https://open.spotify.com/artist/0o3q4sHZujIMTR1Vjmt3YF) | [Feel Your Soul](https://open.spotify.com/album/2VKHky6WRk9DqIrJTVD3gm) | 2:32 | 2024-05-31 | 2024-07-27 |
 | [Feeling](https://open.spotify.com/track/3CHYoQeZkoXL9ps1vFyqpz) | [Boy Sean](https://open.spotify.com/artist/3a3YJWntas35NO47WPEFzW) | [Feeling](https://open.spotify.com/album/5di5EZGdcc9Fqkwa6vtzyz) | 2:45 | 2023-11-17 | 2023-11-24 |
 | [Feeling It Too](https://open.spotify.com/track/3YjuYtKxdRGNTVPDjLVETl) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Feeling It Too](https://open.spotify.com/album/1x0KQDAgsFs6eqFjjnhb98) | 2:44 | 2023-06-09 | 2023-07-14 |
+| [FEELINGS](https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Nobody Badder](https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0) | 2:40 | 2024-10-18 |  |
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2022-08-12 | 2022-10-29 |
 | [Felony](https://open.spotify.com/track/4plfpUXQGDWmPSzi3hh1ph) | [Graham BMG](https://open.spotify.com/artist/0mlVlGzMbIQvvR9ttBWFW3) | [Felony](https://open.spotify.com/album/3ysBQMUR3McphAzqTbNSVW) | 2:14 | 2024-01-26 | 2024-03-01 |
 | [Female](https://open.spotify.com/track/3BQmC4l8GnAfHdahiZ1GQX) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Quantitative Reason](https://open.spotify.com/album/5QopXHEo3jwlI9ATm0NXdG) | 2:36 | 2024-02-09 | 2024-03-01 |
@@ -582,6 +583,7 @@
 | [MARTINI](https://open.spotify.com/track/3oIEApDLNuIBUvo9cxgYLL) | [Enaky](https://open.spotify.com/artist/3ve8stsOBoiayDuVU5X724) | [MARTINI, CAREFUL](https://open.spotify.com/album/1HfDnd1TCoaNV1WWRsDbzP) | 2:45 | 2023-12-08 | 2024-02-16 |
 | [Mary J](https://open.spotify.com/track/61mSUYsdQknaRbWwxwI9xg) | [Radar X](https://open.spotify.com/artist/61sgW29lXEHcAgCfaSmoEj) | [Mary J](https://open.spotify.com/album/4Bult0rXG6CXrovcqnTIZX) | 3:24 | 2023-04-20 | 2023-05-12 |
 | [Matta](https://open.spotify.com/track/5EudjTvWSYqY1NzVwioNBE) | [Bouff](https://open.spotify.com/artist/5Kl861FVAII9f5FP0RSo8s) | [Matta](https://open.spotify.com/album/2EyME6CbXCwVZivQ7hny5L) | 2:40 | 2023-06-22 | 2023-09-09 |
+| [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-10-18 |  |
 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-10 | 2024-07-27 |
 | [Maybe, Maybe Not](https://open.spotify.com/track/6J2AWg7cIQtIHkiU3T0zFt) | [Gyidi](https://open.spotify.com/artist/3jY1C6F2eSZe6Sgo82Oeq6) | [Maybe, Maybe Not](https://open.spotify.com/album/3uMDhS7oJ9JfeqepR8kUQt) | 2:33 | 2024-02-23 | 2024-04-12 |
 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 | 2023-09-14 | 2024-02-16 |
@@ -755,7 +757,7 @@
 | [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 | 2024-08-30 |  |
 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 | 2023-05-25 | 2023-12-09 |
 | [PILOLO](https://open.spotify.com/track/5CDy5HTPY2NgSkkR2xrnZ2) | [Yxng Jiggy](https://open.spotify.com/artist/4nSR0H0wawWr0iiBwk8eGR) | [PILOLO](https://open.spotify.com/album/2z6eXV8K9WYA7EhPjS1mM2) | 2:46 | 2023-03-10 | 2023-03-25 |
-| [Pim](https://open.spotify.com/track/7qLk2zXIhpF2IjZQyj1KBk) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Fire and Flow](https://open.spotify.com/album/6wp6F8HaHkIplTueDrr3Cm) | 2:22 | 2024-08-25 |  |
+| [Pim](https://open.spotify.com/track/7qLk2zXIhpF2IjZQyj1KBk) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Fire and Flow](https://open.spotify.com/album/6wp6F8HaHkIplTueDrr3Cm) | 2:22 | 2024-08-25 | 2024-10-19 |
 | [Please](https://open.spotify.com/track/1Pqx8ch3QEQrJJendsvq7p) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg) | [Becoming](https://open.spotify.com/album/02KVxtR1TIKvWxhxXBDsyF) | 2:53 | 2022-11-04 | 2023-01-14 |
 | [Please Listen](https://open.spotify.com/track/7lxvDIwt3kE2B6Zo3kDMP1) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Please Listen](https://open.spotify.com/album/4ncBSUQc2SyWS5JzVtryXR) | 3:29 | 2024-01-19 | 2024-02-02 |
 | [Pleasure](https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Pleasure](https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W) | 3:03 | 2022-08-26 | 2022-11-04 |
@@ -948,7 +950,7 @@
 | [The Bad Guy](https://open.spotify.com/track/4EY33D4AmEd12Glbs6kz7K) | [Agyakomah](https://open.spotify.com/artist/0cujx2Q4DVpVPO0bf05DOm) | [The Bad Guy](https://open.spotify.com/album/7FI833lOgXjMkQXoK7JYlG) | 2:47 | 2023-11-17 | 2023-12-02 |
 | [The Best Part \- Remix](https://open.spotify.com/track/2FXWJ4fRWlbdtk3mdwLHct) | [Savy Henry](https://open.spotify.com/artist/6Wf1QL4mEnFckePmc4nPjT), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Best Part \(Remix\)](https://open.spotify.com/album/5tykI2qlQC4bsIOAWNh1fX) | 2:27 | 2024-07-26 | 2024-09-13 |
 | [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-02-16 | 2023-03-18 |
-| [The Moment](https://open.spotify.com/track/1QrK2D1NuzEJqKPbJuANX2) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [What A Feeling](https://open.spotify.com/album/1JApQO7MXqN3g9MSwDNpPs) | 2:40 | 2024-08-30 |  |
+| [The Moment](https://open.spotify.com/track/1QrK2D1NuzEJqKPbJuANX2) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [What A Feeling](https://open.spotify.com/album/1JApQO7MXqN3g9MSwDNpPs) | 2:40 | 2024-08-30 | 2024-10-19 |
 | [The Money](https://open.spotify.com/track/5tJkUjlnqiRs7tzbK5HX83) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR) | [The Money](https://open.spotify.com/album/3RwaH0yePuFVaNeLDrZO9B) | 3:08 | 2023-12-08 | 2024-01-05 |
 | [the one](https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB) | [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [the one](https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE) | 2:59 | 2024-02-16 | 2024-04-12 |
 | [The Other Side](https://open.spotify.com/track/1fWpvqKirCgXUsSLT8DLC2) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 3:37 | 2023-06-15 | 2023-07-14 |

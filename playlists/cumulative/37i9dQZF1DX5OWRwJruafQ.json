@@ -4113,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "Hath Mittran Nu",
+        "url": "https://open.spotify.com/album/7J4wVMxhnPfzr3Vj9dzjSA"
+      },
+      "artists": [
+        {
+          "name": "Khadak Singh",
+          "url": "https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Hath Mittran Nu",
+      "url": "https://open.spotify.com/track/3akvPGRrZVPaE2GSoqJIvf"
+    },
+    {
+      "album": {
         "name": "Hathyar (From \"Tufang\")",
         "url": "https://open.spotify.com/album/5zXOlnv7LlCLlipzHBdSPk"
       },
@@ -4480,6 +4498,32 @@
       "duration_ms": 179169,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
+        "name": "Hulara",
+        "url": "https://open.spotify.com/album/2vjUGTOyEYJoZ1EK0AR6HJ"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        },
+        {
+          "name": "The Boss",
+          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
+        },
+        {
+          "name": "Mahi Sharma",
+          "url": "https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170370,
+      "name": "Hulara",
+      "url": "https://open.spotify.com/track/6VtJ4xWHFOD5dih0FmtPqH"
     },
     {
       "album": {
@@ -5606,7 +5650,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 157590,
       "name": "Khadaak",
       "url": "https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee"

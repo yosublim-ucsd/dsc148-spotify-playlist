@@ -940,7 +940,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 273088,
       "name": "DRUGITE OTKACHALKI",
       "url": "https://open.spotify.com/track/2SN3kNjOORlCqMLev26bxh"
@@ -1791,6 +1791,28 @@
     },
     {
       "album": {
+        "name": "Kazah \"NE\"",
+        "url": "https://open.spotify.com/album/04RWL3EciHwZy058yun5eb"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Kazah \"NE\"",
+      "url": "https://open.spotify.com/track/57CeTw4PsGK1OodCls4P7j"
+    },
+    {
+      "album": {
         "name": "Ka\u00e7amad\u0131m",
         "url": "https://open.spotify.com/album/0ubFAE4cHDpFRif2fLdPUZ"
       },
@@ -2059,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "album": {
         "name": "MARGINALA",
         "url": "https://open.spotify.com/album/5gDt0JJ8LDNz22Qt0FNH9i"
       },
@@ -2276,6 +2316,24 @@
       "duration_ms": 179166,
       "name": "Moy Si Merak",
       "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
+    },
+    {
+      "album": {
+        "name": "Mrasnica",
+        "url": "https://open.spotify.com/album/6wP5dihV6tPPxQ2HASFU8v"
+      },
+      "artists": [
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225601,
+      "name": "Mrasnica",
+      "url": "https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x"
     },
     {
       "album": {
@@ -2994,7 +3052,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -3016,7 +3074,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
@@ -3972,7 +4030,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -4294,7 +4352,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192130,
       "name": "\u041b\u043e\u0448 \u0438\u043b\u0438 \u0434\u043e\u0431\u044a\u0440",
       "url": "https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9"
@@ -5016,10 +5074,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 183992,
       "name": "\u0425\u0443\u0431\u0430\u0432\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/469ChfE6lDYglc46wfzNG7"
+    },
+    {
+      "album": {
+        "name": "Krisko 2007 - 2009",
+        "url": "https://open.spotify.com/album/7zf45tYdundKUQRsOsXdNX"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        },
+        {
+          "name": "TuFo",
+          "url": "https://open.spotify.com/artist/2tdztiZE00ttZKprMwV10x"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217245,
+      "name": "\u0429\u043e\u0442\u043e \u0435 \u043c\u0430\u0439\u043c\u0443\u043d\u0430",
+      "url": "https://open.spotify.com/track/1o0qlusiY9LdkWtPxgybVs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJQbYjwxrhPm"

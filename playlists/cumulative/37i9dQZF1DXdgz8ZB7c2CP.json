@@ -8384,7 +8384,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
@@ -11088,6 +11088,32 @@
       "duration_ms": 184888,
       "name": "Out For A Run",
       "url": "https://open.spotify.com/track/14sDWKdWYg5YK9I74rwQms"
+    },
+    {
+      "album": {
+        "name": "Out Of Bounds",
+        "url": "https://open.spotify.com/album/5rZixCKsdcBlEvzwnEv5Yk"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        },
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235909,
+      "name": "Out Of Bounds",
+      "url": "https://open.spotify.com/track/3xgcNkLwNfYxbK8w9MlLlk"
     },
     {
       "album": {
@@ -17360,7 +17386,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 279428,
       "name": "WHERE'S MY VAPE?",
       "url": "https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN"

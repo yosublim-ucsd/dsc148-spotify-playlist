@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-294 songs - 1 day 1 hr 53 min
+295 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Daylight](https://open.spotify.com/track/3ZgDqrgYjTGSTqb0AZtcc0) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [ALY](https://open.spotify.com/artist/7mAoNqdajE6YXCeH0GxzDG) | [Unreal Scapes](https://open.spotify.com/album/62cs9S5l8Ivtvv2er3g8Bc) | 4:17 | 2022-04-15 | 2022-05-18 |
 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 | 2023-09-14 |  |
 | [Dont Blame Me](https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dont Blame Me](https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS) | 5:10 | 2023-11-25 |  |
+| [Down](https://open.spotify.com/track/73q270xh3XdySWtt9NZxWX) | [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr), [Kova](https://open.spotify.com/artist/4fEckNuqOODv3H0ZimhCft), [NewGapy](https://open.spotify.com/artist/0rz8esMME7lhGigsAoKmQ3) | [Down](https://open.spotify.com/album/4BWrUcOTBw2Ydp58kRYTj8) | 4:38 | 2024-09-27 |  |
 | [Dreamlike](https://open.spotify.com/track/2IQ55IFyww2HtADa9Ewsdq) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dreamlike](https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc) | 6:24 | 2022-04-15 | 2022-07-28 |
 | [Dreams \- Original Mix](https://open.spotify.com/track/3vCZ4kTemwiMYk8eUyS4Ya) | [Cosmic Tone](https://open.spotify.com/artist/2kQ7WbtAt7ioIdrQNRP2yx), [Freak Control](https://open.spotify.com/artist/4CQdoJZzttlzydycHO9A9Q) | [Dreams](https://open.spotify.com/album/46UKLk7SoL5qayNYfI1kIk) | 7:39 | 2022-04-28 | 2022-04-30 |
 | [Dreamworld](https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD) | [Inner State](https://open.spotify.com/artist/3BAc3hPXwWuhHsIvTIA9vY), [Kanobi](https://open.spotify.com/artist/1mIHHeqSkE6B9nM3QDBnxf) | [Dreamworld](https://open.spotify.com/album/3IwHnMj0XbgP8FdTkBoZH9) | 8:14 | 2022-04-22 | 2022-07-28 |
@@ -250,7 +251,7 @@
 | [Tachyon](https://open.spotify.com/track/3agwWPbLIypx5Lmbzbo1GG) | [Alienatic](https://open.spotify.com/artist/1b9VVdPXdgNcd86oEvi00L) | [Tachyon](https://open.spotify.com/album/2IJRRE778hj9XS4mEiUmBn) | 6:39 | 2022-05-12 | 2022-05-20 |
 | [Tarana](https://open.spotify.com/track/1nAL2tNR71SJ7b7292chgQ) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Frank Deka](https://open.spotify.com/artist/5x8kUiebqSVggbcIzui9Bg), [HEMANT](https://open.spotify.com/artist/0iWkV1G9VweYDTxbWk3IXc) | [Tarana](https://open.spotify.com/album/4ouAOgbFPL5pRy82jyOxk4) | 6:08 | 2023-11-10 | 2023-11-26 |
 | [Target](https://open.spotify.com/track/5ED8Ooo89oclrqDPK1NNkx) | [NyTiGen](https://open.spotify.com/artist/1w3ND5b7dKN8aNYGRi1yDH) | [Target](https://open.spotify.com/album/7eipZe6Qo52Fy4YotaZt8C) | 4:18 | 2022-06-16 | 2022-06-18 |
-| [Tears](https://open.spotify.com/track/70av8bgExOvrGBWflEToQw) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Tears](https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp) | 4:46 | 2023-11-25 |  |
+| [Tears](https://open.spotify.com/track/70av8bgExOvrGBWflEToQw) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Tears](https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp) | 4:46 | 2023-11-25 | 2024-10-19 |
 | [Tell Me](https://open.spotify.com/track/2F1KOMuxeYb9C26Na6LXrn) | [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg), [CR3WFX](https://open.spotify.com/artist/6twYjkIFnzVKNJgEEpfnvI) | [Tell Me](https://open.spotify.com/album/3iDw2thf6VNGuxkQzl9sGr) | 4:11 | 2022-06-16 | 2022-07-23 |
 | [The Blood \- Abraxis Remix](https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Abraxis](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7) | [10 Years of Seven Lions](https://open.spotify.com/album/4GeCvjfDFBbGscwqQ3fA9S) | 6:02 | 2022-06-16 | 2023-04-12 |
 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 | 2023-03-15 | 2024-10-06 |

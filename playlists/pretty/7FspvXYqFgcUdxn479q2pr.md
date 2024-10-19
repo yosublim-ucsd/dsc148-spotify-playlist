@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Vibe Chemistry &amp; Maduk
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,529 likes - 19 songs - 48 min 57 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,533 likes - 20 songs - 51 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,6 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 17 | [Midnight Trip](https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Midnight Trip](https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6) | 3:14 |
 | 18 | [Favorite Mistakes \(feat\. Victoria Nadine\) \[HEDEGAARD VIP Mix\]](https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Favorite Mistakes \(feat\. Victoria Nadine\) \[VIP Mixes\]](https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA) | 2:30 |
 | 19 | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz) | 2:42 |
+| 20 | [If Only We Could](https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o) | [Sam AVSTIN](https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf) | [If Only We Could](https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F) | 2:49 |
 
-Snapshot ID: `AAAreNa9oJhvbbB8zv+jhvK9wNQRxrrB`
+Snapshot ID: `AAAreYvynVsoAIe907jSavDXz05ma6rp`

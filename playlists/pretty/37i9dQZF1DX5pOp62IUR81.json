@@ -1,13 +1,29 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180099,
+  "num_followers": 180110,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw7XwQAAAAB2nygULo3R3UZhmQhO7SAm",
+  "snapshot_id": "ZxLkhAAAAAAMU/E6EJClSrTIXQ+dedQF",
   "tracks": [
+    {
+      "added_at": "2024-10-18 22:43:16",
+      "album": {
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {

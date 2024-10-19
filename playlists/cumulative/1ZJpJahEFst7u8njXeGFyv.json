@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 176789,
       "name": "Anima III",
       "url": "https://open.spotify.com/track/7HCtusx1qdSdfwOpuEcHE1"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 304453,
       "name": "Cantique de Jean Racine, Op. 11 (Paraphrase for Piano by Lucas Debargue)",
       "url": "https://open.spotify.com/track/6B6quVh40KpOmd9VgBh9aA"
@@ -5453,6 +5453,32 @@
     },
     {
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP"
+      },
+      "artists": [
+        {
+          "name": "Julian Lloyd Webber",
+          "url": "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX"
+    },
+    {
+      "album": {
         "name": "Jazz Suite No. 2: VI. Waltz 2",
         "url": "https://open.spotify.com/album/4xBXgIpWbtnpThgEVhdkUc"
       },
@@ -5790,6 +5816,28 @@
       "duration_ms": 171613,
       "name": "La Fille aux Cheveux de Lin",
       "url": "https://open.spotify.com/track/1FP9utnIkLyhZJ2YZ72Kuf"
+    },
+    {
+      "album": {
+        "name": "La fille aux cheveux de lin",
+        "url": "https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD"
     },
     {
       "album": {
@@ -10760,6 +10808,28 @@
       "duration_ms": 281688,
       "name": "Sibyl",
       "url": "https://open.spotify.com/track/5e7ZqygmgjXopvIjJmWOES"
+    },
+    {
+      "album": {
+        "name": "Sicilienne, Op. 78",
+        "url": "https://open.spotify.com/album/2IoVLFulhWtPfN7tYeWlo3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/3Xf26eAAwTdHNNSMt8JX0N"
     },
     {
       "album": {

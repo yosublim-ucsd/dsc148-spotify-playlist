@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,361 likes - 121 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,478 likes - 121 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Go Shawty](https://open.spotify.com/track/35692j2UC9k2rad24gu8Fk) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Go Shawty](https://open.spotify.com/album/03iXT7A3JoY4JcpVuJCDpF) | 2:55 |
 | 2 | [Ole Dole Doff](https://open.spotify.com/track/0Pii5EXqXhPOTcX86zDxaW) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Ole Dole Doff](https://open.spotify.com/album/7tBDWD3QIoss32SnOEP63w) | 2:23 |
 | 3 | [Cecilia Lind](https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Cecilia Lind](https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD) | 1:41 |
-| 4 | [UPPLOPP](https://open.spotify.com/track/2vnXhH7R1yJGGf4QXhzEfx) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [UPPLOPP](https://open.spotify.com/album/6lLx8fBlqZzKuJ07F39PYE) | 2:29 |
+| 4 | [UPPLOPP](https://open.spotify.com/track/2vnXhH7R1yJGGf4QXhzEfx) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [UPPLOPP](https://open.spotify.com/album/6lLx8fBlqZzKuJ07F39PYE) | 2:29 |
 | 5 | [HBB](https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HBB](https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF) | 2:26 |
 | 6 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 |
 | 7 | [PSG](https://open.spotify.com/track/00R2eVdkti9OZboefW2f4i) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [PSG](https://open.spotify.com/album/3DqTOXqAYA9sjSjpdQ7aHw) | 2:40 |

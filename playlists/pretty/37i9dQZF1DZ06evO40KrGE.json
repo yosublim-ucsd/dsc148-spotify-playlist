@@ -1,12 +1,12 @@
 {
-  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34905,
+  "description": "This is Cassiane. The essential tracks, all in one playlist.",
+  "num_followers": 34918,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAACIyuE2Lm1iVnGASLb07jXV",
+  "snapshot_id": "ZxBTgAAAAAAgBVLk/5F67luNfgXJzyWE",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 402770,
+      "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Oferta Agrad\u00e1vel a Ti",
+      "url": "https://open.spotify.com/track/1uj6MX46NiNKG9jJeBSpCa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -311,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Oferta Agrad\u00e1vel a Ti",
-      "url": "https://open.spotify.com/track/1uj6MX46NiNKG9jJeBSpCa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 275853,
       "name": "Identidade",
       "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 402770,
-      "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
@@ -939,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -948,9 +932,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 321549,
-      "name": "Louvor sem Fim",
-      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -971,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -980,9 +964,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 340125,
-      "name": "Dia Inesquec\u00edvel",
-      "url": "https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp"
+      "duration_ms": 321549,
+      "name": "Louvor sem Fim",
+      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
     },
     {
       "added_at": null,
@@ -1003,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -1012,9 +996,25 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 274181,
-      "name": "Erguer as M\u00e3os",
-      "url": "https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI"
+      "duration_ms": 340125,
+      "name": "Dia Inesquec\u00edvel",
+      "url": "https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Anos de Muito Louvor",
+        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 257137,
+      "name": "N\u00e3o Negue a Jesus / Com Cristo \u00e9 Vencer / Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe"
     }
   ],
   "unique_name": "This Is Cassiane",

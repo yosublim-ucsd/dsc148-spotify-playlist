@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-601 songs - 1 day 6 hr 35 min
+604 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 | 2022-01-21 | 2022-05-03 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 | 2022-06-08 | 2022-12-02 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Can't Help Falling In Love](https://open.spotify.com/album/05Fg2jM0E5fmpR2XBY9mwl) | 2:39 | 2022-12-02 |  |
+| [Can't Stop the Feeling](https://open.spotify.com/track/3TozV1Zgze0qDxLIGVCX0Y) | [Evelyn Eastwood](https://open.spotify.com/artist/66ZGHF0SFR1UiRnaZe5XNJ) | [Can't Stop the Feeling](https://open.spotify.com/album/7fzzZkgfVFP8YKXXYH4D9e) | 2:47 | 2024-10-18 |  |
 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 | 2022-01-21 | 2022-10-29 |
 | [Can't Stop This Feeling](https://open.spotify.com/track/4GlJ1fHjO8ZChYRDcrwFr8) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Can't Stop This Feeling](https://open.spotify.com/album/5JQvrqriLPbqUgJCpp8JA8) | 3:01 | 2023-04-14 | 2023-06-03 |
 | [Careless Whisper](https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers II](https://open.spotify.com/album/5oIcVw7vCzKHtvxTIcLA7d) | 3:12 | 2023-06-08 | 2023-08-11 |
@@ -167,6 +168,7 @@
 | [Falling Slowly](https://open.spotify.com/track/2dcM4AzebSOcRALTZmK5xx) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Keeping Score](https://open.spotify.com/album/4TMVA7oifhJUjeOKKJSKa4) | 3:18 | 2022-01-21 | 2023-04-29 |
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-17 | 2023-06-03 |
 | [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 | 2022-01-21 | 2022-10-15 |
+| [Fields Of Gold](https://open.spotify.com/track/0I30Xsutm52uMk2reli2It) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [Fields Of Gold](https://open.spotify.com/album/14q3m5L9fJe003aiue2kIz) | 3:02 | 2024-10-18 |  |
 | [Fields Of Gold](https://open.spotify.com/track/3tPbXeqDlpliZNNaCzNC6K) | [Scarlet Patel](https://open.spotify.com/artist/6Iqj1M1NzaOzIE4d5vCcM4) | [Fields Of Gold](https://open.spotify.com/album/50QiC76tE4Y61Q8il5aC2M) | 1:57 | 2022-09-30 | 2023-03-18 |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2022-01-21 | 2022-10-15 |
 | [Firework](https://open.spotify.com/track/6kFILBBiac062EAoYXhy9v) | [Sandra Turner](https://open.spotify.com/artist/0AbxEThob5FBDkb4K6MX9q) | [Firework](https://open.spotify.com/album/2kvM4gLHmeglBs7Rxqn7Tb) | 3:36 | 2024-08-09 |  |
@@ -200,7 +202,7 @@
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/5KZqaISCbbATLV54SR9ztn) | [Phillipe Goldman](https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2yOc7Gl15Vrdx7Ts4II89T) | 2:31 | 2022-09-30 | 2023-04-29 |
 | [Greatest Love Of All](https://open.spotify.com/track/61EhAlUIqBXsgHqbdY7VT9) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Greatest Love Of All](https://open.spotify.com/album/1Ub5PvnX45BagytJfyDnjb) | 4:36 | 2022-01-21 | 2022-06-09 |
 | [Grenade](https://open.spotify.com/track/2vmsMQmSLSoZodKWYyuZrv) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Grenade](https://open.spotify.com/album/0aY7FDYkSzL2eT6Z4iFvZB) | 2:23 | 2023-04-28 |  |
-| [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-12-02 |  |
+| [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-12-02 | 2024-10-19 |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-01-21 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-27 | 2022-10-15 |
 | [Hallelujah](https://open.spotify.com/track/5N8j7CpnWXB8GNJ1p4hkn7) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Hallelujah](https://open.spotify.com/album/0TKpJk97pMW4Ud7jOHG6Ql) | 2:21 | 2022-01-21 | 2022-10-15 |
@@ -238,7 +240,8 @@
 | [Hold On, We're Going Home](https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Hold On, We're Going Home](https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv) | 2:36 | 2023-01-20 | 2024-09-07 |
 | [Holy](https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Holy](https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27) | 2:41 | 2022-01-21 |  |
 | [Home](https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Home](https://open.spotify.com/album/1v4R7rQf9gReJr1FaR4q0O) | 2:49 | 2023-10-06 |  |
-| [Hot Stuff](https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 3:30 | 2023-05-12 |  |
+| [Hot Stuff](https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 3:30 | 2023-05-12 | 2024-10-19 |
+| [Hot Stuff](https://open.spotify.com/track/0vXHSZjKoNAsrD0FJfqsn9) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [Hot Stuff](https://open.spotify.com/album/5ZnNdAao2CgA3cobDitQog) | 3:17 | 2024-10-18 |  |
 | [Hotel California](https://open.spotify.com/track/10GI2GzvOmFQxeVSFWlchZ) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Hotel California](https://open.spotify.com/album/3CRF7fOGTaLgRkVPNEjr1b) | 2:43 | 2023-05-12 | 2023-06-23 |
 | [How Deep Is Your Love](https://open.spotify.com/track/7fMWxDPD58F8goBvmHheSe) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [How Deep Is Your Love](https://open.spotify.com/album/36XmOrVk3emXrh5nG8RGPL) | 3:05 | 2023-03-24 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [How Deep Is Your Love](https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD) | 2:55 | 2023-02-24 | 2023-03-25 |
@@ -447,7 +450,7 @@
 | [Something](https://open.spotify.com/track/2hT1Htm2vYNr33XIkfzWGp) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Something](https://open.spotify.com/album/1gwzRt9wH6nIYLFkxz9O0i) | 2:43 | 2023-11-17 |  |
 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 | 2023-01-20 |  |
 | [Somewhere only we know](https://open.spotify.com/track/3TQrrmZ4vQBoBNK6Hymkph) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:42 | 2022-12-02 |  |
-| [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 | 2022-10-28 |  |
+| [Somewhere Over The Rainbow](https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Somewhere Over The Rainbow](https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m) | 2:51 | 2022-10-28 | 2024-10-19 |
 | [Songbird](https://open.spotify.com/track/0x3AueQ6AKh6xjMMuUrt0s) | [Margaret James](https://open.spotify.com/artist/61mMq7qWCIxypmj1Cmk0wZ) | [Songbird](https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn) | 3:23 | 2022-01-21 | 2023-04-14 |
 | [SOS](https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [SOS](https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb) | 3:08 | 2022-12-16 | 2023-04-29 |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-10 | 2023-06-03 |
@@ -589,7 +592,7 @@
 | [Yellow](https://open.spotify.com/track/6L6OwV5VpL1pVETRcTmt7B) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 | 2023-06-03 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-17 |  |
 | [Yesterday](https://open.spotify.com/track/0EDfjeCbmClKsJF4GSZHlS) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Yesterday](https://open.spotify.com/album/0Ct4wtaDMViZzeyhjJozpc) | 3:10 | 2022-10-14 | 2022-12-02 |
-| [Yesterday](https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 3:03 | 2022-12-02 |  |
+| [Yesterday](https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 3:03 | 2022-12-02 | 2024-10-19 |
 | [YMCA](https://open.spotify.com/track/5WLMPMlxqaLtfxkPfZXcAI) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [YMCA](https://open.spotify.com/album/6RImlcwKtHJmr3eiBmUQOE) | 2:12 | 2023-10-20 |  |
 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 | 2023-02-10 |  |
 | [You Are Not Alone](https://open.spotify.com/track/50FDAQO0cM5oBDFtG5mbiv) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [You Are Not Alone](https://open.spotify.com/album/4Vc5LEkFq2IdGdU3j4G9Rr) | 3:34 | 2024-04-15 |  |

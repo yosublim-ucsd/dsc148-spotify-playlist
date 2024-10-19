@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-195 songs - 8 hr 17 min
+196 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [The Awakening](https://open.spotify.com/track/0hvfEAhQNeq9VAroygdLbo) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 4 \(Original Soundtrack\)](https://open.spotify.com/album/3cqHTihoMTnbdu4easFUXy) | 2:19 | 2024-01-05 |  |
 | [The Ballad of Love and Thunder](https://open.spotify.com/track/1tpwTDS6QECpvQiobK0YYv) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Thor: Love and Thunder \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18vjqWwWsrtE9tseaLRO8V) | 8:12 | 2024-01-05 |  |
 | [The Ballad of the Witches' Road \(Cover Version\)](https://open.spotify.com/track/56tF6msHIT45utWxxVgAT8) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Aubrey Plaza](https://open.spotify.com/artist/4uGJwxYq27jcwJv2PDSsDs), [Joe Locke](https://open.spotify.com/artist/069uPv10UPCGukbtGRUkJk), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episode 4\)](https://open.spotify.com/album/3ZYIL6aXJ9xsUIgzAS7pCQ) | 4:39 | 2024-10-03 |  |
+| [The Ballad of the Witches' Road \(Pop Version\) \- From "Agatha All Along"/Soundtrack Version](https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [The Ballad of the Witches' Road \(Pop Version\) \[From "Agatha All Along"\]](https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm) | 2:31 | 2024-10-18 |  |
 | [The Ballad of the Witches' Road \(Sacred Chant Version\)](https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Debra Jo Rupp](https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 3:17 | 2024-09-20 |  |
 | [The Ballad of the Witches' Road \(True Crime Version\)](https://open.spotify.com/track/13JG9286axiC4Vf19BXopw) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 1:42 | 2024-09-20 |  |
 | [The Bamboo Spring](https://open.spotify.com/track/3i4VFsgDWhd1L52DlNS4qE) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 3:18 | 2024-01-05 |  |

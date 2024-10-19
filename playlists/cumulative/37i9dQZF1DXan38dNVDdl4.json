@@ -597,6 +597,32 @@
     },
     {
       "album": {
+        "name": "Basshall Sound",
+        "url": "https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Big Shenn",
+          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135824,
+      "name": "Basshall Sound",
+      "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
+    },
+    {
+      "album": {
         "name": "Street Shots 2020: Streets of Kingston",
         "url": "https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk"
       },
@@ -3561,6 +3587,32 @@
     },
     {
       "album": {
+        "name": "GTKY",
+        "url": "https://open.spotify.com/album/0rAZrOe9orZma5PjE8ueMC"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        },
+        {
+          "name": "Izzy Bossy",
+          "url": "https://open.spotify.com/artist/5b3hV4TziUdjsAJpHozHQg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "GTKY",
+      "url": "https://open.spotify.com/track/47N5aQ1mFqtzI0ymDC2uII"
+    },
+    {
+      "album": {
         "name": "Guzu Bounce",
         "url": "https://open.spotify.com/album/7rWNfWwO8N7B5f3zX7vgdv"
       },
@@ -4878,7 +4930,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 153040,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL"
@@ -5074,7 +5126,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 146138,
       "name": "MOB STYLE",
       "url": "https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ"
@@ -5892,7 +5944,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 159000,
       "name": "Paddle Boat",
       "url": "https://open.spotify.com/track/0u6CrJQF1SVqQNt3WzfodO"
@@ -8886,6 +8938,24 @@
       "duration_ms": 162815,
       "name": "Unfaithful Games",
       "url": "https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO"
+    },
+    {
+      "album": {
+        "name": "UnFck You",
+        "url": "https://open.spotify.com/album/5OKm4MYpe25NJFpMfM7kGj"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160768,
+      "name": "UnFck You",
+      "url": "https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j"
     },
     {
       "album": {

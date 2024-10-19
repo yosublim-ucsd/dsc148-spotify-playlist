@@ -1,13 +1,33 @@
 {
-  "description": "Neues aus der Welt des Pop. Cover: Sara James",
-  "num_followers": 514451,
+  "description": "Neues aus der Welt des Pop. Cover: ROS\u00c9, Bruno Mars",
+  "num_followers": 514448,
   "original_name": "Pop Brandneu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGI4AAAAAD4Z3u7ZGGGAY6M8OzXlij9",
+  "snapshot_id": "ZxHdQAAAAABw8o8x3vtYTsWitDX/nEgL",
   "tracks": [
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {

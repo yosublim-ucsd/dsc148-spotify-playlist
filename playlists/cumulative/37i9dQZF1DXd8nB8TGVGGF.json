@@ -1337,28 +1337,6 @@
     },
     {
       "album": {
-        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "date_added": "2022-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159866,
-      "name": "I'm a Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
-    },
-    {
-      "album": {
         "name": "When Girls Do It",
         "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
@@ -2124,17 +2102,13 @@
         {
           "name": "The Yardbirds",
           "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 407746,
-      "name": "Smokestack Lightning - Live at the Marquee Club, 1964 - 2015 Remaster",
+      "duration_ms": 336215,
+      "name": "Smokestack Lightning - Live at the Marquee Club, 1964",
       "url": "https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj"
     },
     {
@@ -2766,6 +2740,28 @@
       "duration_ms": 300640,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/5KYlh46iJUzViGrydbHpuY"
+    },
+    {
+      "album": {
+        "name": "Having a Rave Up with The Yardbirds",
+        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197930,
+      "name": "You're a Better Man Than I",
+      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd8nB8TGVGGF"

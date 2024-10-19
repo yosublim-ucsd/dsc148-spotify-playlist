@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Ashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,607 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,610 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 38 | [Sunahama](https://open.spotify.com/track/0lPSiETYu7QbsJZbT6KGIJ) | [Adem](https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b) | [Sunahama](https://open.spotify.com/album/0YhB5fKy1lUVCFRqxYIX4u) | 2:56 |
 | 39 | [ROAD](https://open.spotify.com/track/5Esv7z5hX4ZpLmeQ8k4AZf) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py), [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [ROAD](https://open.spotify.com/album/3nEWCpLdahAORQaV4rarq9) | 2:11 |
 | 40 | [なんでもない](https://open.spotify.com/track/5P4B6Qvtojsw8wfp5rUeaT) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [なんでもない](https://open.spotify.com/album/04Cm1VbTisn57QjTejhES8) | 2:15 |
-| 41 | [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間 龍星](https://open.spotify.com/artist/0Hx30KghTTFuHiM6bF6SXp) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 |
+| 41 | [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 |
 | 42 | [Rain Night](https://open.spotify.com/track/1POzWSGFI0TC8FEid1wz3g) | [storm](https://open.spotify.com/artist/0ZNbi5CMdUDlRo9DMorCD5) | [Rain Night](https://open.spotify.com/album/0HyCXuPdg5CMTdwR1Ty6fb) | 2:41 |
 | 43 | [ALL FOR MY FRIENDS](https://open.spotify.com/track/6kM0EqXlaZZPmCwM40DUvM) | [Don Tecch](https://open.spotify.com/artist/7J6OOBxFd5bYFJvFHw169l) | [LOVE OR FAMOUS](https://open.spotify.com/album/51jrvmDd2k7VbzYvOu3h86) | 2:17 |
 | 44 | [weirdo](https://open.spotify.com/track/3JPV6hVbgukzEIROS98UEX) | [Neo Dull Gal](https://open.spotify.com/artist/1d6kbQK4mir4XWuZFz6O5H), [Has\-ki](https://open.spotify.com/artist/7pvleOZtwMfQPOkZ57czSA), [WeSSker](https://open.spotify.com/artist/48sZzOWgl5UNqG9hFvKH5v) | [weirdo/Millennium](https://open.spotify.com/album/6JpLwidvOTk4WUEa1uDSFb) | 2:13 |

@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 148658,
       "name": "Corn\u00e9lis",
       "url": "https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ"
@@ -3156,6 +3156,24 @@
       "duration_ms": 162808,
       "name": "Falling Trees",
       "url": "https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD"
+    },
+    {
+      "album": {
+        "name": "Fanciful",
+        "url": "https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV"
+      },
+      "artists": [
+        {
+          "name": "Oscar O'Keefe",
+          "url": "https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139696,
+      "name": "Fanciful",
+      "url": "https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B"
     },
     {
       "album": {
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 163000,
       "name": "Into the Subconscious",
       "url": "https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL"
@@ -11974,7 +11992,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 130873,
       "name": "Wave",
       "url": "https://open.spotify.com/track/7kwkqLqXX5hL1BVWbXUVVt"

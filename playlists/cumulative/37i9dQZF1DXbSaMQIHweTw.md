@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
-158 songs - 8 hr 26 min
+159 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Daae / Baae](https://open.spotify.com/track/7ivAQyb7IBhsv5JE2C25Ab) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Daae / Baae](https://open.spotify.com/album/7946Gev1ctUBANzL1tMVX0) | 3:56 | 2024-05-17 | 2024-07-19 |
 | [Dekh Toofaan Aaya Hai](https://open.spotify.com/track/7DKPIbriIj7bUeM9pUv4Js) | [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qdjovodFjQoQHMtj3to7e) | 2:34 | 2023-03-17 | 2023-04-25 |
 | [Dhokebaaz](https://open.spotify.com/track/1TfC7wJxP6NWn8HBBhMQD5) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63) | [Dhokebaaz](https://open.spotify.com/album/1JxYAtXkwk64rObM4Gz2mL) | 2:28 | 2023-03-17 | 2023-04-25 |
+| [Dhyaan Se](https://open.spotify.com/track/5vBl4keuohlsqXdmz5hw76) | [vijay dada](https://open.spotify.com/artist/5inpoNmMNM5jGVdvyzm4wL), [Arabinda Neog](https://open.spotify.com/artist/4O0UY7QlS80oeDZB1g7iWf), [Gauranga Shekhar](https://open.spotify.com/artist/7KCPaxk6t5K6DLdZfdakYy) | [Dhyaan Se](https://open.spotify.com/album/2YpqvLTfOCzVBfa4lE3SNh) | 3:11 | 2024-10-18 |  |
 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 | 2023-03-17 |  |
 | [Disco Rap](https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:42 | 2023-03-17 |  |
 | [DND](https://open.spotify.com/track/7yYl0fyvfGcCGVKAhjCbru) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy) | [DND](https://open.spotify.com/album/44KOj6FjIZVB4V428L2CQG) | 2:00 | 2023-12-06 | 2024-08-23 |
@@ -124,7 +125,7 @@
 | [Paani Mai](https://open.spotify.com/track/2uZIDDc5SNLX2Uz32eVGdk) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Paani Mai](https://open.spotify.com/album/3kzaM0NBEq8shofZoDo1gZ) | 2:47 | 2023-03-17 | 2023-04-25 |
 | [Pain](https://open.spotify.com/track/0nToyYtzT9TJz6vyGfbjjv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [8 Saal](https://open.spotify.com/album/4ppS997jcubnUnQiHlyuSz) | 3:20 | 2023-03-17 | 2023-04-25 |
 | [Punya Paap](https://open.spotify.com/track/3zIhQR5cyxpVn8WpEivBCr) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:00 | 2023-03-17 | 2024-04-13 |
-| [Raaton Mein](https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:51 | 2024-02-07 |  |
+| [Raaton Mein](https://open.spotify.com/track/3v1Tzvk4OcbhQbRMHozwJQ) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:51 | 2024-02-07 | 2024-10-19 |
 | [Raja](https://open.spotify.com/track/2GJpC13em5XBfBqccu3MQ9) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Raja](https://open.spotify.com/album/1ktRRCiKDJ7GNJZjCAQN3t) | 3:13 | 2023-03-17 | 2023-04-25 |
 | [Rani](https://open.spotify.com/track/0A1tdeFRZ25cExT67nsSvV) | [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Rani](https://open.spotify.com/album/3NAIbnkTCPFS1eO0Vger7V) | 2:36 | 2023-03-17 | 2023-04-25 |
 | [Rap Rog](https://open.spotify.com/track/4QIFO2ve6CZmFACP0ekyoJ) | [MC LIT](https://open.spotify.com/artist/3qlAtyJxdRh7ltRsGfK1Vz) | [Rap Rog](https://open.spotify.com/album/2xTbkVOHu0K0509TlgNy66) | 3:25 | 2023-03-17 | 2023-04-25 |

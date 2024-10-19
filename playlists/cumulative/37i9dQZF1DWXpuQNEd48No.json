@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Near By Me",
+        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e"
+    },
+    {
+      "album": {
         "name": "Ankhon Ka Kasoor",
         "url": "https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq"
       },
@@ -2064,7 +2086,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 179318,
       "name": "Gadi 100 Pe",
       "url": "https://open.spotify.com/track/3qnih6ckPKaxlNe2WYe0NK"
@@ -3360,7 +3382,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -4058,6 +4080,28 @@
       "duration_ms": 208941,
       "name": "Nature",
       "url": "https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC"
+    },
+    {
+      "album": {
+        "name": "Near By Me",
+        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "Near By Me",
+      "url": "https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU"
     },
     {
       "album": {

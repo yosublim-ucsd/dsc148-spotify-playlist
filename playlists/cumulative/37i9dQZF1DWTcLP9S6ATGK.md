@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Nagita Slavina, Raffi Ahmad
 
-233 songs - 15 hr 8 min
+234 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Legawa](https://open.spotify.com/track/03AwH2SWxG5euxufW8vjlS) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Legawa](https://open.spotify.com/album/2e3TFjXcUvnjcYaaXkUU27) | 5:11 | 2024-08-15 | 2024-10-11 |
 | [Lihat Saja Nanti](https://open.spotify.com/track/15xxsm2qdanGPhzBCmVRXA) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Lihat Saja Nanti](https://open.spotify.com/album/0osKTPgd5Z9JGk6yja3nD0) | 3:19 | 2024-10-10 |  |
 | [Luka Yang Kusengaja](https://open.spotify.com/track/5pzndYkzTrj6iyX07dubxn) | [GITA](https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q) | [Luka Yang Kusengaja](https://open.spotify.com/album/6lz0kmrqmPpiJmKz9L8V7F) | 3:19 | 2024-09-05 |  |
-| [maaf, aku gak romantis](https://open.spotify.com/track/5LiSqq9ulrceYCexBJ68YD) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [maaf, aku gak romantis](https://open.spotify.com/album/1qqRD7YHoplWYZDM53OR8M) | 3:50 | 2024-09-05 |  |
+| [maaf, aku gak romantis](https://open.spotify.com/track/5LiSqq9ulrceYCexBJ68YD) | [DEABDIL](https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2) | [maaf, aku gak romantis](https://open.spotify.com/album/1qqRD7YHoplWYZDM53OR8M) | 3:50 | 2024-09-05 | 2024-10-19 |
 | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa) | 4:55 | 2024-09-27 |  |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-06-27 | 2024-10-11 |
 | [Malam Biru](https://open.spotify.com/track/0dPZRzIVqBlXJluOGOyRFW) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Malam Biru](https://open.spotify.com/album/1IXD6scCPR16lgCHSWpuhB) | 2:50 | 2024-08-01 | 2024-09-27 |
@@ -165,7 +165,7 @@
 | [Percaya Jarak](https://open.spotify.com/track/7aIY0DttwL8utMJrIk75va) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Atap Berteduh](https://open.spotify.com/album/29wiJ1bk5Y2C5o4u3knyln) | 3:16 | 2024-10-17 |  |
 | [Pergi](https://open.spotify.com/track/6TduHSqJfQwyX83s9ZpuJJ) | [Abirama](https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq) | [Pergi](https://open.spotify.com/album/4TpRSDXW8CBVTDyqOi1S4Z) | 4:23 | 2024-09-19 |  |
 | [Pergi Secepat Ini](https://open.spotify.com/track/6yBsvbgwdvoHdpYX8OB87X) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 5:02 | 2024-06-27 | 2024-10-11 |
-| [Pernah Di Sana](https://open.spotify.com/track/0K2gS9lawq974gyuaDRCXs) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ), [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI) | [Pernah Di Sana](https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF) | 4:05 | 2024-10-17 |  |
+| [Pernah Di Sana](https://open.spotify.com/track/0K2gS9lawq974gyuaDRCXs) | [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI), [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Pernah Di Sana](https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF) | 4:05 | 2024-10-17 |  |
 | [Pertanda Cinta](https://open.spotify.com/track/4kZ6NggFpCEtm1V0Vu3n1L) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe), [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Pertanda Cinta](https://open.spotify.com/album/7ovNo1CUdp7I4uIprwFKdd) | 4:22 | 2024-07-18 | 2024-09-27 |
 | [Pisah Baik\-Baik](https://open.spotify.com/track/57ALt7I6PfsbIstHr2C8SW) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Pisah Baik\-Baik](https://open.spotify.com/album/26vm4ZZTKZljlzYhHO5bmg) | 3:22 | 2024-06-27 |  |
 | [Please](https://open.spotify.com/track/4UO8e0hxMumyaAyyajowLE) | [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor) | [Please](https://open.spotify.com/album/3xL5tp3yBdLNWsAZZI37Td) | 2:59 | 2024-07-25 | 2024-09-27 |
@@ -208,6 +208,7 @@
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-06-27 |  |
 | [Silakan](https://open.spotify.com/track/4pzNeQGUwjiS62z253nHWQ) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Silakan](https://open.spotify.com/album/444trBoPD85W5xTE1G82lj) | 3:30 | 2024-06-27 | 2024-10-18 |
 | [Suamiku](https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs) | [Astrid Kuya](https://open.spotify.com/artist/1GkXjvYeaQiWD4KwZVw5PY) | [Suamiku](https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l) | 4:02 | 2024-07-05 | 2024-09-06 |
+| [Suara Hati Seorang Kekasih](https://open.spotify.com/track/5X9OuU8BRgCBNJyxIIFBVG) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Suara Hati Seorang Kekasih](https://open.spotify.com/album/4XjssIpkx3c7PLt0zOh3uT) | 4:10 | 2024-10-18 |  |
 | [Sudah Sangat Rindu](https://open.spotify.com/track/4RvQCrQ9SYxqpgrPBkywXD) | [YUHU.](https://open.spotify.com/artist/53q9XQ29WMWLqX9n7RNRbL) | [Sudah Sangat Rindu](https://open.spotify.com/album/34byXz07dvOGFQ4qeQQhgO) | 3:29 | 2024-07-11 | 2024-09-06 |
 | [Tak Disisiku](https://open.spotify.com/track/4lOSSfnRC0wxPLhV8DB2Ev) | [Ronie Udara](https://open.spotify.com/artist/4DtOpD3b6VrkUwa1HZecJx) | [Tak Disisiku](https://open.spotify.com/album/1Wdsl0q8Yjfu6bK7BR9xVM) | 3:58 | 2024-06-27 | 2024-07-27 |
 | [Tak Ingin Mengenalmu](https://open.spotify.com/track/1FBrBZFAnBiUcIVEh38K6q) | [Janita Gabriela](https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7) | [Tak Ingin Mengenalmu](https://open.spotify.com/album/7omNPpYUjfINeqZjJ9qMmr) | 4:39 | 2024-06-27 | 2024-07-05 |

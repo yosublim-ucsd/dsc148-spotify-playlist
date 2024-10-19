@@ -6803,6 +6803,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Aquarian",
         "url": "https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue"
       },
@@ -41188,7 +41210,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211277,
-      "name": "Good Times",
+      "name": "Good Times (Bonus Track)",
       "url": "https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi"
     },
     {
@@ -55331,7 +55353,7 @@
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191493,
+      "duration_ms": 191484,
       "name": "Jumping the Gun",
       "url": "https://open.spotify.com/track/5TosBXH7iNMMn1Z5dc2FzZ"
     },
@@ -95028,6 +95050,24 @@
       "duration_ms": 241917,
       "name": "STFAFM",
       "url": "https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd"
+    },
+    {
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104751,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
     },
     {
       "album": {

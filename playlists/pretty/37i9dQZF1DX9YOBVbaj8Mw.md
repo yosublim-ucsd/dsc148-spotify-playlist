@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,580 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,583 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 55 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
 | 56 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
 | 57 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
-| 58 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
-| 59 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
+| 58 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
+| 59 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
 | 60 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 61 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
 | 62 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 86 | [Toksyczny myśliciel / Toxic thinker](https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg) | [Władysław Komendarek](https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6), [Krzysztof Komendarek\-Tymendorf](https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts) | [AtomoGenus](https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS) | 6:19 |
 | 87 | [Falling Up](https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3) | [Horntet](https://open.spotify.com/artist/2miwAQ8PY05NnvIEZa4TQz), [Bartłomiej Leśniak](https://open.spotify.com/artist/6elU49AsLleDexXyQnOeAW), [Robert Wypasek](https://open.spotify.com/artist/3azzTqUgUR97rCoPjwq8lA), [Szymon Ziółkowski](https://open.spotify.com/artist/3XYwgUP8jS69oxkfxRuIfg), [Mikolaj Sikora](https://open.spotify.com/artist/1HfykGEcWFCtMQgVkBFKVh), [Piotr Przewoźniak](https://open.spotify.com/artist/4ungdngpcfCsXiIHS7enTF) | [Horntet](https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN) | 9:23 |
 | 88 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
-| 89 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
-| 90 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 89 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 90 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
 
 Snapshot ID: `ZgE7OQAAAAAJcekI0Q1wzKOlowq9DtC/`

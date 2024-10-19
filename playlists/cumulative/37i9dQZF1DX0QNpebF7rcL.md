@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Toronzo Cannon
+> The best in blues right now\. Cover: Fantastic Negrito
 
-419 songs - 1 day 4 hr 10 min
+421 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 | 2023-03-17 |  |
 | [Down To The Bottom](https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 5:42 | 2022-03-25 | 2024-05-25 |
 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 | 2022-06-03 |  |
+| [Drunk on Your Love](https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Drifter](https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR) | 3:42 | 2024-10-18 |  |
 | [Dry Run](https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Dry Run](https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH) | 3:16 | 2022-08-19 | 2024-09-14 |
 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 | 2022-08-19 | 2024-04-19 |
 | [Easy On The Eyes](https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Easy On The Eyes](https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts) | 3:31 | 2022-07-12 | 2022-08-20 |
@@ -236,7 +237,7 @@
 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 | 2024-03-08 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 | 2023-05-20 |
-| [Mine Someday](https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Mine Someday](https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS) | 4:47 | 2024-10-04 |  |
+| [Mine Someday](https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Mine Someday](https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS) | 4:47 | 2024-10-04 | 2024-10-19 |
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |
 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 | 2021-07-16 | 2023-01-14 |
 | [Mischief Man](https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Ten Thousand Watts](https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl) | 3:18 | 2020-12-14 | 2022-02-26 |
@@ -319,6 +320,7 @@
 | [Something on Me](https://open.spotify.com/track/5YL4xxr4qrZQMDk4QdyGtD) | [Snowy White](https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH), [The White Flames](https://open.spotify.com/artist/5zRIFTHDQwGWKZ7z61fFKb) | [Something on Me](https://open.spotify.com/album/3z9KcFNyeQreZhj36G74hr) | 7:44 | 2020-12-14 | 2022-02-26 |
 | [Something's Got a Hold of My Heart](https://open.spotify.com/track/6Im2CaHEparEKMF7ooUQ44) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Something's Got a Hold of My Heart / Made Up Mind](https://open.spotify.com/album/3XZEdt2q21fNTX6ZISUR9l) | 4:52 | 2022-03-25 | 2022-05-28 |
 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 | 2021-08-13 | 2023-06-17 |
+| [Son of a Broken Man](https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Son of a Broken Man](https://open.spotify.com/album/5jL3XdYW4DmApDB3EAdm7O) | 4:58 | 2024-10-18 |  |
 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 | 2020-12-14 | 2022-02-26 |
 | [Stagger Lee](https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Stagger Lee](https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0) | 2:35 | 2022-04-22 | 2024-06-08 |
 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 | 2022-01-28 | 2022-02-26 |
@@ -380,7 +382,7 @@
 | [Two Of A Kind](https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Two Of A Kind](https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE) | 3:55 | 2023-06-02 | 2023-06-16 |
 | [Two of a Kind](https://open.spotify.com/track/3G9hdpzyteBiVCL7yjQF5b) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Fernando Castillo](https://open.spotify.com/artist/2JAzPnf84cdFdYfWANS9MK), [Carlos Sosa](https://open.spotify.com/artist/4fm5vfb6UWvswweIFzCOpV), [Raul Vallejo](https://open.spotify.com/artist/4HTiVcjJiFy50IZpGnSt68) | [Two of a Kind](https://open.spotify.com/album/08j3kM4FxqsR0Hy21Eiyw7) | 3:55 | 2023-06-02 |  |
 | [Two Steps From The Blues](https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Two Steps From The Blues](https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV) | 2:37 | 2022-09-02 | 2023-02-11 |
-| [Undefeated Eyes \- Radio Edit](https://open.spotify.com/track/4IxMFz3PKWaqmsOq0ORjoV) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Undefeated Eyes \(Radio Edit\)](https://open.spotify.com/album/5hA9rwzWYLOkCj3oNyHTe6) | 3:37 | 2024-08-09 |  |
+| [Undefeated Eyes \- Radio Edit](https://open.spotify.com/track/4IxMFz3PKWaqmsOq0ORjoV) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Undefeated Eyes \(Radio Edit\)](https://open.spotify.com/album/5hA9rwzWYLOkCj3oNyHTe6) | 3:37 | 2024-08-09 | 2024-10-19 |
 | [Under Your Spell](https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T) | 2:53 | 2021-08-06 | 2023-05-20 |
 | [Under Your Spell](https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 2:53 | 2021-08-06 | 2023-03-04 |
 | [Undertow](https://open.spotify.com/track/0EbZNGeKLzAqYuYuNOCack) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:22 | 2023-07-28 | 2024-04-12 |

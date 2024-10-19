@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
@@ -1021,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "El Negro",
+        "url": "https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269149,
+      "name": "El Negro",
+      "url": "https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN"
+    },
+    {
+      "album": {
         "name": "El Pasadiscos",
         "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
       },
@@ -1032,7 +1054,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 270335,
       "name": "El Pasadiscos",
       "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
@@ -1304,6 +1326,24 @@
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+    },
+    {
+      "album": {
+        "name": "Enven\u00e9name",
+        "url": "https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225494,
+      "name": "Enven\u00e9name",
+      "url": "https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ"
     },
     {
       "album": {
@@ -1673,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Hazme Sentir (Remaster 2024)",
+        "url": "https://open.spotify.com/album/1iTt9f2bUIWLO0LaKRcOi2"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326653,
+      "name": "Hazme Sentir - Remaster 2024",
+      "url": "https://open.spotify.com/track/3gMjLlyj7e6mMUdTmGuDNP"
+    },
+    {
+      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -1968,7 +2026,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
@@ -2528,7 +2586,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 235624,
       "name": "Me Solt\u00e9 de tus Brazos",
       "url": "https://open.spotify.com/track/3mq7R9UboWxi25tDs4S8c7"
@@ -2926,7 +2984,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 237841,
       "name": "Necesito una Compa\u00f1era",
       "url": "https://open.spotify.com/track/4TyeFbefCu1TiyjzOjK7c6"
@@ -3227,6 +3285,28 @@
     },
     {
       "album": {
+        "name": "Muchachos",
+        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU"
+    },
+    {
+      "album": {
         "name": "Para todo mal",
         "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
       },
@@ -3268,6 +3348,28 @@
       "duration_ms": 251869,
       "name": "Pasiflorine",
       "url": "https://open.spotify.com/track/6BjpEAvPczBv9UIu9TBGZb"
+    },
+    {
+      "album": {
+        "name": "Pasos Al Costado",
+        "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240703,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
     },
     {
       "album": {
@@ -3588,7 +3690,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 174093,
       "name": "Revi\u00e9ntense Todos - Remasterizada",
       "url": "https://open.spotify.com/track/3MrKaI5aGkKXexPk5KkzA4"
@@ -4401,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "35",
+        "url": "https://open.spotify.com/album/073aKbAfsQzYRwQ7FBhKCL"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215033,
+      "name": "The Last Ninja",
+      "url": "https://open.spotify.com/track/5HswIVZ2QkB0jSI8qduV7a"
+    },
+    {
+      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -4633,6 +4753,28 @@
     },
     {
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
+      },
+      "artists": [
+        {
+          "name": "Camiseta 22",
+          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248371,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
+    },
+    {
+      "album": {
         "name": "Viva tu",
         "url": "https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU"
       },
@@ -4804,7 +4946,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 323265,
       "name": "Ya no hay m\u00e1s que decir",
       "url": "https://open.spotify.com/track/3kl2mUSotDF9ySMOQc3AQX"

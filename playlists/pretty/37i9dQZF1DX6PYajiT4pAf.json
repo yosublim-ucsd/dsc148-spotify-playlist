@@ -1,12 +1,12 @@
 {
   "description": "JC Reyes y el resto de novedades m\u00e1s importantes de la semana.",
-  "num_followers": 330940,
+  "num_followers": 331189,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGJHAAAAAACYocKUioMNjIRJ4jv/A1P",
+  "snapshot_id": "ZxIItQAAAABZoB8s+9PwbMFBG9RU34Rr",
   "tracks": [
     {
       "added_at": "2024-10-17 22:01:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
         "name": "SABLE,",
         "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
       },
@@ -389,10 +409,10 @@
       "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
     },
     {
-      "added_at": "2024-10-17 22:01:00",
+      "added_at": "2024-10-18 07:05:25",
       "album": {
-        "name": "Tarantino",
-        "url": "https://open.spotify.com/album/2WtUQ2qrQ7Bm5H36sjIOyb"
+        "name": "EXPERIMENTO 0150",
+        "url": "https://open.spotify.com/album/2uOGYjTrpuYDIcGcqAD3RW"
       },
       "artists": [
         {
@@ -406,7 +426,7 @@
       ],
       "duration_ms": 149547,
       "name": "Tarantino",
-      "url": "https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla"
+      "url": "https://open.spotify.com/track/1dh4W8HHp3DWrhgLd5gYMA"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -599,6 +619,22 @@
       "duration_ms": 174532,
       "name": "TAB\u00da",
       "url": "https://open.spotify.com/track/0dPCXjV48loUAdNzVqZRbg"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "El Bandido Medina (De la serie original de Prime Video, Medina: El Estafador de Famosos)",
+        "url": "https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 196917,
+      "name": "El Bandido Medina - De la serie original de Prime Video, Medina: El Estafador de Famosos",
+      "url": "https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -900,15 +936,15 @@
           "url": "https://open.spotify.com/artist/5YhgtTG1JNtbr9zleCQ3YV"
         },
         {
-          "name": "Kike & Manu",
-          "url": "https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC"
-        },
-        {
           "name": "Ozarus",
           "url": "https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz"
+        },
+        {
+          "name": "Kike & Manu",
+          "url": "https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC"
         }
       ],
-      "duration_ms": 186787,
+      "duration_ms": 184000,
       "name": "Una Noche de Amor",
       "url": "https://open.spotify.com/track/6v6W3I7TS8gQ6xPPLsqnlK"
     },

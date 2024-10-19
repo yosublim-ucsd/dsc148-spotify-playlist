@@ -835,6 +835,32 @@
     },
     {
       "album": {
+        "name": "Hegesa (LOYZA Remix)",
+        "url": "https://open.spotify.com/album/0SbVr5GMmK84hpo4vqhnA4"
+      },
+      "artists": [
+        {
+          "name": "LOYZA",
+          "url": "https://open.spotify.com/artist/11urKp2IS76C3wUiVGKm87"
+        },
+        {
+          "name": "Khaney",
+          "url": "https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Hegesa - LOYZA Remix",
+      "url": "https://open.spotify.com/track/7D3THT6WjYTHStEKlvAKlQ"
+    },
+    {
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/38ewlb4hO1sdZ11K5oavPb"
       },
@@ -2560,7 +2586,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 393717,
       "name": "Power Of You",
       "url": "https://open.spotify.com/track/5fALbPu4XNwQG0N6mXGAXg"

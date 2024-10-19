@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BA0Yd4nsQY.md) - [plain]
 
 > You are the main character of your own story\. The fate of the world depends on you...and of course there are side quests.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,768 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,831 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BA0Yd4nsQY.md) - [plain]
 | 8 | [Here](https://open.spotify.com/track/1calxl7TPBgr0E11lI9uD8) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Here](https://open.spotify.com/album/2SVFQHIVXcyGz7bDqjCaSX) | 4:23 |
 | 9 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 10 | [The Sore Feet Song](https://open.spotify.com/track/2aDi7Lxx2z76E1K6CupJzw) | [Ally Kerr](https://open.spotify.com/artist/4J2nMgbkaH1msNJdmvM58W) | [Calling Out To You](https://open.spotify.com/album/4zGf41jGPDSCHOOpdGDLBy) | 3:05 |
-| 11 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
+| 11 | [Suzume \(feat\. Toaka\)](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Suzume \(feat\. Toaka\)](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
 | 12 | [bliss](https://open.spotify.com/track/3UMRhdJ5UDK68YiW0AqDtH) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa) | 4:19 |
 | 13 | [DANZAI NO HANA 〜Guilty Sky〜](https://open.spotify.com/track/1qQZ9uIhD18oWsGfG1BVrH) | [Riyu Kosaka](https://open.spotify.com/artist/6j8BQdF6gq9QajdpUm4shO) | [Danzainohana Guilty Sky](https://open.spotify.com/album/4rESrWpKc75xJvgKNueTWP) | 4:19 |
 | 14 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 |

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile) (image source: @therapist_kirby on IG)",
-  "num_followers": 21792,
+  "num_followers": 21797,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALL1Xx7uMuxGd/iM9mK4ghs614p4Vu",
+  "snapshot_id": "AAALM1OJn7cSIJtKDI9roTtIeXSVmSK2",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -823,6 +823,74 @@
       "duration_ms": 162546,
       "name": "BERETTA",
       "url": "https://open.spotify.com/track/5oFigb8ql8JTtowM87T979"
+    },
+    {
+      "added_at": "2024-10-18 03:56:30",
+      "album": {
+        "name": "harvest sky / obvious",
+        "url": "https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 233896,
+      "name": "harvest sky (feat. underscores)",
+      "url": "https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q"
+    },
+    {
+      "added_at": "2024-10-18 16:20:17",
+      "album": {
+        "name": "Introducing The Beau Brummels",
+        "url": "https://open.spotify.com/album/3qWJ6R8Wg3PPCAOToluwPJ"
+      },
+      "artists": [
+        {
+          "name": "The Beau Brummels",
+          "url": "https://open.spotify.com/artist/4DQj1q0unpi9KF8jO1Wqks"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Laugh, Laugh",
+      "url": "https://open.spotify.com/track/66V3speCvzVe6lUnIezZ0J"
+    },
+    {
+      "added_at": "2024-10-18 16:26:05",
+      "album": {
+        "name": "BERETTA",
+        "url": "https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2"
+      },
+      "artists": [
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "CLONES",
+      "url": "https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC"
+    },
+    {
+      "added_at": "2024-10-18 22:41:02",
+      "album": {
+        "name": "BERETTA",
+        "url": "https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2"
+      },
+      "artists": [
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "duration_ms": 105813,
+      "name": "MOTION SICKNESS",
+      "url": "https://open.spotify.com/track/3V5s3euCe2CWbNVLfgKnQT"
     }
   ],
   "unique_name": "what dreams may come",

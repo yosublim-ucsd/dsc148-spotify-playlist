@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-231 songs - 9 hr 20 min
+232 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Escolhas](https://open.spotify.com/track/1btzNswPltsDr810zt7092) | [YUNG DOLFFO](https://open.spotify.com/artist/5gb9sdbsfdSsWflptSl0XE), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [Escolhas](https://open.spotify.com/album/1gOmMITENbl811m8gySWgq) | 2:43 | 2023-09-29 | 2023-11-18 |
 | [Eu F\*\*\*\*](https://open.spotify.com/track/2YuI8qfqcUrDDB4paHRqtg) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Eu F\*\*\*\*](https://open.spotify.com/album/1cIyyJlT64BkOWtwBJdFBQ) | 2:30 | 2024-09-07 |  |
 | [Ex Filha da Puta](https://open.spotify.com/track/2Q7p5ggGDwI7ZMP3p8iIQT) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Kil](https://open.spotify.com/artist/2CArMydvTpgVI7lzBphw0D) | [Ex Filha da Puta](https://open.spotify.com/album/1g2qNARjN38m4Erv6DOTM7) | 1:30 | 2023-11-10 | 2024-01-20 |
+| [FAKE](https://open.spotify.com/track/2iKl5tbhlajZzQFkokwp9C) | [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [Smile](https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD) | [FAKE](https://open.spotify.com/album/7q2Zl84qhSTcjSPnLq1mtC) | 2:28 | 2024-10-18 |  |
 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 | 2024-01-26 | 2024-04-06 |
 | [Faturamento](https://open.spotify.com/track/0zeBg5Gcp2wNqPgtCln8JY) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Faturamento](https://open.spotify.com/album/47uTCzzTGI8R1LyhfRjcds) | 2:44 | 2023-10-06 | 2023-10-14 |
 | [Faz de Conta](https://open.spotify.com/track/50riIBiLJYmZ00jOepTzPM) | [Haki](https://open.spotify.com/artist/4Bmfvu2OCvxUnAh2OaQYMc) | [Faz de Conta](https://open.spotify.com/album/6kyDVoxxevJsTB4AcwRSzM) | 1:48 | 2024-01-12 | 2024-02-03 |

@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 156029,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 228602,
       "name": "Behind The Lines",
       "url": "https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 161862,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 154999,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/3K0rE6i9Bws5f3oWHfxjEk"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 186122,
       "name": "Dvala",
       "url": "https://open.spotify.com/track/14N0SnNoSSqdIVSHCBXnCb"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 190500,
       "name": "Een mooie droom",
       "url": "https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N"
@@ -2620,6 +2620,24 @@
       "duration_ms": 169325,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/4JpT0U9BGC5uZtMcSaBUwH"
+    },
+    {
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/09gtcLeH4GTC0N4gfFUqV0"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/7ssVuuKwOMXDMiLB734NSn"
     },
     {
       "album": {
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 198666,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/6naPrrjFyKhyqMlbx1dODu"
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 176000,
       "name": "In een ander leven",
       "url": "https://open.spotify.com/track/537oPrVMaJChPcHDEP83nR"
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 249000,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz"
@@ -4434,7 +4452,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 148531,
       "name": "Minutes",
       "url": "https://open.spotify.com/track/4zIyhdolfQSwPrclbLyvUT"
@@ -4452,7 +4470,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 207857,
       "name": "Miraculous",
       "url": "https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh"
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 177631,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/4cAGCkkLv77F0VWFPkQxUG"
@@ -5064,7 +5082,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 140000,
       "name": "Palms",
       "url": "https://open.spotify.com/track/5u2mD0lErWMmlsdAr8xZZy"
@@ -5478,7 +5496,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192000,
       "name": "Quiet Stars",
       "url": "https://open.spotify.com/track/7KdBDKcvAKp8DcV4jMbk62"
@@ -5554,6 +5572,24 @@
       "duration_ms": 204522,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/056tXUgNyQYRYn4N3zpnQG"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/741EFHVyF5BKk08X4DgLKG"
+      },
+      "artists": [
+        {
+          "name": "Dhanura",
+          "url": "https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165924,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0hlrbDOuT4q6U1T3puuATw"
     },
     {
       "album": {
@@ -5640,7 +5676,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 165738,
       "name": "Reminded Me",
       "url": "https://open.spotify.com/track/7rvrtcrQ9unsg7wybxu8tv"
@@ -6054,7 +6090,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 151800,
       "name": "Satin",
       "url": "https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ"
@@ -6738,7 +6774,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 202000,
       "name": "Stellato",
       "url": "https://open.spotify.com/track/6SyLAus9iKAcj7MZ1yaDZ3"
@@ -6799,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/73WjdZTUe79GLyw3ZtYekh"
+      },
+      "artists": [
+        {
+          "name": "Lonely Silence",
+          "url": "https://open.spotify.com/artist/7gSagKJvBryze8PAs5jJuQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/5M4gSbkmAJzpEJtnp3ttFs"
+    },
+    {
+      "album": {
         "name": "Stream Of Somnolence",
         "url": "https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ"
       },
@@ -6814,6 +6868,24 @@
       "duration_ms": 185697,
       "name": "Stream Of Somnolence",
       "url": "https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh"
+    },
+    {
+      "album": {
+        "name": "Sublimity",
+        "url": "https://open.spotify.com/album/3fV0EyWe9JHAlzWVYccMvG"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169055,
+      "name": "Sublimity",
+      "url": "https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt"
     },
     {
       "album": {
@@ -7422,7 +7494,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 147000,
       "name": "Uendelig",
       "url": "https://open.spotify.com/track/2rSORoj8GOo8vB8Iz2zsSA"

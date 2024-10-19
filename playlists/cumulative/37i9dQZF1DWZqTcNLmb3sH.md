@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover :  Murphy
+> Check out the latest hits from Sandalwood!<br/>Cover :  Bagheera
 
 1,346 songs - 3 day 10 hr 9 min
 

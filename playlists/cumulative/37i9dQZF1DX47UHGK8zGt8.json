@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 209922,
       "name": "Dia Manso",
       "url": "https://open.spotify.com/track/1nqUUPdNzRce8f7Z4SNTNV"
@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Essa Menina Tem",
+        "url": "https://open.spotify.com/album/2F03u1NUKGaa3u7GW6jAlV"
+      },
+      "artists": [
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113991,
+      "name": "Essa Menina Tem",
+      "url": "https://open.spotify.com/track/2ARsMPrnmV21txHk4NTVAN"
+    },
+    {
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 185250,
       "name": "Pouca Bobagem",
       "url": "https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX"

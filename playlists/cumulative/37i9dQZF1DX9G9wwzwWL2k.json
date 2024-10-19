@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD"
+    },
+    {
+      "album": {
         "name": "Pops Caviar",
         "url": "https://open.spotify.com/album/1N5YwVPdjYvGUS3Gb2tFiF"
       },
@@ -1100,6 +1118,24 @@
       "duration_ms": 184613,
       "name": "Lohengrin, WWV 75: Prelude to Act III - Remastered 2024",
       "url": "https://open.spotify.com/track/68rOZW9tDC00UnTK45iaTi"
+    },
+    {
+      "album": {
+        "name": "Life On Our Planet (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67226,
+      "name": "Main Titles",
+      "url": "https://open.spotify.com/track/6UPmzIVOQONHHvePIaZ1BG"
     },
     {
       "album": {

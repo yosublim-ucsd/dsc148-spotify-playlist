@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/6KIH666Du91FCUnjK8gSbx"
+      },
+      "artists": [
+        {
+          "name": "Babbage",
+          "url": "https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141113,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/1XNX3zYqm1kC440jrgqa7J"
+    },
+    {
+      "album": {
         "name": "Distant Stars",
         "url": "https://open.spotify.com/album/04ixdVxcbypoIbfAzOMuHn"
       },
@@ -594,6 +612,24 @@
       "duration_ms": 252630,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/68tlrPmWjJXTA0JaMDifDO"
+    },
+    {
+      "album": {
+        "name": "fade",
+        "url": "https://open.spotify.com/album/0uknyKdJbmjDCSzDbBZocS"
+      },
+      "artists": [
+        {
+          "name": "World Complete",
+          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "fade",
+      "url": "https://open.spotify.com/track/5kTDn3XkhIbp60Nd5WkjOR"
     },
     {
       "album": {
@@ -1012,6 +1048,24 @@
       "duration_ms": 177391,
       "name": "Knowledge Is Power",
       "url": "https://open.spotify.com/track/0xQ2KcWgthQfNyegtRZZcJ"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/7M7bCYbGwExoCSGnsjKIy0"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226111,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/5wzeFcggirDME8oygi4rJS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-721 songs - 21 hr 36 min
+722 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Pearl's Bell](https://open.spotify.com/track/56X7r3kZFy6TI182lPcRSx) | [Lindsey Tyler](https://open.spotify.com/artist/1W92w85W6p9sSOKvbgVt9i) | [Teddy's Pajamas](https://open.spotify.com/album/0rTZUaLiPRSjrMfIBP5lru) | 2:13 | 2022-02-10 | 2023-02-10 |
 | [Peekaboo Flower](https://open.spotify.com/track/2sljmxQzT21nkLFS4p8xb8) | [Jenna Hummer](https://open.spotify.com/artist/4xmOcQvmPP4kbT0EJUhkCQ) | [Aunty Ali](https://open.spotify.com/album/5yd3J66Y8oTQhX3QQQWwm0) | 1:49 | 2022-02-10 | 2022-10-29 |
 | [Penny & Penelope](https://open.spotify.com/track/02z4zcLLWhywWDx12fEFjy) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Penny & Penelope](https://open.spotify.com/album/2HzUHA0YN1a5oLepbQHTW8) | 2:05 | 2024-07-19 |  |
-| [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 |  |
+| [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 | 2024-10-19 |
 | [Pin Pon](https://open.spotify.com/track/4hcROiN7YDbbkZLMUhiGB8) | [Astrid Clark](https://open.spotify.com/artist/78H90eE8XEqkpCOOeyPDFU) | [Pin Pon](https://open.spotify.com/album/28UxEYFX5DUB13JgPfWWVy) | 1:42 | 2022-04-25 | 2024-03-29 |
 | [Pink Baby Elephant](https://open.spotify.com/track/5oGXFPEqqbH78hjK42MmzL) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Pink Baby Elephant](https://open.spotify.com/album/0pkHO4g5CRfwkeoYHAifTL) | 2:15 | 2022-02-10 | 2022-10-29 |
 | [Piper's Farm](https://open.spotify.com/track/7vV8ywQiPLSc1u7QmxNqvi) | [Luke Luna](https://open.spotify.com/artist/5PHXAnXlXSPvKiw5MAtdzK) | [Kitty's Blanket](https://open.spotify.com/album/5HWr2CHKEyLUn4fq603xLV) | 2:02 | 2022-02-10 | 2023-01-13 |
@@ -500,6 +500,7 @@
 | [Polly Put The Kettle On](https://open.spotify.com/track/06qo8rt6Yy6hLaUKZxUlAO) | [Tammy Madison](https://open.spotify.com/artist/1agrSvX42t5Gd0Poo68KcC) | [Rest Your Head, My Sleepy Angel](https://open.spotify.com/album/53CcPly9siBbxuQI5RDGuv) | 1:26 | 2022-02-10 | 2022-10-08 |
 | [Polly the Puppy](https://open.spotify.com/track/6dBIDxW8xzqx8KHy9xWxL1) | [Jessica Foley](https://open.spotify.com/artist/3OHqjKHD5eVwaEN9GcubO2) | [Louis the Lamb](https://open.spotify.com/album/7KsUn73zZwVzDTGr0sbvVw) | 1:58 | 2022-02-10 | 2023-05-12 |
 | [Pomme de reinette et pomme d'api](https://open.spotify.com/track/69KMamQsoYnJ4C3aD8feaw) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Pomme de reinette et pomme d'api](https://open.spotify.com/album/4LpAsf0N3Gjq6ZAG1htXD7) | 1:20 | 2023-05-12 | 2024-05-17 |
+| [Pop Goes the Weasel](https://open.spotify.com/track/3fEBhZ37kX3XX0ws1msfd1) | [Carey Martin](https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF) | [Pop Goes the Weasel](https://open.spotify.com/album/3LJRz4toEK7k6WyOTyUSMs) | 2:06 | 2024-10-18 |  |
 | [Poppy Puppy](https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [Poppy Puppy](https://open.spotify.com/album/69FfsvVstJkFev5cAgRhFs) | 1:29 | 2024-01-05 |  |
 | [Pot Of Gold](https://open.spotify.com/track/7qztGZ81mlFY5b7MV2tb24) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Pot Of Gold](https://open.spotify.com/album/0KyRhlIGDIp6YiY9i2V8g2) | 2:22 | 2023-02-10 |  |
 | [Precious Dreamer](https://open.spotify.com/track/2SKo6awCXFRPIZD9cdahJr) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Precious Dreamer](https://open.spotify.com/album/0hc26eDSgvRlEAOYmSEzma) | 2:02 | 2023-12-08 |  |

@@ -808,12 +808,12 @@
       },
       "artists": [
         {
-          "name": "Valentina Olguin",
-          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
-        },
-        {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
         }
       ],
       "date_added": "2024-09-27",
@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n que miente",
+        "url": "https://open.spotify.com/album/745UcNkOQwdtDL1Uu65Heq"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186709,
+      "name": "Coraz\u00f3n que miente",
+      "url": "https://open.spotify.com/track/7IX8K58YVVPJOIwio7vIpz"
+    },
+    {
+      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/4jX7jBxxmd04LdZB35Hg2r"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 172585,
       "name": "Despechada (Cover) - En Vivo",
       "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 189032,
       "name": "El M\u00e1s Popular - Remix",
       "url": "https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c"
@@ -3945,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Vez",
+        "url": "https://open.spotify.com/album/0TptXA1eMvRTUozTjp1E9Z"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203029,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/3RTMIeD4ndRCPnkRCJgqhv"
+    },
+    {
+      "album": {
         "name": "Lamento Borincano",
         "url": "https://open.spotify.com/album/2FtEHp1FkZCugd7pKdgEic"
       },
@@ -4318,7 +4354,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 263986,
       "name": "Luis",
       "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
@@ -4804,7 +4840,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 145088,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/23mG1foGJKjBmAgVMfVZ0Z"
@@ -6698,6 +6734,28 @@
       "duration_ms": 294570,
       "name": "Por Tu Amor / Amor de Amigos - En Vivo",
       "url": "https://open.spotify.com/track/31FI1BMWgHgMpEmTU3b9EH"
+    },
+    {
+      "album": {
+        "name": "Potra Salvaje (En Vivo)",
+        "url": "https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234754,
+      "name": "Potra Salvaje - En Vivo",
+      "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
     },
     {
       "album": {
@@ -9116,7 +9174,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"

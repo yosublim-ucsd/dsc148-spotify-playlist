@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 134422,
       "name": "Across The Purple Expanse",
       "url": "https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 205026,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3laOoR0JIzPzpuxYb8FATY"
@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 194400,
       "name": "Deep Down The Cave",
       "url": "https://open.spotify.com/track/4IBQllOXx6Ct9Bidmj3yyF"
@@ -4992,6 +4992,24 @@
       "duration_ms": 168797,
       "name": "Falling Softly",
       "url": "https://open.spotify.com/track/7beCCJReSJrQOpmdC2fog8"
+    },
+    {
+      "album": {
+        "name": "Far Frontier",
+        "url": "https://open.spotify.com/album/0jLstyeIJUeHbFNfH85j18"
+      },
+      "artists": [
+        {
+          "name": "Mauri Zeen",
+          "url": "https://open.spotify.com/artist/0IdqEgcgtiEMJ04P3PAAhL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Far Frontier",
+      "url": "https://open.spotify.com/track/5Rdk9CWB3c3XVBdEZktopc"
     },
     {
       "album": {
@@ -7372,7 +7390,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181075,
       "name": "Kaip Angelai",
       "url": "https://open.spotify.com/track/0GcOiTelzsYoFLRdmQxvjA"
@@ -7498,7 +7516,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 154481,
       "name": "Kustlijnen",
       "url": "https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz"
@@ -7880,6 +7898,24 @@
       "duration_ms": 114048,
       "name": "Llegan a Piscina",
       "url": "https://open.spotify.com/track/43s3yCJpcXkpnEkx5oz4o1"
+    },
+    {
+      "album": {
+        "name": "Lomardia",
+        "url": "https://open.spotify.com/album/0RNnFVEpEdifpz5Fq3uWEM"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Clarity",
+          "url": "https://open.spotify.com/artist/0mS4iUHnCGTarpY6K87QJm"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Lomardia",
+      "url": "https://open.spotify.com/track/6MhZHxsHlXWNCjmHQPk7YW"
     },
     {
       "album": {
@@ -9766,7 +9802,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 177758,
       "name": "Passage",
       "url": "https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2"
@@ -12113,6 +12149,24 @@
     },
     {
       "album": {
+        "name": "Somnova",
+        "url": "https://open.spotify.com/album/60BMGjiXw8bZe8sRpVx2Af"
+      },
+      "artists": [
+        {
+          "name": "Reso Nata",
+          "url": "https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Somnova",
+      "url": "https://open.spotify.com/track/5sOzPDUiz5ZTDoXUGCtNGu"
+    },
+    {
+      "album": {
         "name": "Fields Of Moab",
         "url": "https://open.spotify.com/album/0koXNisSlKiZui2102JtVx"
       },
@@ -12394,7 +12448,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192863,
       "name": "Stellar Constellations",
       "url": "https://open.spotify.com/track/2XFQQ4XE7VsyBrNyIJ6DII"
@@ -12632,6 +12686,24 @@
       "duration_ms": 156080,
       "name": "Subdue",
       "url": "https://open.spotify.com/track/0s2salZ3j2fGPJPVUPHJP1"
+    },
+    {
+      "album": {
+        "name": "Sublimity",
+        "url": "https://open.spotify.com/album/3fV0EyWe9JHAlzWVYccMvG"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169055,
+      "name": "Sublimity",
+      "url": "https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt"
     },
     {
       "album": {
@@ -13608,6 +13680,24 @@
       "duration_ms": 229165,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/3LEySFSzfOaUiS4E1z2AEB"
+      },
+      "artists": [
+        {
+          "name": "Elm Lake",
+          "url": "https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4OgLtqCE1dMYnEdcgZ0ZSS"
     },
     {
       "album": {

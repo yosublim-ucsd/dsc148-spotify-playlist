@@ -3155,6 +3155,28 @@
     },
     {
       "album": {
+        "name": "Skyline - Instant Composition Vol. 2",
+        "url": "https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Henrik Jespersen",
+          "url": "https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196242,
+      "name": "Earning Sounds",
+      "url": "https://open.spotify.com/track/43N1zJZhn3C74KdKQTLNHm"
+    },
+    {
+      "album": {
         "name": "Docutrax, Vol. 2: Serious Incidents",
         "url": "https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1"
       },
@@ -10700,7 +10722,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 170000,
       "name": "Winter's Lament",
       "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,578 likes - 52 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,618 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ullaasam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Krishna Lasya Muthyala](https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms) | [Ullaasam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/6Pofs9s7Bm0UVK94nenVJs) | 4:42 |
-| 2 | [Hey Taara \(From "Appudo Ippudo Eppudo"\)](https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Nithyasree](https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS), [Krishna Chaitanya](https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq) | [Hey Taara \(From "Appudo Ippudo Eppudo"\)](https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g) | 3:48 |
+| 2 | [Hey Taara \(From "Appudo Ippudo Eppudo"\)](https://open.spotify.com/track/3Pw2UCQrdroUy3WOxovsjW) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Krishna Chaitanya](https://open.spotify.com/artist/2nXQmURjKPR3PFEgHSdwNq) | [Hey Taara \(From "Appudo Ippudo Eppudo"\)](https://open.spotify.com/album/5Z0aW1PomFsPgBxfzhYu8g) | 3:48 |
 | 3 | [Chuttamalle \(From "Devara Part 1"\)](https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Chuttamalle \(From "Devara Part 1"\)](https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj) | 3:42 |
 | 4 | [Jikki \(From "Mr\. Bachchan"\)](https://open.spotify.com/track/3jt4l32RiZhupMWal5rRyk) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Jikki \(From "Mr\. Bachchan"\)](https://open.spotify.com/album/0LZ5LX0Wvl1Z3TzF5OhVs5) | 3:29 |
 | 5 | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/album/1m2T5YHndF1qX7r1xBFaho) | 4:31 |

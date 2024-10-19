@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: HOME
 
-1,935 songs - 5 day 0 hr 19 min
+1,936 songs - 5 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 | 2023-03-15 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-04-05 |
 | [HINODE](https://open.spotify.com/track/20CLHhDErrZB8JsFKYZW4t) | [Antiage](https://open.spotify.com/artist/1Ds6NxT56UdoyjaOjOpkH4) | [HINODE](https://open.spotify.com/album/2jM7tztSPBnAhP3Q2LV9Dc) | 4:13 | 2024-06-04 | 2024-06-12 |
-| [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 | 2024-10-08 |  |
+| [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 | 2024-10-08 | 2024-10-19 |
 | [Hitohito](https://open.spotify.com/track/5uN7lWGF2nL6AbgMW6UZad) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Hitohito](https://open.spotify.com/album/4azrBZDRfk6pT59gYODhv6) | 4:21 | 2023-12-05 | 2023-12-27 |
 | [Hitsujigumo](https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Hitsujigumo](https://open.spotify.com/album/3OfcxKGFYgAbaUP5o8JpEg) | 3:37 | 2024-04-02 | 2024-04-10 |
 | [Hold You Again](https://open.spotify.com/track/0yIURdQDYHRZLQWJV30dUq) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3) | 3:40 | 2024-01-23 | 2024-01-31 |
@@ -1415,6 +1415,7 @@
 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 | 2024-09-24 |  |
 | [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 | 2023-12-19 | 2024-09-18 |
 | [グリーンマン](https://open.spotify.com/track/5A5IxGThcKc5ZG3TVqouVP) | [KiQ](https://open.spotify.com/artist/1wpDXEtGHLGW18q9A0bvGz) | [グリーンマン](https://open.spotify.com/album/5YoZ2aUnPsLCJIduIMG9Xg) | 3:43 | 2023-09-05 | 2023-09-20 |
+| [グレー](https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [グレー](https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR) | 3:29 | 2024-10-15 |  |
 | [コステロメガネ](https://open.spotify.com/track/4V1zGopqPDZl2pkeURmj95) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [コステロメガネ](https://open.spotify.com/album/2nITrjvHBFFPE6wtNA43qU) | 3:11 | 2024-01-30 | 2024-02-07 |
 | [コメット](https://open.spotify.com/track/4OUGiOpZtwEnFOsUZfONhS) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [コメット](https://open.spotify.com/album/4bwQ5Mz7zR8tW7nzOBOi4c) | 4:02 | 2023-10-31 | 2023-11-08 |
 | [コロネ気流](https://open.spotify.com/track/66M7oadAQbYXj1KQQipcLd) | [KISS THE GAMBLER](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [コロネ気流](https://open.spotify.com/album/1MuCLcj073eV0Cu4vXP0IT) | 2:29 | 2023-09-05 | 2023-09-13 |

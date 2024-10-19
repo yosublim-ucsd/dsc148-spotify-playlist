@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 256901,
       "name": "11",
       "url": "https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6"
@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Skyline - Instant Composition Vol. 2",
+        "url": "https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Henrik Jespersen",
+          "url": "https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196242,
+      "name": "Earning Sounds",
+      "url": "https://open.spotify.com/track/43N1zJZhn3C74KdKQTLNHm"
+    },
+    {
+      "album": {
         "name": "Diaspora Urkontinent",
         "url": "https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2"
       },
@@ -828,6 +850,24 @@
       "duration_ms": 148250,
       "name": "Ediacaran Moonrise",
       "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
+    },
+    {
+      "album": {
+        "name": "Wio World Improv Orquestra",
+        "url": "https://open.spotify.com/album/18uhLpV20hEwhP5T2q31jj"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401160,
+      "name": "El Mango",
+      "url": "https://open.spotify.com/track/3swR8qU8zudXx36fhwqHLk"
     },
     {
       "album": {
@@ -907,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/3a2JFR914ksbxF42fGzNs5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274280,
+      "name": "Estrellas de Fuego",
+      "url": "https://open.spotify.com/track/62dUMBmgOvY14C6agkBo40"
+    },
+    {
+      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
       },
@@ -922,7 +980,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 416560,
       "name": "Ether",
       "url": "https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD"
@@ -2812,7 +2870,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 257000,
       "name": "Time Changes",
       "url": "https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D"

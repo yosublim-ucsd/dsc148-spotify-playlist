@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Tears Of A Mad Man",
+        "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "Iweriwe Love",
+      "url": "https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i"
+    },
+    {
+      "album": {
         "name": "Omo Charlie Champagne Vol. 1",
         "url": "https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 229015,
       "name": "Mzansi",
       "url": "https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN"
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181621,
       "name": "Zanzibar (Alubarika)",
       "url": "https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H"

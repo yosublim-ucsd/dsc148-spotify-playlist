@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kat Luna
 
-185 songs - 10 hr 11 min
+186 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Day Drinking \- Party Mix](https://open.spotify.com/track/4zVwASFqCT6XUmpBrnuIJK) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Day Drinking \(Party Mix\)](https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81) | 3:35 | 2021-12-10 | 2024-04-10 |
 | [Desert Rain](https://open.spotify.com/track/54uGAxFnjUCk0ySobH4kPL) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Frontera](https://open.spotify.com/album/199sZ1Ykrzexpnrlxfx9tM) | 3:25 | 2023-04-21 | 2024-04-10 |
 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 | 2024-06-17 |  |
+| [Digas Lo Que Digas](https://open.spotify.com/track/4fU9fshN8bkL50700ci5tv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Digas Lo Que Digas](https://open.spotify.com/album/0B6yvJLElPicI1x4iPGKVK) | 3:46 | 2024-10-18 |  |
 | [Dos Copas de Más \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/6SJHD4x5Utx7lnBJCtOpML) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/7swLFakFeCrD0XeazxzJd1) | 3:42 | 2021-12-10 | 2024-04-10 |
 | [Down Here](https://open.spotify.com/track/4BChEw9qEJjOmPIE9CU65e) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Down Here](https://open.spotify.com/album/6UWvFvtdmemHeFzWuBUlOW) | 2:24 | 2023-06-02 |  |
 | [Down The Road](https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Down The Road](https://open.spotify.com/album/6TmzDsVkEq3j3xNdkDahCM) | 2:58 | 2022-06-03 | 2022-12-08 |

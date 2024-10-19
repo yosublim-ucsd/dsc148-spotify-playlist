@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "All",
+        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185045,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb"
+    },
+    {
+      "album": {
+        "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-454 songs - 1 day 2 hr 39 min
+455 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,13 +96,14 @@
 | [Dance All Night](https://open.spotify.com/track/4OwL0G99x5mBHZktaX6OF5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [J.Ar.J](https://open.spotify.com/artist/5j0ebhCPgteJolbpJ7pI6A) | [Dance All Night](https://open.spotify.com/album/4Sa2qY3zA0oUKRVuXA6WJe) | 3:07 | 2023-09-22 |  |
 | [Dancing Through the Night](https://open.spotify.com/track/3dcqOn4XpWWTsvaSrTTvhl) | [Vlade Kay](https://open.spotify.com/artist/1yDN7vHPBnAbYFpS25DTWV) | [Dancing Through the Night](https://open.spotify.com/album/28FcNigpOpZjXqhbWW4A0N) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
-| [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-30 |  |
+| [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-30 | 2024-10-19 |
 | [Dirty Disco](https://open.spotify.com/track/5xf4Rsu7qjKHGBrEwgseOT) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [Dirty Disco](https://open.spotify.com/album/5nmGeDHV5dmbOedJhKIRv4) | 3:43 | 2024-03-01 | 2024-03-23 |
 | [Do Your Thang](https://open.spotify.com/track/2QHKyQgP6WQasHjufqOfbX) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Apollo](https://open.spotify.com/album/6f0A1F9M21dIgLIGLgZUKO) | 3:54 | 2020-11-20 | 2022-04-09 |
 | [Doin' My Best](https://open.spotify.com/track/3JfYs7pXBsrEd9jWfCTXpS) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Doin' My Best](https://open.spotify.com/album/2wgalAS3PY5I629Zq3qIYd) | 3:33 | 2020-12-08 | 2022-04-09 |
 | [Don't Blame It on the Timing](https://open.spotify.com/track/70uSL3jEqP1yOGgq8nNDTJ) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Don't Blame It on the Timing](https://open.spotify.com/album/3QNADEr51LFBbTpvHYTFxf) | 3:53 | 2020-11-20 | 2022-04-09 |
 | [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 | 2023-04-29 |
 | [Don't Leave Me on Read](https://open.spotify.com/track/11diXJtSS2XZUimNMl6Wgo) | [Yuphoric](https://open.spotify.com/artist/7dUQFBLwkdsa2l4Ttc6EGP) | [Don't Leave Me on Read](https://open.spotify.com/album/7jUwZ8HVfJOIQJ35PfWgqZ) | 3:48 | 2020-11-20 | 2022-04-09 |
+| [Don't Rain On My Parade](https://open.spotify.com/track/7BypZ2B3bsVf2hwqAHqGJe) | [Third Reprise](https://open.spotify.com/artist/2rz5Ap6y8CRp402RQwpRNn), [Henry Platt](https://open.spotify.com/artist/4vh79MMca4x1g4R0D5Q0rR) | [Don't Rain On My Parade](https://open.spotify.com/album/0427oVyapui4sWqFB0Idkz) | 4:23 | 2024-10-18 |  |
 | [Don't Worry 'Bout It](https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Don't Worry 'Bout It](https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv) | 2:48 | 2023-07-07 |  |
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib) | 3:23 | 2022-09-02 | 2022-10-21 |
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/7Fk2ITEI0s2Y6oiust9UKl) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/7zsHBrfvL0hk321iiagyAD) | 3:23 | 2022-09-02 | 2023-04-29 |

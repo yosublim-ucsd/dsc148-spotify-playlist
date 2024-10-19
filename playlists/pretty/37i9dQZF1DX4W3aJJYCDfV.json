@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from JADE (pictured), Jazzy, Bon Iver and more!",
-  "num_followers": 863134,
+  "num_followers": 863413,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGW8AAAAACPyeT0iq0tIeFjhbGONrN/",
+  "snapshot_id": "ZxKjpgAAAAB10+V54LOsjk8x5W+qZqCQ",
   "tracks": [
     {
       "added_at": "2024-10-17 23:00:00",
@@ -179,6 +179,26 @@
       "duration_ms": 112938,
       "name": "LDN",
       "url": "https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2024-10-17 23:00:00",
@@ -661,6 +681,30 @@
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
+      "added_at": "2024-10-18 08:57:42",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
+    {
       "added_at": "2024-10-17 23:00:00",
       "album": {
         "name": "So Low",
@@ -928,7 +972,7 @@
           "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 191493,
+      "duration_ms": 191484,
       "name": "Jumping the Gun",
       "url": "https://open.spotify.com/track/5TosBXH7iNMMn1Z5dc2FzZ"
     },
@@ -1919,6 +1963,22 @@
       "duration_ms": 183162,
       "name": "Room 341",
       "url": "https://open.spotify.com/track/3Rx4kOvXwVWxfs0sDk4o1F"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "ANGLIA SQUARE",
+        "url": "https://open.spotify.com/album/1qfw86z1LeGnrpMM7EtmWf"
+      },
+      "artists": [
+        {
+          "name": "Louis La Roche",
+          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
+        }
+      ],
+      "duration_ms": 249905,
+      "name": "OVERFLOW",
+      "url": "https://open.spotify.com/track/3VYdCYG5hgqBlHnjKBMW9U"
     },
     {
       "added_at": "2024-10-17 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: Thakzin",
-  "num_followers": 74308,
+  "num_followers": 74310,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGy1AAAAAC0NIqhW0tVbsDbrjMQDrFX",
+  "snapshot_id": "ZxIh3wAAAACoGWOqxOnJabLjCyvdGdV1",
   "tracks": [
     {
       "added_at": "2024-10-18 00:59:00",
@@ -111,6 +111,26 @@
       "duration_ms": 360997,
       "name": "Njalo",
       "url": "https://open.spotify.com/track/7d5mCjXNlMmNz9SlBWR9F4"
+    },
+    {
+      "added_at": "2024-10-18 08:52:47",
+      "album": {
+        "name": "ARCADE TRILOGY",
+        "url": "https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA"
+        }
+      ],
+      "duration_ms": 359491,
+      "name": "Phula (feat. Sykes)",
+      "url": "https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1"
     },
     {
       "added_at": "2024-10-18 00:59:00",
@@ -1071,22 +1091,6 @@
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
-    },
-    {
-      "added_at": "2024-10-18 00:59:00",
-      "album": {
-        "name": "SLB",
-        "url": "https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "SLB",
-      "url": "https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT"
     },
     {
       "added_at": "2024-10-18 00:59:00",

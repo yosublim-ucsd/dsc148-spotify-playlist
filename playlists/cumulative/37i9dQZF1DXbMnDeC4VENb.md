@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-286 songs - 16 hr 9 min
+289 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Joven](https://open.spotify.com/track/5ZaWrrmSD02MiqjUpKXdPX) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Don Bustos](https://open.spotify.com/artist/2pXkb54x9Ve8vF6bMhvnps) | [Joven](https://open.spotify.com/album/1AQDha8JcEGUDvU6qfdwRB) | 4:04 | 2024-06-04 |  |
 | [Kintsugi](https://open.spotify.com/track/1RRyiDUte8aYs5YNzNIHyv) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz) | [Kintsugi](https://open.spotify.com/album/6wv6oeVA6fhIA6xXLb1knP) | 4:27 | 2024-06-04 |  |
 | [La Bala](https://open.spotify.com/track/3aBHzm9JGHE4TsBZiYjbDE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Serendipia](https://open.spotify.com/album/7J05uCYMtUKy8t4Qsg9oEv) | 3:43 | 2024-05-10 |  |
+| [La Cuenta](https://open.spotify.com/track/4aQOsfc1jAu61HkHIoleHg) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [LDCR: Los Del Corazón Roto](https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW) | 2:48 | 2024-10-18 |  |
 | [La Noche y Tú](https://open.spotify.com/track/4o10JaWlOjwBUteTznaQj2) | [Barbaro el Urbano Vargas](https://open.spotify.com/artist/30KcX7N3zj7h1BTm1PyzQ3) | [Lumbre Bajo Cero](https://open.spotify.com/album/42vmx7yC3zShnZOVX097PS) | 3:00 | 2024-06-07 | 2024-06-22 |
 | [La Primera Persona del Plural](https://open.spotify.com/track/6s8cptLBT4CjqywZT0B8MI) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Acariciado Mundo](https://open.spotify.com/album/7DnisveBqSuYqXcQgeAtFc) | 3:43 | 2024-06-07 | 2024-06-22 |
 | [La Primera Vez](https://open.spotify.com/track/1fYklg2kEJ9Uxnr2fxtX78) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Primera Vez](https://open.spotify.com/album/2n5VDRQCQznOJJt1svDhd0) | 3:13 | 2024-06-07 | 2024-06-22 |
@@ -159,6 +160,7 @@
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-02 |  |
 | [Ni Como Amigo](https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ni Como Amigo](https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ) | 3:40 | 2023-10-20 |  |
 | [Ni de Ti Ni de Nadie](https://open.spotify.com/track/6dhfCkmjThVA2HmjIg4pXX) | [Gordo Fu](https://open.spotify.com/artist/4gwOZvQmA7iPkCR9gApLFh) | [Diez Lunas](https://open.spotify.com/album/7tXH1gZ0buTRLVCe1y75vC) | 3:15 | 2024-06-04 |  |
+| [Ni Por Favor \(Si No Me Quieres Ni Modo](https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [Ni Por Favor \(Si No Me Quieres Ni Modo\)](https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8) | 3:08 | 2024-10-18 |  |
 | [Ni Te Pienso](https://open.spotify.com/track/1DZB8ftk4ZtXykrIhH3lkr) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Ni Te Pienso](https://open.spotify.com/album/08wZzamnRwL31CwIGA1ssq) | 3:06 | 2024-06-04 |  |
 | [No Cambia Nada](https://open.spotify.com/track/1lTnLZE9NsrVKGyvYmGLdI) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/6S48b3zbpnbWUeKgjBSbZc) | 2:44 | 2023-04-28 | 2023-07-15 |
 | [No Cambia Nada](https://open.spotify.com/track/6cX8ZEnR2fNMnHPIrzPz6l) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/1vVX4IcLrWY262TBNRUbtz) | 2:44 | 2022-05-25 | 2023-05-03 |
@@ -210,6 +212,7 @@
 | [Química Orgánica](https://open.spotify.com/track/3DPm68zR6GdQK5t2cGB1LN) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC), [Canto Quetzal](https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa) | [Química Orgánica](https://open.spotify.com/album/5GWVt24X4rpkLmkEf5stb7) | 3:38 | 2023-07-21 | 2023-07-29 |
 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 | 2024-04-19 |  |
 | [Sabanas Blancas](https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 4:14 | 2023-07-14 |  |
+| [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 | 2024-10-18 |  |
 | [SE MARCHITÓ LA FLOR](https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Confesiones](https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb) | 3:23 | 2024-06-04 |  |
 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 | 2022-05-25 |  |
 | [Secreto de Dos](https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Secreto de Dos](https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu) | 2:29 | 2023-05-19 |  |

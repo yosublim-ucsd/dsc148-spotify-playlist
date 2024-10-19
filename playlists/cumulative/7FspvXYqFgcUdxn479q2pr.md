@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Vibe Chemistry &amp; Maduk
 
-327 songs - 16 hr 15 min
+328 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [I'm Too Sexy \(Albert Harvey Remix\)](https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL), [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj) | [I'm Too Sexy \(Remixes\)](https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX) | 3:01 | 2024-07-04 | 2024-07-13 |
 | [I'm Too Sexy \(Eric Kupper Remix\)](https://open.spotify.com/track/79luzgoRfJUmHakzks602J) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [I'm Too Sexy \(Eric Kupper Remix\)](https://open.spotify.com/album/3zeM8aaMzhu4imh09FQ5fi) | 4:01 | 2024-09-27 | 2024-10-18 |
 | [I'm Too Sexy \(Festival Mix\)](https://open.spotify.com/track/0yNdBmcPrOM7CAhDIxfsSF) | [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp), [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [I'm Too Sexy \(Remixes\)](https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX) | 2:50 | 2024-07-04 | 2024-07-13 |
+| [If Only We Could](https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o) | [Sam AVSTIN](https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf) | [If Only We Could](https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F) | 2:49 | 2024-10-18 |  |
 | [In Berlin](https://open.spotify.com/track/17MQNLNMd9BZ5IMbHTiOYi) | [Andrew Galaxy](https://open.spotify.com/artist/67Bgeu6V5DKzChSuDcjTEe), [Vision Next](https://open.spotify.com/artist/4uX9udVnZmcSxztMjNauqA) | [ARCH](https://open.spotify.com/album/4cScqtWDOzm7Vaf3snY0u8) | 3:04 | 2024-05-24 | 2024-06-01 |
 | [In Control](https://open.spotify.com/track/6ENj47aA41bTZFinUDrYNP) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [In Control](https://open.spotify.com/album/3SD9BUjJvoSY3Uiafm83lb) | 2:31 | 2024-06-21 | 2024-06-29 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 | 2024-07-19 |

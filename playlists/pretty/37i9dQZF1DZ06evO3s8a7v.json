@@ -1,12 +1,12 @@
 {
-  "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 41543,
+  "description": "This Is MYA. Los temas esenciales, todos en una lista.",
+  "num_followers": 41558,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAACkfmeFpPk1bOV5uf8pt8kX",
+  "snapshot_id": "ZxBTgAAAAABsXFN2vifYb5Bo3CTbVIYD",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 185142,
       "name": "2:50",
       "url": "https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1bADdBH6USOG55rAxPtR2p"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 170020,
+      "name": "BLANCO Y NEGRO",
+      "url": "https://open.spotify.com/track/14Z4eUbgdSzg70JRqyZS60"
     },
     {
       "added_at": null,
@@ -303,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre La Tierra y El Cielo",
-        "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 253496,
-      "name": "Entre La Tierra y El Cielo",
-      "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lejos (REMIX)",
         "url": "https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I"
       },
@@ -359,6 +351,30 @@
       "duration_ms": 186787,
       "name": "LUNAR",
       "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre La Tierra y El Cielo",
+        "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 253496,
+      "name": "Entre La Tierra y El Cielo",
+      "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIKINI",
-        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "BIKINI",
-      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 165364,
       "name": "Online",
       "url": "https://open.spotify.com/track/1QpmpEDCrlVJJfyt5eFYSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
     },
     {
       "added_at": null,
@@ -607,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 NOCHES (feat. Abraham Mateo)",
-        "url": "https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "25 NOCHES (feat. Abraham Mateo)",
-      "url": "https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -643,6 +639,26 @@
       "duration_ms": 170437,
       "name": "Cobardes",
       "url": "https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 NOCHES (feat. Abraham Mateo)",
+        "url": "https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "25 NOCHES (feat. Abraham Mateo)",
+      "url": "https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 163170,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Bailo Pa Ti",
         "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 171816,
       "name": "No Bailo Pa Ti",
       "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 163170,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk"
     },
     {
       "added_at": null,
@@ -795,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 165647,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/6lobzm99pbHbAadY6VdMgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -831,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Guerrero / Universo Paralelo (Vivo en Buenos Aires)",
-        "url": "https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559"
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
       "artists": [
         {
@@ -840,13 +836,13 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         }
       ],
-      "duration_ms": 272551,
-      "name": "Universo Paralelo (Vivo en Buenos Aires) (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ"
+      "duration_ms": 165647,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6lobzm99pbHbAadY6VdMgd"
     },
     {
       "added_at": null,
@@ -879,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+        "name": "Coraz\u00f3n Guerrero / Universo Paralelo (Vivo en Buenos Aires)",
+        "url": "https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559"
       },
       "artists": [
         {
@@ -888,13 +884,13 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Ta Pa Estar",
-      "url": "https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5"
+      "duration_ms": 272551,
+      "name": "Universo Paralelo (Vivo en Buenos Aires) (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ"
     },
     {
       "added_at": null,
@@ -923,22 +919,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suelta, Sola y Tranquila (feat. MYA)",
-        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
       "artists": [
         {
-          "name": "FABRO",
-          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ta Pa Estar",
+      "url": "https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
+      },
+      "artists": [
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 149929,
-      "name": "Suelta, Sola y Tranquila (feat. MYA)",
-      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
+      "duration_ms": 148184,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
     },
     {
       "added_at": null,
@@ -959,18 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Escondidas",
-        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
+        "name": "Suelta, Sola y Tranquila (feat. MYA)",
+        "url": "https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM"
       },
       "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 148184,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
+      "duration_ms": 149929,
+      "name": "Suelta, Sola y Tranquila (feat. MYA)",
+      "url": "https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi"
     },
     {
       "added_at": null,

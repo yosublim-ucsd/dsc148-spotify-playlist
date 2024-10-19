@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:6mEJxv4yQ0uvEZ023sKEPt\">SioVera</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4B4YYJ0BAYBK86yxqQV7mu\">Funky</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -448,6 +448,28 @@
       "duration_ms": 210739,
       "name": "Ad\u00e1n y Eva",
       "url": "https://open.spotify.com/track/3mB5zDZiCOexbIJ2USyNtI"
+    },
+    {
+      "album": {
+        "name": "Agarra La Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto de Encuentro",
+          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191447,
+      "name": "Agarra La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
     },
     {
       "album": {
@@ -2108,7 +2130,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 328135,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/4XXfX1L3uqlRxbHmsgTCvE"
@@ -4540,7 +4562,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 829415,
       "name": "Emanuel",
       "url": "https://open.spotify.com/track/5n8Hp42nZLXEK29gjCm1J1"
@@ -6022,6 +6044,24 @@
       "duration_ms": 203790,
       "name": "Gu\u00edame",
       "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
+    },
+    {
+      "album": {
+        "name": "Gu\u00edame Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/0yKAzcktQHEKHVWx0tUrhW"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322450,
+      "name": "Gu\u00edame Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/1bJShv9OBOmQ8yjiNw6qmt"
     },
     {
       "album": {
@@ -9633,6 +9673,24 @@
     },
     {
       "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/7exSbIs48xc2PVLOKSBwrF"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181774,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/1OMnykDpR1iqD7WycHrVWT"
+    },
+    {
+      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/7w9SYfdjGZLL8xM5J944OU"
       },
@@ -11229,6 +11287,28 @@
     },
     {
       "album": {
+        "name": "PAR\u00c9NTESIS",
+        "url": "https://open.spotify.com/album/1T4TZDs7wcFvaHXv6hJVTv"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173349,
+      "name": "SIMPLICIDAD",
+      "url": "https://open.spotify.com/track/0mN5nfmdkmVjslbzLfsfkJ"
+    },
+    {
+      "album": {
         "name": "Sin Escalas",
         "url": "https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ"
       },
@@ -12722,7 +12802,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 344779,
       "name": "Tu Presencia Es Mi Todo",
       "url": "https://open.spotify.com/track/63i8lYUFY79ES7y3OICBD1"
@@ -13542,7 +13622,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 186888,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/1h4SBBa7WBdzG2dSF4LMTn"

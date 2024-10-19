@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4BWrUcOTBw2Ydp58kRYTj8"
+      },
+      "artists": [
+        {
+          "name": "Dang3r",
+          "url": "https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr"
+        },
+        {
+          "name": "Kova",
+          "url": "https://open.spotify.com/artist/4fEckNuqOODv3H0ZimhCft"
+        },
+        {
+          "name": "NewGapy",
+          "url": "https://open.spotify.com/artist/0rz8esMME7lhGigsAoKmQ3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278068,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/73q270xh3XdySWtt9NZxWX"
+    },
+    {
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc"
       },
@@ -5332,7 +5358,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 286916,
       "name": "Tears",
       "url": "https://open.spotify.com/track/70av8bgExOvrGBWflEToQw"

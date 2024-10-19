@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Taha G",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -1184,6 +1184,24 @@
       "duration_ms": 209454,
       "name": "Daira-e-ufuq",
       "url": "https://open.spotify.com/track/0gveIug9rm2W8D9b2g3TPj"
+    },
+    {
+      "album": {
+        "name": "Dastaan",
+        "url": "https://open.spotify.com/album/2a1fv7tSHqwVEXL62KdpEa"
+      },
+      "artists": [
+        {
+          "name": "Essa Barlas",
+          "url": "https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326571,
+      "name": "Dastaan",
+      "url": "https://open.spotify.com/track/4KxLTSPAyUZY5GUochDLzr"
     },
     {
       "album": {
@@ -2878,6 +2896,24 @@
       "duration_ms": 186985,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/2AHlAZJS2tTnhDqqlIm6O3"
+    },
+    {
+      "album": {
+        "name": "Khirki",
+        "url": "https://open.spotify.com/album/0jHoXjcxySVoXdDkY0NXjw"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Khirki",
+      "url": "https://open.spotify.com/track/0I4ViThIJrFKDWvKclQcv5"
     },
     {
       "album": {
@@ -4887,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Love",
+        "url": "https://open.spotify.com/album/41fUaQx4Tm3zcK4aJMTCxz"
+      },
+      "artists": [
+        {
+          "name": "Umer Israr",
+          "url": "https://open.spotify.com/artist/0LqA1pJKgW7aqqMpFyZoUF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1RIQ7XU2Ojuz7jMst8l0DZ"
+    },
+    {
+      "album": {
         "name": "Sawalon Mein",
         "url": "https://open.spotify.com/album/1kwewG05B40C9ceBR1zKfe"
       },
@@ -4906,6 +4960,24 @@
       "duration_ms": 234193,
       "name": "Sawalon Mein",
       "url": "https://open.spotify.com/track/79d0rjDCUikfj6KkYAVuNZ"
+    },
+    {
+      "album": {
+        "name": "Scam",
+        "url": "https://open.spotify.com/album/3vf0QXbKYyQDRHa8jEtLHh"
+      },
+      "artists": [
+        {
+          "name": "RFB",
+          "url": "https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Scam",
+      "url": "https://open.spotify.com/track/3uMilcK226NiUFi88XQsOd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: MØ
 
-330 songs - 19 hr 0 min
+332 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Here Come the Loney Ones](https://open.spotify.com/track/6epczZlhyXtttZBoIPQEo0) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Here Come the Loney Ones](https://open.spotify.com/album/1VL97aLu3IVvjL3Z00Jx7u) | 3:00 | 2024-06-27 | 2024-07-27 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-08 |  |
 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 | 2024-08-22 | 2024-09-27 |
+| [Hjärtat slår](https://open.spotify.com/track/7MuUIYeMlGpMkdXgP8KFct) | [CIVIL POLIS](https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ), [Själen](https://open.spotify.com/artist/1o8iMexHLU6IISsELlCO0Y) | [Hjärtat slår](https://open.spotify.com/album/1ZdJ1GaF8viBrTxYSp6Nzw) | 4:28 | 2024-10-18 |  |
 | [Holiness Movement](https://open.spotify.com/track/0T47qvWPZhIq4FUsLHBrqR) | [Oh Hiroshima](https://open.spotify.com/artist/19iNYCVHcMwJMS3NZqhZ59) | [All Things Shining](https://open.spotify.com/album/6Fe24gOuqBwxbLhFaQ0tB9) | 5:36 | 2024-06-27 | 2024-08-23 |
 | [Honey](https://open.spotify.com/track/1XbSXeRIX2dgAzywK32Z1F) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Honey](https://open.spotify.com/album/2p5RALR1fjMQSoaK2s5NPp) | 3:09 | 2024-06-27 | 2024-07-27 |
 | [Honey](https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Honey](https://open.spotify.com/album/5wm6RLQG7S7L8GuJrD3Mzs) | 3:29 | 2024-09-05 |  |
@@ -240,6 +241,7 @@
 | [Rivers Don't Speak](https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Rivers Don't Speak](https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1) | 3:35 | 2024-08-01 | 2024-09-19 |
 | [Rivmärken](https://open.spotify.com/track/6fzRvxObCvbqwX4d1AFZiI) | [Agitator](https://open.spotify.com/artist/6dIwSdnbb2L8BfKtpUQAej) | [Rivmärken](https://open.spotify.com/album/27EdEB9jOecif5mFCYbddA) | 3:26 | 2024-08-22 | 2024-09-06 |
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 |  |
+| [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 | 2024-10-18 |  |
 | [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 | 2024-09-05 |  |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-19 |  |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-05 |  |

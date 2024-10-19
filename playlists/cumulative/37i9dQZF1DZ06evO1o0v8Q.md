@@ -2,7 +2,7 @@
 
 ### [This Is Turnstile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o0v8Q)
 
-> This is Turnstile\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Turnstile\. The essential tracks, all in one playlist.
 
 42 songs - 1 hr 42 min
 

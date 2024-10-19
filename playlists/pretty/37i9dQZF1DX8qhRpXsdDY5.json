@@ -1,6 +1,6 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 205146,
+  "num_followers": 205168,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 148740,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 176429,
       "name": "Rodolfo el Reno",
       "url": "https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 148740,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 156600,
       "name": "Se Va Diciembre",
       "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Navidad en America",
-        "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
-        }
-      ],
-      "duration_ms": 478333,
-      "name": "Navidad en Am\u00e9rica",
-      "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Dios Me Se\u00f1al\u00f3",
         "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 148259,
       "name": "Tu Adi\u00f3s Es Mi Navidad",
       "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Navidad en America",
+        "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
+        }
+      ],
+      "duration_ms": 478333,
+      "name": "Navidad en Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Navidad Mexicana",
-        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
+        "name": "Mi Navidad",
+        "url": "https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK"
       },
       "artists": [
         {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU"
         }
       ],
-      "duration_ms": 178720,
-      "name": "Llorar\u00e1s en Navidad",
-      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
+      "duration_ms": 150520,
+      "name": "Rodolfo el Reno de la Nariz Roja",
+      "url": "https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR"
     }
   ],
   "unique_name": "Latin Christmas Classics",

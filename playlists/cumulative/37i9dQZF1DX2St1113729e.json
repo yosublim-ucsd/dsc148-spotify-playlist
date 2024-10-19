@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 145714,
       "name": "Hilo Rojo",
       "url": "https://open.spotify.com/track/7uMEmm37XlH87AoF6mkhrm"
@@ -6878,7 +6878,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 151724,
       "name": "RADIKKHAL",
       "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"
@@ -8291,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "un lugar en m\u00ed",
+        "url": "https://open.spotify.com/album/7cBuPo5L2D1pRRHhiYZyXz"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109322,
+      "name": "un lugar en m\u00ed",
+      "url": "https://open.spotify.com/track/1TzNUQFB5UXQJgEKiVdD4v"
+    },
+    {
+      "album": {
         "name": "UN MORO Y UN GITANO",
         "url": "https://open.spotify.com/album/0naJcllxhV5u21Gr4bRd8r"
       },
@@ -8306,6 +8324,32 @@
       "duration_ms": 171851,
       "name": "UN MORO Y UN GITANO",
       "url": "https://open.spotify.com/track/6c6hpxFw97WGaI5Y7BpEgU"
+    },
+    {
+      "album": {
+        "name": "Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/6Mimyb90IbsDdpdES0BHoC"
+      },
+      "artists": [
+        {
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        },
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        },
+        {
+          "name": "Xema Fuentes",
+          "url": "https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136731,
+      "name": "Un Poco M\u00e1s",
+      "url": "https://open.spotify.com/track/4gqVHcdDIbcDwqtUcDSsVk"
     },
     {
       "album": {

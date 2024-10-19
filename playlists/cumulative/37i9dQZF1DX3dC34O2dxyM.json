@@ -3425,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Moon, Sun, See Where You Are",
+        "url": "https://open.spotify.com/album/20OQxcjYs4Yjr6am1FX1dk"
+      },
+      "artists": [
+        {
+          "name": "Bennie Radcliff",
+          "url": "https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125037,
+      "name": "Moon, Sun, See Where You Are",
+      "url": "https://open.spotify.com/track/2gQyfjfnYiXB1b3jG7Soem"
+    },
+    {
+      "album": {
         "name": "Moonchild",
         "url": "https://open.spotify.com/album/6UlvUbYKOTJdnGSGiz3EOl"
       },
@@ -4070,6 +4088,24 @@
       "duration_ms": 153769,
       "name": "Que Linda Manita",
       "url": "https://open.spotify.com/track/13ytdfEni9x39EA5wsNWoB"
+    },
+    {
+      "album": {
+        "name": "Quiet Stars, Gentle Strums",
+        "url": "https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133234,
+      "name": "Quiet Stars, Gentle Strums",
+      "url": "https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC"
     },
     {
       "album": {
@@ -5528,6 +5564,24 @@
       "duration_ms": 93750,
       "name": "Tryggare kan ingen vara",
       "url": "https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h"
+    },
+    {
+      "album": {
+        "name": "Twilight Song",
+        "url": "https://open.spotify.com/album/4kFbCc5PiDyVXpsB0wE2S2"
+      },
+      "artists": [
+        {
+          "name": "Little Miles",
+          "url": "https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Twilight Song",
+      "url": "https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS"
     },
     {
       "album": {

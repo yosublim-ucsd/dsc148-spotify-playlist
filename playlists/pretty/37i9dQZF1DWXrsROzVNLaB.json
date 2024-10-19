@@ -1,6 +1,6 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11912,
+  "num_followers": 11921,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "I Know That My Redeemer Lives",
-        "url": "https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i"
+        "name": "Stars Go Dim",
+        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 289569,
-      "name": "I Know That My Redeemer Lives",
-      "url": "https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB"
+      "duration_ms": 278426,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Stars Go Dim",
-        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
+        "name": "I Know That My Redeemer Lives",
+        "url": "https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i"
       },
       "artists": [
         {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
         }
       ],
-      "duration_ms": 278426,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1"
+      "duration_ms": 289569,
+      "name": "I Know That My Redeemer Lives",
+      "url": "https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "See The Morning",
-        "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
+        "name": "Hallelujah Amen (feat. Jon Guerra)",
+        "url": "https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 241573,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu"
+      "duration_ms": 318969,
+      "name": "Hallelujah Amen (feat. Jon Guerra)",
+      "url": "https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Hallelujah Amen (feat. Jon Guerra)",
-        "url": "https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ"
+        "name": "See The Morning",
+        "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 318969,
-      "name": "Hallelujah Amen (feat. Jon Guerra)",
-      "url": "https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7"
+      "duration_ms": 241573,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu"
     },
     {
       "added_at": "2024-07-02 00:57:49",

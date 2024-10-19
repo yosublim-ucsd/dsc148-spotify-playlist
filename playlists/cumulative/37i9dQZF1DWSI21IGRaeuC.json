@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "15 Seconds of Fame (Edit)",
+        "url": "https://open.spotify.com/album/1gNrTjstak4TqiaozWWGur"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "15 Seconds of Fame - Edit",
+      "url": "https://open.spotify.com/track/1Q8WZ2aN87ld2vcb9UmrTB"
+    },
+    {
+      "album": {
         "name": "50 INCH WOOFAS",
         "url": "https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 139384,
       "name": "Check It",
       "url": "https://open.spotify.com/track/4jx93fOq4RKCinOwTHfwWZ"
@@ -1793,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Energy Cycle EP",
+        "url": "https://open.spotify.com/album/2g69nxboMvYo8zUmotb8dz"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393750,
+      "name": "Energy Cycle - Original Mix",
+      "url": "https://open.spotify.com/track/1HXgcCM0nzG8PVA2frKZC7"
+    },
+    {
+      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -2022,6 +2058,24 @@
       "duration_ms": 308636,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
+    },
+    {
+      "album": {
+        "name": "FREAK IN THE SHEETS",
+        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "FREAK IN THE SHEETS",
+      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
     },
     {
       "album": {
@@ -3098,7 +3152,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
@@ -5970,7 +6024,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"

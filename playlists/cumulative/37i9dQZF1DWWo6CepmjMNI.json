@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The River&Bridge",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VELIKA",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -310,8 +310,8 @@
       },
       "artists": [
         {
-          "name": "C h A 0 '' d i N g \"",
-          "url": "https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD"
+          "name": "Chao Ding",
+          "url": "https://open.spotify.com/artist/0fULSRNK2lKatw7rVIm7O4"
         }
       ],
       "date_added": "2024-09-13",
@@ -374,6 +374,24 @@
       "duration_ms": 256181,
       "name": "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e35",
       "url": "https://open.spotify.com/track/7yodPVecn5X9EnjpzcKTGH"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e07\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d (Wish)",
+        "url": "https://open.spotify.com/album/6Eh1ZrBEIzpM9FN6YMS3gW"
+      },
+      "artists": [
+        {
+          "name": "Petit Desk",
+          "url": "https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "\u0e04\u0e07\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d - Wish",
+      "url": "https://open.spotify.com/track/4kLTDvd3JDQG1wvAd2P7uJ"
     },
     {
       "album": {
@@ -932,7 +950,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 296470,
       "name": "\u0e22\u0e31\u0e07\u0e04\u0e07\u0e2d\u0e22\u0e39\u0e48 (Stay)",
       "url": "https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18"
@@ -1102,10 +1120,28 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 312000,
       "name": "\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27 (Winter wind)",
       "url": "https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/0setFdD9Lf4YhuS3EogbAp"
+      },
+      "artists": [
+        {
+          "name": "52Hz.",
+          "url": "https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269268,
+      "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/0KH1V9wxZyUBfnfvGehLRf"
     },
     {
       "album": {
@@ -1361,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e08\u0e35\u0e22\u0e19\u0e15\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r"
+      },
+      "artists": [
+        {
+          "name": "WORRX",
+          "url": "https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e08\u0e35\u0e22\u0e19\u0e15\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (about you)",
         "url": "https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO"
       },
@@ -1390,7 +1444,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 223548,
       "name": "\u0e40\u0e18\u0e2d\u0e21\u0e2d\u0e07\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8"
@@ -1434,6 +1488,24 @@
       "duration_ms": 284683,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32 (TLINLA)",
       "url": "https://open.spotify.com/track/3qzJc8mkixrse59KqX4t8X"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01",
+        "url": "https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok"
+      },
+      "artists": [
+        {
+          "name": "VELIKA",
+          "url": "https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241241,
+      "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01",
+      "url": "https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX"
     },
     {
       "album": {
@@ -1560,7 +1632,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 217000,
       "name": "\u0e41\u0e04\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/2IhoaEJzMnfMWJaGAVVKNN"

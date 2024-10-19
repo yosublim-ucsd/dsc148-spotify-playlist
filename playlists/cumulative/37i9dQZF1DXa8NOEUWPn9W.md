@@ -2,9 +2,9 @@
 
 ### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
 
-> House music lives here\. United under one roof, featuring Anti Up
+> House music lives here\. United under one roof, featuring The Blessed Madonna
 
-997 songs - 2 day 10 hr 55 min
+998 songs - 2 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-20 | 2022-08-24 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-08-28 | 2022-08-06 |
 | [Closer](https://open.spotify.com/track/5dg4F4PPKLe3rFyCDkpYrP) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Cuttin' Headz Presents Boogeyman](https://open.spotify.com/album/642K5TlR4vGkCmqoH7Q9qh) | 6:33 | 2021-03-27\* | 2021-05-03 |
+| [Closer \(feat\. Bantu\)](https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Closer \(feat\. Bantu\)](https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl) | 3:01 | 2024-10-18 |  |
 | [Closer \- Edit](https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Closer](https://open.spotify.com/album/6XVwl4AeJhcFWOLlZiKsgO) | 2:56 | 2021-05-03 | 2022-08-17 |
 | [Code Switching](https://open.spotify.com/track/7I0rKU0b0QDggNRd6JnJQ0) | [MJSB](https://open.spotify.com/artist/1KlsbLfbYrohtEiTc7eyJB) | [Eight Zero \#35](https://open.spotify.com/album/3QB5ygLej0YCPpIuPIpyj6) | 3:15 | 2021-03-27\* | 2021-04-10 |
 | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/track/23Hpu8KpFzy6NpycYnvk9L) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jack Hawitt](https://open.spotify.com/artist/0AikfZHjypmTXKZnPUq5ER) | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/album/39txCRq92K0VTohkvuqYaE) | 2:26 | 2021-11-20 | 2022-06-11 |
@@ -569,7 +570,7 @@
 | [Love You Like That](https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Love You Like That](https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT) | 2:55 | 2021-09-18 | 2023-03-11 |
 | [Loving Touch \- Edit](https://open.spotify.com/track/66gN2X2yIMR51Y2jRkJROa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Loving Touch](https://open.spotify.com/album/4J0OAAqZ8k8B20tXlpidtg) | 3:00 | 2021-03-27\* | 2021-04-24 |
 | [Low Rider \- Kyle Watson Remix](https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Low Rider \(Kyle Watson Remix\)](https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji) | 3:20 | 2023-12-22 |  |
-| [Mad Motion](https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Mad Motion](https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ) | 2:40 | 2024-10-04 |  |
+| [Mad Motion](https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Mad Motion](https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ) | 2:40 | 2024-10-04 | 2024-10-19 |
 | [Made Of Gold](https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Made Of Gold](https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7) | 3:18 | 2023-06-02 | 2023-07-29 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-03-10 | 2023-09-09 |
 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 | 2023-12-22 |  |

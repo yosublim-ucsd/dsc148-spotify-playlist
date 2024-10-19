@@ -1,29 +1,13 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Chris Lebron",
-  "num_followers": 251127,
+  "num_followers": 251223,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAACgryCypJK3om6b2s6LR7zA",
+  "snapshot_id": "ZxHdQAAAAAD1+zYl694bY6NjXIHDJfIV",
   "tracks": [
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Amor de los 90's",
-        "url": "https://open.spotify.com/album/4q9WpPI5pw7MjvWgUO4FiN"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Amor de los 90's",
-      "url": "https://open.spotify.com/track/69iXmXJI08cCADmFMwICJe"
-    },
     {
       "added_at": "2024-08-22 02:20:11",
       "album": {
@@ -165,6 +149,22 @@
       "url": "https://open.spotify.com/track/5kb7bhdlmW3vUyam3K8fq9"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Amor de los 90's",
+        "url": "https://open.spotify.com/album/4q9WpPI5pw7MjvWgUO4FiN"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Amor de los 90's",
+      "url": "https://open.spotify.com/track/69iXmXJI08cCADmFMwICJe"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Back To Back",
@@ -183,22 +183,6 @@
       "duration_ms": 139742,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -251,26 +235,6 @@
       "duration_ms": 152809,
       "name": "Everything Real",
       "url": "https://open.spotify.com/track/6srOStXJDpSxGuUOOX3rIH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Los Panty",
-        "url": "https://open.spotify.com/album/76Mw39u0SHDJfqeZGCF6my"
-      },
-      "artists": [
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 143006,
-      "name": "Los Panty",
-      "url": "https://open.spotify.com/track/6BtCX8GXh8R1t8KAhJZq7l"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -369,26 +333,6 @@
       "url": "https://open.spotify.com/track/13vQIxgRLrmeDul0hyaht2"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Elvira & Tony",
-        "url": "https://open.spotify.com/album/2XO4KRYXIJSLQ6AsxzSP6o"
-      },
-      "artists": [
-        {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Elvira & Tony",
-      "url": "https://open.spotify.com/track/6JuYPGtQHFfC1Xbuu1PyY2"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Divino",
@@ -449,6 +393,34 @@
       "url": "https://open.spotify.com/track/69wEnnpT4Ssaul69aVeHAO"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "La Que Ta",
+        "url": "https://open.spotify.com/album/5r7fqnxwJMkW2nxWgwp0WS"
+      },
+      "artists": [
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "LR Ley Del Rap",
+          "url": "https://open.spotify.com/artist/1BGuR3iGBElBk31U0taE65"
+        },
+        {
+          "name": "212MUSIC",
+          "url": "https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq"
+        }
+      ],
+      "duration_ms": 169032,
+      "name": "La Que Ta",
+      "url": "https://open.spotify.com/track/4CE2ICIZmrUcksS8hpDxPh"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Fantasia",
@@ -463,42 +435,6 @@
       "duration_ms": 141333,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/5zJZSmPznxBr29aTIUgiMg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "La Ventana",
-        "url": "https://open.spotify.com/album/7eot07u17N7ynaOm8vykFf"
-      },
-      "artists": [
-        {
-          "name": "Chocoleyrol",
-          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "La Ventana",
-      "url": "https://open.spotify.com/track/68Z8v0o7KetYtFLV80h0oG"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Frisa",
-        "url": "https://open.spotify.com/album/0Q8Kx0AJVr8RHcCA3qno5V"
-      },
-      "artists": [
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "Frisa",
-      "url": "https://open.spotify.com/track/2GcKvB2UdscaL8q5QHgEwu"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -605,6 +541,30 @@
       "url": "https://open.spotify.com/track/3vDpT45rMxGPj6VBzEPthM"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Ganteria",
+        "url": "https://open.spotify.com/album/6xp9PByXJ4wFzpVTnxuoYF"
+      },
+      "artists": [
+        {
+          "name": "Yeo Freko",
+          "url": "https://open.spotify.com/artist/0soTJyiaS2s59lFcpozwOj"
+        },
+        {
+          "name": "Menor Bronx",
+          "url": "https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Ganteria",
+      "url": "https://open.spotify.com/track/0l704LmWPxwbAhpLO4AxuJ"
+    },
+    {
       "added_at": "2024-02-23 07:01:51",
       "album": {
         "name": "Si Tu Quieres",
@@ -671,6 +631,34 @@
       "duration_ms": 146526,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Messi (Remix)",
+        "url": "https://open.spotify.com/album/2YOxmVZG3Gh1qQC15E2QIT"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "Messi - Remix",
+      "url": "https://open.spotify.com/track/0RhskHoXyy7pebvsFU1cTH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -757,6 +745,22 @@
       "url": "https://open.spotify.com/track/1QfaqtKtkyO2tKVqEyiyCq"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Efeto Mariposa",
+        "url": "https://open.spotify.com/album/0JKI0rnATvADR50Sb6mGLp"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "duration_ms": 141258,
+      "name": "Efeto Mariposa",
+      "url": "https://open.spotify.com/track/5hwWmVbqOKiN5CI0qXIEgD"
+    },
+    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "3730",
@@ -837,6 +841,26 @@
       "url": "https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Amenaza",
+        "url": "https://open.spotify.com/album/4r8dUZ5JQv9dtU2yt8nM83"
+      },
+      "artists": [
+        {
+          "name": "Mvp la Vuelta",
+          "url": "https://open.spotify.com/artist/3lDF8RmGtBhJaJS5eWCbeR"
+        },
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Amenaza",
+      "url": "https://open.spotify.com/track/5741EkmrvuPnlB6OassJ9u"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Juda",
@@ -883,26 +907,6 @@
     {
       "added_at": "2023-07-18 04:00:00",
       "album": {
-        "name": "Sabiduria",
-        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 173389,
-      "name": "Gogo Dance",
-      "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
         "name": "Me la Subi\u00f3",
         "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
       },
@@ -923,6 +927,26 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/2npgzxegU41bvW9FHbLnXg"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Marcel Audio",
+          "url": "https://open.spotify.com/artist/0jaSO7IGsBCqVeJ6cwGgEE"
+        }
+      ],
+      "duration_ms": 168912,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/4wSQhQIY7Ot9siowpPPgNZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1015,6 +1039,22 @@
       "duration_ms": 180048,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Ya Toy Cansao",
+        "url": "https://open.spotify.com/album/7gIzA6BMZX6P1d5XKmQNXh"
+      },
+      "artists": [
+        {
+          "name": "EL Blanquito la Leche",
+          "url": "https://open.spotify.com/artist/3p40Qd37Jk26hmjWnvd784"
+        }
+      ],
+      "duration_ms": 170085,
+      "name": "Ya Toy Cansao",
+      "url": "https://open.spotify.com/track/5d4vFdKtCpbWwnOJrecxrC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1143,26 +1183,6 @@
       "duration_ms": 253124,
       "name": "TU NO ENTIENDE",
       "url": "https://open.spotify.com/track/4OOwxGbZguIXiuRyfoPfc4"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3PuIQkvinAggzwLS7ohPRj"
-      },
-      "artists": [
-        {
-          "name": "Wander Love",
-          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
-        },
-        {
-          "name": "JS Producer",
-          "url": "https://open.spotify.com/artist/1Jyk0zGpdh3stAI82cSd2r"
-        }
-      ],
-      "duration_ms": 117551,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4jFTpaxeDkwR9Kj0Rw0rgP"
     }
   ],
   "unique_name": "Flow Dominicano",

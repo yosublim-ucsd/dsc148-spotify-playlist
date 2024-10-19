@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-886 songs - 2 day 4 hr 52 min
+887 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 | 2024-08-29 |
 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 | 2024-04-23 | 2024-05-19 |
 | [BLESS](https://open.spotify.com/track/1n7KmMGSUJPpNrywGB2XK2) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [BLESS](https://open.spotify.com/album/1xdhzuA7RZyNauCUu5dIN9) | 2:21 | 2023-11-07 | 2024-01-17 |
-| [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 | 2024-10-02 |  |
+| [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 | 2024-10-02 | 2024-10-19 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-10-20 | 2024-03-04 |
 | [BOLD \(feat\. reina\)](https://open.spotify.com/track/3GJszdk6pDqqHN1XZJla8Z) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/014D3rCQX8K9Hqqj9dYEl6) | 2:23 | 2023-05-30 | 2023-06-09 |
 | [BOLD \- feat\. reina](https://open.spotify.com/track/0ysitHytpmV4P83IKMxxdF) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BOLD \(feat\. reina\)](https://open.spotify.com/album/1usd1sCOenjgbcgpbyHwpG) | 2:23 | 2023-05-30 | 2023-06-01 |
@@ -408,6 +408,7 @@
 | [Mayonaka no Door\~Stay with Me \- 2023 Mix](https://open.spotify.com/track/3cSIP8SktGigy9EUL3QAAe) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 Mix\)](https://open.spotify.com/album/6ZogsaUTY6mwjzg0503GvU) | 5:10 | 2023-06-20 | 2023-08-16 |
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-02-22 |
 | [Me Today](https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Me Today](https://open.spotify.com/album/2v2LNb7ZDI1jVJc90P1NvQ) | 2:30 | 2022-11-29 | 2022-12-16 |
+| [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 | 2024-10-16 |  |
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-05-31 |
 | [metro](https://open.spotify.com/track/3M9HbRpiukEESGhSl4ZS2x) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [liquid city](https://open.spotify.com/album/3Bg6Aso9MrVgtHiih6pclv) | 3:41 | 2024-09-11 | 2024-09-19 |
 | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-18 | 2024-03-29 |

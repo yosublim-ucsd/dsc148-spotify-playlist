@@ -1,13 +1,29 @@
 {
   "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: UZUM3 x Robin \u00c7izim: Isu Kim",
-  "num_followers": 35014,
+  "num_followers": 35023,
   "original_name": "Fresh Finds T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw7X0AAAAABuWwy3tRbvhD0A9lGXlrtr",
+  "snapshot_id": "ZxLMUAAAAACXUlwEYkx/o9NbP6e3JNMw",
   "tracks": [
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Mezar\u0131mda Parti Var",
+        "url": "https://open.spotify.com/album/0hyvNlghrFHVQnSNgUoFfc"
+      },
+      "artists": [
+        {
+          "name": "Hav Hav!",
+          "url": "https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hi\u00e7 Ses Yok",
+      "url": "https://open.spotify.com/track/5ZOsnM6lgiYid0vUMbWFMm"
+    },
     {
       "added_at": "2024-10-15 21:00:00",
       "album": {
@@ -29,6 +45,42 @@
       "url": "https://open.spotify.com/track/2AH4wA6A27W023FgrsKofY"
     },
     {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Yine de Beklerim",
+        "url": "https://open.spotify.com/album/7vTfol8UQE16NczIuGzapP"
+      },
+      "artists": [
+        {
+          "name": "mojave",
+          "url": "https://open.spotify.com/artist/0n5xSieOLh8rvV2SxiZE6p"
+        }
+      ],
+      "duration_ms": 193088,
+      "name": "Yine de Beklerim",
+      "url": "https://open.spotify.com/track/7C06vxEw8X6ffD0dsQ5ZX9"
+    },
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Bo\u015fluktan \u0130yi",
+        "url": "https://open.spotify.com/album/6r00OTbw94SRhZvLQKA7iT"
+      },
+      "artists": [
+        {
+          "name": "Ay\u015fe K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/0xMvvrzMGrjcKcpzyVhcHj"
+        },
+        {
+          "name": "Suat Arma\u011fan Ko\u00e7ak",
+          "url": "https://open.spotify.com/artist/1UWdmgWFTEFmVuvPfnbFgZ"
+        }
+      ],
+      "duration_ms": 133800,
+      "name": "Bo\u015fluktan \u0130yi",
+      "url": "https://open.spotify.com/track/2FnrbhhTC0vLIqPENW75HW"
+    },
+    {
       "added_at": "2024-10-15 21:00:00",
       "album": {
         "name": "Herkes Yok",
@@ -43,6 +95,22 @@
       "duration_ms": 197102,
       "name": "Herkes Yok",
       "url": "https://open.spotify.com/track/5DJlAQ9deIMhti19ZGrKyF"
+    },
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "SORDU\u011eU KADAR",
+        "url": "https://open.spotify.com/album/0dAKCAwONzVxKCuxqPYNgF"
+      },
+      "artists": [
+        {
+          "name": "B\u00eedar",
+          "url": "https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "SORDU\u011eU KADAR",
+      "url": "https://open.spotify.com/track/5iWII4xRXqnUwwsQdzBZ5A"
     },
     {
       "added_at": "2024-10-15 21:00:00",
@@ -63,22 +131,6 @@
     {
       "added_at": "2024-10-15 21:00:00",
       "album": {
-        "name": "S\u00f6yle",
-        "url": "https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S"
-      },
-      "artists": [
-        {
-          "name": "Umur Doma",
-          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
-        }
-      ],
-      "duration_ms": 152699,
-      "name": "S\u00f6yle",
-      "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
         "name": "Darmada\u011f\u0131n",
         "url": "https://open.spotify.com/album/7cEa03nbP6BS052HD2RiIJ"
       },
@@ -93,20 +145,52 @@
       "url": "https://open.spotify.com/track/4YgB3kORlmnbttL9D0eVDE"
     },
     {
-      "added_at": "2024-10-15 21:00:00",
+      "added_at": "2024-10-18 21:00:00",
       "album": {
-        "name": "N'olur Gelsen",
-        "url": "https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr"
+        "name": "Bakmadan Geriye",
+        "url": "https://open.spotify.com/album/2O2U5cBSfnuHwm17NhOHbT"
       },
       "artists": [
         {
-          "name": "\u00fc\u00e7kuru\u015f",
-          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+          "name": "burak",
+          "url": "https://open.spotify.com/artist/2SzwJY5oit9qle3c52A2jQ"
         }
       ],
-      "duration_ms": 168133,
-      "name": "N'olur Gelsen",
-      "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"
+      "duration_ms": 276923,
+      "name": "Bakmadan Geriye",
+      "url": "https://open.spotify.com/track/36Ca2HN3q2zI6BRIZFX5an"
+    },
+    {
+      "added_at": "2024-10-15 21:00:00",
+      "album": {
+        "name": "S\u00f6yle",
+        "url": "https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S"
+      },
+      "artists": [
+        {
+          "name": "Umur Doma",
+          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
+        }
+      ],
+      "duration_ms": 152699,
+      "name": "S\u00f6yle",
+      "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
+    },
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Sar\u0131 B\u00fclb\u00fcl",
+        "url": "https://open.spotify.com/album/0AZlNc6VDPvz9hvhSI6DSf"
+      },
+      "artists": [
+        {
+          "name": "\u0130brahim Sar\u0131p\u0131nar",
+          "url": "https://open.spotify.com/artist/36XOzpht2ZU5nXC77HodnG"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "Sar\u0131 B\u00fclb\u00fcl",
+      "url": "https://open.spotify.com/track/1MDkKptboJuRViCpa0BGT0"
     },
     {
       "added_at": "2024-10-15 21:00:00",
@@ -123,6 +207,118 @@
       "duration_ms": 222854,
       "name": "dans ettim",
       "url": "https://open.spotify.com/track/0Z9kzPWEbQ7GsN20IDqTTt"
+    },
+    {
+      "added_at": "2024-10-15 21:00:00",
+      "album": {
+        "name": "I Don\u2019t Want To!",
+        "url": "https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "duration_ms": 179565,
+      "name": "I Don\u2019t Want To!",
+      "url": "https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh"
+    },
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Tekinsiz",
+        "url": "https://open.spotify.com/album/522qB3COlzJzTsMBBKAKkI"
+      },
+      "artists": [
+        {
+          "name": "Beliz",
+          "url": "https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4"
+        }
+      ],
+      "duration_ms": 161878,
+      "name": "Tekinsiz",
+      "url": "https://open.spotify.com/track/0Potnsl8fKIcc3lGzO38mb"
+    },
+    {
+      "added_at": "2024-10-15 21:00:00",
+      "album": {
+        "name": "Uzak Kald\u0131m",
+        "url": "https://open.spotify.com/album/5sNWUuiXXkpZTHwvNsdfey"
+      },
+      "artists": [
+        {
+          "name": "Nab\u0131caz",
+          "url": "https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu"
+        }
+      ],
+      "duration_ms": 252250,
+      "name": "Uzak Kald\u0131m",
+      "url": "https://open.spotify.com/track/6NTxZ9yGYefrW3INUO5pTy"
+    },
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Sar En Ba\u015fa",
+        "url": "https://open.spotify.com/album/5c9Qk3mLF9MrPlronNdpoU"
+      },
+      "artists": [
+        {
+          "name": "Diren",
+          "url": "https://open.spotify.com/artist/7zCFMlfpU3vPfVOmOSARF1"
+        }
+      ],
+      "duration_ms": 131863,
+      "name": "Sar En Ba\u015fa",
+      "url": "https://open.spotify.com/track/4MWAkgqfu3yNHKEdilFHBM"
+    },
+    {
+      "added_at": "2024-10-15 21:00:00",
+      "album": {
+        "name": "Kayboldum",
+        "url": "https://open.spotify.com/album/1TXdBtCIGWc4Y2hxTq2lBr"
+      },
+      "artists": [
+        {
+          "name": "Lavta",
+          "url": "https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Kayboldum",
+      "url": "https://open.spotify.com/track/6MUFIWyt6sV2k4hbFzh858"
+    },
+    {
+      "added_at": "2024-10-18 21:00:00",
+      "album": {
+        "name": "Inhala Exhala",
+        "url": "https://open.spotify.com/album/3FFj2B9mBVfFiy61YHNDOt"
+      },
+      "artists": [
+        {
+          "name": "Rana Bulut",
+          "url": "https://open.spotify.com/artist/1sZiydt08TP2uEpj4NF6tc"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Inhala Exhala",
+      "url": "https://open.spotify.com/track/4bgALhfkXo7eXkPUMCmg1D"
+    },
+    {
+      "added_at": "2024-10-15 21:00:00",
+      "album": {
+        "name": "N'olur Gelsen",
+        "url": "https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "N'olur Gelsen",
+      "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"
     },
     {
       "added_at": "2024-10-15 21:00:00",
@@ -159,38 +355,6 @@
     {
       "added_at": "2024-10-15 21:00:00",
       "album": {
-        "name": "Uzak Kald\u0131m",
-        "url": "https://open.spotify.com/album/5sNWUuiXXkpZTHwvNsdfey"
-      },
-      "artists": [
-        {
-          "name": "Nab\u0131caz",
-          "url": "https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu"
-        }
-      ],
-      "duration_ms": 252250,
-      "name": "Uzak Kald\u0131m",
-      "url": "https://open.spotify.com/track/6NTxZ9yGYefrW3INUO5pTy"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "I Don\u2019t Want To!",
-        "url": "https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1"
-      },
-      "artists": [
-        {
-          "name": "Min Taka",
-          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
-        }
-      ],
-      "duration_ms": 179565,
-      "name": "I Don\u2019t Want To!",
-      "url": "https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
         "name": "I\u015f\u0131\u011f\u0131ms\u0131",
         "url": "https://open.spotify.com/album/6aNMJeyjkM6SutjSmvn0f8"
       },
@@ -203,22 +367,6 @@
       "duration_ms": 308565,
       "name": "I\u015f\u0131\u011f\u0131ms\u0131",
       "url": "https://open.spotify.com/track/5FOOhi9CjAbunSRSGGZHCy"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "Kayboldum",
-        "url": "https://open.spotify.com/album/1TXdBtCIGWc4Y2hxTq2lBr"
-      },
-      "artists": [
-        {
-          "name": "Lavta",
-          "url": "https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "Kayboldum",
-      "url": "https://open.spotify.com/track/6MUFIWyt6sV2k4hbFzh858"
     },
     {
       "added_at": "2024-10-15 21:00:00",
@@ -599,22 +747,6 @@
     {
       "added_at": "2024-10-15 21:00:00",
       "album": {
-        "name": "Eskisi Gibi",
-        "url": "https://open.spotify.com/album/17YwuSy0hzXMuY8EVFHAVC"
-      },
-      "artists": [
-        {
-          "name": "Eda Suluki",
-          "url": "https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Eskisi Gibi",
-      "url": "https://open.spotify.com/track/4DTQFLT2ixv9GPCXxgEeKh"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
         "name": "Y\u0131ld\u0131zlar\u0131 Kand\u0131r",
         "url": "https://open.spotify.com/album/1vQFKCvo8uJcvq4led9Qgs"
       },
@@ -643,22 +775,6 @@
       "duration_ms": 223875,
       "name": "Bi Yan Yana Olsak",
       "url": "https://open.spotify.com/track/7wKyMpsIw0crueELBYdXuS"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "\u0130smet",
-        "url": "https://open.spotify.com/album/2QQMV2IDwETIKrW786waTn"
-      },
-      "artists": [
-        {
-          "name": "Yasak Helva",
-          "url": "https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw"
-        }
-      ],
-      "duration_ms": 307302,
-      "name": "\u0130smet",
-      "url": "https://open.spotify.com/track/2AR2bijc8fdsT69kAXZbeJ"
     },
     {
       "added_at": "2024-10-15 21:00:00",
@@ -711,102 +827,6 @@
       "duration_ms": 175000,
       "name": "Kafay\u0131 Takt\u0131m",
       "url": "https://open.spotify.com/track/6AA4LouJTYgrEKY6tMqczz"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "\u015ealter",
-        "url": "https://open.spotify.com/album/21j4DvxDOKZ6f4Kn94uZlk"
-      },
-      "artists": [
-        {
-          "name": "Fanzin",
-          "url": "https://open.spotify.com/artist/68wccbfAPwZHa9mmPeQcax"
-        }
-      ],
-      "duration_ms": 221772,
-      "name": "\u015ealter",
-      "url": "https://open.spotify.com/track/7xthRmT4kiI6mtrwTzUWTL"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "bunun bi sonu yok",
-        "url": "https://open.spotify.com/album/7KtTpYPew4socz3Zizr2Fl"
-      },
-      "artists": [
-        {
-          "name": "Semih",
-          "url": "https://open.spotify.com/artist/4mbb3kbqBFIpILVt8SW6gM"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "bunun bi sonu yok",
-      "url": "https://open.spotify.com/track/0v3B76dpNvGUWXXyS8t1Mf"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "G\u00fczel Bebe\u011fim",
-        "url": "https://open.spotify.com/album/4Os7AWCCRZflYBKZ8lR3MN"
-      },
-      "artists": [
-        {
-          "name": "Cavlas",
-          "url": "https://open.spotify.com/artist/0ZZtPjnzPZQ07whvWAIMo6"
-        }
-      ],
-      "duration_ms": 169079,
-      "name": "G\u00fczel Bebe\u011fim",
-      "url": "https://open.spotify.com/track/2MOjqU9mUIqArD4hrUdAbO"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "Can\u0131m Karde\u015fim",
-        "url": "https://open.spotify.com/album/4f0ET6uVNT9jAHjPud161w"
-      },
-      "artists": [
-        {
-          "name": "F.\u00d6.K.",
-          "url": "https://open.spotify.com/artist/4m90JSy0Q2tWjT51OUZnsW"
-        }
-      ],
-      "duration_ms": 273964,
-      "name": "Can\u0131m Karde\u015fim",
-      "url": "https://open.spotify.com/track/3HBsPRmuX5jF0vE6YE5A8E"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "Ka\u011f\u0131ttan Gemiler",
-        "url": "https://open.spotify.com/album/7eeJ2HTykKJ6XdK25sqFIw"
-      },
-      "artists": [
-        {
-          "name": "Cem G\u00f6rg\u00fcl",
-          "url": "https://open.spotify.com/artist/7xEbnHJxctxRqS9CDdm5Sr"
-        }
-      ],
-      "duration_ms": 227727,
-      "name": "Ka\u011f\u0131ttan Gemiler",
-      "url": "https://open.spotify.com/track/1Bnh2tYR93ndmqz3NkIrQe"
-    },
-    {
-      "added_at": "2024-10-15 21:00:00",
-      "album": {
-        "name": "K\u0131rlang\u0131\u00e7lar",
-        "url": "https://open.spotify.com/album/2LRE9hOLeDEXCANxVOFiQZ"
-      },
-      "artists": [
-        {
-          "name": "Tun\u00e7 \u00d6ndemir",
-          "url": "https://open.spotify.com/artist/3G6RFB8iwDAMWOV9iAZ6HC"
-        }
-      ],
-      "duration_ms": 250212,
-      "name": "K\u0131rlang\u0131\u00e7lar",
-      "url": "https://open.spotify.com/track/2hJZLWkm3tZfq6U9kF57qt"
     }
   ],
   "unique_name": "Fresh Finds T\u00fcrkiye",

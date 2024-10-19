@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Contigo Me Gusta",
+        "url": "https://open.spotify.com/album/4GdKJYanzi1SUXgGZxOULs"
+      },
+      "artists": [
+        {
+          "name": "Mak Donal",
+          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131192,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/3mxpUjy8KSwr3vytfwQUze"
+    },
+    {
+      "album": {
         "name": "Corazon Destrozado",
         "url": "https://open.spotify.com/album/2AMO6dgHku2uoJ5HNRRppr"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188133,
       "name": "Hoy Te Vas",
       "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 204659,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
@@ -5610,6 +5628,24 @@
       "duration_ms": 172806,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj"
+    },
+    {
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226882,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
     },
     {
       "album": {

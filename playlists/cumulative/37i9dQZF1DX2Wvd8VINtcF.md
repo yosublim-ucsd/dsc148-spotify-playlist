@@ -4,7 +4,7 @@
 
 > pearls of an oyster\. Cover: Yaeger
 
-1,517 songs - 3 day 10 hr 52 min
+1,518 songs - 3 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,6 +1091,7 @@
 | [Rivers of Another Town](https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Sugar World](https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx) | 4:47 | 2023-02-03 | 2023-05-12 |
 | [Robin](https://open.spotify.com/track/0AoNprXRrwrxCE5p08VjPS) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Life In Miniature](https://open.spotify.com/album/3Lzbh9eqbBl8SlbEAI8T9N) | 4:29 | 2022-11-03 | 2022-11-11 |
 | [Robin](https://open.spotify.com/track/7e2mC2KBL71WFrYPjImfdg) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Robin](https://open.spotify.com/album/2lDNtMxXaaK6jic2zav1xd) | 4:29 | 2022-10-28 | 2022-11-09 |
+| [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 | 2024-10-18 |  |
 | [Romance ESL](https://open.spotify.com/track/4E1iJ5IyJArrHi90JByHXV) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Romance ESL / The Heavy Loop](https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB) | 3:16 | 2024-08-01 | 2024-08-23 |
 | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy) | 3:09 | 2024-03-07 | 2024-06-21 |
 | [Rose Thorn](https://open.spotify.com/track/0rWC4m3Qd77v5vzkz9cAeN) | [Quartermaster](https://open.spotify.com/artist/1MUakDk1Xh3bfow45GJR1o), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Rose Thorn](https://open.spotify.com/album/4k9kPwq3deQGYBScAmQ8xX) | 3:10 | 2023-06-22 | 2023-07-21 |

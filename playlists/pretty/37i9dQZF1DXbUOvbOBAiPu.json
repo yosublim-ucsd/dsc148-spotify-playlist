@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Mustii",
-  "num_followers": 36209,
+  "num_followers": 36240,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
       "duration_ms": 236394,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -700,8 +720,8 @@
       },
       "artists": [
         {
-          "name": "Mc Menor JP",
-          "url": "https://open.spotify.com/artist/6cP3LCsIiLJF1R5qcdmiGT"
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
         },
         {
           "name": "RAMONMIX",

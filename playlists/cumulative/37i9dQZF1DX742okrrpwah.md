@@ -4,7 +4,7 @@
 
 > Hoshi au top des nouveautés de la semaine !
 
-2,163 songs - 4 day 17 hr 31 min
+2,165 songs - 4 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-05-30 | 2024-06-07 |
 | [Appétit](https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Appétit](https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52) | 2:53 | 2024-05-09 | 2024-05-17 |
 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 | 2024-09-19 | 2024-09-27 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-13 | 2024-06-21 |
 | [Arachnophobia](https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Arachnophobia](https://open.spotify.com/album/3QATSYk5TsPkoEJKvZIM7P) | 4:29 | 2024-09-05 | 2024-09-13 |
 | [Arizona](https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Arizona](https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU) | 3:24 | 2024-08-29 | 2024-09-06 |
@@ -716,7 +717,6 @@
 | [Gasolina](https://open.spotify.com/track/4vyYcSQaNVFcKVpQIFGhhS) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Caviar I](https://open.spotify.com/album/31Ok9rXTNEPcdt1SsbQgLh) | 2:21 | 2024-06-13 | 2024-06-21 |
 | [GATITAS SANDUNGUERAS VOL.1](https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:11 | 2024-05-16 | 2024-05-24 |
 | [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 | 2024-06-13 | 2024-06-21 |
-| [GBP](https://open.spotify.com/track/08kNZKaG17RXJOOhKeYV92) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DLPDA \(Extended Version\)](https://open.spotify.com/album/2d3o7nhTLYqHdrbPIErYQV) | 1:43 | 2024-10-17 |  |
 | [Gear](https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gear](https://open.spotify.com/album/5FcfOy05bLckasiQQHpR1X) | 2:38 | 2024-08-08 | 2024-08-16 |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-06 | 2024-06-14 |
 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-08 | 2024-08-16 |
@@ -750,6 +750,7 @@
 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 | 2024-10-03 | 2024-10-11 |
 | [Goulou](https://open.spotify.com/track/0L7t5bA43YanpIyMjjMeQS) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Goulou](https://open.spotify.com/album/0ZyzmSgDjs05NNCSWCWZAB) | 2:04 | 2024-08-15 | 2024-08-23 |
 | [Goutte d'eau](https://open.spotify.com/track/4Pfgf9GtQrM2428BTW8S3L) | [Céphaz](https://open.spotify.com/artist/4b97ZILz3BoTV7ACzCdOjJ) | [D'où je viens](https://open.spotify.com/album/3wdFp7TmiiUkKllqUl1pUd) | 2:44 | 2024-04-26 | 2024-05-03 |
+| [GPB](https://open.spotify.com/track/08kNZKaG17RXJOOhKeYV92) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DLPDA \(Extended Version\)](https://open.spotify.com/album/2d3o7nhTLYqHdrbPIErYQV) | 1:43 | 2024-10-17 |  |
 | [grandiose \- Japanese Version](https://open.spotify.com/track/3CcKmNXMX61R6ABNgyCBhP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [grandiose \(Japanese Version\)](https://open.spotify.com/album/441LIDd0vhusODlyByR3zP) | 3:37 | 2024-08-22 | 2024-08-30 |
 | [Grateful](https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [KATYA](https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ) | [Grateful](https://open.spotify.com/album/45i6YYGCB0nGAbv34dAueV) | 2:33 | 2024-07-04 | 2024-07-12 |
 | [Gratte\-ciel](https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Gratte\-ciel](https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia) | 3:12 | 2024-06-27 | 2024-07-05 |
@@ -817,6 +818,7 @@
 | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/track/3Ojk8AKbhBtEW0UrCCbAn7) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/album/7m5Ht2zoyNeDrQgJcOBHPr) | 4:03 | 2024-08-01 | 2024-08-09 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-27 | 2024-07-05 |
 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-01 | 2024-08-09 |
+| [HIM ALL ALONG](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM ALL ALONG](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 | 2024-10-17 |  |
 | [Histoire sans tête](https://open.spotify.com/track/2xpkMwNPBCANArBvZ26Otm) | [Lize](https://open.spotify.com/artist/6Uy3T1fnJbbckI46KebsFG) | [Histoire sans tête](https://open.spotify.com/album/1iCKXUWg3xEVqiHZKz0AqI) | 3:24 | 2024-08-01 | 2024-08-09 |
 | [Hold Me Down \(feat\. Kah\-Lo\)](https://open.spotify.com/track/6PaNqowxXiXwNtbT6Nk6vy) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Hold Me Down \(feat\. Kah\-Lo\)](https://open.spotify.com/album/77kQjc7iSD6oE0K11HWBjv) | 2:47 | 2024-09-26 | 2024-10-04 |
 | [Hole](https://open.spotify.com/track/3PoIPfMHUqAzXm33jdWXXn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Backyard](https://open.spotify.com/album/1MqbbfL6asJCkcHZHUF71Q) | 4:33 | 2024-10-17 |  |

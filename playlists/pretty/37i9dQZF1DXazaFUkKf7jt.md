@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,755 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,763 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 10 | [絶対自由 \-Gray\-](https://open.spotify.com/track/1qT2t6YFDhS5eJWWe2N1sP) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [ロマンシング・サガ \-ミンストレルソング\-\(配信用\)](https://open.spotify.com/album/3TerrfWnTYYZjHjVIpeneg) | 2:59 |
 | 11 | [決戦!サルーイン \-Final Battle with Saruin\-](https://open.spotify.com/track/24fLLv60gmEA26qiarvbbN) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ バトル楽曲集](https://open.spotify.com/album/1SqnXjk6kVPtv83Bg3pYaa) | 6:08 |
 | 12 | [Re:Birth II \-閃\- 必殺の一撃\~死闘の果てに メドレー](https://open.spotify.com/track/688XPw0omGnAlvG9ZL1a8r) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:58 |
-| 13 | [Re:Birth II \-連\- 燃える血潮\~Save the world メドレー](https://open.spotify.com/track/4A5jFjRUU105tAtJ98u3N7) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 5:09 |
+| 13 | [Re:Birth II \-連\- 燃える血潮～Save the world メドレー](https://open.spotify.com/track/4A5jFjRUU105tAtJ98u3N7) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 5:09 |
 | 14 | [神戦](https://open.spotify.com/track/4uAR50I5tjxFI27W3NyAC1) | [笹井 隆司](https://open.spotify.com/artist/1ncrL5eM7MU0xKs9uM7w6o) | [時空の覇者 Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/2dEGn5FB0lWWjHeHUjaKKe) | 1:06 |
 | 15 | [オーバーチュア\~オープニングタイトル](https://open.spotify.com/track/3P38l1qNhCb947jbKTRW28) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga Original Soundtrack](https://open.spotify.com/album/1hQQJ2TlVjoMIfWmkGAM16) | 3:28 |
 | 16 | [Re:Birth Ⅱ \-閃\- 下水道](https://open.spotify.com/track/1IPdmqu9ukYRLcFoOA91D0) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:08 |

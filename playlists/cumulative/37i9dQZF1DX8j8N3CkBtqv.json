@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover - Alif",
+  "description": "Naye Indie gaano ka khazana! Cover - Utsavi Jha",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Adaayein!",
+        "url": "https://open.spotify.com/album/1ul0MF0g4jvymdIccn44dO"
+      },
+      "artists": [
+        {
+          "name": "AMAN",
+          "url": "https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208383,
+      "name": "Adaayein!",
+      "url": "https://open.spotify.com/track/1fGUQex7J5Le7any4zrvuk"
+    },
+    {
+      "album": {
         "name": "Adhoora Na Raha",
         "url": "https://open.spotify.com/album/5jr94ZR5in7f9o1FgrN3M5"
       },
@@ -1377,6 +1395,28 @@
     },
     {
       "album": {
+        "name": "Baadila",
+        "url": "https://open.spotify.com/album/30TAJd44akvJAPvdpIOZJh"
+      },
+      "artists": [
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294521,
+      "name": "Baadila",
+      "url": "https://open.spotify.com/track/4w6ZNbIYK6hGGiZENeZX6M"
+    },
+    {
+      "album": {
         "name": "Baag Bageeche",
         "url": "https://open.spotify.com/album/68GIAZ1IV9pv3NKL9Z6uTI"
       },
@@ -1676,7 +1716,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 138139,
       "name": "Badle Sheher",
       "url": "https://open.spotify.com/track/4ENJihTeZ3AKmpENDgGcXY"
@@ -1998,7 +2038,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 175237,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/3AOGBR7ei0ocpvPlM46ofw"
@@ -2726,7 +2766,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 189600,
       "name": "Birha",
       "url": "https://open.spotify.com/track/15m1kmdQrnlfkwT8N30UmG"
@@ -3544,7 +3584,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 223448,
       "name": "Dhal Jaun",
       "url": "https://open.spotify.com/track/5RMEne2PneLrQebp1oWhJJ"
@@ -4090,6 +4130,24 @@
       "duration_ms": 143513,
       "name": "Din Shagna Da",
       "url": "https://open.spotify.com/track/3LkE4V0lTJuE4MyrXyBEGd"
+    },
+    {
+      "album": {
+        "name": "Diwali",
+        "url": "https://open.spotify.com/album/7rUGfD01wGPegVIi3aOML1"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166656,
+      "name": "Diwali",
+      "url": "https://open.spotify.com/track/4mP3U1F3FFZyfZLXbXQacy"
     },
     {
       "album": {
@@ -4784,7 +4842,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 186163,
       "name": "Ghanan",
       "url": "https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh"
@@ -5592,7 +5650,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 204720,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/4pTzZRo3JVA61E4ZoMYCbC"
@@ -7097,6 +7155,28 @@
     },
     {
       "album": {
+        "name": "Kaali Raatein",
+        "url": "https://open.spotify.com/album/1OsO0vm3Iks4b1qtd0Uyhv"
+      },
+      "artists": [
+        {
+          "name": "Yohan Marshall",
+          "url": "https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD"
+        },
+        {
+          "name": "Alyssa Mendonsa",
+          "url": "https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "Kaali Raatein",
+      "url": "https://open.spotify.com/track/6OpsDJz4dHl1gVmtawxkRY"
+    },
+    {
+      "album": {
         "name": "Kaash",
         "url": "https://open.spotify.com/album/6B66bHV1ibylL8HpXxjdJJ"
       },
@@ -7528,6 +7608,46 @@
       "duration_ms": 172087,
       "name": "Kaise Kaise",
       "url": "https://open.spotify.com/track/7F1aZ5Nx8wR3sSamjEDVDD"
+    },
+    {
+      "album": {
+        "name": "Kaise Keh Dein",
+        "url": "https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249856,
+      "name": "Kaise Keh Dein",
+      "url": "https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA"
+    },
+    {
+      "album": {
+        "name": "Khata",
+        "url": "https://open.spotify.com/album/1pHAfN6vsvwG63NVNMffpI"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227114,
+      "name": "Kaisi Hoon Poocho Na",
+      "url": "https://open.spotify.com/track/6bO9Ox1GhoezvI4zDgqMgP"
     },
     {
       "album": {
@@ -8628,6 +8748,28 @@
       "duration_ms": 216103,
       "name": "Kismet",
       "url": "https://open.spotify.com/track/5uuN0Br13jpilHaV6OTzpK"
+    },
+    {
+      "album": {
+        "name": "Kiya Dhara",
+        "url": "https://open.spotify.com/album/5LNmi8aUJQXt0IOMFcjIae"
+      },
+      "artists": [
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Aditya Kalway",
+          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122264,
+      "name": "Kiya Dhara",
+      "url": "https://open.spotify.com/track/7LOQN5ZIcfVbLGN1z9UJqa"
     },
     {
       "album": {
@@ -9766,6 +9908,24 @@
     {
       "album": {
         "name": "Malang",
+        "url": "https://open.spotify.com/album/7rb0aUq9ED95dniTqHVYzF"
+      },
+      "artists": [
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170831,
+      "name": "Malang",
+      "url": "https://open.spotify.com/track/0csUyNWF4sYrW5mSiFgJb7"
+    },
+    {
+      "album": {
+        "name": "Malang",
         "url": "https://open.spotify.com/album/2s42RPl40RVvukmXmS2F15"
       },
       "artists": [
@@ -10162,7 +10322,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181124,
       "name": "MEHFOOZ",
       "url": "https://open.spotify.com/track/5rfOUeUYRc7VHnbFgczTQI"
@@ -10462,7 +10622,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 185680,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/5PHcGIQUchpB8wcNtdNtuP"
@@ -11092,6 +11252,28 @@
       "duration_ms": 213658,
       "name": "Nai Khena",
       "url": "https://open.spotify.com/track/58lItK88uURFIlIbFQRmu5"
+    },
+    {
+      "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/3EfPWhfVtKhdAJ0gzfntcV"
+      },
+      "artists": [
+        {
+          "name": "Akansha Tripathi",
+          "url": "https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni"
+        },
+        {
+          "name": "Parth Shah",
+          "url": "https://open.spotify.com/artist/5GJ4KQrfErzSj5Tute2oNf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108788,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/3zKXlnK9Dx3NfIZewGAPQ9"
     },
     {
       "album": {
@@ -12376,7 +12558,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 164027,
       "name": "R.EAL Y.UNG L.UV!",
       "url": "https://open.spotify.com/track/6DAswLj9QNPoUBmKdmp5hw"
@@ -14583,6 +14765,28 @@
     },
     {
       "album": {
+        "name": "Taaley",
+        "url": "https://open.spotify.com/album/0psikiLw7Yr7cks3uImtEs"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Taaley",
+      "url": "https://open.spotify.com/track/60hLo4SHBK4X74nOl8p2M8"
+    },
+    {
+      "album": {
         "name": "Taareyan Toh Puch",
         "url": "https://open.spotify.com/album/4u6e3vVbivKZ3VurCr3dZj"
       },
@@ -16506,7 +16710,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 153786,
       "name": "Uff Ye Baarishein",
       "url": "https://open.spotify.com/track/6SZEX3tMcUMMGkSbaP18gA"

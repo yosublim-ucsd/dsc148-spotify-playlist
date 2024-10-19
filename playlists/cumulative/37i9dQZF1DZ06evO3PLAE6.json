@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 275560,
       "name": "Little Red Riding Hood",
       "url": "https://open.spotify.com/track/1H7dK3x6NmRG7c2MyC5Wst"
@@ -1034,6 +1034,24 @@
       "duration_ms": 249266,
       "name": "Someone Like Me",
       "url": "https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8"
+    },
+    {
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251968,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/0ALey5aPUXE0dv486dNRQr"
     },
     {
       "album": {

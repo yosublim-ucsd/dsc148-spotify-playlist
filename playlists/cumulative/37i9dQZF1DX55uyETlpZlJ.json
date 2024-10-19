@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188057,
       "name": "Javaari Hudga",
       "url": "https://open.spotify.com/track/1hoRIB6bh6UzcQ1an5opq9"
@@ -5274,6 +5274,24 @@
       "duration_ms": 235764,
       "name": "Nanna Kannada",
       "url": "https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C"
+    },
+    {
+      "album": {
+        "name": "Nanna Tumba Neene",
+        "url": "https://open.spotify.com/album/192TmSQNJFZ4lUn3ekOb9w"
+      },
+      "artists": [
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Nanna Tumba Neene",
+      "url": "https://open.spotify.com/track/6kOL7AlmbPX1uGI6jG2QqL"
     },
     {
       "album": {

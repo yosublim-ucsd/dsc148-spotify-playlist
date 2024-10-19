@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Jonna Fraser & Frenna
 
-8,302 songs - 18 day 3 hr 4 min
+8,303 songs - 18 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 | 2023-12-14 | 2023-12-22 |
 | [Applaus](https://open.spotify.com/track/5cBMHHUhxg8dMNv93aGJcw) | [Bob uit Zuid](https://open.spotify.com/artist/4L0tWcECUNXMKnUWNQ1bNv) | [Applaus](https://open.spotify.com/album/7HBqPpPklmGRKBu6pXj2VB) | 2:07 | 2024-01-04 | 2024-01-12 |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-04-25 | 2024-05-03 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [Aqua Asia](https://open.spotify.com/track/7oRSL1nhTw5WH3up8D5UFb) | [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Aqua Asia](https://open.spotify.com/album/57r6XX5CPmrB4zcYKpbqXM) | 2:50 | 2023-09-07 | 2023-09-15 |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-13 | 2024-06-21 |
 | [Ararım Yarın](https://open.spotify.com/track/7Dfe90uD6HDlA2lq3K1mkp) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Ararım Yarın](https://open.spotify.com/album/2zUHnGXEvzKk02vnJQHAnm) | 2:30 | 2023-08-10 | 2023-08-18 |
@@ -4590,7 +4591,7 @@
 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2023-10-20 | 2023-10-27 |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-11-24 | 2023-12-02 |
 | [Mend The Silence](https://open.spotify.com/track/6feFYuv2IHjFexCcXDhUz8) | [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Mend The Silence](https://open.spotify.com/album/5dnW4jvcD3BhuFxEnSsniN) | 3:20 | 2024-07-19 | 2024-07-27 |
-| [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [Mc Menor JP](https://open.spotify.com/artist/6cP3LCsIiLJF1R5qcdmiGT), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-10-17 |  |
+| [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-10-17 |  |
 | [Mentiras](https://open.spotify.com/track/1dkc8FuzlSBFDhScF5zVa8) | [Mariposa](https://open.spotify.com/artist/73s1DKnwRgdsXm6a3tQEsV) | [Mentiras](https://open.spotify.com/album/4guVMkR0Ax4tvmNjXMtMMe) | 2:02 | 2023-05-25 | 2023-06-02 |
 | [Mercury](https://open.spotify.com/track/5sJj33CAll04niXAsCmakH) | [Van Common](https://open.spotify.com/artist/73jNjroLgOxXAgQSpq39fs) | [Sunstruck](https://open.spotify.com/album/5F833MtkvMrWJR8X31iwnB) | 6:28 | 2023-05-11 | 2023-05-19 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-13 | 2024-06-21 |

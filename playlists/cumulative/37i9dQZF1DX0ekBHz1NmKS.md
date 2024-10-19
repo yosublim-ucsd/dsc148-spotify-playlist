@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,656 songs - 3 day 13 hr 56 min
+1,657 songs - 3 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 | 2023-09-21 |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
-| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 | 2024-09-26 |  |
+| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 | 2024-09-26 | 2024-10-19 |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 |  |
 | [APTIT](https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [APTIT](https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm) | 2:48 | 2024-10-04 |  |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-13 |
@@ -567,7 +567,7 @@
 | [Hallå hallå](https://open.spotify.com/track/1Ngsjy3FBg0hiYDEMBpu34) | [Eric Sporrong](https://open.spotify.com/artist/4ThLnQoYqiBCMWJKi8hnFO) | [Hallå hallå](https://open.spotify.com/album/0c53CwHfQEV3G8EZES70IC) | 2:53 | 2024-05-02 | 2024-06-01 |
 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2023-11-09 | 2024-02-09 |
 | [Hand i hand](https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Hand i hand](https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s) | 2:27 | 2024-05-09 | 2024-06-07 |
-| [HAPPENS](https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [HAPPENS](https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj) | 3:28 | 2024-08-29 |  |
+| [HAPPENS](https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [HAPPENS](https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj) | 3:28 | 2024-08-29 | 2024-10-19 |
 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 | 2023-06-29 | 2023-11-17 |
 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 | 2023-08-10 | 2024-01-19 |
 | [Happy For Me](https://open.spotify.com/track/2fePTyV9lwf7qYLkyCwTsX) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Happy For Me](https://open.spotify.com/album/6bvJbuBDbG305Nqn3XGdly) | 2:59 | 2021-12-16 | 2022-01-14 |
@@ -922,6 +922,7 @@
 | [Masken av](https://open.spotify.com/track/58ATiWksUkCYPVqgFCX6TX) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Masken Av](https://open.spotify.com/album/5zxtkIde8OHqOfBmlqEQoH) | 2:49 | 2024-08-29 | 2024-09-20 |
 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 | 2024-06-27 |  |
 | [MATTER](https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l) | [MATTER](https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V) | 2:45 | 2024-08-15 | 2024-09-06 |
+| [maybe](https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [maybe](https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip) | 3:33 | 2024-10-17 |  |
 | [MAYDAY \(fjällräddningspatrullen\)](https://open.spotify.com/track/7xlZNVvREW1Fy0RBaJ5tc1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MAYDAY \(fjällräddningspatrullen\)](https://open.spotify.com/album/4WYrYlSAoNz925YqGjajd9) | 2:26 | 2024-02-15 | 2024-04-05 |
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-05-30 | 2024-06-28 |
 | [MED DIG](https://open.spotify.com/track/0mLTjcZQN4ZYpCXuPW5RmC) | [Teck Noir](https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE) | [MED DIG](https://open.spotify.com/album/6flWGUPm26oSE2SHZqqVkk) | 2:56 | 2024-03-14 | 2024-03-17 |
@@ -1599,7 +1600,7 @@
 | [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 | 2023-10-20 |
 | [We're In This Together](https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [We're In This Together](https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs) | 2:20 | 2024-06-13 | 2024-08-16 |
 | [Weak](https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Weak](https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh) | 3:48 | 2024-08-29 | 2024-09-15 |
-| [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 | 2024-10-18 |
+| [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 |  |
 | [Weekend](https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Weekend](https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI) | 2:23 | 2024-06-06 | 2024-08-09 |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |

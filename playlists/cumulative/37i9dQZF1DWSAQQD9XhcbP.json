@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Cozy Christmas vibes. Cover: Norah Jones",
+  "description": "Cozy Christmas vibes. Cover: Laufey",
   "name": "Mellow Christmas",
   "tracks": [
     {
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
@@ -1844,6 +1844,24 @@
       "duration_ms": 120934,
       "name": "Rockin\u2019 Around the Christmas Tree",
       "url": "https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh"
+    },
+    {
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
     },
     {
       "album": {
@@ -2129,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "It's Officially Christmas: The Double Album",
+        "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137106,
+      "name": "The Cozy Song",
+      "url": "https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/7iZnMSmamUsrqZqYKBVPBW"
       },
@@ -2176,7 +2212,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 125146,
       "name": "The Holidays With You",
       "url": "https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU"
@@ -2256,7 +2292,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 238293,
       "name": "There Is A Star That Shines Tonight",
       "url": "https://open.spotify.com/track/04TNwsW1kWrj0wCvqMMHYi"
@@ -2548,6 +2584,24 @@
       "duration_ms": 158720,
       "name": "Winter Things",
       "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSAQQD9XhcbP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=6\-fBrKMITCus2FGdp2ZMfA">Zamajobe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,186 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,266 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 5 | [Ngiyabonga](https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Ngiyabonga](https://open.spotify.com/album/6cSQEZpZosF2eFkZPCYjF8) | 4:01 |
 | 6 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 |
 | 7 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
-| 8 | [Uvalo](https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [Sjava](https://open.spotify.com/artist/40RlEnkG5w3RmLrFBZlZ2b) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 5:24 |
+| 8 | [Uvalo](https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 5:24 |
 | 9 | [Nhliziyo Yami](https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [Nhliziyo Yami](https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs) | 4:06 |
 | 10 | [Ngisuke Kuwe \(feat\. Maglakz\)](https://open.spotify.com/track/5Bd9Lcef8e9NLI0l02LLdu) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Maglakz](https://open.spotify.com/artist/51ODcsiQg94nYs6Oskv4Ap) | [Ngisuke Kuwe \(feat\. Maglakz\)](https://open.spotify.com/album/0PIsgG1sNDK8mOuS7UeZ2z) | 3:39 |
 | 11 | [Uyazkhohlwa](https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Twenty Four](https://open.spotify.com/album/7r7hgemJYXUDU2ztBVVGMY) | 4:17 |

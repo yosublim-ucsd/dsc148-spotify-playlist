@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Quido van de Graaf",
+  "description": "De nieuwste Hollandse hits. Cover: Danilo Kuiters",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192168,
       "name": "Als Ik Haar Zie - Zomerversie",
       "url": "https://open.spotify.com/track/0bBWFCsBCroVJplIOKCiqZ"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 199577,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/5dojpFA2YtBwfHmInyb333"
@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "De Waarheid",
+        "url": "https://open.spotify.com/album/0CgfIZH4LTUiuQe8I5dm1e"
+      },
+      "artists": [
+        {
+          "name": "Henk Damen",
+          "url": "https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182904,
+      "name": "De Waarheid",
+      "url": "https://open.spotify.com/track/0c6DXOYQ1fWmj5ZlhUyysi"
+    },
+    {
+      "album": {
         "name": "Dit Gaat over jou",
         "url": "https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz"
       },
@@ -628,6 +646,24 @@
       "duration_ms": 162173,
       "name": "Engelengezang",
       "url": "https://open.spotify.com/track/0DL5ZiYdN0I4xpJ1yJfvC4"
+    },
+    {
+      "album": {
+        "name": "Fix Dit",
+        "url": "https://open.spotify.com/album/1FcjHOstEG3MaZw3ancFSt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Par\u00e9",
+          "url": "https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161237,
+      "name": "Fix Dit",
+      "url": "https://open.spotify.com/track/0D8HUOCvEg6wI14uMRMMnp"
     },
     {
       "album": {
@@ -772,7 +808,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 146514,
       "name": "Het Lijkt Hier Wel Ibiza",
       "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
@@ -1039,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "In Ons Stamcafe",
+        "url": "https://open.spotify.com/album/5qMmRvHha0W0RUpZg6ZYvu"
+      },
+      "artists": [
+        {
+          "name": "Danny Heden",
+          "url": "https://open.spotify.com/artist/4ke8NL9UYjeuye1E3tAsEQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "In Ons Stamcafe",
+      "url": "https://open.spotify.com/track/5g9pUIFlFMUtvz4DrJnDKW"
+    },
+    {
+      "album": {
         "name": "Insta Live",
         "url": "https://open.spotify.com/album/4bgZfovTAw0aoHNykiFPP6"
       },
@@ -1086,7 +1140,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 150819,
       "name": "Je Bent Hier Nooit Alleen",
       "url": "https://open.spotify.com/track/2TyGIyrjaXrKbOTXR6RXQG"
@@ -1239,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Kater Van De Liefde",
+        "url": "https://open.spotify.com/album/4A8yq22J8ljbYLCFBkcRWo"
+      },
+      "artists": [
+        {
+          "name": "Jesse Prins",
+          "url": "https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187002,
+      "name": "Kater Van De Liefde",
+      "url": "https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej"
+    },
+    {
+      "album": {
         "name": "Kleine After",
         "url": "https://open.spotify.com/album/1rMiNhxe1SzzQRkhSZSbYx"
       },
@@ -1348,6 +1420,24 @@
       "duration_ms": 203809,
       "name": "Laat De Zon In Je Hart",
       "url": "https://open.spotify.com/track/6ZUQHg1ehekmE6C0eETvSv"
+    },
+    {
+      "album": {
+        "name": "Laat Maar",
+        "url": "https://open.spotify.com/album/1R4ezXYj6QTaOzvwni8mxD"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Sep",
+          "url": "https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166390,
+      "name": "Laat Maar",
+      "url": "https://open.spotify.com/track/6JOMvg33jQx0IV0vMNzV8T"
     },
     {
       "album": {
@@ -1600,7 +1690,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 206133,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae"
@@ -2059,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Spoor 13",
+        "url": "https://open.spotify.com/album/18cvUPhwiaaoA8cOYiVHpK"
+      },
+      "artists": [
+        {
+          "name": "Laura Heijgen",
+          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151090,
+      "name": "Spoor 13",
+      "url": "https://open.spotify.com/track/6gojWTD4RNciXahzu8zJ6c"
+    },
+    {
+      "album": {
         "name": "Sportschool",
         "url": "https://open.spotify.com/album/2NnEEN0jr4SoVC9HD0gqY7"
       },
@@ -2154,6 +2262,24 @@
       "duration_ms": 185742,
       "name": "Tot Aan De Morgen",
       "url": "https://open.spotify.com/track/38DKhsqtqPXgUTBKN65wTy"
+    },
+    {
+      "album": {
+        "name": "Tranen van verdriet",
+        "url": "https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq"
+      },
+      "artists": [
+        {
+          "name": "Aukje Fijn",
+          "url": "https://open.spotify.com/artist/24F7Q3t78T3UiunGmInQzG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "Tranen van verdriet",
+      "url": "https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe"
     },
     {
       "album": {
@@ -2256,7 +2382,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188181,
       "name": "Verliefd, Verloofd, Getrouwd",
       "url": "https://open.spotify.com/track/5SuMvsdeGAXZGvwUaqGlRX"
@@ -2606,7 +2732,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192600,
       "name": "Zeg het mij maar nog \u2019n keer",
       "url": "https://open.spotify.com/track/7mcqvTcLp90yQexNaX0BzT"

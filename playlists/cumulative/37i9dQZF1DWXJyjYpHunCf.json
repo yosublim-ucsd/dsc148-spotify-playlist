@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "all I know",
+        "url": "https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194166,
+      "name": "all I know",
+      "url": "https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP"
+    },
+    {
+      "album": {
         "name": "All the Things You'd Ruin (Sad Girl Version)",
         "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 152530,
       "name": "Enjoy the view",
       "url": "https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf"

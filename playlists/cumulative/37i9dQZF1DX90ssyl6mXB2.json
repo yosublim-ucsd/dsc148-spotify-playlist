@@ -208,10 +208,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188066,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/4XRR2nNTU9UWBTBOdmnmyT"
+    },
+    {
+      "album": {
+        "name": "B.S.",
+        "url": "https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "B.S.",
+      "url": "https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6"
     },
     {
       "album": {
@@ -233,6 +251,24 @@
     },
     {
       "album": {
+        "name": "BYM / FLL",
+        "url": "https://open.spotify.com/album/7xVSUkpX7nyID4dYBWGNa3"
+      },
+      "artists": [
+        {
+          "name": "Isco Cruz",
+          "url": "https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL"
+    },
+    {
+      "album": {
         "name": "PARTYNEXTDOOR TWO",
         "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
       },
@@ -248,6 +284,24 @@
       "duration_ms": 98023,
       "name": "Belong to the City",
       "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
+    },
+    {
+      "album": {
+        "name": "kame 'n left",
+        "url": "https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176691,
+      "name": "blind side",
+      "url": "https://open.spotify.com/track/15YcOL6ddhowfTU165l46C"
     },
     {
       "album": {
@@ -284,6 +338,28 @@
       "duration_ms": 122999,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa"
+    },
+    {
+      "album": {
+        "name": "LUCKY ME",
+        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
     },
     {
       "album": {
@@ -374,7 +450,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 167983,
       "name": "day+night (feat. Wolfacejoeyy)",
       "url": "https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR"
@@ -522,7 +598,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 156334,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz"
@@ -714,7 +790,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 174683,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/6n6ke9IsK9Q8YtPH8cSBKq"
@@ -858,7 +934,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 167540,
       "name": "GIVE IN",
       "url": "https://open.spotify.com/track/77ZLQIBY47Zo3RME1WJVud"
@@ -898,6 +974,24 @@
       "duration_ms": 162133,
       "name": "Granted",
       "url": "https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw"
+    },
+    {
+      "album": {
+        "name": "hard feelings",
+        "url": "https://open.spotify.com/album/4PaQ1RBPRa40qqV5FVmJsD"
+      },
+      "artists": [
+        {
+          "name": "Essiyas",
+          "url": "https://open.spotify.com/artist/09QOTdywNrZkFw4SYXf71t"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143455,
+      "name": "hard feelings",
+      "url": "https://open.spotify.com/track/37cYXXzlmUXnjuSZ2DqhPY"
     },
     {
       "album": {
@@ -1028,6 +1122,24 @@
       "duration_ms": 185159,
       "name": "Impromptu",
       "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
+    },
+    {
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/5q0JB8CNJQWiwNQH1SAwHy"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9sa",
+          "url": "https://open.spotify.com/artist/4a4GE7G3xZ61pA0SAWS62O"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/6qWvfaLH8W4EBCYEMOYNyk"
     },
     {
       "album": {
@@ -1172,10 +1284,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 112000,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "M a k e I t T o T h e M o r n i n g",
+      "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
     },
     {
       "album": {
@@ -1397,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Not Mine",
+        "url": "https://open.spotify.com/album/66gGdAHsqcdYrVjQOFrJcG"
+      },
+      "artists": [
+        {
+          "name": "Tona Glover",
+          "url": "https://open.spotify.com/artist/0MnMT3Q8i2O43b73SLANwT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149338,
+      "name": "Not Mine",
+      "url": "https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI"
+    },
+    {
+      "album": {
         "name": "Oakland Pt. 2",
         "url": "https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK"
       },
@@ -1462,7 +1610,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 191480,
       "name": "OPTIONS",
       "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
@@ -1790,7 +1938,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192373,
       "name": "sink or swim",
       "url": "https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm"
@@ -1905,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Temptress",
+        "url": "https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
+    },
+    {
+      "album": {
         "name": "That's Tough",
         "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
       },
@@ -1934,7 +2100,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 272205,
       "name": "THATS MY BABY",
       "url": "https://open.spotify.com/track/4JwYLiyUMUDtvOG5w6AnRq"
@@ -2234,7 +2400,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"

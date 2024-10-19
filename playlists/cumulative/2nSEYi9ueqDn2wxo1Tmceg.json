@@ -7417,6 +7417,24 @@
     },
     {
       "album": {
+        "name": "Halftime",
+        "url": "https://open.spotify.com/album/1MQGTqZ2CQQxGEsTZpU1DU"
+      },
+      "artists": [
+        {
+          "name": "Xades",
+          "url": "https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197375,
+      "name": "Halftime",
+      "url": "https://open.spotify.com/track/5pIUTjLUr3o2KqGYDMd9Ex"
+    },
+    {
+      "album": {
         "name": "Hand On Me",
         "url": "https://open.spotify.com/album/1ju50ud1Izkhb3sKfjVINg"
       },

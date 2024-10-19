@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Samara Joy
 
-152 songs - 11 hr 5 min
+153 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Fleeting Fantasy](https://open.spotify.com/track/7cnffSWM6sJuNuMzQapfJX) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Fleeting Fantasy](https://open.spotify.com/album/2uS7xMZ7XI5GM6lqTOp61c) | 4:12 | 2024-06-27 |  |
 | [Floating Ocean](https://open.spotify.com/track/77d3P1x4OEPstx9enrcbVF) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD) | [Floating Ocean](https://open.spotify.com/album/5mDPGDsPVnykhjVOrHg58c) | 3:45 | 2024-06-27 | 2024-07-12 |
 | [fly bys](https://open.spotify.com/track/76P6aUFKiERCEpcVqMB8i2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [fly bys](https://open.spotify.com/album/47lONTnQXNykToQaD6OUPD) | 3:35 | 2024-06-27 | 2024-07-19 |
+| [Free](https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Find Your Flame \(Deluxe Edition\)](https://open.spotify.com/album/2PC32ErhVUGoW7kgO5pyvy) | 2:51 | 2024-10-18 |  |
 | [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 | 2024-06-27 |  |
 | [Get Lit](https://open.spotify.com/track/71W5DxBrYZaTuN2InvogKq) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Fearless Movement](https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL) | 3:26 | 2024-06-27 |  |
 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 | 2024-06-27 | 2024-08-09 |

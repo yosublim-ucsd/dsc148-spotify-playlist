@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 180406,
       "name": "DELILAH",
       "url": "https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc"
@@ -1858,6 +1858,24 @@
       "duration_ms": 222222,
       "name": "EKELEBE (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
+    },
+    {
+      "album": {
+        "name": "\"Of Many Colors\": Orange",
+        "url": "https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Emeka Dance",
+      "url": "https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG"
     },
     {
       "album": {
@@ -3632,6 +3650,28 @@
       "duration_ms": 199171,
       "name": "Link Up",
       "url": "https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC"
+    },
+    {
+      "album": {
+        "name": "Confuse The Enemy",
+        "url": "https://open.spotify.com/album/3afQKHp5khJj6C04a1CNIp"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Loaded Clip",
+      "url": "https://open.spotify.com/track/6laQhvFYyIgZG21a6zx0HW"
     },
     {
       "album": {

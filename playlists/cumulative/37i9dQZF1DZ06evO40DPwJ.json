@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "iTunes Festival '08",
+        "url": "https://open.spotify.com/album/0JEFK6Mv5NlC1IGP0jtqHF"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Chasing Cars - iTunes Festival",
+      "url": "https://open.spotify.com/track/34isfY4f6dXsnKIxBpiMv2"
+    },
+    {
+      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },

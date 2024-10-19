@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Scowl.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Slaughter to Prevail.
 
-816 songs - 2 day 3 hr 21 min
+822 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Become So Small](https://open.spotify.com/track/4YRVTUim5llCpn8KFQbxjO) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [God Made Me An Animal](https://open.spotify.com/album/5BhklHDhaR6bzbELNrNKU2) | 3:01 | 2023-07-07 | 2024-02-03 |
 | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD) | 3:43 | 2023-02-24 | 2024-02-03 |
 | [Behavioral Health](https://open.spotify.com/track/3Q97IaeG9q7gi31e66OIxL) | [Ameonna](https://open.spotify.com/artist/4ZmEpcMFWAfiL6jLLEPkbO) | [Behavioral Health](https://open.spotify.com/album/22K06LWqdTmYxstH8YUaRF) | 3:15 | 2024-01-12 |  |
+| [Behelit](https://open.spotify.com/track/6SShrkXpvyKEMslHdCbqJI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Behelit](https://open.spotify.com/album/2oj7HNRNdIZgIwCZl4I7Mu) | 4:08 | 2024-10-18 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/40bblUc6CcCwM8jaZ9r9Rf) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Behind Closed Doors](https://open.spotify.com/album/57hOF9F8e7ww6Q5PJyWes6) | 1:27 | 2022-03-18 | 2023-07-15 |
 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 | 2023-03-03 | 2024-02-03 |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 | 2023-07-15 |
@@ -219,6 +220,7 @@
 | [ENDLESS](https://open.spotify.com/track/4Hl1JJxdzEjhvXi3L3SFE8) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [ENDLESS](https://open.spotify.com/album/7aByOZkdJqsGvIplvnNrq1) | 4:23 | 2024-06-18 |  |
 | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/track/21U4EHOgwhHBdscrRKWcXw) | [Predatory Void](https://open.spotify.com/artist/6I1ox6Hu5K9xpmCIAhF7Ch) | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/album/67hjoAqUrtExU3vT4JoxwV) | 6:31 | 2023-02-17 | 2024-02-03 |
 | [Endless Torment](https://open.spotify.com/track/0Wx5aMbQMihpYBVbCk8lzd) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [Endless Torment](https://open.spotify.com/album/3pmANMJYRSIcUHREZvvdjT) | 4:06 | 2023-05-26 | 2024-02-03 |
+| [Enemy](https://open.spotify.com/track/6k1lL3C1nQGkt7JicOdnu0) | [Ingrown](https://open.spotify.com/artist/7DHEVu8mFuQP14XdDIFhss) | [ENEMY](https://open.spotify.com/album/3P1udSCF5amfmYhIlJrY6u) | 1:52 | 2024-10-18 |  |
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 | 2024-02-03 |
 | [Entabeni](https://open.spotify.com/track/4IYjRMng2yVbUjTEDAblDZ) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG) | [Entabeni](https://open.spotify.com/album/1aXezsjsRSPK5YrzTTzfKS) | 4:26 | 2024-05-10 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 | 2023-07-15 |
@@ -463,12 +465,14 @@
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 | 2023-07-15 |
 | [Nothing Beyond](https://open.spotify.com/track/6t2vTu9nL0p47kmEVxIDit) | [Discontent](https://open.spotify.com/artist/1zKLqt8i31ve2tyeR6dcMZ) | [Nothing Beyond](https://open.spotify.com/album/1nQcOBFREkmFskvDgaGEis) | 2:10 | 2024-01-05 |  |
 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 |  |
+| [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 | 2024-10-18 |  |
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 | 2023-07-15 |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 | 2023-07-15 |
 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 | 2023-09-15 | 2024-02-03 |
 | [Ode To Jimbo](https://open.spotify.com/track/7q6vrn80hhtQNWww0XJ8GX) | [Couch Slut](https://open.spotify.com/artist/4fBGtHTw0pGQ9C0vbg7UBp) | [Ode To Jimbo](https://open.spotify.com/album/620sI4XfiLMTpiKcw6l2Zc) | 3:11 | 2024-02-23 |  |
 | [Of Days Renewed](https://open.spotify.com/track/4miqxJDAzac7riX5p3RNAl) | [Magnitude](https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ) | [Of Days Renewed](https://open.spotify.com/album/4zchFiJME9vUv36mLReDAH) | 3:21 | 2023-08-11 | 2024-02-03 |
 | [Off The Meter](https://open.spotify.com/track/48hV9HJP3fb8t3MG8m4hRH) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Off The Meter](https://open.spotify.com/album/7IstdpmV2yAv798ZL9MxzI) | 2:49 | 2024-06-28 |  |
+| [Off The Rails](https://open.spotify.com/track/1xo36G1V6K3C6ZCwkA3TVd) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [I Want Blood](https://open.spotify.com/album/1clodpcGPsGi0DAwIUHh8L) | 5:26 | 2024-10-18 |  |
 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 | 2022-07-29 | 2023-07-15 |
 | [On The Run](https://open.spotify.com/track/3JKWw3L65jWdQWxQxonf4R) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [On the Run](https://open.spotify.com/album/5GztBxPsWCj87c7m9L5TEH) | 2:23 | 2023-01-20 | 2024-02-03 |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-18 | 2023-07-15 |
@@ -667,6 +671,7 @@
 | [The Briar Harp](https://open.spotify.com/track/2yutxTEXbll1F52e2bu8l6) | [Shadow Knell](https://open.spotify.com/artist/5FtVRR9Ht6OvritIsgHW6z) | [The Briar Harp](https://open.spotify.com/album/0HBjuSYNUKbEMoAJiIwkgu) | 2:06 | 2024-07-19 |  |
 | [The Comeback](https://open.spotify.com/track/2EgOUEOtkHc2hgNRYHxpv6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Unpleasant Living](https://open.spotify.com/album/6w6m1NmBC8Wzsd7Yu856uP) | 2:40 | 2022-07-08 | 2023-07-15 |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 | 2024-02-03 |
+| [the cost of giving up](https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [the cost of giving up](https://open.spotify.com/album/5ny4Uho4k56brX600DlYiF) | 3:17 | 2024-10-18 |  |
 | [The Crow \(In Memory of B.L.\)](https://open.spotify.com/track/4LtCHGqnwgHNQ6wNKd7R1N) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [The Crow \(In Memory of B.L.\)](https://open.spotify.com/album/7sLddcx0B1EQv5n4h5u5XC) | 4:07 | 2024-08-30 |  |
 | [The Customer Is Always Wrong \(TCIAW\)](https://open.spotify.com/track/4GhDNqdPfnakcnrYW8LSl4) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:56 | 2023-06-02 | 2024-02-03 |
 | [The Dawn is Hollow](https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [The Dawn is Hollow](https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f) | 7:32 | 2024-03-15 |  |
@@ -813,6 +818,7 @@
 | [X](https://open.spotify.com/track/5JyKCsBv3rOjvaew73GNmd) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [X](https://open.spotify.com/album/4eALyRJZW1DjKdcQfho0Jm) | 3:42 | 2023-01-27 | 2024-02-03 |
 | [Xenomorphic Organ Rearrangement](https://open.spotify.com/track/3yYdQPpXchMHWMXKa6Ax7a) | [Mutilation Barbecue](https://open.spotify.com/artist/1LxGvpRAZlXypb2rQR8jfX) | [Xenomorphic Organ Rearrangement](https://open.spotify.com/album/5KFuwhggQY2baXGRJ0rnbf) | 3:16 | 2024-03-08 |  |
 | [Y.S.A.B.](https://open.spotify.com/track/40wSDvvvOUmnVS7oiwVBj7) | [Sunami](https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS) | [SUNAMI \(L.P.\)](https://open.spotify.com/album/2GnZYSZv0FQK5R80gyNara) | 2:26 | 2023-06-16 | 2024-02-03 |
+| [Year of the Pest](https://open.spotify.com/track/3sx1BUpPzqLkn1S6MiaDrN) | [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Year of the Pest](https://open.spotify.com/album/47R760DsLEartJIPcw8NAD) | 2:18 | 2024-10-18 |  |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 | 2023-07-15 |
 | [YES ALL MEN](https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [YES ALL MEN](https://open.spotify.com/album/2sijNGBuZIOSGzSreKHVZg) | 2:23 | 2023-03-31 | 2024-02-03 |
 | [You And Me](https://open.spotify.com/track/2yy0YCSswjOTc9mexfMEyC) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [You And Me](https://open.spotify.com/album/0UlZ9xS2gir6JfRee7jYwd) | 2:28 | 2023-08-18 | 2024-02-03 |

@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Above It All",
+        "url": "https://open.spotify.com/album/21cxtg5ehPNvWAkd8uYlIt"
+      },
+      "artists": [
+        {
+          "name": "Astrocalm",
+          "url": "https://open.spotify.com/artist/1ZoNh8hKFOtOMDklPdhnCg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162779,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/3GtMwSL6XvdMB0oMm3lkVD"
+    },
+    {
+      "album": {
         "name": "Acending",
         "url": "https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210250,
       "name": "At last",
       "url": "https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt"
@@ -690,7 +708,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 204613,
       "name": "Binaural Rest",
       "url": "https://open.spotify.com/track/1wgXU7u4rGe7sBE2hBRLa7"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 191250,
       "name": "Decumbent",
       "url": "https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 148500,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm"
@@ -1576,6 +1594,24 @@
       "duration_ms": 217073,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/3L1ekUqXczBXACxM8uV6CU"
+    },
+    {
+      "album": {
+        "name": "First Light Whisper",
+        "url": "https://open.spotify.com/album/5U66wvkWPgqasaKkllbvqm"
+      },
+      "artists": [
+        {
+          "name": "Celestros",
+          "url": "https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165416,
+      "name": "First Light Whisper",
+      "url": "https://open.spotify.com/track/5KhBlJmuKgP7J66sxd7A4p"
     },
     {
       "album": {
@@ -1705,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "From My Heart To Yours Radio Edit",
+        "url": "https://open.spotify.com/album/59ekHaLi0LWu3rzhBRlItQ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mind",
+          "url": "https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "From My Heart To Yours - Radio Edit",
+      "url": "https://open.spotify.com/track/5lAWULjnNqIuowkf0AQWtS"
+    },
+    {
+      "album": {
         "name": "Galina",
         "url": "https://open.spotify.com/album/1cVc2Y1RhScTWiZLRSlExA"
       },
@@ -1716,7 +1770,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 197000,
       "name": "Galina",
       "url": "https://open.spotify.com/track/1oMqTsOS6mzsTNvxKKdFps"
@@ -3228,7 +3282,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 155936,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/0pUHdRvyYKfBuoZEjGE9MS"
@@ -3541,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/4NzBXoDrdZUoB4m3nykMD2"
+      },
+      "artists": [
+        {
+          "name": "Noble S",
+          "url": "https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196370,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/1uId9bs7ByBNCdiKALuDa3"
+    },
+    {
+      "album": {
         "name": "Sensible",
         "url": "https://open.spotify.com/album/41x0rD0MzoYB2JXyhnHiCm"
       },
@@ -3804,7 +3876,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 199709,
       "name": "Smyrna",
       "url": "https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM"
@@ -4092,7 +4164,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 199680,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1nFLUSu9eQxibCz0BP4BtO"
@@ -4258,6 +4330,24 @@
       "duration_ms": 166695,
       "name": "Uncharted Waters",
       "url": "https://open.spotify.com/track/1VwwHEp89LaODgq1C1K9D7"
+    },
+    {
+      "album": {
+        "name": "Veil of Stars",
+        "url": "https://open.spotify.com/album/6VBAk2nav5FumZaaguO41l"
+      },
+      "artists": [
+        {
+          "name": "Moon Whisperer",
+          "url": "https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Veil of Stars",
+      "url": "https://open.spotify.com/track/3ERB5KA1kB23jNWh59lIXJ"
     },
     {
       "album": {
@@ -4470,7 +4560,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 165882,
       "name": "Winding Down",
       "url": "https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN"

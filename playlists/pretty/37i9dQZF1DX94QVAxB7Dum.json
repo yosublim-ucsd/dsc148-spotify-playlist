@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 759116,
+  "num_followers": 759286,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Steve Wright\u2019s Sunday Love Songs\u2026 Make-Ups and Break-Ups",
+        "url": "https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "What Becomes Of The Brokenhearted - Single Version",
+      "url": "https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Barry White - Universal Masters Collection",
-        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 428240,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "Definitive Soul: Aretha Franklin",
         "url": "https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n"
       },
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Steve Wright\u2019s Sunday Love Songs\u2026 Make-Ups and Break-Ups",
-        "url": "https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ"
+        "name": "Barry White - Universal Masters Collection",
+        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
       },
       "artists": [
         {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 179160,
-      "name": "What Becomes Of The Brokenhearted - Single Version",
-      "url": "https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm"
+      "duration_ms": 428240,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
     },
     {
       "added_at": "2024-07-02 22:47:47",

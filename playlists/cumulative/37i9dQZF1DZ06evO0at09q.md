@@ -2,7 +2,7 @@
 
 ### [This Is Qlank](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0at09q)
 
-> This Is Qlank\. Los temas esenciales, todos en una lista.
+> This is Qlank\. The essential tracks, all in one playlist.
 
 91 songs - 5 hr 37 min
 

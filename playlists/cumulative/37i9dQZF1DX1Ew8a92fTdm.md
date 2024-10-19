@@ -4,13 +4,13 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-300 songs - 7 hr 44 min
+303 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day At The Market](https://open.spotify.com/track/2NKjjb7cH2GjenaS4NZSc9) | [Hansine Mikaelsen](https://open.spotify.com/artist/2TeiEIYpjjfTp95dibndsW) | [Ding Dong Bell](https://open.spotify.com/album/0JpuVKtZIy1M30qzFoW3lG) | 1:01 | 2022-02-10 | 2023-05-19 |
-| [A Dog Named Doug](https://open.spotify.com/track/0ixMSZlYaSg7npBIxgPrt2) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [A Dog Named Doug](https://open.spotify.com/album/1li4sJRjRLTEKK5Gp4kMUr) | 1:38 | 2022-04-22 |  |
-| [A Dream Come True](https://open.spotify.com/track/5Zb0Ko7LIfYlsF2r2TwVg9) | [Kara Bevans](https://open.spotify.com/artist/1Vmps5u9bAJFPr4QsYr3rr) | [A Dream Come True](https://open.spotify.com/album/5By1GSkEIbL1POMXxmDUju) | 2:02 | 2022-02-10 |  |
+| [A Dog Named Doug](https://open.spotify.com/track/0ixMSZlYaSg7npBIxgPrt2) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [A Dog Named Doug](https://open.spotify.com/album/1li4sJRjRLTEKK5Gp4kMUr) | 1:38 | 2022-04-22 | 2024-10-19 |
+| [A Dream Come True](https://open.spotify.com/track/5Zb0Ko7LIfYlsF2r2TwVg9) | [Kara Bevans](https://open.spotify.com/artist/1Vmps5u9bAJFPr4QsYr3rr) | [A Dream Come True](https://open.spotify.com/album/5By1GSkEIbL1POMXxmDUju) | 2:02 | 2022-02-10 | 2024-10-19 |
 | [A Goodnight Lullaby](https://open.spotify.com/track/4cKRxN6IuZsDXmvixgDLvH) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:25 | 2022-02-10 | 2024-04-04 |
 | [A Little Boat](https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD) | [Simon Hill](https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ) | [A Little Boat](https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0) | 1:14 | 2023-10-20 |  |
 | [A Magic Night](https://open.spotify.com/track/2oqTcXUcoKYW59pOo7jN6w) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [A Magic Night](https://open.spotify.com/album/3RXGSdDjUaga922VR4KTnq) | 1:59 | 2024-08-30 |  |
@@ -31,7 +31,7 @@
 | [Auntie Elsie](https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB) | [Annie Carr](https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR) | [Auntie Elsie](https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5) | 1:00 | 2022-04-22 |  |
 | [Aurora's Dream](https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU) | [Poppy's Box](https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh) | [Aurora's Dream](https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl) | 1:21 | 2024-01-05 |  |
 | [Baa Baa White Lamb](https://open.spotify.com/track/3YjKSyeVWUXrmnsUntqUdb) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [Baa Baa White Lamb](https://open.spotify.com/album/5A6IkOZLEO2c0xkUU71P6Y) | 1:35 | 2024-02-09 |  |
-| [Babblarnas vaggvisa](https://open.spotify.com/track/4sw1BjunB4P1rCTPanYKZV) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Babblarnas vaggvisa](https://open.spotify.com/album/589zc01dvPgdDOzzz5zBHd) | 2:28 | 2024-06-07 |  |
+| [Babblarnas vaggvisa](https://open.spotify.com/track/4sw1BjunB4P1rCTPanYKZV) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Babblarnas vaggvisa](https://open.spotify.com/album/589zc01dvPgdDOzzz5zBHd) | 2:28 | 2024-06-07 | 2024-10-19 |
 | [Baby Bear](https://open.spotify.com/track/5UpHz8cxbWTNIwu0zbxSqk) | [Mette Enoksen](https://open.spotify.com/artist/3UjM6XtripEYdUAzSBCKmf) | [Baby Bear](https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok) | 1:25 | 2022-02-10 |  |
 | [Baby Dreams](https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ) | [Hillary Nic](https://open.spotify.com/artist/63ALojLOh3rjtkUEBUFITk) | [Baby Dreams](https://open.spotify.com/album/71xPRfWxOhGhZoRhErRbjr) | 0:58 | 2022-02-10 | 2022-04-23 |
 | [Baby Emanuel](https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Baby Emanuel](https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn) | 1:14 | 2024-02-09 |  |
@@ -80,6 +80,7 @@
 | [Dans notre jardin](https://open.spotify.com/track/0Q3wPSFh2tmOTeMe1yAFQM) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Dans notre jardin](https://open.spotify.com/album/7Lz4tikU1XQxOis3UNLPWl) | 1:28 | 2022-04-22 | 2023-05-19 |
 | [Dear buddy](https://open.spotify.com/track/4QL90SubKWbeN6GQLu7p0c) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Dear buddy](https://open.spotify.com/album/5Z0IS48eAdA3SwecrqVNMT) | 1:41 | 2023-05-19 | 2024-07-19 |
 | [Dear Little Snickerboa](https://open.spotify.com/track/2pWW3wDPsvlWARHqc5g1Bg) | [Bells of happiness](https://open.spotify.com/artist/5W8Hrjj45Fo0EGmk8Gkh67) | [Dear Little Snickerboa](https://open.spotify.com/album/2g8j8DM0MZitCshC9k8m3q) | 1:44 | 2024-01-05 |  |
+| [Djurens vaggvisa](https://open.spotify.com/track/5P0uXoF9vWjmnBS05FQxgz) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Djurens vaggvisa](https://open.spotify.com/album/3bl2BsiEQ3QNH21IaXjwSp) | 2:12 | 2024-10-18 |  |
 | [Don't Grow Up Too Soon](https://open.spotify.com/track/1Y2GR3ytnyBeMUGl53yF5g) | [Melody McKinsey](https://open.spotify.com/artist/2AZSk3cuYwMLXv3okcGBxx) | [Don't Grow Up Too Soon](https://open.spotify.com/album/2wDOy7gi6i20n0uv4o8ksl) | 2:41 | 2022-07-01 | 2023-04-21 |
 | [Don't Worry Baby](https://open.spotify.com/track/4lma9ZO9Xux8SxU7lbR6X5) | [Don't Worry Baby Lullabies](https://open.spotify.com/artist/2rB8ZbwgwJStg2vvSrTwUp) | [Don't Worry Baby](https://open.spotify.com/album/5fqjLiDafcWE7steZN3cES) | 2:13 | 2022-04-22 | 2023-03-18 |
 | [Doux rêves](https://open.spotify.com/track/3v0QpPVFnMZAScYmxxwcLg) | [Matilda Therrien](https://open.spotify.com/artist/2CZnXCdukAR1yvZqzVOu82) | [Doux rêves](https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD) | 1:16 | 2022-02-10 |  |
@@ -180,6 +181,7 @@
 | [My Grandfather's Clock](https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG) | [Philip Stuart](https://open.spotify.com/artist/0jvpyMCQkgCjMtOUdd8RoJ) | [Girls and Boys Come Out to Play](https://open.spotify.com/album/22ytu5JUFTp0aBdzFuHd8v) | 3:24 | 2022-02-10 | 2023-01-20 |
 | [My Hat has Three Edges](https://open.spotify.com/track/3f1rRIlBM4xRyrzrXSdQGl) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [My Hat has Three Edges](https://open.spotify.com/album/6jVgiLNjnxq52CXJpfAu3Y) | 1:14 | 2024-02-09 |  |
 | [My Kitty Cat Kate](https://open.spotify.com/track/2IRZ8zO4uCRUFsseRhGqLy) | [Selby Petersen](https://open.spotify.com/artist/5p2vvsASYdfPaCQ8ewBBJp) | [My Kitty Cat Kate](https://open.spotify.com/album/2H3NXQTp7cG4XtUqP3Qute) | 1:21 | 2022-02-10 | 2024-04-04 |
+| [My Little Bird](https://open.spotify.com/track/2ivqXqbed8qlUW890qqOiI) | [Sunny Sleep](https://open.spotify.com/artist/1FgjU1p0WJxHTLPxd1o7vi) | [My Little Bird](https://open.spotify.com/album/6vdt3oBzrPGWR8mPGJk948) | 1:18 | 2024-10-18 |  |
 | [My Little Prince](https://open.spotify.com/track/4FOYVgJJn7bIMJnJGWJM6a) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [My Little Prince](https://open.spotify.com/album/3ynDD4j4fuZIG25ZO4E97M) | 1:11 | 2023-03-16 |  |
 | [My Sweet Sweet Angel](https://open.spotify.com/track/0pkmiHR34jvHpoTu9MjWQy) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:27 | 2022-02-10 | 2024-04-04 |
 | [New Day](https://open.spotify.com/track/3P4e8Ki7nMUamSdOI4WMCW) | [Violet Lilac](https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi) | [New Day](https://open.spotify.com/album/4yeppDuc38nL2y8gXmTIep) | 2:14 | 2022-11-25 | 2024-06-21 |
@@ -227,6 +229,7 @@
 | [Sleeping Otters](https://open.spotify.com/track/5LH9wtbdbuFtNVfo6eag1x) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Sleeping Otters](https://open.spotify.com/album/0rBu8CY7PCFkdeLajMjwX8) | 1:35 | 2022-12-09 | 2023-05-19 |
 | [Sleeping Woods](https://open.spotify.com/track/6pSNIn6VLzkJMmv7NL7mkF) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Sleeping Woods](https://open.spotify.com/album/0Mq2RsU8NGCcVidZ7MhKAD) | 1:26 | 2024-03-01 |  |
 | [Sleepy Bells](https://open.spotify.com/track/08HHyYsAkYY1VIxgU0dbSG) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Sleepy Bells](https://open.spotify.com/album/2uh2fbK3oxjwMlZBSPpzl3) | 1:22 | 2024-01-19 |  |
+| [Sleepy Hedgehog](https://open.spotify.com/track/7rHIKl5yCV6DiBoYS2t3tO) | [Tom Eastman](https://open.spotify.com/artist/7KBkjudsZi65ojptsNCG13) | [Sleepy Hedgehog](https://open.spotify.com/album/3xJQkijwR1tG8kLqClF3A5) | 1:26 | 2024-10-18 |  |
 | [Slumberland Song](https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Slumberland Song](https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6) | 1:36 | 2022-02-10 | 2023-02-18 |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2022-02-10 | 2024-04-19 |
 | [Someday](https://open.spotify.com/track/7GxyqEGtd7I9ytd5QmKUjZ) | [Nibble Pig](https://open.spotify.com/artist/1yGBlYX70u0Ok69QkNOwtF) | [Someday](https://open.spotify.com/album/1cmWsgZNTWtsWHZRPBFWMJ) | 2:05 | 2023-01-20 |  |

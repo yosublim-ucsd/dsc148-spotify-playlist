@@ -2,9 +2,9 @@
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-238 songs - 18 hr 32 min
+239 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I Don't Want to Talk About It \- Live at Newcastle, England, 12/17/1976](https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Live 1976 \- 1998: Tonight's the Night](https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd) | 5:07 | 2022-04-14 |  |
 | [I Kissed A Girl \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 4:10 | 2022-04-14 |  |
 | [I Knew I Loved You \- Live](https://open.spotify.com/track/5DPHFR4RnZfNdrxkqvvPtb) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Chained To You](https://open.spotify.com/album/3eCOt6JK8o0xwntdKDDX0J) | 8:15 | 2022-04-14 | 2022-07-27 |
+| [I Love You, I'm Sorry \- Live From Vevo](https://open.spotify.com/track/55dLT3WApUJBEWxSJSivyt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Love You, I'm Sorry \(Live From Vevo\)](https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32) | 3:24 | 2024-10-18 |  |
 | [I See Fire \- Live and in Session](https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:45 | 2022-04-14 |  |
 | [I Want to Know What Love Is \- Live](https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Best of Live](https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H) | 6:16 | 2022-04-14 | 2023-08-19 |
 | [I Want You \- Live](https://open.spotify.com/track/5KwDZ68Tipk1TW03o90gVY) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Chained To You](https://open.spotify.com/album/3eCOt6JK8o0xwntdKDDX0J) | 3:51 | 2022-04-14 | 2022-07-10 |
@@ -169,7 +170,7 @@
 | [Roman Holiday \- Live From Webster Hall](https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:17 | 2022-04-29 |  |
 | [Sacrifice \- Live](https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 5:20 | 2022-04-14 | 2023-08-19 |
 | [Say What You Want \- Live at Live 8, Murrayfield Stadium, Edinburgh, 6th July 2004](https://open.spotify.com/track/7ADkVByaUB0j5xC9tC0HkZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 6:05 | 2022-04-14 | 2022-07-28 |
-| [Say You'll Be There \- Live From Abdi İpekçi Arena, Istanbul, Turkey/1997](https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Viva Forever](https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ) | 4:26 | 2022-04-14 |  |
+| [Say You'll Be There \- Live From Abdi İpekçi Arena, Istanbul, Turkey/1997](https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Viva Forever](https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ) | 4:26 | 2022-04-14 | 2024-10-19 |
 | [Shadow \(feat\. Carly Rae Jepsen\) \- MTV Unplugged](https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [MTV Unplugged](https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J) | 3:32 | 2023-08-18 |  |
 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 | 2022-04-14 |  |
 | [She Wolf \- El Dorado World Tour Live](https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira In Concert: El Dorado World Tour](https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN) | 5:40 | 2022-04-14 |  |

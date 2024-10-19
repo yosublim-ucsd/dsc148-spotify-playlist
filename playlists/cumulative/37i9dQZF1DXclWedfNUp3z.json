@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324542,
+      "name": "Bosque Sonoro",
+      "url": "https://open.spotify.com/track/41o4XWfVVHGCI8lfcA2Ppm"
+    },
+    {
+      "album": {
         "name": "Habitat",
         "url": "https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN"
       },
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 109502,
       "name": "Les oies III",
       "url": "https://open.spotify.com/track/7szcYQKH8FGvjyDKKvjKGC"
@@ -4348,7 +4366,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 281096,
       "name": "Moon",
       "url": "https://open.spotify.com/track/36buqw0d9Vb8LEtCSLOALu"
@@ -7846,6 +7864,24 @@
       "duration_ms": 123000,
       "name": "Window Camping",
       "url": "https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9"
+    },
+    {
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377037,
+      "name": "Wiri Wiri",
+      "url": "https://open.spotify.com/track/6E3JZAQLrT3cxQwKPIzGUr"
     },
     {
       "album": {

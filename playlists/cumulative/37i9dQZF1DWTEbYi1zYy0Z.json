@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 281956,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg"
@@ -4873,6 +4873,28 @@
     },
     {
       "album": {
+        "name": "Living A Dream",
+        "url": "https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/2daXcMrxq1KgYbfzP8GnX2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262051,
+      "name": "Living A Dream",
+      "url": "https://open.spotify.com/track/0TW2qtoPj7KQ3k0dgNnNKG"
+    },
+    {
+      "album": {
         "name": "Living in This House",
         "url": "https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP"
       },
@@ -5684,7 +5706,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 251219,
       "name": "New Lives",
       "url": "https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh"
@@ -7116,7 +7138,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 235733,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3"
@@ -8218,6 +8240,24 @@
       "duration_ms": 227931,
       "name": "That's The Way Of The World - Radio Edit",
       "url": "https://open.spotify.com/track/7GzQEvo3EJ1ybYeKcoWj1U"
+    },
+    {
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/1Iuzwy5Dra6ntbmJ2v4j9n"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256372,
+      "name": "The Bounce",
+      "url": "https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02"
     },
     {
       "album": {
@@ -9348,6 +9388,24 @@
       "duration_ms": 264186,
       "name": "When We Dance",
       "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1QaWrySFaSvXxrFWyUaYfg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219230,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/6b0rAouRVovuUi1s4x6BiT"
     },
     {
       "album": {

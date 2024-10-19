@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover :  Murphy
+> Check out the latest hits from Sandalwood!<br/>Cover :  Bagheera
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,724 likes - 77 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,729 likes - 77 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 76 | [Ullaasam \(From "Surya's Saturday \(Kannada\)"\)](https://open.spotify.com/track/7Fr2eYF46BdUX6Cloaz54E) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Krishna Lasya Muthyala](https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms) | [Ullaasam \[From "Surya's Saturday \(Kannada\)"\]](https://open.spotify.com/album/6AFSodUR4YhGqecsGJFsBF) | 4:44 |
 | 77 | [Maleye Maleye \- From "Salaga"](https://open.spotify.com/track/585GiLzVOyWincizmgXUBr) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [Maleye Maleye \- From "Salaga"](https://open.spotify.com/album/01qw6K0ERInDansPEWQzbo) | 4:06 |
 
-Snapshot ID: `ZxDvCQAAAAB6gEotBuzPTntfR+bUwSKh`
+Snapshot ID: `ZxItmQAAAABE08i/Ixw6bWnCbVq4XCLZ`

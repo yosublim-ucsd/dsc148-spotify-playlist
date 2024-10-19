@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 749612,
+  "num_followers": 749797,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 248640,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+      "duration_ms": 330986,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
     },
     {
       "added_at": "2024-10-10 08:46:55",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 330986,
-      "name": "Bandito",
-      "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
+      "duration_ms": 248640,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
     },
     {
       "added_at": "2024-10-10 08:46:55",
@@ -523,38 +523,6 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Pisces Iscariot (Deluxe)",
-        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "The Longest Wave",
-      "url": "https://open.spotify.com/track/0pjCkLjbgSLn5c0Ilwuv8z"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
       },
@@ -571,6 +539,22 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
+        "name": "Pisces Iscariot (Deluxe)",
+        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
         "name": "Moral Panic",
         "url": "https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 248399,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4ZEvO7TZQTbUGJzqjcPFDD"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "The Longest Wave",
+      "url": "https://open.spotify.com/track/0pjCkLjbgSLn5c0Ilwuv8z"
     },
     {
       "added_at": "2024-10-10 08:46:55",

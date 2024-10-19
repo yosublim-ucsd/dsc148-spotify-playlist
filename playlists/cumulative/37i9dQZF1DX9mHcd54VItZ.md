@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx">Sonder Onderbroeke</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=4eNZo2ayTWO8LbczPXKnZw">Rooksein</a>
 
-518 songs - 1 day 6 hr 54 min
+520 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Destination](https://open.spotify.com/track/41HTRLeK7GD9251tiuX1vX) | [Indie Dog](https://open.spotify.com/artist/3RXbBpqUbS5sBzgyWgkotn) | [Theory of Emotion](https://open.spotify.com/album/4BznP0N1xfGkGR0aWspdvE) | 4:48 | 2023-03-02 | 2023-05-12 |
 | [Didn't Want To Fall In Love With You \- Radio Edit](https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Didn't Want To Fall In Love With You \(Radio Edit\)](https://open.spotify.com/album/6mxPuV54mjYg3kOYDNOkgh) | 2:55 | 2021-11-25 | 2022-07-29 |
 | [Die Beste Kant](https://open.spotify.com/track/4ksJTGu0FybEZDEYNH5b1d) | [Rugga Rock](https://open.spotify.com/artist/1eggpWPvqpbFpSWVkjGvwG) | [Die Beste Kant](https://open.spotify.com/album/1YNPtUPFbSNG5kPNWKv5o9) | 2:59 | 2023-12-14 | 2024-01-05 |
+| [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 | 2024-10-18 |  |
 | [Die C\-Span](https://open.spotify.com/track/4oRVQbWroZKgxXld2a9Wer) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Die C\-Span](https://open.spotify.com/album/2I7eVjnDGerCjrUICKUNop) | 4:13 | 2024-10-04 | 2024-10-11 |
 | [Die Goeie Ou Dae](https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ) | 3:09 | 2023-12-08 | 2024-01-05 |
 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 | 2024-05-03 |  |
@@ -191,7 +192,7 @@
 | [Good Time](https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1) | [Filthy Hippies](https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC) | [Good Time](https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6) | 4:52 | 2023-08-11 | 2023-09-29 |
 | [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 | 2024-04-13 |
 | [Goodbye](https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9) | 3:58 | 2023-12-14 | 2023-12-16 |
-| [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 | 2024-07-04 |  |
+| [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 | 2024-07-04 | 2024-10-19 |
 | [Goue Lokke](https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL) | [Skelm](https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD) | [Vreemd](https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM) | 3:42 | 2023-07-06 | 2023-11-25 |
 | [Greetings from The Room](https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Eating Dirt](https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO) | 3:16 | 2023-06-01 | 2023-07-07 |
 | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K) | [Lincoln Hunter](https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1) | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK) | 3:19 | 2023-05-11 | 2023-07-29 |
@@ -258,6 +259,7 @@
 | [Kopskud Revolusie \(feat\. Spoegwolf\)](https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 2:55 | 2022-09-15 | 2023-08-05 |
 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 | 2024-01-04 |  |
 | [Kwart Voor Agt](https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu) | [Lliam Meredith](https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9) | [Kwart Voor Agt](https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN) | 2:29 | 2023-11-24 | 2024-01-05 |
+| [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 | 2024-10-18 |  |
 | [Laatnag\-sonop\-koebaai](https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Laatnag\-sonop\-koebaai](https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN) | 3:49 | 2022-11-24 | 2023-03-03 |
 | [Langs Die Straat](https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Langs Die Straat](https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj) | 3:31 | 2024-03-29 | 2024-05-19 |
 | [Last Stand](https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Last Stand](https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0) | 4:49 | 2023-08-04 | 2023-09-29 |
@@ -350,7 +352,7 @@
 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 | 2024-02-22 | 2024-04-27 |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-12 |  |
 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 | 2024-09-12 |  |
-| [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 | 2024-01-04 |  |
+| [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 | 2024-01-04 | 2024-10-19 |
 | [Pink Codeine](https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Pink Codeine](https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe) | 3:29 | 2023-06-01 | 2023-09-01 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |
 | [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 | 2023-11-10 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 23907,
-  "original_name": "This Is kessoku band",
+  "description": "This is \u7d50\u675f\u30d0\u30f3\u30c9. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 23945,
+  "original_name": "This Is \u7d50\u675f\u30d0\u30f3\u30c9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAABZz5kaT7nJyxaFcdj/cimf",
+  "snapshot_id": "ZxBTgAAAAAArtPiMia+5mWVMXn9CBo6/",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
-        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 307133,
-      "name": "Re:Re:",
-      "url": "https://open.spotify.com/track/2XQ0xNRjpO6xEwPTow2wCn"
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078",
+      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
+        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078",
-      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
+      "duration_ms": 307133,
+      "name": "Re:Re:",
+      "url": "https://open.spotify.com/track/2XQ0xNRjpO6xEwPTow2wCn"
     },
     {
       "added_at": null,
@@ -441,6 +441,6 @@
       "url": "https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D"
     }
   ],
-  "unique_name": "This Is kessoku band",
+  "unique_name": "This Is \u7d50\u675f\u30d0\u30f3\u30c9",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,392 likes - 544 songs - 1 day 8 hr 44 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,388 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 123 | [Liberate Truth](https://open.spotify.com/track/0XBZgKHIlgjcOxnanLolLP) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Sub\-Sonar](https://open.spotify.com/album/0EAsTWSaLEaSgSMbyiucvG) | 6:33 |
 | 124 | [Plasma](https://open.spotify.com/track/46nw6YdpJkEyclznx4VU7o) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Planet Piano](https://open.spotify.com/album/2N35clwJXKNPPtuchtssJZ) | 4:11 |
 | 125 | [Spiral Neo Wave](https://open.spotify.com/track/5XdbkdP0lsfdWEHtMHyVwL) | [Sonic Coaster Pop](https://open.spotify.com/artist/1l1BVhPgypqQWWTyfy8qDt) | [SUPER MIRACLE CIRCUIT](https://open.spotify.com/album/6WtmfQ1GtFlXAhKpNrWoTe) | 1:12 |
-| 126 | [Pianissimo Epilogue](https://open.spotify.com/track/3Ln0J3JEkNfbjpESJgosaK) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:37 |
+| 126 | [Pianissimo Epilogue](https://open.spotify.com/track/3Ln0J3JEkNfbjpESJgosaK) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:37 |
 | 127 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 |
 | 128 | [I LIVE IN FRUTIGER AERO](https://open.spotify.com/track/7dOMqgbKWtAHb3CMEqGaQP) | [Fond Memory Vacation](https://open.spotify.com/artist/0aIX1rIWEXzBM1PEz3ZRn6) | [I LIVE IN FRUTIGER AERO](https://open.spotify.com/album/0e6L691T5PAcMNQNLXvRdR) | 2:06 |
 | 129 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 |
@@ -323,7 +323,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 313 | [from the roof top\~somewhere in the silence\[sniper's theme\]](https://open.spotify.com/track/6kdRP3yx2g2CHNcpepXm2U) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 6:31 |
 | 314 | [Heaven](https://open.spotify.com/track/1G5jWQn1OwFVJMmySMwl7X) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/6X3WjCJIzOzTAyTSjZ65op) | 2:59 |
 | 315 | [mint tears](https://open.spotify.com/track/3T8xr6PCMdp2aHz2Jdvyjh) | [太鼓の達人](https://open.spotify.com/artist/5TuifiMxdEVXdUXRI4UGwn), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Taiko no Tatsujin Namco Original Soundtrack ”Hit songs” collection](https://open.spotify.com/album/4X8yktGQS5pULcm11d1bwq) | 1:54 |
-| 316 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
+| 316 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
 | 317 | [Besaid Island \(From " Final Fantasy X"\)](https://open.spotify.com/track/2sZcI6xW26um19TVkxzGjR) | [Voltz Supreme](https://open.spotify.com/artist/23NeaktbZaCSZsrvScA86N) | [Synth VGM Remixes, Vol\. 3 \(Underwater & Slightly Moist Themes, Pt\. 2\)](https://open.spotify.com/album/3CZtxso7RKhJSdcWYEMcHu) | 5:03 |
 | 318 | [A Secret Sleeping in the Deep Sea \(From "Final Fantasy VII"\)](https://open.spotify.com/track/1bAQrOyXB3CYn0eJSDTEho) | [Voltz Supreme](https://open.spotify.com/artist/23NeaktbZaCSZsrvScA86N) | [Synth VGM Remixes, Vol\. 3 \(Underwater & Slightly Moist Themes, Pt\. 2\)](https://open.spotify.com/album/3CZtxso7RKhJSdcWYEMcHu) | 4:40 |
 | 319 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 |

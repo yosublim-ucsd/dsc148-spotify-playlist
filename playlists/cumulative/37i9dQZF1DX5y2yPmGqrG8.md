@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-568 songs - 2 day 6 hr 9 min
+569 songs - 2 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 | 2021-10-06 | 2024-04-19 |
 | [Dwellberry](https://open.spotify.com/track/47D1bGtpL5gzlPgxjV7kgB) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/2f3uhql1s62iUw61GMvpRM) | 4:43 | 2021-10-06 | 2022-06-05 |
 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 | 2021-10-06 | 2022-10-12 |
+| [Earning Sounds](https://open.spotify.com/track/43N1zJZhn3C74KdKQTLNHm) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 3:16 | 2024-10-18 |  |
 | [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 | 2022-02-18 | 2022-07-29 |
 | [Echoes](https://open.spotify.com/track/1AiTXaP2P424K3QJSZYAoB) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Annihilation Of Self](https://open.spotify.com/artist/5DaYScQGBRXnrpi9WubEQR) | [Echoes, Pt\. 1](https://open.spotify.com/album/1bxdLMqM1C6u6KnNpZ3DoF) | 2:59 | 2022-03-11 | 2022-07-27 |
 | [En Bas Tu Vois](https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [En Bas Tu Vois](https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm) | 12:47 | 2022-07-08 | 2022-08-17 |
@@ -564,7 +565,7 @@
 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2021-10-06 | 2022-07-11 |
 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 | 2022-03-30 | 2022-07-28 |
 | [Wing Pinger 06](https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 23:17 | 2022-03-30 | 2022-07-26 |
-| [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 | 2021-10-06 |  |
+| [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 | 2021-10-06 | 2024-10-19 |
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 | 2023-08-18 |
 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 | 2023-05-17 |
 | [Yesterday](https://open.spotify.com/track/7aLQZTDhGcUOJCQinQbGWG) | [Kit Grill](https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz) | [Spirit](https://open.spotify.com/album/3ItdNpejzmrIcEtRRUjXgz) | 2:27 | 2022-02-18 | 2022-07-24 |

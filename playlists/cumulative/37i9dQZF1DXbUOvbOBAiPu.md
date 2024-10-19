@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Mustii
 
-2,276 songs - 5 day 0 hr 40 min
+2,277 songs - 5 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 | 2024-10-18 |
 | [Apollo](https://open.spotify.com/track/5GtfNJlEWahLnXsKFzZtTz) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Apollo](https://open.spotify.com/album/1lrzJl5nqeFkcuK7J0IOQm) | 2:55 | 2024-10-10 | 2024-10-18 |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-04-26 | 2024-05-03 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-13 | 2024-06-21 |
 | [ARCHANGEL](https://open.spotify.com/track/3OA0492UjiqXUFbayx53VI) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [ARCHANGEL / SYNKRONIZE](https://open.spotify.com/album/4g557yyGNNdJUyPo97Ny2s) | 3:29 | 2024-09-05 | 2024-09-13 |
 | [are u done?](https://open.spotify.com/track/1Oyp4dLx07QamoDQZxs2W8) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [are u done?](https://open.spotify.com/album/1q1eRm6pNbhRliiIzFWd4c) | 2:31 | 2024-05-17 | 2024-05-24 |
@@ -1247,7 +1248,7 @@
 | [MELODIC AVENUE](https://open.spotify.com/track/6jw8h7o14zd0Vr1ZUsGyNf) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [NAMPA](https://open.spotify.com/artist/5bGBs7LJETZ8ekBWYaiXMl) | [MELODIC AVENUE](https://open.spotify.com/album/1JVK2WSmNnqoDaaXS16Y2p) | 3:13 | 2024-09-05 | 2024-09-13 |
 | [Melody Of The World](https://open.spotify.com/track/5f2MGMo8ARWb6WojaODeAY) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Loic D](https://open.spotify.com/artist/1rzEOTdzDy4d1WwepFnxF9), [Ronald\-V](https://open.spotify.com/artist/5n7CS2a8sZMC8RomunpUzq) | [Melody Of The World](https://open.spotify.com/album/6KjUwVz5BQll1u26SwgytO) | 2:31 | 2024-09-05 | 2024-09-13 |
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-26 | 2024-10-04 |
-| [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [Mc Menor JP](https://open.spotify.com/artist/6cP3LCsIiLJF1R5qcdmiGT), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-10-17 |  |
+| [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-10-17 |  |
 | [MERCI](https://open.spotify.com/track/7HRfX5It3lx1E02wTRR0RX) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [MERCI](https://open.spotify.com/album/3XDU23knaqOYPuqDpyEoOW) | 3:12 | 2024-07-19 | 2024-07-27 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-06-13 | 2024-06-21 |
 | [MERTHER](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [MERTHER](https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo) | 3:09 | 2024-10-17 |  |

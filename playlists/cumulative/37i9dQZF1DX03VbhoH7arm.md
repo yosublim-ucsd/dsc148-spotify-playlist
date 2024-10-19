@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Delacruz, IZA
+> Grandes hits do BR e do 🌎 / Foto: Pedro Sampaio, Marina Sena
 
 332 songs - 16 hr 14 min
 

@@ -2,9 +2,9 @@
 
 ### [Norteño Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este, Nivel en portada.
+> A levantar polvadera con lo mejor de la música de sax\. La Pocima Norteña en portada.
 
-192 songs - 9 hr 48 min
+194 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Búscame](https://open.spotify.com/track/2vM3jK9t1YqdydOgS3T1b4) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Búscame](https://open.spotify.com/album/4iAWI9q2g46nnZtEkm83Tu) | 2:53 | 2024-03-29 | 2024-08-03 |
 | [Carmesí](https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Carmesí](https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn) | 2:56 | 2024-06-28 |  |
 | [Chelas y Besos](https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN) | 3:01 | 2024-08-22 |  |
+| [Chingo de Amor](https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chingo de Amor](https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU) | 2:54 | 2024-10-18 |  |
 | [Chiquilla Preciosa \- En Vivo](https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Renovando El Estilo 2.0 \(En Vivo\)](https://open.spotify.com/album/1cT5agyzL39kX5MZ6FSVKg) | 3:04 | 2023-05-19 | 2023-07-15 |
 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 | 2023-03-06 |  |
 | [Cicatrices](https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Cicatrices](https://open.spotify.com/album/2SrJ8mA3HWb48esf6e2msY) | 2:39 | 2023-05-19 | 2023-11-18 |
@@ -105,6 +106,7 @@
 | [Llévame A Las Estrellas](https://open.spotify.com/track/34B65VVmjWw3vdIpdZXxL8) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Llévame A Las Estrellas](https://open.spotify.com/album/5bCw0LfFO5fhw0djqgFGCd) | 2:28 | 2023-07-28 | 2023-09-30 |
 | [Lo Dice El Corazón](https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Lo Dice El Corazón](https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl) | 2:50 | 2023-03-06 | 2024-05-18 |
 | [Lo Mejor De Lo Mejor](https://open.spotify.com/track/5gpgYBVx8DAXwW4T6kFqc5) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2023-03-06 | 2023-05-20 |
+| [Lo Que Yo Necesitaba](https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Vibras](https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0) | 2:40 | 2024-10-18 |  |
 | [Lo Tienes Todo](https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:44 | 2023-11-17 |  |
 | [Los Toritos](https://open.spotify.com/track/6N8HTPH78LJwL1WYvpF63c) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [Los Toritos](https://open.spotify.com/album/2bw9mrWd35tnbAHwhtdJHh) | 2:52 | 2023-03-06 | 2023-04-15 |
 | [Los Ángeles Existen](https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Diez](https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi) | 3:18 | 2023-03-06 |  |

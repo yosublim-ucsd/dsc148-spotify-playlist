@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 67130,
+  "num_followers": 67175,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAADYYoaqc07tyAo1G6gnw7bk",
+  "snapshot_id": "ZxHdQAAAAACGu0Mh7oLjQJdrfHMf9py5",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/1Iuzwy5Dra6ntbmJ2v4j9n"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 256372,
+      "name": "The Bounce",
+      "url": "https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Living A Dream",
+        "url": "https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/2daXcMrxq1KgYbfzP8GnX2"
+        }
+      ],
+      "duration_ms": 262051,
+      "name": "Living A Dream",
+      "url": "https://open.spotify.com/track/0TW2qtoPj7KQ3k0dgNnNKG"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -25,20 +61,20 @@
       "url": "https://open.spotify.com/track/3VrSSFKulCr9Vdex6X4JHP"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I"
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1QaWrySFaSvXxrFWyUaYfg"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3"
+      "duration_ms": 219230,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/6b0rAouRVovuUi1s4x6BiT"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1337,26 +1373,6 @@
       "url": "https://open.spotify.com/track/03yIGoGXBosTeXJqBkuG5X"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "New Lives",
-        "url": "https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R"
-      },
-      "artists": [
-        {
-          "name": "Michael Cates",
-          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
-        },
-        {
-          "name": "Greg Manning",
-          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
-        }
-      ],
-      "duration_ms": 251219,
-      "name": "New Lives",
-      "url": "https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh"
-    },
-    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "Soul Connection",
@@ -1687,30 +1703,6 @@
       "duration_ms": 222760,
       "name": "Hoboken",
       "url": "https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab"
-    },
-    {
-      "added_at": "2024-07-12 04:01:00",
-      "album": {
-        "name": "Freddie Freeloader",
-        "url": "https://open.spotify.com/album/1AzwNDfEC7MTfPMEOGYeOo"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 281956,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg"
     },
     {
       "added_at": "2023-04-14 04:01:00",

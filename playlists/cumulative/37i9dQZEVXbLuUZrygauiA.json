@@ -6546,7 +6546,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181472,
       "name": "Cala En El Alma",
       "url": "https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD"
@@ -10500,7 +10500,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 155826,
       "name": "De Puntitas",
       "url": "https://open.spotify.com/track/14pCsmYFn2ILfpFgc35MSq"
@@ -15858,7 +15858,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 136182,
       "name": "Flores",
       "url": "https://open.spotify.com/track/0L2cQcfEM4nVUAtwQPfP3w"
@@ -23126,7 +23126,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181728,
       "name": "Los Presidentes",
       "url": "https://open.spotify.com/track/5rkObVufQgs03O4WdTO8rf"
@@ -26378,6 +26378,24 @@
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
       "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262640,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3MxJGBnYaP4yQYUv90HLqZ"
     },
     {
       "album": {
@@ -38817,6 +38835,24 @@
     },
     {
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -43752,7 +43788,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 101420,
       "name": "void - super slowed",
       "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
@@ -44294,6 +44330,24 @@
       "duration_ms": 214333,
       "name": "Wait",
       "url": "https://open.spotify.com/track/78q95oBxFrzHHAWsXRogXa"
+    },
+    {
+      "album": {
+        "name": "Made In The A.M. - Deluxe Edition",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "Walking in the Wind",
+      "url": "https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO"
     },
     {
       "album": {

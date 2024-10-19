@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,037 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,262 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 41 | [ぴぽぴぽ](https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:22 |
 | 42 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 43 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 |
-| 44 | [可愛くてごめん](https://open.spotify.com/track/3K9RzumH1VCDgIZuwuT9bq) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [かぴ](https://open.spotify.com/artist/2IWA9Y19snO99fIgoMn8Tr) | [告白実行委員会 \-FLYING SONGS\- 恋してる](https://open.spotify.com/album/5HcJ1GcW9F1jPjuTCNx0FS) | 3:39 |
+| 44 | [可愛くてごめん \(feat\. かぴ\)](https://open.spotify.com/track/3K9RzumH1VCDgIZuwuT9bq) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [かぴ](https://open.spotify.com/artist/2IWA9Y19snO99fIgoMn8Tr) | [告白実行委員会 \-FLYING SONGS\- 恋してる](https://open.spotify.com/album/5HcJ1GcW9F1jPjuTCNx0FS) | 3:39 |
 | 45 | [ハート111](https://open.spotify.com/track/53YHW8TOsgNrMANmGjN5ew) | [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf) | [ハート111](https://open.spotify.com/album/0ZC3XBgXq96h2GAQskteRP) | 1:52 |
 | 46 | [強風オールバック](https://open.spotify.com/track/4pBQGAV1bm6xqFcZL2yGSM) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:17 |
 | 47 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |

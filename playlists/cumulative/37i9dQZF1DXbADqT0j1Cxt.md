@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-672 songs - 20 hr 27 min
+674 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Sailing on a Banana](https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Sailing on a Banana](https://open.spotify.com/album/7oLPHrzHYEOVIsp0y0dJO0) | 1:58 | 2024-07-19 |  |
 | [Sammy Sleepyhead](https://open.spotify.com/track/58Q20FvalHCBTlJtdi9s9i) | [Miki Broberg](https://open.spotify.com/artist/39z4lXEyRlhUkriGDZ8vhE) | [Sammy Sleepyhead](https://open.spotify.com/album/4c9DmYa4xe7s70lnBvlCIA) | 1:28 | 2021-10-07 | 2024-05-24 |
 | [Sandcastles](https://open.spotify.com/track/7rhYftKoKVvpYcKzfkvRQQ) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [Sandcastles](https://open.spotify.com/album/3ZhpOzrlslc7xlMZ2CtTSh) | 2:07 | 2024-09-30 |  |
+| [Sandscape](https://open.spotify.com/track/2fEh6nwa96GLrsusJy7hjX) | [Teddy Gorbella](https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3) | [Sandscape](https://open.spotify.com/album/6w3fhKFE4kStSReKTyHUCn) | 1:29 | 2024-10-18 |  |
 | [Sawing lumber when I slumber](https://open.spotify.com/track/2inaMVUoCaJh6P0DRfcrcE) | [Koby Watkins](https://open.spotify.com/artist/1XQRa7AZGtigxKfRiQ2Suz) | [Sawing lumber when I slumber](https://open.spotify.com/album/4ZFwidVASp10qO7TV6veyT) | 1:48 | 2021-10-07 | 2023-01-13 |
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2021-10-07 | 2022-02-11 |
 | [Schlaf, Kindlein, schlaf](https://open.spotify.com/track/3VKuGHMdxkXLATdMPKK7ih) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [Schlaf, Kindlein, schlaf](https://open.spotify.com/album/0LOTYKnlVxVSLwofhGqvz9) | 1:21 | 2023-01-13 |  |
@@ -634,6 +635,7 @@
 | [Twinkle](https://open.spotify.com/track/3p8jIuNsUTVG5PHyyr0G6W) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Twinkle](https://open.spotify.com/album/75WvVFSdbljSTsTqeIm1sL) | 1:21 | 2023-04-07 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2xommCoPThPqwJU5N6XYsE) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/6ISpvvDYcoojaaJ35jEQpE) | 3:13 | 2024-04-19 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/147gCksvDRmjG1pO51ZCcf) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:40 | 2021-10-07 | 2024-04-19 |
+| [Twinklepaws](https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Twinklepaws](https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C) | 1:42 | 2024-10-18 |  |
 | [Two Little Blackbirds](https://open.spotify.com/track/4GrJb2CouAQIqymFQEdweV) | [Melanie Peters](https://open.spotify.com/artist/2xuGQvF3z0rrsgxZVM0D0S) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I) | 1:52 | 2021-10-07 | 2022-10-29 |
 | [Two Little Puppies](https://open.spotify.com/track/4GlMPAwMs4zrQBoSKPtC2N) | [Elliott Spalding](https://open.spotify.com/artist/690gVgjN9rkeuiQvRNo4Ei) | [Two Little Puppies](https://open.spotify.com/album/4wg136q3fjaQjTiXhehZjh) | 1:35 | 2021-10-07 | 2022-12-24 |
 | [Under the stars](https://open.spotify.com/track/7a9IECeJJ1GsGhkLzHoY5k) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Under the stars](https://open.spotify.com/album/7AwyluhQXhubHEvuUKYDSW) | 1:33 | 2024-03-01 |  |

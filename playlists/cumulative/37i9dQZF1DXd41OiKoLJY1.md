@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Odri Artwork: Isu Kim
 
-2,844 songs - 6 day 22 hr 45 min
+2,845 songs - 6 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [DTTAH \(Don't Try This At Home\)](https://open.spotify.com/track/356kwvPmuDbyimgfCkA08f) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p), [Aliyah](https://open.spotify.com/artist/7tGX31ddtpQ1uplK16M5yn), [Carlisle](https://open.spotify.com/artist/7yP5gq4AbyeZsscf1hX3UA) | [DTTAH \(Don't Try This At Home\)](https://open.spotify.com/album/3IzNsnK6RUl5IOYz9iEy4D) | 3:47 | 2023-06-08 | 2023-06-23 |
 | [Duda Sa'yo](https://open.spotify.com/track/5PaFxlq528fOxubf1E6N4a) | [Chosen](https://open.spotify.com/artist/0xgYBuF3OLAyaL5HCYc092) | [Duda Sa'yo](https://open.spotify.com/album/0Lf8WDmfAEMJQaZe3c6ezX) | 2:23 | 2024-10-10 |  |
 | [Dulo](https://open.spotify.com/track/3QhM53UNmM3fKaYSvVhufK) | [A for A](https://open.spotify.com/artist/4BytLrttDvV1u8CTUNmBOp) | [Dulo](https://open.spotify.com/album/5xGpjTEIbM9QoJULPUO0PA) | 5:00 | 2023-09-28 | 2023-10-24 |
+| [Dulo](https://open.spotify.com/track/44C9zkIUWLQdRFs8OXcCHK) | [Jello](https://open.spotify.com/artist/1tJJVANSDBSWw2bNWLH3LJ) | [Dulo](https://open.spotify.com/album/2QvAqVIFRjoLZTHRQch9RV) | 4:21 | 2024-10-17 |  |
 | [Dynamite](https://open.spotify.com/track/6OcSpQwGPsZTE38sCgUMZ4) | [Vrainy](https://open.spotify.com/artist/3ukdkvsqpDsMh2b0Td8f4r) | [Dynamite](https://open.spotify.com/album/5pWDjdLNZ437o3kAcmSV6k) | 3:36 | 2023-06-22 | 2024-01-12 |
 | [EARTH C\-137](https://open.spotify.com/track/05kmRqJnBBft8UmuUvUEeC) | [LuckyChan](https://open.spotify.com/artist/6wVI7vgz3JJKAHz6JJ3Vwi) | [EARTH C\-137](https://open.spotify.com/album/3VDWsEg2BLtXvgKMOeeiYu) | 3:03 | 2023-06-29 | 2023-07-14 |
 | [EASTSIDE BABY](https://open.spotify.com/track/0ix0mTRnMhYSgZEKZSiDiw) | [CARBY](https://open.spotify.com/artist/0vpz8jkLuov7SU6Bxzv2gh) | [EASTSIDE BABY](https://open.spotify.com/album/3ps8x9bVD1w2NIAqrw6chQ) | 2:48 | 2024-03-21 | 2024-04-26 |

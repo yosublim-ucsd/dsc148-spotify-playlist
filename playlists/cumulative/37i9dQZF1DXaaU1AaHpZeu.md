@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina, con ODD MAMI en portada.
 
-5,075 songs - 11 day 16 hr 10 min
+5,076 songs - 11 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1394,6 +1394,7 @@
 | [EL APAGÓN](https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [EL APAGÓN](https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn) | 3:48 | 2024-04-26 | 2024-05-03 |
 | [El Arte](https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [El Arte](https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ) | 3:25 | 2022-08-19 | 2022-08-27 |
 | [El Astro Rey](https://open.spotify.com/track/3063kjNQ3niU6CS1OdvyUG) | [Enric Montefusco](https://open.spotify.com/artist/3X3vk6cQHF0ViZeiXFLhR7) | [Viaje al Centro de un Idiota: Infierno / Purgatorio](https://open.spotify.com/album/54zfPaEN3Z9ephknGQidRk) | 3:35 | 2022-11-18 | 2022-11-26 |
+| [El Bandido Medina \- De la serie original de Prime Video, Medina: El Estafador de Famosos](https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [El Bandido Medina \(De la serie original de Prime Video, Medina: El Estafador de Famosos\)](https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI) | 3:16 | 2024-10-18 |  |
 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 | 2022-10-07 | 2022-10-15 |
 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 | 2024-06-29 |
 | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 | 2024-09-06 | 2024-09-21 |

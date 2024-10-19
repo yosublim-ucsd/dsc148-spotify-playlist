@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,454 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 30 | [Scatter \(Acoustic\)](https://open.spotify.com/track/4O8EkIP1esg2G2QNbg8IFk) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Scatter \(Acoustic\)](https://open.spotify.com/album/2b6VV3uwFG2LBD7LwKEXqQ) | 3:06 |
 | 31 | [Pounds & Dollars \- Acoustic](https://open.spotify.com/track/4ef8LKtDwxS6HlCQenuUoR) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Pounds & Dollars \(Live\)](https://open.spotify.com/album/4y7GWjEodnSJhhsEvGeN9N) | 2:41 |
 | 32 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 |
-| 33 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 |
-| 34 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 |
-| 35 | [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 |
-| 36 | [Ready \- Acoustic](https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh) | [Toye Aru](https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM), [Derrick UGC](https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS) | [Ready \(Acoustic\)](https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE) | 2:51 |
-| 37 | [Let it be](https://open.spotify.com/track/4scQQdvqjzCtOcxVs8r8Ia) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Let it be](https://open.spotify.com/album/6rz8CVtzWCV2rAfQDSHWDq) | 3:01 |
+| 33 | [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \- Acoustique](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 |
+| 34 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 |
+| 35 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 |
+| 36 | [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 |
+| 37 | [Ready \- Acoustic](https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh) | [Toye Aru](https://open.spotify.com/artist/7HgyJrftDM9DDIwK4ztJoM), [Derrick UGC](https://open.spotify.com/artist/0LUhb3eRD3MsTyqiJtibsS) | [Ready \(Acoustic\)](https://open.spotify.com/album/43liR0KxKxxMaJOyxoR7FE) | 2:51 |
 | 38 | [Kubali \(Acoustic\)](https://open.spotify.com/track/7A7LCPRoc6kyzMccPmNosm) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Kubali \(Acoustic\)](https://open.spotify.com/album/7ojceZ0VoNGtXRTUWjtth4) | 4:46 |
 | 39 | [Angel \- Acoustic](https://open.spotify.com/track/42Ukr1sUiu42ZTVCIaFKdH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel \(Acoustic\)](https://open.spotify.com/album/7fmwmiRd2t9TA4bV0eL1NP) | 3:14 |
 | 40 | [Flight Alerts \- Stripped](https://open.spotify.com/track/0KximhGn0QxpaBuDP5qLyR) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/2pPPMJVM2EXGSuFTd4tPNF) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 49 | [In The Light \- Stripped Version](https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [In The Light \(Stripped Version\)](https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6) | 2:39 |
 | 50 | [In My Bed \- Acoustic](https://open.spotify.com/track/50UaUzSirpXhURmtfqeHVq) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/1gZQCAMo5ZNJmaVrBrcg5l) | 2:44 |
 
-Snapshot ID: `Zv8vxAAAAACKkzEbtkVOYTbYqllUepK/`
+Snapshot ID: `ZxIuNQAAAADkftN2Ld7huiCKIFj7MUdZ`

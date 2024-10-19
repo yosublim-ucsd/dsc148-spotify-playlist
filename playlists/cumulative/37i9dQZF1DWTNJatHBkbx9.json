@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: NATAB",
+  "description": "From the alternative scene in Ghana. Cover: Asi Renie",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -241,6 +241,32 @@
     },
     {
       "album": {
+        "name": "Road To Fuego",
+        "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171073,
+      "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
+      "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
+    },
+    {
+      "album": {
         "name": "BASSA",
         "url": "https://open.spotify.com/album/3jnBopniBSlzdEfL6Y5PhA"
       },
@@ -462,6 +488,24 @@
       "duration_ms": 211230,
       "name": "Children With Adult Problems",
       "url": "https://open.spotify.com/track/3rWSgIDcqcNEicqOc5WSNu"
+    },
+    {
+      "album": {
+        "name": "Come Follow Me",
+        "url": "https://open.spotify.com/album/4f3SmSUYbf384SthvKjjFf"
+      },
+      "artists": [
+        {
+          "name": "Sena Dagadu",
+          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342068,
+      "name": "Come Follow Me",
+      "url": "https://open.spotify.com/track/56T8loOtxEaHfa6R6zkDO3"
     },
     {
       "album": {
@@ -760,7 +804,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 125471,
       "name": "Fallin For U",
       "url": "https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS"
@@ -782,6 +826,28 @@
       "duration_ms": 191307,
       "name": "FALLING IN LOVE",
       "url": "https://open.spotify.com/track/5MgS2ItskwZYqXjREi74n4"
+    },
+    {
+      "album": {
+        "name": "Nobody Badder",
+        "url": "https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160359,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
     },
     {
       "album": {
@@ -960,7 +1026,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 220013,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
@@ -1393,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Melanie",
+        "url": "https://open.spotify.com/album/62jdpurdBUqrnSVuSJKwgT"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Melanie",
+      "url": "https://open.spotify.com/track/5gNBLq9tNRD1bCEjoUpdEZ"
+    },
+    {
+      "album": {
         "name": "Menko Me Hemaa",
         "url": "https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD"
       },
@@ -1742,7 +1826,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 187951,
       "name": "ON MY BODY",
       "url": "https://open.spotify.com/track/1BJaSV1JfaaUf6SX2VwiaW"
@@ -2054,6 +2138,32 @@
       "duration_ms": 189440,
       "name": "Princess Going Digital",
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "album": {
+        "name": "PUFF PUFF",
+        "url": "https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164182,
+      "name": "PUFF PUFF",
+      "url": "https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy"
     },
     {
       "album": {
@@ -2454,6 +2564,24 @@
       "duration_ms": 171157,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm"
+    },
+    {
+      "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/6j4ePc4BYeLuqtXNf7lpqy"
+      },
+      "artists": [
+        {
+          "name": "Asi Renie",
+          "url": "https://open.spotify.com/artist/6LN0wKo0KuF6TBgwn0hvja"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/131gYrutihXNvIUEtBYSbG"
     },
     {
       "album": {

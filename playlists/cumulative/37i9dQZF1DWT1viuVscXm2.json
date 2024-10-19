@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 153653,
       "name": "Coraz\u00f3n De Madera",
       "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 228916,
       "name": "La Chevecha",
       "url": "https://open.spotify.com/track/3gQt1AZ6wwIZAOgEpenyUA"
@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "AMOR FUGAZ",
+        "url": "https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160097,
+      "name": "Necesito",
+      "url": "https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd"
+    },
+    {
+      "album": {
         "name": "Negra Caderona",
         "url": "https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy"
       },
@@ -4605,6 +4623,28 @@
     },
     {
       "album": {
+        "name": "Por Dios Que No (En Vivo)",
+        "url": "https://open.spotify.com/album/0ygzHrHw25kOmpGyF7QmHe"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165648,
+      "name": "Por Dios Que No - En Vivo",
+      "url": "https://open.spotify.com/track/3GQtDlWeuibWgxJe0Feuan"
+    },
+    {
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
@@ -4860,7 +4900,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 168510,
       "name": "Quien",
       "url": "https://open.spotify.com/track/6bhCQBkTEsQZewNPPbIi31"
@@ -5620,6 +5660,28 @@
       "duration_ms": 311080,
       "name": "Te hubieras ido antes",
       "url": "https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU"
+    },
+    {
+      "album": {
+        "name": "Te Juro Que No Es Verdad",
+        "url": "https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155023,
+      "name": "Te Juro Que No Es Verdad",
+      "url": "https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo"
     },
     {
       "album": {

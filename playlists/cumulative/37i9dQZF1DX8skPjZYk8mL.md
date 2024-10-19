@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,069 songs - 1 day 7 hr 51 min
+1,072 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Sailing on a Banana](https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Sailing on a Banana](https://open.spotify.com/album/7oLPHrzHYEOVIsp0y0dJO0) | 1:58 | 2024-07-19 |  |
 | [Sandcastles](https://open.spotify.com/track/7rhYftKoKVvpYcKzfkvRQQ) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [Sandcastles](https://open.spotify.com/album/3ZhpOzrlslc7xlMZ2CtTSh) | 2:07 | 2024-09-30 |  |
 | [Sandman Little Sandman](https://open.spotify.com/track/6F18znjIquQxFEiXl8U7Sm) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [Sandman Little Sandman](https://open.spotify.com/album/7JOK7rzv6m2tjwGXAgXjTo) | 1:27 | 2024-06-21 |  |
+| [Sandscape](https://open.spotify.com/track/2fEh6nwa96GLrsusJy7hjX) | [Teddy Gorbella](https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3) | [Sandscape](https://open.spotify.com/album/6w3fhKFE4kStSReKTyHUCn) | 1:29 | 2024-10-18 |  |
 | [Saturday Surprise](https://open.spotify.com/track/75PJ4DITByJTZXV1RfrVqX) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Saturday Surprise](https://open.spotify.com/album/4JHK6LmykgfEZL4o0XXL3m) | 1:17 | 2022-07-29 | 2022-10-29 |
 | [Schlaf, Kindlein, schlaf](https://open.spotify.com/track/3VKuGHMdxkXLATdMPKK7ih) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [Schlaf, Kindlein, schlaf](https://open.spotify.com/album/0LOTYKnlVxVSLwofhGqvz9) | 1:21 | 2023-01-06 | 2023-08-18 |
 | [Sea Lions](https://open.spotify.com/track/4NwEQsgZbGVhhjHKEBzEEa) | [Little Mishka](https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n) | [Sea Lions](https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON) | 1:48 | 2023-06-15 |  |
@@ -787,6 +788,7 @@
 | [Sleepy Eyes](https://open.spotify.com/track/2WPQXLUNLV0MpnLsXq216q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleepy Eyes](https://open.spotify.com/album/4ORkajLhJ0JkLFom7hSBkf) | 2:21 | 2022-01-21 | 2023-06-23 |
 | [Sleepy Eyes](https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [Sleepy Eyes](https://open.spotify.com/album/5kKBEyXJ7wX8lzUZpZv35O) | 1:55 | 2022-04-22 | 2024-05-04 |
 | [Sleepy Eyes](https://open.spotify.com/track/53mfvorO6wNhT0isp1gbE9) | [Wright Priestley](https://open.spotify.com/artist/0LaG9s5wrLFkfJNSQGwOwp) | [Sleepy Eyes](https://open.spotify.com/album/4YtEguKm1Xv9k39LzmdBP7) | 1:41 | 2022-10-07 | 2024-04-05 |
+| [Sleepy Hedgehog](https://open.spotify.com/track/7rHIKl5yCV6DiBoYS2t3tO) | [Tom Eastman](https://open.spotify.com/artist/7KBkjudsZi65ojptsNCG13) | [Sleepy Hedgehog](https://open.spotify.com/album/3xJQkijwR1tG8kLqClF3A5) | 1:26 | 2024-10-18 |  |
 | [Sleepy Land](https://open.spotify.com/track/5uLDHN6Lbh7fDbFDxDyCSv) | [Elias Ståhle](https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV) | [Sleepy Land](https://open.spotify.com/album/3aEQQidga93YN6RBxHmt1W) | 1:56 | 2022-04-22 | 2024-05-24 |
 | [Sleepy Pony](https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Sleepy Pony](https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq) | 1:22 | 2022-07-29 | 2023-04-09 |
 | [Sleepy Prelude](https://open.spotify.com/track/3BLNQFQVWbDcbJLsxKynX6) | [Goodwin Hart](https://open.spotify.com/artist/0ZhiIKLSPHpPBu3760ZI7E) | [Sleepy Prelude](https://open.spotify.com/album/6uA3XQQ8bOF5jXYtESBnpj) | 2:19 | 2022-09-02 | 2024-04-20 |
@@ -924,7 +926,7 @@
 | [The Stars Above](https://open.spotify.com/track/4SwvSIQv33vIYY2p9TTFJF) | [Blaise Mildred](https://open.spotify.com/artist/3miyFGrqBnU5jV3VobEnu6) | [The Stars Above](https://open.spotify.com/album/19cUmdchoacoZTsbKe0nDU) | 1:14 | 2021-11-08 | 2022-09-24 |
 | [The Stars and The Moon](https://open.spotify.com/track/42Cj3aQRIAaE0Fii8rwHLT) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [The Stars and The Moon](https://open.spotify.com/album/4yeNucrJoogGEfsvPm8DSE) | 1:17 | 2022-02-10 | 2024-05-04 |
 | [The Stars in Your Eyes](https://open.spotify.com/track/2mtHZX8jd1B1Nsf9U1CHdk) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [The Stars in Your Eyes](https://open.spotify.com/album/6q4OheMWHx4s2GOv9DLXNG) | 2:39 | 2023-06-15 |  |
-| [The Summer Song](https://open.spotify.com/track/7cMiMt0PxADfw0qyJntLOw) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [The Summer Song](https://open.spotify.com/album/4IDDkan328vqj516VfsBno) | 1:40 | 2024-10-11 |  |
+| [The Summer Song](https://open.spotify.com/track/7cMiMt0PxADfw0qyJntLOw) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [The Summer Song](https://open.spotify.com/album/4IDDkan328vqj516VfsBno) | 1:40 | 2024-10-11 | 2024-10-19 |
 | [The Sun Has Set](https://open.spotify.com/track/0IPKK4PN1dP81iivLNdJXq) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [The Sun Has Set](https://open.spotify.com/album/6tOclHnzUoh8vCrG3JJLU1) | 1:40 | 2021-11-08 | 2024-04-05 |
 | [The Sunset Song](https://open.spotify.com/track/5coSsftpWxzGkTmyrE7K4P) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [The Sunset Song](https://open.spotify.com/album/6lbTcfCTJQrui8k5TJZDh4) | 1:49 | 2023-02-17 |  |
 | [The Trolley and the Tree](https://open.spotify.com/track/12YCRrewMeC6B6NuRAFk2a) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [The Trolley and the Tree](https://open.spotify.com/album/5jozRmoOMXeJHN2t18EZ8E) | 1:59 | 2024-02-09 |  |
@@ -989,6 +991,7 @@
 | [Twinkle](https://open.spotify.com/track/74GGiDx1ffmes4p506vhnT) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Twinkle](https://open.spotify.com/album/61cvN1S31Z3dxr01kzJQE0) | 1:20 | 2023-04-07 | 2023-08-11 |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/2xommCoPThPqwJU5N6XYsE) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/6ISpvvDYcoojaaJ35jEQpE) | 3:13 | 2024-04-19 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/0auI02VsQeSX5DJ3e17Bmh) | [Rick Flemm](https://open.spotify.com/artist/3Z7sI9OvtPJDAtjrZQKIAE) | [All Time Favorite Lullabies](https://open.spotify.com/album/0c6lcJKUnuBj8qtwZDgXpw) | 1:31 | 2021-11-08 | 2024-04-05 |
+| [Twinklepaws](https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Twinklepaws](https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C) | 1:42 | 2024-10-18 |  |
 | [Twinkling Dreams](https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd) | [David Aydin](https://open.spotify.com/artist/44sI7kxhWJ08lYnGw492Om) | [Twinkling Dreams](https://open.spotify.com/album/3I8IeoIkwK7kAYxunROibU) | 1:19 | 2023-10-20 |  |
 | [Two Thumbs Up](https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:31 | 2021-11-08 | 2024-04-05 |
 | [Unchained Melody](https://open.spotify.com/track/00n1bCDbMrR7q0ZqY2p3VP) | [Isa Kaur](https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m) | [Unchained Melody](https://open.spotify.com/album/79QGxXKkqxoGCzrwBK3Doq) | 1:21 | 2024-05-24 |  |

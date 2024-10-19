@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 109577,
+  "num_followers": 109608,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Shinamania",
+        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
+      },
+      "artists": [
+        {
+          "name": "Sir Shina Peters",
+          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
+        }
+      ],
+      "duration_ms": 1002906,
+      "name": "Shinamania, Pt. 1",
+      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Shinamania",
-        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
-      },
-      "artists": [
-        {
-          "name": "Sir Shina Peters",
-          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
-        }
-      ],
-      "duration_ms": 1002906,
-      "name": "Shinamania, Pt. 1",
-      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Neria",
+        "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
+      },
+      "artists": [
+        {
+          "name": "Oliver Mtukudzi",
+          "url": "https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 357181,
+      "name": "Neria",
+      "url": "https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Fatteliku (Live in Athens 1987)",
         "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Neria",
-        "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
-      },
-      "artists": [
-        {
-          "name": "Oliver Mtukudzi",
-          "url": "https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 357181,
-      "name": "Neria",
-      "url": "https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt"
     },
     {
       "added_at": "2024-08-01 10:26:48",

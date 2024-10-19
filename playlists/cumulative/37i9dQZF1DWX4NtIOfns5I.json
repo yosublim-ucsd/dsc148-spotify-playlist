@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "new music from baby bugs, mxmtoon, maggie rogers & more \ud83d\udc1b\ud83c\udf42",
+  "description": "someone who'll love me the way that I am \ud83d\udcad",
   "name": "juniper",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 193187,
       "name": "A Tree Falls",
       "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "album": {
+        "name": "all I know",
+        "url": "https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194166,
+      "name": "all I know",
+      "url": "https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP"
     },
     {
       "album": {
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN"
+      },
+      "artists": [
+        {
+          "name": "Sister.",
+          "url": "https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267540,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -950,7 +986,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
@@ -1156,6 +1192,24 @@
       "duration_ms": 195187,
       "name": "Die Slower",
       "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
+    },
+    {
+      "album": {
+        "name": "Live From Mother Earth",
+        "url": "https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176475,
+      "name": "Dig Myself Out",
+      "url": "https://open.spotify.com/track/70JmaiNir097KCH7yInIC1"
     },
     {
       "album": {
@@ -2119,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1"
+    },
+    {
+      "album": {
         "name": "Same Streets But I Don't See You Around",
         "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
       },
@@ -2263,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/45zRBFb2wD4XDuZOBJqbEH"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154368,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/09vsySrvxLLyJKzeNAXjQj"
+    },
+    {
+      "album": {
         "name": "Honey I'm Hardly",
         "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
       },
@@ -2328,7 +2418,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210658,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
@@ -2494,7 +2584,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 191921,
       "name": "i need you more",
       "url": "https://open.spotify.com/track/0PI8WpeKqf32pC0X1jmNYc"
@@ -2916,7 +3006,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 191080,
       "name": "kid",
       "url": "https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb"
@@ -2952,7 +3042,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 106857,
       "name": "Lady Loveless",
       "url": "https://open.spotify.com/track/1Tfm1Y148BjWWDVeAZsni3"
@@ -3118,7 +3208,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 238613,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
@@ -3478,7 +3568,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 161519,
       "name": "Molly, I'm Coming Around",
       "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
@@ -3622,7 +3712,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
@@ -3676,7 +3766,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -4069,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Over Your Head",
+        "url": "https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196438,
+      "name": "Over Your Head",
+      "url": "https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ"
+    },
+    {
+      "album": {
         "name": "Overtime (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
       },
@@ -4276,6 +4384,28 @@
       "duration_ms": 239917,
       "name": "Pressing Down",
       "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
+    },
+    {
+      "album": {
+        "name": "pretty out",
+        "url": "https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG"
+      },
+      "artists": [
+        {
+          "name": "frans asthma",
+          "url": "https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL"
+        },
+        {
+          "name": "Qozy",
+          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "pretty out",
+      "url": "https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1"
     },
     {
       "album": {
@@ -4733,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "She Calls Me",
+        "url": "https://open.spotify.com/album/3Yi9nNzRpNOAX2JBZREY0r"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144153,
+      "name": "She Calls Me",
+      "url": "https://open.spotify.com/track/1yUMO0WA3qrHItTdtCq3hl"
+    },
+    {
+      "album": {
         "name": "She Calls Me Back (with Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
@@ -4892,7 +5040,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 152195,
       "name": "Slim Pickins",
       "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
@@ -4946,7 +5094,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
@@ -5671,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "album": {
         "name": "Time Shrinks",
         "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
       },
@@ -6364,7 +6530,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 247826,
       "name": "wishing for you",
       "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"

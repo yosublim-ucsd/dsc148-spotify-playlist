@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 163487,
       "name": "Antissocial",
       "url": "https://open.spotify.com/track/1qF7eDzaR22J0uJjZFWdQB"
@@ -2197,6 +2197,42 @@
     },
     {
       "album": {
+        "name": "PROFETA",
+        "url": "https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161079,
+      "name": "PROFETA",
+      "url": "https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7"
+    },
+    {
+      "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
+      },
+      "artists": [
+        {
+          "name": "Davi Le\u00e3o",
+          "url": "https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166615,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
+    },
+    {
+      "album": {
         "name": "P\u00e1ssaro Livre",
         "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
       },
@@ -3028,7 +3064,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 229786,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"

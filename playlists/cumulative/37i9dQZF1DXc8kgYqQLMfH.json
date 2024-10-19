@@ -8384,7 +8384,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 118250,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW"
@@ -9374,6 +9374,28 @@
       "duration_ms": 191647,
       "name": "in too deep",
       "url": "https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5FVihjhEeWHNoo41mYF27z"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "Spaniel Mac",
+          "url": "https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/1bOwFFeLsStmGLCvULnY55"
     },
     {
       "album": {

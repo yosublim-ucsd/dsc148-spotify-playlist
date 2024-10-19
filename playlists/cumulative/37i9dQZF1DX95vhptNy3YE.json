@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 348571,
       "name": "Fuga No Radar",
       "url": "https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E"
@@ -9142,6 +9142,24 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
+    },
+    {
+      "album": {
+        "name": "Notifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7I2tjoEMssBPwcmcQFDuJX"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177161,
+      "name": "Notifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3ot87RehrieMlYEzKMDFPb"
     },
     {
       "album": {

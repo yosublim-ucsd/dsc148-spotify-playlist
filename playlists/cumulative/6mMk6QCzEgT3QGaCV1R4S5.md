@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Purple Disco Machine &amp; The Magician
 
-155 songs - 8 hr 3 min
+157 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,14 @@
 | [Crazy](https://open.spotify.com/track/62ptJWdV7qRJ4CbYPc56SB) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Crazy](https://open.spotify.com/album/4wYQOo4tyBBbKL7ygZNgI3) | 2:25 | 2024-09-13 |  |
 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 | 2024-10-04 |  |
 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 | 2024-09-03 |  |
+| [Cry Baby](https://open.spotify.com/track/3M4zF4PgUTRzwhWzMNVFDz) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby \(Extended Versions\)](https://open.spotify.com/album/5zS9aXxY7PsAJgDiX9SAVd) | 2:37 | 2024-10-18 |  |
 | [Deep As Sixteen](https://open.spotify.com/track/0tGNWtLo5Me8yjXuLYsbiN) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Deep As Sixteen](https://open.spotify.com/album/0bDKewx93Gsb2ZohvKzApB) | 3:47 | 2024-05-10 | 2024-05-25 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-12-08 | 2024-09-04 |
 | [Diamond Shovel](https://open.spotify.com/track/6BbgGqA14ABXnYtrdIPxga) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Diamond Shovel](https://open.spotify.com/album/5HNJPThioX5ThRpMjYJTvf) | 3:29 | 2024-03-15 | 2024-04-13 |
 | [Disco en Egypte](https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Disco en Egypte](https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx) | 3:46 | 2023-12-08 | 2024-02-10 |
 | [DISKO](https://open.spotify.com/track/2bDLItAgVcVRlzL2vZQFPV) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [DISKO](https://open.spotify.com/album/1SPK5NPMkyprQOYP8kazgs) | 2:45 | 2024-03-01 | 2024-04-27 |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 | 2024-03-02 |
+| [dog](https://open.spotify.com/track/30nKYpQBn3HzWfSTZEaGgf) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [dog](https://open.spotify.com/album/04AOpkPAn23MKf89Zi81EG) | 3:15 | 2024-10-18 |  |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-06 |  |
 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 | 2023-12-08 | 2024-02-17 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-12-08 | 2024-04-20 |

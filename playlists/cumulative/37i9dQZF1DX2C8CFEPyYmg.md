@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-513 songs - 15 hr 42 min
+516 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Brahms Lullaby](https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Bedtime Stories](https://open.spotify.com/album/475sNo7ki5mekQ8eOsyepB) | 1:25 | 2022-08-11 | 2023-09-01 |
 | [Bredvid Dig](https://open.spotify.com/track/2XN4TGkQYND2X9BCdzXKqX) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Bredvid Dig](https://open.spotify.com/album/7cZTLiuK1n6femAP1zYgRu) | 1:42 | 2023-01-20 | 2023-09-16 |
 | [Broder Jakob](https://open.spotify.com/track/47o0t8TEmDGvZ2yWsqwxdu) | [Finn Sandqvist](https://open.spotify.com/artist/6xWlf9uV7EfbW8RlNjbGPB) | [String Lullabies](https://open.spotify.com/album/2DdVkPWkK49E6Y6PtRTQn0) | 1:47 | 2023-01-20 | 2023-09-16 |
-| [Bundle Of Joy](https://open.spotify.com/track/0uMbCB0ub2cGxgOf7fmiUj) | [Lola Fuentes](https://open.spotify.com/artist/5KLHjKxR9I5LuvQJ5xju6u) | [Bundle Of Joy](https://open.spotify.com/album/0DcXoQBIWV143wjNJHjKAo) | 1:08 | 2023-02-17 |  |
+| [Bundle Of Joy](https://open.spotify.com/track/0uMbCB0ub2cGxgOf7fmiUj) | [Lola Fuentes](https://open.spotify.com/artist/5KLHjKxR9I5LuvQJ5xju6u) | [Bundle Of Joy](https://open.spotify.com/album/0DcXoQBIWV143wjNJHjKAo) | 1:08 | 2023-02-17 | 2024-10-19 |
 | [Busy Little Bee](https://open.spotify.com/track/5Up0AeRVMombLEvAdVSXlu) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Watching The Sunset](https://open.spotify.com/album/6IShePTSr5ZHMvpz5cCxO4) | 1:50 | 2022-11-25 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2022-08-11 | 2022-10-29 |
 | [Bye Baby Bunting](https://open.spotify.com/track/5T9nGchAgWtiRhvUJYLcn0) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Bye Baby Bunting](https://open.spotify.com/album/5BQjsw7XhxeAhNctk6ZAYT) | 1:45 | 2023-01-20 |  |
@@ -174,7 +174,7 @@
 | [Go to Sleep, Colas My Little Brother](https://open.spotify.com/track/2anUUyX2PqINxY6g3aAQ69) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Go to Sleep, Colas My Little Brother](https://open.spotify.com/album/0ZXf6JppKOyncy6N6NV3yM) | 1:57 | 2023-04-21 | 2023-09-08 |
 | [Golden Slumbers](https://open.spotify.com/track/25GrVKmYKWz7idJPwBEyjG) | [Yana Petrova](https://open.spotify.com/artist/4BjQSODbgrCevHkfAV1KL3) | [Golden Slumbers](https://open.spotify.com/album/0eEIuoj8zNbHA58aTsEstc) | 1:49 | 2022-08-11 | 2023-02-24 |
 | [Good Night](https://open.spotify.com/track/3tid5OWnyCTKcTJfpTypvp) | [Nash Hershey](https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN) | [Good Night](https://open.spotify.com/album/002aizJ09iALMXmjTneAjv) | 1:10 | 2022-10-28 |  |
-| [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2022-08-11 |  |
+| [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2022-08-11 | 2024-10-19 |
 | [Good Night Moon](https://open.spotify.com/track/76OWmD2SSGUwxyQML8LsFp) | [Brook Parrish](https://open.spotify.com/artist/2iIEnYQQdqQB357rXwMjpI) | [Good Night Moon](https://open.spotify.com/album/6zA684Qywi8nJ3Nu7EyKqz) | 1:17 | 2023-02-17 |  |
 | [Good Night, Everyone](https://open.spotify.com/track/47Ehr3NNx21NOO1ggFIVFT) | [Morty Platt](https://open.spotify.com/artist/5OCwYaGPaxkqChAiKEGxOH) | [Good Night, Everyone](https://open.spotify.com/album/2ZGoTWS6V5VWCpgWuVoMni) | 1:15 | 2022-08-11 | 2023-05-19 |
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2022-08-11 | 2023-05-19 |
@@ -287,6 +287,7 @@
 | [Mon ours et moi](https://open.spotify.com/track/28SeDxpw75yC9775sqbTOi) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Mon ours et moi](https://open.spotify.com/album/1N2WagI342VifJKMQqILUN) | 1:37 | 2022-11-25 |  |
 | [Moon Light](https://open.spotify.com/track/58jyu4SUTC7OqvKaWOtY46) | [Merlin Allsopp](https://open.spotify.com/artist/37hx9bkkuBbG9n991iw27h) | [Moon Light](https://open.spotify.com/album/2uI58czxwcUQC4Zbr30xi8) | 1:33 | 2022-11-25 |  |
 | [Moon River](https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sov På Min Arm](https://open.spotify.com/album/7GySg5RGGfASZpjTZn07vG) | 1:22 | 2023-02-17 |  |
+| [Moon, Sun, See Where You Are](https://open.spotify.com/track/2gQyfjfnYiXB1b3jG7Soem) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Moon, Sun, See Where You Are](https://open.spotify.com/album/20OQxcjYs4Yjr6am1FX1dk) | 2:05 | 2024-10-18 |  |
 | [Moonchild](https://open.spotify.com/track/1lLcowZxEQAxUUrVsQmtmM) | [Lucy H Williams](https://open.spotify.com/artist/1I2p8bUKoWVc9JxNwDfG6Y) | [Moonchild](https://open.spotify.com/album/6UlvUbYKOTJdnGSGiz3EOl) | 1:39 | 2022-08-11 | 2022-09-23 |
 | [Moonlight Sleep](https://open.spotify.com/track/7H0tAhQsYhCSmZQNSqFadM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Moonlight Sleep](https://open.spotify.com/album/42xwyjkYGvu05mTt63pQq4) | 1:43 | 2023-06-02 |  |
 | [Morning Ditty](https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [Morning Ditty](https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L) | 1:37 | 2022-08-11 | 2023-04-22 |
@@ -340,6 +341,7 @@
 | [Promenons\-nous dans les bois](https://open.spotify.com/track/6gpQ1i2GT6WZwSs2b2b3OQ) | [Eva Blázquez](https://open.spotify.com/artist/3uhc1JfzKzRdtm3L10LYjn) | [Promenons\-nous dans les bois](https://open.spotify.com/album/0HRzz8Sv0oQ6wzrD0ZZHZY) | 2:04 | 2023-05-19 | 2023-09-16 |
 | [Puff the magic dragon](https://open.spotify.com/track/5RhFrMvsZ3YbylfWXwj8l8) | [Angeline Delaunay](https://open.spotify.com/artist/4v4KtI8f8puIEpQ4SoW270) | [Puff the magic dragon](https://open.spotify.com/album/14DKuczrbNj8joIyBOKrva) | 1:38 | 2023-04-21 | 2023-06-23 |
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2022-08-11 | 2022-10-29 |
+| [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 | 2024-10-18 |  |
 | [Rabbit Bestie](https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3) | [Buster Dyson](https://open.spotify.com/artist/5yGyDhblsaGzCxMmExIXrq) | [Rabbit Bestie](https://open.spotify.com/album/3wQNV1Kzkftuyvg6NKf24x) | 1:15 | 2022-12-23 |  |
 | [Rabbit In The Hat](https://open.spotify.com/track/00rRb4G7YP7nppzamVFKA2) | [Brian Garner](https://open.spotify.com/artist/14PkQdstnMicAGULrm5aV9) | [Treehouse](https://open.spotify.com/album/5o7s0tWeRWvMgCaoOyVBaB) | 2:02 | 2023-05-19 |  |
 | [Rain On The Roof](https://open.spotify.com/track/4B8RHheYV6ZglY4JN4BBO0) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:17 | 2022-08-11 |  |
@@ -466,6 +468,7 @@
 | [Trollmors vaggsång](https://open.spotify.com/track/10k4mNmHQBM3QIDOBe1QNT) | [Vanja Knutsson](https://open.spotify.com/artist/3NDeUrL3OW0qQ4tacd8G4h) | [Vaggvisor för barnen](https://open.spotify.com/album/6yrIXwVoUkiQ0N5ieHRieR) | 1:35 | 2023-02-17 | 2023-08-11 |
 | [Trollmors vuggevise](https://open.spotify.com/track/1PKjwXKjMSUN1q48vcciui) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sanger for de minste](https://open.spotify.com/album/73HFQPdPGcT72SGPbNre5h) | 1:43 | 2022-08-11 | 2023-04-22 |
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2022-08-11 | 2023-06-23 |
+| [Twilight Song](https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Twilight Song](https://open.spotify.com/album/4kFbCc5PiDyVXpsB0wE2S2) | 1:28 | 2024-10-18 |  |
 | [Twinkle](https://open.spotify.com/track/74GGiDx1ffmes4p506vhnT) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Twinkle](https://open.spotify.com/album/61cvN1S31Z3dxr01kzJQE0) | 1:20 | 2023-04-21 | 2023-09-16 |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2022-08-11 |  |
 | [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Aya Poole](https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 | 2023-05-19 |  |

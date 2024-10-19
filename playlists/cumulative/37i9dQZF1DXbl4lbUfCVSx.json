@@ -616,7 +616,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
@@ -1134,6 +1134,24 @@
       "duration_ms": 360200,
       "name": "Pitit deyo",
       "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "PJDK",
+      "url": "https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d"
     },
     {
       "album": {

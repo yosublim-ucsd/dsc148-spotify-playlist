@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Rejsel",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Potwory I Ludzie",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 169090,
       "name": "7/8 wiosny",
       "url": "https://open.spotify.com/track/1e7k48QWsUS5IcTm6VZ1f9"
@@ -74,6 +74,24 @@
       "duration_ms": 205945,
       "name": "9.",
       "url": "https://open.spotify.com/track/078qBtzNUwFPJhQafqouVp"
+    },
+    {
+      "album": {
+        "name": "90\u2019s",
+        "url": "https://open.spotify.com/album/7x2xHWtB9Nkb8gu9x6zk1P"
+      },
+      "artists": [
+        {
+          "name": "Tom J",
+          "url": "https://open.spotify.com/artist/2SwxncdemyOIlE8Kgsx1uy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206703,
+      "name": "90\u2019s",
+      "url": "https://open.spotify.com/track/7qyAT8Wqe7xa6oIitgyzT3"
     },
     {
       "album": {
@@ -340,10 +358,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 176074,
       "name": "Brzeg",
       "url": "https://open.spotify.com/track/0wOsloGZIJf5OAhBbdGU6P"
+    },
+    {
+      "album": {
+        "name": "\u015awiat z tektury",
+        "url": "https://open.spotify.com/album/2egiBLjV3arrBLkrqecl9T"
+      },
+      "artists": [
+        {
+          "name": "Heima",
+          "url": "https://open.spotify.com/artist/1aYeYHF941WNJDRlII88WD"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206134,
+      "name": "B\u0142\u0105d",
+      "url": "https://open.spotify.com/track/1tru4WmugIFpk9HIfPmOMI"
     },
     {
       "album": {
@@ -438,7 +474,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214551,
       "name": "Chwilowy brak s\u0142\u00f3w - Radio Edit",
       "url": "https://open.spotify.com/track/7DK0GUxc9qfQdlwqdWmRUV"
@@ -492,7 +528,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 264746,
       "name": "Cieszyn to nie San Francisco",
       "url": "https://open.spotify.com/track/41plX6vWCPhblMwf3DgWqh"
@@ -510,7 +546,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 206642,
       "name": "Co za nami, co przed nami",
       "url": "https://open.spotify.com/track/5HU8deHGgPJuOInw8nNOWV"
@@ -673,6 +709,42 @@
     },
     {
       "album": {
+        "name": "Diogenes",
+        "url": "https://open.spotify.com/album/5UfH0woBH2B8gVFVzibjEe"
+      },
+      "artists": [
+        {
+          "name": "AMOK",
+          "url": "https://open.spotify.com/artist/4zspNaeINhp5uHaUbsbKKv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222761,
+      "name": "Diogenes",
+      "url": "https://open.spotify.com/track/1vyMhZA8BtOnKKFSHG048n"
+    },
+    {
+      "album": {
+        "name": "Doskonale",
+        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
+      },
+      "artists": [
+        {
+          "name": "DIMoN",
+          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Drap mnie",
+      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
+    },
+    {
+      "album": {
         "name": "Gipsowy Odlew Falsyfikatu",
         "url": "https://open.spotify.com/album/4egdbp8TQxX6dRABIDo8Wn"
       },
@@ -790,7 +862,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 345939,
       "name": "DZIE\u0141O W KLATCE",
       "url": "https://open.spotify.com/track/5HahjGrRUDPQzKvo0dzzFm"
@@ -1158,7 +1230,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 184988,
       "name": "Jedziemy na zlot",
       "url": "https://open.spotify.com/track/5PAR7g9gOMQlknjdoqdkCr"
@@ -1284,7 +1356,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 182937,
       "name": "Kochaj sobie kogo chcesz",
       "url": "https://open.spotify.com/track/1czULulKp1SHrUJ09nMJ0c"
@@ -1522,7 +1594,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 196906,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/27v0pS3ltAPPn3M9On8gjx"
@@ -1904,6 +1976,24 @@
       "duration_ms": 244077,
       "name": "Nadchodzi wielka burza",
       "url": "https://open.spotify.com/track/3Nbneft3M84UIygf96oW8v"
+    },
+    {
+      "album": {
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287240,
+      "name": "Nastolatek",
+      "url": "https://open.spotify.com/track/5c0gCOLU4eRRH4JTCTDxDs"
     },
     {
       "album": {
@@ -2336,6 +2426,24 @@
       "duration_ms": 177596,
       "name": "Powiedz",
       "url": "https://open.spotify.com/track/1GFTGHIqzaMxI4DtUPHobA"
+    },
+    {
+      "album": {
+        "name": "Problemy",
+        "url": "https://open.spotify.com/album/5T7ZECIYp37MAMRNjfBcwH"
+      },
+      "artists": [
+        {
+          "name": "Potwory I Ludzie",
+          "url": "https://open.spotify.com/artist/3uGSP7rdG5TZ8UAaFEfpMf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86000,
+      "name": "Problemy",
+      "url": "https://open.spotify.com/track/6SFWx74pyGp6vvku6E8yAM"
     },
     {
       "album": {
@@ -2779,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "SPRAWD\u0179 TO)))",
+        "url": "https://open.spotify.com/album/1hHK03HohdP72FzMCxfJXK"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "SPRAWD\u0179 TO)))",
+      "url": "https://open.spotify.com/track/0Ic5VIfIWmFBt8CgqqiDZw"
+    },
+    {
+      "album": {
         "name": "Stare dusze",
         "url": "https://open.spotify.com/album/1hzQEFQRdYXUgSRbm17rzO"
       },
@@ -2790,10 +2916,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 243000,
       "name": "Stare dusze",
       "url": "https://open.spotify.com/track/1xDfmHCfeEc4pMs46YBwmP"
+    },
+    {
+      "album": {
+        "name": "strach",
+        "url": "https://open.spotify.com/album/6KMDDPl5LpmEwQYJXuRYco"
+      },
+      "artists": [
+        {
+          "name": "daysdaysdays",
+          "url": "https://open.spotify.com/artist/2QLQnuxBwO6XzrUt0wcl9Z"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130457,
+      "name": "strach",
+      "url": "https://open.spotify.com/track/6NGryOAkRaLH0jfTEquqs2"
     },
     {
       "album": {
@@ -3093,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Troch\u0119 chmur",
+        "url": "https://open.spotify.com/album/2Vw7jcIAfuZYhKzAsNgbkj"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142y Falochron",
+          "url": "https://open.spotify.com/artist/7cBzCHNcMBGPXSkdhZZTul"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166656,
+      "name": "Troch\u0119 chmur",
+      "url": "https://open.spotify.com/track/7yNiKnIDgAGDcboE9fLMam"
+    },
+    {
+      "album": {
         "name": "Twoja mi\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH"
       },
@@ -3137,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Tysi\u0105ce",
+        "url": "https://open.spotify.com/album/0GAhnNpZhuYvQRsHudCy9f"
+      },
+      "artists": [
+        {
+          "name": "Kaminsky/Teodorczyk",
+          "url": "https://open.spotify.com/artist/4m6oBtdT9T81BZbPumf3hf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196388,
+      "name": "Tysi\u0105ce",
+      "url": "https://open.spotify.com/track/21F2Mqz3HU3yarS2SpemFg"
+    },
+    {
+      "album": {
         "name": "TYTANOWE WN\u0118TRZE",
         "url": "https://open.spotify.com/album/0MxrXLlGhePAlT9WfNdBDP"
       },
@@ -3152,6 +3332,24 @@
       "duration_ms": 164000,
       "name": "TYTANOWE WN\u0118TRZE",
       "url": "https://open.spotify.com/track/1sDpYY8x67cXAOJV81hjW3"
+    },
+    {
+      "album": {
+        "name": "Ucieka czas",
+        "url": "https://open.spotify.com/album/6jKR5eB0tBERyD02zhDzvi"
+      },
+      "artists": [
+        {
+          "name": "Nasty Paradise",
+          "url": "https://open.spotify.com/artist/1Z0fLLi6MxlNKBKXoICR76"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260034,
+      "name": "Ucieka czas",
+      "url": "https://open.spotify.com/track/52t0YGTJJmoXdDOXdLqBCm"
     },
     {
       "album": {
@@ -3202,7 +3400,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214344,
       "name": "w innym czasie",
       "url": "https://open.spotify.com/track/5X9LXRc5XKXAuODjU0RyqO"

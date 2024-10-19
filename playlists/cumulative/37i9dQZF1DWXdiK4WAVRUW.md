@@ -2,7 +2,7 @@
 
 ### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
 
-> We're celebrating the 10th anniversary of Little Big Town's album "Painkiller" on 2010s Country!
+> We're celebrating the 10th anniversary of Little Big Town's album "Pain Killer" on 2010s Country!
 
 272 songs - 16 hr 11 min
 

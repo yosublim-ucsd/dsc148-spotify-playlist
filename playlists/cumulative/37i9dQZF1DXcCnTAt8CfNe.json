@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/375hxINvU8FcRPOTID7YbA"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125161,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6J5jrR4c9O6VBhKNqO4VS7"
+    },
+    {
+      "album": {
         "name": "Conscience",
         "url": "https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188670,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/3QM5SPPuB35zKVbG3d1Pj8"
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 209454,
       "name": "Harmonic Motion",
       "url": "https://open.spotify.com/track/4H4Y6nk96QwY5tuHmiR98R"
@@ -2124,6 +2142,24 @@
       "duration_ms": 126669,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3"
+    },
+    {
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/0ckgvrHqQ7paGbz4S0QmSJ"
+      },
+      "artists": [
+        {
+          "name": "A Chance To Dream",
+          "url": "https://open.spotify.com/artist/4AcyyxYM1TvsUUxNS8bPqk"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160894,
+      "name": "Imperfections",
+      "url": "https://open.spotify.com/track/4vKzaW9QxFJrOSFutPj9Hw"
     },
     {
       "album": {
@@ -2516,7 +2552,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 226666,
       "name": "Light of The Moon",
       "url": "https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr"
@@ -2538,6 +2574,24 @@
       "duration_ms": 161266,
       "name": "Lily's Cradle",
       "url": "https://open.spotify.com/track/4UlarjdicLUPbdssOxWbYX"
+    },
+    {
+      "album": {
+        "name": "Little Gentle Spirit",
+        "url": "https://open.spotify.com/album/7qLP6e8QKFBtbmKUSTcNsB"
+      },
+      "artists": [
+        {
+          "name": "Potting Shed Dreams",
+          "url": "https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159625,
+      "name": "Little Gentle Spirit",
+      "url": "https://open.spotify.com/track/3FOFLWSRbUpjEzVkucYjHs"
     },
     {
       "album": {
@@ -2624,7 +2678,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 197369,
       "name": "Love to Give",
       "url": "https://open.spotify.com/track/197gAis0L7q9xIFreP0cGA"
@@ -2732,7 +2786,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 185850,
       "name": "March\u00e9 St Quentin",
       "url": "https://open.spotify.com/track/6vrsJ91kWmaAvVgeUJoiDp"
@@ -3816,7 +3870,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 123000,
       "name": "Quando sorridi",
       "url": "https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY"
@@ -3874,7 +3928,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 220000,
       "name": "Quirky Mood",
       "url": "https://open.spotify.com/track/30pP0rmYhIjch0vOe1ozDO"
@@ -4274,7 +4328,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 207500,
       "name": "Sidereus",
       "url": "https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31"

@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 199786,
       "name": "FINALIST",
       "url": "https://open.spotify.com/track/49pKb9kKhbA5rYA8hEZZBd"
@@ -1044,6 +1044,24 @@
       "duration_ms": 263306,
       "name": "OUR ALWAYS",
       "url": "https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1"
+    },
+    {
+      "album": {
+        "name": "PHOENIX (Movie Ver.)",
+        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "PHOENIX (Movie Ver.)",
+      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
     },
     {
       "album": {

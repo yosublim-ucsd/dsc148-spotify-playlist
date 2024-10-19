@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/62MddR3vq1uZJGljqGbJcM"
+      },
+      "artists": [
+        {
+          "name": "Insowmya",
+          "url": "https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/3onsfEgU1PhhxfYuF4VNOT"
+    },
+    {
+      "album": {
         "name": "Telugu Tech",
         "url": "https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav"
       },
@@ -2866,6 +2884,24 @@
       "duration_ms": 192000,
       "name": "Tere Baajo",
       "url": "https://open.spotify.com/track/1Giy9XohjL9TZPGfm90jim"
+    },
+    {
+      "album": {
+        "name": "Third Umpire",
+        "url": "https://open.spotify.com/album/2F1PgH2M84um53JcJEA0aE"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278069,
+      "name": "Third Umpire",
+      "url": "https://open.spotify.com/track/5ogz2Kk2BDzjI2dFCqXRQ9"
     },
     {
       "album": {

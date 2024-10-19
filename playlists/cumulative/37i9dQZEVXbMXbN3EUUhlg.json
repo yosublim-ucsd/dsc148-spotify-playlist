@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "4 Enganados",
+        "url": "https://open.spotify.com/album/09zcQhcgqwXwTaZUmWXNQt"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170009,
+      "name": "4 Enganados",
+      "url": "https://open.spotify.com/track/51K1IJUjukRNYOqTqo596Z"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m T\u00e1 Puro!",
         "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 201264,
       "name": "afrodite",
       "url": "https://open.spotify.com/track/7ARsJNRK0SD0asnybQo2oi"
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 166838,
       "name": "Aquela Pessoa - Ao Vivo",
       "url": "https://open.spotify.com/track/5asabafNzfAzjUecDvuNES"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 161798,
       "name": "Arriadin por Tu - Ao Vivo",
       "url": "https://open.spotify.com/track/1R4g4jxHARgfesI2g9H59g"
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181649,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/5Haev5dXGbz0Snui8ukwD7"
@@ -4630,7 +4648,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 143225,
       "name": "Cara da Midia",
       "url": "https://open.spotify.com/track/68qzO9uhrv6zwONksdHYuj"
@@ -6652,6 +6670,28 @@
       "duration_ms": 161538,
       "name": "Desilus\u00e3o (MTG) (feat. Loirin Prod)",
       "url": "https://open.spotify.com/track/4dSDTAZ7ohybHBonbtMBpP"
+    },
+    {
+      "album": {
+        "name": "Desmantelo e Fuzu\u00ea",
+        "url": "https://open.spotify.com/album/1bkqeHcr6bQf6fK0hAdynC"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Manim Vaqueiro",
+          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Desmantelo e Fuzu\u00ea",
+      "url": "https://open.spotify.com/track/5iu3vj88qin4ablWHrezLG"
     },
     {
       "album": {
@@ -11904,7 +11944,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 155368,
       "name": "Imagina esse Cen\u00e1rio",
       "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
@@ -12846,7 +12886,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -16176,7 +16216,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"

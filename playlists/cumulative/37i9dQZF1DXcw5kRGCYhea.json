@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "KAN DENDEN",
+        "url": "https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz"
+      },
+      "artists": [
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200366,
+      "name": "KAN DENDEN",
+      "url": "https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y"
       },
@@ -2478,6 +2496,24 @@
       "duration_ms": 181275,
       "name": "QU\u00c9 LO QUE",
       "url": "https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN"
+    },
+    {
+      "album": {
+        "name": "SUE\u00d1O MAGNIFICO",
+        "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210276,
+      "name": "RATA",
+      "url": "https://open.spotify.com/track/2nBxbWSTEo2hxo5opMViwn"
     },
     {
       "album": {

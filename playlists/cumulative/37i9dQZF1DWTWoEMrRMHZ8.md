@@ -4,11 +4,11 @@
 
 > As belas novidades da MPB\. Foto: Sued Nunes
 
-815 songs - 1 day 23 hr 43 min
+816 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100% Samba](https://open.spotify.com/track/5lUd0lXVvcjZoecSQ3kP2c) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [100% Samba](https://open.spotify.com/album/4v5JkmdpvFnc1QIUTXZgSk) | 3:32 | 2024-09-20 |  |
+| [100% Samba](https://open.spotify.com/track/5lUd0lXVvcjZoecSQ3kP2c) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [100% Samba](https://open.spotify.com/album/4v5JkmdpvFnc1QIUTXZgSk) | 3:32 | 2024-09-20 | 2024-10-19 |
 | [3 Marias](https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 7:25 | 2022-11-25 | 2023-02-08 |
 | [A Alma do Rio](https://open.spotify.com/track/4mhGat3U3yLyuWrn8lzz8p) | [Oswaldo Montenegro](https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV) | [A Alma do Rio](https://open.spotify.com/album/1c8C2ySygExIqIjSrUISYp) | 2:55 | 2022-08-11 | 2022-08-20 |
 | [A arte de não morrer](https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg) | [A Arte de Não Morrer](https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs) | 3:44 | 2023-03-24 | 2023-05-13 |
@@ -340,6 +340,7 @@
 | [Impossível](https://open.spotify.com/track/5FQNsFXu161A9edkOIMWXs) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5) | [Impossível](https://open.spotify.com/album/53qqZw8g96hyvJxQU3jgAQ) | 3:17 | 2021-12-24 | 2022-01-22 |
 | [Incomoda](https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc) | [Sara Não Tem Nome](https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM) | [A Situação](https://open.spotify.com/album/29EgsSSK4l4CIQmFJqXPPp) | 3:13 | 2023-01-13 | 2023-03-18 |
 | [Intenção](https://open.spotify.com/track/0dSvKFk6NR0ZFUZFJWs96C) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Intenção](https://open.spotify.com/album/6lkbBmltVpJRgWwiEFa2QD) | 3:44 | 2024-08-09 | 2024-09-07 |
+| [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-18 |  |
 | [Isso Me Fará](https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1) | [Luis Kiari](https://open.spotify.com/artist/7JsyzZsFjaF86UX1CAAFio) | [Isso Me Fará](https://open.spotify.com/album/7pgfecDRWnyggCX4LZ19AA) | 3:30 | 2021-12-24 | 2022-06-18 |
 | [Iyá Mesan](https://open.spotify.com/track/12qwubySXFcZGfLczELOiV) | [Zé Manoel](https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH), [Alessandra Leão](https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno) | [CORAL](https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796) | 4:29 | 2024-09-13 |  |
 | [Janeiro](https://open.spotify.com/track/1J4TSOd2N8QtHcyi9s2bgn) | [Remobília](https://open.spotify.com/artist/4nOaA6GGdv2JlRKMj1flxl), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ponto Final](https://open.spotify.com/album/64w7v5Ms2bRrUOgVkm2mJG) | 3:55 | 2022-07-15 | 2022-07-23 |

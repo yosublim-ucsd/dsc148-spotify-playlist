@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > For 100 years, our passion has been storytelling\.  From one generation to the next, the greatest stories live forever\.  You made this dream come true.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,596 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,691 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 | 34 | [Kiss the Girl \- Remastered 2014](https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 2:40 |
 | 35 | [I've Got a Dream \- From "Tangled"/Soundtrack Version](https://open.spotify.com/track/0TCt7OFRdD8PQ6vTRQxNgQ) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Brad Garrett](https://open.spotify.com/artist/7JpGJvNR3Uvftc3JlyacFH), [Ensemble \- Tangled](https://open.spotify.com/artist/1bhBH3mWYi8lCiitTXtkZL), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st), [Jeffrey Tambor](https://open.spotify.com/artist/65Rokc4cfvKbRYPitoajAD) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:11 |
 | 36 | [We Know The Way](https://open.spotify.com/track/6YH2r9NyEJTjlRmKOCvxgJ) | [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Moana \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:21 |
-| 37 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
+| 37 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
 | 38 | [Friend Like Me](https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:35 |
 | 39 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/6TL9gJE5JibG8QR6n26eCS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King: Special Edition](https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl) | 4:01 |
 | 40 | [Colors of the Wind](https://open.spotify.com/track/2KLr3dKxIINgnWKiMK37ST) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Walt Disney Records The Legacy Collection: Pocahontas](https://open.spotify.com/album/4M9kB42Y2SfXzwuH903ycJ) | 3:50 |

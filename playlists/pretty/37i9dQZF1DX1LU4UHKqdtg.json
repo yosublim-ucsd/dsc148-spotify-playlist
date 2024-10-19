@@ -1,6 +1,6 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ITZY",
-  "num_followers": 425848,
+  "num_followers": 426445,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,26 @@
       "duration_ms": 187213,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb"
+    },
+    {
+      "added_at": "2024-10-17 15:00:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2024-10-17 15:00:00",
@@ -143,6 +163,22 @@
     {
       "added_at": "2024-10-17 15:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 184229,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7"
+    },
+    {
+      "added_at": "2024-10-17 15:00:00",
+      "album": {
         "name": "Feel the Pulse",
         "url": "https://open.spotify.com/album/3rHYXpxYIXQ3x7nc0Pm7lj"
       },
@@ -227,6 +263,38 @@
       "duration_ms": 185793,
       "name": "Gimme A Minute (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7"
+    },
+    {
+      "added_at": "2024-10-17 15:00:00",
+      "album": {
+        "name": "Year 1 : We Still Loading",
+        "url": "https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        },
+        {
+          "name": "Rick bridges",
+          "url": "https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m"
+        },
+        {
+          "name": "northfacegawd",
+          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
+        },
+        {
+          "name": "DJ SKY",
+          "url": "https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy"
+        }
+      ],
+      "duration_ms": 276026,
+      "name": "We Still Loading (FEAT. Los, Rick Bridges, Northfacegawd, DJ SKY)",
+      "url": "https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1"
     },
     {
       "added_at": "2024-10-17 15:00:00",
@@ -355,6 +423,22 @@
       "duration_ms": 177485,
       "name": "Beat the odds",
       "url": "https://open.spotify.com/track/6VzG7TJrjWlfhKMjOm6JjX"
+    },
+    {
+      "added_at": "2024-10-17 15:00:00",
+      "album": {
+        "name": "fallIn'",
+        "url": "https://open.spotify.com/album/0UBt9qU96ZwijUeQHCrPN5"
+      },
+      "artists": [
+        {
+          "name": "ONE PACT",
+          "url": "https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5"
+        }
+      ],
+      "duration_ms": 172719,
+      "name": "DESERVED",
+      "url": "https://open.spotify.com/track/33iEkYyCgQBJNTRN2fkY4S"
     },
     {
       "added_at": "2024-10-17 15:00:00",

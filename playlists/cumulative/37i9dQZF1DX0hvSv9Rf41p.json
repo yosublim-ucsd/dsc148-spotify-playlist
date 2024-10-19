@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with ATLiens",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with Rezz",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 202971,
       "name": "BLOW THE ROOF",
       "url": "https://open.spotify.com/track/3HIPnQPh5Xvt7vYT6zpuEQ"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 149370,
       "name": "Crazy In The Club",
       "url": "https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr"
@@ -4200,6 +4200,32 @@
       "duration_ms": 187586,
       "name": "Danger - REAPER Remix",
       "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
+    },
+    {
+      "album": {
+        "name": "Dangerous / Villains",
+        "url": "https://open.spotify.com/album/7o6DLIUm0rnYlK8dUBhvOT"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Outlaw The Artist",
+          "url": "https://open.spotify.com/artist/1YhxBKC8qBwysiotxjYF57"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/1xaracPgjTre1S0jTBr2Tx"
     },
     {
       "album": {
@@ -4496,7 +4522,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214374,
       "name": "Defeatist",
       "url": "https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO"
@@ -4646,6 +4672,28 @@
       "duration_ms": 188800,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu"
+    },
+    {
+      "album": {
+        "name": "DESIRE / LOOK@ME",
+        "url": "https://open.spotify.com/album/52r1SK4TQpxM9xbeGfeghU"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        },
+        {
+          "name": "EMSKI",
+          "url": "https://open.spotify.com/artist/3UqDUfl2fG8ygrFRlgHVZK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "DESIRE",
+      "url": "https://open.spotify.com/track/0Q6anwF475lzsu49bkawKi"
     },
     {
       "album": {
@@ -7088,7 +7136,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 226086,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
@@ -9300,7 +9348,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 236129,
       "name": "Hit The Wax",
       "url": "https://open.spotify.com/track/5fe0BWkTfPEgjbA0PZkii1"
@@ -10505,6 +10553,32 @@
     },
     {
       "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0eKVnySU0ZD377SyQrRbA9"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Raxdflipnote",
+          "url": "https://open.spotify.com/artist/5srXVgnIoKZgFeNFXwNObg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/2wVGikrHyivMCxdXTc5fsx"
+    },
+    {
+      "album": {
         "name": "JSYK",
         "url": "https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe"
       },
@@ -10808,7 +10882,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 216000,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/4L9SAF40SFewdrkl74b27M"
@@ -11406,7 +11480,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 153600,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Ybl2ps2tWOsD7rbiMU0Id"
@@ -11468,7 +11542,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 207964,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
@@ -11516,7 +11590,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 216000,
       "name": "Like That - Tape B Remix",
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
@@ -13581,6 +13655,24 @@
     },
     {
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2Mhs50XjVDkcVHswlJo7dn"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228017,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6IV8mJMXlVrMJtUDXMfsUy"
+    },
+    {
+      "album": {
         "name": "Noisy Boys",
         "url": "https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV"
       },
@@ -15297,6 +15389,28 @@
     },
     {
       "album": {
+        "name": "NOVUS",
+        "url": "https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "X1-Y2",
+          "url": "https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "PROXIMATE",
+      "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
+    },
+    {
+      "album": {
         "name": "Pump",
         "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
       },
@@ -16106,6 +16220,28 @@
       "duration_ms": 230476,
       "name": "Revenge of the Orchestra",
       "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9"
     },
     {
       "album": {
@@ -18285,6 +18421,28 @@
     },
     {
       "album": {
+        "name": "KGM(irl)*",
+        "url": "https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "STARsound (pt2)",
+      "url": "https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca"
+    },
+    {
+      "album": {
         "name": "Start It Over (feat. KC)",
         "url": "https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W"
       },
@@ -18382,6 +18540,24 @@
       "duration_ms": 167973,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
+    },
+    {
+      "album": {
+        "name": "Stealing Fire",
+        "url": "https://open.spotify.com/album/57dawWYMECpg7ZGKWNH2q4"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Stealing Fire",
+      "url": "https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT"
     },
     {
       "album": {
@@ -18730,6 +18906,24 @@
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
+    },
+    {
+      "album": {
+        "name": "CHALLENGER (DELUXE)",
+        "url": "https://open.spotify.com/album/7G26mMpRGNpk0j8lpxXejl"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "SURFACING",
+      "url": "https://open.spotify.com/track/5xFgju1KjoNX3UACChHNJM"
     },
     {
       "album": {
@@ -20017,6 +20211,28 @@
     },
     {
       "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/22lp9lCpKV9t28OSncT8O6"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Too Hard",
+      "url": "https://open.spotify.com/track/4R3aITErTcr9XHBO40gc8v"
+    },
+    {
+      "album": {
         "name": "Torture",
         "url": "https://open.spotify.com/album/4ZVt3DEEjQaFCfloBApGl0"
       },
@@ -20098,7 +20314,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 165120,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD"

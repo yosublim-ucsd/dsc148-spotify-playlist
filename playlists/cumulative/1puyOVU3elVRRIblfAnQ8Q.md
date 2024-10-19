@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-193 songs - 11 hr 9 min
+194 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 | 2024-02-20 | 2024-05-17 |
 | [Feel This Way](https://open.spotify.com/track/2s9fS0BJCjluUwZqYljM7R) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Yianna](https://open.spotify.com/artist/051lz9ZMNShdpFP1uQtd9m) | [Feel This Way](https://open.spotify.com/album/196fDVj2YoME2w9185WRNb) | 3:27 | 2023-08-28 | 2023-11-09 |
 | [Feel Ur Touch](https://open.spotify.com/track/2AyS9W5k9vsU6FHHNACWd8) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:21 | 2024-01-26 | 2024-08-24 |
+| [Fever](https://open.spotify.com/track/52g6ivLTMXxAn2vvX4772J) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Fever](https://open.spotify.com/album/2PlgEkyn7D04osG3U6iefw) | 3:31 | 2024-10-18 |  |
 | [Fingertips](https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Sky M.](https://open.spotify.com/artist/0jf2HjwY0PCybGRjkz0qXS) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:17 | 2023-11-08 | 2024-08-24 |
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-13 | 2024-08-24 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-10 | 2024-08-24 |

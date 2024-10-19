@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con San Solo y Pere George en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Manu Beker en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 220638,
       "name": "bestia",
       "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n de Cuna Para mi Amor",
+        "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Canci\u00f3n de Cuna Para mi Amor",
+      "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
+    },
+    {
+      "album": {
         "name": "cansada de verte en todas partes",
         "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
       },
@@ -1808,6 +1826,24 @@
       "duration_ms": 163095,
       "name": "Chill",
       "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
+    },
+    {
+      "album": {
+        "name": "CHOCOMIL",
+        "url": "https://open.spotify.com/album/7LVZYnNMLBAtqpJVC5htfN"
+      },
+      "artists": [
+        {
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168758,
+      "name": "CHOCOMIL",
+      "url": "https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5"
     },
     {
       "album": {
@@ -2590,7 +2626,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 177826,
       "name": "Desconocernos",
       "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
@@ -3178,7 +3214,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
@@ -4382,7 +4418,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 243999,
       "name": "la calle",
       "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
@@ -5203,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0FzIFTZf4kQC2lf8fnVO76"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273609,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/3hbkGcYrz1nlFfPAq0w72i"
+    },
+    {
+      "album": {
         "name": "maracuy\u00e1",
         "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
@@ -5612,6 +5666,28 @@
       "duration_ms": 162077,
       "name": "Miel",
       "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
+    },
+    {
+      "album": {
+        "name": "Mientras tanto cantar\u00e9",
+        "url": "https://open.spotify.com/album/3kYtEbf0M5b5C1ypmgZSvP"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        },
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Mientras tanto cantar\u00e9",
+      "url": "https://open.spotify.com/track/3ywWSKfrT8dNKnTQYYr6pL"
     },
     {
       "album": {
@@ -6352,7 +6428,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 173700,
       "name": "nikes azules",
       "url": "https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7"
@@ -8419,6 +8495,24 @@
     },
     {
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+    },
+    {
+      "album": {
         "name": "seguiremos siendo",
         "url": "https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI"
       },
@@ -10088,7 +10182,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 219911,
       "name": "Viceversa",
       "url": "https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL"
@@ -10414,7 +10508,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 229573,
       "name": "Ya No Es Lo Mismo",
       "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-2,685 songs - 7 day 4 hr 13 min
+2,686 songs - 7 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [Harajuku Boy](https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL) | [City Cyndrome](https://open.spotify.com/artist/3rW1Y4T5r97bJBG7b2HqjY) | [Harajuku Boy](https://open.spotify.com/album/2UaG3U6D0jXC898hXNUbow) | 5:11 | 2023-09-08 | 2023-09-13 |
 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 | 2024-02-13 | 2024-02-21 |
 | [Hatati20](https://open.spotify.com/track/61WBPwkpN6CKIWcVZJBHIM) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [Hatati20](https://open.spotify.com/album/6dGShhrVFOCyc1Ovbhqmbw) | 4:38 | 2023-05-09 | 2023-05-17 |
+| [HATE ME](https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [HATE ME](https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu) | 2:05 | 2024-10-15 |  |
 | [Hateshinai Futari](https://open.spotify.com/track/4nIDnd8FurNoauKpwUEg1y) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:42 | 2023-03-30 | 2023-04-05 |
 | [Hateshinai Futari](https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2) | 4:44 | 2022-10-06 | 2023-04-01 |
 | [Hatsukoi](https://open.spotify.com/track/5Gp2LHC0Apdx51h0X3Wxz8) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Hatsukoi](https://open.spotify.com/album/3z0QAgSij3xNZDtRTh6tHj) | 4:58 | 2022-11-01 | 2022-11-09 |
@@ -1547,7 +1548,7 @@
 | [〇](https://open.spotify.com/track/2wcIrfQFcXHZ7GIKfP4rD9) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [〇](https://open.spotify.com/album/0SUDbLjaTOjHJFgzovopXr) | 5:14 | 2023-12-12 | 2024-01-10 |
 | [「僕は...」 \- Piano ver.](https://open.spotify.com/track/1qHqQChezOkLx6H9NVz05w) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 4:28 | 2024-09-10 | 2024-09-18 |
 | [「君の幸せを」](https://open.spotify.com/track/4SPjBSASlsxQ440fY1Mnyl) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [「君の幸せを」](https://open.spotify.com/album/6Nadvjub3KIbZ6hgVdwXBj) | 4:51 | 2023-11-21 | 2024-03-01 |
-| [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/track/7rf2LuOzv2b11zdjskaH2m) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/album/301yhonqL3kuPhgSTQp36k) | 2:01 | 2024-10-08 |  |
+| [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/track/7rf2LuOzv2b11zdjskaH2m) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/album/301yhonqL3kuPhgSTQp36k) | 2:01 | 2024-10-08 | 2024-10-19 |
 | [あいたいわ](https://open.spotify.com/track/27vB0Sx5kEvVsjPOko8gDn) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [あいたいわ](https://open.spotify.com/album/29hrW061sEYxEqFdSxmUkv) | 3:20 | 2022-09-27 | 2022-10-05 |
 | [あいまって。](https://open.spotify.com/track/7cP0835n4b8PbT0eA2VttB) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [あいまって。](https://open.spotify.com/album/6wWxRz4EW01BgFG89CXw7l) | 3:45 | 2022-06-02 | 2022-07-27 |
 | [あかい](https://open.spotify.com/track/299XX9C7B56JuqGtokDeap) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あかい](https://open.spotify.com/album/4xHSKbJ1A4RlyCsT1J1siD) | 3:34 | 2022-08-17 | 2022-08-24 |

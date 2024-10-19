@@ -1,12 +1,12 @@
 {
-  "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 381336,
+  "description": "Spookily bringing the roaring 20s into the 2020s",
+  "num_followers": 381369,
   "original_name": "Electro Swing Halloween Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAACzay3YTOyUAuo+7NmtPR6d",
+  "snapshot_id": "ZxHdQAAAAADzZ21DsTbYs8NdKSWqkZNX",
   "tracks": [
     {
       "added_at": "2024-09-30 19:27:37",
@@ -29,6 +29,54 @@
       "url": "https://open.spotify.com/track/3E8AVoqERP2sU6cpTKp4lP"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dance of the Dead",
+        "url": "https://open.spotify.com/album/1sluulL2Ud8qRt5VfOMGvY"
+      },
+      "artists": [
+        {
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+        }
+      ],
+      "duration_ms": 201895,
+      "name": "Dance of the Dead",
+      "url": "https://open.spotify.com/track/0XOMssk7CcOiL4HcCcRkQD"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Halloween Day",
+        "url": "https://open.spotify.com/album/5gCBkOfEJpZriLia45iKVK"
+      },
+      "artists": [
+        {
+          "name": "Duke Skellington",
+          "url": "https://open.spotify.com/artist/6L0Fw5vMpxxtYcjzxr9Wtk"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Halloween Day",
+      "url": "https://open.spotify.com/track/4dcGpSFVRR8xuHA9uyhDm2"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6kGcGRZQTm4489JAluNqxk"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 238218,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/1TOCHZ067TBQ3ugU4Amfrc"
+    },
+    {
       "added_at": "2024-09-30 19:27:37",
       "album": {
         "name": "Nine Tails: Retold",
@@ -47,6 +95,26 @@
       "duration_ms": 227056,
       "name": "Spooky (Duke Skellington Remix)",
       "url": "https://open.spotify.com/track/6XSKfR48lYGFOaaBWEMWOb"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Ghost Ships Curse (Spooky Swing Mix)",
+        "url": "https://open.spotify.com/album/6iMSJSyl0X8XhUWLgVejqU"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "Dacha Dynamics",
+          "url": "https://open.spotify.com/artist/4E4tte9mbYJcGe65kGqeWv"
+        }
+      ],
+      "duration_ms": 188761,
+      "name": "Ghost Ships Curse - Spooky Swing Mix",
+      "url": "https://open.spotify.com/track/3hnljcDnmt10xbC9ebbRAo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -279,22 +347,6 @@
     {
       "added_at": "2024-09-30 19:27:37",
       "album": {
-        "name": "Spooktober: Halloween Electro Swing",
-        "url": "https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 257043,
-      "name": "Spook",
-      "url": "https://open.spotify.com/track/2B93XfJsX1F2wnisPmtHhF"
-    },
-    {
-      "added_at": "2024-09-30 19:27:37",
-      "album": {
         "name": "Wicked Evil",
         "url": "https://open.spotify.com/album/3FaAsnvQqJuwgtfyxMgbb7"
       },
@@ -497,22 +549,6 @@
       "url": "https://open.spotify.com/track/2oi8vITDkLRxt1mMjr2jIe"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "The Little Man Who Wasn't There",
-        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "The Little Man Who Wasn't There",
-      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
-    },
-    {
       "added_at": "2024-09-30 19:27:37",
       "album": {
         "name": "Dizzy",
@@ -703,26 +739,6 @@
     {
       "added_at": "2024-09-30 19:27:37",
       "album": {
-        "name": "Simon Says",
-        "url": "https://open.spotify.com/album/5ocFNMn9VbuMG2wfISvpyC"
-      },
-      "artists": [
-        {
-          "name": "Duke Skellington",
-          "url": "https://open.spotify.com/artist/6L0Fw5vMpxxtYcjzxr9Wtk"
-        },
-        {
-          "name": "Hypeman Sage",
-          "url": "https://open.spotify.com/artist/1fjvxRJ6oIz3uldJLNraay"
-        }
-      ],
-      "duration_ms": 224296,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/28ottKExzbvwzAPTKz8tbK"
-    },
-    {
-      "added_at": "2024-09-30 19:27:37",
-      "album": {
         "name": "Remote",
         "url": "https://open.spotify.com/album/1Zo58diAaOKimtYyzny5LH"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 439024,
       "name": "Dracula Swing (Swahn Remix)",
       "url": "https://open.spotify.com/track/37i6PdvL2KGTgKojmNAFWM"
-    },
-    {
-      "added_at": "2024-09-30 19:27:37",
-      "album": {
-        "name": "Ghoul's Groove",
-        "url": "https://open.spotify.com/album/5eLTbDLzj4aho99OYDidso"
-      },
-      "artists": [
-        {
-          "name": "Emma Clair",
-          "url": "https://open.spotify.com/artist/5sYdOPPYws574wALE9TOFx"
-        }
-      ],
-      "duration_ms": 219575,
-      "name": "Ghoul's Groove",
-      "url": "https://open.spotify.com/track/20WrO2vWskNfrmaGxdhUyE"
     }
   ],
   "unique_name": "Electro Swing Halloween Edition",

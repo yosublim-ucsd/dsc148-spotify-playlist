@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,143 likes - 111 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,211 likes - 111 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 5 | [Malu Malu Tapi Nyaman](https://open.spotify.com/track/1jKyWssDMP83VtugbwCJ6g) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 3:39 |
 | 6 | [Rainbow](https://open.spotify.com/track/3V0ArrICvrvC0wgzrnJPdg) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Rainbow](https://open.spotify.com/album/6VpyQTOEJBXdZD3K9WxxoK) | 3:28 |
 | 7 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 |
-| 8 | [Pernah Di Sana](https://open.spotify.com/track/0K2gS9lawq974gyuaDRCXs) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ), [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI) | [Pernah Di Sana](https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF) | 4:05 |
+| 8 | [Pernah Di Sana](https://open.spotify.com/track/0K2gS9lawq974gyuaDRCXs) | [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI), [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Pernah Di Sana](https://open.spotify.com/album/0BKGKhyZ7KEXByVDXbOXLF) | 4:05 |
 | 9 | [Percaya Jarak](https://open.spotify.com/track/7aIY0DttwL8utMJrIk75va) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Atap Berteduh](https://open.spotify.com/album/29wiJ1bk5Y2C5o4u3knyln) | 3:16 |
 | 10 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
 | 11 | [Karunia Semesta](https://open.spotify.com/track/4lw4drUE3FNvcKnQ7Ku4pB) | [The Changcuters](https://open.spotify.com/artist/1DZs8IjMvRQqB3i0uvgCc5) | [Karunia Semesta](https://open.spotify.com/album/34EA1OOMTjRH8Ul9M6l6UN) | 3:22 |

@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Love Don\u2019t Cost A Thing",
+        "url": "https://open.spotify.com/album/7mdUW5834ndaTi6Dyu2ufQ"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Love Don\u2019t Cost A Thing",
+      "url": "https://open.spotify.com/track/6zkfapMV2VbdUsh9k4HPRl"
+    },
+    {
+      "album": {
         "name": "From Day 1",
         "url": "https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC"
       },

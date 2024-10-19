@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 37,258 likes - 119 songs - 6 hr 9 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 37,257 likes - 119 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
 | 2 | [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 |
-| 3 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
+| 3 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 4 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 |
 | 5 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 |
 | 6 | [Waltzing](https://open.spotify.com/track/02nicqq35voFB9h2SUXpSK) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Carousel](https://open.spotify.com/album/5LfyG0hpTmZQ9sVrF4Upm6) | 2:21 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 76 | [BAATH \(EQUIPMENT THIEF\)](https://open.spotify.com/track/2UawH6aDtcIkiW62qGFSOR) | [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [BAATH \(EQUIPMENT THIEF\)](https://open.spotify.com/album/1SwiYoLc1GcF55OXmaLlpG) | 6:24 |
 | 77 | [Au clair de la lune](https://open.spotify.com/track/3kxB8Uj9Clffn5ZsY5agzf) | [Édouard\-Léon Scott de Martinville](https://open.spotify.com/artist/4QIqrGf063HoLbGRsCMXoB) | [An Anthology of Noise & Electronic Music, Vol\. 7](https://open.spotify.com/album/68jd2YgjZUO3ZXT8jXCuQp) | 0:16 |
 | 78 | [I Hear Them](https://open.spotify.com/track/3xmwgBfEqBEBKenxVdecoU) | [Imagine Drowning](https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9) | [I Live in the Hills, I Never See Anyone.](https://open.spotify.com/album/4DN17pslottKmZPaF0aPvX) | 4:14 |
-| 79 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
+| 79 | [A World Of Madness](https://open.spotify.com/track/2GMeVXL0JQFLmAIJJa8K2n) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:47 |
 | 80 | [space 11](https://open.spotify.com/track/6iSPSGSXymQN7aCFS21McV) | [Unworn](https://open.spotify.com/artist/5mXJ91ZpCxNWaLSJpsvARF) | [liminal](https://open.spotify.com/album/1Pg7yD3uDkKEdnUMMx6y70) | 3:33 |
 | 81 | [Long Whale Song \(Slowed + Reverb\)](https://open.spotify.com/track/7aQXLjl1p05UxedDgjG18C) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Long Whale Song \(Remixes\)](https://open.spotify.com/album/0VSb6zkeNvuPRzglBPKYjW) | 3:19 |
 | 82 | [Rotten Candy](https://open.spotify.com/track/2lndG0PZZWdi7E6rnIQ1aQ) | [MXXN](https://open.spotify.com/artist/7DgqyV931IoTtcQVZ97fuq) | [Samhain \(Original Puppet Combo Soundtrack\)](https://open.spotify.com/album/3K1sRUtQBtOqSXSiYaDsBz) | 3:56 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 94 | [For Girls](https://open.spotify.com/track/3n3FUHXLR3WeL0ORkmuUNX) | [Locust Toybox](https://open.spotify.com/artist/3nUeb5dKLlisR9dvt7qbaZ) | [Drownscapes](https://open.spotify.com/album/4SEzakCVW1GDOhz3mGDp73) | 2:14 |
 | 95 | [Birthweek](https://open.spotify.com/track/5kxpnWg9ddzgk1gZhY2hEC) | [Locust Toybox](https://open.spotify.com/artist/3nUeb5dKLlisR9dvt7qbaZ) | [Stringland](https://open.spotify.com/album/1nZ3YOvzjonwo69zehuq5B) | 2:08 |
 | 96 | [Disco Elysium](https://open.spotify.com/track/7cGIpEUgEeYf1kuuIJWT9W) | [Pale\_AT](https://open.spotify.com/artist/71jj6aliDF4cBfkjgWOVOh) | [Oneironaut](https://open.spotify.com/album/414YuctgZOyC8hSWlBuBCy) | 2:54 |
-| 97 | [Blank Fairy](https://open.spotify.com/track/2CmGDsT4GgbJgcXTRUEpeE) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:12 |
+| 97 | [Blank Fairy](https://open.spotify.com/track/2CmGDsT4GgbJgcXTRUEpeE) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 （Original Soundtrack）](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:12 |
 | 98 | [Watery Grave](https://open.spotify.com/track/3rKWiEhvEs8aRT9BZO32Nv) | [Cris Velasco](https://open.spotify.com/artist/13bb43GIQWR0f6rYeQcrUV) | [Carrion \(Original Game Soundtrack\)](https://open.spotify.com/album/1RLLD6srXDVDHkRKd8HfaM) | 1:55 |
 | 99 | [Birthday Piano Theme \(Out of Tune\)](https://open.spotify.com/track/7MIAzEvS5Q7Gd8UKlNNla6) | [Victor Butzelaar](https://open.spotify.com/artist/3cTpN2wXm41MGA4pPxBTRL) | [Cube Escape: Birthday](https://open.spotify.com/album/5edCjsWL4jn8gg2IH7GnDw) | 1:36 |
 | 100 | [1a2105aceafc0855249d797b38511f22\-v](https://open.spotify.com/track/0MBQFz3TbvS296PNzDXKDT) | [Told](https://open.spotify.com/artist/2t285IaAD292YQRFJBcIoj) | [Negation](https://open.spotify.com/album/63spJHV3EvgnAQceHF4mGr) | 1:00 |

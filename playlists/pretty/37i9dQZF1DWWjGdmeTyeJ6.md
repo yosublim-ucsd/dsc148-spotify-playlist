@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Mercer Henderson, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,402 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,447 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 |
+| 1 | [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 |
 | 2 | [feeL](https://open.spotify.com/track/5DyWv22uBarGeTDh8Hji0a) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [feeL](https://open.spotify.com/album/4EUbD9eZXFT8R0idZ4a4hT) | 4:08 |
 | 3 | [dancing](https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc) | [tn\_490](https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X) | [dancing](https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4) | 2:22 |
 | 4 | [Matchstick](https://open.spotify.com/track/6TPAncYSpDjtG2o5gYV93X) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Matchstick](https://open.spotify.com/album/7s1BvjgslY5CaFdhAc6pBh) | 3:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 149 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 |
 | 150 | [in my blood](https://open.spotify.com/track/6UCtr0AtfQz1F911AFgbI6) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:28 |
 
-Snapshot ID: `ZxAbXQAAAAA59KeI/poY7YTJFp36MMMa`
+Snapshot ID: `ZxHrUAAAAABm81Ia9KPU/R3hp6REdNDW`

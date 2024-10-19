@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak:  Aksan x UZI
 
-450 songs - 19 hr 55 min
+451 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Dilden Dile](https://open.spotify.com/track/2gEzY9A4cQIOGsOM9xODKF) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Dilden Dile](https://open.spotify.com/album/60X4XyKOlu9SliLzjElmGB) | 3:37 | 2024-05-30 | 2024-06-21 |
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2023-01-10 | 2023-09-22 |
 | [DIYE](https://open.spotify.com/track/35dhWi0kF2ZJbTA2jY2Phs) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [EPIZOD](https://open.spotify.com/album/0bZOB8JHT7TL3lheF8jEMG) | 3:00 | 2023-11-16 | 2023-12-14 |
+| [DOLDURDUM TABANCAMI](https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [DOLDURDUM TABANCAMI](https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J) | 2:15 | 2024-10-18 |  |
 | [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-23 |  |
 | [DOYAMADIM](https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [DOYAMADIM](https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK) | 2:37 | 2024-02-08 | 2024-04-12 |
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-01-11 | 2024-09-20 |
@@ -455,7 +456,7 @@
 | [ölümlü dünya](https://open.spotify.com/track/6OixL8OpVDQDvWc2rCUDhd) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf) | [Çığlık Senfonisi 2](https://open.spotify.com/album/4quESo01OoptGiaFWsq5vx) | 3:06 | 2023-12-14 | 2024-01-05 |
 | [Özlesen Beni](https://open.spotify.com/track/7ET0F8bXWsF8glyEwMDeli) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlesen Beni](https://open.spotify.com/album/1ii0DgIUp0k3VPCpEUU6c7) | 2:18 | 2023-07-13 | 2023-08-11 |
 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-31 | 2024-02-02 |
-| [Ütopik](https://open.spotify.com/track/7g7zbnLW2JNvhBy3Xa1uAo) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Botan](https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [Ütopik](https://open.spotify.com/album/7f4zLJwHtuvW8YPZfsRYhe) | 3:41 | 2024-10-03 |  |
+| [Ütopik](https://open.spotify.com/track/7g7zbnLW2JNvhBy3Xa1uAo) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Botan](https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [Ütopik](https://open.spotify.com/album/7f4zLJwHtuvW8YPZfsRYhe) | 3:41 | 2024-10-03 | 2024-10-19 |
 | [Şeytan ve Melekler](https://open.spotify.com/track/1Rrg2RPn0H2iLcUxDYgOWx) | [Heja](https://open.spotify.com/artist/3G0XxE8TxeByKXgwtmVE8n), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Şeytan ve Melekler](https://open.spotify.com/album/6JgYKBgd77acqUw0NZpvpd) | 4:10 | 2024-06-20 | 2024-07-27 |
 | [Şimdi Değilse Ne Zaman?](https://open.spotify.com/track/4ImVHwW75uD99O4UHVdYTW) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [Şimdi Değilse Ne Zaman?](https://open.spotify.com/album/3xt3Wi2E4WwCZIJtp0VIHl) | 2:57 | 2023-02-23 | 2023-03-10 |
 

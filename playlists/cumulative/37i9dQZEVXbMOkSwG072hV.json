@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181649,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/5Haev5dXGbz0Snui8ukwD7"
@@ -33191,6 +33191,24 @@
     },
     {
       "album": {
+        "name": "Minha Felicidade (Thiago Freitas)",
+        "url": "https://open.spotify.com/album/68I6sz8Hbfg8BsS4bCO0jK"
+      },
+      "artists": [
+        {
+          "name": "Atualizou Hits",
+          "url": "https://open.spotify.com/artist/7k180f6fhG6isBh9xeN7uS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147591,
+      "name": "Minha Felicidade (Thiago Freitas)",
+      "url": "https://open.spotify.com/track/5cT7vU2iLhxWVia2PGBfCa"
+    },
+    {
+      "album": {
         "name": "Minha Hist\u00f3ria",
         "url": "https://open.spotify.com/album/27sfRHqHaaP3xwU7JmLlB5"
       },
@@ -36492,7 +36510,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 641590,
       "name": "Nego Raul",
       "url": "https://open.spotify.com/track/6tg4okIeXW0foqBz6Piymv"
@@ -56310,6 +56328,24 @@
       "duration_ms": 110613,
       "name": "Vai Dar PT - Ao Vivo",
       "url": "https://open.spotify.com/track/3aD1casmkFBZRtBcTs33fL"
+    },
+    {
+      "album": {
+        "name": "iMEMsid\u00e3o EP 01 (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140438,
+      "name": "Vai L\u00e1 - Ao Vivo em Goi\u00e2nia",
+      "url": "https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V"
     },
     {
       "album": {

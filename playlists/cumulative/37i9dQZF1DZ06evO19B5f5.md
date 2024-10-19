@@ -2,7 +2,7 @@
 
 ### [This Is Lauren Aquilina](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19B5f5)
 
-> This is Lauren Aquilina\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Lauren Aquilina\. Los temas esenciales, todos en una lista.
 
 37 songs - 2 hr 11 min
 

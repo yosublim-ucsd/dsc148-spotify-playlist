@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: Thakzin
 
-1,100 songs - 4 day 2 hr 47 min
+1,101 songs - 4 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,6 +741,7 @@
 | [Phakeme](https://open.spotify.com/track/4ylIEbjjtCtDr05FCXhk53) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Ndoni](https://open.spotify.com/artist/5CIefATUW9oUwXL9FaOIIZ) | [Phakeme](https://open.spotify.com/album/4iT60HD8yLQSSNymVtRI8N) | 6:22 | 2022-06-23 | 2022-11-01 |
 | [Phambili](https://open.spotify.com/track/04ZqwR6S9KRMEPMBtgHjAu) | [Claudio Wade](https://open.spotify.com/artist/6UdImHYJJIQrSLA1lpI7ya), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Claudio](https://open.spotify.com/artist/3yZTQuteUZgfg58YrcnjHc) | [WIND & WAVES](https://open.spotify.com/album/0e3ie0yx8hNDpAbh4uiuYz) | 3:52 | 2023-06-02 | 2023-06-17 |
 | [Phesheya](https://open.spotify.com/track/3zY55Lqt4dmouZxFM3T9bQ) | [Kinetic T](https://open.spotify.com/artist/62zcEEwZqeLYC5uakS3oYj), [Bean Musiq](https://open.spotify.com/artist/12XrbLIykd1tE0sQ3uXu1Y) | [Phesheya](https://open.spotify.com/album/5UE4S8DStgaWW8FhBHJQv4) | 4:58 | 2022-05-12 | 2022-06-22 |
+| [Phula \(feat\. Sykes\)](https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sykes](https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA) | [ARCADE TRILOGY](https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ) | 5:59 | 2024-10-18 |  |
 | [Phumelela](https://open.spotify.com/track/5N0s1lJaBw61jslmMeU3RB) | [Tumisho](https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d), [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio), [Themba Mbokazi](https://open.spotify.com/artist/2QLdKPtekBDnmNtnl4ysZZ) | [House Of Hits Vol\. 7](https://open.spotify.com/album/3TyqbSVCJFWTJObSklgWkz) | 7:02 | 2022-09-09 | 2022-11-04 |
 | [Pick Me Up](https://open.spotify.com/track/3BFrpPrHG0jNvD7x5JjaJh) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Pick Me Up](https://open.spotify.com/album/3XnIqkiFZfVKH0D0nZnfcx) | 3:41 | 2022-04-07 | 2022-06-10 |
 | [Pieces](https://open.spotify.com/track/15ZvZhkA572y7OoSgGzvqu) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Pieces](https://open.spotify.com/album/1jhBxTHC12iy5qZ3z9Cg0m) | 6:05 | 2024-06-13 | 2024-09-21 |
@@ -856,7 +857,7 @@
 | [Skhaftin Saka Fonque](https://open.spotify.com/track/2PPPgDip0zSXqpt5vWk980) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Skhaftin Saka Fonque](https://open.spotify.com/album/01gtDEEZeWAdwiiTADaQTD) | 6:14 | 2024-08-29 |  |
 | [Sky Is the Limit](https://open.spotify.com/track/2P5bRY26MQJqJKUPDNbI7C) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Sky Is the Limit](https://open.spotify.com/album/7hRiYiFR1fzyHV6Fx5vLQR) | 8:53 | 2022-03-03 | 2022-06-24 |
 | [Sky With No Stars \- Original Mix](https://open.spotify.com/track/6FaYBld6de3GwlyqKfJ41z) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [PEACE III](https://open.spotify.com/album/4m3RjNWhimTK87MSnVynKq) | 6:59 | 2022-03-24 | 2022-04-08 |
-| [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 | 2024-07-18 |  |
+| [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 | 2024-07-18 | 2024-10-19 |
 | [Slide](https://open.spotify.com/track/3JfzdwB67rhnritzNmA88s) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Bonokuhle](https://open.spotify.com/artist/14JNOIXX2bfRWEOLdWx0QV) | [Motherland](https://open.spotify.com/album/42eCDXgE2umebnRMbmwAHW) | 5:46 | 2022-12-31 | 2023-01-20 |
 | [Slide Through Silver](https://open.spotify.com/track/0K3EZQ1ruPivNNy12bsG4x) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Slide Through Silver](https://open.spotify.com/album/4f002giozkoEjQONpBZW04) | 3:58 | 2022-07-14 | 2022-07-22 |
 | [Socotra](https://open.spotify.com/track/2b5xDONVmyHIY4cOO1GXU7) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Socotra](https://open.spotify.com/album/6FgFCDlhAGB5S1uBr5hBds) | 6:26 | 2022-04-22 | 2022-06-18 |

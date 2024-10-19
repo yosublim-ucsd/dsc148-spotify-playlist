@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
+      },
+      "artists": [
+        {
+          "name": "Eric Serenade",
+          "url": "https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188124,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
+    },
+    {
+      "album": {
         "name": "Cold (Acoustic)",
         "url": "https://open.spotify.com/album/3lwo95FknVyZiAkfO2ydhw"
       },
@@ -3108,7 +3126,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 222333,
       "name": "Glad He's Gone",
       "url": "https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0"
@@ -3686,6 +3704,24 @@
       "duration_ms": 187286,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+    },
+    {
+      "album": {
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
+      },
+      "artists": [
+        {
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166554,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
     },
     {
       "album": {
@@ -6434,7 +6470,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 158647,
       "name": "see you soon",
       "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"

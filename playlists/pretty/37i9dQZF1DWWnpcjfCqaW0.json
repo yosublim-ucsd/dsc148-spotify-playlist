@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 290720,
+  "num_followers": 290736,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
+        "name": "20 Of His Best",
+        "url": "https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Fraulein",
+      "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
         "name": "The Complete Capitol Hits Of Faron Young",
         "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 150493,
       "name": "Gotta Travel On",
       "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "20 Of His Best",
-        "url": "https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "Fraulein",
-      "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
     },
     {
       "added_at": "2024-07-05 22:38:35",

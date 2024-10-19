@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 203891,
       "name": "A Glorious Morning (Spa)",
       "url": "https://open.spotify.com/track/3gF1BjpJbEiJFHr646872q"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 173786,
       "name": "Exception",
       "url": "https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4"
@@ -3301,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "Monism",
+        "url": "https://open.spotify.com/album/3MTzr4U8cT0uOx29SVYCPX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147559,
+      "name": "Monism",
+      "url": "https://open.spotify.com/track/7wY4Bww6zSZKdsqSWkl3nD"
+    },
+    {
+      "album": {
         "name": "At Peace",
         "url": "https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP"
       },
@@ -3496,6 +3514,24 @@
       "duration_ms": 166678,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
+    },
+    {
+      "album": {
+        "name": "Night Breeze",
+        "url": "https://open.spotify.com/album/793FjBtSO8lbrjZqbaiJMN"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149441,
+      "name": "Night Breeze",
+      "url": "https://open.spotify.com/track/7yz8ndDu1r0EgaeLsKU5Ho"
     },
     {
       "album": {
@@ -3816,7 +3852,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 146483,
       "name": "Owls",
       "url": "https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb"
@@ -4237,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/741EFHVyF5BKk08X4DgLKG"
+      },
+      "artists": [
+        {
+          "name": "Dhanura",
+          "url": "https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165924,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0hlrbDOuT4q6U1T3puuATw"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr"
       },
@@ -4572,7 +4626,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 184250,
       "name": "Sea Of Colors",
       "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
@@ -5047,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7H8cwQxzzwOFGiKWNiEo9S"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rhey",
+          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162110,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2VGYSiY8wnT9YLR8BjcJEF"
+    },
+    {
+      "album": {
         "name": "Strange Skies",
         "url": "https://open.spotify.com/album/5OinUAzFtK0yjda1x7QWpj"
       },
@@ -5080,6 +5152,24 @@
       "duration_ms": 156500,
       "name": "Strewn Across",
       "url": "https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV"
+    },
+    {
+      "album": {
+        "name": "Sublimity",
+        "url": "https://open.spotify.com/album/3fV0EyWe9JHAlzWVYccMvG"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169055,
+      "name": "Sublimity",
+      "url": "https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt"
     },
     {
       "album": {
@@ -5152,6 +5242,24 @@
       "duration_ms": 182400,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/2RhkqYZSsC2MGHvWNf05oa"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2Xc4EPdbFgXv5xaBszMcsK"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148815,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4UyP72cWijr15G8m81ZRXR"
     },
     {
       "album": {
@@ -6246,7 +6354,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 179000,
       "name": "Zeppelin See",
       "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"

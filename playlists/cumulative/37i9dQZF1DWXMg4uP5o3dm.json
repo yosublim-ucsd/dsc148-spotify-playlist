@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+    },
+    {
+      "album": {
         "name": "Bad Juice (BROODS Remix)",
         "url": "https://open.spotify.com/album/6z2TcWBWAPk7SUjAMxKOOa"
       },
@@ -747,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Can't Get Away",
+        "url": "https://open.spotify.com/album/7veuTzAuzG1rH6aOfhmnli"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Can't Get Away",
+      "url": "https://open.spotify.com/track/1ej0845F6kewdR41vhAJyk"
+    },
+    {
+      "album": {
         "name": "Can't Get You Out of My Head",
         "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
       },
@@ -968,6 +1004,24 @@
       "duration_ms": 164117,
       "name": "Coke Nose",
       "url": "https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253698,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
     },
     {
       "album": {
@@ -1556,7 +1610,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 154690,
       "name": "does your mother know?",
       "url": "https://open.spotify.com/track/17wDoFSbfk4JsS4zorJPAZ"
@@ -2108,7 +2162,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 180461,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/5PTaK4FzliDWLnNzdzLbbp"
@@ -2598,7 +2652,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 203108,
       "name": "Great Time To Be Human",
       "url": "https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2"
@@ -3175,6 +3229,28 @@
     },
     {
       "album": {
+        "name": "Insect Song",
+        "url": "https://open.spotify.com/album/1nedLOmomdhGUoigWrqcGv"
+      },
+      "artists": [
+        {
+          "name": "Elke",
+          "url": "https://open.spotify.com/artist/5hYrKCvJDo3NMvcGKQQqBM"
+        },
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194938,
+      "name": "Insect Song",
+      "url": "https://open.spotify.com/track/4foh6agVKurSkd9dujPrlB"
+    },
+    {
+      "album": {
         "name": "Just Breathing",
         "url": "https://open.spotify.com/album/1DhPyUmy8h6xVPg4QOr3Kw"
       },
@@ -3324,6 +3400,28 @@
       "duration_ms": 254269,
       "name": "Last Resort & Spa",
       "url": "https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1"
+    },
+    {
+      "album": {
+        "name": "Leave A Message (w/ aldn)",
+        "url": "https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147696,
+      "name": "Leave A Message (w/ aldn)",
+      "url": "https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ"
     },
     {
       "album": {
@@ -4292,7 +4390,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 141591,
       "name": "PATCHWERK",
       "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
@@ -4546,6 +4644,24 @@
       "duration_ms": 197000,
       "name": "PROTOTYPE",
       "url": "https://open.spotify.com/track/1MMjfMrkY5MX7N21ELPYIZ"
+    },
+    {
+      "album": {
+        "name": "Psychic Attack",
+        "url": "https://open.spotify.com/album/4BKWWF0ncdBBrdGwK7R76T"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259092,
+      "name": "Psychic Attack",
+      "url": "https://open.spotify.com/track/51iihv2nFYbbQzqRl3pxw1"
     },
     {
       "album": {
@@ -5094,6 +5210,24 @@
       "duration_ms": 164042,
       "name": "skin",
       "url": "https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0"
+    },
+    {
+      "album": {
+        "name": "Skinny Loser",
+        "url": "https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208658,
+      "name": "Skinny Loser",
+      "url": "https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh"
     },
     {
       "album": {
@@ -5744,7 +5878,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 224800,
       "name": "Tramp",
       "url": "https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG"
@@ -5784,7 +5918,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 133509,
       "name": "UH OH! (feat. BENEE)",
       "url": "https://open.spotify.com/track/1fURQrd4K4b43ULvwbP9oC"
@@ -5864,7 +5998,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 246933,
       "name": "Until I Die",
       "url": "https://open.spotify.com/track/4L7L70wyvAdLRq3UGoodyb"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2wgAAAAAClkA0wjM9B7D8KG5s/Fd+e",
+  "snapshot_id": "ZxBTgAAAAAA8G3KW/vQNcrGv/PzB4ewG",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 63248,
-      "name": "Quinn Persiste",
-      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
+      "duration_ms": 117693,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
     },
     {
       "added_at": null,
@@ -244,25 +244,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 144739,
-      "name": "The Remsen",
-      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 117693,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
+      "duration_ms": 154091,
+      "name": "Mysteries of The Divine",
+      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
     },
     {
       "added_at": null,
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 154091,
-      "name": "Mysteries of The Divine",
-      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
     },
     {
       "added_at": null,

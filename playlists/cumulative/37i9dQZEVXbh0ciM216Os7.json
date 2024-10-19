@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 208000,
       "name": "1,2,3",
       "url": "https://open.spotify.com/track/1K9TC3YyS2sT5gzn6h9Xja"
@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "A-1 LAVA",
+        "url": "https://open.spotify.com/album/5Farm7FFFdcOn5dGCm5apo"
+      },
+      "artists": [
+        {
+          "name": "Blacklovefresh",
+          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207621,
+      "name": "A-1 LAVA",
+      "url": "https://open.spotify.com/track/2pV8qo0XORuBS1PXTUuvpn"
+    },
+    {
+      "album": {
         "name": "Abakhohlwe",
         "url": "https://open.spotify.com/album/04IWmAD2Zq3cAqaGwdwmqo"
       },
@@ -1080,7 +1102,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 216058,
       "name": "Advanced Movements",
       "url": "https://open.spotify.com/track/2wi18LCbPlVVj0DUAPkASL"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 336173,
       "name": "All Blues - 2024 Remastered Version",
       "url": "https://open.spotify.com/track/5iqHqoIJHDP6mTBg1yd1Bw"
@@ -1948,7 +1970,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 157242,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/1g0dXFJqYvTmFEN3LkPFza"
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 769135,
       "name": "Autumn Leaves - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
       "url": "https://open.spotify.com/track/31pUYh5fZjis9hlnGRrSUi"
@@ -5852,7 +5874,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 158495,
       "name": "Chi Mi Na Morbheanna - Pilot",
       "url": "https://open.spotify.com/track/0p4Yhorv0m6rgU3dq4Y1eT"
@@ -6556,7 +6578,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192821,
       "name": "Crawl Space",
       "url": "https://open.spotify.com/track/6TXEy8ZxJqVoCR3R93Z5zE"
@@ -8276,6 +8298,40 @@
       "duration_ms": 239783,
       "name": "Dollhouse (with Lily Rose Depp)",
       "url": "https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc"
+    },
+    {
+      "album": {
+        "name": "Don't Be Lyin'",
+        "url": "https://open.spotify.com/album/44yAm0UdQ38riMFkUTuwZc"
+      },
+      "artists": [
+        {
+          "name": "DILEVA",
+          "url": "https://open.spotify.com/artist/40cuZxVk269dwVkywnnFIo"
+        },
+        {
+          "name": "S3V4",
+          "url": "https://open.spotify.com/artist/7xv3eAqAetyC5dK2O8dYYV"
+        },
+        {
+          "name": "4YD",
+          "url": "https://open.spotify.com/artist/35jDRnxHJGSSxcFSkmkB8T"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270420,
+      "name": "Don't Be Lyin'",
+      "url": "https://open.spotify.com/track/40MoTneg8HQD3X7ChiHlHg"
     },
     {
       "album": {
@@ -10620,7 +10676,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 106213,
       "name": "Farther Up the Road",
       "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
@@ -11854,7 +11910,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 204811,
       "name": "Forgot Your Name (feat. Cory Henry) - Live from The Sun Rose",
       "url": "https://open.spotify.com/track/5z5cJ8cL6MH29MiXQIA6yG"
@@ -11910,6 +11966,28 @@
       "duration_ms": 230845,
       "name": "Four Kick Technicians",
       "url": "https://open.spotify.com/track/28gYIFGGaupTdhRHNHLO0D"
+    },
+    {
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146957,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
     },
     {
       "album": {
@@ -13157,6 +13235,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/1Aa7IJ0XzdyMISGbORyIHO"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
+    },
+    {
+      "album": {
         "name": "Gimme A Second 2",
         "url": "https://open.spotify.com/album/4jMSK8CQHwHLODMssDqo96"
       },
@@ -14018,7 +14114,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 218181,
       "name": "Hand Me A Glass - Slowed Down",
       "url": "https://open.spotify.com/track/13fbYFAElEArHUdIUyEeVz"
@@ -15098,7 +15194,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 130186,
       "name": "Holes Of Hell (Instrumental) - Bonus Track",
       "url": "https://open.spotify.com/track/4LVXo7n6phPoHaXzQrlifd"
@@ -15928,7 +16024,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 201900,
       "name": "I Try (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/3DhxAnsGkBgc7UxC4IZRyi"
@@ -16206,6 +16302,24 @@
       "duration_ms": 173207,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
     },
     {
       "album": {
@@ -17265,6 +17379,24 @@
     },
     {
       "album": {
+        "name": "Duke '78 (Live)",
+        "url": "https://open.spotify.com/album/5RINFTXQxiWNgoRT0Glwva"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388831,
+      "name": "Jack Straw - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+      "url": "https://open.spotify.com/track/6bTWiISnOr6Pbig7ad5ILc"
+    },
+    {
+      "album": {
         "name": "Leo Metal, Vol. 46",
         "url": "https://open.spotify.com/album/3ffTfWGBjtpCOcm8YFTn6S"
       },
@@ -17410,7 +17542,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 141600,
       "name": "Jesus of Suburbia - Demo",
       "url": "https://open.spotify.com/track/3jCXiL73zSHOJxhqL2tgoE"
@@ -18266,6 +18398,24 @@
       "duration_ms": 117864,
       "name": "King Geedorah",
       "url": "https://open.spotify.com/track/6FrfCrMjxCHJ5xHhKG6qwF"
+    },
+    {
+      "album": {
+        "name": "King Illusion",
+        "url": "https://open.spotify.com/album/3cuVbtM9fc7vmcS0BC7toy"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241818,
+      "name": "King Illusion",
+      "url": "https://open.spotify.com/track/6Ia6oCCkZneqsbQFh5eH2P"
     },
     {
       "album": {
@@ -19902,6 +20052,28 @@
       "duration_ms": 226546,
       "name": "Little Foot Big Foot (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85"
+    },
+    {
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282055,
+      "name": "Little Things - Floating Points Remix",
+      "url": "https://open.spotify.com/track/7iDFxX1qXsuMZ4AWq6DK6R"
     },
     {
       "album": {
@@ -21930,7 +22102,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 108373,
       "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
       "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
@@ -21988,6 +22160,28 @@
       "duration_ms": 236500,
       "name": "Monochrome - Piano Version - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/1jTeSBzlUX9kPnAEr7iEZu"
+    },
+    {
+      "album": {
+        "name": "Montagem Mysterious Game Phonk",
+        "url": "https://open.spotify.com/album/3U36dWXpxMfhKbvja7VVo7"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Khooni",
+          "url": "https://open.spotify.com/artist/1GSx9efWMifADaYuc3ZFgh"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139070,
+      "name": "Montagem Mysterious Game Phonk",
+      "url": "https://open.spotify.com/track/5ygC2EgYajaLi8x52QSRJk"
     },
     {
       "album": {
@@ -23486,7 +23680,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 234346,
       "name": "Night Bird Flying - Alternate Version",
       "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
@@ -29893,6 +30087,32 @@
     },
     {
       "album": {
+        "name": "SI NO ES CONTIGO (REMIX)",
+        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "SI NO ES CONTIGO - REMIX",
+      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
+    },
+    {
+      "album": {
         "name": "Sicilian Gold",
         "url": "https://open.spotify.com/album/5atzWc0KKpAjzmbmMxghUk"
       },
@@ -30334,6 +30554,24 @@
       "duration_ms": 192963,
       "name": "Smile (feat. Carolina Liar)",
       "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183193,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
     },
     {
       "album": {
@@ -32247,6 +32485,48 @@
     },
     {
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/4wtt08wXfDLUecMnqdZQsF"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Chris Rivers",
+          "url": "https://open.spotify.com/artist/4TCqgEIWd5RsCKItJqt8PL"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/6z5otfx9X1275Uy6vLRerR"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256328,
+      "name": "Survive The Night",
+      "url": "https://open.spotify.com/track/2JEbS9uVCddQeneqbhqUJH"
+    },
+    {
+      "album": {
         "name": "Swarm Tactics",
         "url": "https://open.spotify.com/album/6nnhcnPe3Yk8XAtISwc7qn"
       },
@@ -32630,7 +32910,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
@@ -33497,6 +33777,24 @@
     },
     {
       "album": {
+        "name": "Mirage Tour '82 (Live)",
+        "url": "https://open.spotify.com/album/62BXtgi628S51UANvOPTxi"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397853,
+      "name": "The Chain (Live at The Forum, Inglewood, CA, 10/22/82) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/4HTDAg9Zrr7WQymwm8WjbH"
+    },
+    {
+      "album": {
         "name": "Rumours Live",
         "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
       },
@@ -33672,6 +33970,40 @@
       "duration_ms": 183293,
       "name": "The Elevator",
       "url": "https://open.spotify.com/track/3sgxti4yMRu5it97Dj8RSE"
+    },
+    {
+      "album": {
+        "name": "She Loves Me",
+        "url": "https://open.spotify.com/album/73gxgbQxTkf88lxI7YCyjD"
+      },
+      "artists": [
+        {
+          "name": "Flannan",
+          "url": "https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Rittz",
+          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188839,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/1mR5xk9xZsqPsmXGkq41hb"
     },
     {
       "album": {
@@ -37227,6 +37559,24 @@
     },
     {
       "album": {
+        "name": "Warm Beers",
+        "url": "https://open.spotify.com/album/00L7SMZVEF6kj8QyLIe82E"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216067,
+      "name": "Warm Beers",
+      "url": "https://open.spotify.com/track/3sbdqZVzWv5amY4iQXqo8Y"
+    },
+    {
+      "album": {
         "name": "Warpaint",
         "url": "https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie"
       },
@@ -39197,6 +39547,28 @@
     },
     {
       "album": {
+        "name": "WIPLASH",
+        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"
+    },
+    {
+      "album": {
         "name": "Years Ago",
         "url": "https://open.spotify.com/album/2OzbZJ4FOyUzIv90LRxmzD"
       },
@@ -39446,7 +39818,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 182340,
       "name": "You & Me - SG Lewis Remix",
       "url": "https://open.spotify.com/track/2RadfxTUE036JNHuxM6MYW"

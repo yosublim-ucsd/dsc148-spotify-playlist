@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-508 songs - 1 day 4 hr 24 min
+509 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Comigo](https://open.spotify.com/track/7vK7TTDN4gQ4aQchzvqEPg) | [Caian](https://open.spotify.com/artist/7tuQ2Z48JrUw4wZthY8LO9) | [Paixão e outras drogas](https://open.spotify.com/album/6UEIYf0li1qnvIqRBQzLWl) | 2:58 | 2022-01-21 | 2022-04-23 |
 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 | 2022-01-14 | 2023-03-11 |
 | [Conflitos](https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos](https://open.spotify.com/album/3swynHE8l786dCRToj5OwS) | 3:09 | 2022-10-21 | 2023-03-18 |
-| [Construção](https://open.spotify.com/track/2cYgx1kkjk42oiSs6dEh50) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Chico x 2](https://open.spotify.com/album/3l5jWpQtSNnIqckhrYY9xz) | 4:25 | 2024-06-21 |  |
+| [Construção](https://open.spotify.com/track/2cYgx1kkjk42oiSs6dEh50) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Chico x 2](https://open.spotify.com/album/3l5jWpQtSNnIqckhrYY9xz) | 4:25 | 2024-06-21 | 2024-10-19 |
 | [Contramão](https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Contramão](https://open.spotify.com/album/2z33uZxRMmV0vve8z8PCQJ) | 2:42 | 2022-10-14 | 2023-01-14 |
 | [Coração Cheio](https://open.spotify.com/track/3Xl0nvpXQ5UxXICgQSfoTi) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [Coração Cheio](https://open.spotify.com/album/2fB058NV8aXCxHMHzdMvJf) | 3:48 | 2023-08-11 | 2023-12-16 |
 | [Coração Codificado](https://open.spotify.com/track/7p39pt1zEPGAJqhBL7VHVM) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Coração Codificado](https://open.spotify.com/album/6q4dxXqEwVg2Bf3SFOQmGl) | 3:24 | 2023-11-10 | 2024-04-27 |
@@ -381,6 +381,7 @@
 | [PRECISO DELA](https://open.spotify.com/track/61xqF9J7cidCByb0Li6OZF) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [PRECISO DELA](https://open.spotify.com/album/51U8maeYa6UPqkoIievl5W) | 2:23 | 2024-05-10 |  |
 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 | 2022-09-23 | 2024-06-01 |
 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2eS2ehUejP0cvXId8hRPNN) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Barão 40 \(Sucessos\)](https://open.spotify.com/album/1hY5slKrrcJ3WsQ6IF3rCm) | 5:16 | 2022-09-09 | 2023-02-18 |
+| [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 |  |
 | [Prova](https://open.spotify.com/track/5VLsC6rl5IYGs0ZnEk1Cv8) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Prova](https://open.spotify.com/album/6RmjVpt4iAIBOh8apPlENU) | 2:32 | 2022-09-02 | 2022-10-29 |
 | [PROVÉRBIOS](https://open.spotify.com/track/3GngykYM9zXXxcGnRiPVMG) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PROVÉRBIOS](https://open.spotify.com/album/4saG213AiMINBA9x87HViB) | 3:45 | 2024-04-26 |  |
 | [PURGATÓRIO](https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 2:37 | 2023-11-17 | 2024-06-22 |

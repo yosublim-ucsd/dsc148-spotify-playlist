@@ -3735,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "now i'm with you",
+        "url": "https://open.spotify.com/album/4UKHmQfAKiSOuorqhctk58"
+      },
+      "artists": [
+        {
+          "name": "rk jlln",
+          "url": "https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201903,
+      "name": "now i'm with you",
+      "url": "https://open.spotify.com/track/41uXETyxp0Tc3UB7ErfIrD"
+    },
+    {
+      "album": {
         "name": "NVMD",
         "url": "https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd"
       },

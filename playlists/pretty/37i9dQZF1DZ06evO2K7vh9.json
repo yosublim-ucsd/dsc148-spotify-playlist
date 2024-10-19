@@ -1,29 +1,13 @@
 {
-  "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 81681,
+  "description": "This is Lil Tecca. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 81719,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAABmgvSqUefSw2puXd0jzK3K",
+  "snapshot_id": "ZxBTgAAAAADOXFKN25CXlMrQfqJCSTpC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLAN A",
-        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 130979,
-      "name": "120",
-      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
-    },
     {
       "added_at": null,
       "album": {
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 170447,
-      "name": "TASTE",
-      "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
     },
     {
       "added_at": null,
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 141732,
-      "name": "NEVER LAST",
-      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t"
     },
     {
       "added_at": null,
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 142716,
-      "name": "24HRS",
-      "url": "https://open.spotify.com/track/3kIWgW0rAMIxUSkqwwYb7h"
+      "duration_ms": 141732,
+      "name": "NEVER LAST",
+      "url": "https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd"
     },
     {
       "added_at": null,

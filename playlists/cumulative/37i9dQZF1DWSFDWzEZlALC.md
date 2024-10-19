@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Lena&Linus
 
-851 songs - 1 day 16 hr 33 min
+852 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 | 2024-10-10 |  |
 | [BYE X3 \(MIT JEREMIAS\)](https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [BYE X3 \(MIT JEREMIAS\)](https://open.spotify.com/album/5YTiunGRpgmom2Xr1PYtel) | 2:10 | 2024-08-15 |  |
 | [Cabrio](https://open.spotify.com/track/2Uj3GZtgp8si3BAiai8kfK) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Cabrio](https://open.spotify.com/album/6iR835M2sCOVJWOsIHhGoE) | 2:23 | 2023-11-09 | 2023-12-01 |
-| [caddy](https://open.spotify.com/track/6AaXUanD29RCGcyDBvhoAP) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [caddy](https://open.spotify.com/album/6fna6U60qL09WcIwtS8eYY) | 2:47 | 2024-09-19 |  |
+| [caddy](https://open.spotify.com/track/6AaXUanD29RCGcyDBvhoAP) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [caddy](https://open.spotify.com/album/6fna6U60qL09WcIwtS8eYY) | 2:47 | 2024-09-19 | 2024-10-19 |
 | [Candy Crush](https://open.spotify.com/track/7zhRYYYqtKqWEtPUcc4YSF) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Candy Crush](https://open.spotify.com/album/5e2FeKsOQEjGRiHLUOfTEq) | 2:37 | 2023-11-16 | 2024-02-14 |
 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 | 2024-05-30 | 2024-09-27 |
 | [CEO](https://open.spotify.com/track/6FrpQXdyndAHT64KlhwHPD) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [CEO](https://open.spotify.com/album/6G56bPOgaCCMw6KklzTtgV) | 2:19 | 2023-12-08 | 2024-02-02 |
@@ -853,6 +853,7 @@
 | [zusammenalleine](https://open.spotify.com/track/0m0Ajm118G40tykZvwWQBP) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [zusammenalleine](https://open.spotify.com/album/3gVgenthhMYRjdERipHOol) | 2:01 | 2023-06-15 | 2024-02-16 |
 | [ZuuuUuuu](https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB) | [COBEE](https://open.spotify.com/artist/7dcsTtASWT3hrWnqYbQkw8) | [ZuuuUuuu](https://open.spotify.com/album/3ytI82d89aDnCNwBCAxN6X) | 2:33 | 2023-02-16 | 2023-03-03 |
 | [zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht <3](https://open.spotify.com/album/3fU8AScEC1AiQHfOSIL7hI) | 2:39 | 2023-09-07 | 2023-11-17 |
+| [zwischendrin verliebt](https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin verliebt](https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf) | 2:46 | 2024-10-18 |  |
 | [Ändert nichts](https://open.spotify.com/track/7n3hfyNw12pdVoWAYHcEuO) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Ändert nichts](https://open.spotify.com/album/3ZxBCLQhUzfjwpgpyNFOqU) | 2:21 | 2024-03-14 | 2024-05-24 |
 | [Ängste Haben Arme](https://open.spotify.com/track/2syhnkO2esqLFG7Mycl9jm) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Ängste Haben Arme](https://open.spotify.com/album/2SZVzyfI8TV5nALfSskU32) | 3:00 | 2024-05-16 | 2024-06-21 |
 | [Überdosis Mensch](https://open.spotify.com/track/6y9gcJktZF6brsR4pz5eVM) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Überdosis Mensch](https://open.spotify.com/album/0PF2ijCRI6Cs2Q5cD80nMe) | 3:34 | 2024-02-01 | 2024-03-01 |

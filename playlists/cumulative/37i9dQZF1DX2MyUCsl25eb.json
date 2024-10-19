@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
         "name": "All of It, Again",
         "url": "https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI"
       },
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
@@ -7630,7 +7648,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 254587,
       "name": "In A Song (Lost & Found)",
       "url": "https://open.spotify.com/track/4UqYBqytpDXC9eD8hMmezL"
@@ -10487,6 +10505,24 @@
     },
     {
       "album": {
+        "name": "No Reason to Stay",
+        "url": "https://open.spotify.com/album/5H0BHO0f8NC3qFYLgYSn2m"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290697,
+      "name": "No Reason to Stay",
+      "url": "https://open.spotify.com/track/4WxMcqmvwOEb5rdz25KDv2"
+    },
+    {
+      "album": {
         "name": "No Reservations",
         "url": "https://open.spotify.com/album/0eG3xAfpbnkfytXoElMF8b"
       },
@@ -11585,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "What Do You Believe In? (Deluxe)",
+        "url": "https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167382,
+      "name": "Put A Little Hurt On Me",
+      "url": "https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl"
+    },
+    {
+      "album": {
         "name": "Heartbreak Weather",
         "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
@@ -11972,7 +12026,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 194262,
       "name": "Really Mean It",
       "url": "https://open.spotify.com/track/4vhC4RETf50LkuIAHMqb1f"
@@ -13774,6 +13828,24 @@
       "duration_ms": 205775,
       "name": "Still Broke (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE"
+    },
+    {
+      "album": {
+        "name": "Still Fallin (Lost & Found)",
+        "url": "https://open.spotify.com/album/0Wb6m97pWfgitr3jhuWVMZ"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221835,
+      "name": "Still Fallin (Lost & Found)",
+      "url": "https://open.spotify.com/track/3gttVxC2HdY0DC3hYGYLVs"
     },
     {
       "album": {
@@ -15678,7 +15750,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 190474,
       "name": "What Do You Believe In?",
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"

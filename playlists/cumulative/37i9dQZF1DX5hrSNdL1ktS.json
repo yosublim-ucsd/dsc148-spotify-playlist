@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 La Chica de Las Poes\u00edas en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Chacal M\u00e1s Caro en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 198956,
       "name": "Bellaco Desde Chamaco",
       "url": "https://open.spotify.com/track/5oDlokMwVQWZBHhcBjjGNJ"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 252244,
       "name": "Bellaqueando",
       "url": "https://open.spotify.com/track/6VzR7rdNug7P1oVxSPp8vk"
@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Bien Trabao",
+        "url": "https://open.spotify.com/album/7MQtmqs5lHVqhnpuLoVtVF"
+      },
+      "artists": [
+        {
+          "name": "Leinvd",
+          "url": "https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Bien Trabao",
+      "url": "https://open.spotify.com/track/1LUx4c1Vi3420Pi1oyy5jy"
+    },
+    {
+      "album": {
         "name": "Blanco Y Negro",
         "url": "https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp"
       },
@@ -1484,7 +1510,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181200,
       "name": "BOBOMENSOTONTO",
       "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
@@ -2629,6 +2655,28 @@
     },
     {
       "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
+    },
+    {
+      "album": {
         "name": "Cuando Sale",
         "url": "https://open.spotify.com/album/6I14mHsQei3LLHvg0kRkeI"
       },
@@ -3562,10 +3610,36 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 150998,
       "name": "Drewther Perreame",
       "url": "https://open.spotify.com/track/6yNO10YhGQK9JzwNEITK0g"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/0omnzSmvavNk9PfiP0IOuS"
+      },
+      "artists": [
+        {
+          "name": "Samir Guerrero",
+          "url": "https://open.spotify.com/artist/48GvKgVJh2wvVwNy2sfUWU"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "J Mauri",
+          "url": "https://open.spotify.com/artist/5e2QMokByimjpy5prPACGj"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "D\u00e9jate Llevar",
+      "url": "https://open.spotify.com/track/7pO6bgsY7V62K9fSmbzuyG"
     },
     {
       "album": {
@@ -3834,6 +3908,32 @@
       "duration_ms": 168487,
       "name": "Emoji de Diabla",
       "url": "https://open.spotify.com/track/5v89Riv1pAuaFxhmlFN7vL"
+    },
+    {
+      "album": {
+        "name": "EMPUJALO",
+        "url": "https://open.spotify.com/album/4GXKQnkuwpth9fn6qHggAd"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Pepo Mix",
+          "url": "https://open.spotify.com/artist/1HjYewpu3sZfRg7cfZWD4i"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179343,
+      "name": "EMPUJALO",
+      "url": "https://open.spotify.com/track/1MGUC4IR5twRt7pMXN5Vx3"
     },
     {
       "album": {
@@ -4666,7 +4766,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 279990,
       "name": "G Low Kitty - Remix",
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
@@ -5970,7 +6070,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 189600,
       "name": "La Combi Completa",
       "url": "https://open.spotify.com/track/4ITIqqWIpwFHKLjYbIHjCy"
@@ -7398,10 +7498,40 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 189999,
       "name": "Maniaka",
       "url": "https://open.spotify.com/track/4V3Rey40fJS8JowOeQmpQi"
+    },
+    {
+      "album": {
+        "name": "Mari Coquetu (feat. Alu Mix)",
+        "url": "https://open.spotify.com/album/5zhwGSLTwP7y7mpV8qUB1Q"
+      },
+      "artists": [
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        },
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Mari Coquetu (feat. Alu Mix)",
+      "url": "https://open.spotify.com/track/1iunbwZAfQwNDGOxxLHdYm"
     },
     {
       "album": {
@@ -10425,6 +10555,28 @@
     },
     {
       "album": {
+        "name": "PUTOTA",
+        "url": "https://open.spotify.com/album/30IRWSCYfH0xhG3Hl0WOUh"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182967,
+      "name": "PUTOTA",
+      "url": "https://open.spotify.com/track/303DyIUZDXGMOG7wf3ORjS"
+    },
+    {
+      "album": {
         "name": "PVTIVUELTA",
         "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
       },
@@ -11264,6 +11416,28 @@
       "duration_ms": 202000,
       "name": "Sateo",
       "url": "https://open.spotify.com/track/1PFDTC4pDagLY7bSy0Htzp"
+    },
+    {
+      "album": {
+        "name": "Se Porta Mal",
+        "url": "https://open.spotify.com/album/2awoKZoYEhJUcJifYLMgJh"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Se Porta Mal",
+      "url": "https://open.spotify.com/track/6zY5BPHLsFQjxedEvBN7e0"
     },
     {
       "album": {
@@ -12290,7 +12464,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 136812,
       "name": "TAPITA",
       "url": "https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK"
@@ -12686,6 +12860,32 @@
       "duration_ms": 152352,
       "name": "Tirando Flow Sesh #15",
       "url": "https://open.spotify.com/track/4cJ1nWt7i4Wo0bHyFbHTrJ"
+    },
+    {
+      "album": {
+        "name": "Tirando Flow Sesh #16",
+        "url": "https://open.spotify.com/album/35FUMT5kiqWJljfxxr9ajb"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Tirando Flow Sesh #16",
+      "url": "https://open.spotify.com/track/6MFIbN0LqCCKoJKaXOtUXV"
     },
     {
       "album": {
@@ -13500,10 +13700,36 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 156089,
       "name": "UY!",
       "url": "https://open.spotify.com/track/2NjbaMlBbfRqFkylLtjfeJ"
+    },
+    {
+      "album": {
+        "name": "V16 TURBO REMIX",
+        "url": "https://open.spotify.com/album/7oTTfEmS9Djw8f96e05oVd"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191569,
+      "name": "V16 TURBO REMIX",
+      "url": "https://open.spotify.com/track/3aQ1BgbYbfIGSrfLKiWika"
     },
     {
       "album": {

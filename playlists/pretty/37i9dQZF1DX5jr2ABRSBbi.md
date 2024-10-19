@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: LUISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,118 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,146 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 15 | [Ground](https://open.spotify.com/track/3m3Y5ArXq1AtydwejZqns0) | [Isabella Noel](https://open.spotify.com/artist/0vemMfbsHLikpkYJ6b3C6M), [Rainer](https://open.spotify.com/artist/4WQc4YpHYAGsNPm7a5Clvi) | [Ground](https://open.spotify.com/album/7ogAheU0basTAaaWTi5ApC) | 2:19 |
 | 16 | [Labyrint](https://open.spotify.com/track/0IhQ8xezirFWSVZGCXzNL1) | [Andrea Kalousová](https://open.spotify.com/artist/4VddqrWeNdiiqKVokwC252) | [Labyrint](https://open.spotify.com/album/3uvo6sotdtNsUFG8LHePen) | 2:22 |
 | 17 | [Dialog\_1: Vdechni mi život](https://open.spotify.com/track/5Y7YhNkQJz97IhCDfV22bY) | [Lenka Dusilová](https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI), [Kvietah](https://open.spotify.com/artist/1ck5wRc7dpyzawbajvXlKt) | [Dialog\_1: Vdechni mi život](https://open.spotify.com/album/5oJg7CRU8XTaH9BnGHx9zg) | 4:05 |
-| 18 | [Siréna](https://open.spotify.com/track/32Z6tgBZoJpRsvEcEcTafm) | [Kristal Shine](https://open.spotify.com/artist/1jschkhe5eRensKBEq1lVY) | [HATE ME LATTER](https://open.spotify.com/album/47W9688EfuRgKfY7h1KNE7) | 2:23 |
+| 18 | [Siréna](https://open.spotify.com/track/32Z6tgBZoJpRsvEcEcTafm) | [Kristal Shine](https://open.spotify.com/artist/1jschkhe5eRensKBEq1lVY) | [HATE ME LATER](https://open.spotify.com/album/47W9688EfuRgKfY7h1KNE7) | 2:23 |
 | 19 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 |
 | 20 | [Toxic](https://open.spotify.com/track/7Bpz9s9VTfRdfvMhTLYJfr) | [Erika Rein](https://open.spotify.com/artist/1OPKyDIfV8KG5aLoqJKU9v) | [Toxic](https://open.spotify.com/album/4cUBt9MI2PC0hkeOOcudlj) | 2:51 |
 | 21 | [Ve slabinách](https://open.spotify.com/track/1BjfVsZL1BloRDEPEiFCvP) | [Tereza Kutrová](https://open.spotify.com/artist/1ixzqT5pQK3Klu0BJdngcE) | [Ve slabinách](https://open.spotify.com/album/6UU3zc6Zq4IYgixqHrGr2b) | 3:24 |

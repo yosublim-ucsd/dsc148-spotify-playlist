@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,010 likes - 61 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,092 likes - 61 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 40 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |
 | 41 | [Ash Like Snow](https://open.spotify.com/track/4opeH1F0Z1pL0BdZhuWzew) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [Ash Like Snow](https://open.spotify.com/album/1t4Yw7R1k19MPwUm6LpSNq) | 4:32 |
 | 42 | [いつも何度でも](https://open.spotify.com/track/7f7LQSoV2zGzbPWTbP7SLv) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:35 |
-| 43 | [世界の約束\~人生のメリーゴーランド\-エンディング\-](https://open.spotify.com/track/65N9PSOHf8d8YouUJidgWR) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 6:50 |
+| 43 | [世界の約束～人生のメリーゴーランド－エンディング\-](https://open.spotify.com/track/65N9PSOHf8d8YouUJidgWR) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 6:50 |
 | 44 | [君の知らない物語](https://open.spotify.com/track/4EKMD4grPTUzXjHpKvvaY7) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [君の知らない物語](https://open.spotify.com/album/7g2QUFVpJnkBkbGKzi85PB) | 5:41 |
 | 45 | [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 |
 | 46 | [人として軸がぶれている](https://open.spotify.com/track/0D4mD3IcmPLoFFxANcWC5N) | [大槻ケンヂと絶望少女達](https://open.spotify.com/artist/4xtFnyqFy83Y1p5RTINfiI) | [人として軸がぶれている](https://open.spotify.com/album/0i1fGlZRpLA27BQO8krKsT) | 3:27 |

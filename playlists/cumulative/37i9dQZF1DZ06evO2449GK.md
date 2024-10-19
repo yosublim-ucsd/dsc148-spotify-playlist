@@ -2,7 +2,7 @@
 
 ### [This Is Alcolirykoz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2449GK)
 
-> This is: Alcolirykoz\. Alle wichtigen Tracks in einer Playlist.
+> This is Alcolirykoz\. The essential tracks, all in one playlist.
 
 49 songs - 3 hr 8 min
 

@@ -348,7 +348,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219893,
-      "name": "Kawaikutegomen",
+      "name": "Kawaikutegomen (feat. capi)",
       "url": "https://open.spotify.com/track/4Mo0vn7a03pJ19uESUrH5a"
     },
     {
@@ -614,28 +614,6 @@
     {
       "album": {
         "name": "slow down",
-        "url": "https://open.spotify.com/album/4aDt2yheMd5BuhHg7nPjaA"
-      },
-      "artists": [
-        {
-          "name": "Ame lil melo",
-          "url": "https://open.spotify.com/artist/0ehnoPffH5qmZNAsvEm7MN"
-        },
-        {
-          "name": "LUSH CARABINER",
-          "url": "https://open.spotify.com/artist/3qKsj7tkFGpQazRVfvxTsu"
-        }
-      ],
-      "date_added": "2023-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153503,
-      "name": "slow down",
-      "url": "https://open.spotify.com/track/0mEdrC1iTqwMNYl2G6lFM0"
-    },
-    {
-      "album": {
-        "name": "slow down",
         "url": "https://open.spotify.com/album/6Xru0jm5NpwERXQfG5eqM8"
       },
       "artists": [
@@ -654,6 +632,28 @@
       "duration_ms": 153503,
       "name": "slow down",
       "url": "https://open.spotify.com/track/7u7oJiGYQZ2Xef6hUKNZdb"
+    },
+    {
+      "album": {
+        "name": "slow down (feat. LUSH CARABINER)",
+        "url": "https://open.spotify.com/album/4aDt2yheMd5BuhHg7nPjaA"
+      },
+      "artists": [
+        {
+          "name": "Ame lil melo",
+          "url": "https://open.spotify.com/artist/0ehnoPffH5qmZNAsvEm7MN"
+        },
+        {
+          "name": "LUSH CARABINER",
+          "url": "https://open.spotify.com/artist/3qKsj7tkFGpQazRVfvxTsu"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153503,
+      "name": "slow down (feat. LUSH CARABINER)",
+      "url": "https://open.spotify.com/track/0mEdrC1iTqwMNYl2G6lFM0"
     },
     {
       "album": {

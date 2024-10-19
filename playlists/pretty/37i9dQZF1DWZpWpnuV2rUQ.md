@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,073 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,117 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 6 | [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 |
 | 7 | [Amor de Vago](https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Amor de Vago](https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2) | 3:08 |
 | 8 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 9 | [Aventura \- En Vivo](https://open.spotify.com/track/3eaI7pm5Epr3Wurhe36sfG) | [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Aventura \(En Vivo\)](https://open.spotify.com/album/0yXcCgUKJLkaCGsH9BiXfI) | 3:06 |
+| 9 | [Aventura \- En Vivo](https://open.spotify.com/track/3eaI7pm5Epr3Wurhe36sfG) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR) | [Aventura \(En Vivo\)](https://open.spotify.com/album/0yXcCgUKJLkaCGsH9BiXfI) | 3:06 |
 | 10 | [PENDEJO ATREVIDO](https://open.spotify.com/track/0tCRhTNMLX2EYJeVqZiC2n) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [PENDEJO ATREVIDO](https://open.spotify.com/album/6ew6zWzW26alYZs9k6pdyq) | 2:37 |
 | 11 | [Mucho, poquito o nada](https://open.spotify.com/track/4T6SpksOqLQhHinENQXd3N) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Margarita, que tu cuento valga la pena](https://open.spotify.com/album/6hMariaWwzwxApp7afAca5) | 2:34 |
 | 12 | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 |

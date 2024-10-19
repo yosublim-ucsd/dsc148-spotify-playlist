@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: deeper sleeper
+> Underground indie rock gems\. Cover: Shower Curtain
 
-1,380 songs - 3 day 7 hr 5 min
+1,385 songs - 3 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Bearings](https://open.spotify.com/track/4w1haGG3nk0tCBrqadOH6m) | [blue diner.](https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E) | [Bearings](https://open.spotify.com/album/2dmmyuh3kpwrPzTjbdHqhy) | 4:06 | 2024-04-05 | 2024-08-10 |
 | [Beauty School](https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beauty School](https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw) | 4:02 | 2024-08-23 | 2024-10-12 |
 | [beautysleep](https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [swanlike \(loosies 2020\-2023\)](https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ) | 2:09 | 2024-06-21 |  |
+| [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 | 2024-10-18 |  |
 | [Before Dawn](https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Before Dawn](https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg) | 4:17 | 2022-08-12 | 2023-06-16 |
 | [Ben Zaidi's Blues.](https://open.spotify.com/track/0XNkyRJljDqKrNnj13k8Sm) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Ben Zaidi's Blues.](https://open.spotify.com/album/2DnDKPt9XSd4w2z3AqnRCW) | 4:52 | 2021-08-13 | 2022-04-29 |
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-05 |  |
@@ -342,7 +343,7 @@
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-02 | 2022-10-14 |
 | [Do This Right](https://open.spotify.com/track/2TQOzVHI1Rp1uWwYLxxec4) | [Coco](https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe) | [Do This Right](https://open.spotify.com/album/2snbrz5sj2bTWvprCmx6dH) | 5:48 | 2023-11-17 | 2024-03-02 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-03-05 | 2022-04-29 |
-| [Do Your Angels Start To Sing](https://open.spotify.com/track/66xutcJli11dghQVZzZf6x) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS) | [Do Your Angels Start To Sing](https://open.spotify.com/album/2WOMCQ8H6XFuBMx8LNuVAF) | 2:46 | 2024-08-02 |  |
+| [Do Your Angels Start To Sing](https://open.spotify.com/track/66xutcJli11dghQVZzZf6x) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS) | [Do Your Angels Start To Sing](https://open.spotify.com/album/2WOMCQ8H6XFuBMx8LNuVAF) | 2:46 | 2024-08-02 | 2024-10-19 |
 | [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-13 | 2023-03-11 |
 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 | 2022-08-17 | 2023-05-20 |
 | [Dog Song 2](https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:10 | 2022-10-28 | 2023-03-04 |
@@ -352,7 +353,7 @@
 | [Don't Let Me Down Easy](https://open.spotify.com/track/2umQiMeWlzfSYN2NgldIUY) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [Don't Let Me Down Easy](https://open.spotify.com/album/2c6huLgcVNejsRn2Od7m9d) | 3:47 | 2024-07-05 | 2024-09-14 |
 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 | 2024-07-05 |  |
 | [Done With Bits](https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Done With Bits](https://open.spotify.com/album/0W6rOrXfNXH3h79NANKqvc) | 3:36 | 2023-01-27 | 2023-04-09 |
-| [Dotted Line](https://open.spotify.com/track/34BIaCvkZLDXSmWVbbFcID) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Dotted Line](https://open.spotify.com/album/7z2dD1HHgimIFA2r0SHhVW) | 3:36 | 2024-05-03 |  |
+| [Dotted Line](https://open.spotify.com/track/34BIaCvkZLDXSmWVbbFcID) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Dotted Line](https://open.spotify.com/album/7z2dD1HHgimIFA2r0SHhVW) | 3:36 | 2024-05-03 | 2024-10-19 |
 | [drain](https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [drain](https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f) | 2:09 | 2024-06-07 | 2024-10-05 |
 | [Dream Woman](https://open.spotify.com/track/7nmtN2pXRz86ooiPmZxztQ) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [Dream Woman](https://open.spotify.com/album/57gpMvYPqs5ERNHqXb4C0X) | 4:21 | 2023-06-15 | 2023-09-30 |
 | [Drift](https://open.spotify.com/track/0g41K2GGXB7G1hDLGlvzul) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:24 | 2023-04-07 | 2023-06-16 |
@@ -490,6 +491,7 @@
 | [Get a Life](https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Get a Life](https://open.spotify.com/album/688WucYXpm6rlKMjYVMshu) | 3:29 | 2024-09-27 |  |
 | [Get Better](https://open.spotify.com/track/4Ds6iA52kcODdy2CObnC2m) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Get Better](https://open.spotify.com/album/0stRso4qR86U0gBcmTpvae) | 4:11 | 2022-03-04 | 2022-04-15 |
 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [get high, breathe underwater \(\#3\)](https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP) | 3:51 | 2022-07-15 | 2022-07-30 |
+| [Get It](https://open.spotify.com/track/0rNPQbISdNPMIu29r3aawf) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Get It](https://open.spotify.com/album/0fKpzon7eCAX5S9Ebn1h2G) | 2:42 | 2024-10-18 |  |
 | [Get It Right](https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:28 | 2024-04-05 |  |
 | [Ghost](https://open.spotify.com/track/7iZuydBaeVdETro5wdcomc) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Ghost](https://open.spotify.com/album/0mDCPRA0M98EaViYWI0mGo) | 4:17 | 2024-09-20 |  |
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-02-16 |  |
@@ -532,7 +534,7 @@
 | [Guitar + Peaches](https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Guitar + Peaches](https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0) | 4:42 | 2022-03-04 | 2022-03-10 |
 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 | 2023-03-23 | 2023-06-16 |
 | [Habitat](https://open.spotify.com/track/5AVmZ4b4vbkEEBfbH67WJc) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Habitat](https://open.spotify.com/album/5aPqe2xsYknVrzOkKr34D5) | 6:55 | 2022-01-28 | 2022-04-29 |
-| [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-04-12 |  |
+| [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-04-12 | 2024-10-19 |
 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 | 2023-09-29 | 2024-03-23 |
 | [Hangar](https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Hangar](https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g) | 2:55 | 2022-01-28 | 2022-03-21 |
 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 | 2023-05-19 | 2023-06-16 |
@@ -958,6 +960,7 @@
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2021-03-05 | 2022-04-21 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-12-15 | 2024-05-18 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-10-28 | 2022-12-18 |
+| [Quite Alarmed](https://open.spotify.com/track/5EY1BQq6o67JSvItXBSqJz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [Quite Alarmed](https://open.spotify.com/album/1SPqb5araAEEp35D3wuyhF) | 2:38 | 2024-10-18 |  |
 | [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 | 2023-01-20 | 2023-06-16 |
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-05-18 |
 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 | 2022-07-22 | 2023-05-20 |
@@ -1098,7 +1101,7 @@
 | [Soundtrack for Your Backseat](https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6) | [sundiver ca](https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi) | [Superstar Baby](https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX) | 2:42 | 2022-03-26 | 2022-09-03 |
 | [soup](https://open.spotify.com/track/4zSMM2luIRyEyYVhWpNlFk) | [bugsy](https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ) | [soup](https://open.spotify.com/album/5v1u1hfWKKRn9NdG41Gomr) | 3:32 | 2023-09-22 | 2024-03-30 |
 | [Soup](https://open.spotify.com/track/5Y4ecSb3xUIQ5fhCKeFLK0) | [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Soup](https://open.spotify.com/album/1tqJWus86sy7sY0JVwvggd) | 3:16 | 2022-08-26 | 2022-12-15 |
-| [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-05-03 |  |
+| [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-05-03 | 2024-10-19 |
 | [Space Between the Bed and the Wall](https://open.spotify.com/track/0Wpls5CapHMgXgv6Xvrn0P) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Cradle](https://open.spotify.com/album/4YzM91c3bPY56P14PuyI7j) | 3:19 | 2022-07-22 | 2022-10-14 |
 | [Space Cowboy](https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Space Cowboy](https://open.spotify.com/album/7mVUxn3M8ExqlRZOWRiLVq) | 4:06 | 2022-07-29 | 2023-05-20 |
 | [Spaceman](https://open.spotify.com/track/7y1jOe5Nzc8BhgURPn80hw) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Spaceman](https://open.spotify.com/album/5EUfUkG0Q6l8mNpM5cCZP9) | 3:02 | 2022-01-28 | 2022-04-10 |
@@ -1157,6 +1160,7 @@
 | [Sweet Caroline](https://open.spotify.com/track/4DRKhEKQ1NxncQ2IbhRayU) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Sweet Caroline](https://open.spotify.com/album/7hib9PcyzXjKAxL9YS1ubl) | 1:41 | 2023-12-01 | 2024-05-11 |
 | [Sweet Delila](https://open.spotify.com/track/75RVE1N6t9Lyku02EpOGKd) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Sweet Delila](https://open.spotify.com/album/4oZfvdDPjf20MludjEHUpS) | 2:47 | 2022-12-02 | 2022-12-15 |
 | [Sweet Lilac](https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 2:48 | 2024-05-24 |  |
+| [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-18 |  |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 | 2023-11-17 | 2024-05-03 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-27 | 2024-01-27 |
@@ -1179,8 +1183,9 @@
 | [That I Won't Do](https://open.spotify.com/track/3mZnzp5DzIxmnSYrUBME8b) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [That I Won't Do](https://open.spotify.com/album/1YrYPr2CJZztg9s3RdUdNo) | 2:42 | 2021-11-12 | 2022-04-28 |
 | [That's The Way I Like It](https://open.spotify.com/track/52cNGf7Bw8cykQ74snRoaw) | [Lily Konigsberg](https://open.spotify.com/artist/0C0xVsusgtna2fFBSPQzQS) | [That's The Way I Like It](https://open.spotify.com/album/4Qc7to2x5jIZH5aCZVXukA) | 2:03 | 2021-08-27 | 2022-04-27 |
 | [That's What Everybody Said](https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [That's What Everybody Said](https://open.spotify.com/album/1wGTHTrbX8SulQLoJtjeTk) | 3:10 | 2021-10-08 | 2022-04-21 |
+| [The Avenues](https://open.spotify.com/track/07ci96pdGmljcWM6MA7fct) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [The Avenues](https://open.spotify.com/album/3m7dvtXRcqg0XF4CGlJy5N) | 3:07 | 2024-10-18 |  |
 | [The Bed](https://open.spotify.com/track/7lWCScemg502r4rFnEYxep) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Bed / Broken Twin](https://open.spotify.com/album/1xhrdw9IiNC7IqNb4AIdPv) | 2:20 | 2024-07-26 |  |
-| [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 | 2024-02-13 |  |
+| [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 | 2024-02-13 | 2024-10-19 |
 | [The Burned Down Dairy Queen](https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 3:08 | 2022-09-19 | 2023-01-21 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-28 |
 | [The Detail](https://open.spotify.com/track/1eVNSUm4POzvNUa9IqiltN) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [The Detail](https://open.spotify.com/album/43OoHqzqkT2tWRoj1hohdz) | 4:29 | 2021-06-11 | 2022-09-03 |

@@ -2,7 +2,7 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep
+> built for the climb with the red clay strays
 
 336 songs - 20 hr 12 min
 

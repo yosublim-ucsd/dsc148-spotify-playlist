@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=1o9\-vzRJSWqE7TPL5OXo\-Q">Tamlyn Wessel</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=1o9\-vzRJSWqE7TPL5OXo\-Q">Tamlyn Wessels</a>
 
 245 songs - 13 hr 38 min
 

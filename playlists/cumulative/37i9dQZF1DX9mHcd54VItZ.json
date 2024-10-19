@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx\">Sonder Onderbroeke</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=4eNZo2ayTWO8LbczPXKnZw\">Rooksein</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Die Brug",
+        "url": "https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Die Brug",
+      "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
+    },
+    {
+      "album": {
         "name": "Die C-Span",
         "url": "https://open.spotify.com/album/2I7eVjnDGerCjrUICKUNop"
       },
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 171533,
       "name": "Gooi Kole",
       "url": "https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc"
@@ -4606,6 +4624,24 @@
       "duration_ms": 149781,
       "name": "Kwart Voor Agt",
       "url": "https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu"
+    },
+    {
+      "album": {
+        "name": "Kyk Op",
+        "url": "https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206503,
+      "name": "Kyk Op",
+      "url": "https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM"
     },
     {
       "album": {
@@ -6316,7 +6352,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 245866,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"

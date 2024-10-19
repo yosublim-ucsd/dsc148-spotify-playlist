@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 128009,
       "name": "BLACKBIRD",
       "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
@@ -1242,6 +1242,24 @@
       "duration_ms": 197333,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K"
+    },
+    {
+      "album": {
+        "name": "dancing in the moonlight",
+        "url": "https://open.spotify.com/album/3yP1s7qjVjxHYa9tZNMG6r"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118956,
+      "name": "dancing in the moonlight",
+      "url": "https://open.spotify.com/track/3tRQA9BwdAQ4Xz4Bkepv8E"
     },
     {
       "album": {
@@ -1660,6 +1678,24 @@
       "duration_ms": 331489,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220241,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP"
     },
     {
       "album": {

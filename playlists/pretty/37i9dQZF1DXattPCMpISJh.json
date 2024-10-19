@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 128741,
+  "num_followers": 128796,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAABkgJWQV8JlpfTHTUQLk7mc",
+  "snapshot_id": "ZxHdQAAAAAB8wNNHErNQ7zxsIsQtPjCp",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -23,6 +23,30 @@
       "duration_ms": 304488,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/1D7yD0chLEPc1Q73YV1hFt"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/7y8yy64nFLCHR0NB6VsH0z"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        },
+        {
+          "name": "SammyB",
+          "url": "https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ"
+        },
+        {
+          "name": "Dux",
+          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
+        }
+      ],
+      "duration_ms": 218340,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5IDu7Pb1pqeWpmkDarfQwZ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1179,26 +1203,6 @@
       "duration_ms": 241550,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Undone (Dave Lee's Disco Blend)",
-        "url": "https://open.spotify.com/album/0anPxpLYjej5T6lixjBu0w"
-      },
-      "artists": [
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        },
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 339562,
-      "name": "Undone - Dave Lee's Disco Blend",
-      "url": "https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr"
     },
     {
       "added_at": "2023-07-28 04:01:00",

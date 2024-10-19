@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
 
-1,104 songs - 3 day 3 hr 39 min
+1,105 songs - 3 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [GUT](https://open.spotify.com/track/5paCqqDk6dZA6UFtIyHkLm) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj) | [GUT](https://open.spotify.com/album/4bnl2VUEuMa0B50OxBAZb8) | 3:47 | 2023-05-31 | 2023-07-13 |
 | [Halcyon & On \- Jon Hopkins Remix](https://open.spotify.com/track/3dsnJC7f8lA4NxXsb8LMOr) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [30 Something](https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h) | 7:11 | 2022-08-03 | 2022-09-15 |
 | [Halcyon & On \- Jon Hopkins Remix](https://open.spotify.com/track/3lvyFNbNIYhCePUQ8BYnE0) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 7:11 | 2022-07-13 | 2022-08-25 |
+| [Halftime](https://open.spotify.com/track/5pIUTjLUr3o2KqGYDMd9Ex) | [Xades](https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz) | [Halftime](https://open.spotify.com/album/1MQGTqZ2CQQxGEsTZpU1DU) | 3:17 | 2024-10-18 |  |
 | [Hand On Me](https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Hand On Me](https://open.spotify.com/album/1ju50ud1Izkhb3sKfjVINg) | 3:35 | 2024-02-29 | 2024-04-11 |
 | [Hands Of Man](https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Hands Of Man](https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2) | 5:05 | 2023-12-13 | 2024-02-08 |
 | [Hangar](https://open.spotify.com/track/2maVPXqxqgn7w929ZxiH5o) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [Hangar](https://open.spotify.com/album/3aPHytsW9HCZ8UyQ1V5xnV) | 3:42 | 2022-06-16 | 2022-07-28 |

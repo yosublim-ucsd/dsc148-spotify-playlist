@@ -1,13 +1,29 @@
 {
-  "description": "Cozy Christmas vibes. Cover: Norah Jones",
-  "num_followers": 45602,
+  "description": "Cozy Christmas vibes. Cover: Laufey",
+  "num_followers": 45626,
   "original_name": "Mellow Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw6RUgAAAACCkLvyzVEmDuFNJoMqQqSB",
+  "snapshot_id": "ZxHdQAAAAACU4GyZkBjegPV5dkJdkXzQ",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
     {
       "added_at": "2024-10-15 15:59:14",
       "album": {
@@ -161,6 +177,22 @@
       "url": "https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "It's Officially Christmas: The Double Album",
+        "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "The Cozy Song",
+      "url": "https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg"
+    },
+    {
       "added_at": "2024-10-04 03:00:56",
       "album": {
         "name": "Merry Christmas, Y\u2019all",
@@ -241,24 +273,20 @@
       "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
     },
     {
-      "added_at": "2024-10-04 03:00:56",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF"
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
     },
     {
       "added_at": "2024-10-04 03:00:56",
@@ -1119,22 +1147,6 @@
     {
       "added_at": "2024-10-04 03:00:56",
       "album": {
-        "name": "The Holidays With You",
-        "url": "https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 125146,
-      "name": "The Holidays With You",
-      "url": "https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU"
-    },
-    {
-      "added_at": "2024-10-04 03:00:56",
-      "album": {
         "name": "Just Like Christmas",
         "url": "https://open.spotify.com/album/0cIX6G09jcuijrQgH5br9U"
       },
@@ -1307,22 +1319,6 @@
       "duration_ms": 242866,
       "name": "Snowflake",
       "url": "https://open.spotify.com/track/3ozttElSI0x31gVQYnRPLs"
-    },
-    {
-      "added_at": "2024-10-04 03:00:56",
-      "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1DHBF6SPp4wImQGAi80AX9"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "There Is A Star That Shines Tonight",
-      "url": "https://open.spotify.com/track/04TNwsW1kWrj0wCvqMMHYi"
     },
     {
       "added_at": "2024-10-04 03:00:56",

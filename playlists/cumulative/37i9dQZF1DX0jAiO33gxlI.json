@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Automaticamente Pelada",
+        "url": "https://open.spotify.com/album/49J1tdmkwlNyA3Yp9wwo09"
+      },
+      "artists": [
+        {
+          "name": "Pedrosa",
+          "url": "https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107340,
+      "name": "Automaticamente Pelada",
+      "url": "https://open.spotify.com/track/43lPmM3mGKzWXO5vriGgRs"
+    },
+    {
+      "album": {
         "name": "Aux\u00edlio Emergencial do Rap",
         "url": "https://open.spotify.com/album/0e4Szps1xppl5S4cIjjVfJ"
       },
@@ -2296,6 +2314,28 @@
       "duration_ms": 254814,
       "name": "Black Mafia",
       "url": "https://open.spotify.com/track/49XzQORwZlcFsvh5F4WnA9"
+    },
+    {
+      "album": {
+        "name": "Bodas de A\u00e7o",
+        "url": "https://open.spotify.com/album/6njVKNxCiLdGO1Lw5HmHW8"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Bodas de A\u00e7o",
+      "url": "https://open.spotify.com/track/1ekFzswqF5QRomaksdjTBa"
     },
     {
       "album": {
@@ -6618,7 +6658,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 137130,
       "name": "Feito pra Voar",
       "url": "https://open.spotify.com/track/3QdLjFAZXYLTyZ202ltwdL"
@@ -7714,7 +7754,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 240000,
       "name": "G\u00eanesis",
       "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
@@ -9675,6 +9715,28 @@
     },
     {
       "album": {
+        "name": "Madrugada Fria",
+        "url": "https://open.spotify.com/album/6yMB38gkNwenRRbxvwrrw3"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Madrugada Fria",
+      "url": "https://open.spotify.com/track/5fFoyrxVlz6a9r1NixNvAC"
+    },
+    {
+      "album": {
         "name": "MAGRIN",
         "url": "https://open.spotify.com/album/5L1VT45G8bQ6cpwlVMeKNS"
       },
@@ -10702,7 +10764,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 128780,
       "name": "MORDOMO",
       "url": "https://open.spotify.com/track/2gO71ML16hhZEVEwEIf21r"
@@ -17592,7 +17654,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 197647,
       "name": "Tabuleiro",
       "url": "https://open.spotify.com/track/3QUh35iq5dT5oEox5ne3EL"

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks.
 
-1,349 songs - 3 day 1 hr 13 min
+1,350 songs - 3 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -749,6 +749,7 @@
 | [miami beach](https://open.spotify.com/track/0mV9HR5R3gwWvHwv7MuNyY) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [miami beach](https://open.spotify.com/album/6b4Hdz0wi0EzoFB9pM4xNl) | 3:05 | 2023-10-14 | 2024-03-09 |
 | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/track/7htJSkwcRU80KVxNCID024) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw) | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/album/5myFuRRYgLrrpcJLvavoiZ) | 2:48 | 2022-03-31 | 2022-06-16 |
 | [Michael Jackson Remix \(Feat\. Jay Park\)](https://open.spotify.com/track/74cH1EoFKnaVJmqdU5fLR5) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Michael Jackson Remix](https://open.spotify.com/album/5WPTXczlD1GpoA7j2KelrH) | 3:58 | 2023-04-27 | 2023-06-14 |
+| [MICHELIN CYPHER](https://open.spotify.com/track/41J6fcsioFDdh410It3BUt) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP COLLECTOR’S EDITION](https://open.spotify.com/album/7r8pyl0ry9r6GVoTWu8OTw) | 3:10 | 2024-10-18 |  |
 | [Million / Warrior](https://open.spotify.com/track/6G8N7aoDHlkEPOtIxOfonN) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [RAD MILLI](https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg) | 2:46 | 2024-08-30 |  |
 | [Mine \(Prod\. Seong Guk, Matt, niceshotnick\)](https://open.spotify.com/track/1bx3jwrwobANkqaV4sglkC) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [kweeel](https://open.spotify.com/artist/4W4TBHaPbtdJrXapmnUTdO) | [Monthly AP \- August, 2023](https://open.spotify.com/album/574cfUj6CqO31ASwf0jGUx) | 3:59 | 2023-08-24 | 2023-11-16 |
 | [Mint Condition](https://open.spotify.com/track/3kcQHARwuV6u46zZ9gbgFs) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mint Condition](https://open.spotify.com/album/7gMpIdUlwWtAGf1I8fO9ZF) | 3:16 | 2022-03-26 | 2022-06-26 |

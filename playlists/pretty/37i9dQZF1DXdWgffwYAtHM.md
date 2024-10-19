@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:4b5P4Tq5loWnl139Uw853q">POGRAMA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,726 likes - 10 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,727 likes - 10 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

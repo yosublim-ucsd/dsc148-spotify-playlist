@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover: Gin Lee
 
-390 songs - 23 hr 26 min
+392 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Morning Call](https://open.spotify.com/track/4JeJg0MDrvpQSQQBwC2y8W) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Morning Call](https://open.spotify.com/album/4ZiGvTsGK6xViEbf7EMYI8) | 3:03 | 2024-10-10 |  |
 | [My Type](https://open.spotify.com/track/71x2nXAO1ytJ6JFFrrfFmc) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [My Type](https://open.spotify.com/album/7yeZXWEBwsX5uo8Q8Xn84A) | 2:38 | 2024-06-27 |  |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
+| [Never Walk Alone](https://open.spotify.com/track/5d8ojsT9pv2WstWgjeUe6i) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [Never Walk Alone](https://open.spotify.com/album/1GeDkJnIjkFUQUdhFUBnkV) | 3:24 | 2024-10-17 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
 | [Nothing](https://open.spotify.com/track/7FjYiUCnjfP1gmzj7aAues) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [The Cloud](https://open.spotify.com/album/73AHz9Ih9eiRutHdvq1Zrr) | 3:21 | 2024-06-27 |  |
 | [NOW](https://open.spotify.com/track/0KrR4Lk6WeGj3oZFq94JHt) | [UNI](https://open.spotify.com/artist/6RsSt1g3GiD3Svzf4DUPYR) | [NOW](https://open.spotify.com/album/7zWGB6nY6AnK8pKfSLuWFf) | 2:52 | 2024-10-03 |  |
@@ -260,6 +261,7 @@
 | [成長的證據 \- 劇集《玫瑰的故事》主題曲](https://open.spotify.com/track/2ixEwN2sRU9MLvnFzAFc67) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [成長的證據 \(劇集《玫瑰的故事》主題曲\)](https://open.spotify.com/album/4nk6MpUz4CQ7pkEvuv9Bzk) | 4:12 | 2024-09-26 |  |
 | [我一個人怎麼都不算孤獨](https://open.spotify.com/track/5Bbc9OauTpGmf69Eez9Ni3) | [章尾而](https://open.spotify.com/artist/15lQfNMoKWIjKGF0UQsy0M) | [我一個人怎麼都不算孤獨](https://open.spotify.com/album/5UlIL6mMsMHTeRJiBDCtda) | 3:45 | 2024-06-27 |  |
 | [我不回去](https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我不回去](https://open.spotify.com/album/2TJYjfi8gAFrUpW42Iwe8k) | 4:07 | 2024-06-27 |  |
+| [我們只有一往直前](https://open.spotify.com/track/5QDclSp0IOj9YI4RBUxX2n) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [我們只有一往直前](https://open.spotify.com/album/2SHbIZWNt7hSzCal97SuXW) | 3:36 | 2024-10-17 |  |
 | [我們曾經白頭到老 \- 電影《飯戲攻心2》歌曲](https://open.spotify.com/track/4cUHdZlYdd8HdNnn3r5qIi) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [我們曾經白頭到老 \(電影《飯戲攻心2》歌曲\)](https://open.spotify.com/album/13T8bMVqtADhdPLOeVSptM) | 3:58 | 2024-06-27 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2024-06-27 |  |
 | [我唔理啦](https://open.spotify.com/track/12k0pvhhmaDOGSZWLfZVFN) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [我唔理啦](https://open.spotify.com/album/7MuoZDHIAtiCsLzu3A0AQf) | 2:44 | 2024-07-25 |  |

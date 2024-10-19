@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-664 songs - 1 day 2 hr 7 min
+665 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Coven](https://open.spotify.com/track/4jaTTZNqlpt2QISSLvtRoC) | [nAvvvi](https://open.spotify.com/artist/2xTxOg2hhTL9PV8IYaZ18W), [Fenrir](https://open.spotify.com/artist/4YZviEft6zoVGQdKJ0DOuH), [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Coven](https://open.spotify.com/album/5lvfSW9rBcjGVZqu7oi5dQ) | 2:39 | 2023-02-24 | 2023-03-09 |
 | [COWBELL WARRIORS!](https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS!](https://open.spotify.com/album/46FHwDwhiaKjZQnquBcMff) | 2:29 | 2023-05-26 | 2024-03-30 |
 | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7) | 2:29 | 2023-05-26 | 2023-10-22 |
-| [CRASH OUT](https://open.spotify.com/track/1grv6i3AMM17GVrvJPHRVv) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [CRASH OUT](https://open.spotify.com/album/33x5uJBpJNtF5SSMG0yxAl) | 2:20 | 2024-06-14 |  |
+| [CRASH OUT](https://open.spotify.com/track/1grv6i3AMM17GVrvJPHRVv) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [CRASH OUT](https://open.spotify.com/album/33x5uJBpJNtF5SSMG0yxAl) | 2:20 | 2024-06-14 | 2024-10-19 |
 | [Crisis](https://open.spotify.com/track/0IGxkEgMeF1dwOSIj2IUrT) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Crisis](https://open.spotify.com/album/75TDUUBGTBkulAJuZFpR0G) | 1:49 | 2021-09-17 | 2022-06-04 |
 | [Crooked Smile](https://open.spotify.com/track/0yaQ7Erx1XT0U6miw6zpK8) | [Unaverage Gang](https://open.spotify.com/artist/7cG98wfpXvT5BwGU85RaOA) | [Crooked Smile](https://open.spotify.com/album/6jaoIy9JvvgLYs0OvMzkvx) | 2:32 | 2022-03-10 | 2023-02-17 |
 | [CROWN](https://open.spotify.com/track/712GtX9zzVa02hfTwKA1Ff) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [CROWN](https://open.spotify.com/album/3CGqPpv4c2TRMtoGzOP0UL) | 1:51 | 2022-01-21 | 2022-11-26 |
@@ -465,6 +465,7 @@
 | [paranoia agent](https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [paranoia agent](https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7) | 2:57 | 2023-08-11 |  |
 | [Paris](https://open.spotify.com/track/4irYeuAi87yyGHcI4h9s0x) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now The Moon's Rising](https://open.spotify.com/album/2zQsirZE9McFbEoLkhxcpk) | 1:51 | 2021-09-17 | 2022-06-11 |
 | [Park It](https://open.spotify.com/track/1Ji7bjJOInkFvWbpPGYkle) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Lil Jerry](https://open.spotify.com/artist/0G3o1HSZkOFA6Z723HF33V) | [Park It](https://open.spotify.com/album/3sM9lxem7tNqBgNeoPHuOq) | 3:06 | 2021-10-20 | 2022-05-21 |
+| [PAROUSIA](https://open.spotify.com/track/7sviwR6NaixSPn3xegmMkr) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [AND THEY MINE FOR OUR BODIES](https://open.spotify.com/album/6PwC4A9kdUcsxdT0C9UO6p) | 3:26 | 2024-10-18 |  |
 | [Parrot Selector](https://open.spotify.com/track/07B7mjXBUUFPidsaAmlmJD) | [Istasha](https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc) | [Parrot Selector](https://open.spotify.com/album/0cPB1nqkpcjePZRNKRN27s) | 1:30 | 2023-09-15 | 2024-02-24 |
 | [Party on Patrón](https://open.spotify.com/track/1yXJ7SIDrEGXR3JnNdNzic) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Party on Patrón](https://open.spotify.com/album/5wxefDLBBZHnBF3ToQfSvz) | 2:09 | 2023-05-05 | 2024-03-09 |
 | [PELICAN](https://open.spotify.com/track/0Dn6DRsKEFYaZm1MDyPE70) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [PELICAN](https://open.spotify.com/album/7xyRZHT9tq4HsUMHdsKN56) | 2:17 | 2024-03-08 |  |

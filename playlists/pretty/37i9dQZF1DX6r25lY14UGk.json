@@ -1,13 +1,77 @@
 {
   "description": "New releases for the kids. Cover: The Wiggles",
-  "num_followers": 33750,
+  "num_followers": 33842,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAABsqIlqBECTg5ncbnMAf9Wv",
+  "snapshot_id": "ZxHdQAAAAACsjr6wx1M6k6tIq9eiv6hT",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "S-N-O-W",
+        "url": "https://open.spotify.com/album/0RfEjJs8Z6B19L7nrwczGP"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 168267,
+      "name": "S-N-O-W",
+      "url": "https://open.spotify.com/track/4OUgbqKQ0WIxR8IRS9hUJh"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Let's Decorate the House for Halloween",
+        "url": "https://open.spotify.com/album/6WNhjObUhy1pimzih4sr6g"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 135313,
+      "name": "Let's Decorate the House for Halloween",
+      "url": "https://open.spotify.com/track/4iwPcKfDmsGXkoYMa8Cm7g"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Train Song - Kids Songs",
+        "url": "https://open.spotify.com/album/6HOmv5VtAJ276LsbabMBb8"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 149056,
+      "name": "The Train Song - Kids Songs",
+      "url": "https://open.spotify.com/track/5gXcwJcgnYrP982H42RdDO"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Dem Bones (The Skeleton Song)",
+        "url": "https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 140704,
+      "name": "Dem Bones (The Skeleton Song)",
+      "url": "https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83"
+    },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
@@ -23,6 +87,70 @@
       "duration_ms": 162814,
       "name": "Big Red Ute",
       "url": "https://open.spotify.com/track/0bkiSDHL1ZuQ8bPZRQ5vFI"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Elephant Show Stoppers! - Extended Version",
+        "url": "https://open.spotify.com/album/1MUwiq9MEdA7ekkpV9z2pW"
+      },
+      "artists": [
+        {
+          "name": "Sharon, Lois & Bram",
+          "url": "https://open.spotify.com/artist/0SPvCvZvk7XDx8tGtGQhiE"
+        }
+      ],
+      "duration_ms": 99626,
+      "name": "Bibbity Bobbity Boo (The Magic Song)",
+      "url": "https://open.spotify.com/track/0WFmK1ubeta2oKY7VdhV5g"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Little Bookworm",
+        "url": "https://open.spotify.com/album/4aSwuyjOOiq3TK8kv1OGhs"
+      },
+      "artists": [
+        {
+          "name": "The Tambourine Social",
+          "url": "https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Little Bookworm",
+      "url": "https://open.spotify.com/track/5wOIsLbcMrrkMqVdtrNyCL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Growin' Up Holiday",
+        "url": "https://open.spotify.com/album/0wpBrIjJQH8gNpkP8WMCpK"
+      },
+      "artists": [
+        {
+          "name": "Jaden Michaels",
+          "url": "https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs"
+        }
+      ],
+      "duration_ms": 150827,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/7sZuCLN0DgDFvzpcr5RIam"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Bubble Guppies Bubble Bops! (Vol. 5)",
+        "url": "https://open.spotify.com/album/57eDgYjvkkgJZhoodUi5DS"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "duration_ms": 117056,
+      "name": "Spooky!",
+      "url": "https://open.spotify.com/track/5KqyQPkeqg82RVF4IJouH6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -45,6 +173,22 @@
       "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Monster Trucks Go!",
+        "url": "https://open.spotify.com/album/4IShnxjrQ3nes1esRMlsMB"
+      },
+      "artists": [
+        {
+          "name": "Ms Moni",
+          "url": "https://open.spotify.com/artist/6MTminw8fMsddWdfMHxMy2"
+        }
+      ],
+      "duration_ms": 140291,
+      "name": "Monster Trucks Go!",
+      "url": "https://open.spotify.com/track/1WPcB9qZUnVcCkBf20mus2"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Believe",
@@ -59,6 +203,22 @@
       "duration_ms": 77903,
       "name": "I Like How You Think",
       "url": "https://open.spotify.com/track/3YGZI41Qm5cX8o2qQtC7FH"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Boo Ya!",
+        "url": "https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "duration_ms": 156707,
+      "name": "Boo Ya!",
+      "url": "https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1"
     },
     {
       "added_at": "2024-10-11 04:00:00",

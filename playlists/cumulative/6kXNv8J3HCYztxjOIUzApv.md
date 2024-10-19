@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-280 songs - 17 hr 38 min
+281 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [High On You \(feat\. Nikki Sixx\)](https://open.spotify.com/track/7b1R3hpUwhotl1006F9t89) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Nikki Sixx](https://open.spotify.com/artist/39K8vRrNVg2aPafD0kRuhe) | [High On You \(feat\. Nikki Sixx\)](https://open.spotify.com/album/6IAAWZgHbLYDKK1z85J8Uf) | 3:49 | 2024-09-27 |  |
 | [Hold On](https://open.spotify.com/track/1Y9QCwhcDVBxTmbs9LfeAF) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [A Hope In Hell](https://open.spotify.com/album/7sXH67ycxNjoyQKTn7inIb) | 4:17 | 2021-08-20 | 2024-04-10 |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2023-07-25 |  |
+| [Home Improvement](https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Home Improvement](https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK) | 2:55 | 2024-10-18 |  |
 | [House of Cards](https://open.spotify.com/track/5Ly7Vc6VnlyN2xogyFMGiE) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:19 | 2021-10-29 | 2023-01-04 |
 | [House Of Straw](https://open.spotify.com/track/0s3ejGiMmzrVoK6zKhHDfA) | [Bury Your Dead](https://open.spotify.com/artist/2cGTjGiqVo9E2NQIz3lP9D) | [Beauty And The Breakdown](https://open.spotify.com/album/4mDtEEumv69lfTqwDwbM8D) | 4:02 | 2022-03-08 | 2023-01-05 |
 | [House On Fire](https://open.spotify.com/track/6EaGa19IlwQoB28FXba3GU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [House On Fire](https://open.spotify.com/album/4ZsxV8LXCcGnIszpQn82pV) | 3:14 | 2021-08-20 |  |

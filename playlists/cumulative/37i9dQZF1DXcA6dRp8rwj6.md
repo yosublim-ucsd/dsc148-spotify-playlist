@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: AUDREY NUNA\)
 
-2,349 songs - 4 day 23 hr 9 min
+2,351 songs - 4 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-01 |  |
 | [Highlife](https://open.spotify.com/track/5Tg9jKR0KWPD6zDXfej4fx) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Highlife](https://open.spotify.com/album/3ougtWVAzlkKT3hc1xajmy) | 2:38 | 2023-02-02 | 2023-03-25 |
 | [Him \(feat\. Dom Kennedy\)](https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Him \(feat\. Dom Kennedy\)](https://open.spotify.com/album/0UwgiL1GXSJKtdlmpcw8Gj) | 2:15 | 2022-05-05 | 2022-06-10 |
+| [HIM ALL ALONG](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM ALL ALONG](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 | 2024-10-17 |  |
 | [Hip\-Hop is ALIVE](https://open.spotify.com/track/23T26Qiti3zwHaOvUMeoPv) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Hip\-Hop is ALIVE](https://open.spotify.com/album/06fgXNwzi63bbWwVtzGpa6) | 2:04 | 2022-07-07 | 2022-07-15 |
 | [His Too \(feat\. Trina\)](https://open.spotify.com/track/1XCKkyPyWuhpgORN17AVUf) | [Ocean x KungFu](https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [WGFU](https://open.spotify.com/album/3CIcF1MB8lv9BsG11Sn6H6) | 2:22 | 2024-01-25 | 2024-03-29 |
 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-01-26 | 2024-05-10 |
@@ -1252,6 +1253,7 @@
 | [Meteorite](https://open.spotify.com/track/7sxBQrsxHmJ2r5Hw7dISK6) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Meteorite \(All I Do Is Make Mistakes\)](https://open.spotify.com/album/3c2lfceo4ooLZUBtWq707r) | 3:00 | 2023-08-17 | 2023-09-29 |
 | [MIAMI FLOW](https://open.spotify.com/track/6EEYTDGqIJWBXT1qIuPHih) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [MIAMI FLOW](https://open.spotify.com/album/4UH4awceaxhge9M57poy3T) | 2:31 | 2024-10-03 |  |
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-10 | 2023-01-13 |
+| [MICHELIN CYPHER](https://open.spotify.com/track/41J6fcsioFDdh410It3BUt) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP COLLECTOR’S EDITION](https://open.spotify.com/album/7r8pyl0ry9r6GVoTWu8OTw) | 3:10 | 2024-10-17 |  |
 | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/track/3dvaCvUSosEjWxUOuUiOiw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Ozay Moore](https://open.spotify.com/artist/5upHj0MnOX1kIBXf7zzoZb) | [Midlife Glow \(feat\. Ozay Moore\)](https://open.spotify.com/album/4mhIfyutZJgYcmtKG0la1q) | 3:58 | 2023-02-23 | 2023-03-31 |
 | [Midnight Portrait](https://open.spotify.com/track/6P5ODsARG46t3bCCs32Rf8) | [Pabylon](https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E) | [Midnight Portrait](https://open.spotify.com/album/5mwliUdcOyn2gUaoQ6rJS6) | 2:56 | 2023-09-14 | 2023-10-23 |
 | [MIKOTO \~SUN NO KUNI\~ \- Remix](https://open.spotify.com/track/6y3QFp5X44UH1FDAzLICUh) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [shuto](https://open.spotify.com/artist/4KqAfO6NT87MBLMWm46GlZ), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [UTAGE2.5](https://open.spotify.com/album/0CiehQDCt3h1nGl7TJ4J9s) | 3:54 | 2024-09-12 |  |

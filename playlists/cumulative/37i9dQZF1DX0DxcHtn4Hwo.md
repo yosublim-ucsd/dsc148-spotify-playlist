@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-903 songs - 1 day 3 hr 13 min
+906 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Hush Hush](https://open.spotify.com/track/4QOY64QuYpwPdWq3443dSM) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Hush Hush](https://open.spotify.com/album/3kgKC0ucg4dd5QufW7LQmq) | 2:13 | 2023-12-08 |  |
 | [Hush Little Baby](https://open.spotify.com/track/2MGquKw40obiAUR8gA6IMX) | [Isabelle Pavard](https://open.spotify.com/artist/0vHn9YgcrPyMwTjrMtvCBa) | [Hush Little Baby](https://open.spotify.com/album/27UK7UNACRIZHz6XeqHCMo) | 1:02 | 2022-04-20 | 2023-06-03 |
 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 | 2024-01-05 |  |
-| [Hush My Darling](https://open.spotify.com/track/4jggA9UxxTVj3L4nJkrqoA) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Hush My Darling](https://open.spotify.com/album/5V5pR3LpovfAIFR6GeMuN7) | 1:29 | 2022-11-18 |  |
+| [Hush My Darling](https://open.spotify.com/track/4jggA9UxxTVj3L4nJkrqoA) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [Hush My Darling](https://open.spotify.com/album/5V5pR3LpovfAIFR6GeMuN7) | 1:29 | 2022-11-18 | 2024-10-19 |
 | [Hush My Darling](https://open.spotify.com/track/37w8OTy6GttyjuTsxWSyod) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Hush My Darling](https://open.spotify.com/album/3rbxbaZ0gBBrlP7d4Cm7fH) | 1:48 | 2022-10-28 | 2022-12-24 |
 | [Hush My Darling](https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Hush My Darling](https://open.spotify.com/album/76JzQNot8OtPJoQzacDL8F) | 3:07 | 2023-03-24 | 2023-08-25 |
 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 | 2022-09-22 | 2024-05-24 |
@@ -343,6 +343,7 @@
 | [I Am A Tree](https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [I Am A Tree](https://open.spotify.com/album/2jXeI0F6ayYXySHl7DLZq4) | 1:15 | 2024-03-01 |  |
 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 | 2021-10-05 | 2022-11-19 |
 | [I Believe In Magic](https://open.spotify.com/track/04nJrprLfKlFCjBLGZ9URD) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [I Believe In Magic](https://open.spotify.com/album/1p1lfNNmpKyYZngelTy1cy) | 1:35 | 2022-10-28 | 2024-04-17 |
+| [I Can Be Anything](https://open.spotify.com/track/6V7vHsYdvyV1wZWI036aBO) | [Jo Nichols](https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq) | [I Can Be Anything](https://open.spotify.com/album/5uWxf0Kb5RVKtpzKY2WztB) | 1:38 | 2024-10-18 |  |
 | [I can wiggle my ears](https://open.spotify.com/track/2YB76HdRtdgSftyN6cdwYv) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [I can wiggle my ears](https://open.spotify.com/album/7jkfbhSayhgSbBFzubblUs) | 1:29 | 2023-01-06 |  |
 | [I drömmarnas land](https://open.spotify.com/track/4bp7iq0k2wMbeOl8f8HwkU) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [I drömmarnas land](https://open.spotify.com/album/1EbhNmd7YpD4pvYX7KhroR) | 1:53 | 2021-10-05 | 2023-05-05 |
 | [I Ett Hus Vid Skogens Slut](https://open.spotify.com/track/04FI1E17qnSiqO54mxH6Ah) | [Pontus Holt](https://open.spotify.com/artist/1RlTiQLa9gLES77OPf1ymC) | [Vaggvisor För De Små](https://open.spotify.com/album/5ZLBT2cIEDEPBS5hbLMCeD) | 1:49 | 2021-10-05 | 2022-10-29 |
@@ -463,7 +464,7 @@
 | [Magic Bubbles](https://open.spotify.com/track/0o4q6LYLyRKgWUfMVD5RhZ) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Magic Bubbles](https://open.spotify.com/album/3N2K9mFTe0fjd3k7OkTjwT) | 2:05 | 2024-09-06 |  |
 | [Main Theme \(From "Björnes Magasin"\) Piano Version](https://open.spotify.com/track/2AnYok5pkpKepDIkwVwfn7) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:29 | 2022-10-28 | 2023-08-11 |
 | [Majas visa](https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Majas visa](https://open.spotify.com/album/7MDXgNepfqxgjuz67cglgj) | 1:25 | 2022-10-07 | 2023-06-03 |
-| [Make A Wish](https://open.spotify.com/track/5TCkbh2eGCbp14pbv5ilkK) | [Nola Chauncey](https://open.spotify.com/artist/1GJBejOzMI7Bu94lKJQlth) | [Make A Wish](https://open.spotify.com/album/0uRNCqlnbwPl75hV4F4XyT) | 1:33 | 2022-09-02 |  |
+| [Make A Wish](https://open.spotify.com/track/5TCkbh2eGCbp14pbv5ilkK) | [Nola Chauncey](https://open.spotify.com/artist/1GJBejOzMI7Bu94lKJQlth) | [Make A Wish](https://open.spotify.com/album/0uRNCqlnbwPl75hV4F4XyT) | 1:33 | 2022-09-02 | 2024-10-19 |
 | [Make You Feel My Love](https://open.spotify.com/track/5rcYismic15JVz5oPG257U) | [Michalina Santos](https://open.spotify.com/artist/1KJZWJoXKqRplko0TMPObB) | [Make You Feel My Love](https://open.spotify.com/album/4xUkk6x2smXo1tErcy6fwY) | 2:13 | 2022-09-22 | 2023-03-25 |
 | [Man In The Moon](https://open.spotify.com/track/0pEwKtpXvC8W2TiI4umwsQ) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Man In The Moon](https://open.spotify.com/album/2qvSAdDXgr3sk7gKy6m0cy) | 2:42 | 2023-01-27 | 2023-05-05 |
 | [Mana skaistā meita](https://open.spotify.com/track/768ZCifbuF19PJYTGK5oC0) | [Sofia Ilves](https://open.spotify.com/artist/6uzwRsbAQINtnVfKKIbEs7) | [Mana skaistā meita](https://open.spotify.com/album/7xeAspmTdQ4miPemMvD0On) | 1:25 | 2021-10-05 | 2022-12-16 |
@@ -527,6 +528,7 @@
 | [My Secret Wish](https://open.spotify.com/track/5ttv70TBURkZ54Nr2FkFnx) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [My Secret Wish](https://open.spotify.com/album/0v01ijITebOBbKVJkhjXKz) | 1:33 | 2021-10-05 | 2022-11-19 |
 | [My Snoring Grandpa](https://open.spotify.com/track/5pkG46lDxh0izZfuwqL6Xl) | [Sharmaine Willis](https://open.spotify.com/artist/0GlF18fN3nM7fEtlYY02mM) | [My Snoring Grandpa](https://open.spotify.com/album/025h1Yb1rFnybikktKrong) | 1:30 | 2021-10-05 | 2022-12-16 |
 | [My Tiny Dollhouse](https://open.spotify.com/track/40MlJ5caN94moDlrtmaIqE) | [Martina Beasley](https://open.spotify.com/artist/6iOLm48O5U4bvtK6igOuqK) | [My Tiny Dollhouse](https://open.spotify.com/album/7HAQJWjdcqVfSYiomtfL8u) | 1:33 | 2023-05-05 |  |
+| [My Village](https://open.spotify.com/track/29RA6Jwwksfnop8VKIlsPQ) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [My Village](https://open.spotify.com/album/6viNUdEGeUan4WBcUEkCtZ) | 1:32 | 2024-10-18 |  |
 | [Månen vakar över dig](https://open.spotify.com/track/3Mut5TKtCr0Q26XiH55S9g) | [Emelie Strand](https://open.spotify.com/artist/5uPtjigxXY6RYZAdvxAT96) | [Somna min vän](https://open.spotify.com/album/5YF2PQd0wV9kmyxj7KZYVR) | 1:17 | 2022-12-23 | 2023-06-03 |
 | [Nalles vaggvisa](https://open.spotify.com/track/1rCBX1iRZwzrTWC5FnHaei) | [Nallegrisen](https://open.spotify.com/artist/12Fj3FKjfyCizgT4q3n2kX) | [Nalles vaggvisa](https://open.spotify.com/album/2CLoWYxj4sPSAw5g2nl5DP) | 2:12 | 2023-01-27 | 2023-02-25 |
 | [Nap with the Cat](https://open.spotify.com/track/3cT1kNbc0IY7eN5IdUksHf) | [Phyllis Lytle](https://open.spotify.com/artist/4fSyMpWH2rW4NQeQNkq2Oy) | [Nap with the Cat](https://open.spotify.com/album/1duP7vfBqf2dsYdcFBy0vm) | 1:55 | 2021-10-05 | 2022-12-16 |
@@ -711,6 +713,7 @@
 | [Sound of Bedtime](https://open.spotify.com/track/1EZOZldcnoeeKlZAtCX3ep) | [Sophie Sunshine](https://open.spotify.com/artist/24MtI0BZh79QjxNmIrNHwF) | [Sound of Bedtime](https://open.spotify.com/album/0ALxiUNMFsMWKHBdQSMTVw) | 1:49 | 2021-10-05 | 2023-01-27 |
 | [Sov du lilla videung](https://open.spotify.com/track/5VlwYfYylw2SmfCwYREh7C) | [Astrid Helmersson](https://open.spotify.com/artist/6ihMgJ0IMPhnvTknTlUkI3) | [Mina barndomsfavoriter](https://open.spotify.com/album/44Pk9Ztwui4F4DDtqY7mgC) | 1:50 | 2021-10-05 | 2022-10-29 |
 | [Sova Lite](https://open.spotify.com/track/0AFeMWTE1IqPPut93ACOLN) | [Nallegrisen](https://open.spotify.com/artist/12Fj3FKjfyCizgT4q3n2kX) | [Sova Lite](https://open.spotify.com/album/3mdsnD0rHcuTljS02eMELl) | 1:32 | 2022-11-18 | 2023-06-03 |
+| [Sprinkletoad](https://open.spotify.com/track/6oFS9anQViHKvwO80TO171) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Sprinkletoad](https://open.spotify.com/album/6b7sa9WVvqNJMihcXsonsy) | 1:30 | 2024-10-18 |  |
 | [Stardust Slumber](https://open.spotify.com/track/3bnTraHF13rOOzEQK7jsWm) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [Stardust Slumber](https://open.spotify.com/album/21wwSR0ToJoUuEKOdOkzbC) | 1:28 | 2024-08-23 |  |
 | [Starlight](https://open.spotify.com/track/3JyF7MNrvf7BBogjWG0uuK) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Winter blossom](https://open.spotify.com/album/6aXnfd6IpY4rl7ElnLiBIV) | 2:38 | 2022-12-16 | 2024-05-24 |
 | [Starry Night Slumber](https://open.spotify.com/track/4zbTQZpwqntYlrruZRiTCz) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [Starry Night Slumber](https://open.spotify.com/album/3OT5HQ6ey4l9kM8ODz7UHt) | 1:41 | 2023-05-05 |  |
@@ -835,7 +838,7 @@
 | [Tuck You Into Bed](https://open.spotify.com/track/1T6jaUz2FT7Y1ux1wrViUr) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Tuck You Into Bed](https://open.spotify.com/album/2ylIcaSY9egVDt0MYkUUDx) | 1:46 | 2022-12-16 | 2024-03-29 |
 | [Tucked In Tight](https://open.spotify.com/track/5PzRql1K67CzFfWuYsRlNe) | [Little Mishka](https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n) | [Tucked In Tight](https://open.spotify.com/album/4uLBc4qsjOh6jxxUoqVxkP) | 1:41 | 2023-05-05 |  |
 | [Tula](https://open.spotify.com/track/3odXGIVrJybOSYtuKMwBFS) | [Åsa Åkerström](https://open.spotify.com/artist/1RJf3B0QLg5dVhxa7wK1gb) | [Tula](https://open.spotify.com/album/0Y88DOVyZNxGmlsHPIrAcc) | 1:50 | 2022-12-16 | 2023-03-10 |
-| [Turkey in the Straw](https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Turkey in the Straw](https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT) | 2:20 | 2024-01-05 |  |
+| [Turkey in the Straw](https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Turkey in the Straw](https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT) | 2:20 | 2024-01-05 | 2024-10-19 |
 | [Twilight Embrace](https://open.spotify.com/track/42uTb7TEMMmRfHpqMisPqg) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Twilight Embrace](https://open.spotify.com/album/25YSvB8DprutVKksUYghuH) | 1:51 | 2023-11-17 | 2024-05-04 |
 | [Twinkle Toes](https://open.spotify.com/track/7JOZY5i5BxBvJ6h0kvelQ0) | [Nova Haeberle](https://open.spotify.com/artist/2bPE8R7dgDiI7O5P2Qf8S9) | [Twinkle Toes](https://open.spotify.com/album/6COnqo3jPIIbUf2KJd9Q04) | 1:47 | 2024-07-08 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/147gCksvDRmjG1pO51ZCcf) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:40 | 2021-10-05 |  |

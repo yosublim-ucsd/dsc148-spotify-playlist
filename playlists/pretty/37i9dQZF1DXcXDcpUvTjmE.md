@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,007 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,027 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 32 | [Arwrarwrirwrarwro \- Bombi](https://open.spotify.com/track/52sBVHcmAvQ2ng79ZImC1q) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK) | 2:29 |
 | 33 | [Friends on the Other Side](https://open.spotify.com/track/2253JiMEWoh0AolQG3lcNk) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY) | [The Princess And The Frog](https://open.spotify.com/album/1gq7uhfNW4QMeRr9msV68P) | 3:34 |
 | 34 | [The Twilight Zone Tower of Terror Theme \- From "The Twilight Zone Tower of Terror"](https://open.spotify.com/track/5InLKF7uz0wBmkLfYqoZxj) | [Richard Bellis](https://open.spotify.com/artist/2AvjWonQaWlRkaolk2NCxe), [Marious Constant](https://open.spotify.com/artist/3n9cVWs0spyjg2feaCScV7) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 1:41 |
-| 35 | [This Is Halloween](https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 3:16 |
+| 35 | [This Is Halloween](https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp) | [The Citizens of Halloween](https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 3:16 |
 | 36 | [Gravity Falls Theme Song](https://open.spotify.com/track/0Mqy2XDXCZiN0KoCno4QxE) | [NateWantsToBattle](https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky) | [Gravity Falls Theme Song](https://open.spotify.com/album/2hZJAUMB4SgAB8CRjYXwOD) | 1:36 |
 | 37 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/2C10p0VZJHYj07oBALeUE3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 3:20 |
 | 38 | [Shake Your Bones](https://open.spotify.com/track/3JK1TFuy5wVNLVI4aO0K7v) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Halloween Songs & Sounds](https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo) | 2:42 |

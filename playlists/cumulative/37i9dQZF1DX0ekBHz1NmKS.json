@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 157252,
       "name": "Antidote to Heaven",
       "url": "https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp"
@@ -10502,7 +10502,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 208333,
       "name": "HAPPENS",
       "url": "https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp"
@@ -17158,6 +17158,24 @@
       "duration_ms": 165176,
       "name": "MATTER",
       "url": "https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir"
+    },
+    {
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norberg",
+          "url": "https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu"
     },
     {
       "album": {
@@ -29794,7 +29812,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"

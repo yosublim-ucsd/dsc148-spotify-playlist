@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Xavi",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Chino Pacas",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 161280,
       "name": "Agarra El Rollo Porfa",
       "url": "https://open.spotify.com/track/52CqI7QfSARwTPmHJ8FZOr"
+    },
+    {
+      "album": {
+        "name": "Entre Cuerdas y Botellas, Vol. 2",
+        "url": "https://open.spotify.com/album/6n2g3GMNk5qRt2A7aux65k"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155547,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/5IvmSt3DnvlyUnEFVR1kNg"
     },
     {
       "album": {
@@ -2435,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Entre Cuerdas y Botellas, Vol. 2",
+        "url": "https://open.spotify.com/album/6n2g3GMNk5qRt2A7aux65k"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/4EZnVvPE9vum9PtpLK7vVB"
+    },
+    {
+      "album": {
         "name": "Desde El Rancho (En Vivo)",
         "url": "https://open.spotify.com/album/1sgo3AhOzBSVAKkIVSjTrD"
       },
@@ -2450,6 +2486,28 @@
       "duration_ms": 264881,
       "name": "Desvelado (En Vivo)",
       "url": "https://open.spotify.com/track/2J5WP5666FUca2PY8BaHHE"
+    },
+    {
+      "album": {
+        "name": "Que Sigan Llegando Las Pacas",
+        "url": "https://open.spotify.com/album/2cdyBzD4njuK2dRKSbBSMV"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229860,
+      "name": "DiCaprio (with Armenta)",
+      "url": "https://open.spotify.com/track/4MWvoWyKj4zkI4cJgtyJPx"
     },
     {
       "album": {
@@ -2472,6 +2530,24 @@
       "duration_ms": 178408,
       "name": "DIME QUE HAY QUE HACER (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/1NI2e5ins81xjWlohNsqZm"
+    },
+    {
+      "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247306,
+      "name": "Dios Bendiga Nuestro Amor",
+      "url": "https://open.spotify.com/track/5j7dDZ9B20dUxXdQF3UHZ1"
     },
     {
       "album": {
@@ -2957,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195775,
+      "name": "El Erick",
+      "url": "https://open.spotify.com/track/5KuE0I4dhhBEMapolRc6Ef"
+    },
+    {
+      "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
       },
@@ -2972,6 +3066,24 @@
       "duration_ms": 184500,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/0WPUmaAUEYbP5H18G7un9x"
+    },
+    {
+      "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "El Gerry",
+      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
     },
     {
       "album": {
@@ -3388,6 +3500,24 @@
       "duration_ms": 160701,
       "name": "El Sobrino",
       "url": "https://open.spotify.com/track/77hqi0qBNPPfg0CM8Myr1G"
+    },
+    {
+      "album": {
+        "name": "Carnaval Mazatl\u00e1n 2024 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Fdtmj1XDpc8AprCBe4nkA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306433,
+      "name": "El Toro Mambo - En Vivo",
+      "url": "https://open.spotify.com/track/60C24U3i6ljfOvhdBgisdq"
     },
     {
       "album": {
@@ -4789,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "Carnaval Mazatl\u00e1n 2024 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Fdtmj1XDpc8AprCBe4nkA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347750,
+      "name": "La Guarecita / La Novia Del Pajarillo - En Vivo",
+      "url": "https://open.spotify.com/track/5vGK8hBjP9ml5t0i5hokaA"
+    },
+    {
+      "album": {
         "name": "Los de Encargo",
         "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
       },
@@ -5206,6 +5354,24 @@
       "duration_ms": 195608,
       "name": "La Sand\u00eda",
       "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "album": {
+        "name": "Carnaval Mazatl\u00e1n 2024 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Fdtmj1XDpc8AprCBe4nkA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "La Simona - En Vivo",
+      "url": "https://open.spotify.com/track/6WRsjMwOrZl7xlEQZ8ufhq"
     },
     {
       "album": {
@@ -6686,6 +6852,32 @@
       "duration_ms": 223000,
       "name": "Mis Compas",
       "url": "https://open.spotify.com/track/27I5mfTqctVRiZqrIGns8g"
+    },
+    {
+      "album": {
+        "name": "Que Sigan Llegando Las Pacas",
+        "url": "https://open.spotify.com/album/2cdyBzD4njuK2dRKSbBSMV"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212167,
+      "name": "Modo Capone (with Drake & Fuerza Regida)",
+      "url": "https://open.spotify.com/track/3k3vRzMH7D7453Ll2mdQnQ"
     },
     {
       "album": {
@@ -9541,6 +9733,32 @@
     },
     {
       "album": {
+        "name": "Que Sigan Llegando Las Pacas",
+        "url": "https://open.spotify.com/album/2cdyBzD4njuK2dRKSbBSMV"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208388,
+      "name": "Smith (with Junior H & Fuerza Regida)",
+      "url": "https://open.spotify.com/track/1AFiMjewceYnIGNeYYmgjX"
+    },
+    {
+      "album": {
         "name": "Mi Capitulo Favorito",
         "url": "https://open.spotify.com/album/0FAofsA6riw5WciVX28P8G"
       },
@@ -10386,6 +10604,24 @@
       "duration_ms": 193250,
       "name": "T\u00f3xica B\u00e9lica",
       "url": "https://open.spotify.com/track/63kUgZIyBKkZtPHrBB1hhB"
+    },
+    {
+      "album": {
+        "name": "Entre Cuerdas y Botellas, Vol. 2",
+        "url": "https://open.spotify.com/album/6n2g3GMNk5qRt2A7aux65k"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176554,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/2BUnGLLYRUw35KcasKDrgR"
     },
     {
       "album": {

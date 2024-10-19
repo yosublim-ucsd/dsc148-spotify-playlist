@@ -5506,7 +5506,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 260088,
       "name": "Dance on the Shoreline",
       "url": "https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi"
@@ -21561,6 +21561,24 @@
     },
     {
       "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126981,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln"
+    },
+    {
+      "album": {
         "name": "HOME EP2",
         "url": "https://open.spotify.com/album/4q6D86npG6QRhmSb9LxXI0"
       },
@@ -23903,7 +23921,7 @@
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250746,
+      "duration_ms": 251124,
       "name": "To You",
       "url": "https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd"
     },

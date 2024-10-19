@@ -1,6 +1,6 @@
 {
   "description": "Escute Mc Luanna e mais mulheres no volume m\u00e1ximo! Co-curadoria com <a href=\"spotify:playlist:37i9dQZF1DZ06evO45TXx1\">Mc Luanna</a>.",
-  "num_followers": 186907,
+  "num_followers": 186933,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -279,8 +279,8 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
       },
       "artists": [
         {
@@ -288,17 +288,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
           "name": "Mello Santana",
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
       "artists": [
         {
@@ -420,17 +420,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 158884,
-      "name": "+18",
-      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -639,30 +639,6 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Ferve",
-      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
         "name": "PROFESSORA",
         "url": "https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2"
       },
@@ -687,6 +663,30 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Ferve",
+      "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
         "name": "Tipo Anitta",
         "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
       },
@@ -707,30 +707,6 @@
       "duration_ms": 151232,
       "name": "Tipo Anitta",
       "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/64zU5fHHUQ0BF3BI0q91r4"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "b o u t",
-          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/6d56K6gOxuJ2hxLqNAOYsZ"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -771,6 +747,30 @@
       "duration_ms": 182400,
       "name": "Flores",
       "url": "https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/64zU5fHHUQ0BF3BI0q91r4"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "b o u t",
+          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/6d56K6gOxuJ2hxLqNAOYsZ"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -839,6 +839,30 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
+        "name": "Mais Uma Vadia",
+        "url": "https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41"
+      },
+      "artists": [
+        {
+          "name": "Baby Kysha",
+          "url": "https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK"
+        },
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "DJ Wkilla",
+          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
+        }
+      ],
+      "duration_ms": 172799,
+      "name": "Mais Uma Vadia",
+      "url": "https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
         "name": "METamorFOSE",
         "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 161486,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
-        "name": "Mais Uma Vadia",
-        "url": "https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41"
-      },
-      "artists": [
-        {
-          "name": "Baby Kysha",
-          "url": "https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK"
-        },
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        },
-        {
-          "name": "DJ Wkilla",
-          "url": "https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW"
-        }
-      ],
-      "duration_ms": 172799,
-      "name": "Mais Uma Vadia",
-      "url": "https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW"
     },
     {
       "added_at": "2024-10-11 14:42:33",

@@ -8728,7 +8728,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 88000,
       "name": "Peppa pig theme",
       "url": "https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT"
@@ -8858,6 +8858,24 @@
       "duration_ms": 80289,
       "name": "Pomme de reinette et pomme d'api",
       "url": "https://open.spotify.com/track/69KMamQsoYnJ4C3aD8feaw"
+    },
+    {
+      "album": {
+        "name": "Pop Goes the Weasel",
+        "url": "https://open.spotify.com/album/3LJRz4toEK7k6WyOTyUSMs"
+      },
+      "artists": [
+        {
+          "name": "Carey Martin",
+          "url": "https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126295,
+      "name": "Pop Goes the Weasel",
+      "url": "https://open.spotify.com/track/3fEBhZ37kX3XX0ws1msfd1"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This Is Rev\. Gary Davis\. Todas as faixas essenciais numa única playlist.
 
 313 songs - 19 hr 38 min
 
@@ -218,7 +218,7 @@
 | [Rev\. Gary Davis talks about verses \- not sung](https://open.spotify.com/track/0TdyKoKFKoj8QR2D2HpSgN) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:25 | 2023-03-29 | 2024-10-12 |
 | [Right Now](https://open.spotify.com/track/08GtrSkf0Z8YmjUoJXQNv9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:57 | 2022-05-28 | 2024-09-02 |
 | [Runnin' to the Judgement](https://open.spotify.com/track/4GDSGXJy49y8GalpdQSIJT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:54 | 2023-07-21 | 2023-07-23 |
-| [Saddle It Around](https://open.spotify.com/track/0XQiWWZG1sbOWF2uwgQTpP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:04 | 2023-01-25 | 2024-07-17 |
+| [Saddle It Around](https://open.spotify.com/track/0XQiWWZG1sbOWF2uwgQTpP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:04 | 2023-01-25 |  |
 | [Sally Please Come Back to Me \(Worried Blues\)](https://open.spotify.com/track/3dOozKl5yTxhnxtFG68S6s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [You Got to Move](https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7) | 2:45 | 2023-12-18 | 2024-01-24 |
 | [Sally, Where'd You Get Your Liquor From](https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 1:56 | 2022-05-25 |  |
 | [Samson And Delilah](https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:03 | 2022-05-29 |  |
@@ -258,7 +258,7 @@
 | [Swingin' Blues](https://open.spotify.com/track/4ODW8sWXGEHR7YaGFXC8CH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Some People Play Guitar..\. Like A Lotta People Don't](https://open.spotify.com/album/3lPkCcqFjhYxXJQmAtBdCh) | 4:13 | 2022-11-15 | 2024-01-03 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/3gHermfYjYNnjhUTyMgtpV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 1:38 | 2022-11-04 | 2022-11-09 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/75BCBXpg4Rfn3gNbl44oS1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 1:38 | 2024-01-03 | 2024-07-06 |
-| [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-25 |  |
+| [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-25 | 2024-10-19 |
 | [The Boy Was Kissing The Girl \(And Playing Guitar At The Same Time\) \- Instrumental](https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:40 | 2022-05-25 |  |
 | [The Coon Hunt \- Instrumental](https://open.spotify.com/track/699dNhyPOOfnmNVSBvDize) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 3:30 | 2022-05-25 | 2023-01-17 |
 | [The Great Change In Me](https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:18 | 2022-05-26 | 2024-10-12 |

@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214653,
       "name": "Make A Change",
       "url": "https://open.spotify.com/track/3ZJ66cVNa8us49CLYnFBCS"
@@ -4416,7 +4416,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 205533,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd"
@@ -4582,6 +4582,32 @@
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "album": {
+        "name": "Not Bad",
+        "url": "https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Shelley Rena",
+          "url": "https://open.spotify.com/artist/3uv1vlPPWpXtv6qCpqT9JQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "Not Bad",
+      "url": "https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC"
     },
     {
       "album": {
@@ -6442,7 +6468,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 154285,
       "name": "The Line",
       "url": "https://open.spotify.com/track/46qU3BOdKfXI4LSSGxAw4D"
@@ -7071,6 +7097,28 @@
     },
     {
       "album": {
+        "name": "In The Real World",
+        "url": "https://open.spotify.com/album/5I46bTsjuXB4kq2JgRCEjG"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Lily James",
+          "url": "https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241786,
+      "name": "Victory Voices",
+      "url": "https://open.spotify.com/track/2DXVg5DdblrOWYvlGDmwJt"
+    },
+    {
+      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/3o9qOIuCtNF8C9s9p3NT1c"
       },
@@ -7274,6 +7322,24 @@
       "duration_ms": 248051,
       "name": "What's Real",
       "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
+    },
+    {
+      "album": {
+        "name": "When It Gets Dark",
+        "url": "https://open.spotify.com/album/1Sq7BpNCgBM7DiQZfnUZja"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "When It Gets Dark",
+      "url": "https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2"
     },
     {
       "album": {

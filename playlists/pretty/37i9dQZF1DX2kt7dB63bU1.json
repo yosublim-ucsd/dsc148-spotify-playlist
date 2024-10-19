@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 148223,
+  "num_followers": 148292,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAAD+5TVMSggUdKXDcLgqgvei",
+  "snapshot_id": "ZxHdQAAAAAANGtOwdUcuPPyUk8XO7z05",
   "tracks": [
     {
       "added_at": "2024-10-11 04:00:00",
@@ -41,10 +41,46 @@
       "url": "https://open.spotify.com/track/37iPxQArUYztawoasUa4iv"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/4WdqBsUiK1mj3vhwQyi0Ql"
+        "name": "Stars (Endless Stars)",
+        "url": "https://open.spotify.com/album/4wnntLk0X1xA6jKsclQsfk"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Joey Calderazzo",
+          "url": "https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4"
+        }
+      ],
+      "duration_ms": 361640,
+      "name": "Stars (Endless Stars)",
+      "url": "https://open.spotify.com/track/2MMhv3V5bTrhvN2S7qoEkg"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Jane Monheit",
+        "url": "https://open.spotify.com/album/4EDzxNlpd2K2lbfdGW1rSU"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 306023,
+      "name": "Green Finch and Linnet Bird",
+      "url": "https://open.spotify.com/track/6Wc5yhIX9H9NxnftaCaS0N"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1ENgHnxhTZN2RLiUYFUcUo"
       },
       "artists": [
         {
@@ -60,9 +96,9 @@
           "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
         }
       ],
-      "duration_ms": 132005,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/09Rn2e12eIjtc4pZy83gxg"
+      "duration_ms": 161920,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7aRlOFAO9guW9TUIwvLcxd"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -307,22 +343,6 @@
       "duration_ms": 175865,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Whatever Lola Wants",
-        "url": "https://open.spotify.com/album/4AFA4tg8p08UHBY3IGbysT"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 293581,
-      "name": "Whatever Lola Wants",
-      "url": "https://open.spotify.com/track/00yTQuZp0A69meXFjfriE2"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1783,26 +1803,6 @@
       "duration_ms": 280624,
       "name": "Wonder in the Waiting",
       "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Impressions of Ella",
-        "url": "https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        },
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 257795,
-      "name": "I Won't Dance",
-      "url": "https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e"
     },
     {
       "added_at": "2023-06-09 04:01:00",

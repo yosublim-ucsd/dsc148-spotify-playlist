@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Digas Lo Que Digas",
+        "url": "https://open.spotify.com/album/0B6yvJLElPicI1x4iPGKVK"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226043,
+      "name": "Digas Lo Que Digas",
+      "url": "https://open.spotify.com/track/4fU9fshN8bkL50700ci5tv"
+    },
+    {
+      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/7swLFakFeCrD0XeazxzJd1"
       },

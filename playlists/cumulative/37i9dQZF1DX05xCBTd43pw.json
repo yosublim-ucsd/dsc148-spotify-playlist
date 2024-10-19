@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 176639,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/50n5y9pMihKGBu29fz4Bew"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 170235,
       "name": "babyboy",
       "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 172791,
       "name": "Bird",
       "url": "https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 186969,
       "name": "blonde",
       "url": "https://open.spotify.com/track/2HFoavqtZRWTM9uvTagD75"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 187053,
       "name": "Corpse Bride",
       "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 146366,
       "name": "H\u00f6r mir noch einmal zu",
       "url": "https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw"
@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
+    },
+    {
+      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -2283,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU"
+      },
+      "artists": [
+        {
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
+    },
+    {
+      "album": {
         "name": "Warrior",
         "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
       },
@@ -2366,7 +2402,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 140571,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx"
@@ -2402,7 +2438,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 176129,
       "name": "Without My Love",
       "url": "https://open.spotify.com/track/6MLeDTqtMW4oDLgmrCMP1q"

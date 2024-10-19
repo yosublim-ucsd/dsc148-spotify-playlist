@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia (Vol.2)",
+        "url": "https://open.spotify.com/album/70W73FkvwDVz87UN6pCx7T"
+      },
+      "artists": [
+        {
+          "name": "Hugo Alvarez",
+          "url": "https://open.spotify.com/artist/3j6w3csiIbvwOYbYFMv5KI"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211458,
+      "name": "Meu Erro - Ao Vivo",
+      "url": "https://open.spotify.com/track/4f5D8O8j7NMQUG81Mk8CDu"
+    },
+    {
+      "album": {
         "name": "Meu Segredo - Ao Vivo",
         "url": "https://open.spotify.com/album/2DfDy36EAJYiBA9F4Lvnrf"
       },

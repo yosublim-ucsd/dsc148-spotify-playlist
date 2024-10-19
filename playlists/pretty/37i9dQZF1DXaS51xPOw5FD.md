@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,039 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,067 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 95 | [Hey Hey Hey](https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Hey Hey Hey](https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e) | 2:53 |
 | 96 | [Can’t Dance](https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Can’t Dance](https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio) | 3:04 |
 | 97 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 |
-| 98 | [I Told Ya](https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [I Told Ya](https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl) | 4:50 |
-| 99 | [AGAIN](https://open.spotify.com/track/7e6NccJoAWdOfVsg8uqfKO) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf), [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0), [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [Leap96](https://open.spotify.com/artist/29Ym8UOoUTlN7vvt7JXX4e), [Yona](https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ) | [AGAIN](https://open.spotify.com/album/7wYQfQlJdFWKUtOboIbMU8) | 2:33 |
-| 100 | [Get You Out My Mind](https://open.spotify.com/track/7lhrO0hu8edOSWJda1O3xt) | [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o), [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [XAHLI](https://open.spotify.com/artist/1ozhxFZRKFe8RcNHGZcidy) | [Get You Out My Mind](https://open.spotify.com/album/2HQMc5U6yN59uDfRoN9LPt) | 2:48 |
+| 98 | [AGAIN](https://open.spotify.com/track/7e6NccJoAWdOfVsg8uqfKO) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf), [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0), [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV), [Leap96](https://open.spotify.com/artist/29Ym8UOoUTlN7vvt7JXX4e), [Yona](https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ) | [AGAIN](https://open.spotify.com/album/7wYQfQlJdFWKUtOboIbMU8) | 2:33 |
+| 99 | [I Told Ya](https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [I Told Ya](https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl) | 4:50 |
+| 100 | [Higher](https://open.spotify.com/track/0EUCCFuGKHrC2V0ls4RkFU) | [Mutual](https://open.spotify.com/artist/2p9QfYogiem7dvEoiyIQ2N), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [Higher](https://open.spotify.com/album/2ffuh9EyCQHUGKKYq3EnLm) | 3:00 |
 
 Snapshot ID: `Zw96HwAAAAD2OXyUYdbmm5nBChn02TLu`

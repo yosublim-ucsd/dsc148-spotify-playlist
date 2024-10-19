@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-762 songs - 2 day 12 hr 9 min
+763 songs - 2 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [My Little Suede Shoes](https://open.spotify.com/track/20398M7vt8Tu8G8jhtw9iL) | [Charlie Parker And His Orchestra](https://open.spotify.com/artist/1FSHNjMiq1QijpQVkckuAy) | [Fiesta: The Genius Of Charlie Parker \#6](https://open.spotify.com/album/3pDPgGXW1bWQA2CQE0wIjE) | 3:04 | 2022-10-27 |  |
 | [My One And Only Love](https://open.spotify.com/track/12uL43MR8byTEjtg241Z7m) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [Now He Sings, Now He Sobs \- Expanded Edition](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 3:34 | 2022-10-27 |  |
 | [My One And Only Love](https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 4:55 | 2022-10-27 |  |
+| [My One And Only Love](https://open.spotify.com/track/7Gf896pRsrMkQpQTkqMI09) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv) | 5:08 | 2024-07-17 |  |
 | [My Reverie](https://open.spotify.com/track/0qPQYLhCwZlVQ0yyTYUSTe) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 6:12 | 2022-10-27 |  |
 | [My Romance](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2022-10-27 |  |
 | [My Sin \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:53 | 2022-12-07 | 2023-07-09 |
@@ -529,7 +530,7 @@
 | [Prelude To A Kiss](https://open.spotify.com/track/4NBGEa1LwQoMjbdRrZZN0V) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 3:21 | 2023-08-30 |  |
 | [Questar](https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [My Song](https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v) | 9:10 | 2024-03-20 |  |
 | [Quick Trick](https://open.spotify.com/track/2EW1mFJaikQh0vxOoB7uGp) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Just Coolin'](https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK) | 4:43 | 2022-10-27 |  |
-| [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2023-01-03 |  |
+| [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2023-01-03 | 2024-10-19 |
 | [Quintessence](https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:44 | 2022-10-27 |  |
 | [Recado Bossa Nova \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 8:11 | 2023-06-21 |  |
 | [Remember \- 1999/ Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2022-10-27 |  |

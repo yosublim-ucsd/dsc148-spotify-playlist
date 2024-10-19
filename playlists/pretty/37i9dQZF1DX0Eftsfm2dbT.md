@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: MC TYSON
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,901 likes - 81 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,918 likes - 81 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Friday Night Town](https://open.spotify.com/track/7pmmTgGXSCdLoFRtrPzNnM) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [THE MESSAGE 6](https://open.spotify.com/album/4g2O1wfyRDa36SbbdD4Pea) | 2:37 |
+| 1 | [Friday Night Town \(feat\. Benjazzy & Jin Dogg\)](https://open.spotify.com/track/7pmmTgGXSCdLoFRtrPzNnM) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [THE MESSAGE 6](https://open.spotify.com/album/4g2O1wfyRDa36SbbdD4Pea) | 2:37 |
 | 2 | [Money Baby](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 |
 | 3 | [BRIGHT TIMES feat\. Kohjiya](https://open.spotify.com/track/29sChyERg3I2cwGqCyHhEd) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [BRIGHT TIMES feat\. Kohjiya](https://open.spotify.com/album/4dXOQXVAyabOjpANPgg2TL) | 3:36 |
 | 4 | [i like it](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA at Drumsheds ",
-  "num_followers": 63857,
+  "num_followers": 63906,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -943,38 +943,6 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "bailejungle",
-        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
-      },
-      "artists": [
-        {
-          "name": "Urbandawn",
-          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
-        }
-      ],
-      "duration_ms": 163449,
-      "name": "bailejungle",
-      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
-    },
-    {
-      "added_at": "2024-10-14 12:37:48",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2024-10-14 12:37:48",
-      "album": {
         "name": "Bomb Squad (Bou Remix)",
         "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
+    },
+    {
+      "added_at": "2024-10-14 12:37:48",
+      "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2024-10-14 12:37:48",
+      "album": {
+        "name": "bailejungle",
+        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
+      },
+      "artists": [
+        {
+          "name": "Urbandawn",
+          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
+        }
+      ],
+      "duration_ms": 163449,
+      "name": "bailejungle",
+      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
     },
     {
       "added_at": "2024-10-14 12:37:48",

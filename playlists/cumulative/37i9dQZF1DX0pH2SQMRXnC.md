@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-798 songs - 1 day 21 hr 40 min
+799 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Different](https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [Different](https://open.spotify.com/album/4b8STLNNgp6prFuru4NnZF) | 3:50 | 2021-12-16 | 2022-07-27 |
 | [Digital Domination](https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Digital Domination](https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI) | 2:07 | 2024-10-10 |  |
 | [Dirty Money](https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe) | [Dany Bpm](https://open.spotify.com/artist/3E6p5In4n4lbmS6oVipW8R), [Haaradak](https://open.spotify.com/artist/1xG49yuBUoOuJfuTOROGfr) | [Dirty Money](https://open.spotify.com/album/1zmpt4KQ7ePMwy1CQrX6Qq) | 3:52 | 2021-12-16 | 2022-07-29 |
-| [Disco Dip](https://open.spotify.com/track/5T2g57jUjKawm47vvt5rYV) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Disco Dip](https://open.spotify.com/album/6bFGe96hFPacBlUAbFEbAR) | 2:46 | 2024-09-20 |  |
+| [Disco Dip](https://open.spotify.com/track/5T2g57jUjKawm47vvt5rYV) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Disco Dip](https://open.spotify.com/album/6bFGe96hFPacBlUAbFEbAR) | 2:46 | 2024-09-20 | 2024-10-19 |
 | [Discover](https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy) | [Averion](https://open.spotify.com/artist/4VTEnHIcc06TeHoqeKvQEK), [Luxtreme](https://open.spotify.com/artist/7Gs7ELP6TZK3IxiQunEtYf) | [Discover](https://open.spotify.com/album/5rFBMI5yQKf2LawlXBoZYt) | 3:35 | 2021-12-16 | 2022-07-22 |
 | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN) | 3:58 | 2024-05-31 | 2024-10-11 |
 | [Distance](https://open.spotify.com/track/3cL8EVouwRoKs9JYYcZePy) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [A New Dawn](https://open.spotify.com/album/6rLCvkI1WfZ0j4X5QRCYy4) | 3:44 | 2021-12-16 | 2022-10-01 |
@@ -223,6 +223,7 @@
 | [Faith Of This World \- Original Mix](https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Faith Of This World \(Original Mix\)](https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE) | 4:02 | 2022-05-29 | 2023-09-19 |
 | [Fallen](https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1) | [Deetox](https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Fallen](https://open.spotify.com/album/6YrVDZf2M8qLSOC4eichYG) | 3:36 | 2022-07-22 | 2024-03-22 |
 | [Fallen](https://open.spotify.com/track/5IClDKOZQrcK4eVbG7Myst) | [Deetox](https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Fallen](https://open.spotify.com/album/45xIpUM3OcDBHECT4p9m7O) | 3:36 | 2021-12-16 | 2022-07-29 |
+| [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 | 2024-10-18 |  |
 | [Far Away](https://open.spotify.com/track/7jqvMx5feKXzhYvFsG0NRy) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Far Away](https://open.spotify.com/album/5WbqTiBOQqp61P841twDdY) | 3:32 | 2024-06-20 | 2024-07-02 |
 | [FCK DAT!](https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [FCK DAT!](https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62) | 2:47 | 2023-06-16 |  |
 | [Feel Inside](https://open.spotify.com/track/52173U8Lw9eFYIQUGZUpQT) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Feel Inside](https://open.spotify.com/album/38hPyLLn3FqBEymQE2V5gj) | 3:15 | 2021-12-16 | 2023-10-17 |

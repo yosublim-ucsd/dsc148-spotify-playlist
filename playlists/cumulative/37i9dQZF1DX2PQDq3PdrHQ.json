@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "a place called home",
+        "url": "https://open.spotify.com/album/000KxeiqXNCnIAoK423Ve2"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147404,
+      "name": "a place called home",
+      "url": "https://open.spotify.com/track/2ev6kqZtCGyZQZh3DhFRya"
+    },
+    {
+      "album": {
         "name": "and the rain fell slow",
         "url": "https://open.spotify.com/album/5wPQHvfVceXmWIb8fdwLXa"
       },
@@ -805,6 +823,28 @@
     },
     {
       "album": {
+        "name": "as the moon calls",
+        "url": "https://open.spotify.com/album/3tPeY245rlf3H46W8yOGpX"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122008,
+      "name": "as the moon calls",
+      "url": "https://open.spotify.com/track/7qVRNNbYmHwkUArQqdok7E"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/3cB90HTC19k3sc9cgt3t0s"
       },
@@ -838,7 +878,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 109714,
       "name": "Astral",
       "url": "https://open.spotify.com/track/3HJ6JN74qPgFyC396Qhxou"
@@ -1066,7 +1106,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 144031,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/23vxGeR3KXZWTuajuZAdDd"
@@ -4382,7 +4422,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 124703,
       "name": "Flowery Fields",
       "url": "https://open.spotify.com/track/3QXvzHED2QRdg6ZH3BNN0k"
@@ -6484,7 +6524,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 127706,
       "name": "lakeside",
       "url": "https://open.spotify.com/track/1zerNNDM4V9TezIY3QVUnv"
@@ -8804,7 +8844,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 131047,
       "name": "neurons",
       "url": "https://open.spotify.com/track/4L3zseq5LsfZGlewJ8Pqwh"
@@ -10258,7 +10298,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 93592,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/5KxgbOV1pF4d8lO0OwsCCP"
@@ -10388,7 +10428,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 137647,
       "name": "reload",
       "url": "https://open.spotify.com/track/6rNYXgv4f7ZKMeY5M8RTXB"
@@ -10852,7 +10892,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 202758,
       "name": "Sailing on a cloud",
       "url": "https://open.spotify.com/track/6gtYNsLRL0HK6HAcA3agO5"
@@ -11472,7 +11512,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210110,
       "name": "Sleeping Stars",
       "url": "https://open.spotify.com/track/2OQy9UpKomTSeI74Mx1EWO"
@@ -12496,7 +12536,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 141000,
       "name": "sunbeamz",
       "url": "https://open.spotify.com/track/7brmNQZ3F2z3n9oEhhThfw"
@@ -12662,7 +12702,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 155076,
       "name": "swanage",
       "url": "https://open.spotify.com/track/4Rvc8667nOikvZhs34TOY5"
@@ -13024,7 +13064,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 138000,
       "name": "the painted world of ariamis",
       "url": "https://open.spotify.com/track/0t91JGfq5xtqlK40viu8Jx"
@@ -13082,7 +13122,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 152500,
       "name": "The Scent Of Love",
       "url": "https://open.spotify.com/track/43VuApQl0qpHY9KVFVsMOB"
@@ -13358,7 +13398,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 144187,
       "name": "Till The Rain Stops",
       "url": "https://open.spotify.com/track/7FnZzGr1WgcSd94RiB5Ezn"
@@ -13582,7 +13622,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 131000,
       "name": "Trees",
       "url": "https://open.spotify.com/track/2LvypmMQvgfv2kPQdzCkFt"
@@ -13640,7 +13680,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 111724,
       "name": "tuesdays",
       "url": "https://open.spotify.com/track/7Hta47UV3c7AQTc8s7ySXP"
@@ -14202,6 +14242,24 @@
       "duration_ms": 156000,
       "name": "weightless",
       "url": "https://open.spotify.com/track/6rKGlzIu5uxS2p0aHkqnUm"
+    },
+    {
+      "album": {
+        "name": "What I Would Do",
+        "url": "https://open.spotify.com/album/02XRfav7B0T7j4iqgVedZk"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150535,
+      "name": "What I Would Do",
+      "url": "https://open.spotify.com/track/0jTP5Ybzg43LZkBRZVM5JY"
     },
     {
       "album": {

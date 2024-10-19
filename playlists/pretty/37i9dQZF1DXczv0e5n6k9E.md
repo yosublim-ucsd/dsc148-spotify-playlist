@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Trannos, Billy Sio
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,885 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,890 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 14 | [OTAN LEIPEIS](https://open.spotify.com/track/539ZkoZfOt9DdoOjbyKwr9) | [Trouf](https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl) | [OTAN LEIPEIS](https://open.spotify.com/album/63ffcQ0xLrauoaOVRphL8B) | 2:29 |
 | 15 | [PULVO](https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:30 |
 | 16 | [NO COMPETITION](https://open.spotify.com/track/4eVLHEcnNHs8F21hmF3Smq) | [Retro](https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb), [Longlive](https://open.spotify.com/artist/7mcUh5VoiIjOD7A4koQ4AC) | [NO COMPETITION](https://open.spotify.com/album/1TKNjxFfKZ1oKFuiJ82CKy) | 2:27 |
-| 17 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4gzCTR7Rv6ttD5SfG0VclF) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
+| 17 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
 | 18 | [GUZMAN](https://open.spotify.com/track/6P9P1j0v2KiDu4vxW3T1WS) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx) | [GUZMAN](https://open.spotify.com/album/1b5IAxsuk13wd4zUbvKT1i) | 3:08 |
 | 19 | [Book of ra](https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Book of ra](https://open.spotify.com/album/71jzzXA6TSrL5b1WTJS7JT) | 1:52 |
 | 20 | [KRIMI 2](https://open.spotify.com/track/0NMilOjQW10H4gykCfrwfP) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [KRIMI 2](https://open.spotify.com/album/3xx7MD39dCOlWHghCG262D) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Ein Prosit der Gemütlichkeit
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,332 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,370 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 73 | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 |
 | 74 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 |
 | 75 | [Auf zum Ballermann](https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Ballermann](https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR) | 2:58 |
-| 76 | [Mallekind](https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Mallekind](https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl) | 2:53 |
+| 76 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 |
 | 77 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 |
-| 78 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 |
+| 78 | [Mallekind](https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Mallekind](https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl) | 2:53 |
 | 79 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 |
 | 80 | [Ein bisschen Frieden \- Stereoact \#Remix](https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ) | [Nicole](https://open.spotify.com/artist/1C5PhB7zfGmDKaYLLt5GYZ), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Frieden \(Stereoact \#Remix\)](https://open.spotify.com/album/4nmaiFwmUo5Pq1mXbWaIgI) | 2:42 |
 
-Snapshot ID: `ZwjZ2wAAAAAlu+3b83nvtYOkBDFnTyAT`
+Snapshot ID: `ZxJqOgAAAAAxY6WDL3ysMs5NCuYWaf/n`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "TEA - Acoustique",
+        "url": "https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5"
+      },
+      "artists": [
+        {
+          "name": "Choisie Basolua",
+          "url": "https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191083,
+      "name": "A la croix - Acoustique",
+      "url": "https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME"
+    },
+    {
+      "album": {
         "name": "American Love",
         "url": "https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181016,
       "name": "Let it be",
       "url": "https://open.spotify.com/track/4scQQdvqjzCtOcxVs8r8Ia"

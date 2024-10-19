@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Alejo & Easykid",
+  "description": "Flow sudamericano con Paulo Londra & Rusherking.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 246967,
       "name": "3D",
       "url": "https://open.spotify.com/track/6tvD0dWxzqPREms83vU4Ci"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 187050,
       "name": "5 Minutos",
       "url": "https://open.spotify.com/track/6I910Y4bD5pLYoI6T2ev1v"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 129229,
       "name": "A.T.A",
       "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Barro",
+        "url": "https://open.spotify.com/album/5dK03A4u8rzbG1XcMYCxbF"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/7k59eQ9b5KXWUNQIMrA7nI"
+    },
+    {
+      "album": {
         "name": "Los Gangsters Tambien Lloran",
         "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
@@ -3740,6 +3758,32 @@
       "duration_ms": 200493,
       "name": "Bellavista",
       "url": "https://open.spotify.com/track/5Hcjwice1pkVpy4HCeyVvh"
+    },
+    {
+      "album": {
+        "name": "Belong to GOD (freestyle)",
+        "url": "https://open.spotify.com/album/0o495wr8wR9jJ0YWUKBTBF"
+      },
+      "artists": [
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "L I V",
+          "url": "https://open.spotify.com/artist/2IP874FvQcxhKzVJrYrHtZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Belong to GOD (freestyle)",
+      "url": "https://open.spotify.com/track/3t6mrUnKnh4RYjXqssOKXp"
     },
     {
       "album": {
@@ -7648,7 +7692,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 252250,
       "name": "DAILY - Remix",
       "url": "https://open.spotify.com/track/1a29aoCEYqKfwB2RfgZXWw"
@@ -8007,6 +8051,32 @@
     },
     {
       "album": {
+        "name": "De tranqui",
+        "url": "https://open.spotify.com/album/1EdDcM9vS3MpBJ5WYgE6kv"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Tian vck",
+          "url": "https://open.spotify.com/artist/6FIeC9f8qjVNu7xSj71jzW"
+        },
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "De tranqui",
+      "url": "https://open.spotify.com/track/6U0pomfvYthLlNcDSMWyZN"
+    },
+    {
+      "album": {
         "name": "De Vacaciones",
         "url": "https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3"
       },
@@ -8036,7 +8106,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 150989,
       "name": "Debe ser feo",
       "url": "https://open.spotify.com/track/4SGUnZBKbTPdQsRXX3XQnJ"
@@ -9110,7 +9180,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 212000,
       "name": "DRABARDAR",
       "url": "https://open.spotify.com/track/7E0rqD66LpjU79iIkRtBtq"
@@ -11671,6 +11741,24 @@
     },
     {
       "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/3T3ASZMwh27Wu7WwDexPiA"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120927,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/49zhK6488SdSbXISd1XttD"
+    },
+    {
+      "album": {
         "name": "Freestyle 2",
         "url": "https://open.spotify.com/album/1xJkLFwNBBNoKSnXfwJzwV"
       },
@@ -14120,7 +14208,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 211221,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD"
@@ -14394,6 +14482,28 @@
       "duration_ms": 131564,
       "name": "KFC",
       "url": "https://open.spotify.com/track/6fpDJ9MUDznF5DgXKDDnhd"
+    },
+    {
+      "album": {
+        "name": "Kieren ser como yo",
+        "url": "https://open.spotify.com/album/79b3MjDGLBka7JF2WNOmcM"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Maller",
+          "url": "https://open.spotify.com/artist/7jX1IeDMCg53XMIYRJF62s"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "Kieren ser como yo",
+      "url": "https://open.spotify.com/track/2jYmYSyryuqQNAURa0d8Yl"
     },
     {
       "album": {
@@ -16192,7 +16302,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 100964,
       "name": "LOCO X VOS",
       "url": "https://open.spotify.com/track/3sIPHPehrnwzGEvOJr44Jr"
@@ -17694,7 +17804,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 153971,
       "name": "Me fui de aqui",
       "url": "https://open.spotify.com/track/2tbqteH0UrHRzMIo5Rprdh"
@@ -18090,6 +18200,36 @@
       "duration_ms": 157083,
       "name": "MESITA | DJ TAO Turreo Sessions #3",
       "url": "https://open.spotify.com/track/0FnDfY1BABaChoLuqqE4CI"
+    },
+    {
+      "album": {
+        "name": "Messi (Remix)",
+        "url": "https://open.spotify.com/album/2YOxmVZG3Gh1qQC15E2QIT"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281400,
+      "name": "Messi - Remix",
+      "url": "https://open.spotify.com/track/0RhskHoXyy7pebvsFU1cTH"
     },
     {
       "album": {
@@ -20703,6 +20843,24 @@
     },
     {
       "album": {
+        "name": "NO EXISTEN DOS",
+        "url": "https://open.spotify.com/album/0EmiaC5MJLksexH9KfzTm9"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136534,
+      "name": "NO EXISTEN DOS",
+      "url": "https://open.spotify.com/track/5OooFdo5lSfbskmMa4UfMy"
+    },
+    {
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad"
       },
@@ -23035,6 +23193,24 @@
     },
     {
       "album": {
+        "name": "Party & Bullshit",
+        "url": "https://open.spotify.com/album/3j9haaFUq0vmUI7t7bwDuD"
+      },
+      "artists": [
+        {
+          "name": "Slim Dee",
+          "url": "https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133910,
+      "name": "Party & Bullshit",
+      "url": "https://open.spotify.com/track/00W9teBD8mAs4jQ3tu9dM2"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -24898,6 +25074,28 @@
       "duration_ms": 169011,
       "name": "Que Hay Amor",
       "url": "https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv"
+    },
+    {
+      "album": {
+        "name": "Que Hicimo'",
+        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Que Hicimo'",
+      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
     },
     {
       "album": {
@@ -27225,6 +27423,32 @@
     },
     {
       "album": {
+        "name": "SI NO ES CONTIGO (REMIX)",
+        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "SI NO ES CONTIGO - REMIX",
+      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
+    },
+    {
+      "album": {
         "name": "Si no me olvido",
         "url": "https://open.spotify.com/album/4IpaFXotEZwFxrAjqADMgb"
       },
@@ -27816,7 +28040,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 179488,
       "name": "SOLO LA CARA",
       "url": "https://open.spotify.com/track/3CjWKFuEmb9jpZoPfyZOZn"
@@ -29021,6 +29245,24 @@
     },
     {
       "album": {
+        "name": "TENTAR",
+        "url": "https://open.spotify.com/album/0b8aaR8PaimY1oR68WxnJe"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "TENTAR",
+      "url": "https://open.spotify.com/track/51sWL32vAHFKLH8Gm90lBc"
+    },
+    {
+      "album": {
         "name": "Tercera Copa",
         "url": "https://open.spotify.com/album/0KwzVAERHpTPBu0K3fWaN6"
       },
@@ -29934,7 +30176,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 178064,
       "name": "Tu #n\u00famero",
       "url": "https://open.spotify.com/track/3Wvaqs2ZCV1HTN0LhRuRa9"
@@ -31321,6 +31563,32 @@
     },
     {
       "album": {
+        "name": "V16 TURBO REMIX",
+        "url": "https://open.spotify.com/album/7oTTfEmS9Djw8f96e05oVd"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191569,
+      "name": "V16 TURBO REMIX",
+      "url": "https://open.spotify.com/track/3aQ1BgbYbfIGSrfLKiWika"
+    },
+    {
+      "album": {
         "name": "Vacio",
         "url": "https://open.spotify.com/album/3mPQrAo1k1theUTXCjuYRM"
       },
@@ -31926,7 +32194,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 135000,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/3grAT7ft8f7XMMYXmtpLT2"
@@ -32390,7 +32658,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"

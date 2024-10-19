@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40243,
+  "num_followers": 40248,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAACZufSO25Q+w0iW5b7oNrLU",
+  "snapshot_id": "ZxBTgAAAAADtRgY1rfCZuhw7czMPGAkR",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
-        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
+        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 36948,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
+      "duration_ms": 324066,
+      "name": "Ghost of a smile",
+      "url": "https://open.spotify.com/track/1pZLymms07WcWgtKdhg78k"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
-        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 324066,
-      "name": "Ghost of a smile",
-      "url": "https://open.spotify.com/track/1pZLymms07WcWgtKdhg78k"
+      "duration_ms": 36948,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 301813,
-      "name": "The Everlasting Guilty Crown Nightcore mix",
-      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
+        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
+        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 96893,
-      "name": "The Everlasting Guilty Crown -TV Edit-",
-      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
+      "duration_ms": 301813,
+      "name": "The Everlasting Guilty Crown Nightcore mix",
+      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 143946,
-      "name": "London Bridge is falling down",
-      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
+      "duration_ms": 96893,
+      "name": "The Everlasting Guilty Crown -TV Edit-",
+      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 89990,
       "name": "Fallen-TV edit-",
       "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
+        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "London Bridge is falling down",
+      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
-        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 256013,
-      "name": "\u6c38\u9060 -Instrumental-",
-      "url": "https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx"
+      "duration_ms": 317440,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
+      "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
-        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 317440,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
-      "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
+      "duration_ms": 256013,
+      "name": "\u6c38\u9060 -Instrumental-",
+      "url": "https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx"
     },
     {
       "added_at": null,

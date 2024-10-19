@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: José Jr
 
-186 songs - 10 hr 53 min
+187 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 | 2022-08-05 | 2024-04-19 |
 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 | 2023-09-26 |
 | [Faltava Você](https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO) | [Samuell Villart](https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw) | [Faltava Você](https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717) | 3:14 | 2024-04-19 |  |
-| [Farol](https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW) | [Temis Handeri](https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [Farol](https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5) | 3:43 | 2024-08-30 |  |
+| [Farol](https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW) | [Temis Handeri](https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [Farol](https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5) | 3:43 | 2024-08-30 | 2024-10-19 |
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-03-17 | 2023-10-07 |
 | [Faz Parte](https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Faz Parte](https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe) | 2:59 | 2023-02-03 | 2023-04-16 |
 | [Fim de Tarde](https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fim de Tarde](https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh) | 2:18 | 2023-06-02 | 2024-04-20 |
@@ -169,6 +169,7 @@
 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 | 2022-08-05 |  |
 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 | 2022-08-05 |  |
 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 | 2022-08-05 | 2023-10-07 |
+| [Teu Esconderijo \(Ao Vivo\)](https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Teu Esconderijo \(Ao Vivo\)](https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj) | 5:49 | 2024-10-18 |  |
 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 | 2022-08-05 | 2023-12-23 |
 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 | 2023-12-22 |  |
 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 | 2022-08-05 |  |

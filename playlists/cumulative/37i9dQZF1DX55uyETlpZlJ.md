@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-396 songs - 21 hr 40 min
+397 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 | 2022-06-13 | 2023-06-10 |
 | [Jai Ganesha](https://open.spotify.com/track/3AaghYGVFOfmrLui28QIq9) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Jai Ganesha](https://open.spotify.com/album/7tKACaZToxNtnW8y9yPr5N) | 4:18 | 2023-09-14 | 2024-02-17 |
 | [Janani](https://open.spotify.com/track/43HXpdT5E0z4erGPkQYxuV) | [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Vignesh Shankar](https://open.spotify.com/artist/3L8oIMXUCC47w7tvXHezdP), [Sunidhi Ganesh](https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K), [Rajath Hegde](https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu) | [Janani](https://open.spotify.com/album/53a5pHNdp4p0FvCJvLjGgh) | 3:40 | 2023-10-06 | 2024-02-17 |
-| [Javaari Hudga](https://open.spotify.com/track/1hoRIB6bh6UzcQ1an5opq9) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2), [Trupti NK](https://open.spotify.com/artist/5bNXTmycprKmNZP9vdOWBb) | [Javaari Hudga](https://open.spotify.com/album/4Kt7gZ6jpRtVyTm8hD5kgM) | 3:08 | 2024-06-03 |  |
+| [Javaari Hudga](https://open.spotify.com/track/1hoRIB6bh6UzcQ1an5opq9) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2), [Trupti NK](https://open.spotify.com/artist/5bNXTmycprKmNZP9vdOWBb) | [Javaari Hudga](https://open.spotify.com/album/4Kt7gZ6jpRtVyTm8hD5kgM) | 3:08 | 2024-06-03 | 2024-10-19 |
 | [JUST MUSIC](https://open.spotify.com/track/6rP745yCeuwMJdd4uJAG2h) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [JUST MUSIC](https://open.spotify.com/album/2Sa4QsIx74xhupxw7Ej5Tq) | 2:05 | 2024-05-13 |  |
 | [Kaaduvalavale](https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kaaduvalavale](https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv) | 4:04 | 2023-09-01 | 2023-09-22 |
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 | 2024-01-30 |
@@ -256,6 +256,7 @@
 | [Nanna Jeevana](https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK) | 2:16 | 2023-10-06 | 2024-04-05 |
 | [Nanna Jeevana](https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS) | 2:16 | 2023-10-06 | 2024-01-09 |
 | [Nanna Kannada](https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [Nanna Kannada](https://open.spotify.com/album/4LcpFWIzA5kFXryLKkLiH2) | 3:55 | 2022-04-01 | 2023-06-08 |
+| [Nanna Tumba Neene](https://open.spotify.com/track/6kOL7AlmbPX1uGI6jG2QqL) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL) | [Nanna Tumba Neene](https://open.spotify.com/album/192TmSQNJFZ4lUn3ekOb9w) | 3:28 | 2024-10-18 |  |
 | [Nannale Iruve](https://open.spotify.com/track/2y2IxFZjCEyKJeKDMDZ5d8) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Deepika S](https://open.spotify.com/artist/6QKndRubze318lol0g2M3L) | [Nannale Iruve](https://open.spotify.com/album/38wnSGbfXGc4hN7FAjogoG) | 3:21 | 2023-10-20 | 2024-02-17 |
 | [Nannavane](https://open.spotify.com/track/7vi9tKXEkE1P7TVjJVL0OB) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt) | [Nannavane](https://open.spotify.com/album/6TE5oWQZQBKHSxbIIN5f5R) | 4:17 | 2024-03-27 | 2024-08-20 |
 | [Nanne Kaadide](https://open.spotify.com/track/0NXGz59ha1iCWqhdZqItTY) | [Harish boraiah](https://open.spotify.com/artist/5zUuaKplkyRi826Txr158L) | [Nanne Kaadide](https://open.spotify.com/album/5VgGfqifkROReJTGAtfP2l) | 3:29 | 2023-11-14 | 2024-01-26 |

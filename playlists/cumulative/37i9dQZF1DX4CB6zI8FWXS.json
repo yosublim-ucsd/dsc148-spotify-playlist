@@ -568,8 +568,8 @@
       },
       "artists": [
         {
-          "name": "\u4f50\u4e45\u9593 \u9f8d\u661f",
-          "url": "https://open.spotify.com/artist/0Hx30KghTTFuHiM6bF6SXp"
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
         }
       ],
       "date_added": "2024-10-17",
@@ -5297,7 +5297,7 @@
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191493,
+      "duration_ms": 191484,
       "name": "Jumping the Gun",
       "url": "https://open.spotify.com/track/5TosBXH7iNMMn1Z5dc2FzZ"
     },
@@ -12440,6 +12440,24 @@
       "duration_ms": 164000,
       "name": "You 2 Thank",
       "url": "https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC"
+    },
+    {
+      "album": {
+        "name": "You Ain't The Only One",
+        "url": "https://open.spotify.com/album/2exj3QEbmM141MCEpjFb1q"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "You Ain't The Only One",
+      "url": "https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Vallarta Show. Los temas esenciales, todos en una lista.",
-  "num_followers": 6196,
+  "num_followers": 6195,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAAAXwjbO6JxsqzZgO3uBxpm2",
+  "snapshot_id": "ZxBTgAAAAAB2GTh032bg9Nh30dwr8WlF",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168800,
-      "name": "Te Ves Bien Buena",
-      "url": "https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY"
+      "duration_ms": 131065,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/0rUJIMZaR2B0T2TwLkBkvm"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 131065,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/0rUJIMZaR2B0T2TwLkBkvm"
+      "duration_ms": 168800,
+      "name": "Te Ves Bien Buena",
+      "url": "https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
         "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 184900,
       "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
       "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 195026,
-      "name": "Dicembre Del 63",
-      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
+      "duration_ms": 133000,
+      "name": "As\u00ed lo Quiso \u00c9l",
+      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 173000,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
+      "duration_ms": 195026,
+      "name": "Dicembre Del 63",
+      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 133000,
-      "name": "As\u00ed lo Quiso \u00c9l",
-      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
+      "duration_ms": 173000,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
     },
     {
       "added_at": null,

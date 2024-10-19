@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: GloRilla & Sexyy Red",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doechii",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -2594,6 +2594,28 @@
       "duration_ms": 161118,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/7GUfVFTW0A0tJsfXOHSo9R"
+    },
+    {
+      "album": {
+        "name": "Comfy",
+        "url": "https://open.spotify.com/album/4dRhMOnGFG7b5LSJ3p56sw"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211652,
+      "name": "Comfy",
+      "url": "https://open.spotify.com/track/2ulQFgMjMyhYCxZiSDhgd5"
     },
     {
       "album": {
@@ -3150,6 +3172,32 @@
       "duration_ms": 108750,
       "name": "Donk",
       "url": "https://open.spotify.com/track/58lmOL5ql1YIXrpRpoYi3i"
+    },
+    {
+      "album": {
+        "name": "Donk 2.0",
+        "url": "https://open.spotify.com/album/6B188jcQi20tOPoi7cncz8"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Q Smith On The Beat",
+          "url": "https://open.spotify.com/artist/6IJnj8jiCS1R9gvgDpUWBz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179399,
+      "name": "Donk 2.0",
+      "url": "https://open.spotify.com/track/7zOMTU04JcYAV2OYtZi1f2"
     },
     {
       "album": {
@@ -7428,7 +7476,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 162240,
       "name": "No One Else (feat. Jeremih)",
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"

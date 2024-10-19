@@ -1,13 +1,37 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 450502,
+  "num_followers": 450535,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAAApFgfZOdiS5iBG+hgUi70C",
+  "snapshot_id": "ZxHdQAAAAAD24IwsSw+3lYgeKYnt6k25",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Not Bad",
+        "url": "https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        },
+        {
+          "name": "Shelley Rena",
+          "url": "https://open.spotify.com/artist/3uv1vlPPWpXtv6qCpqT9JQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Not Bad",
+      "url": "https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -29,6 +53,26 @@
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "In The Real World",
+        "url": "https://open.spotify.com/album/5I46bTsjuXB4kq2JgRCEjG"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Lily James",
+          "url": "https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Victory Voices",
+      "url": "https://open.spotify.com/track/2DXVg5DdblrOWYvlGDmwJt"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Mother",
@@ -43,6 +87,22 @@
       "duration_ms": 153266,
       "name": "I Have No One",
       "url": "https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "When It Gets Dark",
+        "url": "https://open.spotify.com/album/1Sq7BpNCgBM7DiQZfnUZja"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "When It Gets Dark",
+      "url": "https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -75,22 +135,6 @@
       "duration_ms": 160826,
       "name": "Found A Friend In You",
       "url": "https://open.spotify.com/track/1WXAspzwAg4loOothMAxis"
-    },
-    {
-      "added_at": "2024-09-06 04:21:20",
-      "album": {
-        "name": "Make A Change",
-        "url": "https://open.spotify.com/album/5KjCh92XJuZpku1ENE7tJx"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Make A Change",
-      "url": "https://open.spotify.com/track/3ZJ66cVNa8us49CLYnFBCS"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -415,22 +459,6 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/0X4aStSXiLUG7HOVng0A51"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/46qU3BOdKfXI4LSSGxAw4D"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1547,22 +1575,6 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/1Ru4jgnreryoTXbp2SdZRr"
-      },
-      "artists": [
-        {
-          "name": "David Myles",
-          "url": "https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/2KbNZUsmY1jg6sCyN2Xtrd"
     },
     {
       "added_at": "2023-10-06 04:00:00",

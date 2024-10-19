@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
+  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Banda Primos de Tierra Caliente en portada. ",
   "name": "Tierra Caliente",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Brebaje",
       "url": "https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 163285,
       "name": "El Baile de la Iguana (En Vivo)",
       "url": "https://open.spotify.com/track/4Pgecg5ZeQ0qdjb8O3YRiM"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 223231,
       "name": "Eres Divina (En Vivo)",
       "url": "https://open.spotify.com/track/4Hl7uRd3sEHZafKY6PBVj5"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 196873,
       "name": "Ni Te Vas Ni Me Voy",
       "url": "https://open.spotify.com/track/6bwJaz1AVWCRWlrOhneJZg"
@@ -2560,6 +2560,24 @@
       "duration_ms": 208133,
       "name": "Preso Me Llevan",
       "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos Y No Cochadas (En Vivo)",
+        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201183,
+      "name": "Prueba De Fuego (En Vivo)",
+      "url": "https://open.spotify.com/track/0iCEhc2I1mlVIbRSA1Cif8"
     },
     {
       "album": {
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 172983,
       "name": "Suerte He Tenido",
       "url": "https://open.spotify.com/track/6q4idcnmj4eT7drI93sYgj"
@@ -3147,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Puros Corridos Y No Cochadas (En Vivo)",
+        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179221,
+      "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+      "url": "https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE"
+    },
+    {
+      "album": {
         "name": "18 Kilates",
         "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
       },
@@ -3220,6 +3256,24 @@
       "duration_ms": 199343,
       "name": "Yo Soy de la Sierra",
       "url": "https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos Y No Cochadas (En Vivo)",
+        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "Yo Ya Sab\u00eda Pa'D\u00f3nde Iba (En Vivo)",
+      "url": "https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm"
     },
     {
       "album": {

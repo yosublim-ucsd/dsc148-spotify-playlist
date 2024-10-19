@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1GeDkJnIjkFUQUdhFUBnkV"
+      },
+      "artists": [
+        {
+          "name": "Lokyi@EOS",
+          "url": "https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204983,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/5d8ojsT9pv2WstWgjeUe6i"
+    },
+    {
+      "album": {
         "name": "new classic",
         "url": "https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH"
       },
@@ -4598,6 +4616,24 @@
       "duration_ms": 247865,
       "name": "\u6211\u4e0d\u56de\u53bb",
       "url": "https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u53ea\u6709\u4e00\u5f80\u76f4\u524d",
+        "url": "https://open.spotify.com/album/2SHbIZWNt7hSzCal97SuXW"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216408,
+      "name": "\u6211\u5011\u53ea\u6709\u4e00\u5f80\u76f4\u524d",
+      "url": "https://open.spotify.com/track/5QDclSp0IOj9YI4RBUxX2n"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tananai in cover + le migliori uscite di questa settimana!
 
-2,231 songs - 4 day 16 hr 28 min
+2,234 songs - 4 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Apollo 12](https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Apollo 12](https://open.spotify.com/album/6NWrbi4iHYkh6ZDA7FjM6w) | 2:46 | 2024-09-19 | 2024-09-27 |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-05-16 | 2024-05-24 |
 | [apriti grattacielo](https://open.spotify.com/track/6oZjhWplQju9xUtVXrAm51) | [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [Apriti Grattacielo](https://open.spotify.com/album/25PT76vLQvTSgLjBSPdpPS) | 2:50 | 2024-05-16 | 2024-05-24 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 |  |
 | [Aqaba](https://open.spotify.com/track/07beED77Z5oF7NyIN9HZ7f) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu) | [Aqaba](https://open.spotify.com/album/0ZVpRPD70kqEAAQrlXfduI) | 3:12 | 2024-06-20 | 2024-06-28 |
 | [Aquafina \(feat\. Slings\)](https://open.spotify.com/track/2aAf1HQ47GUwc2Jv8eeRXa) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Tram 83](https://open.spotify.com/album/6kbIMPJoFC0uONTg9IM5Cc) | 2:35 | 2024-10-10 | 2024-10-18 |
 | [Araba Fenice](https://open.spotify.com/track/1Vpt6JiW5JZ0EQLgCvWWek) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Araba Fenice](https://open.spotify.com/album/4WpUUTNmz2mw526952tnYi) | 2:52 | 2024-09-19 | 2024-09-27 |
@@ -850,6 +851,7 @@
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-11 | 2024-07-19 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-27 | 2024-07-05 |
 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-01 | 2024-08-09 |
+| [HIM ALL ALONG](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM ALL ALONG](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 | 2024-10-18 |  |
 | [HIND'S HALL 2 \(feat\. anees, MC Abdul, & Amer Zahr\)](https://open.spotify.com/track/77BOEFqrLR4GorhMHwUYoG) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Amer Zahr](https://open.spotify.com/artist/5jyiTzlbmqRiXrw9ueKJ3u) | [HIND'S HALL 2 \(feat\. anees, MC Abdul, & Amer Zahr\)](https://open.spotify.com/album/3hnZUQIXpDRh3o9IYhkmae) | 5:17 | 2024-09-19 | 2024-09-27 |
 | [HIT ME](https://open.spotify.com/track/2Pe0agFffixMOE12UAxrnk) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ) | [VOCI](https://open.spotify.com/album/1eTILPjRI57gqN48aKDRVq) | 2:18 | 2024-09-12 | 2024-09-20 |
 | [HIT PER LA FASHION WEEK](https://open.spotify.com/track/7AKTP1crrIeXWgeR1u1Yft) | [Serafini](https://open.spotify.com/artist/5LXqsXLmJUdOtYsPg7VIVQ) | [HIT PER LA FASHION WEEK](https://open.spotify.com/album/1ljmpgng7xmdsdspXSftDW) | 2:42 | 2024-09-26 | 2024-10-04 |
@@ -1873,6 +1875,7 @@
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [Straniero RMX \(feat\. Tedua & Neima Ezza\)](https://open.spotify.com/track/1tGv0FsQ9E1huqo9l8gIBl) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Straniero RMX \(feat\. Tedua & Neima Ezza\)](https://open.spotify.com/album/729KrkLu00nv1Y7wCbMbX2) | 3:56 | 2024-04-26 | 2024-05-03 |
 | [Street Life](https://open.spotify.com/track/6Pa6bqbWnNZML34ex3s06q) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Street Life](https://open.spotify.com/album/04p2ig4ktUoqhilY6au2HI) | 2:32 | 2024-09-12 | 2024-09-20 |
+| [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 | 2024-10-18 |  |
 | [STRESS](https://open.spotify.com/track/1qLJupRlpqolbKNnrVDp9x) | [DIREI](https://open.spotify.com/artist/1xvnIuvn8DLzSwlKRT74IY) | [STRESS](https://open.spotify.com/album/62ObkL6tzkrz1yNXkPBFvE) | 3:13 | 2024-06-13 | 2024-06-21 |
 | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/track/1GCg104cXQ0pZoOrCOhYeH) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/album/3itzxUx7HhUTPxQSFDoKVp) | 2:19 | 2024-09-12 | 2024-09-20 |
 | [Stu Cafè](https://open.spotify.com/track/5e25jspvwj1CX3OiaTjLUb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [Stu Cafè](https://open.spotify.com/album/7uS36j00H0JrVKTyh6miYt) | 2:56 | 2024-06-20 | 2024-06-28 |

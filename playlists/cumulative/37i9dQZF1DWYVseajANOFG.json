@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Descansa En Paz",
+        "url": "https://open.spotify.com/album/2juqhhfkL8ShyNc8YXvzKQ"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160206,
+      "name": "Descansa En Paz",
+      "url": "https://open.spotify.com/track/61xQvQwGU7NMG9IPGbSL2U"
+    },
+    {
+      "album": {
         "name": "DESDE EL IPHONE",
         "url": "https://open.spotify.com/album/57XyDqDWBjzOsyyXgUN4VC"
       },
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 163301,
       "name": "GROSERIA",
       "url": "https://open.spotify.com/track/3Z2xYWz3Eq3Hefk9MFLPxA"
@@ -2796,6 +2814,24 @@
       "duration_ms": 182920,
       "name": "Guaro & Dancehall",
       "url": "https://open.spotify.com/track/6rG6185kw4K4QX5mjO1T5s"
+    },
+    {
+      "album": {
+        "name": "Guerrero de Yavh\u00e9",
+        "url": "https://open.spotify.com/album/2KH1B8GQ0CTGAv8XtbgsM3"
+      },
+      "artists": [
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Guerrero de Yavh\u00e9",
+      "url": "https://open.spotify.com/track/0EdhElBICTHMtthD0t9J5y"
     },
     {
       "album": {
@@ -2830,7 +2866,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 168979,
       "name": "Habla Como Pana - Remix",
       "url": "https://open.spotify.com/track/3k09BifCNcHUNKHNmkNv6G"
@@ -5386,10 +5422,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 159157,
       "name": "OTRA LIGA",
       "url": "https://open.spotify.com/track/1GgE3Et7kx551FNJIy2xKA"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA (DELUXE)",
+        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228746,
+      "name": "OTRO NIVEL \ud83d\udc51 (feat. Sech)",
+      "url": "https://open.spotify.com/track/2OhDOv9O8BUEtckF7DDRCP"
     },
     {
       "album": {

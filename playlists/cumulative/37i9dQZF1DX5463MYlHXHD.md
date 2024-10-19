@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Los Turros.
 
-296 songs - 16 hr 41 min
+297 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 | 2023-05-26 | 2024-03-06 |
 | [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 | 2024-05-12 |
 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 | 2023-05-26 | 2024-03-06 |
-| [El Drogón](https://open.spotify.com/track/6KQxrxnR44E7IswemXSKnE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:50 | 2024-10-15 |  |
+| [El Drogón](https://open.spotify.com/track/6KQxrxnR44E7IswemXSKnE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:50 | 2024-10-15 | 2024-10-19 |
 | [El Fogón](https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Podran Imitarnos, Jamás Igualarnos](https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX) | 2:50 | 2023-05-26 | 2024-08-23 |
 | [El grandote](https://open.spotify.com/track/3OGpJ3WLq256b71EQQS7aW) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD1](https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ) | 2:26 | 2024-04-27 | 2024-05-25 |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2023-05-26 |  |
@@ -190,6 +190,7 @@
 | [Mujer Yo te amo](https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD), [Hamster Records](https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6) | [CD2](https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0) | 2:46 | 2024-04-19 |  |
 | [Mujer yo te amo \- Remix](https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Papacho Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Mujer yo te amo \(Remix\)](https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp) | 3:59 | 2023-11-01 | 2024-03-06 |
 | [No cajeties](https://open.spotify.com/track/4IbZy4FRDzuiMEYWpG4t1e) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [No cajeties](https://open.spotify.com/album/07IkKliRzyhyNGiWRLb4Av) | 3:10 | 2024-06-28 | 2024-08-22 |
+| [No Debiste Volver](https://open.spotify.com/track/1PTgb1qh4ekTAi5H3reyzf) | [El Stylo](https://open.spotify.com/artist/3ZsohZm3TsffH1MmUNrK8G) | [Marcando el Rumbo](https://open.spotify.com/album/3GXfzIAaBD5K94RQn0vy2d) | 3:33 | 2024-10-15 |  |
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2024-03-05 |  |
 | [No Me Vuelvo a Enamorar \- Remix](https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [No Me Vuelvo a Enamorar \(Remix\)](https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9) | 3:13 | 2023-06-09 | 2024-02-03 |
 | [No Te Aguanto Más](https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 2:38 | 2023-05-26 | 2024-09-19 |

@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-77 songs - 4 hr 3 min
+78 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Lute Sonata in F Minor \[Augsburg manuscript\]: I\. Affettuoso](https://open.spotify.com/track/7LMjfpcFS1zbFf10GAIILB) | [Bernhard Joachim Hagen](https://open.spotify.com/artist/4C5ayULfDjchGDFpclI1bx), [Robert Barto](https://open.spotify.com/artist/2CnMgd69h3tuIxd875biVF) | [Hagen: The Augsburg Manuscript Music for Lute](https://open.spotify.com/album/4KnKIzBvsnu4IiyPVGUbS5) | 3:32 | 2022-01-25 |  |
 | [Mounsieurs Almanie](https://open.spotify.com/track/7xBACvynSPVkMOUNsxRyLu) | [Daniel Bacheler](https://open.spotify.com/artist/5lhlKFCH9b5f5G43GgyJ2T), [Paul O'Dette](https://open.spotify.com/artist/50x7umX0AIHNXkSwumHPRg) | [Daniel Bacheler: The Bachelar's Delight](https://open.spotify.com/album/6dYuBlPqLaBZ4pIR4OM4Gd) | 5:57 | 2022-01-25 | 2022-08-31 |
 | [O frondens virga](https://open.spotify.com/track/72dbst7UcuIbGu2xZRijpn) | [Hildegard von Bingen](https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d), [Augsburg Early Music Ensemble](https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d) | [Vocal Music \- Hildegard Of Bingen / Abelard, P\. \(Hildegard Von Bingen and Her Time\) \(Ensemble Fur Fruhe Musik Augsburg\)](https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn) | 5:28 | 2022-01-25 |  |
+| [Passymeasure Galliard: Passymeasure Galliard](https://open.spotify.com/track/3V6Wud4SwiYyVKyD2ewTWS) | [John Danyel](https://open.spotify.com/artist/5DurtR3OW7vzPxgwZUVTar), [Unknown](https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57), [Evangelina Mascardi](https://open.spotify.com/artist/25xXI19ZzvenYn1EafS3Az), [Angélique Mauillon](https://open.spotify.com/artist/3yFhWmqwZXPNREuatEQfDb) | [Dreames & Imaginations \- Poeticall Musicke to be sung to the Lyra viol \(Music from around 1600\)](https://open.spotify.com/album/5oxSEkeEbkD6vNocnPD9gD) | 4:13 | 2024-10-18 |  |
 | [Pavanne en forme de complainte](https://open.spotify.com/track/4LSVC1jLMWLAU4YAN40onz) | [Nicolas Vallet](https://open.spotify.com/artist/2fuunl2KBtdF5cmHXTQttP), [Anthony Bailes](https://open.spotify.com/artist/7HYQqdTqflG3FBEzN0vtWr) | [Lute Music of the Netherlands](https://open.spotify.com/album/2f7rU5r1vtmZEDppurUtJ3) | 4:49 | 2022-07-11 | 2024-04-19 |
 | [Prélude en ré mineur](https://open.spotify.com/track/0fw41LXX7qiXgeMi6GSGCX) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh) | [La Mascarade \- Music For Solo Baroque Guitar And Theorbo](https://open.spotify.com/album/1vWEJTnxqM5uVcOmvB69Rp) | 1:15 | 2022-07-11 | 2024-04-19 |
 | [Prélude en ré mineur](https://open.spotify.com/track/603QYL8bS4KON9BVqI5WRC) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh) | [La Mascarade \- Music For Solo Baroque Guitar And Theorbo](https://open.spotify.com/album/3FxbaxLHJqwzMDyBAzRWML) | 1:15 | 2022-01-25 |  |

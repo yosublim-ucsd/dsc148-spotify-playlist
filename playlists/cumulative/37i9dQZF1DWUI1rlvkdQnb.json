@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Arctica",
+        "url": "https://open.spotify.com/album/4DJf1UybQFDhHLJlHAVPpt"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167791,
+      "name": "Arctica",
+      "url": "https://open.spotify.com/track/1Hwaqcm8viP6UAjbzB5Kwt"
+    },
+    {
+      "album": {
         "name": "Aria Umbra",
         "url": "https://open.spotify.com/album/1QWN6r6YgbJjB5Az3dbr1I"
       },
@@ -365,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Brisa (432 Hz)",
+        "url": "https://open.spotify.com/album/45KSCAUJfGYFikRBWk3BX2"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Verdi",
+          "url": "https://open.spotify.com/artist/0vI1CD156Rnzc4zyit5gNI"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169307,
+      "name": "Brisa (432 Hz)",
+      "url": "https://open.spotify.com/track/5uEoiPYWBRxb4Q6mo9amOz"
+    },
+    {
+      "album": {
         "name": "Broom",
         "url": "https://open.spotify.com/album/0o0FyKMHW2QBLJiNSPeLHK"
       },
@@ -466,7 +502,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 162813,
       "name": "Calmness",
       "url": "https://open.spotify.com/track/7tcFhsJd1HoFQTbSbL23wA"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 248500,
       "name": "Conscience",
       "url": "https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN"
@@ -884,7 +920,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 283200,
       "name": "Dusty Star",
       "url": "https://open.spotify.com/track/18HkZKb3Q5nUdLE8a6mj8g"
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 205750,
       "name": "Evening's peace",
       "url": "https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE"
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -1212,6 +1248,24 @@
       "duration_ms": 240000,
       "name": "Fantasy Rose",
       "url": "https://open.spotify.com/track/4sA5k1J1JG1CSdFcAnlDKm"
+    },
+    {
+      "album": {
+        "name": "Far Frontier",
+        "url": "https://open.spotify.com/album/0jLstyeIJUeHbFNfH85j18"
+      },
+      "artists": [
+        {
+          "name": "Mauri Zeen",
+          "url": "https://open.spotify.com/artist/0IdqEgcgtiEMJ04P3PAAhL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Far Frontier",
+      "url": "https://open.spotify.com/track/5Rdk9CWB3c3XVBdEZktopc"
     },
     {
       "album": {
@@ -1298,7 +1352,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 217499,
       "name": "Floating",
       "url": "https://open.spotify.com/track/1G4QmXMFFPKypYFfZaV3Mg"
@@ -1575,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Higher Self",
+        "url": "https://open.spotify.com/album/55jQo3xMwoNiVWO0YR12Ga"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/3bTzC5Ag8OKsiMcxNEakrG"
+    },
+    {
+      "album": {
         "name": "Honouring the Promise",
         "url": "https://open.spotify.com/album/4XNXRAgmYCln4JkUE294Lc"
       },
@@ -1608,6 +1680,24 @@
       "duration_ms": 128550,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/52Uuuaa361wbdU2HnVwU6N"
+    },
+    {
+      "album": {
+        "name": "How Blessed",
+        "url": "https://open.spotify.com/album/7whBQN43DOSlbheYQWZ2Aj"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "How Blessed",
+      "url": "https://open.spotify.com/track/2GhiwmAm0SehnbzvfQhIjN"
     },
     {
       "album": {
@@ -1820,7 +1910,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 160000,
       "name": "Invisible Observation",
       "url": "https://open.spotify.com/track/2nz6Cr2FTzfsl8K9HHwba9"
@@ -2414,7 +2504,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 206170,
       "name": "Moonstone",
       "url": "https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi"
@@ -2450,7 +2540,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 175108,
       "name": "Myst",
       "url": "https://open.spotify.com/track/2So77BubnnvW58szq8RePp"
@@ -3231,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/4NzBXoDrdZUoB4m3nykMD2"
+      },
+      "artists": [
+        {
+          "name": "Noble S",
+          "url": "https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196370,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/1uId9bs7ByBNCdiKALuDa3"
+    },
+    {
+      "album": {
         "name": "Sense of Peace",
         "url": "https://open.spotify.com/album/1HcOJv7VSB3YeDJG0vTeqO"
       },
@@ -3444,6 +3552,24 @@
       "duration_ms": 140132,
       "name": "Son Of Sun",
       "url": "https://open.spotify.com/track/5SDeAt9APL6sQ0mZSmtru9"
+    },
+    {
+      "album": {
+        "name": "Space Cluster",
+        "url": "https://open.spotify.com/album/0cu6ZEVgWApOhhPb3h6Ewy"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156561,
+      "name": "Space Cluster",
+      "url": "https://open.spotify.com/track/3h8I3p3jpYWf6fIB7kbmff"
     },
     {
       "album": {
@@ -3872,7 +3998,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 198601,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/3GQxufqZcVLxSH6la2ZlKs"
@@ -3966,6 +4092,24 @@
       "duration_ms": 158118,
       "name": "Vrede en rust",
       "url": "https://open.spotify.com/track/4MLInfMhS1GoMiaYCFGlS6"
+    },
+    {
+      "album": {
+        "name": "Where it all begins",
+        "url": "https://open.spotify.com/album/65zrodOeirWmre8K9hIJTH"
+      },
+      "artists": [
+        {
+          "name": "Penny Layn",
+          "url": "https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "Where it all begins",
+      "url": "https://open.spotify.com/track/51GNegAdvTKbm8eMrucDEi"
     },
     {
       "album": {

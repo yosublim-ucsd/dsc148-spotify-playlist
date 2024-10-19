@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Dean Lewis
 
-6,071 songs - 13 day 16 hr 51 min
+6,073 songs - 13 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-11 | 2024-10-18 |
 | [Apricot Sun](https://open.spotify.com/track/1gkpGmHT0hkduqi8bosUSl) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Apricot Sun](https://open.spotify.com/album/073b961mweb1pbVWyB5DJQ) | 3:14 | 2023-08-17 | 2023-08-25 |
 | [april's](https://open.spotify.com/track/2GPtEQJmB9Ipn9gQVhKI4k) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [something4now](https://open.spotify.com/album/5gJWaMnvdKsuDYUWPEDpgj) | 3:23 | 2023-11-16 | 2023-11-24 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [Aquarian](https://open.spotify.com/track/6GRA2LEkJfciXHSSKXaQC9) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 3:13 | 2023-08-10 | 2023-08-18 |
 | [Aran](https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Aran](https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1) | 5:42 | 2023-11-23 | 2023-12-01 |
 | [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 | 2023-08-10 | 2023-08-18 |
@@ -2131,7 +2132,7 @@
 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 | 2024-01-18 | 2024-01-26 |
 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 | 2023-11-09 | 2023-11-17 |
 | [Good Time](https://open.spotify.com/track/3xUJCZCQaCR6DxaTBSY8Go) | [Joan & the Giants](https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4) | [Good Time](https://open.spotify.com/album/67f2xHz3r2OOYXnl9l8vcg) | 3:28 | 2024-01-18 | 2024-01-26 |
-| [Good Times](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 | 2024-10-17 |  |
+| [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 | 2024-10-17 |  |
 | [Good to Know](https://open.spotify.com/track/0LWmdlIV12JSZ0ReoAlfSp) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/38mgE0EOY124eG4CqL32ii) | 2:42 | 2023-11-30 | 2023-12-08 |
 | [Good Try](https://open.spotify.com/track/5AFt5nLI61VoLSqM9u3fQ1) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Good Try](https://open.spotify.com/album/4qrZQNcJykHb4Vov3UP26D) | 3:09 | 2023-08-17 | 2023-08-25 |
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-10 | 2023-08-18 |
@@ -4901,6 +4902,7 @@
 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 | 2024-03-28 | 2024-04-05 |
 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 | 2024-03-28 | 2024-04-05 |
 | [STFAFM](https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF), [Arringarri](https://open.spotify.com/artist/1hhytzEX1fvHBNqB1JKfu1) | [NARA](https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT) | 4:01 | 2024-08-23 | 2024-08-30 |
+| [STFU](https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 1:44 | 2024-10-18 |  |
 | [STFU](https://open.spotify.com/track/0t0EfeuKC7KxM81YFG0TlX) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [STFU](https://open.spotify.com/album/23gd5mHihvt3OfxcCVXRAp) | 2:18 | 2024-10-17 |  |
 | [Stick Em Up](https://open.spotify.com/track/5VVAxypWN32ntmotudWks2) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [Tom Skeemask](https://open.spotify.com/artist/61pG6jB3yQmDwTGlOAY5JI) | [Stick Em Up](https://open.spotify.com/album/6aTNwya65cwJGXDkPUyFtc) | 2:06 | 2024-04-25 | 2024-05-03 |
 | [STICK EM UP!](https://open.spotify.com/track/62lIUtkIg8JQiaY8A5ysFq) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [STICK EM UP!](https://open.spotify.com/album/4kcXtoSn13sxeQH5mAJdIX) | 2:00 | 2024-06-20 | 2024-06-28 |

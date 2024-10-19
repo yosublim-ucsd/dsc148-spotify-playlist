@@ -301,6 +301,32 @@
     },
     {
       "album": {
+        "name": "Alelujah",
+        "url": "https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Alelujah",
+      "url": "https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3xovyf9YQeNiHusP6Z20Wv"
       },
@@ -2061,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "California Dreamin",
+        "url": "https://open.spotify.com/album/7hJoiwQn1zN1l6XVwVmjpU"
+      },
+      "artists": [
+        {
+          "name": "Subriser",
+          "url": "https://open.spotify.com/artist/51Ock9P3RhPvj5ifS0iOuh"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "California Dreamin",
+      "url": "https://open.spotify.com/track/6qkK3gxH5S6hF8S7SYVJsf"
+    },
+    {
+      "album": {
         "name": "California Sun",
         "url": "https://open.spotify.com/album/7rhpN6p8fIZ5DfpJhMT6Rj"
       },
@@ -2462,6 +2506,28 @@
       "duration_ms": 151475,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/59zeHS3oQNaXvjTBPrBhhC"
+    },
+    {
+      "album": {
+        "name": "Chasing Moonlight",
+        "url": "https://open.spotify.com/album/732MPXDUzoCHFE0QoWSVOY"
+      },
+      "artists": [
+        {
+          "name": "Ruffnux",
+          "url": "https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf"
+        },
+        {
+          "name": "Nattica",
+          "url": "https://open.spotify.com/artist/4xW2QOiEHzED1DK4YWtzp3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Chasing Moonlight",
+      "url": "https://open.spotify.com/track/0PvrtDBgRQ74ztSjaddIoR"
     },
     {
       "album": {
@@ -2878,6 +2944,28 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/5cQKZiky0dOtSVXpLqdGrx"
+      },
+      "artists": [
+        {
+          "name": "Spayds",
+          "url": "https://open.spotify.com/artist/0dGJSbhSMUOlL46QeN5vxy"
+        },
+        {
+          "name": "Sergio Ochoa",
+          "url": "https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145770,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1cLQVfRte5SBb2S0aPd444"
     },
     {
       "album": {
@@ -3642,6 +3730,24 @@
       "duration_ms": 144947,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/4OHXs82HQ65Ic5CLXK95rh"
+    },
+    {
+      "album": {
+        "name": "dream come true",
+        "url": "https://open.spotify.com/album/0qx2WRsEEOz5yyYK7Kow8A"
+      },
+      "artists": [
+        {
+          "name": "supwel",
+          "url": "https://open.spotify.com/artist/3QEjJCefGJTVNDg3fKswlx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "dream come true",
+      "url": "https://open.spotify.com/track/368c9AohAk9EkinItwSCrv"
     },
     {
       "album": {
@@ -4596,8 +4702,8 @@
           "url": "https://open.spotify.com/artist/7DvlkXXBfkWYjP80BWoG2U"
         },
         {
-          "name": "Moodah\u0421hillah",
-          "url": "https://open.spotify.com/artist/4kHO6xOElel3QYTt9rUV0x"
+          "name": "MoodahChillah",
+          "url": "https://open.spotify.com/artist/0zmKOzVi2uoECkKnVLuiIj"
         }
       ],
       "date_added": "2024-09-20",
@@ -5670,6 +5776,24 @@
       "duration_ms": 130909,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv"
+    },
+    {
+      "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/1D7UWz4wjz8IQF2brMBHOa"
+      },
+      "artists": [
+        {
+          "name": "Tom Platts",
+          "url": "https://open.spotify.com/artist/59UD0lnD3PozhhXlMQcAgP"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "Here For It All",
+      "url": "https://open.spotify.com/track/28O7jeuU5qSlCLyB7DJMqy"
     },
     {
       "album": {
@@ -8761,6 +8885,32 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/04XdUm9jo68vDw8FVimIo4"
+      },
+      "artists": [
+        {
+          "name": "nineveh.",
+          "url": "https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU"
+        },
+        {
+          "name": "Lonelysoul.",
+          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
+        },
+        {
+          "name": "CJAKJ",
+          "url": "https://open.spotify.com/artist/2btZobO5cyVfhbEVMOITOl"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137076,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/0Mwie7rYZP4ENgcxNTjRFV"
+    },
+    {
+      "album": {
         "name": "Lucid Dreaming",
         "url": "https://open.spotify.com/album/63myJurWwF0sRtlKqvbsZ2"
       },
@@ -9188,6 +9338,28 @@
       "duration_ms": 143606,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2IHaWOuaQMwohXENwws9Hv"
+    },
+    {
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/7HFC00VfckLNnfWqlAQuSN"
+      },
+      "artists": [
+        {
+          "name": "Fake ID",
+          "url": "https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206557,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/648tWKHqTb1jgcqmr6pHe0"
     },
     {
       "album": {
@@ -10698,6 +10870,24 @@
       "duration_ms": 157500,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/2MU8oxytitanfBLhZwfAFY"
+    },
+    {
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/32kGZgnbAVcsUSA61he3zT"
+      },
+      "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/56D0jZ2r8ESxoMvqXodcbL"
     },
     {
       "album": {
@@ -12878,6 +13068,24 @@
       "duration_ms": 188869,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6nJFd7o25QSjV14rIFIMND"
+    },
+    {
+      "album": {
+        "name": "Sweet Escape",
+        "url": "https://open.spotify.com/album/1DkLZ79J98z54DHFFhbO53"
+      },
+      "artists": [
+        {
+          "name": "aericsn",
+          "url": "https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sweet Escape",
+      "url": "https://open.spotify.com/track/4WlZNZ9ArFBiftZ29qDYeB"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Navidad Cristiana](https://open.spotify.com/playlist/37i9dQZF1DX4bpoWO7sjH5)
 
-> Música navideña para celebrar el nacimiento de nuestro Salvador.
+> Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-210 songs - 13 hr 57 min
+211 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Regalo Celestial](https://open.spotify.com/track/24Mxt8HITs6bxAEBgDqbt2) | [Yoly Rodríguez](https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:04 | 2021-12-24 | 2024-04-19 |
 | [El Regalo Celestial](https://open.spotify.com/track/7hLD9HiwV1lkeqQGfyANPW) | [Yoly Rodríguez](https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:04 | 2021-12-24 |  |
 | [Ella Dijo Sí](https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Ella Dijo Sí](https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv) | 2:46 | 2021-12-24 |  |
+| [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 | 2024-10-18 |  |
 | [Emmanuel \- Radio Edit](https://open.spotify.com/track/7G1XliJqhJOOu3gjVvQ1uG) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2), [ENROCA](https://open.spotify.com/artist/5SyPyaMiQGvIlsrg4s2dPy) | [Emmanuel \(Radio Edit\)](https://open.spotify.com/album/3QOBk0cVV6JcDipDOxIKSh) | 4:55 | 2023-12-06 |  |
 | [Emmanuel \- Radio Version](https://open.spotify.com/track/4xK5WBymQU0EqDl52bWtDm) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Emmanuel \(Radio Version\)](https://open.spotify.com/album/0FNDIjl0hgxR1c1t9p4WYz) | 4:52 | 2021-12-24 |  |
 | [En esta navidad](https://open.spotify.com/track/7cpeaa1fqbSNK9K6GQY8nO) | [Patricio Vasquez](https://open.spotify.com/artist/7rvS0KknOkxbvgeQyHi5gW) | [En esta navidad](https://open.spotify.com/album/2nAj98jyxcBsNghaKkKnaD) | 3:40 | 2022-12-10 |  |
@@ -92,7 +93,7 @@
 | [Hermoso Nombre](https://open.spotify.com/track/3dpyRy7JS4ViYghiQRvqrd) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Coro Lakewood en Español](https://open.spotify.com/artist/3LNf98S4xx74Vg00pJCZkY) | [Hermoso Nombre](https://open.spotify.com/album/6a5ttOQeBh6PQLxAGyhK2K) | 6:24 | 2023-12-06 |  |
 | [Hosanna \- Nació el Salvador](https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Hosanna \(Nació el Salvador\)](https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy) | 3:53 | 2021-12-24 |  |
 | [Hoy Es Navidad](https://open.spotify.com/track/5GTAhTQ8vZUGVrdsDsIAjv) | [Natalie Blanco](https://open.spotify.com/artist/3z5wKiXD8gQOuSZx01dmmT) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:48 | 2021-12-24 | 2024-04-19 |
-| [Hoy Es Navidad](https://open.spotify.com/track/5bIR6Pu8jPNNZfCOg8hOpI) | [Natalie Blanco](https://open.spotify.com/artist/3z5wKiXD8gQOuSZx01dmmT) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:48 | 2021-12-24 |  |
+| [Hoy Es Navidad](https://open.spotify.com/track/5bIR6Pu8jPNNZfCOg8hOpI) | [Natalie Blanco](https://open.spotify.com/artist/3z5wKiXD8gQOuSZx01dmmT) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:48 | 2021-12-24 | 2024-10-19 |
 | [Hoy Ha Nacido el Salvador](https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH) | [Ivan Diaz](https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu) | [Hoy Ha Nacido el Salvador](https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm) | 5:29 | 2023-12-15 |  |
 | [Hoy puede ser Navidad](https://open.spotify.com/track/09C7fTa3TJuIi8mOv163yw) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/0ZlxVLjxem18Yk5WkiYswK) | 5:28 | 2022-12-10 | 2023-03-23 |
 | [Hoy Puede Ser Navidad](https://open.spotify.com/track/1WTqYoiusgeMYeOeGz4xSi) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD), [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/7AAySYmxfLbTfxTNGhR3e0) | 5:28 | 2021-12-24 |  |

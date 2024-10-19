@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 477 likes - 338 songs - 15 hr 31 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 478 likes - 338 songs - 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 122 | [introspection](https://open.spotify.com/track/6KIXw25B3saNpjVrVbNnp5) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl), [hiraeth vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [introspection](https://open.spotify.com/album/3ooMRSRwCMeD9o60O9xW5A) | 1:49 |
 | 123 | [time to dream](https://open.spotify.com/track/66pUOGUzCXu9aNRJ8vyPrw) | [we still have time to dream](https://open.spotify.com/artist/65CdirvsEPDxb0X1jD5J22) | [we still have time to dream](https://open.spotify.com/album/0fmwMHXCtE9FAHtfJNymaK) | 1:44 |
 | 124 | [Hampen Sø \- Take 2](https://open.spotify.com/track/5jadWIA2bHDcVfHxpQvQYQ) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 6:59 |
-| 125 | [Idea 10](https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE) | 2:08 |
+| 125 | [Idea 10](https://open.spotify.com/track/3AfD6kwSIp17AfESQqBRDx) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/2OmmJDqS5hsoY6Nbos3fRk) | 2:08 |
 | 126 | [Nocturnal no\. 3](https://open.spotify.com/track/2P90HTo6pvVuG62C1fwrWT) | [Bettina Hummler](https://open.spotify.com/artist/1W87kQ3emPG0HkiBBuOthS), [Sueno](https://open.spotify.com/artist/5LqQjFKdMHRJkhIe8tC7ym) | [Nocturnal no\. 3](https://open.spotify.com/album/0XcaABlctbrT6qLD0BvfyG) | 2:38 |
 | 127 | [Cornfield Chase](https://open.spotify.com/track/4fhFlHloSh3y8qC3z7teXt) | [Dorian Marko](https://open.spotify.com/artist/4aajGre4nwTLmu8tbZ2vom) | [Cornfield Chase](https://open.spotify.com/album/0rf5gS71mCIj3rvrzfKHTv) | 2:07 |
 | 128 | [Gentle](https://open.spotify.com/track/0yZ7YH7sgvZplnP4vGySRv) | [Leonard Lehmann](https://open.spotify.com/artist/2RjlAtCzmNvXw3c2Cryevh) | [Gentle](https://open.spotify.com/album/2dNWja5OHnNIrcpS04jtKa) | 2:00 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 337 | [Horizon](https://open.spotify.com/track/5cyDDOI8VTNwruABo72u1U) | [Eskricke](https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt) | [Horizon](https://open.spotify.com/album/1VjMZ7Zq9fn4wJlm63hwHe) | 2:18 |
 | 338 | [Stay](https://open.spotify.com/track/5TdVu91MvGkMnJ77OFIrkQ) | [Julie Hanney](https://open.spotify.com/artist/13K0QZ02xfsIptclG3NE5d) | [Stay](https://open.spotify.com/album/4M8qeP3NA1fyCUIiNlr0qr) | 2:56 |
 
-Snapshot ID: `AAAFny1wTGWFWwE7X9/2x39wmNp87yLE`
+Snapshot ID: `AAAFpgCQ/udQUknmcikcCSmrw2k6AQ5o`

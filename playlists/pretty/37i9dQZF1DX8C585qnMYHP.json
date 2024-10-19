@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Mabe Fratti on cover. Artwork by Thami Nabil",
-  "num_followers": 174498,
+  "num_followers": 174575,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Heat Ray: The Archimedes Project",
@@ -917,38 +933,6 @@
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "light dreams",
@@ -967,6 +951,22 @@
       "duration_ms": 91200,
       "name": "light dreams",
       "url": "https://open.spotify.com/track/3p80zUJZCSijOoENzaN0qR"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1249,20 +1249,20 @@
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Moon in Gemini",
-        "url": "https://open.spotify.com/album/6kDMzjTu5l7kpNcWE1h5mz"
+        "name": "Pokemans",
+        "url": "https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi"
       },
       "artists": [
         {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Most Beautiful Imaginary Dialogues",
-      "url": "https://open.spotify.com/track/3ENlWQhqR0eugErEW6w74x"
+      "duration_ms": 185360,
+      "name": "Pokemans",
+      "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1281,20 +1281,20 @@
       "url": "https://open.spotify.com/track/6B8LVrElkXeTdIJooLtMTP"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Pokemans",
-        "url": "https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi"
+        "name": "Moon in Gemini",
+        "url": "https://open.spotify.com/album/6kDMzjTu5l7kpNcWE1h5mz"
       },
       "artists": [
         {
-          "name": "Anna Butterss",
-          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Pokemans",
-      "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
+      "duration_ms": 236000,
+      "name": "Most Beautiful Imaginary Dialogues",
+      "url": "https://open.spotify.com/track/3ENlWQhqR0eugErEW6w74x"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
+        "name": "Side A: The Rude Interruption of Fear",
+        "url": "https://open.spotify.com/album/3mZpSDeaxkDiaw6lOEcqGj"
+      },
+      "artists": [
+        {
+          "name": "Bowl",
+          "url": "https://open.spotify.com/artist/3g2APnmJ1jNf0WDYF4rZCm"
+        }
+      ],
+      "duration_ms": 238503,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/0yp6SApXs0juwNYA1Qgvnk"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
         "name": "The Needle",
         "url": "https://open.spotify.com/album/3HxgQd8c61r196YYV3ddzH"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Side A: The Rude Interruption of Fear",
-        "url": "https://open.spotify.com/album/3mZpSDeaxkDiaw6lOEcqGj"
-      },
-      "artists": [
-        {
-          "name": "Bowl",
-          "url": "https://open.spotify.com/artist/3g2APnmJ1jNf0WDYF4rZCm"
-        }
-      ],
-      "duration_ms": 238503,
-      "name": "Parasites",
-      "url": "https://open.spotify.com/track/0yp6SApXs0juwNYA1Qgvnk"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "Amateur",
         "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 115764,
       "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
       "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Dots",
-        "url": "https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37"
-      },
-      "artists": [
-        {
-          "name": "6zm",
-          "url": "https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ"
-        }
-      ],
-      "duration_ms": 448227,
-      "name": "Dots Revisited",
-      "url": "https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1445,20 +1429,20 @@
       "url": "https://open.spotify.com/track/72tsEmvUXRR7MxFFCNxTIh"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
+      "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Sundown Muse",
-        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
+        "name": "Dots",
+        "url": "https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37"
       },
       "artists": [
         {
-          "name": "ERHA",
-          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
+          "name": "6zm",
+          "url": "https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ"
         }
       ],
-      "duration_ms": 261004,
-      "name": "Sundown Muse",
-      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
+      "duration_ms": 448227,
+      "name": "Dots Revisited",
+      "url": "https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej"
     },
     {
       "added_at": "2024-09-18 04:00:00",
@@ -1477,20 +1461,20 @@
       "url": "https://open.spotify.com/track/1cDGNpfKqMqXVDsx9cZcyd"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Cmad",
-        "url": "https://open.spotify.com/album/6EwXI5ZxoVH8KwBxuFXiC7"
+        "name": "Sundown Muse",
+        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
       },
       "artists": [
         {
-          "name": "Long Legged Creatures",
-          "url": "https://open.spotify.com/artist/7gayjJRBZkCP9mxgYCyf67"
+          "name": "ERHA",
+          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
         }
       ],
-      "duration_ms": 295392,
-      "name": "Cmad",
-      "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
+      "duration_ms": 261004,
+      "name": "Sundown Muse",
+      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1511,6 +1495,22 @@
       "duration_ms": 498000,
       "name": "(The Circle) of Compassion",
       "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Cmad",
+        "url": "https://open.spotify.com/album/6EwXI5ZxoVH8KwBxuFXiC7"
+      },
+      "artists": [
+        {
+          "name": "Long Legged Creatures",
+          "url": "https://open.spotify.com/artist/7gayjJRBZkCP9mxgYCyf67"
+        }
+      ],
+      "duration_ms": 295392,
+      "name": "Cmad",
+      "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
     },
     {
       "added_at": "2024-10-02 15:46:42",

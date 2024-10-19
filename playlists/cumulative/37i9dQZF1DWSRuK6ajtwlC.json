@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Primos del Este, Nivel en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Pocima Norte\u00f1a en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -470,6 +470,24 @@
       "duration_ms": 181984,
       "name": "Chelas y Besos",
       "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
+    },
+    {
+      "album": {
+        "name": "Chingo de Amor",
+        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174645,
+      "name": "Chingo de Amor",
+      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
     },
     {
       "album": {
@@ -1832,6 +1850,24 @@
       "duration_ms": 173826,
       "name": "Lo Mejor De Lo Mejor",
       "url": "https://open.spotify.com/track/5gpgYBVx8DAXwW4T6kFqc5"
+    },
+    {
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160992,
+      "name": "Lo Que Yo Necesitaba",
+      "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
     },
     {
       "album": {

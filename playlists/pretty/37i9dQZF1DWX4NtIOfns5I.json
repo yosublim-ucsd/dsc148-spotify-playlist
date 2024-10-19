@@ -1,13 +1,45 @@
 {
-  "description": "new music from baby bugs, mxmtoon, maggie rogers & more \ud83d\udc1b\ud83c\udf42",
-  "num_followers": 120238,
+  "description": "someone who'll love me the way that I am \ud83d\udcad",
+  "num_followers": 120437,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw/ezwAAAADKclKc5fmyVoPNifuBxhvn",
+  "snapshot_id": "ZxHdQAAAAADHPlpoGgPf+I31UTjocVQO",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "added_at": "2024-10-16 15:42:07",
+      "album": {
+        "name": "the way that i am",
+        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 177149,
+      "name": "the way that i am",
+      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
+    },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
@@ -25,20 +57,72 @@
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
-      "added_at": "2024-10-16 15:42:07",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "the way that i am",
-        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
+        "name": "Over Your Head",
+        "url": "https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI"
       },
       "artists": [
         {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
         }
       ],
-      "duration_ms": 177149,
-      "name": "the way that i am",
-      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
+      "duration_ms": 196438,
+      "name": "Over Your Head",
+      "url": "https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "pretty out",
+        "url": "https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG"
+      },
+      "artists": [
+        {
+          "name": "frans asthma",
+          "url": "https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL"
+        },
+        {
+          "name": "Qozy",
+          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "pretty out",
+      "url": "https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "all I know",
+        "url": "https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "duration_ms": 194166,
+      "name": "all I know",
+      "url": "https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -71,6 +155,22 @@
       "duration_ms": 145938,
       "name": "My Corpse Friend",
       "url": "https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/45zRBFb2wD4XDuZOBJqbEH"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/09vsySrvxLLyJKzeNAXjQj"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -123,6 +223,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "want + riverflies",
+        "url": "https://open.spotify.com/album/2QalSpFbqjs1wtmmNTmvYJ"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "duration_ms": 162673,
+      "name": "riverflies",
+      "url": "https://open.spotify.com/track/1EIag2DCfCbeYV0V0yiB3i"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "October Moon",
         "url": "https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp"
       },
@@ -135,22 +251,6 @@
       "duration_ms": 246624,
       "name": "October Moon",
       "url": "https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -169,20 +269,20 @@
       "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "want + riverflies",
-        "url": "https://open.spotify.com/album/2QalSpFbqjs1wtmmNTmvYJ"
+        "name": "She Calls Me",
+        "url": "https://open.spotify.com/album/3Yi9nNzRpNOAX2JBZREY0r"
       },
       "artists": [
         {
-          "name": "deeper sleeper",
-          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
         }
       ],
-      "duration_ms": 162673,
-      "name": "riverflies",
-      "url": "https://open.spotify.com/track/1EIag2DCfCbeYV0V0yiB3i"
+      "duration_ms": 144153,
+      "name": "She Calls Me",
+      "url": "https://open.spotify.com/track/1yUMO0WA3qrHItTdtCq3hl"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -217,6 +317,38 @@
       "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Live From Mother Earth",
+        "url": "https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 176475,
+      "name": "Dig Myself Out",
+      "url": "https://open.spotify.com/track/70JmaiNir097KCH7yInIC1"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Goodbye to the Valley Low - Side B",
@@ -247,22 +379,6 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-10-01 21:03:04",
@@ -313,6 +429,22 @@
       "url": "https://open.spotify.com/track/7AHX0F99w4x23uSZihklZ6"
     },
     {
+      "added_at": "2024-10-02 20:42:21",
+      "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Starting Over",
@@ -359,22 +491,6 @@
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-10-02 20:42:21",
-      "album": {
-        "name": "A Lot More Free",
-        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "A Lot More Free",
-      "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
     },
     {
       "added_at": "2024-10-09 16:53:02",
@@ -455,6 +571,38 @@
       "duration_ms": 176647,
       "name": "Sinking Boat",
       "url": "https://open.spotify.com/track/1jvOjD7K9707WeA99qWyNC"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN"
+      },
+      "artists": [
+        {
+          "name": "Sister.",
+          "url": "https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY"
+        }
+      ],
+      "duration_ms": 267540,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -605,22 +753,6 @@
       "url": "https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "wishing for you",
-        "url": "https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl"
-      },
-      "artists": [
-        {
-          "name": "deeper sleeper",
-          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "wishing for you",
-      "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Shawn",
@@ -651,22 +783,6 @@
       "duration_ms": 169840,
       "name": "feels like i'm changing",
       "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Slim Pickins",
-      "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -701,22 +817,6 @@
       "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Molly, I\u2019m Coming Around",
-        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 161519,
-      "name": "Molly, I'm Coming Around",
-      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Songs of Origin",
@@ -747,26 +847,6 @@
       "duration_ms": 187633,
       "name": "Heartbreak Rodeo",
       "url": "https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU"
-    },
-    {
-      "added_at": "2024-08-20 17:39:09",
-      "album": {
-        "name": "i need you more",
-        "url": "https://open.spotify.com/album/6DQbYfEsxLuUMcdNZ9uULz"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        },
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 191921,
-      "name": "i need you more",
-      "url": "https://open.spotify.com/track/0PI8WpeKqf32pC0X1jmNYc"
     },
     {
       "added_at": "2024-08-26 14:30:05",
@@ -1123,22 +1203,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 210658,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Heart of the Artichoke",
         "url": "https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK"
       },
@@ -1411,22 +1475,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -1619,54 +1667,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Lonely Island",
-        "url": "https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Lonely Island",
-      "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "4runner",
         "url": "https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD"
       },
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "my friend's toyota",
-        "url": "https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "my friend's toyota",
-      "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Fruit from the Trees",
         "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
       },
@@ -1727,54 +1711,6 @@
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "kid",
-        "url": "https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "kid",
-      "url": "https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Lady Loveless",
-        "url": "https://open.spotify.com/album/0PukY078qgKTdgOgidmdhy"
-      },
-      "artists": [
-        {
-          "name": "Atticus Walker",
-          "url": "https://open.spotify.com/artist/5KNZrn88ZyzzpN8KqGrRgo"
-        }
-      ],
-      "duration_ms": 106857,
-      "name": "Lady Loveless",
-      "url": "https://open.spotify.com/track/1Tfm1Y148BjWWDVeAZsni3"
     }
   ],
   "unique_name": "juniper",

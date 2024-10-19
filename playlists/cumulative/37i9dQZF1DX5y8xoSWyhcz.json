@@ -3163,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Cats On The Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Cats On The Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -5338,7 +5356,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 187815,
       "name": "Down (Exit Song)",
       "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
@@ -6981,6 +6999,24 @@
     },
     {
       "album": {
+        "name": "Forgive & Forget",
+        "url": "https://open.spotify.com/album/7t37CKgF9GtNTdkFExxegB"
+      },
+      "artists": [
+        {
+          "name": "mathijs.iv",
+          "url": "https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Forgive & Forget",
+      "url": "https://open.spotify.com/track/0Rxwr5KJUwAq5SMPtMTq0g"
+    },
+    {
+      "album": {
         "name": "bad at breakups",
         "url": "https://open.spotify.com/album/11Dp555Nxhuawzz8efXgk4"
       },
@@ -8042,6 +8078,24 @@
       "duration_ms": 140997,
       "name": "green felt",
       "url": "https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC"
+    },
+    {
+      "album": {
+        "name": "green light",
+        "url": "https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "green light",
+      "url": "https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ"
     },
     {
       "album": {
@@ -10672,7 +10726,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210500,
       "name": "im gonna kill you (feat. Sahati)",
       "url": "https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj"
@@ -20551,6 +20605,28 @@
     },
     {
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        },
+        {
+          "name": "Kainalu",
+          "url": "https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211816,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk"
+    },
+    {
+      "album": {
         "name": "the overthinker",
         "url": "https://open.spotify.com/album/2dFilrvVa8lmEQ3H7ipSLv"
       },
@@ -21188,7 +21264,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 202000,
       "name": "Too High To Cry",
       "url": "https://open.spotify.com/track/7lUIAkNykW5nQhCIBGiQ09"
@@ -21556,7 +21632,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"

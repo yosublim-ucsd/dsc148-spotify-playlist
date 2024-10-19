@@ -4,7 +4,7 @@
 
 > Brand new music from JADE \(pictured\), Jazzy, Bon Iver and more!
 
-12,983 songs - 29 day 5 hr 0 min
+12,986 songs - 29 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-06 | 2024-06-14 |
 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-03-29 | 2024-04-05 |
 | [April, I'm Dying](https://open.spotify.com/track/5MHFJVkIvhFA9qhkixxwJe) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Dead Forever](https://open.spotify.com/album/73j7d7GaTzG55d34VTVj7Y) | 4:56 | 2024-09-05 | 2024-09-13 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-13 | 2024-06-21 |
 | [Arbitrary Task](https://open.spotify.com/track/0JasEOAEqbm3vgH0lxMgMW) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Arbitrary Task](https://open.spotify.com/album/7drJvvNTmN4Vtwil9LaiMe) | 2:16 | 2023-03-03 | 2023-03-10 |
 | [Arcade Nights](https://open.spotify.com/track/1IPJAWE8RTFYL0D1HKCpIW) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Arcade Nights](https://open.spotify.com/album/6A0YoYIG7LvKKcav6rn7sJ) | 2:53 | 2023-06-29 | 2023-07-07 |
@@ -3971,6 +3972,7 @@
 | [Forever and Ever and Always](https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Forever and Ever and Always](https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM) | 2:20 | 2022-12-02 | 2022-12-09 |
 | [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 | 2023-10-12 | 2023-10-20 |
 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:14 | 2023-06-29 | 2023-07-07 |
+| [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2024-10-18 |  |
 | [Foreverland \[Feat\. Laura Mvula & Chris Dave\] \- Single Edit](https://open.spotify.com/track/1iYqpkxXgdhE38P3cIF79v) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Foreverland \[Feat\. Laura Mvula & Chris Dave\]](https://open.spotify.com/album/4I6MUwu9LVlOccDCRzRbJ6) | 5:03 | 2023-11-10 | 2023-11-17 |
 | [Foreword](https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 6:43 | 2023-04-20 | 2023-04-28 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-11 | 2024-04-19 |
@@ -8544,6 +8546,7 @@
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-01 | 2023-06-09 |
 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-05-18 | 2023-05-26 |
 | [Overdue](https://open.spotify.com/track/4zzks3F2spEvpL7NrVShQb) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Overdue](https://open.spotify.com/album/4gXvKI8LMFzHp77oLHub1a) | 3:26 | 2023-08-17 | 2023-08-25 |
+| [OVERFLOW](https://open.spotify.com/track/3VYdCYG5hgqBlHnjKBMW9U) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [ANGLIA SQUARE](https://open.spotify.com/album/1qfw86z1LeGnrpMM7EtmWf) | 4:09 | 2024-10-17 |  |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-18 | 2024-07-27 |
 | [Overgrown](https://open.spotify.com/track/5jSeRMnM20bsVnqI86NsYa) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Overgrown](https://open.spotify.com/album/3E7HLysdFPM1yBwEXY6Qwc) | 4:28 | 2024-04-11 | 2024-04-19 |
 | [Overnight](https://open.spotify.com/track/5LBJcnjiombzIHeWOvucut) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Adam Griffin](https://open.spotify.com/artist/7nttDj0mkM2evqtn8XzYiO) | [Overnight](https://open.spotify.com/album/4BGi0QFqRLnXAegQb4k4wX) | 2:42 | 2022-10-28 | 2022-11-04 |

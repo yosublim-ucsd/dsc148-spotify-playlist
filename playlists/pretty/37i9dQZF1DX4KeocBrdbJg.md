@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > te tqm Moo Deng ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,071 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,108 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 4 | [Bugambilia](https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Bugambilia](https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw) | 3:09 |
 | 5 | [MONTAGEM VOZES PROFUNDAS \- Ultra Slowed](https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2) | [MONTAGEM VOZES PROFUNDAS \(Remixes\)](https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS) | 2:24 |
 | 6 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
-| 7 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo), [Maxximo Dj](https://open.spotify.com/artist/3WiC8IVeyo5OQ9RCDbwNQ4), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
+| 7 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo), [Maxximo Dj](https://open.spotify.com/artist/12PDaXrPNMYQsQLnSnDaSS), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
 | 8 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 |
 | 9 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 |
 | 10 | [Easy Rider](https://open.spotify.com/track/0Wa5sHWcFlZNjyALlmLhQG) | [Royal Intention](https://open.spotify.com/artist/72yWzDmSEaSArHnLcRY6SS) | [Easy Rider](https://open.spotify.com/album/4QiLsDYI2Ec42hhx0UyzEC) | 3:05 |

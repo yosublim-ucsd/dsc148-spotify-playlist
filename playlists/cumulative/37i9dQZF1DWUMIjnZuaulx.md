@@ -2,9 +2,9 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:6ZyV955Ypf3JAKInn1a0dt">Tamela Mann</a>
+> New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:0xmUZqkqmJfezc0fzyfboj"> Sinmidele </a>
 
-594 songs - 2 day 3 hr 12 min
+595 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Hand On Me](https://open.spotify.com/track/5hJa7DKaWDULhq3C4TbZG7) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Hand On Me](https://open.spotify.com/album/4plhaQtjp67Isr59V8Pf8w) | 4:20 | 2024-09-06 | 2024-10-12 |
 | [Have It All](https://open.spotify.com/track/7oJ3d4BceZHyZjzyTMAqGc) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE), [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY) | [Have It All](https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX) | 3:56 | 2023-07-28 | 2023-09-16 |
 | [He Always Wins](https://open.spotify.com/track/1izX0ivQKZ1ZIafjXatk2t) | [Ray Bady](https://open.spotify.com/artist/6Dt8PIblzvjwue6gerXmAk), [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx), [Jazmine Lynn Jones](https://open.spotify.com/artist/3cvHEyhv372nQPZfn6u1e2) | [He Always Wins](https://open.spotify.com/album/2F4DEZeeQvjfufgwrbhiXp) | 3:49 | 2022-06-03 | 2022-10-30 |
-| [He Came Through \(PMJ Trap Praise Break\)](https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got Away](https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf) | 5:47 | 2024-04-19 |  |
+| [He Came Through \(PMJ Trap Praise Break\)](https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got Away](https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf) | 5:47 | 2024-04-19 | 2024-10-19 |
 | [He Can Handle It \- Live](https://open.spotify.com/track/5E6qPtR1Riful1E9rZUNjx) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [He Can Handle It \(Live\)](https://open.spotify.com/album/1GzTFUmq8Kd3f6j3IZosN7) | 5:09 | 2023-04-28 | 2023-08-19 |
 | [He Did It for Me \- Live](https://open.spotify.com/track/4Z8HVDwVQR2uu5nd1v95CK) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [He Did It for Me \(Live\)](https://open.spotify.com/album/75mPsKFQ2OBXqc5lRYk1t2) | 6:50 | 2022-02-18 | 2022-07-02 |
 | [He Is](https://open.spotify.com/track/2Jhp23T8dpECrmVbschlhM) | [Volney Morgan & New\-Ye](https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN) | [He Is](https://open.spotify.com/album/2gmvO15Ce9ZfAU4ZHVxN6G) | 3:07 | 2024-02-09 | 2024-03-09 |
@@ -484,6 +484,7 @@
 | [TEST](https://open.spotify.com/track/3EWKaaQkJkRRB9DdyoOb7Q) | [Cardell Booker](https://open.spotify.com/artist/3PmPeaqXDIRytYli986BMX) | [TEST](https://open.spotify.com/album/6VRP6XwZd2ChTnRLC9LmEu) | 3:21 | 2023-09-08 | 2023-10-14 |
 | [Testify](https://open.spotify.com/track/3yFSCi5cT3BoZmQLPilRVL) | [Nicole Harris](https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8) | [Testify](https://open.spotify.com/album/2q0V47HUyl2owPU4prhlpj) | 5:03 | 2022-02-18 | 2022-10-08 |
 | [Testimony](https://open.spotify.com/track/509Mlx0bUvu7R9x7NImszq) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Testimony](https://open.spotify.com/album/28RSauRhhuS4vEiQvRhd61) | 3:39 | 2023-02-10 | 2023-03-25 |
+| [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 |  |
 | [Thank Him](https://open.spotify.com/track/4XsjiumgbNRKmROyuxa9is) | [Ted & Sheri](https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN) | [Thank Him](https://open.spotify.com/album/31B6RB0Rmk5ofDM5aTkoCf) | 4:03 | 2022-10-07 | 2023-12-02 |
 | [Thank You](https://open.spotify.com/track/4qFYFJA0tDNfn4a9AqGhiV) | [Stephanie Summers](https://open.spotify.com/artist/5BFr3GdxQ2Z44JhIrRsi7I) | [Mighty Strong God](https://open.spotify.com/album/0GO4wawcRCuqHTzrmB7Kn3) | 5:45 | 2022-02-18 | 2023-01-21 |
 | [Thank You So Much \- Live](https://open.spotify.com/track/3ykd2u6fL0lkHjJl5eAIEo) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [The Outpour Experience](https://open.spotify.com/album/51EpkEZXiILf48DKMXVpxP) | 3:43 | 2022-03-11 | 2023-03-18 |

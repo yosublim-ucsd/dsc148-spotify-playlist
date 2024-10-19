@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,041,838 likes - 100 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,047,226 likes - 100 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 59 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 |
 | 60 | [BRUXO FANTASMA](https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [BRUXO FANTASMA](https://open.spotify.com/album/09xRsRc7pX399wCGElOfMT) | 1:28 |
 | 61 | [KRUSH BANDICOOT](https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [KRUSH BANDICOOT](https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf) | 1:37 |
-| 62 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo), [Maxximo Dj](https://open.spotify.com/artist/3WiC8IVeyo5OQ9RCDbwNQ4), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
+| 62 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo), [Maxximo Dj](https://open.spotify.com/artist/12PDaXrPNMYQsQLnSnDaSS), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
 | 63 | [MONTAGEM VOZES PROFUNDAS \- Ultra Slowed](https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2) | [MONTAGEM VOZES PROFUNDAS \(Remixes\)](https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS) | 2:24 |
 | 64 | [Louca Encubada](https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Louca Encubada](https://open.spotify.com/album/33FVoSEMQ47oaf4FYQURpL) | 1:59 |
 | 65 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 |

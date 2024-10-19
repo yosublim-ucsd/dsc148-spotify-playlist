@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/332714?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,198 likes - 89 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,225 likes - 89 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 53 | [ゴーストタウン](https://open.spotify.com/track/5kBZipGhR4RxvVNLUQhMti) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [ゴーストタウン](https://open.spotify.com/album/1SOx7oafeIKws2x7ixtDqj) | 3:00 |
 | 54 | [カンタンミュージック](https://open.spotify.com/track/4rnvQyfrahBidXHGuzi5rk) | [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf) | [カンタンミュージック](https://open.spotify.com/album/1dGFGfLlZp3SfnQVQaJJEt) | 1:40 |
 | 55 | [7](https://open.spotify.com/track/4mC89qjoyPrT39oRKNX9Lt) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [7](https://open.spotify.com/album/6kvndxfdqrM13ConnAR0ve) | 3:13 |
-| 56 | [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間 龍星](https://open.spotify.com/artist/0Hx30KghTTFuHiM6bF6SXp) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 |
+| 56 | [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 |
 | 57 | [Girigiri Tamotteru](https://open.spotify.com/track/4NmwhmE98m8OBDTrElbxuR) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [Girigiri Tamotteru](https://open.spotify.com/album/4WLkWGvjL4eNmNZzCAtNhJ) | 3:14 |
 | 58 | [Holiday](https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [For Life](https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK) | 3:28 |
 | 59 | [あくどい](https://open.spotify.com/track/6Yv4uDraKDpu6bMo0b7si8) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq), [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [あくどい](https://open.spotify.com/album/6cBSAxHfrsxLk5bkwQ0JRA) | 3:26 |

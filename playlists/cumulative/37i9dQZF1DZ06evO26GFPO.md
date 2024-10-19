@@ -2,7 +2,7 @@
 
 ### [This Is LUDMILLA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26GFPO)
 
-> This is LUDMILLA\. The essential tracks, all in one playlist.
+> This is LUDMILLA\. Todos os maiores hits em uma só playlist.
 
 80 songs - 4 hr 51 min
 

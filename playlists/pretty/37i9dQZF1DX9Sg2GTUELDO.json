@@ -1,6 +1,6 @@
 {
   "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Gin Lee",
-  "num_followers": 29338,
+  "num_followers": 29341,
   "original_name": "\u8d85\u7d1a\u5973\u8072",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-10-17 16:00:00",
       "album": {
+        "name": "\u6211\u5011\u53ea\u6709\u4e00\u5f80\u76f4\u524d",
+        "url": "https://open.spotify.com/album/2SHbIZWNt7hSzCal97SuXW"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "duration_ms": 216408,
+      "name": "\u6211\u5011\u53ea\u6709\u4e00\u5f80\u76f4\u524d",
+      "url": "https://open.spotify.com/track/5QDclSp0IOj9YI4RBUxX2n"
+    },
+    {
+      "added_at": "2024-10-17 16:00:00",
+      "album": {
         "name": "\u7576\u5175\u7684\u81ea\u6211\u4fee\u990a",
         "url": "https://open.spotify.com/album/1X5cen2hFfI6V1Ul9COBBa"
       },
@@ -87,6 +103,22 @@
       "duration_ms": 232500,
       "name": "\u4e00\u7d1a\u4fdd\u8b77\u52d5\u7269",
       "url": "https://open.spotify.com/track/1KAZnFBHFPXwXvJYWsGmrx"
+    },
+    {
+      "added_at": "2024-10-17 16:00:00",
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1GeDkJnIjkFUQUdhFUBnkV"
+      },
+      "artists": [
+        {
+          "name": "Lokyi@EOS",
+          "url": "https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N"
+        }
+      ],
+      "duration_ms": 204983,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/5d8ojsT9pv2WstWgjeUe6i"
     },
     {
       "added_at": "2024-10-17 16:00:00",

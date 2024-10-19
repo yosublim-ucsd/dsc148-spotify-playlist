@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,297 likes - 20 songs - 1 hr 23 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,300 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Work of Art](https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [A Work of Art \(feat\. Shavo of System of a Down\)](https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp) | 3:58 |
-| 2 | [HEADCASE](https://open.spotify.com/track/4zaaH9aJmN4TRntzWuUWee) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [HEADCASE](https://open.spotify.com/album/50VUBEb1u98rlHBU7j9PaL) | 3:21 |
-| 3 | [Shackled To A Corpse](https://open.spotify.com/track/4bK6WdeZKtQQfXaPSmQf2l) | [NECKBREAKKER](https://open.spotify.com/artist/4bEKeZm7yf8aOqam6RI4cJ) | [Shackled To A Corpse](https://open.spotify.com/album/0LyMGTtVJPRTDpBd4u4jy2) | 4:18 |
-| 4 | [Hell Is Empty](https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Hell Is Empty](https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11) | 2:57 |
-| 5 | [Go Fly Away](https://open.spotify.com/track/7C05XnRPiQeuHUjxvFdzSI) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Go Fly Away](https://open.spotify.com/album/0Z8evNi3K9QW1CzYMYThP4) | 2:52 |
-| 6 | [LAST DANCE](https://open.spotify.com/track/6LvDy33aNgecB11B57iC3S) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [LAST DANCE](https://open.spotify.com/album/6zAYcCNI9sAftjuiMSXaKY) | 3:33 |
-| 7 | [But, What If I Fly?](https://open.spotify.com/track/2SdZ011bvuNC0N1Hlkel05) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [VII](https://open.spotify.com/album/00b7zevBTGFeLHK78D19sP) | 3:20 |
-| 8 | [Violet Sun](https://open.spotify.com/track/4X0QgZVEjxLrnZUKYDR89L) | [Hidden Mothers](https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn) | [Violet Sun](https://open.spotify.com/album/6yVkwK88ROgGc7ihRrhwCZ) | 6:13 |
-| 9 | [Lower Purpose](https://open.spotify.com/track/4qZXF8cijXbF3RTRRnwHRe) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Lower Purpose](https://open.spotify.com/album/6DN1UI8IOm2BE46LbK83GS) | 3:11 |
-| 10 | [Love and a Smoking Gun](https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Dream Machine \- The Lucid Edition](https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F) | 4:03 |
-| 11 | [Spit](https://open.spotify.com/track/0wlJR5bP5OkMztAuz8BUF9) | [street grease](https://open.spotify.com/artist/6YIFRunPWr8XLiAAwQxJaA) | [BLOODBATH1](https://open.spotify.com/album/5zZRVGhy8SdlueLvjXRhJe) | 2:54 |
-| 12 | [Ghosts](https://open.spotify.com/track/7b2KHBzv0lZ7a6Rd4I6llB) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Ghosts](https://open.spotify.com/album/323H8BXBSlvgD4uLKagdNh) | 3:59 |
-| 13 | [Freak Like You](https://open.spotify.com/track/4q7mJtc2OhDciIbotmEqvO) | [TheCityIsOurs](https://open.spotify.com/artist/5Zsmx4eGounUJ1Hqq6tIQs) | [Freak Like You](https://open.spotify.com/album/6Ru491NDIBtxbSnN3eoOiW) | 3:43 |
-| 14 | [Sandman](https://open.spotify.com/track/5w0e7sRMMTKgJphpfr11oF) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Sandman](https://open.spotify.com/album/0AQpexEpqOXWsGeKBmnb9F) | 3:42 |
-| 15 | [Embrace the Lie](https://open.spotify.com/track/1Fx6tUaQT4jlBMOzoov8Ma) | [The Gates Of Slumber](https://open.spotify.com/artist/30ZFCxaQeisDgihIZyjOlj) | [Embrace the Lie](https://open.spotify.com/album/1GX0Mvq2r51OZFuzYePI0q) | 6:26 |
-| 16 | [Mana God](https://open.spotify.com/track/5dXZHtpvqrdJl4bhHHsDty) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Mana God](https://open.spotify.com/album/53yljPs8SPVBWJoqPTvje4) | 3:40 |
-| 17 | [Muuntautuja](https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Muuntautuja](https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd) | 4:30 |
-| 18 | [Good Day](https://open.spotify.com/track/64hN0CqlENfRa8ylsRYoaX) | [Call Me Amour](https://open.spotify.com/artist/0dWX1Aai3cMYIqOcJLC6cV), [Mikey Chapman](https://open.spotify.com/artist/785WIfCKrAIVM2FxiRCr4L) | [Good Day](https://open.spotify.com/album/58cbalk8yRW0YJC5js2VRq) | 4:12 |
-| 19 | [Night Terror](https://open.spotify.com/track/0bFg4i9Izzpc4p9bTj4Pug) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 9:55 |
-| 20 | [Fall Apart](https://open.spotify.com/track/16M7iRpS9k69TUc62Xtj5v) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Fall Apart](https://open.spotify.com/album/4VoflHg4snejNTLbFfW0Xi) | 2:40 |
+| 1 | [Machines](https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Machines](https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT) | 4:06 |
+| 2 | [Big Dick Energy](https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Big Dick Energy](https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR) | 4:16 |
+| 3 | [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 |
+| 4 | [Sum Kinda Syko](https://open.spotify.com/track/0BWQxDNl3yj7CjWRQ9NKJO) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Sum Kinda Syko](https://open.spotify.com/album/5vaiMc8YWWBaosDCLRrA40) | 2:52 |
+| 5 | [ALLIGATOR](https://open.spotify.com/track/65UWHk2wQf6hjZeeNOwqsP) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [ALLIGATOR](https://open.spotify.com/album/20tuHWUfwJe3BIu8lyIa7l) | 2:42 |
+| 6 | [Can't Stop Talking](https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Can't Stop Talking](https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA) | 2:43 |
+| 7 | [F.I.L.T.H.](https://open.spotify.com/track/7FnHNYCupmDUSEiAsYiiFm) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [F.I.L.T.H.](https://open.spotify.com/album/589Wu1K6062ljWYSekPZ5k) | 2:36 |
+| 8 | [Circle Pit](https://open.spotify.com/track/7cY80346hpJqWsZICV8AP2) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Circle Pit // Bad Seed](https://open.spotify.com/album/3ZGdn6hqBaOA1Kp89J51st) | 2:55 |
+| 9 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 |
+| 10 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
+| 11 | [Oblivion Eyes](https://open.spotify.com/track/7ipUh3ks6qz821ZBwR7BG8) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Oblivion Eyes](https://open.spotify.com/album/39OcH8qmLHG9cWKzyq3jGU) | 3:32 |
+| 12 | [Place In The Sun \- Unbound](https://open.spotify.com/track/5uW8oopJKqs77TtkDV9fqW) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Place In The Sun](https://open.spotify.com/album/0EMG3xFQop2tgJbZUCbZlq) | 3:51 |
+| 13 | [the cost of giving up](https://open.spotify.com/track/7xc0C9WHCHgoGWP53Nmlme) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [the cost of giving up](https://open.spotify.com/album/5ny4Uho4k56brX600DlYiF) | 3:17 |
+| 14 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 |
+| 15 | [Insane in the Brain](https://open.spotify.com/track/04r5s5qp2DRKnObmiCE2QE) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Benji Webbe](https://open.spotify.com/artist/2VmQEEtb2GkgipLhnNhFxO) | [Insane in the Brain](https://open.spotify.com/album/1uJMxs3BkgxuFeeM7BcHCp) | 3:45 |
+| 16 | [Something In The Water](https://open.spotify.com/track/0sEQILBUeZr5tLKdmPBvgI) | [The Hype](https://open.spotify.com/artist/33XLkSK6TXcBg4RmHg2vqt) | [Something In The Water](https://open.spotify.com/album/1oT7Uu4uHoj8PmYWqt5pX9) | 2:45 |
+| 17 | [Confession](https://open.spotify.com/track/0jDgi8JLdQdyO18wXaMSSv) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Confession](https://open.spotify.com/album/6YK8axuJDVV1RkMrZtUurS) | 3:23 |
+| 18 | [The Curse](https://open.spotify.com/track/3xVLicwTwpPXzCEBe2LCjw) | [Acid Throne](https://open.spotify.com/artist/2VOzWXZusZWvbSIMOoO9Ir) | [The Curse](https://open.spotify.com/album/4I2VXP5OFYJZe7VMaZhzYg) | 5:53 |
+| 19 | [Back To Bed](https://open.spotify.com/track/34WRBAi2dLtqipTZzesBAt) | [Honeybadger](https://open.spotify.com/artist/5Gk5gDihqk8UoJ3tvsk6J2) | [Honeybadger](https://open.spotify.com/album/6HMeJEjpIDsKsJqypib3ql) | 3:12 |
+| 20 | [It's Not Enough](https://open.spotify.com/track/5fLZF6CgvYSwtXofNDgkqW) | [Mallavora](https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY) | [It's Not Enough](https://open.spotify.com/album/4yJrOW9gBNRVgijQS3XFHM) | 2:58 |
 
-Snapshot ID: `AAAMgp29FFL3k7JGuR+fDvy6TC9fSCeY`
+Snapshot ID: `AAAMhZ6W5+vNbzlSViSV/qrih2FdKqtD`

@@ -1,6 +1,6 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 29867,
+  "num_followers": 29885,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+        "name": "Boleros en Marimba",
+        "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
       },
       "artists": [
         {
-          "name": "Estrella de Guatemala",
-          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Las Chancletas de Nayo Capero",
-      "url": "https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R"
+      "duration_ms": 194053,
+      "name": "Perfume de Gardenias (Bolero en Marimba)",
+      "url": "https://open.spotify.com/track/7D7LbBOAgmnHpScZIH2kTs"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Boleros en Marimba",
-        "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
       "artists": [
         {
-          "name": "Marimba Usula Internacional",
-          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
+          "name": "Estrella de Guatemala",
+          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
         }
       ],
-      "duration_ms": 194053,
-      "name": "Perfume de Gardenias (Bolero en Marimba)",
-      "url": "https://open.spotify.com/track/7D7LbBOAgmnHpScZIH2kTs"
+      "duration_ms": 251173,
+      "name": "Las Chancletas de Nayo Capero",
+      "url": "https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Maria Concepcion",
-          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Cobanerita",
-      "url": "https://open.spotify.com/track/7G2jpDYsYymA0KMrTipx61"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Tradici\u00f3n de 100 A\u00f1os en Marimba Pura. M\u00fasica de Guatemala para los Latinos",
         "url": "https://open.spotify.com/album/2mZDqconWPyMujWlnLE2ux"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 291000,
       "name": "Linda Kelly",
       "url": "https://open.spotify.com/track/4EtUJ9yFoNehGggP3OgKtK"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Maria Concepcion",
+          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Cobanerita",
+      "url": "https://open.spotify.com/track/7G2jpDYsYymA0KMrTipx61"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
+        "name": "Exitos Internacionales en Marimba",
+        "url": "https://open.spotify.com/album/6OCCL0MXixxHIKNH8tC9gJ"
+      },
+      "artists": [
+        {
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/7hOMzXGysLGalUajUPEVqV"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 98871,
       "name": "Huapango 2",
       "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
-        "name": "Exitos Internacionales en Marimba",
-        "url": "https://open.spotify.com/album/6OCCL0MXixxHIKNH8tC9gJ"
-      },
-      "artists": [
-        {
-          "name": "Marimba Usula Internacional",
-          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/7hOMzXGysLGalUajUPEVqV"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -371,38 +371,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Tabasque\u00f1o",
-        "url": "https://open.spotify.com/album/76uEGqGyv1nLthr02G3TZt"
-      },
-      "artists": [
-        {
-          "name": "Marimba Flor De Playas",
-          "url": "https://open.spotify.com/artist/2psYEwkmQvoMxarUWGy9g4"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Mis Blancas Mariposas",
-      "url": "https://open.spotify.com/track/4KDmH7zn9unOHOxB9wZtrY"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Maria Concepcion",
-          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Migdalia Azucena",
-      "url": "https://open.spotify.com/track/2DIs5gbnJdqw7sBqMdRlQr"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Boleros en Marimba",
         "url": "https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4"
       },
@@ -415,6 +383,22 @@
       "duration_ms": 240520,
       "name": "Hasta Que Te Conoc\u00ed (Bolero en Marimba)",
       "url": "https://open.spotify.com/track/4padF9yf3v1UzuqTkwIuzC"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Tabasque\u00f1o",
+        "url": "https://open.spotify.com/album/76uEGqGyv1nLthr02G3TZt"
+      },
+      "artists": [
+        {
+          "name": "Marimba Flor De Playas",
+          "url": "https://open.spotify.com/artist/2psYEwkmQvoMxarUWGy9g4"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Mis Blancas Mariposas",
+      "url": "https://open.spotify.com/track/4KDmH7zn9unOHOxB9wZtrY"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -435,18 +419,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Gracias Vol. 5. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/4Vhn9pgDaLg6Cm3zSud2pc"
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
       "artists": [
         {
-          "name": "Hermanos Funes y Su Marimba Orquesta",
-          "url": "https://open.spotify.com/artist/7zTwYRqtldx7Ha4rdEukxZ"
+          "name": "Maria Concepcion",
+          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
         }
       ],
-      "duration_ms": 292536,
-      "name": "Bailando Con la Llorona",
-      "url": "https://open.spotify.com/track/1K2m47vXdg40MG4h6tdluf"
+      "duration_ms": 252266,
+      "name": "Migdalia Azucena",
+      "url": "https://open.spotify.com/track/2DIs5gbnJdqw7sBqMdRlQr"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
+        "name": "Gracias Vol. 5. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/4Vhn9pgDaLg6Cm3zSud2pc"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Funes y Su Marimba Orquesta",
+          "url": "https://open.spotify.com/artist/7zTwYRqtldx7Ha4rdEukxZ"
+        }
+      ],
+      "duration_ms": 292536,
+      "name": "Bailando Con la Llorona",
+      "url": "https://open.spotify.com/track/1K2m47vXdg40MG4h6tdluf"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
         "name": "Exitos al Estilo de Internacionales Conejos. M\u00fasica de Guatemala para los Latinos",
         "url": "https://open.spotify.com/album/4h4EpwFkvtoAulP8h4fzvD"
       },
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Chapinlandia - Marimba Music of Guatemala",
-        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
+        "name": "Colecci\u00f3n De Oro: Del Folklore Mexicano, Vol. 2 \u2013 La Zandunga",
+        "url": "https://open.spotify.com/album/66bUTcQKgYl6IAjz32rTMR"
       },
       "artists": [
         {
-          "name": "Marimba Chapinlandia",
-          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Mi Lorena linda",
-      "url": "https://open.spotify.com/track/4H4fQ7dOq4VB34rCX0Jn5o"
+      "duration_ms": 143516,
+      "name": "La Zandunga",
+      "url": "https://open.spotify.com/track/5XuLtL8vNTvh9m8z83WsBi"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -515,18 +515,34 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Colecci\u00f3n De Oro: Del Folklore Mexicano, Vol. 2 \u2013 La Zandunga",
-        "url": "https://open.spotify.com/album/66bUTcQKgYl6IAjz32rTMR"
+        "name": "Bailables Chiapanecos - Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
+        "url": "https://open.spotify.com/album/3bFynqrx7Xhmw5n0fKvaEa"
       },
       "artists": [
         {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+          "name": "Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu"
         }
       ],
-      "duration_ms": 143516,
-      "name": "La Zandunga",
-      "url": "https://open.spotify.com/track/5XuLtL8vNTvh9m8z83WsBi"
+      "duration_ms": 295488,
+      "name": "Los Parachicos",
+      "url": "https://open.spotify.com/track/2VsxAftoOrzG4YohUFsNXT"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Chapinlandia - Marimba Music of Guatemala",
+        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chapinlandia",
+          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Mi Lorena linda",
+      "url": "https://open.spotify.com/track/4H4fQ7dOq4VB34rCX0Jn5o"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -559,22 +575,6 @@
       "duration_ms": 210706,
       "name": "Ferrocarril De Los Altos, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/0HHniRcsqkJ6LGUI1uInSC"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
-        "name": "Bailables Chiapanecos - Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
-        "url": "https://open.spotify.com/album/3bFynqrx7Xhmw5n0fKvaEa"
-      },
-      "artists": [
-        {
-          "name": "Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu"
-        }
-      ],
-      "duration_ms": 295488,
-      "name": "Los Parachicos",
-      "url": "https://open.spotify.com/track/2VsxAftoOrzG4YohUFsNXT"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
-        "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
       },
       "artists": [
         {
-          "name": "Shigualita",
-          "url": "https://open.spotify.com/artist/6Ur4SvFxoRPB0jUzdHZg7a"
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
         }
       ],
-      "duration_ms": 167053,
-      "name": "El Grito, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/1oW8bNLGJU5uZArvEpLm5m"
+      "duration_ms": 465946,
+      "name": "Sones de Mariachi",
+      "url": "https://open.spotify.com/track/6VOsbeMYt72TIJg0ANdqzE"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
+        "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
+        "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
       },
       "artists": [
         {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+          "name": "Shigualita",
+          "url": "https://open.spotify.com/artist/6Ur4SvFxoRPB0jUzdHZg7a"
         }
       ],
-      "duration_ms": 465946,
-      "name": "Sones de Mariachi",
-      "url": "https://open.spotify.com/track/6VOsbeMYt72TIJg0ANdqzE"
+      "duration_ms": 167053,
+      "name": "El Grito, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/1oW8bNLGJU5uZArvEpLm5m"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Mi Bella Sampedrana",
-          "url": "https://open.spotify.com/artist/5pwHyPQjlZg2W9iuGVLEOm"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Antigua Guatemala",
-      "url": "https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "De Lo Selecto a Lo Cl\u00e1sico Vol. 2 - Zeferino Nandayapa y Su Marimba Cl\u00e1sica",
         "url": "https://open.spotify.com/album/17rdCxwUeZAepz8sagX7YN"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 212253,
       "name": "Marcha Alla Turca",
       "url": "https://open.spotify.com/track/5FtkyaM1DPkN8jbss587DM"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Mi Bella Sampedrana",
+          "url": "https://open.spotify.com/artist/5pwHyPQjlZg2W9iuGVLEOm"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Antigua Guatemala",
+      "url": "https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
-        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
+        "name": "As\u00ed Suena la Marimba",
+        "url": "https://open.spotify.com/album/02OCBXcHA4rkSGmU128kj1"
       },
       "artists": [
         {
-          "name": "Princesita",
-          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
+          "name": "Marimba Reyna Fraylescana",
+          "url": "https://open.spotify.com/artist/0azP4Z0bX5S7z83xvlRwGq"
         }
       ],
-      "duration_ms": 204040,
-      "name": "Coban, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
+      "duration_ms": 174840,
+      "name": "Amar y Vivir",
+      "url": "https://open.spotify.com/track/3BP8NoR5uw7r2zkP7IEUpS"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "As\u00ed Suena la Marimba",
-        "url": "https://open.spotify.com/album/02OCBXcHA4rkSGmU128kj1"
+        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
+        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
       },
       "artists": [
         {
-          "name": "Marimba Reyna Fraylescana",
-          "url": "https://open.spotify.com/artist/0azP4Z0bX5S7z83xvlRwGq"
+          "name": "Princesita",
+          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
         }
       ],
-      "duration_ms": 174840,
-      "name": "Amar y Vivir",
-      "url": "https://open.spotify.com/track/3BP8NoR5uw7r2zkP7IEUpS"
+      "duration_ms": 204040,
+      "name": "Coban, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
     },
     {
       "added_at": "2024-07-11 15:23:23",

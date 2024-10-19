@@ -1083,6 +1083,32 @@
     },
     {
       "album": {
+        "name": "Bellakorea",
+        "url": "https://open.spotify.com/album/6BH3QqD4sRdiNrRKPynNJK"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Coreano Loco",
+          "url": "https://open.spotify.com/artist/2j6A9AL4NjcxIfz2umeWWK"
+        },
+        {
+          "name": "Cartel de Corea",
+          "url": "https://open.spotify.com/artist/0bnVZFKj7F9HkPxYpJLgwm"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136405,
+      "name": "Bellakorea",
+      "url": "https://open.spotify.com/track/7Aahl5rn7L2lAkqLspfeJT"
+    },
+    {
+      "album": {
         "name": "Besos Moja2",
         "url": "https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn"
       },
@@ -3634,7 +3660,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131853,
-      "name": "GATITAS SANDUNGUERAS VOL.1",
+      "name": "GATITAS SANDUNGUERAS - VOL.1",
       "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
     },
     {
@@ -11174,7 +11200,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 243225,
       "name": "yasuni Pt.2",
       "url": "https://open.spotify.com/track/4HvFBMoE1XuUSguhw9I8b9"

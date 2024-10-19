@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Lia Almeida
 
-161 songs - 7 hr 52 min
+162 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Mensagem de Paz \- Ao Vivo](https://open.spotify.com/track/1P2KMn60eCaNGW3qMIsBA6) | [William Couto e Adriano](https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY) | [Mensagem de Paz \(Ao Vivo\)](https://open.spotify.com/album/3mdhsoMHXIPxM45R47y6HO) | 2:58 | 2024-07-12 |  |
 | [Mentiras Confortáveis \- Vê Se Pod, Ao Vivo](https://open.spotify.com/track/5yfM9EEyT4O78O9bV2Ot1g) | [Tales e Conrado](https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN) | [Mentiras Confortáveis \- Vê Se Pod](https://open.spotify.com/album/6kI6b1oWkk9yP6eTQLYZPU) | 4:26 | 2024-09-20 |  |
 | [Mete Álcool \- Ao Vivo](https://open.spotify.com/track/5xmxlliSe6g7rJoAnrECQL) | [Junior Villa](https://open.spotify.com/artist/4SEKohpPMBHAPiEaxiJDwP) | [Ao Vivo em Goiânia \- Vol.1](https://open.spotify.com/album/5n76Xfh5SdenUmQCJAdKdr) | 2:58 | 2024-06-28 | 2024-08-03 |
+| [Meu Erro \- Ao Vivo](https://open.spotify.com/track/4f5D8O8j7NMQUG81Mk8CDu) | [Hugo Alvarez](https://open.spotify.com/artist/3j6w3csiIbvwOYbYFMv5KI) | [Ao Vivo Em Goiânia \(Vol.2\)](https://open.spotify.com/album/70W73FkvwDVz87UN6pCx7T) | 3:31 | 2024-10-18 |  |
 | [Meu Segredo \- Ao Vivo](https://open.spotify.com/track/6OkxbHTFbFGdSc7Is5tgzw) | [Luiz Cláudio & Giuliano](https://open.spotify.com/artist/0OvmyLPHkGBqDsG4ciiZ1E), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Meu Segredo \- Ao Vivo](https://open.spotify.com/album/2DfDy36EAJYiBA9F4Lvnrf) | 3:38 | 2024-08-02 |  |
 | [Mil Corações / Você Decide \- Ao Vivo](https://open.spotify.com/track/58fa326KdzxpvaOnIzMIMh) | [Douglas & Diego](https://open.spotify.com/artist/44fMCOsl1bJ4IAOiUdYSpY) | [Buteco dos Ded, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6OSnFWxN7Cg4ESuDrO3KcN) | 3:32 | 2024-06-28 | 2024-10-12 |
 | [Minha Ira \- Ao Vivo](https://open.spotify.com/track/0JtgAGmZne9HPbv6gMouGJ) | [Zé Augusto e Rafael](https://open.spotify.com/artist/5Z4zyLiPBa36xdF8T5uXob), [Gregory e Matheus](https://open.spotify.com/artist/1OPitzxsJ9TRYYIN0613y5) | [Minha Ira \- Ao Vivo](https://open.spotify.com/album/2NZp5BhcN1DzaGW3lrY3p3) | 2:51 | 2024-08-16 |  |

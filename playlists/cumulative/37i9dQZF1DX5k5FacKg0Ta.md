@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-268 songs - 23 hr 25 min
+270 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Arms Arms](https://open.spotify.com/track/3TINEvafFDtmsnqIvhewLa) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx), [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o) | [Direction Zero](https://open.spotify.com/album/4Q83wSUAGVKmkX5Jvy7Zrn) | 7:21 | 2023-12-08 |  |
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
 | [At Leroy's](https://open.spotify.com/track/5P9AzOae0KiwY4mF2424XR) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jukka Eskola](https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St) | [Nordic Stew](https://open.spotify.com/album/7x9SRDVdvEk4RhPynFkKyY) | 5:01 | 2024-02-23 |  |
+| [August](https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56) | [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5) | [August](https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1) | 6:20 | 2024-10-18 |  |
 | [Aurinko](https://open.spotify.com/track/0prylnSBXShJ37C8nZZwld) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aurinko](https://open.spotify.com/album/0jxJ3dubcZ3DTV0JdsBYHm) | 4:14 | 2022-09-02 | 2023-08-26 |
 | [Avance!](https://open.spotify.com/track/1vEzxSoZCiKWexl4kLptO7) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Avance!](https://open.spotify.com/album/49RdQZp2zxI37E4T4XHo2X) | 5:16 | 2023-09-14 | 2023-10-14 |
 | [Avanto](https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph) | [Juho Peltoniemi Trio](https://open.spotify.com/artist/4Sbu45UJpAypGbK9u1QBKa) | [Avanto](https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n) | 6:44 | 2023-03-29 | 2024-04-13 |
@@ -125,6 +126,7 @@
 | [Komorebi](https://open.spotify.com/track/5LBugAn5ltB09dIdRNvLyE) | [AINON](https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT) | [Komorebi](https://open.spotify.com/album/0J9uCu0MLS0OcqTVGy0KAy) | 4:22 | 2024-07-18 | 2024-08-09 |
 | [Kullankaivaja](https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u) | [Sofia Perhomaa](https://open.spotify.com/artist/7I6tcN1kF9cD5sqOLuqgAW) | [Kullankaivaja](https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572) | 3:51 | 2022-09-02 | 2024-04-27 |
 | [Laertes in Love](https://open.spotify.com/track/5hcRpnSIeVdAmc7REWOrYX) | [D.O.P.A.](https://open.spotify.com/artist/1uGwYyqQ8YZ8xzkVmQh3Sb), [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5) | [Laertes in Love](https://open.spotify.com/album/4DELUxC0I8jc1UExZtGIc2) | 5:39 | 2024-03-15 | 2024-09-13 |
+| [Less Than Always](https://open.spotify.com/track/5vSxVfzIHDWcil0vlYQgAy) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME) | [Little Further](https://open.spotify.com/album/0nojd9BPUlV5Wgwi5h9ZRA) | 4:55 | 2024-10-18 |  |
 | [Lester the Jester](https://open.spotify.com/track/2XxZiXSdjToe4op5r6Kmce) | [Laurell & Sun Dog](https://open.spotify.com/artist/5FxliWBKK2HlKBxOwfU79s) | [Lester the Jester](https://open.spotify.com/album/236Ar5nslcai0M3psMBCQr) | 3:43 | 2023-10-26 | 2024-04-27 |
 | [Let Loose](https://open.spotify.com/track/10Rj5XNphUyBgykNwFjinP) | [TRI\-](https://open.spotify.com/artist/3pDqn9WMu3VpFKOTKMxMFi), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Arttu Huopainen](https://open.spotify.com/artist/5cIaKrqiTvvun23Rx8oXc8), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [Let Loose](https://open.spotify.com/album/7HL8UoL0hmtfSYFdPHdGxs) | 4:11 | 2023-05-26 | 2023-06-30 |
 | [Liar](https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Liar](https://open.spotify.com/album/1kbcdOfwC0dFUOK2DmAWzj) | 4:57 | 2023-03-03 | 2023-05-13 |
@@ -164,7 +166,7 @@
 | [November](https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO) | [Varo](https://open.spotify.com/album/1v0xTiCWYokedWuVT8GBTW) | 3:10 | 2022-09-02 | 2023-08-26 |
 | [Omkomma Hemma](https://open.spotify.com/track/6lpgyO0zjXorfbyvGCSJRW) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Omkomma Hemma](https://open.spotify.com/album/433V8jpXWNv871FVPb5TCg) | 2:35 | 2023-10-19 | 2023-11-11 |
 | [One Perfect Morning](https://open.spotify.com/track/0E6lLl60PZYQIVRVsdTzVV) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [One Perfect Morning](https://open.spotify.com/album/7b9GDccYEQB9ccL7rPxuK3) | 5:18 | 2023-04-28 | 2023-05-13 |
-| [One Room](https://open.spotify.com/track/0wQBQupdAOsf2HG8f9cPuS) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME) | [One Room](https://open.spotify.com/album/3RAURon5042NskNxGXlC3t) | 5:37 | 2024-09-12 |  |
+| [One Room](https://open.spotify.com/track/0wQBQupdAOsf2HG8f9cPuS) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME) | [One Room](https://open.spotify.com/album/3RAURon5042NskNxGXlC3t) | 5:37 | 2024-09-12 | 2024-10-19 |
 | [One small step](https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [One small step](https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap) | 4:49 | 2022-09-22 | 2023-11-17 |
 | [Onko jo myöhäistä](https://open.spotify.com/track/77qSlRCqomEWW8S51Fx2kM) | [Piip](https://open.spotify.com/artist/0RGJUX5KEDFxMQxZ0N2fpS) | [Onko jo myöhäistä](https://open.spotify.com/album/3Ye5UkeeZcubn5vMil6W24) | 7:14 | 2024-09-19 |  |
 | [Onnela](https://open.spotify.com/track/5zj4zvqA463FiyeRmmQrUQ) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Onnela](https://open.spotify.com/album/56YkLuiw2D9RDKZcNOTTPg) | 5:45 | 2024-03-15 | 2024-03-23 |

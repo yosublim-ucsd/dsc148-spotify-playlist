@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Dogo Janja
 
-202 songs - 11 hr 15 min
+203 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Balaa](https://open.spotify.com/track/4SJEycZB9vTLSv7HKX53Rr) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Fredrick Mulla](https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD) | [Colossal Music presents Umoja Sounds + Fredrick Mulla \- Unexpected Glitch](https://open.spotify.com/album/19azXU8PZK0E8eyoW83Kzx) | 3:21 | 2024-07-25 |  |
 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 | 2022-08-26 | 2023-10-21 |
 | [Banyamulenge](https://open.spotify.com/track/522dMvpymut4pfbyneraOe) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [PrevMarco](https://open.spotify.com/artist/6bx6GhngJMsMNFcN1M7aSp) | [Banyamulenge](https://open.spotify.com/album/4kHugvl7PUhRLPqAq6oZGU) | 3:05 | 2023-07-13 | 2023-11-11 |
+| [Beautiful](https://open.spotify.com/track/31sLNsYvWLCj4R4vJMXXse) | [TONY DRIZZY BEATS](https://open.spotify.com/artist/4LuChYsPGweXomifDJSpnn), [Chidi Benz](https://open.spotify.com/artist/1lTGyFO9KjwT8dsrhS9RxH) | [Beautiful](https://open.spotify.com/album/7ncsrKBgFuiU34MnnO7tTi) | 3:29 | 2024-10-17 |  |
 | [Bibi Titi](https://open.spotify.com/track/2aoSJFc9xdhUnJK2CnSiqc) | [Msamiati](https://open.spotify.com/artist/6YyGxYGoIIVFgX3oDboF2A), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Bibi Titi](https://open.spotify.com/album/79arQ73MXkLG1Qa0UrNs2Q) | 4:18 | 2024-04-18 | 2024-07-12 |
 | [Bigman](https://open.spotify.com/track/7d59EK9eqZJe33g6v7T6Ro) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Bigman](https://open.spotify.com/album/6l4m6lJBRYcglztCbr8PAX) | 3:04 | 2023-04-27 | 2023-09-02 |
 | [Bigman Circle](https://open.spotify.com/track/07oekwVYSeP83rz0uKTfJS) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Salmin swaggz](https://open.spotify.com/artist/3FzKgyxUs4cv76hQwiC1UB), [Noxie B](https://open.spotify.com/artist/7qPud6qdQ4QPGKGbyg0pav), [Mloccoh Songzx](https://open.spotify.com/artist/0LtVLq1Op6FGFkZlZBsklM), [Fresh like uhhh](https://open.spotify.com/artist/5xxUxV7S3qqUgqdAfTnkhk), [Paapshboy](https://open.spotify.com/artist/18IDdETI7QzKLKGOF6Iqax), [Oduma Essan](https://open.spotify.com/artist/3QoRZ2F0uI8SzlXMjvmsps), [Friday Pol](https://open.spotify.com/artist/2ZgfqQbGADsd5xm4rpcRDH), [Afande Ready](https://open.spotify.com/artist/1uBYzB0JE3gi6XTJNtlubW) | [Bigman Circle](https://open.spotify.com/album/6hAm1D6ohuFfoBNo8YoLav) | 5:41 | 2023-07-13 | 2024-03-30 |

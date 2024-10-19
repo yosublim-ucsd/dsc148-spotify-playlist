@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Mercer Henderson, Artwork: Isu Kim
 
-7,219 songs - 16 day 7 hr 39 min
+7,220 songs - 16 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,6 +1501,7 @@
 | [Dancing to The Smiths](https://open.spotify.com/track/6RSDI2ms9CHIvOnrYzxluR) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Dancing to The Smiths](https://open.spotify.com/album/0gSXurqwCt0sZcgUncufAO) | 4:19 | 2022-02-16 | 2022-02-24 |
 | [Dandelions](https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Dandelions](https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3) | 2:27 | 2022-09-28 | 2022-10-06 |
 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 | 2024-06-12 | 2024-07-18 |
+| [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 | 2024-10-18 |  |
 | [dangerous](https://open.spotify.com/track/4QcfyE17dRGVCb2ZLrepnG) | [NOVA ONE](https://open.spotify.com/artist/23AoRz8asmZEYrUd1GpRiS) | [dangerous](https://open.spotify.com/album/08x4sWyx2sNVxeKEfG8edB) | 3:13 | 2023-02-08 | 2023-02-16 |
 | [Dankworld](https://open.spotify.com/track/0phoMSy4zUNejvLmoRPJnq) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:55 | 2022-03-09 | 2022-03-17 |
 | [DAPS, HANDSHAKES & HUGS](https://open.spotify.com/track/3ysekpjPtqYR1YvW50KOBI) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [DFD](https://open.spotify.com/album/5SGKABzzfLjEqN0HSoHPU1) | 2:03 | 2022-02-23 | 2022-03-03 |
@@ -3728,7 +3729,7 @@
 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 | 2022-06-08 | 2022-06-16 |
 | [Local](https://open.spotify.com/track/3Pm7lOMvJt6s6ATn0Cq6wD) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love EP](https://open.spotify.com/album/3ofh4JS37yfqhBskQNHmZf) | 4:05 | 2024-08-14 | 2024-09-12 |
 | [Lock In](https://open.spotify.com/track/5Hml3bsM1EGbO9TSAd8DOf) | [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Lock In](https://open.spotify.com/album/549V5YR9FV43vgGMwVf6iJ) | 2:45 | 2023-08-10 | 2023-08-17 |
-| [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-11 |  |
+| [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-11 | 2024-10-19 |
 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-08-31 | 2022-09-09 |
 | [Locked Up](https://open.spotify.com/track/56v5S5qrGG1iLXm5czpNi3) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [Locked Up](https://open.spotify.com/album/2wcfh11TebGKOCSSkCYr4O) | 2:20 | 2022-07-27 | 2022-08-04 |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-01-10 | 2024-01-18 |

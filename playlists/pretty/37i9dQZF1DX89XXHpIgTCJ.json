@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 311796,
+  "num_followers": 311850,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 205280,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 160666,
       "name": "Shame",
       "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Up Style Down",
-        "url": "https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M"
-      },
-      "artists": [
-        {
-          "name": "28 Days",
-          "url": "https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
         "name": "Prophets Of Rage",
         "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 190180,
       "name": "Prophets Of Rage",
       "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "Up Style Down",
+        "url": "https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M"
+      },
+      "artists": [
+        {
+          "name": "28 Days",
+          "url": "https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
     },
     {
       "added_at": "2024-10-03 21:55:40",

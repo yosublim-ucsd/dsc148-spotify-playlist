@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192911,
       "name": "Ba\u0144ka",
       "url": "https://open.spotify.com/track/4XjJA3L70ucKdjsvi5SERn"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 105494,
       "name": "brudny moncler",
       "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 160000,
       "name": "co ja wam zrobi\u0142em?",
       "url": "https://open.spotify.com/track/6QuGHPcmE72o7dsnKRXrNw"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 197538,
       "name": "Eter",
       "url": "https://open.spotify.com/track/334XNDFP2LbjQIBGD3TqzN"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 155428,
       "name": "KAM-CAR",
       "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
@@ -2297,6 +2297,28 @@
     },
     {
       "album": {
+        "name": "MI\u00d3D NA USZY",
+        "url": "https://open.spotify.com/album/5GrtUaED13PD9YPhOaT4wO"
+      },
+      "artists": [
+        {
+          "name": "Suva",
+          "url": "https://open.spotify.com/artist/2hIcmTMU2OPtDS5hWXbIXy"
+        },
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213084,
+      "name": "MI\u00d3D NA USZY",
+      "url": "https://open.spotify.com/track/6OAR7ps1zewfZe3uRCP1f2"
+    },
+    {
+      "album": {
         "name": "Moja droga",
         "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
@@ -2338,6 +2360,24 @@
       "duration_ms": 210722,
       "name": "MOLO",
       "url": "https://open.spotify.com/track/7s8Kfdlu6ALxGno0EGVEbu"
+    },
+    {
+      "album": {
+        "name": "MUSZ\u0118 ZAWIJA\u0106",
+        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136630,
+      "name": "MUSZ\u0118 ZAWIJA\u0106",
+      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
     },
     {
       "album": {
@@ -2419,6 +2459,32 @@
     },
     {
       "album": {
+        "name": "Kolejno\u015b\u0107 wykonywania dzia\u0142a\u0144",
+        "url": "https://open.spotify.com/album/61Wdrtn1VeFmayVxE0TfrP"
+      },
+      "artists": [
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "TKTSB",
+          "url": "https://open.spotify.com/artist/4mSKEA07p8uMTwwuU1ER6N"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Namiary",
+      "url": "https://open.spotify.com/track/5fcWPUONboxB8YZsXbqlvC"
+    },
+    {
+      "album": {
         "name": "Napad",
         "url": "https://open.spotify.com/album/64LvULdyg978WFebqFmQzX"
       },
@@ -2468,6 +2534,24 @@
       "duration_ms": 207800,
       "name": "Napraw mnie",
       "url": "https://open.spotify.com/track/4ho9H9m4r2mh12Df93n5wu"
+    },
+    {
+      "album": {
+        "name": "narkotyk",
+        "url": "https://open.spotify.com/album/15P2RlWopDH4vWdv7yPkis"
+      },
+      "artists": [
+        {
+          "name": "Erwik",
+          "url": "https://open.spotify.com/artist/1IiRcsh4LaL0NVGv4eOV3r"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "narkotyk",
+      "url": "https://open.spotify.com/track/04RzWg0y8xj7PAfmRUUv3u"
     },
     {
       "album": {
@@ -2642,6 +2726,28 @@
       "duration_ms": 189767,
       "name": "NOWY WOKAL",
       "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "album": {
+        "name": "O CZYM BYM RAPOWA\u0141",
+        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
+      },
+      "artists": [
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        },
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "O CZYM BYM RAPOWA\u0141",
+      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
     },
     {
       "album": {
@@ -3195,6 +3301,28 @@
     },
     {
       "album": {
+        "name": "Wszystko w swoim czasie",
+        "url": "https://open.spotify.com/album/7qGVkSKMJ4PCOCyA9PJZWn"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/6q71ueOim8LDoQtg5iZLZd"
+    },
+    {
+      "album": {
         "name": "Dead man walking / Sam ze sob\u0105",
         "url": "https://open.spotify.com/album/2PGpyXG8BX5cXvzfNv1tYQ"
       },
@@ -3302,7 +3430,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 147368,
       "name": "Serato",
       "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
@@ -4070,7 +4198,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 178823,
       "name": "Wehiku\u0142 czasu",
       "url": "https://open.spotify.com/track/6o8VV8GinVBXPt8H84WRPu"
@@ -4318,6 +4446,36 @@
       "duration_ms": 234000,
       "name": "Za P\u00f3\u017ano",
       "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
+    },
+    {
+      "album": {
+        "name": "Zadzwo\u0144 do mnie",
+        "url": "https://open.spotify.com/album/3KSKGIyhCMbnpl9yNXfw9c"
+      },
+      "artists": [
+        {
+          "name": "Eskaubei",
+          "url": "https://open.spotify.com/artist/0aRV7rMPCkGjy1Yo3ImyML"
+        },
+        {
+          "name": "Mr. Krime",
+          "url": "https://open.spotify.com/artist/7wSyzPYLvjyVB7HCl3e2Kj"
+        },
+        {
+          "name": "Piotr Bolanowski",
+          "url": "https://open.spotify.com/artist/5K2fZemTMvyelE92DwArU1"
+        },
+        {
+          "name": "Grzegorz Dowgia\u0142\u0142o",
+          "url": "https://open.spotify.com/artist/2Z2OKL5LYW7bfwrtcJrljW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232790,
+      "name": "Zadzwo\u0144 do mnie",
+      "url": "https://open.spotify.com/track/5i6ALqwRFVkT54oiCpTSEV"
     },
     {
       "album": {

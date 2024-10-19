@@ -1717,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "FAKE",
+        "url": "https://open.spotify.com/album/7q2Zl84qhSTcjSPnLq1mtC"
+      },
+      "artists": [
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        },
+        {
+          "name": "Smile",
+          "url": "https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/2iKl5tbhlajZzQFkokwp9C"
+    },
+    {
+      "album": {
         "name": "Fanfic",
         "url": "https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️ \(Cover: Luby Sparks\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,955 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,973 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 4 | [Dead Flowers](https://open.spotify.com/track/3UzhTyx3msFqAeEnxsUqYR) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [Dead Flowers](https://open.spotify.com/album/22N0Ls1yNyFrZz9oemD4xH) | 2:29 |
 | 5 | [crush](https://open.spotify.com/track/1HxUhCalGraWOoaheJLUbM) | [Asher Alexander](https://open.spotify.com/artist/5IBHOC7U2mLy8qt3AEsJYj) | [crush](https://open.spotify.com/album/2sYRmISD3lbhcdym9OxCRc) | 2:12 |
 | 6 | [Lambda \(λ\)](https://open.spotify.com/track/1kUVmT99zwgXFAtnoLSbk9) | [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [Commit Death](https://open.spotify.com/album/1WcDZaLkfS0dJGN5r9PRec) | 7:40 |
-| 7 | [Never Forget](https://open.spotify.com/track/60OeY7NzwVLBaQm8sGnad9) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Never Forget](https://open.spotify.com/album/56ZEqUHU1HvBoN3oOxF4Sq) | 4:10 |
+| 7 | [Never Forget](https://open.spotify.com/track/60OeY7NzwVLBaQm8sGnad9) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Never Forget](https://open.spotify.com/album/56ZEqUHU1HvBoN3oOxF4Sq) | 4:07 |
 | 8 | [MIRROR'S EDGE](https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [MIRROR'S EDGE](https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN) | 3:07 |
 | 9 | [I Ever Dreamed Of](https://open.spotify.com/track/7dU1vsjkrmPsfjm5eWyVml) | [Mikado Koko](https://open.spotify.com/artist/0xBoJ1DUOrxxboiavjI6Dx) | [Floating High](https://open.spotify.com/album/656XisQHcyzLwkwug6fS51) | 2:07 |
 | 10 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 |
 | 11 | [disdain](https://open.spotify.com/track/7iuYtJHYm2M3uks4qJX24L) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [disdain](https://open.spotify.com/album/6lt2Vwl0MYn9dBUAgk5b2f) | 2:11 |
-| 12 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:10 |
+| 12 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:11 |
 | 13 | [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 |
 | 14 | [Burning \- English ver.](https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning \(English ver.\)](https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer) | 3:54 |
 | 15 | [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 |

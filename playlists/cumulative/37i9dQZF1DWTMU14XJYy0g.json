@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: LOBEL",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Las Pastillas del Abuelo y EMI.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/4OMEnSsFgeenZiIVNjBIn6"
+      },
+      "artists": [
+        {
+          "name": "Francia 98",
+          "url": "https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0pKq8NLJDwYbT7Ja7AEUYE"
+    },
+    {
+      "album": {
         "name": "Amor en Pandemia",
         "url": "https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 211011,
       "name": "Bigote",
       "url": "https://open.spotify.com/track/1UH9NTgFF6woodUUm8uqPF"
@@ -1652,6 +1670,28 @@
       "duration_ms": 193928,
       "name": "El Hit",
       "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
+    },
+    {
+      "album": {
+        "name": "El Negro",
+        "url": "https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269149,
+      "name": "El Negro",
+      "url": "https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN"
     },
     {
       "album": {
@@ -3736,7 +3776,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 177540,
       "name": "Mimos Son Mimos",
       "url": "https://open.spotify.com/track/0AK6oKtH1xi0y66ZkN6OGT"
@@ -4511,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/546elWtt9bA4IvIhV8qUdP"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192303,
+      "name": "Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/25HTcptVTrswNsbHKpxDvI"
+    },
+    {
+      "album": {
         "name": "Suenan Las Alarmas",
         "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
       },
@@ -5128,7 +5186,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 199695,
       "name": "Sos la muerte del Rock",
       "url": "https://open.spotify.com/track/1cj6Y3dcGZ3nkOLeq48KwK"

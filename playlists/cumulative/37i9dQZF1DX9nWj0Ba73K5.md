@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: In memory of Kris Kristofferson
 
-262 songs - 15 hr 20 min
+263 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [I Feel Lucky](https://open.spotify.com/track/7EhI5HG2Gc7Iaz5VadI40A) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 3:53 | 2022-01-01 | 2023-07-01 |
 | [I Go Back to You](https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Go Back to You](https://open.spotify.com/album/3zMThHPhNdD6dTNJLG6wL4) | 3:17 | 2022-01-01 | 2024-08-31 |
 | [I Met A Girl \- Acoustic Mixtape](https://open.spotify.com/track/3oBxf3KvflYpaFSR4S3wKv) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:53 | 2022-02-28 | 2024-08-31 |
+| [I NEVER SAW A MOOR](https://open.spotify.com/track/3DabmwE5UkeXVFmDQyXXm7) | [Marcus Hummon](https://open.spotify.com/artist/1qZPaffNJqRhw2f864WMSA) | [I NEVER SAW A MOOR](https://open.spotify.com/album/3pR6iUWP8bOVZttNNQip7B) | 3:51 | 2024-10-18 |  |
 | [I Run To You \(feat\. Lady A\)](https://open.spotify.com/track/2Nnf5SzpDBC8yaO38xqFbX) | [Tom Douglas](https://open.spotify.com/artist/4gw3hsOJ9ruPCU8EVQhxEp), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Love, Tom \(Inspired By The Motion Picture\)](https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK) | 4:45 | 2022-02-25 |  |
 | [I Won't Take Less Than Your Love](https://open.spotify.com/track/7imykP5YlWnO5MWbdpURAv) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr), [Del McCoury](https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:28 | 2022-01-01 | 2024-08-31 |
 | [I'm Alright](https://open.spotify.com/track/3mHFsVnH6lQDAU2T13W1Jm) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Greatest Hits Volume 1](https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM) | 4:11 | 2022-01-01 |  |

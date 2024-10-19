@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Madrid",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Mundo Video, Ana Frango El\u00e9trico",
   "name": "alt BR",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 258144,
       "name": "A L\u00edngua Trava",
       "url": "https://open.spotify.com/track/4oiexM3EySbvbt9luyodil"
+    },
+    {
+      "album": {
+        "name": "Pique",
+        "url": "https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU"
+      },
+      "artists": [
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "A Melhor Sa\u00edda",
+      "url": "https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK"
     },
     {
       "album": {
@@ -3278,7 +3296,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 78318,
       "name": "Deixa Ir",
       "url": "https://open.spotify.com/track/2hXWPfRH7KsJ7Qzjh4hc2h"
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 151577,
       "name": "Mam\u00edfero",
       "url": "https://open.spotify.com/track/65rO0bHugFesLwCcmrpRJQ"
@@ -6637,6 +6655,28 @@
     },
     {
       "album": {
+        "name": "Colinho",
+        "url": "https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy"
+      },
+      "artists": [
+        {
+          "name": "Maria Beraldo",
+          "url": "https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225015,
+      "name": "Masc",
+      "url": "https://open.spotify.com/track/17RwKE3SoTB9pe449mrGcY"
+    },
+    {
+      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/4AdLRxbgubWzeTQZVz8ed6"
       },
@@ -6746,7 +6786,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 217000,
       "name": "medo",
       "url": "https://open.spotify.com/track/3haIgc4Q5hTOiYNWDSYiAH"
@@ -6818,7 +6858,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181458,
       "name": "MEDOFOBIA",
       "url": "https://open.spotify.com/track/4AlDBt1ip59pJIWfKrud1L"
@@ -7986,6 +8026,28 @@
       "duration_ms": 138240,
       "name": "Noites de Papel",
       "url": "https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9"
+    },
+    {
+      "album": {
+        "name": "MAGICLEOMIXTAPE (quando v\u00ea, j\u00e1 foi)",
+        "url": "https://open.spotify.com/album/4Mt0fg5ARNpgJzGqk1JLAC"
+      },
+      "artists": [
+        {
+          "name": "batata boy",
+          "url": "https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA"
+        },
+        {
+          "name": "Vitor Milagres",
+          "url": "https://open.spotify.com/artist/6gHdLyWGtdzb9YLhQh7f9x"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162861,
+      "name": "novas rotinas",
+      "url": "https://open.spotify.com/track/4CNRnV7MoHMwg6kxESiz0M"
     },
     {
       "album": {
@@ -9236,6 +9298,28 @@
       "duration_ms": 234762,
       "name": "PERFUME",
       "url": "https://open.spotify.com/track/0x4cfJP9Y1f8AQOxaowqZa"
+    },
+    {
+      "album": {
+        "name": "Noite de Lua Torta",
+        "url": "https://open.spotify.com/album/7IBmOqntSb3i6HSOFIdBCV"
+      },
+      "artists": [
+        {
+          "name": "Mundo Video",
+          "url": "https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Perto da Praia",
+      "url": "https://open.spotify.com/track/0sl0lktFawfYBU6oeLFwn7"
     },
     {
       "album": {
@@ -10570,6 +10654,24 @@
       "duration_ms": 363136,
       "name": "Santa Cabe\u00e7a",
       "url": "https://open.spotify.com/track/7iLoy68FrvUHvaBml3Jqwo"
+    },
+    {
+      "album": {
+        "name": "Santo Dia",
+        "url": "https://open.spotify.com/album/3UpCHVzK79I6KVlELd4iwr"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179376,
+      "name": "Santo Dia",
+      "url": "https://open.spotify.com/track/64x97Vp6L5JK21JF4cJ7kw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Vibe Chemistry &amp; Maduk",
-  "num_followers": 32529,
+  "num_followers": 32533,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAreNa9oJhvbbB8zv+jhvK9wNQRxrrB",
+  "snapshot_id": "AAAreYvynVsoAIe907jSavDXz05ma6rp",
   "tracks": [
     {
       "added_at": "2024-10-17 13:40:28",
@@ -411,6 +411,22 @@
       "duration_ms": 162207,
       "name": "I Love The Way (feat. LEVi & Toddla T)",
       "url": "https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7"
+    },
+    {
+      "added_at": "2024-10-18 11:03:19",
+      "album": {
+        "name": "If Only We Could",
+        "url": "https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F"
+      },
+      "artists": [
+        {
+          "name": "Sam AVSTIN",
+          "url": "https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "If Only We Could",
+      "url": "https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o"
     }
   ],
   "unique_name": "New Dance Music Friday",

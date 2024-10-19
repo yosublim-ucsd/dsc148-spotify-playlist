@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6ZyV955Ypf3JAKInn1a0dt\">Tamela Mann</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:0xmUZqkqmJfezc0fzyfboj\"> Sinmidele </a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 347990,
       "name": "He Came Through (PMJ Trap Praise Break)",
       "url": "https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj"
@@ -9786,6 +9786,24 @@
       "duration_ms": 219333,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/509Mlx0bUvu7R9x7NImszq"
+    },
+    {
+      "album": {
+        "name": "tethered",
+        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225009,
+      "name": "tethered",
+      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
     },
     {
       "album": {

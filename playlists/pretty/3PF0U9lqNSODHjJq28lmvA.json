@@ -1,86 +1,66 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2405,
+  "num_followers": 2406,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD3qHpEXUPsREkrSrGa/g5R+xvMYHU",
+  "snapshot_id": "AAAD4KgCdJnSq5LqtwRqC55Zo7RksL0y",
   "tracks": [
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Terminaali vaiheessa",
-        "url": "https://open.spotify.com/album/4TDuY0RYjvsyhP0TS8AEO2"
+        "name": "F\u00f6r De Som M\u00e5ste Komma Bort",
+        "url": "https://open.spotify.com/album/0h6aJBxiwFeafooZPMN3oh"
       },
       "artists": [
         {
-          "name": "Huge L",
-          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
-        },
-        {
-          "name": "KAKKU",
-          "url": "https://open.spotify.com/artist/2JPgBGUtlIYbnxr1PffsXD"
+          "name": "Second Sun",
+          "url": "https://open.spotify.com/artist/6rjBxUbzdlsIQVk1EvihBk"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Terminaali vaiheessa",
-      "url": "https://open.spotify.com/track/6VxK80FMFhSxpvh7d4bc6F"
+      "duration_ms": 241250,
+      "name": "F\u00f6r De Som M\u00e5ste Komma Bort",
+      "url": "https://open.spotify.com/track/1PGxdGJKW75p1XOmQpIBGi"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Emma (C'mon Look My Way)",
-        "url": "https://open.spotify.com/album/4kcCeCBIrVbEaL62IWBCm6"
+        "name": "Let the Love In",
+        "url": "https://open.spotify.com/album/4BZ9Kk9BtHTTmVnAlz4nq2"
       },
       "artists": [
         {
-          "name": "Pelican Club",
-          "url": "https://open.spotify.com/artist/0SKkdsp0HFsN6wkYgXWpWe"
+          "name": "Moon Landing",
+          "url": "https://open.spotify.com/artist/2MzYWU19YFhWthKTObl0xc"
         }
       ],
-      "duration_ms": 225944,
-      "name": "Emma (C'mon Look My Way)",
-      "url": "https://open.spotify.com/track/4cSZTb4bAnoCCeS9avaDQR"
+      "duration_ms": 192469,
+      "name": "Let the Love In",
+      "url": "https://open.spotify.com/track/2RHm23r4E1ycJTD08VFXR8"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "I natt \u00e9 hela stan v\u00e5r",
-        "url": "https://open.spotify.com/album/64aVFrR1zukSj9IUqxAmt0"
+        "name": "Dit geet nooit verleurn (Ode aan Twente)",
+        "url": "https://open.spotify.com/album/0qLMcpZdUNPIopClYt5cXl"
       },
       "artists": [
         {
-          "name": "Mustasch",
-          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
+          "name": "Huub Ruel",
+          "url": "https://open.spotify.com/artist/5sE6HrFTS9f17p2kJun4Hu"
         }
       ],
-      "duration_ms": 155982,
-      "name": "I natt \u00e9 hela stan v\u00e5r",
-      "url": "https://open.spotify.com/track/2zOZVa4cyQm1AAnO6howPc"
+      "duration_ms": 215158,
+      "name": "Dit geet nooit verleurn (Ode aan Twente)",
+      "url": "https://open.spotify.com/track/0tqo1pqW3J0TF7I3GnlIY0"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Boats Alight",
-        "url": "https://open.spotify.com/album/57dVGKGxSmWNVkikHXqK1N"
-      },
-      "artists": [
-        {
-          "name": "Paul Allen",
-          "url": "https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft"
-        }
-      ],
-      "duration_ms": 124784,
-      "name": "Boats Alight",
-      "url": "https://open.spotify.com/track/1jwHndax61b9szZRDZFDU8"
-    },
-    {
-      "added_at": "2024-10-11 10:16:47",
-      "album": {
-        "name": "My Friend Jack",
-        "url": "https://open.spotify.com/album/26iDc5IFoEagRQQdfsP47L"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4NmY1L7NNmKllClwnhnvZ2"
       },
       "artists": [
         {
@@ -88,89 +68,169 @@
           "url": "https://open.spotify.com/artist/5D3uLlwyBq7m6y920twZdH"
         }
       ],
-      "duration_ms": 268538,
-      "name": "My Friend Jack",
-      "url": "https://open.spotify.com/track/6Icp6lTm1gHCE74g52QS4H"
+      "duration_ms": 349999,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0PTbEPIiC8ts6N9nopbCEx"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "\u00c4ta kakan",
-        "url": "https://open.spotify.com/album/7mEdUkmJtD98VsHR9H0dIe"
+        "name": "Thank You For The Invitation",
+        "url": "https://open.spotify.com/album/07YNZsOFhu9XkBJUN0NOb4"
       },
       "artists": [
         {
-          "name": "Kajsa Larsson",
-          "url": "https://open.spotify.com/artist/0UsiAYIj7AE0jTnDrC3itV"
+          "name": "AMINAE",
+          "url": "https://open.spotify.com/artist/6q918eX1a8piTg2Ug0YMjq"
         }
       ],
-      "duration_ms": 172813,
-      "name": "\u00c4ta kakan",
-      "url": "https://open.spotify.com/track/5K9jjl9bic8VghOyJl1cUq"
+      "duration_ms": 179479,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/1Cz1u6Sx9QXcYLTwqSfsFN"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Echologia",
-        "url": "https://open.spotify.com/album/7kytvnM3lozyMqmStHYGHf"
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/5MC2i375veOlnp1R6ZheJl"
       },
       "artists": [
         {
-          "name": "Olli Valtteri Aalle",
-          "url": "https://open.spotify.com/artist/1TEaRybWqwVb2PvF2vYCXa"
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2jKPaC2ezYgEFsMBScc1mH"
         }
       ],
-      "duration_ms": 443257,
-      "name": "Taajama",
-      "url": "https://open.spotify.com/track/3a5Loxc5WEu0sHilZqa9g0"
+      "duration_ms": 195555,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/74hK8LD3SOqn8MzNZ60Qx3"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Tropic Waste",
-        "url": "https://open.spotify.com/album/4yf7m1c3IBvkr2pDefpgKl"
+        "name": "Thanat, Pt. 2",
+        "url": "https://open.spotify.com/album/7DqDwgZCxUSr3s5gTTTjpY"
       },
       "artists": [
         {
-          "name": "Tropic Waste",
-          "url": "https://open.spotify.com/artist/1o6HvQWlqxaR2tkryaaQiv"
+          "name": "a basic fault",
+          "url": "https://open.spotify.com/artist/1AcEbRtorJfN3qvJ3l9A8x"
         }
       ],
-      "duration_ms": 147032,
-      "name": "Interstellar Death Cult Blues",
-      "url": "https://open.spotify.com/track/1A3KsDUkhsXoX7AuOGbXBX"
+      "duration_ms": 382999,
+      "name": "Thanat, Pt. 2",
+      "url": "https://open.spotify.com/track/4zxA4JYse9zGOPoFW5NKge"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Nobody's Watching",
-        "url": "https://open.spotify.com/album/45KN0Eo8YL8po9Mua4VrEd"
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/5ovJHT3H8ZQsUcrEdGBtzf"
       },
       "artists": [
         {
-          "name": "KULA",
-          "url": "https://open.spotify.com/artist/6tgfHy5F0ofAcG0x8Hty96"
+          "name": "dani kiwi",
+          "url": "https://open.spotify.com/artist/6OWfHmLKhsu0tx7OkdPX5k"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Nobody's Watching",
-      "url": "https://open.spotify.com/track/4M0woqqRVPZBSH4zxHzsC8"
+      "duration_ms": 161931,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/6eUECveqsqdK7oQVvUMmWa"
     },
     {
-      "added_at": "2024-10-11 10:16:47",
+      "added_at": "2024-10-18 12:45:50",
       "album": {
-        "name": "Sturehof brinner",
-        "url": "https://open.spotify.com/album/3eDipKWW4LDXZcPeR5qfs1"
+        "name": "Black sheep",
+        "url": "https://open.spotify.com/album/4anwDNYf1lUhuyBkr2PUCr"
       },
       "artists": [
         {
-          "name": "Svenska Kulturarkivet",
-          "url": "https://open.spotify.com/artist/1zhb35WxJJexsr3kFZYAq2"
+          "name": "Zaydro",
+          "url": "https://open.spotify.com/artist/7ihpG4vgytBTWm4nSck9Cb"
         }
       ],
-      "duration_ms": 118850,
-      "name": "Sturehof brinner",
-      "url": "https://open.spotify.com/track/4kDLwT5jVVYOOTKBrz08uz"
+      "duration_ms": 194118,
+      "name": "Black sheep",
+      "url": "https://open.spotify.com/track/728GwjVYLAGzocVcAYUUfi"
+    },
+    {
+      "added_at": "2024-10-18 12:45:50",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/4Cfyt9dvdx8T8KQf33KPqK"
+      },
+      "artists": [
+        {
+          "name": "jam henderson",
+          "url": "https://open.spotify.com/artist/3MeCVqayqessNkq4Ex9l3W"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6XNiQJyEAoiysZW16e3UKY"
+    },
+    {
+      "added_at": "2024-10-18 12:45:50",
+      "album": {
+        "name": "Other Side of the Hill",
+        "url": "https://open.spotify.com/album/5atZ7TyH8P2atZGVOwQ909"
+      },
+      "artists": [
+        {
+          "name": "Hilde Halseth",
+          "url": "https://open.spotify.com/artist/1DxIonqnJ5sZOWtESUIoKQ"
+        }
+      ],
+      "duration_ms": 164595,
+      "name": "Other Side of the Hill",
+      "url": "https://open.spotify.com/track/3hSaMN3s0FEEVTIyKNiFPO"
+    },
+    {
+      "added_at": "2024-10-18 12:45:50",
+      "album": {
+        "name": "Think of England",
+        "url": "https://open.spotify.com/album/3nzTEc7Ba6hcAmetAb2BEo"
+      },
+      "artists": [
+        {
+          "name": "Safety Jacket",
+          "url": "https://open.spotify.com/artist/5Dn7OEu1e0Tzh53bB6Qugs"
+        }
+      ],
+      "duration_ms": 184732,
+      "name": "Think of England",
+      "url": "https://open.spotify.com/track/1CwlL2Vm24xCtHMXpn3eQk"
+    },
+    {
+      "added_at": "2024-10-18 12:45:50",
+      "album": {
+        "name": "Tuli sis\u00e4ll\u00e4ni",
+        "url": "https://open.spotify.com/album/2LQlB4PzBIeQOzqzaOtJSL"
+      },
+      "artists": [
+        {
+          "name": "Sisin",
+          "url": "https://open.spotify.com/artist/0uTz4dWgG6l3r9vUYAJYQK"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Lyhyen t\u00e4ht\u00e4imen suunnitelma",
+      "url": "https://open.spotify.com/track/4PssQzYqhZ9a2SklNwxfMy"
+    },
+    {
+      "added_at": "2024-10-18 12:45:50",
+      "album": {
+        "name": "Seven Circles",
+        "url": "https://open.spotify.com/album/3CnM9cVHLfI4l7XGS4qXhC"
+      },
+      "artists": [
+        {
+          "name": "Tinnitus",
+          "url": "https://open.spotify.com/artist/4Voc87RhqtojHzLR3LrNao"
+        }
+      ],
+      "duration_ms": 251566,
+      "name": "Seven Circles",
+      "url": "https://open.spotify.com/track/28wve3iX1JCaeGEcuhhRMw"
     }
   ],
   "unique_name": "Independent Music Friday",

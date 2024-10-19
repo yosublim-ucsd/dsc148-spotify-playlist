@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,484 songs - 2 day 7 hr 52 min
+1,486 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/5P1tayGhNEZlky687uFT06) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [Anti](https://open.spotify.com/track/3zqBbUO98vVRF8SBFVMDrI) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Anti](https://open.spotify.com/album/6uWgVDRheEtVFDnlTOzsvf) | 2:14 | 2022-07-08 | 2022-12-10 |
 | [aperol spritz](https://open.spotify.com/track/6h1tgGz0ZWoNvPVadoGanS) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [aperol spritz](https://open.spotify.com/album/4WeG7tPEaI7ywF6jayjuA8) | 2:10 | 2024-10-04 |  |
-| [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 |  |
+| [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 | 2024-10-19 |
 | [April](https://open.spotify.com/track/2Tc2p3pNAWjnIjiP6fS6y4) | [Young Akino](https://open.spotify.com/artist/4u16ySAhgpcfh3aRi0pv5o) | [April](https://open.spotify.com/album/60e5ClJJ339aOagoS3C21n) | 2:00 | 2023-08-03 |  |
 | [Aqua Bar](https://open.spotify.com/track/2fMjuehxqKJQml8jitq4Xd) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93) | [Aqua Bar](https://open.spotify.com/album/1ZBxF4yICm5p5i3gwqBW4F) | 1:33 | 2022-09-02 | 2023-09-05 |
 | [arc de jazz](https://open.spotify.com/track/2sQvrPfsAOq9YfZL2Q2I5F) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV), [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7) | [arc de jazz](https://open.spotify.com/album/66WjlLqmP4lN8KoFwS8ChP) | 1:56 | 2022-07-29 | 2022-10-29 |
@@ -612,6 +612,7 @@
 | [In Your Slipstream](https://open.spotify.com/track/1wxcBv3bOUfwttkauONOb6) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Slipstreamin'](https://open.spotify.com/album/2zbCqsUvKvnZde2Ak9KXQK) | 2:08 | 2022-09-23 | 2024-05-14 |
 | [Inbetween](https://open.spotify.com/track/3epvvHvAZt3aMZugBp0rlp) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Signs](https://open.spotify.com/album/3UAcTtzzuO50IB9wPVi0Vn) | 2:04 | 2022-07-08 | 2022-12-10 |
 | [Incandescent \- Coffe Shop](https://open.spotify.com/track/7t0UfZI912GyjgOnL0Izk6) | [Dan Juno](https://open.spotify.com/artist/4XB8JAQw1Kturm4SPu6fgo) | [Incandescent](https://open.spotify.com/album/3b2yTFDGss6y7SaHRSWbZ9) | 2:18 | 2022-05-27 | 2023-06-06 |
+| [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 | 2024-10-18 |  |
 | [India floris](https://open.spotify.com/track/5HZZIeSEVcHakvsNqpNbcU) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [India floris](https://open.spotify.com/album/1Xv2yhvg6y6lHsbegMDZWl) | 2:32 | 2023-09-22 |  |
 | [indigo](https://open.spotify.com/track/5x8w0sFl1lt7hr6dzU0o6i) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [indigo](https://open.spotify.com/album/0qeZQ9mtQtvj1h1zs5eTj3) | 1:35 | 2022-11-11 | 2023-09-05 |
 | [indigo](https://open.spotify.com/track/68tQkY1CYZzMVf7PTf4YUa) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [indigo](https://open.spotify.com/album/10h3eJEijIHzjSPePAAcHd) | 1:35 | 2022-10-28 | 2022-11-24 |
@@ -1022,7 +1023,7 @@
 | [Puppy Attakk](https://open.spotify.com/track/3nSzRd7SyJgfjANyMhplh3) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Puppy Attakk](https://open.spotify.com/album/4ctCw71T1KsVWCg9g0OdrY) | 3:12 | 2023-10-06 | 2024-06-01 |
 | [Purple Dress](https://open.spotify.com/track/2CNAK398ZWTjt7TJhZXbNT) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Purple Dress](https://open.spotify.com/album/7I9FUIhdhV0deg1XiZ8s5F) | 2:30 | 2022-07-08 | 2023-04-21 |
 | [Purple Skies](https://open.spotify.com/track/1fhsrPZVn5i7tsEsbspzgM) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Purple Skies](https://open.spotify.com/album/4Thel3mQHPCmIUUaQgoN7B) | 2:17 | 2023-11-24 | 2024-05-14 |
-| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 |  |
+| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 | 2024-10-19 |
 | [pyramids](https://open.spotify.com/track/313eJh505wri03xuiBpvWc) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [pyramids](https://open.spotify.com/album/451J4BD9m0VD98OAViQ1tx) | 2:01 | 2024-08-23 |  |
 | [queue](https://open.spotify.com/track/6p7WEWtYxc0JqrJJOYFsJn) | [sumwut](https://open.spotify.com/artist/6rDyCgfBm5atHVVNFxLFn0) | [queue](https://open.spotify.com/album/3iQMbmMhC355C1L6d18uoo) | 2:12 | 2022-07-29 | 2023-08-04 |
 | [Quickly](https://open.spotify.com/track/3klS1XdaiAt2mkvtHYfOCK) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Bittersweet](https://open.spotify.com/album/7mUs0A1m3ceo8HUsLM15BT) | 2:58 | 2022-08-19 | 2023-01-13 |
@@ -1142,6 +1143,7 @@
 | [Shoreditch](https://open.spotify.com/track/6zW2hZO4fhEgwuQryRu7tA) | [sky city](https://open.spotify.com/artist/5mzlg0RXi4jy5YU6XWFTgV) | [Shoreditch](https://open.spotify.com/album/2PLmVR4qXgCCUDkDsLETfG) | 1:41 | 2022-07-29 | 2022-09-17 |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-01-27 | 2022-09-03 |
 | [Shower Thoughts](https://open.spotify.com/track/1ISAjJlU6f8kdXQGbsxHvT) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Shower Thoughts](https://open.spotify.com/album/71h6jwoSe8NghMkX8xghD5) | 1:18 | 2023-08-03 | 2023-10-20 |
+| [shrimp fried rice](https://open.spotify.com/track/3x3XohQ3tsuvhAKiWKEb2b) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [shrimp fried rice](https://open.spotify.com/album/0EkiQfwMrE5I2vo3eCwNdA) | 2:46 | 2024-10-18 |  |
 | [Siamese Catwalk \(Little Flute\)](https://open.spotify.com/track/4SMvpl84nQpGas1UAXzHj4) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Siamese Catwalk \(Little Flute\)](https://open.spotify.com/album/7yJg1mV8DVDg5btdZb2yQN) | 2:55 | 2023-06-05 |  |
 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 | 2022-10-15 | 2023-09-22 |
 | [Silky Way](https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT) | [Upah Beats](https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI) | [Silky Way](https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE) | 2:33 | 2023-11-17 | 2024-05-17 |

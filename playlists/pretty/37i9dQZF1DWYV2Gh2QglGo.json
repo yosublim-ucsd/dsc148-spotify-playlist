@@ -1,15 +1,15 @@
 {
   "description": "The home of Canadian country music. Cover: Madeline Merlo",
-  "num_followers": 79424,
+  "num_followers": 79444,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAABgpWmsQGDaOC4PW5H/mY8a",
+  "snapshot_id": "ZxHdQAAAAAAE1jWk/QROUYqRxmF+4c/8",
   "tracks": [
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 289480,
+      "name": "One Hell of a Woman",
+      "url": "https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
@@ -61,7 +77,43 @@
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Coming Home To You (Bigger Houses)",
+        "url": "https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 208425,
+      "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
+      "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "When I Hear That Song",
+        "url": "https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "duration_ms": 202690,
+      "name": "When I Hear That Song",
+      "url": "https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
@@ -81,7 +133,23 @@
       "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Worth The Double",
+        "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 171657,
+      "name": "Worth The Double",
+      "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Takes Me Back",
         "url": "https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd"
@@ -97,23 +165,7 @@
       "url": "https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bobcaygeon",
-        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 283687,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Want This Beer (Feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
@@ -133,7 +185,7 @@
       "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Hey Mom I Made It",
         "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
@@ -149,7 +201,7 @@
       "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/5FDSDpPMBfchzOlVmIM40g"
@@ -165,7 +217,7 @@
       "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Lonely Dirt Road",
         "url": "https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y"
@@ -181,7 +233,7 @@
       "url": "https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Things My Mama Says",
         "url": "https://open.spotify.com/album/4MWGPCRkqgf9Iswh6kYJCH"
@@ -197,7 +249,7 @@
       "url": "https://open.spotify.com/track/4my3xcaM2p80DFfi3ZTiHB"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Outliving (For Mom)",
         "url": "https://open.spotify.com/album/49L9I4n7kIxGBOjakpxuCo"
@@ -213,7 +265,7 @@
       "url": "https://open.spotify.com/track/1yLUBXYa3r768BBzp63duL"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/5nMzr2speC3Wj7dlk718M6"
@@ -229,7 +281,23 @@
       "url": "https://open.spotify.com/track/4F3o1NgUyyVIMyc9jRmYyK"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Kitchen Floor",
+        "url": "https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 234030,
+      "name": "Kitchen Floor",
+      "url": "https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Hangover At My Place",
         "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
@@ -249,7 +317,7 @@
       "url": "https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3"
@@ -265,7 +333,23 @@
       "url": "https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Bobcaygeon",
+        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 283687,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
@@ -281,7 +365,7 @@
       "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu"
@@ -297,23 +381,7 @@
       "url": "https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Silverado-si-do",
-        "url": "https://open.spotify.com/album/4mZpINDx7oZJcrLVx6HTC7"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 203468,
-      "name": "Silverado-si-do",
-      "url": "https://open.spotify.com/track/2arYI5xSg8l1CMqMaJwOQo"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Boots Don't (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr"
@@ -333,7 +401,7 @@
       "url": "https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Livin\u2019 My Life Like a Country Song",
         "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
@@ -353,7 +421,7 @@
       "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "today",
         "url": "https://open.spotify.com/album/51NB0c3HmIOHwF5XAX5Hmr"
@@ -369,7 +437,7 @@
       "url": "https://open.spotify.com/track/2f53Ycvv8VrgGOa5VcMnMk"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
@@ -389,7 +457,7 @@
       "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t"
@@ -405,7 +473,7 @@
       "url": "https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
@@ -425,7 +493,7 @@
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "He's The One",
         "url": "https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT"
@@ -441,7 +509,7 @@
       "url": "https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "One Beer Away",
         "url": "https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F"
@@ -457,7 +525,27 @@
       "url": "https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "LIFE OUT HERE",
+        "url": "https://open.spotify.com/album/1WJ2s8BhfaDWbZLCUDv07b"
+      },
+      "artists": [
+        {
+          "name": "Faber Drive",
+          "url": "https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT"
+        },
+        {
+          "name": "Dave Faber",
+          "url": "https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8"
+        }
+      ],
+      "duration_ms": 164727,
+      "name": "LIFE OUT HERE",
+      "url": "https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Didn't See It Coming",
         "url": "https://open.spotify.com/album/0IFkISeD6tB1NmN0pvL4tq"
@@ -473,7 +561,23 @@
       "url": "https://open.spotify.com/track/350wMFVRZe1HGKOjcOLCWa"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Silverado-si-do",
+        "url": "https://open.spotify.com/album/4mZpINDx7oZJcrLVx6HTC7"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 203468,
+      "name": "Silverado-si-do",
+      "url": "https://open.spotify.com/track/2arYI5xSg8l1CMqMaJwOQo"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Five Beers From Now",
         "url": "https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP"
@@ -489,7 +593,7 @@
       "url": "https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Cant Go Home",
         "url": "https://open.spotify.com/album/6nNZu0SLhEsYT2Rgphh59z"
@@ -505,7 +609,7 @@
       "url": "https://open.spotify.com/track/6QBjsyaQUJOGCy2lL62Qum"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Feels Country To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
@@ -521,23 +625,7 @@
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Rodeo Junkies",
-        "url": "https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 216617,
-      "name": "Rodeo Junkies",
-      "url": "https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "She Stole My Harley",
         "url": "https://open.spotify.com/album/4pnwZ0Jrh3wIXE7b6wr0fC"
@@ -553,7 +641,23 @@
       "url": "https://open.spotify.com/track/0UgBuShvhYEmOuFHXvzZgY"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "In Love With La",
+        "url": "https://open.spotify.com/album/6XKWwqhcz0hXgimpL4jfze"
+      },
+      "artists": [
+        {
+          "name": "Emilie Roberts",
+          "url": "https://open.spotify.com/artist/7J4Swtcm5xXwk5FRarp4v0"
+        }
+      ],
+      "duration_ms": 194471,
+      "name": "In Love With La",
+      "url": "https://open.spotify.com/track/2lgWZMHYkOJG6695htHd5O"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Love Me Or Leave Me (Day Or Night Mix)",
         "url": "https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za"
@@ -573,7 +677,7 @@
       "url": "https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Water in the fuel",
         "url": "https://open.spotify.com/album/1YV2EnSZJglbQUo1EnPaIm"
@@ -589,43 +693,7 @@
       "url": "https://open.spotify.com/track/3dMnMAkB1zzSe9yZxaYGuA"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Your Time to Stay",
-        "url": "https://open.spotify.com/album/3kIPmiOQBUlVuTKcTykGvl"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goodvin",
-          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
-        }
-      ],
-      "duration_ms": 161943,
-      "name": "Your Time to Stay",
-      "url": "https://open.spotify.com/track/0xb6hOMY4KxjoSEHgeslZQ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        },
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        }
-      ],
-      "duration_ms": 170251,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
@@ -649,7 +717,23 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Love and Hate",
+        "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "duration_ms": 167058,
+      "name": "Love and Hate",
+      "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "What Were You Thinking",
         "url": "https://open.spotify.com/album/4Wl1YFchaNEpgfiO0PQzMt"
@@ -665,7 +749,7 @@
       "url": "https://open.spotify.com/track/3JcxcgGRPVSIkey9OHwveg"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Bruce County",
         "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
@@ -681,23 +765,7 @@
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bigger Than This Town",
-        "url": "https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP"
-      },
-      "artists": [
-        {
-          "name": "Steven Lee Olsen",
-          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
-        }
-      ],
-      "duration_ms": 174441,
-      "name": "Bigger Than This Town",
-      "url": "https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Single Again",
         "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
@@ -713,23 +781,7 @@
       "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "I Miss Tom Petty",
-        "url": "https://open.spotify.com/album/2jipnmsimfXo4shzek45q2"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "I Miss Tom Petty",
-      "url": "https://open.spotify.com/track/2cKLJiaJwgoPDEMNqibPxn"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Terri Clark: Take Two",
         "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
@@ -749,23 +801,7 @@
       "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Golden Rules",
-        "url": "https://open.spotify.com/album/51KnCu9usIKL5K2RMDoAEY"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Golden Rules",
-      "url": "https://open.spotify.com/track/4cIpz9pVrZ0aaHWqAMMaW7"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Westerly",
         "url": "https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj"
@@ -781,7 +817,7 @@
       "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "I Need A Saviour",
         "url": "https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc"
@@ -797,7 +833,7 @@
       "url": "https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Somewhere Tonight",
         "url": "https://open.spotify.com/album/7kyYOT9mx5VaYu8iVoIK57"
@@ -813,23 +849,7 @@
       "url": "https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Hold On Goodbye",
-        "url": "https://open.spotify.com/album/2UAR2r2Go9VKUbW5qeiNxI"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Hold On Goodbye",
-      "url": "https://open.spotify.com/track/5UwLJ9EwsTyH57T9DSaJEH"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "From A to B",
         "url": "https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF"
@@ -843,22 +863,6 @@
       "duration_ms": 212613,
       "name": "Wreckin' this Truck",
       "url": "https://open.spotify.com/track/6jtfr9qz4IGhopSc7iYHZR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Heartbreak Saloon",
-        "url": "https://open.spotify.com/album/67fo7zpzdcwoYr7vfXHbhn"
-      },
-      "artists": [
-        {
-          "name": "Dallas Alexander",
-          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
-        }
-      ],
-      "duration_ms": 247459,
-      "name": "Heartbreak Saloon",
-      "url": "https://open.spotify.com/track/2b74hgJd9xnOW6AjSEisnO"
     }
   ],
   "unique_name": "North Country",

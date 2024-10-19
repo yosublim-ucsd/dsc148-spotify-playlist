@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 232933,
       "name": "At the Old Village",
       "url": "https://open.spotify.com/track/6ntmm1oBcl7JIjEIQJqSLQ"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 219555,
       "name": "Chuska",
       "url": "https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 265548,
       "name": "Enchanted Forest",
       "url": "https://open.spotify.com/track/30UsA3ghZRFAralfqz7qn4"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 276768,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210648,
       "name": "My Quiet Place",
       "url": "https://open.spotify.com/track/1OntsKRQKkQaQNfOyRl0Ne"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 208800,
       "name": "Mystiqal",
       "url": "https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 172563,
       "name": "Nature Calling",
       "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 193548,
       "name": "Sachchaee",
       "url": "https://open.spotify.com/track/6nR8ci27qzCAnPqSViqWGr"
@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7H8cwQxzzwOFGiKWNiEo9S"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rhey",
+          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162110,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2VGYSiY8wnT9YLR8BjcJEF"
+    },
+    {
+      "album": {
         "name": "Stillhet",
         "url": "https://open.spotify.com/album/6QuqYBe5BsPlwEhp7lvy7R"
       },
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 206323,
       "name": "Tundra",
       "url": "https://open.spotify.com/track/1DrJxZMTHzTtBfT6kW5xCE"

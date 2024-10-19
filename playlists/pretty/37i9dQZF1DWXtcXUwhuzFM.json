@@ -1,12 +1,12 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. \ud83e\udd8b Kannessa Pihlaja.",
-  "num_followers": 96390,
+  "num_followers": 96430,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxF7DAAAAADzi+dn4AKGU86+WuqflhBj",
+  "snapshot_id": "ZxIMpQAAAAB1iiMhnKFdwkX4sSh681EI",
   "tracks": [
     {
       "added_at": "2024-10-17 21:01:00",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-10-17 21:01:00",
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
         "name": "Funny Girl",
         "url": "https://open.spotify.com/album/07kACnPnws9MluGjKSX9fd"
       },
@@ -499,6 +519,22 @@
     {
       "added_at": "2024-10-17 21:01:00",
       "album": {
+        "name": "T\u00e4ss\u00e4 talossa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/0SjCPyKz0kmzFmQiKVLTEF"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 221997,
+      "name": "T\u00e4ss\u00e4 talossa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/5pVeRXVETICXpLObQ6gPZ7"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
         "name": "Neuvonantaja / Iso kirkko palaa",
         "url": "https://open.spotify.com/album/5Z5NZpBIV7z3MZOD1yD8eN"
       },
@@ -695,6 +731,26 @@
     {
       "added_at": "2024-10-17 21:01:00",
       "album": {
+        "name": "Polku (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/32yFKb5ZLMg16XhHfExHre"
+      },
+      "artists": [
+        {
+          "name": "Roope Salminen",
+          "url": "https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC"
+        },
+        {
+          "name": "Roope Salminen & Koirat",
+          "url": "https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r"
+        }
+      ],
+      "duration_ms": 196084,
+      "name": "Polku (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/3fUc4fx7Hu77LlJGgKtm9c"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
         "name": "BRAINS OUT",
         "url": "https://open.spotify.com/album/6jcWmyj6cZwAOu9btxGLcr"
       },
@@ -759,6 +815,22 @@
       "duration_ms": 200589,
       "name": "THINGS BEHIND THINGS BEHIND THINGS",
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "added_at": "2024-10-18 07:22:13",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "added_at": "2024-10-17 21:01:00",
@@ -927,6 +999,22 @@
     {
       "added_at": "2024-10-17 21:01:00",
       "album": {
+        "name": "Kemiaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/7vbSeU5l9KcNShfojv77Ep"
+      },
+      "artists": [
+        {
+          "name": "Waldo's People",
+          "url": "https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF"
+        }
+      ],
+      "duration_ms": 194753,
+      "name": "Kemiaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/1no7uTslTw0jkSh7pIYUGc"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
         "name": "No Me Cansare",
         "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
       },
@@ -1003,6 +1091,22 @@
     {
       "added_at": "2024-10-17 21:01:00",
       "album": {
+        "name": "Harmaan s\u00e4vyj\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/7mhymr1eVxMCiRTkL0SgeI"
+      },
+      "artists": [
+        {
+          "name": "Hanna Pakarinen",
+          "url": "https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE"
+        }
+      ],
+      "duration_ms": 170406,
+      "name": "Harmaan s\u00e4vyj\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/3AbxR1gWW26UQ6N1n1wfcC"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
         "name": "No Bad Vibes",
         "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
       },
@@ -1019,6 +1123,22 @@
       "duration_ms": 162100,
       "name": "No Bad Vibes",
       "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
+        "name": "Pienin\u00e4 palasina (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/3tzTtF3LJ02KwHc5KU18M4"
+      },
+      "artists": [
+        {
+          "name": "Eini",
+          "url": "https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM"
+        }
+      ],
+      "duration_ms": 193537,
+      "name": "Pienin\u00e4 palasina - Vain el\u00e4m\u00e4\u00e4 kausi 15",
+      "url": "https://open.spotify.com/track/0ENnmQINMQL5iTkPEf9NgQ"
     },
     {
       "added_at": "2024-10-17 21:01:00",
@@ -1227,6 +1347,22 @@
     {
       "added_at": "2024-10-17 21:01:00",
       "album": {
+        "name": "\u00c4idit ja tytt\u00e4ret (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/4qN6iSxwZKJrUYj1g5RSmr"
+      },
+      "artists": [
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 224095,
+      "name": "\u00c4idit ja tytt\u00e4ret (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/7ziylKZOTcUYeH57FLfLm9"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
         "name": "Bye Bye Baby",
         "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
       },
@@ -1339,6 +1475,22 @@
       "duration_ms": 152410,
       "name": "Options (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
+    },
+    {
+      "added_at": "2024-10-17 21:01:00",
+      "album": {
+        "name": "El Yksin\u00e4inen Uta Saa",
+        "url": "https://open.spotify.com/album/6zKjK0lprcTBkGcV2wPePI"
+      },
+      "artists": [
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "duration_ms": 227112,
+      "name": "El Yksin\u00e4inen Uta Saa",
+      "url": "https://open.spotify.com/track/11OJGSUnnOxXdPQWoO6f75"
     },
     {
       "added_at": "2024-10-17 21:01:00",

@@ -1,13 +1,33 @@
 {
-  "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. ",
-  "num_followers": 176153,
+  "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: ROS\u00c8, Bruno Mars",
+  "num_followers": 176240,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxFCkAAAAADFDM9upH5hsCC/rS5aNnyw",
+  "snapshot_id": "ZxHdfQAAAAA9k6lLvWFiVz9kyFiuN/8n",
   "tracks": [
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
@@ -151,6 +171,22 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 184229,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
       },
@@ -163,6 +199,22 @@
       "duration_ms": 169973,
       "name": "Get Loud",
       "url": "https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
+        "name": "PUMP COLLECTOR\u2019S EDITION",
+        "url": "https://open.spotify.com/album/7r8pyl0ry9r6GVoTWu8OTw"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "MICHELIN CYPHER",
+      "url": "https://open.spotify.com/track/41J6fcsioFDdh410It3BUt"
     },
     {
       "added_at": "2024-10-17 17:00:00",
@@ -240,12 +292,12 @@
       },
       "artists": [
         {
-          "name": "Ifan Seventeen",
-          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
-        },
-        {
           "name": "Rizky Irmansyah",
           "url": "https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI"
+        },
+        {
+          "name": "Ifan Seventeen",
+          "url": "https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ"
         }
       ],
       "duration_ms": 245500,
@@ -741,7 +793,7 @@
         },
         {
           "name": "IKLIM",
-          "url": "https://open.spotify.com/artist/4AoiImAq5PJz2k3iGbn5LA"
+          "url": "https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS"
         }
       ],
       "duration_ms": 295697,
@@ -943,6 +995,38 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
+        "name": "Year 1 : We Still Loading",
+        "url": "https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        },
+        {
+          "name": "Rick bridges",
+          "url": "https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m"
+        },
+        {
+          "name": "northfacegawd",
+          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
+        },
+        {
+          "name": "DJ SKY",
+          "url": "https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy"
+        }
+      ],
+      "duration_ms": 276026,
+      "name": "We Still Loading (FEAT. Los, Rick Bridges, Northfacegawd, DJ SKY)",
+      "url": "https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
@@ -971,6 +1055,22 @@
       "duration_ms": 156173,
       "name": "WaveWay",
       "url": "https://open.spotify.com/track/2xc4Lw2KPK98ZgUfHh3o1D"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
+        "name": "HEARTSTORM",
+        "url": "https://open.spotify.com/album/5bFDDDoPJGiMp22SvRjQgz"
+      },
+      "artists": [
+        {
+          "name": "Sorn",
+          "url": "https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz"
+        }
+      ],
+      "duration_ms": 147338,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/3gOyq6UwUIaag8uOQhCrIE"
     },
     {
       "added_at": "2024-10-17 17:00:00",
@@ -1643,6 +1743,22 @@
       "duration_ms": 231800,
       "name": "What If",
       "url": "https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
+        "name": "fallIn'",
+        "url": "https://open.spotify.com/album/0UBt9qU96ZwijUeQHCrPN5"
+      },
+      "artists": [
+        {
+          "name": "ONE PACT",
+          "url": "https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5"
+        }
+      ],
+      "duration_ms": 172719,
+      "name": "DESERVED",
+      "url": "https://open.spotify.com/track/33iEkYyCgQBJNTRN2fkY4S"
     },
     {
       "added_at": "2024-10-17 17:00:00",

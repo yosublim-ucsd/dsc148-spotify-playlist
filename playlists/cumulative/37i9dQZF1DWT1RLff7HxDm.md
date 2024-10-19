@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-170 songs - 17 hr 4 min
+171 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [I Didn't Think She Would Do It \- Live](https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 4:34 | 2021-06-11 | 2022-07-25 |
 | [I Put A Spell On You](https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I Put A Spell On You](https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ) | 7:53 | 2024-10-04 |  |
 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 | 2022-04-29 |  |
+| [I'm Gonna Move To The Outskirts Of Town \- Remastered 2024](https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \- Deluxe Edition / Remastered 2024](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 23:22 | 2024-10-18 |  |
 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \- Live](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 | 2020-10-30 |  |
 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 | 2020-10-30 |  |
 | [Judgment Day \- Songs from the Road \[Live\]](https://open.spotify.com/track/7h72DcU0qIsRo1zpjQzIAF) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/1qlAQUQBLKNLDM8z41n4BR) | 7:17 | 2020-10-30 | 2024-04-12 |
@@ -162,7 +163,7 @@
 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 | 2020-10-30 | 2024-04-19 |
 | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 | 2024-02-23 | 2024-06-22 |
 | [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 | 2023-12-15 |  |
-| [Up Your Sleeve \- Live](https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Live at the '62 Center](https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw) | 5:24 | 2020-10-30 |  |
+| [Up Your Sleeve \- Live](https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Live at the '62 Center](https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw) | 5:24 | 2020-10-30 | 2024-10-19 |
 | [Wait On Time \- Live](https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [King King Live](https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv) | 6:23 | 2020-10-30 |  |
 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 | 2020-10-30 | 2024-04-19 |
 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 | 2021-04-23 | 2024-03-09 |

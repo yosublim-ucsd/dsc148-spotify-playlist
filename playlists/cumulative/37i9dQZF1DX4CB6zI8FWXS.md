@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Wizkid, Brent Faiyaz
 
-617 songs - 1 day 9 hr 11 min
+618 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR) | 4:30 | 2024-02-22 | 2024-03-15 |
 | [am i stupid?](https://open.spotify.com/track/6FjtQIOvAn6ovdXtKgKKCg) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [am i stupid?](https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7) | 2:03 | 2023-07-27 | 2023-08-11 |
 | [Amber Eyes](https://open.spotify.com/track/6riJWrvx4N2yVz3s1pzskp) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [Amber Eyes](https://open.spotify.com/album/3OZ8cCdH2oclExfDsCgU9A) | 2:56 | 2024-10-17 |  |
-| [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間 龍星](https://open.spotify.com/artist/0Hx30KghTTFuHiM6bF6SXp) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 | 2024-10-17 |  |
+| [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 | 2024-10-17 |  |
 | [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 | 2023-11-30 | 2024-01-19 |
 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 | 2023-11-17 |
 | [AppleTree](https://open.spotify.com/track/5mL9aWutkCJI0i4YnY8hmG) | [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [SOZO](https://open.spotify.com/album/6Dvkfccyaw2VDmNBCB9bHs) | 3:47 | 2023-06-29 | 2024-06-22 |
@@ -611,6 +611,7 @@
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-21 | 2024-04-05 |
 | [YOU \(feat\. Chriskris\)](https://open.spotify.com/track/45wKNuyP37muU09MtKYa21) | [Shigge](https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv), [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [YOU \(feat\. Chriskris\)](https://open.spotify.com/album/0odGJq3quC9UV0Cy66MQCX) | 2:18 | 2024-02-22 | 2024-03-22 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-07 | 2024-01-26 |
+| [You Ain't The Only One](https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [You Ain't The Only One](https://open.spotify.com/album/2exj3QEbmM141MCEpjFb1q) | 2:48 | 2024-10-17 |  |
 | [YOU ALREADY KNOW](https://open.spotify.com/track/6vsPPVol0ZNKux0Zkdg5zj) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [YOU ALREADY KNOW](https://open.spotify.com/album/4xp4UP0eFK2d8UaEAjlskb) | 3:03 | 2024-10-17 |  |
 | [You and I](https://open.spotify.com/track/1aVgW7yEcfzVL3Y82mbwsu) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Smithsoneon](https://open.spotify.com/artist/2jQda3HMB8jz71liefcP9g) | [銀平町シネマブルース オリジナルサウンドトラック](https://open.spotify.com/album/7n4rZizWt86V6jDkDdVXUD) | 3:26 | 2023-03-16 | 2023-08-18 |
 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \- Deluxe](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 | 2024-08-09 | 2024-08-23 |

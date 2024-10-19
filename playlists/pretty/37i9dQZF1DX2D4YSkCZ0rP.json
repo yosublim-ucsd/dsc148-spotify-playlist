@@ -1,18 +1,18 @@
 {
   "description": "La playlist des artistes LGBTQIA+. Photo : Nicky Doll",
-  "num_followers": 25458,
+  "num_followers": 25462,
   "original_name": "PRIDE France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoVUWgAAAACIA+choMeozmO61NKlLwSB",
+  "snapshot_id": "ZxJmGQAAAAA3XjNRghz1ipnikWM3f79A",
   "tracks": [
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "I had a dream",
-        "url": "https://open.spotify.com/album/7sSQqumPyQveD30B8lM3ZQ"
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/3NuqIkwwlGzXVlcsDPXRpi"
       },
       "artists": [
         {
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj"
         }
       ],
-      "duration_ms": 157741,
-      "name": "I had a dream",
-      "url": "https://open.spotify.com/track/0j8IMvAeBKZEu2UeYstU51"
+      "duration_ms": 161694,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/52eDCGa3pzmwNTwjz1mofw"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
@@ -41,63 +41,7 @@
       "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Nuit",
-        "url": "https://open.spotify.com/album/6BX4U1G3IPwQbvJjvMCchj"
-      },
-      "artists": [
-        {
-          "name": "Keiona",
-          "url": "https://open.spotify.com/artist/6qLROBbQvQNwzkH9AlVDCS"
-        },
-        {
-          "name": "Vinii Revlon",
-          "url": "https://open.spotify.com/artist/5Ia8RZQrtYWaHwaOUIfTZr"
-        },
-        {
-          "name": "Gigi Palmer",
-          "url": "https://open.spotify.com/artist/3TzcCiy5F5SILRR7uUwKQA"
-        }
-      ],
-      "duration_ms": 176128,
-      "name": "Nuit",
-      "url": "https://open.spotify.com/track/1tdvkP8LjrdtjCI3YyHpF9"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Enfant de",
-        "url": "https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR"
-      },
-      "artists": [
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
-        }
-      ],
-      "duration_ms": 174576,
-      "name": "Enfant de",
-      "url": "https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
@@ -113,10 +57,26 @@
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "C\u0153ur parapluie",
-        "url": "https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG"
+        "name": "OH MA PICHE",
+        "url": "https://open.spotify.com/album/44yuOQNjZ4KDh9nuKCh4HO"
+      },
+      "artists": [
+        {
+          "name": "Piche",
+          "url": "https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn"
+        }
+      ],
+      "duration_ms": 142332,
+      "name": "OH MA PICHE",
+      "url": "https://open.spotify.com/track/6uYv2ObL0mAtVSAs7j6opu"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
       },
       "artists": [
         {
@@ -124,12 +84,48 @@
           "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Puis t'as dans\u00e9 avec moi",
-      "url": "https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx"
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 185113,
+      "name": "Alone (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Enfant de",
+        "url": "https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 174576,
+      "name": "Enfant de",
+      "url": "https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "P.A.L.O.M.A",
         "url": "https://open.spotify.com/album/2RcsLkNpbowk3VoiQe0QwG"
@@ -153,43 +149,23 @@
       "url": "https://open.spotify.com/track/4Y2mnhFruV85574NOlh3RQ"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 185113,
-      "name": "Alone (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "OH MA PICHE",
-        "url": "https://open.spotify.com/album/44yuOQNjZ4KDh9nuKCh4HO"
-      },
-      "artists": [
-        {
-          "name": "Piche",
-          "url": "https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn"
-        }
-      ],
-      "duration_ms": 142332,
-      "name": "OH MA PICHE",
-      "url": "https://open.spotify.com/track/6uYv2ObL0mAtVSAs7j6opu"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "R+V",
         "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
@@ -205,23 +181,79 @@
       "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Nuit",
+        "url": "https://open.spotify.com/album/6BX4U1G3IPwQbvJjvMCchj"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Keiona",
+          "url": "https://open.spotify.com/artist/6qLROBbQvQNwzkH9AlVDCS"
+        },
+        {
+          "name": "Vinii Revlon",
+          "url": "https://open.spotify.com/artist/5Ia8RZQrtYWaHwaOUIfTZr"
+        },
+        {
+          "name": "Gigi Palmer",
+          "url": "https://open.spotify.com/artist/3TzcCiy5F5SILRR7uUwKQA"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 176128,
+      "name": "Nuit",
+      "url": "https://open.spotify.com/track/1tdvkP8LjrdtjCI3YyHpF9"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "HOPECORE",
+        "url": "https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw"
+      },
+      "artists": [
+        {
+          "name": "Rahim Redcar",
+          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
+        }
+      ],
+      "duration_ms": 286874,
+      "name": "DEEP HOLES",
+      "url": "https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "C\u2019est la Vie",
+        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 208469,
+      "name": "C\u2019est la Vie",
+      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H"
@@ -241,39 +273,7 @@
       "url": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/0WpHLzIPFOTIW6l4BznPJ4"
-      },
-      "artists": [
-        {
-          "name": "Bilal Hassani",
-          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
-        }
-      ],
-      "duration_ms": 177871,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/6PlgHNFxHZixWyUPko6diK"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
@@ -293,23 +293,55 @@
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "C\u2019est la Vie",
-        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 208469,
-      "name": "C\u2019est la Vie",
-      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "I DON'T CARE IF IT BURNS",
+        "url": "https://open.spotify.com/album/7t9iQmUI7FGSotjGYmpu5p"
+      },
+      "artists": [
+        {
+          "name": "LUCKY LOVE",
+          "url": "https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "I DON'T CARE IF IT BURNS",
+      "url": "https://open.spotify.com/track/609vNx9pq1tWUl9Zi2oMTX"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/0WpHLzIPFOTIW6l4BznPJ4"
+      },
+      "artists": [
+        {
+          "name": "Bilal Hassani",
+          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
+        }
+      ],
+      "duration_ms": 177871,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/6PlgHNFxHZixWyUPko6diK"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -329,75 +361,75 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "rentrer chez moi",
-        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
+        "name": "Make Love (Que du Love, Pt. 2)",
+        "url": "https://open.spotify.com/album/7gApEBLc3z9GH5Ow8Im5MH"
       },
       "artists": [
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "Make Love (Que du Love, Pt. 2)",
+      "url": "https://open.spotify.com/track/78M2p3tfDUcz7JF1lRaVHO"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "3SEX",
+        "url": "https://open.spotify.com/album/0hbpEwrp88dF2wjY4piSrb"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        },
         {
           "name": "Christine and the Queens",
           "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 219773,
-      "name": "rentrer chez moi",
-      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
+      "duration_ms": 257026,
+      "name": "3SEX",
+      "url": "https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/2uThFwczO3iFZISZV27fld"
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
       "artists": [
         {
-          "name": "La Grande Dame",
-          "url": "https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 230030,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6bIpArBwm2I0EpmSgqrKrf"
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Pegasus (ft. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+        "name": "Ma ch\u00e9rie",
+        "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
         }
       ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+      "duration_ms": 181388,
+      "name": "Ma ch\u00e9rie",
+      "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5"
-      },
-      "artists": [
-        {
-          "name": "Christophe Willem",
-          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "J'tomberai pas",
-      "url": "https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
@@ -425,39 +457,7 @@
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Festin",
-        "url": "https://open.spotify.com/album/5t9b4u5IKNu2nowfZkmW8W"
-      },
-      "artists": [
-        {
-          "name": "Piche",
-          "url": "https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn"
-        }
-      ],
-      "duration_ms": 153279,
-      "name": "Festin",
-      "url": "https://open.spotify.com/track/1PwoPHlYkcQl42PX6jHnf0"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "C'est La vie",
-        "url": "https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u"
-      },
-      "artists": [
-        {
-          "name": "Hyphen Hyphen",
-          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
-        }
-      ],
-      "duration_ms": 171061,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Nonante-Cinq La Suite",
         "url": "https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64"
@@ -473,107 +473,23 @@
       "url": "https://open.spotify.com/track/3VnkGuyau3qb04MVxSNjnl"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 186680,
+      "name": "J'tomberai pas",
+      "url": "https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "3SEX",
-        "url": "https://open.spotify.com/album/0hbpEwrp88dF2wjY4piSrb"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "3SEX",
-      "url": "https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "Ma ch\u00e9rie",
-        "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane",
-          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
-        }
-      ],
-      "duration_ms": 181388,
-      "name": "Ma ch\u00e9rie",
-      "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
-      "album": {
-        "name": "I'M READY",
-        "url": "https://open.spotify.com/album/0aEO7eknTMcfJJiYk0pYxN"
-      },
-      "artists": [
-        {
-          "name": "LUCKY LOVE",
-          "url": "https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP"
-        }
-      ],
-      "duration_ms": 182018,
-      "name": "I'M READY",
-      "url": "https://open.spotify.com/track/1QZXAnAMpys425p19UWlUH"
-    },
-    {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0uKQKIBzN5kpJSuiybdgVt"
@@ -589,7 +505,43 @@
       "url": "https://open.spotify.com/track/0crgq6PLl60iznPz45NEHP"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Baise Platine",
+        "url": "https://open.spotify.com/album/1Vp7l8D5UVUdhM0gEkFM3S"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Delage",
+          "url": "https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Baise Platine",
+      "url": "https://open.spotify.com/track/0rLBY1cGRusn8K39MsKqLC"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
@@ -609,39 +561,39 @@
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "_jun perseides",
-        "url": "https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe"
+        "name": "C'est La vie",
+        "url": "https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u"
       },
       "artists": [
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Hyphen Hyphen",
+          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
         }
       ],
-      "duration_ms": 176040,
-      "name": "_jun perseides",
-      "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
+      "duration_ms": 171061,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Cam\u00e9o",
-        "url": "https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp"
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
       "artists": [
         {
-          "name": "Suzane",
-          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 163106,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu"
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Que tu te mentes",
         "url": "https://open.spotify.com/album/0MVCYDiqg8ElZGtHEsQ9ML"
@@ -657,23 +609,39 @@
       "url": "https://open.spotify.com/track/246qLPvm2lY2lRl0QowN5g"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Baise Platine",
-        "url": "https://open.spotify.com/album/1Vp7l8D5UVUdhM0gEkFM3S"
+        "name": "Cam\u00e9o",
+        "url": "https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien Delage",
-          "url": "https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M"
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Baise Platine",
-      "url": "https://open.spotify.com/track/0rLBY1cGRusn8K39MsKqLC"
+      "duration_ms": 163106,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Everything Tasteful",
+        "url": "https://open.spotify.com/album/5pgnrJou1USLiQ2C1wU30o"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
       "album": {
         "name": "Lipstick Lover",
         "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
@@ -689,20 +657,52 @@
       "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
     },
     {
-      "added_at": "2024-07-03 13:38:34",
+      "added_at": "2024-10-18 13:43:53",
       "album": {
-        "name": "Everything Tasteful",
-        "url": "https://open.spotify.com/album/5pgnrJou1USLiQ2C1wU30o"
+        "name": "Festin",
+        "url": "https://open.spotify.com/album/5t9b4u5IKNu2nowfZkmW8W"
       },
       "artists": [
         {
-          "name": "Lala &ce",
-          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+          "name": "Piche",
+          "url": "https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn"
         }
       ],
-      "duration_ms": 161533,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3"
+      "duration_ms": 153279,
+      "name": "Festin",
+      "url": "https://open.spotify.com/track/1PwoPHlYkcQl42PX6jHnf0"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "_jun perseides",
+        "url": "https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "_jun perseides",
+      "url": "https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10"
+    },
+    {
+      "added_at": "2024-10-18 13:43:53",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/2uThFwczO3iFZISZV27fld"
+      },
+      "artists": [
+        {
+          "name": "La Grande Dame",
+          "url": "https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh"
+        }
+      ],
+      "duration_ms": 230030,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6bIpArBwm2I0EpmSgqrKrf"
     }
   ],
   "unique_name": "PRIDE France",

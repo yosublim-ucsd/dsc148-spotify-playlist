@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-155 songs - 9 hr 14 min
+156 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Choro de Verão](https://open.spotify.com/track/2Ioq4XghscznKAsUJGQP1D) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG) | [Choro de Verão](https://open.spotify.com/album/3NT972daF4lNEXR8D8pDMA) | 4:27 | 2021-11-26 |  |
 | [Choro de Verão](https://open.spotify.com/track/6wn4H2ORKskGU81H6Hpook) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG), [Lula Galvão](https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs), [Antonio Guerra](https://open.spotify.com/artist/4Imrv92w23I0R2Balg2jfe), [Guto Wirtti](https://open.spotify.com/artist/6G67mNrm0BRXVgdOOMk5nV) | [Palavra Alada 1](https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0) | 4:27 | 2021-11-26 | 2024-04-19 |
 | [Choro Pro Zé](https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG) | [Guinga](https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl), [Dudu Sperb](https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf) | [Navegante \- Dudu Sperb Recebe Guinga](https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT) | 4:45 | 2021-11-26 |  |
-| [Chovendo Na Roseira](https://open.spotify.com/track/4FwoSbAlyYBm2hsmAb6S7Q) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:14 | 2021-11-26 |  |
+| [Chovendo Na Roseira](https://open.spotify.com/track/4FwoSbAlyYBm2hsmAb6S7Q) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:14 | 2021-11-26 | 2024-10-19 |
 | [Chuvas De Verão](https://open.spotify.com/track/6ArixCD1Gbj8mCURjRiJuo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Bossa Nova Brasil](https://open.spotify.com/album/2jLijUfENTSa7T6FFoOpeM) | 2:49 | 2022-10-14 | 2022-11-13 |
 | [Chuvas De Verão](https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:49 | 2021-11-26 |  |
 | [Chuvas De Verão \- Remastered 2006](https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso \- 1969](https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9) | 2:48 | 2021-11-26 | 2024-04-19 |
@@ -72,6 +72,7 @@
 | [India \(Tarde De Sol\)](https://open.spotify.com/track/1O5NM6DEmroU160palBrX7) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [India](https://open.spotify.com/album/0ZUGe88QMoEUDETw0rOao3) | 3:08 | 2021-11-26 |  |
 | [Ingênuo](https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ) | 4:25 | 2021-11-26 | 2024-04-19 |
 | [Ingênuo](https://open.spotify.com/track/6WYUy3Pv1X47qy39ee9cGR) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/6gNaI6mkSJtD1QXDGkAcgO) | 4:25 | 2021-11-26 |  |
+| [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-18 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Bossa Nova Covers](https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX) | 2:45 | 2021-11-26 |  |
 | [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 | 2024-06-15 |
 | [Lamento](https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:46 | 2021-11-26 |  |

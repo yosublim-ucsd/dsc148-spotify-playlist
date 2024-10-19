@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour\. Foto: Melanie Williams y el príncipe idiota.
 
-646 songs - 1 day 14 hr 4 min
+647 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 | 2024-01-04 | 2024-07-13 |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 | 2022-12-06 |
 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-17 | 2023-10-27 |
-| [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 |  |
+| [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 | 2024-10-19 |
 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 | 2022-07-15 | 2024-04-19 |
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 |  |
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
@@ -610,6 +610,7 @@
 | [Un Recuerdo](https://open.spotify.com/track/1q06uH13BsX1S7xW7FAjlQ) | [Andrés Guerrero](https://open.spotify.com/artist/5DZ6Jknzod4InSRVzxpajz), [DOMΔ](https://open.spotify.com/artist/4CEn2mufh7u7qkxxC0ICDk) | [Un Recuerdo](https://open.spotify.com/album/5SqxZQlpBefSeSTrbeMi3g) | 4:43 | 2022-07-01 | 2022-07-29 |
 | [Un Secreto](https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ) | [Un Pasillo](https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw) | [Un Secreto](https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7) | 2:52 | 2023-08-25 | 2023-09-25 |
 | [Un Sencillo de Nadia](https://open.spotify.com/track/41up2ORs1QRWXUb4wMllIR) | [Nadia Sandrone](https://open.spotify.com/artist/2G5QfSxYMNMRYPMWGi492n), [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ), [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Sencillo de Nadia](https://open.spotify.com/album/0tzNeL1YRoC2Rzd0mBwRaF) | 3:28 | 2023-04-14 | 2023-04-22 |
+| [un tiro](https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:34 | 2024-10-18 |  |
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-08-11 | 2023-10-27 |
 | [Una ciudad de cristal \(Montevideo\)](https://open.spotify.com/track/40MPDxMqHq23QYbF692L9K) | [Calequi](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [Las Panteras](https://open.spotify.com/artist/2H9bvz22G7CnbT0Gm3uarb), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Facundo Balta](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ), [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Una ciudad de cristal \(Montevideo\)](https://open.spotify.com/album/7IFPI1gBOZi7Vsiyx2cCbt) | 3:57 | 2023-10-05 | 2023-10-27 |
 | [Una Curita para el Raspón](https://open.spotify.com/track/6oaHnpYZSyy7nSysc2o3HP) | [El Chavez](https://open.spotify.com/artist/78At4Kngmy7acsoeNPRHZN), [Marcos Insurgente](https://open.spotify.com/artist/3vcMKTlZppgP6exZh5WTDV) | [Una Curita para el Raspón](https://open.spotify.com/album/5rsBzvDMqOiu71KctWNIEC) | 3:27 | 2022-07-01 | 2022-07-17 |

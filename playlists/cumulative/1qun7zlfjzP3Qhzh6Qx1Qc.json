@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 184666,
       "name": "Devil on My Shoulder",
       "url": "https://open.spotify.com/track/6qAhXsSJKV7RF4nTmphTD3"
@@ -1456,6 +1456,24 @@
       "duration_ms": 172551,
       "name": "Fiddle in the Band",
       "url": "https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ"
+    },
+    {
+      "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk"
     },
     {
       "album": {
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 199733,
       "name": "Heart Brakes",
       "url": "https://open.spotify.com/track/1Rx2AHqY2md1mtavuFzEA7"
@@ -1921,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Hey Mom I Made It (Piano Version)",
+        "url": "https://open.spotify.com/album/4xj2qUH7sJfqwSwk10h290"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Hey Mom I Made It (Piano Version)",
+      "url": "https://open.spotify.com/track/23IoKXf2N9hXGEEnHRDOSO"
+    },
+    {
+      "album": {
         "name": "High Hopes (feat. Marcus King)",
         "url": "https://open.spotify.com/album/4B2TU5PQf1ZZvmRxgWKf9A"
       },
@@ -1976,6 +2012,24 @@
       "duration_ms": 259066,
       "name": "High Road",
       "url": "https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT"
+    },
+    {
+      "album": {
+        "name": "cowboy / hold my beer",
+        "url": "https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222597,
+      "name": "hold my beer",
+      "url": "https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2"
     },
     {
       "album": {
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
@@ -2298,6 +2352,24 @@
       "duration_ms": 235173,
       "name": "Keepin' The Lights On",
       "url": "https://open.spotify.com/track/7IVDnKNMiZbZbQiDrpu31E"
+    },
+    {
+      "album": {
+        "name": "Kitchen Floor",
+        "url": "https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234030,
+      "name": "Kitchen Floor",
+      "url": "https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP"
     },
     {
       "album": {
@@ -2514,10 +2586,28 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 136173,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/0r2vr5P2KFe3QHVxlOjYFJ"
+    },
+    {
+      "album": {
+        "name": "made it out of mexico (acoustic)",
+        "url": "https://open.spotify.com/album/6CUl4TvKLkXuD0byLSlnae"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "made it out of mexico - acoustic",
+      "url": "https://open.spotify.com/track/7CfoX1h6SG6AH6KVSc895Y"
     },
     {
       "album": {
@@ -2648,7 +2738,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 150880,
       "name": "Nashville",
       "url": "https://open.spotify.com/track/7ipqRoVXICKDuRPg2NYIbl"
@@ -2684,7 +2774,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 197986,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0oksHGLvgXwrvmAxWNO33T"
@@ -2738,7 +2828,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 257372,
       "name": "No One Else Like Me",
       "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
@@ -3031,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Religion and Politics",
+        "url": "https://open.spotify.com/album/0C5UnX7L5TlrY5LIYNeL4U"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191571,
+      "name": "Religion and Politics",
+      "url": "https://open.spotify.com/track/0an93wG6ltDZNDdtupLNJR"
+    },
+    {
+      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -3258,7 +3366,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 186644,
       "name": "Silverado",
       "url": "https://open.spotify.com/track/3jg6EdKCc9s3ibqwqle4Mu"
@@ -3736,6 +3844,24 @@
       "duration_ms": 197767,
       "name": "The Country Kind",
       "url": "https://open.spotify.com/track/3d7Qsk8D4HqrCBcolQX4HC"
+    },
+    {
+      "album": {
+        "name": "AMERICAN MOTOR SPORTS (420CC EDITION)",
+        "url": "https://open.spotify.com/album/0tVxMqyBNyclpMLDqww3Yr"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204624,
+      "name": "THE END",
+      "url": "https://open.spotify.com/track/1u8esuXKqxbKsleihNp7wo"
     },
     {
       "album": {
@@ -4340,6 +4466,24 @@
       "duration_ms": 141367,
       "name": "Wild Ones (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
+    },
+    {
+      "album": {
+        "name": "Will The Lord Remember Me (Live At The Ryman)",
+        "url": "https://open.spotify.com/album/4MZP1YKny0TlELrxRLMWud"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233595,
+      "name": "Will The Lord Remember Me - Live At The Ryman",
+      "url": "https://open.spotify.com/track/1yNsFXWPaZPkfoYhb6oHtV"
     },
     {
       "album": {

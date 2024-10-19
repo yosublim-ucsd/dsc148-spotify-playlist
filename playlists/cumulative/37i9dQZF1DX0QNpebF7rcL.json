@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Toronzo Cannon",
+  "description": "The best in blues right now. Cover: Fantastic Negrito",
   "name": "Got Blues",
   "tracks": [
     {
@@ -1782,6 +1782,24 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222549,
+      "name": "Drunk on Your Love",
+      "url": "https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k"
     },
     {
       "album": {
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 287523,
       "name": "Mine Someday",
       "url": "https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B"
@@ -5979,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "Son of a Broken Man",
+        "url": "https://open.spotify.com/album/5jL3XdYW4DmApDB3EAdm7O"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298029,
+      "name": "Son of a Broken Man",
+      "url": "https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN"
+    },
+    {
+      "album": {
         "name": "Spirit Rising",
         "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
       },
@@ -7172,7 +7208,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 217103,
       "name": "Undefeated Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/4IxMFz3PKWaqmsOq0ORjoV"

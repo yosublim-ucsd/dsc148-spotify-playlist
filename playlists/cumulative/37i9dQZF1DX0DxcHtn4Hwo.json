@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 89556,
       "name": "Hush My Darling",
       "url": "https://open.spotify.com/track/4jggA9UxxTVj3L4nJkrqoA"
@@ -6036,6 +6036,24 @@
       "duration_ms": 95970,
       "name": "I Believe In Magic",
       "url": "https://open.spotify.com/track/04nJrprLfKlFCjBLGZ9URD"
+    },
+    {
+      "album": {
+        "name": "I Can Be Anything",
+        "url": "https://open.spotify.com/album/5uWxf0Kb5RVKtpzKY2WztB"
+      },
+      "artists": [
+        {
+          "name": "Jo Nichols",
+          "url": "https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98842,
+      "name": "I Can Be Anything",
+      "url": "https://open.spotify.com/track/6V7vHsYdvyV1wZWI036aBO"
     },
     {
       "album": {
@@ -8210,7 +8228,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 93089,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/5TCkbh2eGCbp14pbv5ilkK"
@@ -9348,6 +9366,24 @@
       "duration_ms": 93505,
       "name": "My Tiny Dollhouse",
       "url": "https://open.spotify.com/track/40MlJ5caN94moDlrtmaIqE"
+    },
+    {
+      "album": {
+        "name": "My Village",
+        "url": "https://open.spotify.com/album/6viNUdEGeUan4WBcUEkCtZ"
+      },
+      "artists": [
+        {
+          "name": "Robin Colt",
+          "url": "https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92272,
+      "name": "My Village",
+      "url": "https://open.spotify.com/track/29RA6Jwwksfnop8VKIlsPQ"
     },
     {
       "album": {
@@ -12671,6 +12707,24 @@
     },
     {
       "album": {
+        "name": "Sprinkletoad",
+        "url": "https://open.spotify.com/album/6b7sa9WVvqNJMihcXsonsy"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90101,
+      "name": "Sprinkletoad",
+      "url": "https://open.spotify.com/track/6oFS9anQViHKvwO80TO171"
+    },
+    {
+      "album": {
         "name": "Stardust Slumber",
         "url": "https://open.spotify.com/album/21wwSR0ToJoUuEKOdOkzbC"
       },
@@ -14914,7 +14968,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 140413,
       "name": "Turkey in the Straw",
       "url": "https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw"

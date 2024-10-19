@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-163 songs - 10 hr 30 min
+164 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 | 2023-01-07 | 2024-04-19 |
 | [Gitanas Mojadas](https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C) | [Polka Madre](https://open.spotify.com/artist/0mQaCZUXORP5789FFfzDP8) | [Casa Dónde](https://open.spotify.com/album/7kfblvYGIlfBbetr0aZYFA) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [Go](https://open.spotify.com/track/3ClMIPI0OAW6SgPAPG0lDB) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Steal the Light](https://open.spotify.com/album/7Blq3llvFZhKNAZvj6XwWg) | 3:25 | 2023-07-07 | 2024-05-27 |
-| [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 |  |
+| [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 | 2024-10-19 |
 | [Gypsie Doodle \- Live](https://open.spotify.com/track/629f1Dy6T4NtcoHalprl6c) | [Analogik](https://open.spotify.com/artist/25czOabAkMaqDEMiIgrTXh) | [Klunserbeats Live](https://open.spotify.com/album/4OfxTH08O6sUb7Dk3ucFGs) | 3:29 | 2023-01-07 | 2023-10-05 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-09-10 |  |
 | [Hasta el Amanecer \(feat\. Gina Bustamante\)](https://open.spotify.com/track/733JqA2OMB1g4rmCMlqfXn) | [Los Kamer](https://open.spotify.com/artist/6Zsa6YJUpv57fOESdkQQ8M), [Gina Bustamante](https://open.spotify.com/artist/7bDkjZt8lmtgqoxAIDjsFJ) | [Los Kamer](https://open.spotify.com/album/2sQBMrJchTauZdl0228rBm) | 4:55 | 2021-09-10 | 2022-07-27 |
@@ -148,6 +148,7 @@
 | [Pravda](https://open.spotify.com/track/1vfG5VaQQzr7x7gCbVyQFF) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:11 | 2024-05-31 |  |
 | [Preciso Me Encontrar](https://open.spotify.com/track/3gMH4i4urrgaG0vNf7jk6C) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 4:13 | 2021-09-10 | 2022-06-16 |
 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 | 2021-09-10 |  |
+| [Raska Yu \(feat\. Ara Malikian\)](https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 3:33 | 2023-07-07 |  |
 | [Sabiduría de los Gatos](https://open.spotify.com/track/5FHJjoj9OyLoquoqJRgP3A) | [TAR](https://open.spotify.com/artist/3nJ1a3wW53aGZWFF300u52) | [Sabiduría de los Gatos](https://open.spotify.com/album/58o3jvwm9Zq3bw8PRDUXTF) | 3:10 | 2021-09-10 | 2022-07-27 |
 | [Sabor a Ti](https://open.spotify.com/track/1SXMBrXDCMNL8wJZlgBizE) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga) | [Sabor a Ti](https://open.spotify.com/album/0CWPpTKLwXB3kmvXyT4yY7) | 3:21 | 2021-09-10 | 2022-07-29 |
 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 | 2021-09-10 |  |

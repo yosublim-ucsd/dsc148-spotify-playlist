@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212370,
+      "name": "Ik Tara",
+      "url": "https://open.spotify.com/track/4hMoPJx1DO7CC3PW5B3kkU"
+    },
+    {
+      "album": {
         "name": "Iss Tan Dhan",
         "url": "https://open.spotify.com/album/1WiWIKDEXmUF6X4iCqfOZ8"
       },
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 406711,
       "name": "Sakal Ban - Coke Studio Season 8",
       "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"

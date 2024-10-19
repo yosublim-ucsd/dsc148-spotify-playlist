@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-276 songs - 13 hr 52 min
+277 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [My Girl](https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [My Girl](https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6) | 1:59 | 2022-12-02 | 2023-05-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5QO0KMwL5KkXhQU8jaXDWE) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Nothing Compares 2 U](https://open.spotify.com/album/4hsnONUwdp2TtL2oUGLh4s) | 3:20 | 2023-05-05 |  |
 | [Once I Was 7 years Old](https://open.spotify.com/track/1rU3j7FTsJY6TFU8dkoR3d) | [Ela Hills](https://open.spotify.com/artist/4rPETLWsKT01K13kePkC0r) | [Once I Was 7 years Old](https://open.spotify.com/album/6iaQfBdiUrwwlJqTFcB7nY) | 2:05 | 2022-05-20 | 2023-02-24 |
+| [One More Night](https://open.spotify.com/track/0ITT5QNAIFq3Lyi6kCrgRW) | [Petal & Thorn](https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM) | [One More Night](https://open.spotify.com/album/4WKzrMkFV02bMTA8QgOUyW) | 3:33 | 2024-10-18 |  |
 | [Only Wanna Be With You](https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Only Wanna Be With You](https://open.spotify.com/album/39liycElEFslWeDOpDrwt8) | 3:27 | 2022-05-20 | 2023-05-05 |
 | [Over The Rainbow](https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Over The Rainbow](https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK) | 3:29 | 2022-12-02 | 2023-05-05 |
 | [Paradise](https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Paradise](https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1) | 2:16 | 2022-12-02 |  |

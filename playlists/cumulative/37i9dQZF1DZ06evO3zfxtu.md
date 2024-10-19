@@ -2,9 +2,9 @@
 
 ### [This Is Eva Shaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zfxtu)
 
-> This Is Eva Shaw\. Los temas esenciales, todos en una lista.
+> This is Eva Shaw\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 18 min
+87 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [JUICE](https://open.spotify.com/track/4PrsPkbyqbvhM9dmO3LyqR) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [HYPE HOP 003](https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj) | 1:56 | 2023-12-13 |  |
 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D) | 3:19 | 2023-12-13 | 2024-05-05 |
 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/2KZszo7h0NLbG7YEuU934N) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [HYPE HOP 003](https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj) | 3:19 | 2024-01-16 | 2024-05-24 |
+| [line em up.](https://open.spotify.com/track/3WP3XJQ7GCenqbQVpbqhoc) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [line em up.](https://open.spotify.com/album/2EqgEU0owvPJh6wBLty1ew) | 2:19 | 2024-10-19 |  |
 | [lonely.](https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [lonely.](https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd) | 2:56 | 2024-06-30 |  |
 | [LOVE DRUG](https://open.spotify.com/track/2P0k3mn3pNwUMgHUqcvtEJ) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [LOVE DRUG](https://open.spotify.com/album/3c0QGeQpyW6AvYYxG6KKsp) | 2:37 | 2023-12-13 | 2023-12-31 |
 | [LOVE DRUG](https://open.spotify.com/track/4UQP340iUgSNhixjb9Epxh) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [LOVE DRUG](https://open.spotify.com/album/2A7YwDPjS3Xt1QtgqQBsNe) | 2:43 | 2023-12-30 |  |

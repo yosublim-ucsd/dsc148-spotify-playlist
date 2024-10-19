@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Dialog Dini Hari
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: William Sihombing
 
-203 songs - 13 hr 2 min
+206 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,12 +114,14 @@
 | [Lost](https://open.spotify.com/track/6RJIX0DfN4TAhxZCf8v8rE) | [re:NAN](https://open.spotify.com/artist/1JtMRbvX7bgGBifCBhgPFW) | [Lost Consciousness, Pt​.​2](https://open.spotify.com/album/5ADuz65F3CITmNYen4Bx9v) | 2:42 | 2024-07-19 | 2024-08-30 |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-06-27 | 2024-07-12 |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-06-27 | 2024-08-17 |
+| [Love Or Lust](https://open.spotify.com/track/4xLcwgJupO7t7YgROCTB2m) | [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Twisted Neurons](https://open.spotify.com/album/0ScRGqhhBGXryDEtjr8Sc5) | 4:15 | 2024-10-18 |  |
 | [Love Song \- Sped Up](https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Shaumil Kamilia](https://open.spotify.com/artist/5NkWOO2EW1nRzY0EusrOlz) | [Love Song \- Sped Up](https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA) | 3:48 | 2024-08-29 |  |
 | [Lovely Echoes](https://open.spotify.com/track/2aASuMToTrUrpNHGI8vw0x) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [Lovely Echoes](https://open.spotify.com/album/177PBhXJIjhoMgU7AFLst0) | 3:58 | 2024-10-07 |  |
 | [Mantra Puja](https://open.spotify.com/track/3DHae16zH3B8OwXkPugwdN) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Mantra Puja](https://open.spotify.com/album/1t64iPu6LnJhZ7NRov6nMf) | 5:25 | 2024-06-27 |  |
 | [Manusia Dalam Tanda Tanya](https://open.spotify.com/track/5znaJbleJp9FEx5g4W4F6N) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Manusia Dalam Tanda Tanya](https://open.spotify.com/album/0ou7Zm0gbBchox88sGzEoL) | 3:09 | 2024-06-27 | 2024-08-30 |
 | [Masa Kita](https://open.spotify.com/track/0wTyJ88G2wq50ykM5zSVMS) | [Abe Lubis](https://open.spotify.com/artist/1qCmZbGisqPoeIEjFG8WeF) | [Masa Kita](https://open.spotify.com/album/5y9toYszQZxF2bvHInGZCW) | 4:06 | 2024-06-27 | 2024-07-05 |
 | [Masih Batu](https://open.spotify.com/track/0KxfKlka5Y9PGRJJN3ccm4) | [BAALE](https://open.spotify.com/artist/62CEo98IwJIKhJ9fQ4Emta) | [Fortuna](https://open.spotify.com/album/447tgZJJCLdymxUM4LJKQy) | 4:50 | 2024-06-27 |  |
+| [Menggila](https://open.spotify.com/track/4ydaXOetyo0LnNrfLpvZnc) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Menggila](https://open.spotify.com/album/4r2uDt8qlzHfCsjSlEDeEl) | 3:33 | 2024-10-18 |  |
 | [Menit Tambahan](https://open.spotify.com/track/2y5QvggKQs5iauTD9Bc8Oa) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Menit Tambahan](https://open.spotify.com/album/0V3gnXRk85cwiz9xvV7Nu6) | 4:05 | 2024-06-27 |  |
 | [Merangkai Gundah Gulana](https://open.spotify.com/track/702KQGQOlABC5xua4IfyGT) | [Shadowplay](https://open.spotify.com/artist/2kvN7s4MbzDIYY0aqqHEwB) | [Merangkai Gundah Gulana](https://open.spotify.com/album/0esDD2wKp1IX3kSefJIvNz) | 3:58 | 2024-06-27 | 2024-09-06 |
 | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/album/1AuPJsz5VCBoMyVwqmGyC2) | 6:34 | 2024-08-09 |  |
@@ -136,6 +138,7 @@
 | [Nevermind](https://open.spotify.com/track/68lwFbVvTbPENi7PrJg1hu) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [Nevermind](https://open.spotify.com/album/5pNPZD5KqVf48by3PIHYYZ) | 4:24 | 2024-06-27 | 2024-07-05 |
 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 | 2024-07-04 |  |
 | [Niscaya](https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Niscaya](https://open.spotify.com/album/0kdtt7OLuQH3ojqFslGep6) | 3:58 | 2024-07-16 |  |
+| [Normal](https://open.spotify.com/track/4seNLrYD5A726QbcxTsobO) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Setengah Mati](https://open.spotify.com/album/3DVT0QNJVjBQGKwLi41WtV) | 3:16 | 2024-10-18 |  |
 | [Ode to an Old Man](https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA) | [Gonggo Sound](https://open.spotify.com/album/05zhGBYMnpmqGFeVAeJOnx) | 2:01 | 2024-06-27 |  |
 | [Oh Mengapa](https://open.spotify.com/track/3YdLD1PnI21Xsa8Nax9tGh) | [Sinajimasi](https://open.spotify.com/artist/5kyl7OeHkW1ZYHNpHDKtxD) | [Oh Mengapa](https://open.spotify.com/album/6xFlvBuwlGRgSGYkttTQk6) | 3:51 | 2024-06-27 | 2024-08-02 |
 | [Padam, Hadirmu Lentera](https://open.spotify.com/track/0tzteHtQzkR58XkA7bDzHL) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Padam, Hadirmu Lentera](https://open.spotify.com/album/6Pgg7VZpg1Cqap7WUs0C5p) | 3:35 | 2024-06-27 | 2024-07-27 |

@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 278082,
       "name": "Bunca Y\u0131l - Dedub Sessions",
       "url": "https://open.spotify.com/track/0mSFwDtiAPPNwBOSFnI3G5"
@@ -3938,6 +3938,24 @@
     {
       "album": {
         "name": "Never Truly Happy",
+        "url": "https://open.spotify.com/album/3pY25wIBpCPoLQFMES1Ahs"
+      },
+      "artists": [
+        {
+          "name": "NESYA",
+          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136459,
+      "name": "delulu",
+      "url": "https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB"
+    },
+    {
+      "album": {
+        "name": "Never Truly Happy",
         "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
       },
       "artists": [
@@ -3948,7 +3966,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
@@ -5687,6 +5705,28 @@
     },
     {
       "album": {
+        "name": "Freitag",
+        "url": "https://open.spotify.com/album/6VkHigvo5AFX0tmdKxD4TO"
+      },
+      "artists": [
+        {
+          "name": "The Butcher Sisters",
+          "url": "https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM"
+        },
+        {
+          "name": "Alligatoah",
+          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193884,
+      "name": "Freitag",
+      "url": "https://open.spotify.com/track/2DfK44Es90MGGSTgDexRkn"
+    },
+    {
+      "album": {
         "name": "DUNKLSCHWARZ",
         "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
       },
@@ -7198,7 +7238,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
@@ -7216,7 +7256,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214098,
       "name": "Her",
       "url": "https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU"
@@ -11100,7 +11140,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192463,
       "name": "Mein Hass tritt dir die Haust\u00fcr ein",
       "url": "https://open.spotify.com/track/7lQdJEWeNuZO8mlUUCfPMj"
@@ -17810,7 +17850,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 101420,
       "name": "void - super slowed",
       "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
@@ -18024,10 +18064,32 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
+    },
+    {
+      "album": {
+        "name": "Watermelon",
+        "url": "https://open.spotify.com/album/6vBk0iAPnrNNLYZTFdskYx"
+      },
+      "artists": [
+        {
+          "name": "Relentless",
+          "url": "https://open.spotify.com/artist/7a3M78qUYhXA63joz1fPyf"
+        },
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110110,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/4RcvW85krnaZmDpA9lD5qq"
     },
     {
       "album": {

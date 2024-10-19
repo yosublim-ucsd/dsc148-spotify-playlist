@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/62F93NYxSrElQEm82H9jyy"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n Araujo",
+          "url": "https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140734,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/76TW6dvTlFPDveErCIVy3c"
+    },
+    {
+      "album": {
         "name": "For No One",
         "url": "https://open.spotify.com/album/3PUwPDAALl1BF2Qg4YvEqE"
       },
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 201600,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz"
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 243843,
       "name": "Heaven - Piano Version",
       "url": "https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0"
@@ -4049,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Luka",
+        "url": "https://open.spotify.com/album/4PWvEmBPDC9D3uLPCrDDZj"
+      },
+      "artists": [
+        {
+          "name": "Dan Goten",
+          "url": "https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Luka",
+      "url": "https://open.spotify.com/track/6zzJr3AYoWHoZwKEjnpIIs"
+    },
+    {
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi"
       },
@@ -4190,6 +4226,24 @@
       "duration_ms": 212073,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG"
+    },
+    {
+      "album": {
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/1yx6YgJXcUDn7eU5ZTT1uF"
+      },
+      "artists": [
+        {
+          "name": "Lars Florence",
+          "url": "https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/7iwXlyPLGukVO3nT3jGyfi"
     },
     {
       "album": {
@@ -6930,7 +6984,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 176170,
       "name": "We Don't Need Another Hero",
       "url": "https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS"

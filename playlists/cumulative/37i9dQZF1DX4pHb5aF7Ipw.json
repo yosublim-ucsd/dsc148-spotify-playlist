@@ -1043,6 +1043,28 @@
     },
     {
       "album": {
+        "name": "If the Sun Had a Dark Side",
+        "url": "https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx"
+      },
+      "artists": [
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Indrr Bajwa",
+          "url": "https://open.spotify.com/artist/1VmoJx8138LFsA5XiRjQ01"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153707,
+      "name": "Colt Buntlines",
+      "url": "https://open.spotify.com/track/50UofRUiC8RvGh32B7CLrI"
+    },
+    {
+      "album": {
         "name": "DSP",
         "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
       },
@@ -1496,6 +1518,24 @@
       "duration_ms": 176504,
       "name": "Face Value",
       "url": "https://open.spotify.com/track/0PiQb1xuNqzeIHrSEwH3Cm"
+    },
+    {
+      "album": {
+        "name": "Finance",
+        "url": "https://open.spotify.com/album/2XeTou0sZ9hm1hVtsRBpSW"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bhullar",
+          "url": "https://open.spotify.com/artist/6g24MQXt7eR4oVKsMTNcT3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Finance",
+      "url": "https://open.spotify.com/track/1RtliNYEdMDorh3XTvnsYU"
     },
     {
       "album": {
@@ -2323,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "If the Sun Had a Dark Side",
+        "url": "https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx"
+      },
+      "artists": [
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Indrr Bajwa",
+          "url": "https://open.spotify.com/artist/1VmoJx8138LFsA5XiRjQ01"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129791,
+      "name": "Kasoor",
+      "url": "https://open.spotify.com/track/7J4Rgx4pHVuJWF9NGmBu2r"
+    },
+    {
+      "album": {
         "name": "Kikli",
         "url": "https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN"
       },
@@ -2380,8 +2442,8 @@
           "url": "https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA"
         },
         {
-          "name": "Rxtro",
-          "url": "https://open.spotify.com/artist/7Mz9BEnrYCSHXZLUGJudiJ"
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
         }
       ],
       "date_added": "2024-10-16",
@@ -2829,6 +2891,28 @@
     },
     {
       "album": {
+        "name": "Mitran Di Hood (From \"Pendu Boyz\")",
+        "url": "https://open.spotify.com/album/1gugWAwXrXiQzDCzejFRH6"
+      },
+      "artists": [
+        {
+          "name": "A Kay",
+          "url": "https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh"
+        },
+        {
+          "name": "Pendu Boyz",
+          "url": "https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120075,
+      "name": "Mitran Di Hood (From \"Pendu Boyz\")",
+      "url": "https://open.spotify.com/track/1L6KZjvkF1Pa9p6dCR9YDd"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -2960,6 +3044,24 @@
       "duration_ms": 139310,
       "name": "Naa Bolda",
       "url": "https://open.spotify.com/track/5JGhthcLobI6e5G3xWoVwb"
+    },
+    {
+      "album": {
+        "name": "NATTIYAN",
+        "url": "https://open.spotify.com/album/1362IGKQ5wrRxo78YGtqf3"
+      },
+      "artists": [
+        {
+          "name": "Jaggie",
+          "url": "https://open.spotify.com/artist/3RsvQgqZzr4YJ4xu7BPLjl"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123189,
+      "name": "NATTIYAN",
+      "url": "https://open.spotify.com/track/2Cpct9eWGnHE6DaNTUH8qo"
     },
     {
       "album": {
@@ -3960,7 +4062,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 129654,
       "name": "Takkre",
       "url": "https://open.spotify.com/track/6mk8Crg34K7YadjQbWwFGm"
@@ -4502,6 +4604,32 @@
       "duration_ms": 188560,
       "name": "Westside",
       "url": "https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1"
+    },
+    {
+      "album": {
+        "name": "If the Sun Had a Dark Side",
+        "url": "https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx"
+      },
+      "artists": [
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Indrr Bajwa",
+          "url": "https://open.spotify.com/artist/1VmoJx8138LFsA5XiRjQ01"
+        },
+        {
+          "name": "Irman",
+          "url": "https://open.spotify.com/artist/6PekRKJMJZzbPCcFhjUyH1"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147846,
+      "name": "What They Doin'",
+      "url": "https://open.spotify.com/track/4xo2p5SZnutl5uG2ExZi6b"
     },
     {
       "album": {

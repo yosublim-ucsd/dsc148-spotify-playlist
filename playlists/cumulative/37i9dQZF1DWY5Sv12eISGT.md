@@ -4,10 +4,11 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-58 songs - 3 hr 5 min
+59 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \- Acoustique](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 | 2024-10-18 |  |
 | [American Love \- Acoustic](https://open.spotify.com/track/4KxTDnSUNHtoN4Y0fYSUMd) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [American Love](https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl) | 3:01 | 2024-02-16 |  |
 | [Angel \- Acoustic](https://open.spotify.com/track/42Ukr1sUiu42ZTVCIaFKdH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel \(Acoustic\)](https://open.spotify.com/album/7fmwmiRd2t9TA4bV0eL1NP) | 3:14 | 2024-02-16 |  |
 | [Aparo \(With Lisa Oduor\-Noah\) \- Acoustic](https://open.spotify.com/track/3V9O5e55cXGgDT8L0Xk9bX) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Lisa Oduor Noah](https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e) | [The Change Experience](https://open.spotify.com/album/3gLCcJQngVtacSslBa39qG) | 3:51 | 2024-02-16 | 2024-05-17 |
@@ -35,7 +36,7 @@
 | [Kuliko Jana \- Acapella version](https://open.spotify.com/track/38Jnks0lBpHT8pfdGQsLI4) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [RedFourth Chorus](https://open.spotify.com/artist/4yPKgjg5Mz0GEqaT387cRd) | [Kuliko Jana \(Acapella version\)](https://open.spotify.com/album/2fB9vC3cFeko0ZCSyJzBkX) | 5:10 | 2024-02-16 |  |
 | [Last Last Mashup](https://open.spotify.com/track/2EjFHEvXusf4IL2f5XGBeZ) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW), [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [Last Last Mashup](https://open.spotify.com/album/3uFuyvGogCxtUNZgCf32S9) | 2:22 | 2024-02-16 |  |
 | [Legalize \(Acoustic\)](https://open.spotify.com/track/1U4PkTVS92UKPalWeiDa7z) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize \(Acoustic\)](https://open.spotify.com/album/79HVnTC5lntDM2MjgDeIug) | 2:26 | 2024-02-16 |  |
-| [Let it be](https://open.spotify.com/track/4scQQdvqjzCtOcxVs8r8Ia) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Let it be](https://open.spotify.com/album/6rz8CVtzWCV2rAfQDSHWDq) | 3:01 | 2024-07-18 |  |
+| [Let it be](https://open.spotify.com/track/4scQQdvqjzCtOcxVs8r8Ia) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Let it be](https://open.spotify.com/album/6rz8CVtzWCV2rAfQDSHWDq) | 3:01 | 2024-07-18 | 2024-10-19 |
 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 | 2024-02-16 |  |
 | [Lonely At The Top \- Acoustic](https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top EP](https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN) | 2:40 | 2024-02-16 |  |
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-16 |  |

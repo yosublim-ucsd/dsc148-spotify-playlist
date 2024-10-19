@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: White-B",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -4406,7 +4406,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 158918,
       "name": "D\u00e9teste \u00e0 mort",
       "url": "https://open.spotify.com/track/2pDCWgRRP3zQDgHHCgL6sR"
@@ -7399,6 +7399,28 @@
     },
     {
       "album": {
+        "name": "Pleure pas ma Fille, sinon Maman va pleurer",
+        "url": "https://open.spotify.com/album/3jUTNTAhTvFbKnMBc8yQPy"
+      },
+      "artists": [
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196358,
+      "name": "La vie d'avant",
+      "url": "https://open.spotify.com/track/6crR9nxGhvQCYp34OrScyk"
+    },
+    {
+      "album": {
         "name": "La Vie Qu'on M\u00e8ne",
         "url": "https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv"
       },
@@ -8749,6 +8771,24 @@
     },
     {
       "album": {
+        "name": "Monde \u00e0 l'envers",
+        "url": "https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "Monde \u00e0 l'envers",
+      "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"
+    },
+    {
+      "album": {
         "name": "LA JOIE",
         "url": "https://open.spotify.com/album/41sBtf8a1k6E4CCpcqjR0D"
       },
@@ -9932,7 +9972,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 193070,
       "name": "Oseille Des Francs-Ma\u00e7ons",
       "url": "https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN"

@@ -8487,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Sandscape",
+        "url": "https://open.spotify.com/album/6w3fhKFE4kStSReKTyHUCn"
+      },
+      "artists": [
+        {
+          "name": "Teddy Gorbella",
+          "url": "https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89142,
+      "name": "Sandscape",
+      "url": "https://open.spotify.com/track/2fEh6nwa96GLrsusJy7hjX"
+    },
+    {
+      "album": {
         "name": "Sawing lumber when I slumber",
         "url": "https://open.spotify.com/album/4ZFwidVASp10qO7TV6veyT"
       },
@@ -11274,6 +11292,24 @@
       "duration_ms": 100562,
       "name": "Twinkle, Twinkle, Little Star",
       "url": "https://open.spotify.com/track/147gCksvDRmjG1pO51ZCcf"
+    },
+    {
+      "album": {
+        "name": "Twinklepaws",
+        "url": "https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102545,
+      "name": "Twinklepaws",
+      "url": "https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp"
     },
     {
       "album": {

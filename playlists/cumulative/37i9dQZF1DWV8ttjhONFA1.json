@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Luciana Tagliapietra.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Hipnotica.",
   "name": "Indie Argentina",
   "tracks": [
+    {
+      "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/5dDMJ0N2Xc4BQwX42LfGeo"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246737,
+      "name": "10 A\u00f1os",
+      "url": "https://open.spotify.com/track/0dKZAIpHSAPirj4XlH1kbE"
+    },
     {
       "album": {
         "name": "100PRE",
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 218794,
       "name": "Coraz\u00f3n Gris",
       "url": "https://open.spotify.com/track/2QzSdo7YCs19SkJWS0Acsa"
@@ -1400,6 +1418,28 @@
       "duration_ms": 256566,
       "name": "De Otra Vida",
       "url": "https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh"
+    },
+    {
+      "album": {
+        "name": "Ficciones",
+        "url": "https://open.spotify.com/album/3PxmJDkSUG0mpsSAkDa6Do"
+      },
+      "artists": [
+        {
+          "name": "Color Sirena",
+          "url": "https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235463,
+      "name": "Delfin",
+      "url": "https://open.spotify.com/track/0KRGu9DnyDdJAuZ3Ivw9UV"
     },
     {
       "album": {
@@ -1646,6 +1686,46 @@
       "duration_ms": 176232,
       "name": "doctor tiempo",
       "url": "https://open.spotify.com/track/7FboiW5Lxsn1hyOdAnPm2L"
+    },
+    {
+      "album": {
+        "name": "Donde Guardo la Tristeza",
+        "url": "https://open.spotify.com/album/5JHUvDcDV7bySop8ml6l6T"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240967,
+      "name": "Donde Guardo la Tristeza",
+      "url": "https://open.spotify.com/track/05pK0QbkKS4VS4CcBUBMtr"
+    },
+    {
+      "album": {
+        "name": "HIPNOTICA",
+        "url": "https://open.spotify.com/album/4RAR4TZafezBuMUSmSA8Z8"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210721,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/5qHJ8u5uelMa0x8nY9n0zO"
     },
     {
       "album": {
@@ -2282,7 +2362,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 193225,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3o4B9p50LP4eocV2DN9cRw"
@@ -4786,7 +4866,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 226268,
       "name": "Siri",
       "url": "https://open.spotify.com/track/290qX1v1rlPiXFBThC0plv"

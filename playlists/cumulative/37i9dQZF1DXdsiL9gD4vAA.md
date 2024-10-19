@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-177 songs - 15 hr 55 min
+178 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Jis Dil Pe Naaz tha Mujhe](https://open.spotify.com/track/1YLSXFY1i6JRl3oKovsqVb) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [50 Greatest Ghazal Hits \- Best of Ghulam Ali and Mehdi Hassan](https://open.spotify.com/album/69LGrqCkZQBrW81maqfZUt) | 4:47 | 2021-12-01 | 2022-07-29 |
 | [Kabhi Ishq Ka](https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f) | 5:36 | 2023-04-05 |  |
 | [Kabhi Ishq Ka](https://open.spotify.com/track/1iS03sVMvtSlI9Hv7qeItG) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/7KYHkonLiq66rxQx2EgQbJ) | 5:36 | 2023-12-12 | 2024-04-19 |
+| [Kaise Keh Dein](https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Kaise Keh Dein](https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB) | 4:09 | 2024-10-18 |  |
 | [Kaun Aayega Yahan](https://open.spotify.com/track/4X5oSzi49t1elYxbFMOEjJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 6:42 | 2021-12-01 |  |
 | [Kaun Aayega Yahan](https://open.spotify.com/track/43ohGfWWEI0dQnBXQ8KyEU) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Unique \- Jagjit Singh](https://open.spotify.com/album/6UAJt94BITRYHDAFBpzRCB) | 6:46 | 2022-07-26 | 2024-04-19 |
 | [Khawab Ban Ke Bikharti Jati Hai](https://open.spotify.com/track/3nPez09I43hLdYiNPB2XUO) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 4:29 | 2021-12-01 | 2023-09-15 |

@@ -1067,6 +1067,32 @@
     },
     {
       "album": {
+        "name": "All That",
+        "url": "https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Thirsty P",
+          "url": "https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181251,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA"
+    },
+    {
+      "album": {
         "name": "ALLAT",
         "url": "https://open.spotify.com/album/6Va3zluiLcnhrMfRjTArjU"
       },
@@ -2653,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Brackin On This Side",
+        "url": "https://open.spotify.com/album/6MyQ5g4KQmRiLksuNLOKK8"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Brackin On This Side",
+      "url": "https://open.spotify.com/track/3ypdL7GYxHUo66FlCnGB8s"
+    },
+    {
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -2920,6 +2964,24 @@
       "duration_ms": 164101,
       "name": "By Yourself",
       "url": "https://open.spotify.com/track/771vHNqRmLUGEPzzNDo15r"
+    },
+    {
+      "album": {
+        "name": "Cafe La Fong",
+        "url": "https://open.spotify.com/album/7w3fyTUaM97FGC0W44NWSv"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127181,
+      "name": "Cafe La Fong",
+      "url": "https://open.spotify.com/track/7sKYkxXqaVH4GOGMedXsT1"
     },
     {
       "album": {
@@ -8214,7 +8276,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 165537,
       "name": "Hell & Back",
       "url": "https://open.spotify.com/track/5MeYjJQzooFInileBI8sep"
@@ -9552,6 +9614,24 @@
       "duration_ms": 135017,
       "name": "It's Hard Not To",
       "url": "https://open.spotify.com/track/1SoacNoziTAkkUNUkT29Md"
+    },
+    {
+      "album": {
+        "name": "It's My Ego",
+        "url": "https://open.spotify.com/album/0efkEgsdM8HpQAI3qq31Gk"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226105,
+      "name": "It's My Ego",
+      "url": "https://open.spotify.com/track/5DtzKlHN5Gay3JkIZKztmS"
     },
     {
       "album": {
@@ -11658,7 +11738,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 284605,
       "name": "Miracle on 43rd",
       "url": "https://open.spotify.com/track/1pc4WjH7GNWUOXXigeIL2c"
@@ -16939,6 +17019,24 @@
     },
     {
       "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137166,
+      "name": "SPEEDBALL",
+      "url": "https://open.spotify.com/track/5P02x6xWdOPv0RLdg9DRLl"
+    },
+    {
+      "album": {
         "name": "SPILL",
         "url": "https://open.spotify.com/album/4SheGFYgqo3qMSMaqLV2MR"
       },
@@ -17012,7 +17110,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 231013,
       "name": "Squeeze 1St 2",
       "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
@@ -17697,6 +17795,28 @@
     },
     {
       "album": {
+        "name": "Sumn Pretty (feat. Rob49)",
+        "url": "https://open.spotify.com/album/38eUplOD97CSAQOQS9djc9"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Sumn Pretty (feat. Rob49)",
+      "url": "https://open.spotify.com/track/0o1ZzlqMUFUizu0Zlke8BD"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
       },
@@ -18022,6 +18142,24 @@
       "duration_ms": 134400,
       "name": "Teach U How To Play",
       "url": "https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme"
+    },
+    {
+      "album": {
+        "name": "Hella Greedy",
+        "url": "https://open.spotify.com/album/2EuvkUe8SavQcxrRmolxtk"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159144,
+      "name": "Tear It Off",
+      "url": "https://open.spotify.com/track/0MCNBDUThcAOWNX6tfGHu9"
     },
     {
       "album": {
@@ -19848,6 +19986,28 @@
       "duration_ms": 171493,
       "name": "What It Cost Us",
       "url": "https://open.spotify.com/track/4sEcRUHvz58OD9PrRfzgtU"
+    },
+    {
+      "album": {
+        "name": "What It Iz",
+        "url": "https://open.spotify.com/album/1YV0BK6JdrWC1SkRRGFFST"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "What It Iz",
+      "url": "https://open.spotify.com/track/2X77wo27HXr3A69G2xqAPB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Ghali",
-  "num_followers": 597538,
+  "num_followers": 597702,
   "original_name": "Alta Rotazione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGJHAAAAACIkihsrzfuGe0Jydwau755",
+  "snapshot_id": "ZxJowAAAAACHd89MgX8eC5/Se31KGobT",
   "tracks": [
     {
       "added_at": "2024-10-17 22:01:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
+        "name": "il filo rosso",
+        "url": "https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "il filo rosso",
+      "url": "https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
         "name": "RAGNI",
         "url": "https://open.spotify.com/album/2Pwn1hhncY4xdd7auQ5J4C"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 163308,
       "name": "PASSIONE",
       "url": "https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "il filo rosso",
-        "url": "https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 187403,
-      "name": "il filo rosso",
-      "url": "https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7"
     },
     {
       "added_at": "2024-10-17 22:01:00",

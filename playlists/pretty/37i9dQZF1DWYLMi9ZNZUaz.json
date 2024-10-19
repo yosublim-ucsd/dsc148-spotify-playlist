@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Masew, Double2T, Tu\u1ea5n Cry",
-  "num_followers": 97828,
+  "num_followers": 97855,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+    },
+    {
+      "added_at": "2024-10-17 13:00:00",
+      "album": {
         "name": "Don't C\u00f4i",
         "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
-    },
-    {
-      "added_at": "2024-10-17 13:00:00",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -231,22 +231,18 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         }
       ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -299,18 +295,22 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "B\u1ea1n \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
-      },
-      "artists": [
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        },
-        {
-          "name": "GDucky",
-          "url": "https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz"
-        }
-      ],
-      "duration_ms": 300718,
-      "name": "B\u1ea1n \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
-    },
-    {
-      "added_at": "2024-10-17 13:00:00",
-      "album": {
         "name": "NG\u1ef0A \u00d4",
         "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2024-10-17 13:00:00",
+      "album": {
+        "name": "B\u1ea1n \u0110\u1eddi",
+        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
+      },
+      "artists": [
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        },
+        {
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz"
+        }
+      ],
+      "duration_ms": 300718,
+      "name": "B\u1ea1n \u0110\u1eddi",
+      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -739,6 +739,30 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
+        "name": "GOLDEN BOY",
+        "url": "https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH"
+      },
+      "artists": [
+        {
+          "name": "Rocky CDE",
+          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "VCC Left Hand",
+          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
+        }
+      ],
+      "duration_ms": 274212,
+      "name": "Vi\u1ec7c N\u00ean L\u00e0m",
+      "url": "https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc"
+    },
+    {
+      "added_at": "2024-10-17 13:00:00",
+      "album": {
         "name": "Thi\u00eau Th\u00e2n",
         "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
       },
@@ -763,30 +787,6 @@
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
-    },
-    {
-      "added_at": "2024-10-17 13:00:00",
-      "album": {
-        "name": "GOLDEN BOY",
-        "url": "https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH"
-      },
-      "artists": [
-        {
-          "name": "Rocky CDE",
-          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "VCC Left Hand",
-          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
-        }
-      ],
-      "duration_ms": 274212,
-      "name": "Vi\u1ec7c N\u00ean L\u00e0m",
-      "url": "https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -855,58 +855,6 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "Ex's Hate Me",
-        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        }
-      ],
-      "duration_ms": 258023,
-      "name": "Ex's Hate Me",
-      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
-    },
-    {
-      "added_at": "2024-10-17 13:00:00",
-      "album": {
-        "name": "\u1ed4 Qu\u1ef7",
-        "url": "https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2"
-      },
-      "artists": [
-        {
-          "name": "DMT",
-          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "summerdayy",
-          "url": "https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt"
-        },
-        {
-          "name": "Rocky CDE",
-          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
-        }
-      ],
-      "duration_ms": 178924,
-      "name": "\u1ed4 Qu\u1ef7",
-      "url": "https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD"
-    },
-    {
-      "added_at": "2024-10-17 13:00:00",
-      "album": {
         "name": "NGTANOISE",
         "url": "https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc"
       },
@@ -947,26 +895,34 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "1-800-LOVE",
-        "url": "https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC"
+        "name": "\u1ed4 Qu\u1ef7",
+        "url": "https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2"
       },
       "artists": [
         {
-          "name": "MANBO",
-          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
+          "name": "DMT",
+          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
         },
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
         },
         {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "summerdayy",
+          "url": "https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt"
+        },
+        {
+          "name": "Rocky CDE",
+          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
         }
       ],
-      "duration_ms": 265750,
-      "name": "1-800-LOVE",
-      "url": "https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6"
+      "duration_ms": 178924,
+      "name": "\u1ed4 Qu\u1ef7",
+      "url": "https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -987,6 +943,50 @@
       "duration_ms": 202171,
       "name": "sao tr\u00f4ng em l\u1ea1i nh\u01b0 th\u1ebf n\u00e0y",
       "url": "https://open.spotify.com/track/4uEtp8xmFuV2aT9O2QFRMf"
+    },
+    {
+      "added_at": "2024-10-17 13:00:00",
+      "album": {
+        "name": "Ex's Hate Me",
+        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "duration_ms": 258023,
+      "name": "Ex's Hate Me",
+      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
+    },
+    {
+      "added_at": "2024-10-17 13:00:00",
+      "album": {
+        "name": "1-800-LOVE",
+        "url": "https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC"
+      },
+      "artists": [
+        {
+          "name": "MANBO",
+          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "1-800-LOVE",
+      "url": "https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6"
     },
     {
       "added_at": "2024-10-17 13:00:00",
@@ -1075,50 +1075,42 @@
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
-        "url": "https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F"
+        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
       "artists": [
         {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+          "name": "B\u00ecnh Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         }
       ],
-      "duration_ms": 212732,
-      "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
-      "url": "https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs"
+      "duration_ms": 227555,
+      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
     },
     {
       "added_at": "2024-10-17 13:00:00",
       "album": {
-        "name": "Bu\u1ed3n Hay Vui",
-        "url": "https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M"
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
       "artists": [
         {
-          "name": "VSOUL",
-          "url": "https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q"
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
         },
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "Boyzed",
-          "url": "https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb"
-        },
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
         }
       ],
-      "duration_ms": 291750,
-      "name": "Bu\u1ed3n Hay Vui",
-      "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
+      "duration_ms": 340724,
+      "name": "Mu\u1ed1n anh \u0111au",
+      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

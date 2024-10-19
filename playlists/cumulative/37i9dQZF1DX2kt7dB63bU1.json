@@ -4999,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Jane Monheit",
+        "url": "https://open.spotify.com/album/4EDzxNlpd2K2lbfdGW1rSU"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306023,
+      "name": "Green Finch and Linnet Bird",
+      "url": "https://open.spotify.com/track/6Wc5yhIX9H9NxnftaCaS0N"
+    },
+    {
+      "album": {
         "name": "Greenbacks",
         "url": "https://open.spotify.com/album/6ykOQZclgVl40sbOe1dsy7"
       },
@@ -6176,7 +6194,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 257795,
       "name": "I Won't Dance",
       "url": "https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e"
@@ -12579,6 +12597,28 @@
     },
     {
       "album": {
+        "name": "Stars (Endless Stars)",
+        "url": "https://open.spotify.com/album/4wnntLk0X1xA6jKsclQsfk"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Joey Calderazzo",
+          "url": "https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361640,
+      "name": "Stars (Endless Stars)",
+      "url": "https://open.spotify.com/track/2MMhv3V5bTrhvN2S7qoEkg"
+    },
+    {
+      "album": {
         "name": "Steppin' Out With My Baby",
         "url": "https://open.spotify.com/album/1UkCpyDCYHCPFpE6WpiRvs"
       },
@@ -14561,6 +14601,32 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1ENgHnxhTZN2RLiUYFUcUo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7aRlOFAO9guW9TUIwvLcxd"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/5yerq4aVYXvNv5M2fl2P9Y"
       },
@@ -14606,7 +14672,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 132005,
       "name": "Truth",
       "url": "https://open.spotify.com/track/09Rn2e12eIjtc4pZy83gxg"
@@ -15590,7 +15656,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 293581,
       "name": "Whatever Lola Wants",
       "url": "https://open.spotify.com/track/00yTQuZp0A69meXFjfriE2"

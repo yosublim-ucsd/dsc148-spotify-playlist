@@ -9066,7 +9066,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 162718,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3QHATh7KVvKdDKwQjWTE5c"
@@ -9582,6 +9582,28 @@
     {
       "album": {
         "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Lil Homie",
+      "url": "https://open.spotify.com/track/616qr0MI4Jsen5kNNrwdH4"
+    },
+    {
+      "album": {
+        "name": "Careless World: Rise Of The Last King",
         "url": "https://open.spotify.com/album/3KHamR7LZmFT0xqPA1Hyob"
       },
       "artists": [
@@ -9596,7 +9618,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 234093,
       "name": "Lil Homie",
       "url": "https://open.spotify.com/track/6rL4US26hsHa3gSne7mZ8N"
@@ -13446,7 +13468,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 224133,
       "name": "Sets Up",
       "url": "https://open.spotify.com/track/67Jhcuc9sp9ERWsjuGwjpP"

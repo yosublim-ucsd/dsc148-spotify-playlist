@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this - cover: ROSIE & Zach Hood",
+  "description": "heartbreak feels good in a place like this - cover: Conan Gray",
   "name": "sad hour",
   "tracks": [
     {
@@ -550,6 +550,24 @@
       "duration_ms": 179260,
       "name": "All the Things You'd Ruin (Sad Girl Version)",
       "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
+    },
+    {
+      "album": {
+        "name": "all the time",
+        "url": "https://open.spotify.com/album/7KOHShVc86BcMd9iPt2Dd8"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204206,
+      "name": "all the time",
+      "url": "https://open.spotify.com/track/5fSztmwA3e7iYSWvnB4zPv"
     },
     {
       "album": {
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181418,
       "name": "Easier",
       "url": "https://open.spotify.com/track/57z5oiWD89atz5DvFwUKDf"
@@ -5464,6 +5482,24 @@
       "duration_ms": 205686,
       "name": "Hold Me While You Wait",
       "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
     },
     {
       "album": {
@@ -8806,7 +8842,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 238962,
       "name": "lower",
       "url": "https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft"
@@ -8860,7 +8896,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 216021,
       "name": "Make It Better",
       "url": "https://open.spotify.com/track/3r1OdtQItTfevhFgq5poAA"
@@ -14256,6 +14292,24 @@
       "duration_ms": 170808,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3lXEoPxZMDiMNeE4ea5nct"
+    },
+    {
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/1ZIzSuZ5VMrCI4AWvcQrQW"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170841,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m"
     },
     {
       "album": {

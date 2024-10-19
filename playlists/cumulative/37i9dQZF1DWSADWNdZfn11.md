@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-421 songs - 22 hr 20 min
+424 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2023-12-08 |  |
 | [Fix You \- Piano Version](https://open.spotify.com/track/7gQ07Bd21vrDAiBgxcP4o6) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 4:14 | 2022-11-18 | 2023-05-06 |
 | [Flowers](https://open.spotify.com/track/4LX1iXRBifNP6Js8mOHSO5) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Flowers](https://open.spotify.com/album/70ltHCbOn5yTYdSeX6xMaQ) | 2:51 | 2023-04-14 | 2023-08-11 |
+| [Fly Me to the Moon](https://open.spotify.com/track/76TW6dvTlFPDveErCIVy3c) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Fly Me to the Moon](https://open.spotify.com/album/62F93NYxSrElQEm82H9jyy) | 2:20 | 2024-10-18 |  |
 | [For No One](https://open.spotify.com/track/1n6hy0dH4wYbD4m7CPAvGF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [For No One](https://open.spotify.com/album/3PUwPDAALl1BF2Qg4YvEqE) | 2:12 | 2023-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/5Gypv4ajIJEZGTDVJuvv4D) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Forever Young](https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX) | 3:03 | 2022-10-28 | 2023-05-06 |
 | [Forever Young \- Piano Version](https://open.spotify.com/track/6X2gdN9y4Y6PmX5hypLpJu) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:46 | 2022-11-18 | 2023-08-11 |
@@ -135,7 +136,7 @@
 | [God Only Knows](https://open.spotify.com/track/0fT81LQSf4Rd9BL0YyAJV5) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [God Only Knows](https://open.spotify.com/album/7wYPKaSPMw5EUbpXvxhbw8) | 2:32 | 2023-03-17 |  |
 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 | 2023-03-17 | 2024-04-19 |
 | [Golden Hour \- Piano](https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Golden Hour \(Piano\)](https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6) | 2:38 | 2022-12-16 |  |
-| [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2024-04-15 |  |
+| [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2024-04-15 | 2024-10-19 |
 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2022-12-16 | 2024-04-19 |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-11-18 |  |
@@ -148,7 +149,7 @@
 | [Heartbeats](https://open.spotify.com/track/6my0GIox7dr4mlgNWw4GpL) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Rediscovered](https://open.spotify.com/album/4rRZvUGhvvRASQecmf5nWc) | 3:04 | 2022-09-30 | 2023-05-27 |
 | [Heat Waves](https://open.spotify.com/track/48cSs3Ewgi5nuyhIV8byiZ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 2:58 | 2022-12-16 | 2024-08-10 |
 | [Heat Waves \(arr\. piano\)](https://open.spotify.com/track/3ZBNqHz9AAYqF9XO9h8YG2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Heat Waves \(arr\. piano\)](https://open.spotify.com/album/5u3pwp8T9hJfNuAXDYffTt) | 2:17 | 2022-09-30 | 2022-12-17 |
-| [Heaven \- Piano Version](https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:03 | 2022-11-18 |  |
+| [Heaven \- Piano Version](https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:03 | 2022-11-18 | 2024-10-19 |
 | [Hello](https://open.spotify.com/track/1efHwagPxIFfADSjRqndUs) | [Elodie Malabul](https://open.spotify.com/artist/1QijYE17aztDpSt76Tak8p) | [Hello](https://open.spotify.com/album/2rGcI5Yw0RehWAigKLPFY4) | 2:01 | 2023-05-05 |  |
 | [Here comes the sun](https://open.spotify.com/track/4pEQKbooMLwdyqQ13gTQfx) | [Susan Sunnemo](https://open.spotify.com/artist/1ZyaRKG1kRNm8pILCfWMz7) | [Here comes the sun](https://open.spotify.com/album/5f6Qq5sg3NwF74LGc5hgPF) | 3:33 | 2022-08-01 | 2023-06-09 |
 | [Hero](https://open.spotify.com/track/7l3A71BEW1FAvSFlvLCagL) | [Keely Lake](https://open.spotify.com/artist/3M2jLYh2aNK2FLSpU1o4ft) | [Hero](https://open.spotify.com/album/4RPverR0mCeAWbgrF7zvkf) | 3:11 | 2023-04-14 | 2023-06-23 |
@@ -232,6 +233,7 @@
 | [Love yourself](https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:52 | 2022-09-30 |  |
 | [Lover \- Piano](https://open.spotify.com/track/6EAFanNEG521R3Y9dXTWTk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/6GLupS3Aw4TPBhkSKIC8Cz) | 3:14 | 2023-03-17 | 2023-05-06 |
 | [Lover \- Piano](https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/3tuqnyoZ4SCBa5q2KwjVJH) | 3:14 | 2022-12-16 | 2023-04-12 |
+| [Luka](https://open.spotify.com/track/6zzJr3AYoWHoZwKEjnpIIs) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Luka](https://open.spotify.com/album/4PWvEmBPDC9D3uLPCrDDZj) | 2:09 | 2024-10-18 |  |
 | [Mad World](https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Mad World](https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi) | 3:17 | 2023-04-14 |  |
 | [Made You Look](https://open.spotify.com/track/2k3QV3SMq2dtrhOawzW1jo) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:32 | 2023-03-17 | 2023-05-06 |
 | [Make you feel my love](https://open.spotify.com/track/1YCfFKtD5HCNMxYedp18Aw) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Make you feel my love](https://open.spotify.com/album/1T2uN4iuIk5o6o3ZuWWu3x) | 3:20 | 2022-12-16 |  |
@@ -240,6 +242,7 @@
 | [Memories](https://open.spotify.com/track/2SfvU9NbPAiYgLHWjp5Xqc) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:00 | 2022-08-01 | 2023-02-25 |
 | [Memory](https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Memory](https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ) | 3:43 | 2022-10-14 |  |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-16 | 2024-07-19 |
+| [Middle](https://open.spotify.com/track/7iwXlyPLGukVO3nT3jGyfi) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Middle](https://open.spotify.com/album/1yx6YgJXcUDn7eU5ZTT1uF) | 3:25 | 2024-10-18 |  |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb) | 2:56 | 2022-10-14 |  |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/7F3DCWB2PsadGC0iE1btUU) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/0ngulRajtwlyMSvhvkeIIh) | 2:56 | 2023-03-17 | 2024-04-19 |
 | [Miss You](https://open.spotify.com/track/2FXgKMM1anXLM8o4jpgqMr) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Unholy](https://open.spotify.com/album/1ovsYM2jJqHFA4Tpr8hgiY) | 2:24 | 2023-01-06 |  |
@@ -391,7 +394,7 @@
 | [Waterloo](https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Waterloo](https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a) | 3:23 | 2023-05-05 |  |
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
-| [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 |  |
+| [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 | 2024-10-19 |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 |  |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |
 | [What About Us](https://open.spotify.com/track/25wH8e8sodLucMgphXuGyi) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [What About Us](https://open.spotify.com/album/5aitqxtgtR1OuMcYHTuFcD) | 4:03 | 2023-10-20 |  |

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,195 songs - 1 day 21 hr 33 min
+1,196 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Helium](https://open.spotify.com/track/5kNOPm4KEZb1rQcuW1Ceib) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Helium](https://open.spotify.com/album/3fkualIq2JDtFczKqsapwD) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 | 2022-01-27 |  |
 | [here & now](https://open.spotify.com/track/7LrpylNEYXLNF2YqBerLa4) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [here & now](https://open.spotify.com/album/5DiZQjPdPhAyMu1jboC0kU) | 1:32 | 2023-01-06 |  |
-| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 |  |
+| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 | 2024-10-19 |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-15 | 2024-05-14 |
 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 | 2024-02-09 |  |
 | [hidden beauty](https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm) | [Kumegano](https://open.spotify.com/artist/3EiG8ERYtLZRuGCxrSyoSA) | [hidden beauty](https://open.spotify.com/album/34HsnHWY1avKoAksWZ4NiP) | 2:33 | 2022-11-11 |  |
@@ -500,6 +500,7 @@
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2021-11-10 | 2022-06-10 |
 | [In Time](https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [In Time](https://open.spotify.com/album/4VUZzn1ttvR5jVbRMdk3Te) | 2:19 | 2022-07-08 | 2024-09-07 |
 | [in too deep](https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [in too deep](https://open.spotify.com/album/43yg43a1K5ssEj8EXHSLXN) | 3:11 | 2024-01-19 |  |
+| [Indigo](https://open.spotify.com/track/1bOwFFeLsStmGLCvULnY55) | [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Indigo](https://open.spotify.com/album/5FVihjhEeWHNoo41mYF27z) | 1:50 | 2024-10-16 |  |
 | [Infatuation](https://open.spotify.com/track/3UY75fys1T1zWADWQAs96z) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Infatuation](https://open.spotify.com/album/4zZKMPFyShYfoE0Jv8XepT) | 1:20 | 2022-12-16 |  |
 | [Infinite](https://open.spotify.com/track/4LJlnit8huwaWtlvDlVKb2) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Infinite](https://open.spotify.com/album/7FBFVGMtNfcb74gVgzYw6K) | 1:52 | 2022-09-02 | 2023-03-18 |
 | [Inner toughts](https://open.spotify.com/track/3K6JgqMN4vp8qkJYVcuwjY) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Inner toughts](https://open.spotify.com/album/5cu23aEbBPtFutqNENSaIR) | 2:29 | 2022-10-28 |  |

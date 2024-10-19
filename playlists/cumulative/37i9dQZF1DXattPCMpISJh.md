@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-291 songs - 18 hr 2 min
+292 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Colder](https://open.spotify.com/track/6RW1csDGTkCmKCbOwYFtlA) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Colder](https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun) | 2:58 | 2024-02-16 |  |
 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 | 2021-07-16 | 2023-01-21 |
 | [Come Alive](https://open.spotify.com/track/0THqo8t9diPsxUzJaRMuAH) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Come Alive](https://open.spotify.com/album/2pH3M9jjYrEGYIvFiouJ6A) | 3:44 | 2024-06-28 |  |
+| [Company](https://open.spotify.com/track/5IDu7Pb1pqeWpmkDarfQwZ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ), [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr) | [Housewife](https://open.spotify.com/album/7y8yy64nFLCHR0NB6VsH0z) | 3:38 | 2024-10-18 |  |
 | [Conversation Starter](https://open.spotify.com/track/59RtIEhD4XJkRmfLj1eEAM) | [Tomode](https://open.spotify.com/artist/5Q5iKvamaJt7Gz1Bz1JRGA) | [Conversation Starter](https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW) | 3:21 | 2023-04-07 | 2024-08-24 |
 | [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 | 2023-01-13 | 2024-07-27 |
 | [Crazay](https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Crazay / Not The Same](https://open.spotify.com/album/3Dmb0hg5sFVmHaBAK74fVE) | 3:45 | 2022-04-29 | 2024-04-13 |
@@ -279,7 +280,7 @@
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 | 2022-07-15 | 2023-05-27 |
 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 | 2022-07-08 | 2024-06-15 |
-| [Undone \- Dave Lee's Disco Blend](https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Undone \(Dave Lee's Disco Blend\)](https://open.spotify.com/album/0anPxpLYjej5T6lixjBu0w) | 5:39 | 2023-07-07 |  |
+| [Undone \- Dave Lee's Disco Blend](https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Undone \(Dave Lee's Disco Blend\)](https://open.spotify.com/album/0anPxpLYjej5T6lixjBu0w) | 5:39 | 2023-07-07 | 2024-10-19 |
 | [Versace Eros](https://open.spotify.com/track/1hmB8Gq2YdiFISOZGDnfaH) | [French Horn Rebellion](https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0), [Siné](https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN) | [Versace Eros](https://open.spotify.com/album/72QT6rIPoVLQnnXY9lTqxA) | 2:47 | 2023-04-28 | 2024-08-10 |
 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 | 2024-05-03 |  |
 | [Voices \(feat\. Kylie Minogue\)](https://open.spotify.com/track/4NwqRvKoLaREF9Nt11sOka) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Last Man Dancing](https://open.spotify.com/album/3xm2whAWztIc9kHD3V0DMt) | 4:26 | 2023-06-02 |  |

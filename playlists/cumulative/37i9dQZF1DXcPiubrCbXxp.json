@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "that 50s kinda feeling, cover: Mason Ramsey",
+  "description": "that 50s kinda feeling, cover: Laufey",
   "name": "crushed velvet",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 245511,
       "name": "Blue Over You",
       "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
+    },
+    {
+      "album": {
         "name": "I Wanna Love You (But I Don't) / I hope you die first",
         "url": "https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 217194,
       "name": "Little One",
       "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
@@ -1242,6 +1260,24 @@
       "duration_ms": 179293,
       "name": "Something You Can Hold",
       "url": "https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8"
+    },
+    {
+      "album": {
+        "name": "Steady Hand",
+        "url": "https://open.spotify.com/album/70iJysX1s8FbU4XMzdD4jR"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252061,
+      "name": "Steady Hand",
+      "url": "https://open.spotify.com/track/3jCYOeWtFEmFwZmhzj23yI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,136 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,137 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 2 | [\*exemplu](https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [\*exemplu](https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy) | 4:01 |
 | 3 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 |
 | 4 | [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 |
-| 5 | [ÎNCASEZ](https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [ÎNCASEZ](https://open.spotify.com/album/5KeGYMhZv6tk2W1x7nM7Tk) | 2:26 |
+| 5 | [ÎNCASEZ](https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [ÎNCASEZ](https://open.spotify.com/album/5KeGYMhZv6tk2W1x7nM7Tk) | 2:29 |
 | 6 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 |
 | 7 | [Oameni putini](https://open.spotify.com/track/4AoebUxOmHZlZi2qdS3J8e) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ) | [Oameni putini](https://open.spotify.com/album/6vSVl9iF3C4R2oxSDzzrmY) | 3:06 |
 | 8 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 |

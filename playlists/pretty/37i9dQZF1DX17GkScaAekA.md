@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,119 likes - 89 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,603 likes - 89 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 6 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
 | 7 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 |
 | 8 | [Ständchen, S\. 560 \(Trans\. from Schwanengesang No\. 4, D\. 957\)](https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Schubert](https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC) | 7:22 |
-| 9 | [Prelude in E Minor, BWV 855 \(Arr\. Piano in B Minor by Alexander Siloti\)](https://open.spotify.com/track/3SYsX7rEkdEhNAETiB3pMr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Johann Sebastian Bach](https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR) | 3:00 |
+| 9 | [Prelude in E Minor, BWV 855/I \(Arr\. Siloti in B Minor\)](https://open.spotify.com/track/3SYsX7rEkdEhNAETiB3pMr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Johann Sebastian Bach](https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR) | 3:00 |
 | 10 | [I Loved Him/ Oliver Quick!](https://open.spotify.com/track/4MwmV8AyVxExjhweONK4WR) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 3:27 |
 | 11 | [Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/track/0OZftmWNkDJDdxjCvSSbGa) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Evening Piano \- Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/album/64d96qQJ3hBHx6vvAr7ksJ) | 3:13 |
 | 12 | [7 Peces de joventut \(Youthful Pieces\): Record](https://open.spotify.com/track/7bAN5DH2H17rt4x3dTid0R) | [Manuel Blancafort](https://open.spotify.com/artist/3DszoGPSqitSg2M8FE7hV6), [Miquel Villalba](https://open.spotify.com/artist/3GM3HF8khN1HV29tHNKExh) | [Blancafort, M.: Piano Music, Vol\. 1 \- Peces De Joventut / Cancons De Muntanya / Notes D'Antany](https://open.spotify.com/album/4v7qP5FKvpH4Ro1NwZwYtU) | 2:26 |

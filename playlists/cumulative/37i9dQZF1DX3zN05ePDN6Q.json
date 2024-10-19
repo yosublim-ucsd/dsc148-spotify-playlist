@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "#SV 04 - Sain / RJ \u00e9 trincheira",
+        "url": "https://open.spotify.com/album/5L7eEh6iVLySr6rh10bSs4"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "#SV 04 - Sain / RJ \u00e9 trincheira",
+      "url": "https://open.spotify.com/track/3ZeZ2lv3q4LIA31xgqzsb4"
+    },
+    {
+      "album": {
         "name": "#VoltaC4bal",
         "url": "https://open.spotify.com/album/05xe6fedu9asbbl8wy7CJH"
       },
@@ -3358,6 +3380,28 @@
     {
       "album": {
         "name": "Desabafo",
+        "url": "https://open.spotify.com/album/5ajzUJ8QQRAEtERWXjP8N9"
+      },
+      "artists": [
+        {
+          "name": "Dr Caligari",
+          "url": "https://open.spotify.com/artist/4P8MHFSABGVP77KjXhTKNw"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214111,
+      "name": "Desabafo",
+      "url": "https://open.spotify.com/track/6GXRVlKXYDCQWQ8GQIpBKM"
+    },
+    {
+      "album": {
+        "name": "Desabafo",
         "url": "https://open.spotify.com/album/3KgVxHtxxaPLluVjBGmAF6"
       },
       "artists": [
@@ -6088,7 +6132,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 206072,
       "name": "Kasparov",
       "url": "https://open.spotify.com/track/1fFgS91cCZBoTx5dKTOb74"
@@ -6114,6 +6158,32 @@
       "duration_ms": 217538,
       "name": "Kawo",
       "url": "https://open.spotify.com/track/4TCNy9SAKNl3LLpsK8ITID"
+    },
+    {
+      "album": {
+        "name": "Kobe (feat. Abud)",
+        "url": "https://open.spotify.com/album/2cMY7i8SXblVXuFM8hvPR7"
+      },
+      "artists": [
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Abud",
+          "url": "https://open.spotify.com/artist/4FloXaoxJddb9qUORylHng"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Kobe (feat. Abud)",
+      "url": "https://open.spotify.com/track/1RS8SpAqMH8ZNSYW6wDgVo"
     },
     {
       "album": {
@@ -10463,6 +10533,32 @@
     },
     {
       "album": {
+        "name": "Sagrado",
+        "url": "https://open.spotify.com/album/29vFt57MdPG6NPWsoZHoNF"
+      },
+      "artists": [
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Skimn",
+          "url": "https://open.spotify.com/artist/1KDMy6PF82No6Tx2VGdFXt"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Sagrado",
+      "url": "https://open.spotify.com/track/6cNCBpAOFUAPqZ2PT89Iuu"
+    },
+    {
+      "album": {
         "name": "Sal",
         "url": "https://open.spotify.com/album/5TrDaGivu36WxNvbBZJr3b"
       },
@@ -11444,7 +11540,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 181831,
       "name": "Sossego",
       "url": "https://open.spotify.com/track/5hEclBU7VBMUFKiRJ9HO4u"
@@ -12414,7 +12510,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 136209,
       "name": "Veja Como o Mundo Roda",
       "url": "https://open.spotify.com/track/3zvgMHDI226Xb6PzMqreJK"
@@ -12818,7 +12914,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 208320,
       "name": "Vontade",
       "url": "https://open.spotify.com/track/4tcq8sJasYivASta9G9BgM"

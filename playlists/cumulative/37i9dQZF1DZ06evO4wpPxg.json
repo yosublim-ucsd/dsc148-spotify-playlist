@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
+  "description": "This Is Rev. Gary Davis. Todas as faixas essenciais numa \u00fanica playlist.",
   "name": "This Is Rev. Gary Davis",
   "tracks": [
     {
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Saddle It Around",
       "url": "https://open.spotify.com/track/0XQiWWZG1sbOWF2uwgQTpP"
@@ -4516,7 +4516,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 189293,
       "name": "The Angel's Message To Me",
       "url": "https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J"

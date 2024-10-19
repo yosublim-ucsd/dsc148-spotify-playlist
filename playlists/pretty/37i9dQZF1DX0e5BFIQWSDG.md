@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,466 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,605 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 3 | [GUZMAN](https://open.spotify.com/track/6P9P1j0v2KiDu4vxW3T1WS) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx) | [GUZMAN](https://open.spotify.com/album/1b5IAxsuk13wd4zUbvKT1i) | 3:08 |
 | 4 | [Xiliometra](https://open.spotify.com/track/2acUYxCZbgndtm70LgCCbS) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Xiliometra](https://open.spotify.com/album/09fNBzRHU6hyLCgX2XJK5I) | 2:37 |
 | 5 | [Lebron](https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Lebron](https://open.spotify.com/album/3vtNYVA89ySfe7X1ZPzVZW) | 2:57 |
-| 6 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4gzCTR7Rv6ttD5SfG0VclF) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
+| 6 | [Trelos](https://open.spotify.com/track/1NdVyxpoKWcToXF8OwkIfc) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Lev](https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I) | [Trelos](https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j) | 2:25 |
 | 7 | [KOINO MYSTIKO](https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [KOINO MYSTIKO](https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG) | 2:26 |
 | 8 | [Rabanne](https://open.spotify.com/track/5IEfvd0RtX7WITYPiM2cN4) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Rabanne](https://open.spotify.com/album/7JlaMMchnCJOK66a1zX0x3) | 2:21 |
 | 9 | [LALE](https://open.spotify.com/track/2LNf69ZnFFK6qKH9qW3GSK) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [LALE](https://open.spotify.com/album/3nY3PpZv0kyan3blXtkrKQ) | 3:00 |

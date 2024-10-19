@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Blind Dem",
+        "url": "https://open.spotify.com/album/5WKCmEKKdr1ox5oClJknrF"
+      },
+      "artists": [
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140832,
+      "name": "Blind Dem",
+      "url": "https://open.spotify.com/track/7vEAT61DMYQKS3UqUch4ka"
+    },
+    {
+      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb"
       },
@@ -981,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Demons In The Liffey",
+        "url": "https://open.spotify.com/album/1IrzUMpXkUBPGa2Qn8Aryy"
+      },
+      "artists": [
+        {
+          "name": "Qbanaa",
+          "url": "https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221533,
+      "name": "Demons In The Liffey",
+      "url": "https://open.spotify.com/track/3Mv8R1kGCoykiQaIUnX7bU"
+    },
+    {
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1RxKY5Gd6rn86pHiP5P6QY"
       },
@@ -1136,7 +1172,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 188000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/2rwfGkp8CNAJekjGhjyTQJ"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 278302,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4bxEDYpkyuKysuCf7N3l1J"
@@ -2591,6 +2627,28 @@
     },
     {
       "album": {
+        "name": "No Right Time",
+        "url": "https://open.spotify.com/album/59939dOiGsLhlQR3foHWYY"
+      },
+      "artists": [
+        {
+          "name": "Zaska",
+          "url": "https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k"
+        },
+        {
+          "name": "Melina Malone",
+          "url": "https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239061,
+      "name": "No Right Time",
+      "url": "https://open.spotify.com/track/02VawMWSiIOTvzxRN1xVtj"
+    },
+    {
+      "album": {
         "name": "Nobu",
         "url": "https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu"
       },
@@ -2602,7 +2660,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 169218,
       "name": "Nobu",
       "url": "https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S"
@@ -3258,7 +3316,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 255392,
       "name": "Slippy",
       "url": "https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh"
@@ -3500,7 +3558,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 180561,
       "name": "Suckin' Diesel",
       "url": "https://open.spotify.com/track/6HPaunOafqqGRcFserdAdx"
@@ -3749,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "The Saviour",
+        "url": "https://open.spotify.com/album/23fDS1YhmFSeZUptFFshoA"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "The Saviour",
+      "url": "https://open.spotify.com/track/3HKIcz3YOVdLVaydRVmSC2"
+    },
+    {
+      "album": {
         "name": "Youngfella",
         "url": "https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p"
       },
@@ -3890,6 +3966,24 @@
       "duration_ms": 224385,
       "name": "Truth\u2606Truth",
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
+    },
+    {
+      "album": {
+        "name": "twin flame",
+        "url": "https://open.spotify.com/album/10qMmgkmgspyaR23TVyqqr"
+      },
+      "artists": [
+        {
+          "name": "how r u",
+          "url": "https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109800,
+      "name": "twin flame",
+      "url": "https://open.spotify.com/track/3CVr8uzhhUguJUdI17ZKkF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 70521,
+  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
+  "num_followers": 70544,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAABynAB1Izs/b4X/vrUgCKrH",
+  "snapshot_id": "ZxBTgAAAAAD8ydGDacRmkN3cCGj9k0xJ",
   "tracks": [
     {
       "added_at": null,
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Dame M\u00e1s",
-      "url": "https://open.spotify.com/track/2MOgE3TH2c9CapYnBvnlkp"
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+      "duration_ms": 189080,
+      "name": "Dame M\u00e1s",
+      "url": "https://open.spotify.com/track/2MOgE3TH2c9CapYnBvnlkp"
     },
     {
       "added_at": null,
@@ -1147,26 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cheetah Girls 2",
-        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
-      },
-      "artists": [
-        {
-          "name": "The Cheetah Girls",
-          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Why Wait",
-      "url": "https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Translation",
         "url": "https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 219640,
       "name": "Translation",
       "url": "https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cheetah Girls 2",
+        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
+      },
+      "artists": [
+        {
+          "name": "The Cheetah Girls",
+          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Why Wait",
+      "url": "https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u"
     }
   ],
   "unique_name": "This Is Belinda",

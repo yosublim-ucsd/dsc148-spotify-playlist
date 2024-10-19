@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 98500,
       "name": "A Dog Named Doug",
       "url": "https://open.spotify.com/track/0ixMSZlYaSg7npBIxgPrt2"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 122000,
       "name": "A Dream Come True",
       "url": "https://open.spotify.com/track/5Zb0Ko7LIfYlsF2r2TwVg9"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 148937,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/4sw1BjunB4P1rCTPanYKZV"
@@ -1298,6 +1298,24 @@
       "duration_ms": 104480,
       "name": "Dear Little Snickerboa",
       "url": "https://open.spotify.com/track/2pWW3wDPsvlWARHqc5g1Bg"
+    },
+    {
+      "album": {
+        "name": "Djurens vaggvisa",
+        "url": "https://open.spotify.com/album/3bl2BsiEQ3QNH21IaXjwSp"
+      },
+      "artists": [
+        {
+          "name": "Hampus I Backen",
+          "url": "https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/5P0uXoF9vWjmnBS05FQxgz"
     },
     {
       "album": {
@@ -3101,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "My Little Bird",
+        "url": "https://open.spotify.com/album/6vdt3oBzrPGWR8mPGJk948"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sleep",
+          "url": "https://open.spotify.com/artist/1FgjU1p0WJxHTLPxd1o7vi"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78928,
+      "name": "My Little Bird",
+      "url": "https://open.spotify.com/track/2ivqXqbed8qlUW890qqOiI"
+    },
+    {
+      "album": {
         "name": "My Little Prince",
         "url": "https://open.spotify.com/album/3ynDD4j4fuZIG25ZO4E97M"
       },
@@ -3944,6 +3980,24 @@
       "duration_ms": 82726,
       "name": "Sleepy Bells",
       "url": "https://open.spotify.com/track/08HHyYsAkYY1VIxgU0dbSG"
+    },
+    {
+      "album": {
+        "name": "Sleepy Hedgehog",
+        "url": "https://open.spotify.com/album/3xJQkijwR1tG8kLqClF3A5"
+      },
+      "artists": [
+        {
+          "name": "Tom Eastman",
+          "url": "https://open.spotify.com/artist/7KBkjudsZi65ojptsNCG13"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86206,
+      "name": "Sleepy Hedgehog",
+      "url": "https://open.spotify.com/track/7rHIKl5yCV6DiBoYS2t3tO"
     },
     {
       "album": {

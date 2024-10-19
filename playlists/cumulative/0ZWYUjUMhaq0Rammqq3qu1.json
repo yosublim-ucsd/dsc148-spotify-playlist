@@ -11801,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "Trick Or Treat",
+        "url": "https://open.spotify.com/album/71B31IfFoO5Qd6PhCLci8D"
+      },
+      "artists": [
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Trick Or Treat - English Version",
+      "url": "https://open.spotify.com/track/5jMdOrqqHmO2NrO6eVafkr"
+    },
+    {
+      "album": {
         "name": "Halloween Haunted House Party: Reincarnated Halloween Classics & Scary Soundscapes",
         "url": "https://open.spotify.com/album/7hh0dwuCT7MJfcTFybxPoG"
       },

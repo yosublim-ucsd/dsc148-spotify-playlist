@@ -16579,6 +16579,28 @@
     },
     {
       "album": {
+        "name": "ARCADE TRILOGY",
+        "url": "https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359491,
+      "name": "Phula (feat. Sykes)",
+      "url": "https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1"
+    },
+    {
+      "album": {
         "name": "House Of Hits Vol. 7",
         "url": "https://open.spotify.com/album/3TyqbSVCJFWTJObSklgWkz"
       },
@@ -19140,7 +19162,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 245413,
       "name": "SLB",
       "url": "https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT"

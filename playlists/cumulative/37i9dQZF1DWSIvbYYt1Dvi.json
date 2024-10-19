@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 266581,
       "name": "C\u00c9U",
       "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
@@ -9058,6 +9058,32 @@
       "duration_ms": 125163,
       "name": "Tropa do Unlock",
       "url": "https://open.spotify.com/track/02OXgwzsb4jNrcUAFbI1kO"
+    },
+    {
+      "album": {
+        "name": "Para nunca nos tornarmos estranhos",
+        "url": "https://open.spotify.com/album/0WgKF0bDe8aY4ZYK7qe8ii"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Leonok",
+          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Umas e Outras",
+      "url": "https://open.spotify.com/track/2NyvpOe02hCmLMEzj2d38N"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest and the greatest of CHH!  Cover: <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Anike</a>
 
-202 songs - 9 hr 25 min
+203 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100%](https://open.spotify.com/track/0QMCaSrgTpVVMRuDkWu6Jb) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [100%](https://open.spotify.com/album/1JNc8LdH41366WQCUAFPmq) | 2:29 | 2024-06-12 | 2024-09-21 |
 | [4am](https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg), [hunterdali](https://open.spotify.com/artist/1YiKYDltcuQltzSaSP0T3E) | [4am](https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6) | 3:17 | 2024-06-12 |  |
 | [ALL FOR YOU.](https://open.spotify.com/track/1GQQZItCvS148yTNYrRaSl) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [ALL FOR YOU.](https://open.spotify.com/album/7m4Slir3PuuOo4KQsLWegX) | 2:06 | 2024-06-12 | 2024-08-03 |
+| [All We Do Is Win](https://open.spotify.com/track/5mAkhECaD84xyV7xrakEeY) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [All We Do Is Win](https://open.spotify.com/album/5PyfHm6Xco7fpljbk3Xh5j) | 3:00 | 2024-10-18 |  |
 | [Anxiety](https://open.spotify.com/track/0KhsLo8VjOpv4D78Yhr0zj) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 1:48 | 2024-09-13 |  |
 | [ANXIETY](https://open.spotify.com/track/1gRChjITNlNudEwQEG8gl4) | [Noah Moon](https://open.spotify.com/artist/3qtyduPcR34fZacQ73FEMj) | [ANXIETY](https://open.spotify.com/album/5Ttqaq0sh7kcQPJcgGcOjc) | 3:30 | 2024-08-16 |  |
 | [B\-Boy Theme](https://open.spotify.com/track/18NdgXuGQKFErOySeepHrN) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/5bmfN1bdJb9vQzb07mCy9A) | 0:52 | 2018-11-21 | 2024-06-13 |
@@ -109,7 +110,7 @@
 | [LIFE WITH YOU](https://open.spotify.com/track/57mjxOwPNNK4bdI27XklXR) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp) | [LIFE WITH YOU](https://open.spotify.com/album/2umPC5kyWjw8ZGypTDI2Ze) | 2:35 | 2024-09-27 |  |
 | [Lift Me Up](https://open.spotify.com/track/4xUDszyCWEhPuPirI5En4i) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Lift Me Up](https://open.spotify.com/album/5GCKHk3cTg1rqLRyXWLDeE) | 3:30 | 2024-10-04 |  |
 | [LIMITLess](https://open.spotify.com/track/4wCKRiCCwbP2yx1GhfsCiQ) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [LIMITLess](https://open.spotify.com/album/1usawQGJbhgyHrVSo41jKy) | 2:02 | 2024-06-12 | 2024-07-13 |
-| [Loaded Up](https://open.spotify.com/track/3tbSImCGR5RTgJCKfMGKtn) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loaded Up](https://open.spotify.com/album/48SPfPe6DPLGVk1giOsoJh) | 3:16 | 2024-09-13 |  |
+| [Loaded Up](https://open.spotify.com/track/3tbSImCGR5RTgJCKfMGKtn) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loaded Up](https://open.spotify.com/album/48SPfPe6DPLGVk1giOsoJh) | 3:16 | 2024-09-13 | 2024-10-19 |
 | [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 | 2024-06-12 | 2024-06-22 |
 | [Love](https://open.spotify.com/track/11ESYBYIiBt1Z2MKwfW9Bv) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining Instrumental](https://open.spotify.com/album/2ZcZ21vMvMSt1JFhCe1SME) | 3:14 | 2018-11-21 | 2024-06-13 |
 | [LOVE LIKE YOU](https://open.spotify.com/track/3WdPLocQAWQv5QuMnsh94F) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [LOVE LIKE YOU](https://open.spotify.com/album/0pKX04sW6iFu96VGbaZhGj) | 2:18 | 2024-09-13 |  |

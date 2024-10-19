@@ -2,12 +2,13 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Luciana Tagliapietra.
+> El nuevo sonido argentino lo encontrás acá\. Foto: Hipnotica.
 
-296 songs - 16 hr 17 min
+300 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 Años](https://open.spotify.com/track/0dKZAIpHSAPirj4XlH1kbE) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [10 Años](https://open.spotify.com/album/5dDMJ0N2Xc4BQwX42LfGeo) | 4:06 | 2024-10-18 |  |
 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 | 2023-12-15 | 2024-10-12 |
 | [17](https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [17](https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO) | 5:11 | 2024-09-13 |  |
 | [2:42](https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [2:42](https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O) | 2:51 | 2023-12-15 | 2024-10-12 |
@@ -67,7 +68,7 @@
 | [Conocerte más](https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [A veces está bien](https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR) | 2:50 | 2024-06-07 | 2024-07-06 |
 | [corazón dinamita](https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [corazón dinamita](https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf) | 3:01 | 2023-12-15 | 2024-01-20 |
 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 | 2024-06-14 | 2024-08-13 |
-| [Corazón Gris](https://open.spotify.com/track/2QzSdo7YCs19SkJWS0Acsa) | [LUASÓ](https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7) | [Corazón Gris](https://open.spotify.com/album/3sU5ze4k0EQhqP3KzDComb) | 3:38 | 2024-08-16 |  |
+| [Corazón Gris](https://open.spotify.com/track/2QzSdo7YCs19SkJWS0Acsa) | [LUASÓ](https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7) | [Corazón Gris](https://open.spotify.com/album/3sU5ze4k0EQhqP3KzDComb) | 3:38 | 2024-08-16 | 2024-10-19 |
 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 | 2024-06-07 | 2024-08-24 |
 | [Crucigrama](https://open.spotify.com/track/4oqHrWGbJKwfEc70lwxxgU) | [Todos los Martes](https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P) | [Crucigrama](https://open.spotify.com/album/2IIZrieRfCpgt2ztQSPRHA) | 5:17 | 2024-05-24 | 2024-08-31 |
 | [Cuando la Luna Caiga](https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cuando la Luna Caiga](https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35) | 4:33 | 2023-12-15 | 2024-07-27 |
@@ -79,6 +80,7 @@
 | [Dame](https://open.spotify.com/track/1pxxpLKCYBNWa8f5TP8Xpq) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Dame](https://open.spotify.com/album/5ozohAzMDOjPCCfXWeIa2J) | 3:15 | 2024-02-16 | 2024-04-13 |
 | [De Fábrica](https://open.spotify.com/track/6vPW7S8aaT7CttBIcew6ld) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica](https://open.spotify.com/album/0au5YMCSJqzY6ULb8Qqzd0) | 4:18 | 2024-09-06 |  |
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 | 2024-04-06 |
+| [Delfin](https://open.spotify.com/track/0KRGu9DnyDdJAuZ3Ivw9UV) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [Ficciones](https://open.spotify.com/album/3PxmJDkSUG0mpsSAkDa6Do) | 3:55 | 2024-10-18 |  |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2024-04-05 |  |
 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 | 2024-05-03 |
 | [Desesperada](https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Desesperada](https://open.spotify.com/album/1g6DyyHl9LsMBv6VT7gFQM) | 4:34 | 2024-03-22 | 2024-10-12 |
@@ -92,6 +94,8 @@
 | [Diganselo](https://open.spotify.com/track/5uSWHen9UxDjsMjDuGNBcf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:59 | 2024-04-05 | 2024-05-03 |
 | [dionysian](https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [dionysian](https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz) | 3:10 | 2024-01-26 | 2024-06-15 |
 | [doctor tiempo](https://open.spotify.com/track/7FboiW5Lxsn1hyOdAnPm2L) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [doctor tiempo](https://open.spotify.com/album/44SKwDYgfXgiS6ghtMm34B) | 2:56 | 2024-06-07 | 2024-08-13 |
+| [Donde Guardo la Tristeza](https://open.spotify.com/track/05pK0QbkKS4VS4CcBUBMtr) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Donde Guardo la Tristeza](https://open.spotify.com/album/5JHUvDcDV7bySop8ml6l6T) | 4:00 | 2024-10-18 |  |
+| [Dopamina](https://open.spotify.com/track/5qHJ8u5uelMa0x8nY9n0zO) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [HIPNOTICA](https://open.spotify.com/album/4RAR4TZafezBuMUSmSA8Z8) | 3:30 | 2024-10-18 |  |
 | [dos al medio](https://open.spotify.com/track/7fV4LQWjs5Re0XZIuuxGHm) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [dos al medio](https://open.spotify.com/album/0wHAoAI0vSvUBlDGEnkl4K) | 3:49 | 2024-09-06 |  |
 | [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-12-15 | 2024-06-26 |
 | [droga del momento](https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [le tengo miedo a las alturas](https://open.spotify.com/album/7qH5iAghmKje6Y0oaUb5Kn) | 3:29 | 2024-04-26 |  |
@@ -125,7 +129,7 @@
 | [Esperanza](https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Esperanza/ Nunca te vayas](https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao) | 2:30 | 2024-08-12 |  |
 | [esta noche](https://open.spotify.com/track/5CpIZowavsFFsGf7GeQAuh) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [esta noche](https://open.spotify.com/album/06ytKZCrkhW4xcc73EyqXX) | 2:59 | 2024-03-01 | 2024-04-06 |
 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 | 2024-04-05 | 2024-10-05 |
-| [Extrañándote](https://open.spotify.com/track/3o4B9p50LP4eocV2DN9cRw) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [La Cura](https://open.spotify.com/album/5izhiFfPTXm6J1TwJAXT30) | 3:13 | 2024-07-12 |  |
+| [Extrañándote](https://open.spotify.com/track/3o4B9p50LP4eocV2DN9cRw) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [La Cura](https://open.spotify.com/album/5izhiFfPTXm6J1TwJAXT30) | 3:13 | 2024-07-12 | 2024-10-19 |
 | [Festejemos](https://open.spotify.com/track/4toTjDlXShrN3iMrntu0QZ) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Festejemos](https://open.spotify.com/album/2BxTTdZC2ir2o3Nrg0tnSr) | 3:07 | 2024-08-02 | 2024-09-14 |
 | [Fin del día](https://open.spotify.com/track/1mhd6f0hYGv9hBaLcn3Iht) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Fin del día](https://open.spotify.com/album/30jaBEl7Srt9oatIiZ890j) | 4:37 | 2024-08-30 |  |
 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 | 2024-03-08 | 2024-05-25 |
@@ -255,7 +259,7 @@
 | [Siempre me Dejaste Volver](https://open.spotify.com/track/5x5wanlUjwYxiVQXtWJPG9) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Siempre Me Dejaste Volver](https://open.spotify.com/album/314UhDRgPlhLpFWm1p5vyd) | 4:38 | 2024-03-29 | 2024-08-24 |
 | [Sin Mirar Atrás](https://open.spotify.com/track/0mkQpK6C6j5xSxhX0s3YXY) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK), [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Sin Mirar Atrás](https://open.spotify.com/album/02Lf75QMdlXHxZaseNrK3j) | 3:30 | 2024-09-13 |  |
 | [Sinoca](https://open.spotify.com/track/5VKwR9EzAi8Ucod7lYmVhi) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:35 | 2024-04-05 |  |
-| [Siri](https://open.spotify.com/track/290qX1v1rlPiXFBThC0plv) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [Siri](https://open.spotify.com/album/6nThX8R3FpoAe25k7m6wV8) | 3:46 | 2024-08-23 |  |
+| [Siri](https://open.spotify.com/track/290qX1v1rlPiXFBThC0plv) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [Siri](https://open.spotify.com/album/6nThX8R3FpoAe25k7m6wV8) | 3:46 | 2024-08-23 | 2024-10-19 |
 | [SITCOM \- Remix](https://open.spotify.com/track/4wWnqVwcRCfCwy6tQJnB9B) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Karel Joshua Kees](https://open.spotify.com/artist/6PJUM956k26mnCOKqxUI2w), [Torrez](https://open.spotify.com/artist/0W3JE9X5if1K3PF7Esx4el) | [SITCOM \(Remix\)](https://open.spotify.com/album/61iditjqDYe0iul4rjUBiM) | 3:50 | 2024-03-08 | 2024-06-15 |
 | [Sombra](https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Sombra](https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G) | 2:59 | 2023-12-15 | 2024-04-06 |
 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 | 2024-03-08 | 2024-08-03 |

@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Ay de Mi. Cap 9",
         "url": "https://open.spotify.com/album/04irYIlKO0sGlZaAo4gbj7"
       },
@@ -582,6 +604,24 @@
       "duration_ms": 138851,
       "name": "Dos Almas",
       "url": "https://open.spotify.com/track/4lI7BJNGDnPvCqoTuxqQjj"
+    },
+    {
+      "album": {
+        "name": "El Bandido Medina (De la serie original de Prime Video, Medina: El Estafador de Famosos)",
+        "url": "https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196917,
+      "name": "El Bandido Medina - De la serie original de Prime Video, Medina: El Estafador de Famosos",
+      "url": "https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj"
     },
     {
       "album": {
@@ -2275,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "EXPERIMENTO 0150",
+        "url": "https://open.spotify.com/album/2uOGYjTrpuYDIcGcqAD3RW"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149547,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/1dh4W8HHp3DWrhgLd5gYMA"
+    },
+    {
+      "album": {
         "name": "Tarantino",
         "url": "https://open.spotify.com/album/2WtUQ2qrQ7Bm5H36sjIOyb"
       },
@@ -2290,7 +2352,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 149547,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla"
@@ -2564,18 +2626,18 @@
           "url": "https://open.spotify.com/artist/5YhgtTG1JNtbr9zleCQ3YV"
         },
         {
-          "name": "Kike & Manu",
-          "url": "https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC"
-        },
-        {
           "name": "Ozarus",
           "url": "https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz"
+        },
+        {
+          "name": "Kike & Manu",
+          "url": "https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC"
         }
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 186787,
+      "duration_ms": 184000,
       "name": "Una Noche de Amor",
       "url": "https://open.spotify.com/track/6v6W3I7TS8gQ6xPPLsqnlK"
     },

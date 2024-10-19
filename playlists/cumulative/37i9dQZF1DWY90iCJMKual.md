@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Matthaios
 
-295 songs - 16 hr 34 min
+296 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Need It](https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Need It](https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL) | 3:53 | 2022-10-12 | 2023-07-29 |
 | [Need Time](https://open.spotify.com/track/6Mam1q7aFmaW3rBTzuYNra) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Need Time](https://open.spotify.com/album/0pCQzbR27DNnaFhbEZNjUv) | 3:03 | 2024-02-06 | 2024-06-22 |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2023-09-06 | 2024-04-13 |
+| [now i'm with you](https://open.spotify.com/track/41uXETyxp0Tc3UB7ErfIrD) | [rk jlln](https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC) | [now i'm with you](https://open.spotify.com/album/4UKHmQfAKiSOuorqhctk58) | 3:21 | 2024-10-18 |  |
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-10-12 | 2023-07-29 |
 | [O Luna](https://open.spotify.com/track/788LOVoDxwsB0OkdbQvTHd) | [JMKO](https://open.spotify.com/artist/1onz2fxn4zwyarm9FPVuyp) | [O Luna](https://open.spotify.com/album/0gkuV2JkdAnUUeipnd4BkC) | 3:42 | 2022-12-14 | 2023-07-29 |
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-02-23 | 2023-09-16 |

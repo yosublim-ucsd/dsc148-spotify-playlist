@@ -25937,6 +25937,24 @@
     },
     {
       "album": {
+        "name": "Fight This",
+        "url": "https://open.spotify.com/album/5hY8YlnLqh5cnUj6UOSNoT"
+      },
+      "artists": [
+        {
+          "name": "Connor Henry",
+          "url": "https://open.spotify.com/artist/1wqzSu9DgPUjv5hTP4TuS9"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247826,
+      "name": "Fight This",
+      "url": "https://open.spotify.com/track/1siqgl7VVgJvVDNdFqL7cw"
+    },
+    {
+      "album": {
         "name": "ROLE MODEL",
         "url": "https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X"
       },
@@ -82988,6 +83006,24 @@
       "duration_ms": 391681,
       "name": "THATHA BAMBA",
       "url": "https://open.spotify.com/track/2AreaGSzIlyWeOncxJGHJM"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "album": {

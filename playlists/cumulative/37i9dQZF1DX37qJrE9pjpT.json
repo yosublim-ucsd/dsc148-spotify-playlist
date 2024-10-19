@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/7ncsrKBgFuiU34MnnO7tTi"
+      },
+      "artists": [
+        {
+          "name": "TONY DRIZZY BEATS",
+          "url": "https://open.spotify.com/artist/4LuChYsPGweXomifDJSpnn"
+        },
+        {
+          "name": "Chidi Benz",
+          "url": "https://open.spotify.com/artist/1lTGyFO9KjwT8dsrhS9RxH"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209789,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/31sLNsYvWLCj4R4vJMXXse"
+    },
+    {
+      "album": {
         "name": "Bibi Titi",
         "url": "https://open.spotify.com/album/79arQ73MXkLG1Qa0UrNs2Q"
       },

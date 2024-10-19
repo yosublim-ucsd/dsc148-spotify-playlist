@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop the Feeling",
+        "url": "https://open.spotify.com/album/7fzzZkgfVFP8YKXXYH4D9e"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Eastwood",
+          "url": "https://open.spotify.com/artist/66ZGHF0SFR1UiRnaZe5XNJ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/3TozV1Zgze0qDxLIGVCX0Y"
+    },
+    {
+      "album": {
         "name": "Can't Stop The Feeling",
         "url": "https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc"
       },
@@ -2868,6 +2886,24 @@
     {
       "album": {
         "name": "Fields Of Gold",
+        "url": "https://open.spotify.com/album/14q3m5L9fJe003aiue2kIz"
+      },
+      "artists": [
+        {
+          "name": "Moelizi",
+          "url": "https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I30Xsutm52uMk2reli2It"
+    },
+    {
+      "album": {
+        "name": "Fields Of Gold",
         "url": "https://open.spotify.com/album/50QiC76tE4Y61Q8il5aC2M"
       },
       "artists": [
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 192000,
       "name": "Groovy Kind Of Love",
       "url": "https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE"
@@ -4156,10 +4192,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 210000,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf"
+    },
+    {
+      "album": {
+        "name": "Hot Stuff",
+        "url": "https://open.spotify.com/album/5ZnNdAao2CgA3cobDitQog"
+      },
+      "artists": [
+        {
+          "name": "Sander Bjerke",
+          "url": "https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197828,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/0vXHSZjKoNAsrD0FJfqsn9"
     },
     {
       "album": {
@@ -7918,7 +7972,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 171279,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv"
@@ -10478,7 +10532,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 183816,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg"

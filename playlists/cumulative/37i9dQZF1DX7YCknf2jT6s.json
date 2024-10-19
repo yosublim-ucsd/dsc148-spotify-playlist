@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Immanuel Wilkins",
+  "description": "New jazz for open minds. Cover: Aaron Parks, David Ginyard Jr, Greg Tuohey & Jongkuk Kim",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -502,6 +502,28 @@
       "duration_ms": 618645,
       "name": "A Flower is a Lovesome Thing",
       "url": "https://open.spotify.com/track/1pZ9MJT3kKWTe9WDvfbgdN"
+    },
+    {
+      "album": {
+        "name": "A Lovesome Thing (Radio Edits)",
+        "url": "https://open.spotify.com/album/7Gdu5ywLBjiKgiocvixs67"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Geri Allen",
+          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418488,
+      "name": "A Flower is a Lovesome Thing - Radio Edit",
+      "url": "https://open.spotify.com/track/4aCeyMLm1r2yrbxvEgLZlb"
     },
     {
       "album": {
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 271000,
       "name": "Ash\u00e9",
       "url": "https://open.spotify.com/track/6yzCdriVjWu7XIfah04DpU"
@@ -5120,7 +5142,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 294775,
       "name": "CASIONAKA",
       "url": "https://open.spotify.com/track/6lpgb0dfCe7VTwk1xJKqcT"
@@ -8617,6 +8639,24 @@
     },
     {
       "album": {
+        "name": "Echo of a Scream",
+        "url": "https://open.spotify.com/album/4ja7oVc2UfOa9fX2PuJh6b"
+      },
+      "artists": [
+        {
+          "name": "George Cables",
+          "url": "https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370890,
+      "name": "Echo of a Scream",
+      "url": "https://open.spotify.com/track/7oGxFXISaWWEOF4buQAjAZ"
+    },
+    {
+      "album": {
         "name": "Echo Sax End",
         "url": "https://open.spotify.com/album/0H23rXwBGa2V7tsD3HUJNh"
       },
@@ -8908,7 +8948,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 437863,
       "name": "Embraceable You - Radio Edit",
       "url": "https://open.spotify.com/track/6eHXuBhkIeN9LVsdUnVfOC"
@@ -10366,6 +10406,24 @@
       "duration_ms": 273388,
       "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX"
+    },
+    {
+      "album": {
+        "name": "Little Big III",
+        "url": "https://open.spotify.com/album/0aj5rKNNnNHjdC799ogFu1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243040,
+      "name": "Flyways",
+      "url": "https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy"
     },
     {
       "album": {
@@ -14748,7 +14806,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 298466,
       "name": "Jay Bird",
       "url": "https://open.spotify.com/track/0VmsUOVB4o995oUmSaUB6Y"
@@ -20498,6 +20556,24 @@
       "duration_ms": 192283,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/6CJdoJ0Dw0lOISH1sBwvbD"
+    },
+    {
+      "album": {
+        "name": "OCEAN BREEZE",
+        "url": "https://open.spotify.com/album/5BNxp2Iz7IQRUbxHO1hQam"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278374,
+      "name": "OCEAN BREEZE",
+      "url": "https://open.spotify.com/track/49mY1tLJTGJIbrDVZS06nK"
     },
     {
       "album": {
@@ -33407,6 +33483,24 @@
     },
     {
       "album": {
+        "name": "WHIP.wav",
+        "url": "https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98500,
+      "name": "WHIP.wav",
+      "url": "https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh"
+    },
+    {
+      "album": {
         "name": "Whiskey",
         "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
       },
@@ -34312,7 +34406,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 463598,
       "name": "You Are",
       "url": "https://open.spotify.com/track/4Q5mbSRm09rfhISzSS1L27"

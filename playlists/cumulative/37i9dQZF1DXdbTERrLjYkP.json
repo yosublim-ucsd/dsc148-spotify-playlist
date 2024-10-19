@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Solya",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Isabel Dumaa",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "cupids on cocaine",
+        "url": "https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148357,
+      "name": "cupids on cocaine",
+      "url": "https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1"
+    },
+    {
+      "album": {
         "name": "You Never Met Me",
         "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
       },
@@ -3806,6 +3824,24 @@
       "duration_ms": 202193,
       "name": "Everybody Seems to Love You",
       "url": "https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx"
+    },
+    {
+      "album": {
+        "name": "Just My Nature",
+        "url": "https://open.spotify.com/album/6IXsR2pf2jxjtkScPt5VWA"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228991,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/2gsVY4QDfE8tkyWQZJu5ht"
     },
     {
       "album": {
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 168666,
       "name": "Hope Is a Scary Thing",
       "url": "https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg"
@@ -8077,6 +8113,24 @@
     },
     {
       "album": {
+        "name": "Mass. Ave (You and I)",
+        "url": "https://open.spotify.com/album/3B7NIQEdQHvmK8hhZcgXY9"
+      },
+      "artists": [
+        {
+          "name": "Delilah Brao",
+          "url": "https://open.spotify.com/artist/5dWRkpyqnoYDNouN02NDdk"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140560,
+      "name": "Mass. Ave (You and I)",
+      "url": "https://open.spotify.com/track/5IoBwcBsA3hK9vAcFvvx2A"
+    },
+    {
+      "album": {
         "name": "matthew",
         "url": "https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr"
       },
@@ -9086,7 +9140,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 151240,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom"
@@ -10390,7 +10444,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 198287,
       "name": "Shut Up About It",
       "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
@@ -12062,7 +12116,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 198400,
       "name": "Times Are Changin'",
       "url": "https://open.spotify.com/track/5GfeGwrQvFAQgevgfvmQ2D"
@@ -13118,6 +13172,24 @@
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d"
+    },
+    {
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/1ZIzSuZ5VMrCI4AWvcQrQW"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170841,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m"
     },
     {
       "album": {

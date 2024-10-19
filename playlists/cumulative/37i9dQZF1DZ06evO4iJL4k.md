@@ -2,7 +2,7 @@
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Filipe Ret\. The essential tracks, all in one playlist.
 
 90 songs - 6 hr 4 min
 

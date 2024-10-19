@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "My Heart Will Go On (Titanic)",
+        "url": "https://open.spotify.com/album/6viHIsdYTgcJz3Xz90FhZ1"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "My Heart Will Go On (Titanic)",
+      "url": "https://open.spotify.com/track/4emAFfwTycwuLttCw4e3uD"
+    },
+    {
+      "album": {
         "name": "My Own Home",
         "url": "https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz"
       },

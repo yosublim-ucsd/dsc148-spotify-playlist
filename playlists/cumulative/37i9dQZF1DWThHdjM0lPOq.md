@@ -4,7 +4,7 @@
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-108 songs - 5 hr 51 min
+109 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Moon River \(From "Breakfast At Tiffany's"\)](https://open.spotify.com/track/2OluO4WXK2WYloHg7TZiwM) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Top 15 Movie Songs: Greatest Movie Instrumentals, Movie Music and Instrumental Movie Soundtracks](https://open.spotify.com/album/4ZciY37yRyZjYKFZn1JPe1) | 5:10 | 2023-03-22 |  |
 | [My Favorite Things](https://open.spotify.com/track/24pxMjslKW09Ew6LMUs0Og) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:18 | 2023-03-17 |  |
 | [My Heart Will Go on \(Instrumental Version\)](https://open.spotify.com/track/4H8zfchn3BdKXyZ8Gh4Fcj) | [Piano Dreamland](https://open.spotify.com/artist/28bSuV1XshZ4AG9PVhan43), [Piano Man](https://open.spotify.com/artist/4c3Rm1cfWQbvPDkDHNBKHl), [Piano Love Songs, Relaxing Instrumental Music](https://open.spotify.com/artist/6BkTsb7nKmu50BIfmDUI6u) | [Keyboard Music \- Beautiful Instrumental Ballads](https://open.spotify.com/album/0ebNe6CFJLPqSLVZCBGggy) | 3:28 | 2023-03-22 | 2023-06-09 |
+| [My Heart Will Go On \(Titanic\)](https://open.spotify.com/track/4emAFfwTycwuLttCw4e3uD) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [My Heart Will Go On \(Titanic\)](https://open.spotify.com/album/6viHIsdYTgcJz3Xz90FhZ1) | 3:00 | 2024-10-18 |  |
 | [My Own Home \(The Jungle Book Theme\)](https://open.spotify.com/track/3o6MOyBLEi5H4D47TEiu5F) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [My Own Home](https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz) | 2:24 | 2023-03-17 | 2023-06-16 |
 | [My Own True Love \(Tara's Theme From "Gone with the Wind"\) / Shenandoah](https://open.spotify.com/track/36u5P6iKV2tKHKKpPO36Vq) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Instrumental Piano: Classic Movie Songs](https://open.spotify.com/album/01qE09llktP7RP5p9alAoX) | 4:10 | 2023-03-22 |  |
 | [No Time to Die \(James Bond Theme\) \- Piano Version](https://open.spotify.com/track/4BEgCQdTR2NOuXMeM2HhKv) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [No Time to Die \(James Bond Theme\) \[Piano Version\]](https://open.spotify.com/album/4VTQ29qlhbZYF5h488ateu) | 4:13 | 2023-04-05 |  |

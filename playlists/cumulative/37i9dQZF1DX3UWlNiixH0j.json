@@ -8078,7 +8078,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 231000,
       "name": "hito",
       "url": "https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx"
@@ -26496,6 +26496,24 @@
       "duration_ms": 223744,
       "name": "\u30b0\u30ea\u30fc\u30f3\u30de\u30f3",
       "url": "https://open.spotify.com/track/5A5IxGThcKc5ZG3TVqouVP"
+    },
+    {
+      "album": {
+        "name": "\u30b0\u30ec\u30fc",
+        "url": "https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209391,
+      "name": "\u30b0\u30ec\u30fc",
+      "url": "https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B"
     },
     {
       "album": {

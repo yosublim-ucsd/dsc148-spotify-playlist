@@ -479,6 +479,32 @@
     },
     {
       "album": {
+        "name": "Belong to GOD (freestyle)",
+        "url": "https://open.spotify.com/album/0o495wr8wR9jJ0YWUKBTBF"
+      },
+      "artists": [
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "L I V",
+          "url": "https://open.spotify.com/artist/2IP874FvQcxhKzVJrYrHtZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Belong to GOD (freestyle)",
+      "url": "https://open.spotify.com/track/3t6mrUnKnh4RYjXqssOKXp"
+    },
+    {
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9"
       },
@@ -494,6 +520,28 @@
       "duration_ms": 183121,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0"
+    },
+    {
+      "album": {
+        "name": "Bendecidos",
+        "url": "https://open.spotify.com/album/7vrcAR6em1lVlZTT9ySm3H"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "Bendecidos",
+      "url": "https://open.spotify.com/track/0vrj6hlfqMrHzFeVLuNgNF"
     },
     {
       "album": {
@@ -1994,7 +2042,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 122520,
       "name": "Hard Style",
       "url": "https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj"
@@ -4752,7 +4800,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 214869,
       "name": "Surprise (feat. Polim\u00e1 Westcoast)",
       "url": "https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H"

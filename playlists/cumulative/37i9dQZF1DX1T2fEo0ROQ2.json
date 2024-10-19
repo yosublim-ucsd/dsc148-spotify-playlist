@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Alvas",
+        "url": "https://open.spotify.com/album/6GLggQJZbjM0NfSdrIDnl4"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167322,
+      "name": "Alvas",
+      "url": "https://open.spotify.com/track/2I3wC8XRu0W4QLd6K56hVh"
+    },
+    {
+      "album": {
         "name": "Always Changing",
         "url": "https://open.spotify.com/album/4BCV6skujSinlMUwpoYZ35"
       },
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 195642,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/2At5E780QvmswvvPuTKPh9"
@@ -1946,6 +1964,24 @@
       "duration_ms": 166946,
       "name": "Delicate Silence",
       "url": "https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/7JcMxrEDRAvIM3XqaoKiYb"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148591,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/65QRRNE8gIa1nxQOPmG03W"
     },
     {
       "album": {
@@ -2734,7 +2770,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 186000,
       "name": "Everything is Different",
       "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
@@ -5614,7 +5650,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 198987,
       "name": "Paresser",
       "url": "https://open.spotify.com/track/5Rcw0KwlR5pZBUPrnz5x7y"
@@ -7378,7 +7414,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 200500,
       "name": "Suivez-moi",
       "url": "https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP"

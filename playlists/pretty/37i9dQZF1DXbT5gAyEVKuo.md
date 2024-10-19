@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances\. Cover: <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,500 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,547 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 36 | [Tell Of His Goodness](https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK) | [Jerome L\. Ferrell & The Lighthouse Choir](https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs), [Douglas Miller](https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB) | [Tell Of His Goodness](https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq) | 5:48 |
 | 37 | [Tired \- Live in Richmond, VA](https://open.spotify.com/track/2GSQLnTvR19qrC19ntpFRh) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Tired \(Live in Richmond, VA\)](https://open.spotify.com/album/5xOcdgRDpu5JydvRZVKBMx) | 7:33 |
 | 38 | [Always \(Father I Trust You\) \- Live](https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Always \(Father I Trust You\) \[Live\]](https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3) | 4:15 |
-| 39 | [Wide as the Sky \- Live](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
+| 39 | [Wide as the Sky](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
 | 40 | [Tell 'Em Yes \- Live](https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly) | [Brandon A\. Jacobs](https://open.spotify.com/artist/7vF9GXItuv8qrIGpLIubFz), [New Zion Temple Church Choir](https://open.spotify.com/artist/7AtzAGpfJLrbE65N87CjwO), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Tell 'Em Yes \(Live\)](https://open.spotify.com/album/0d92kjgHOfdlS0uNk1GNLE) | 7:11 |
 | 41 | [Able \- Live](https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa) | [Justin Powell & Adoration](https://open.spotify.com/artist/4xKGMqs7NlkXba1rX9utgr) | [Able \(Live\)](https://open.spotify.com/album/3RxGPCAGB08QfDFK2z1huy) | 4:09 |
 | 42 | [Because Of Who You Are](https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb) | [Vicki Yohe](https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7) | [I Just Want You](https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf) | 5:18 |

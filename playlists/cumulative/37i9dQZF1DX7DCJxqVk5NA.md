@@ -4,7 +4,7 @@
 
 > HBCU Anthems! Curated by Bowie State University's own <a href="spotify:artist:1dbTwUlL11ZYdC1YAR07AM">Foggieraw</a>
 
-95 songs - 5 hr 52 min
+96 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Linebacker](https://open.spotify.com/track/462bcTc52rrbvABljJom9g) | [Baby Ahk](https://open.spotify.com/artist/5OuQHWY62jcsbjybtomMSS), [Big Flock](https://open.spotify.com/artist/4WQM9gsqlWK9AgSiDQeuaD), [Lil Dude](https://open.spotify.com/artist/5n6JaSoLrUIOTCkke6vVtR) | [Linebacker](https://open.spotify.com/album/3w4hDiOZ3l2UX4BbnWIyef) | 4:00 | 2024-10-17 |  |
 | [Look at Wrist](https://open.spotify.com/track/6NAC0e4E05xptbKzrIUxCg) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [I LOVE MAKONNEN](https://open.spotify.com/album/4gyGykGf5e2iGiSeVNDAyW) | 3:33 | 2024-10-17 |  |
 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 | 2021-11-12 | 2024-10-18 |
+| [Love Don’t Cost A Thing](https://open.spotify.com/track/6zkfapMV2VbdUsh9k4HPRl) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Love Don’t Cost A Thing](https://open.spotify.com/album/7mdUW5834ndaTi6Dyu2ufQ) | 3:26 | 2024-10-18 |  |
 | [Make It Rain](https://open.spotify.com/track/50p9gmJMwsz3zyAwoF0FEv) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:59 | 2021-11-12 | 2024-10-18 |
 | [My Boo \- LP Radio Edit](https://open.spotify.com/track/2PAUsCMYNVfyw6imxFA71H) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [Total Dance Explosion](https://open.spotify.com/album/3ibQ8V9lnylFrL1vn9cWaM) | 4:08 | 2021-11-12 | 2024-10-18 |
 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 | 2021-11-12 | 2024-10-18 |

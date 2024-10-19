@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/4WKzrMkFV02bMTA8QgOUyW"
+      },
+      "artists": [
+        {
+          "name": "Petal & Thorn",
+          "url": "https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0ITT5QNAIFq3Lyi6kCrgRW"
+    },
+    {
+      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/39liycElEFslWeDOpDrwt8"
       },

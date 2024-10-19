@@ -947,6 +947,32 @@
     },
     {
       "album": {
+        "name": "Find Your Flame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2PC32ErhVUGoW7kgO5pyvy"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Onipa",
+          "url": "https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC"
+    },
+    {
+      "album": {
         "name": "Free as a Bird",
         "url": "https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ"
       },

@@ -2247,6 +2247,28 @@
     },
     {
       "album": {
+        "name": "Hj\u00e4rtat sl\u00e5r",
+        "url": "https://open.spotify.com/album/1ZdJ1GaF8viBrTxYSp6Nzw"
+      },
+      "artists": [
+        {
+          "name": "CIVIL POLIS",
+          "url": "https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ"
+        },
+        {
+          "name": "Sj\u00e4len",
+          "url": "https://open.spotify.com/artist/1o8iMexHLU6IISsELlCO0Y"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Hj\u00e4rtat sl\u00e5r",
+      "url": "https://open.spotify.com/track/7MuUIYeMlGpMkdXgP8KFct"
+    },
+    {
+      "album": {
         "name": "All Things Shining",
         "url": "https://open.spotify.com/album/6Fe24gOuqBwxbLhFaQ0tB9"
       },
@@ -4338,6 +4360,24 @@
       "duration_ms": 159661,
       "name": "Rock'n'Roll",
       "url": "https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE"
+    },
+    {
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "album": {

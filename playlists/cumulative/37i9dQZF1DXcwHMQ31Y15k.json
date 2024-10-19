@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Bahagiamu Loroku",
+        "url": "https://open.spotify.com/album/18RWsY2cVFby8RVDfXF9pw"
+      },
+      "artists": [
+        {
+          "name": "Twentynine",
+          "url": "https://open.spotify.com/artist/2qcBwl4HXW2OWYkanzzkuL"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Bahagiamu Loroku",
+      "url": "https://open.spotify.com/track/2klu3MQzMY8SLw2s680TCP"
+    },
+    {
+      "album": {
         "name": "Balik Kanan Wae",
         "url": "https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 380925,
       "name": "BOSOHO MOTO",
       "url": "https://open.spotify.com/track/44gR5bYDZyNutUyMZyaYJz"
@@ -1052,6 +1070,24 @@
       "duration_ms": 287213,
       "name": "Cundamani",
       "url": "https://open.spotify.com/track/64MmMbaX3hmAKQ6nFLJgpg"
+    },
+    {
+      "album": {
+        "name": "Cundamani",
+        "url": "https://open.spotify.com/album/5XYj1W6MeEjvUawRi5KKa3"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Cundamani",
+      "url": "https://open.spotify.com/track/6J8rXMAh4eO50fplNgy7Ob"
     },
     {
       "album": {
@@ -1982,6 +2018,28 @@
       "duration_ms": 270673,
       "name": "Jaran Goyang",
       "url": "https://open.spotify.com/track/00G0MhqxlDn3VjmCMrMAnF"
+    },
+    {
+      "album": {
+        "name": "Jejantunging Kalbu",
+        "url": "https://open.spotify.com/album/424Gy6dFu4JBKBxGqEt12i"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Jejantunging Kalbu",
+      "url": "https://open.spotify.com/track/378sjjoEHRfAjFBlBCNdoI"
     },
     {
       "album": {
@@ -3678,7 +3736,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 251555,
       "name": "Mikir Mikir",
       "url": "https://open.spotify.com/track/3YXIQCSmo2BEY4WrUHtXxZ"
@@ -4073,6 +4131,32 @@
     },
     {
       "album": {
+        "name": "Ngamen 10",
+        "url": "https://open.spotify.com/album/5DFJURYLfR3QhzPzrmZ3wD"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        },
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396850,
+      "name": "Ngamen 10",
+      "url": "https://open.spotify.com/track/4W05ZNdRW3ciTHZWmsB1q1"
+    },
+    {
+      "album": {
         "name": "NGANGGUR",
         "url": "https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5"
       },
@@ -4318,7 +4402,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 358939,
       "name": "Nona Jelita",
       "url": "https://open.spotify.com/track/0uF0r2nmmM90FefkgsbZ63"
@@ -5972,7 +6056,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 277920,
       "name": "SAMAR - Versi Akustik",
       "url": "https://open.spotify.com/track/5QBr8tq760ApYwE4I5ZxDg"
@@ -6230,7 +6314,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 316783,
       "name": "Selendang Biru",
       "url": "https://open.spotify.com/track/4R6DWZXWg8DzJYUMNJmBuU"

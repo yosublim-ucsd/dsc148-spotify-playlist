@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marilou",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Comme les pigeons d'argile",
+        "url": "https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Comme les pigeons d'argile",
+      "url": "https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2"
+    },
+    {
+      "album": {
         "name": "Coup de poing",
         "url": "https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 147000,
       "name": "Ensemble - Radio Edit",
       "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
@@ -484,6 +502,24 @@
       "duration_ms": 180480,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub"
+    },
+    {
+      "album": {
+        "name": "Feu de paille",
+        "url": "https://open.spotify.com/album/6BRYJkvN7L16RK79er9TPL"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Feu de paille",
+      "url": "https://open.spotify.com/track/0Uryfi1AWwgD4eNhKmTVRo"
     },
     {
       "album": {
@@ -1054,7 +1090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 185066,
       "name": "Le secret",
       "url": "https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE"

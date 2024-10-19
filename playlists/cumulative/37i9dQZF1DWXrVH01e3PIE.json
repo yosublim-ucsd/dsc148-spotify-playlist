@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Barro",
+        "url": "https://open.spotify.com/album/5dK03A4u8rzbG1XcMYCxbF"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/7k59eQ9b5KXWUNQIMrA7nI"
+    },
+    {
+      "album": {
         "name": "Bby",
         "url": "https://open.spotify.com/album/4poBDZhAu9wzydavWJlKuj"
       },
@@ -1919,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/20ojlE8HGaw8kzd0pjAQ8d"
+      },
+      "artists": [
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
+        },
+        {
+          "name": "Tiano",
+          "url": "https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "DONDE QUIERO ESTAR",
+      "url": "https://open.spotify.com/track/00nNVZVJge5bxd1ynx7Xqc"
+    },
+    {
+      "album": {
         "name": "DOPE",
         "url": "https://open.spotify.com/album/5cSPIeyyLRZ5MwCg1JKsfq"
       },
@@ -2544,6 +2584,24 @@
       "duration_ms": 202300,
       "name": "Free Kmd 3",
       "url": "https://open.spotify.com/track/0hL1DyMRnCGJ5uNykhiQxo"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/3T3ASZMwh27Wu7WwDexPiA"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120927,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/49zhK6488SdSbXISd1XttD"
     },
     {
       "album": {
@@ -4386,7 +4444,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 140571,
       "name": "No love",
       "url": "https://open.spotify.com/track/2fOEFoxesWhR60GrFsZGJE"
@@ -4452,7 +4510,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 159120,
       "name": "No Nos Quieren Ver",
       "url": "https://open.spotify.com/track/3aXacOnZGuSycIiaD3YeNT"
@@ -4570,7 +4628,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 158314,
       "name": "No Te La Esperabas",
       "url": "https://open.spotify.com/track/0gh2OVWIv32zWDRK2r5dNJ"
@@ -5988,7 +6046,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 142344,
       "name": "Sin Berret\u00edn",
       "url": "https://open.spotify.com/track/2Lc0gZjqHoK3dWYdxExKoL"
@@ -6376,7 +6434,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 118506,
       "name": "TAYLOR SHWIFT",
       "url": "https://open.spotify.com/track/40cNOgjqOM7gPG0yiZ5Jk4"
@@ -6610,6 +6668,24 @@
       "duration_ms": 194484,
       "name": "TODO AUTOMATICO",
       "url": "https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT"
+    },
+    {
+      "album": {
+        "name": "Todo Llega 33",
+        "url": "https://open.spotify.com/album/1Ke8ojtYVoZRpN8cE3LR3J"
+      },
+      "artists": [
+        {
+          "name": "Cotto Rng",
+          "url": "https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206326,
+      "name": "Todo Llega 33",
+      "url": "https://open.spotify.com/track/3FLdgGOjOVXbCchxmVdJaW"
     },
     {
       "album": {

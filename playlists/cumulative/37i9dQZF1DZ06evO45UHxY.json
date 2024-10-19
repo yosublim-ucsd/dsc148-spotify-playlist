@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Banda Zeta. Los temas esenciales, todos en una lista.",
+  "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
   "name": "This Is Banda Zeta",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 185280,
       "name": "A Pesar de Todo",
       "url": "https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz"
+    },
+    {
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv"
     },
     {
       "album": {
@@ -92,6 +110,24 @@
       "duration_ms": 151066,
       "name": "All\u00e1 en el oeste",
       "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
+    },
+    {
+      "album": {
+        "name": "Baladas de Banda",
+        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Arrepentida",
+      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
     },
     {
       "album": {
@@ -452,7 +488,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 156680,
       "name": "Derecho De Amarla",
       "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"

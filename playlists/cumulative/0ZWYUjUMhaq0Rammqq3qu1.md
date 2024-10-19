@@ -4,7 +4,7 @@
 
 > Music for the strange, unusual, and recently deceased\. Get ready for the Spooky Season with Halloween Hits including 'Spooky, Scary Skeletons', 'Monster Mash' and 'Super Freak'.
 
-648 songs - 1 day 12 hr 47 min
+649 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 | 2021-07-02 | 2022-09-13 |
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-08-28 |  |
 | [Trick Or Treat](https://open.spotify.com/track/4P4khiiX6sJpoMhnqmyDCB) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Trick Or Treat](https://open.spotify.com/album/4FAoWfikDUVQEQ2Jkyn1nr) | 2:15 | 2024-08-21 | 2024-08-29 |
+| [Trick Or Treat \- English Version](https://open.spotify.com/track/5jMdOrqqHmO2NrO6eVafkr) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Trick Or Treat](https://open.spotify.com/album/71B31IfFoO5Qd6PhCLci8D) | 2:46 | 2024-10-18 |  |
 | [Tubular Bells](https://open.spotify.com/track/7uzSE2U0oWPbWy0xYw0mDK) | [Halloween FX Productions](https://open.spotify.com/artist/2JCBXi3V2tlTwXp8Q3tGnY) | [Halloween Haunted House Party: Reincarnated Halloween Classics & Scary Soundscapes](https://open.spotify.com/album/7hh0dwuCT7MJfcTFybxPoG) | 5:04 | 2024-08-21 | 2024-08-29 |
 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 | 2024-08-28 |  |
 | [Tubular Bells \- Pt\. II](https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 23:17 | 2024-08-28 | 2024-09-25 |

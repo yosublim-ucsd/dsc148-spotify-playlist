@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Big Soto \(Mexa de honor\) en portada.
 
-310 songs - 14 hr 37 min
+311 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Baby Yo Me Pierdo](https://open.spotify.com/track/1NyR1ll0JIFbvafvdYz7BF) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo) | [Baby Yo Me Pierdo](https://open.spotify.com/album/0Pzm5qzf0NeiEhdZO22FRV) | 2:21 | 2023-06-09 | 2023-07-15 |
 | [Backwood](https://open.spotify.com/track/0XFVr6pMGZwTmMjJnISpFG) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Backwood](https://open.spotify.com/album/6MuoT68Wnd67n725ttR6dc) | 3:28 | 2023-06-09 | 2023-07-01 |
 | [Bad Bitches Cry Too](https://open.spotify.com/track/46OogDeC6YVI8zvqH8hAkc) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Bad Bitches Cry Too](https://open.spotify.com/album/40PEpgToYvH1VVCzDYbVJy) | 2:25 | 2023-06-09 | 2023-08-05 |
-| [Bajar De Aquí](https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Bajar De Aquí](https://open.spotify.com/album/6N4Hkd2hxIwIsUGzlDWJjW) | 4:07 | 2024-08-23 |  |
+| [Bajar De Aquí](https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Bajar De Aquí](https://open.spotify.com/album/6N4Hkd2hxIwIsUGzlDWJjW) | 4:07 | 2024-08-23 | 2024-10-19 |
 | [Ballin' Freestyle](https://open.spotify.com/track/26ymWLkkfMzbyR25C6WEFf) | [Neqer](https://open.spotify.com/artist/3Esms7kp5iE7wWc4iyPh7A), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ballin' Freestyle](https://open.spotify.com/album/4jbOIDm9TssiVGrEdSLuVF) | 2:12 | 2023-11-10 | 2024-05-18 |
 | [Bandalo](https://open.spotify.com/track/3HqKzELtHQy7KqjYMucnNn) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Mikebøi](https://open.spotify.com/artist/0lVNQEG85cu3cc6J3hAE3c) | [Bandalo](https://open.spotify.com/album/3e8Ucvgyrk6mSja08dZT1K) | 2:45 | 2023-06-09 | 2023-07-15 |
 | [Bandidos](https://open.spotify.com/track/0bCHso1zsLuJ9hmUxN3BwT) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Bandidos](https://open.spotify.com/album/4fheNzMBxnDS7hfnhpznea) | 2:48 | 2023-06-09 | 2023-07-01 |
@@ -152,6 +152,7 @@
 | [ICEY ICEY](https://open.spotify.com/track/5WRg0aYTGQjSxDsCIkx5dn) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [ICEY ICEY](https://open.spotify.com/album/37Fb9oGq9GOPkxC5a9MaBa) | 2:21 | 2023-11-10 | 2024-05-18 |
 | [Icy](https://open.spotify.com/track/0wdWp0BJKTDCiHvV0HivcM) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [CÓDIGOS](https://open.spotify.com/album/5HMWKVH3tJnZAriq0YeeQ8) | 3:13 | 2023-06-09 | 2023-07-28 |
 | [Infraganti](https://open.spotify.com/track/3gslN5n2cRyJKHUMV4M7dl) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [MNZR](https://open.spotify.com/artist/3Hq3cjiSLxQGmKqLQASfFQ) | [Infraganti](https://open.spotify.com/album/76vMmSsl678VqUbB5UZzcJ) | 2:44 | 2023-09-23 | 2024-05-18 |
+| [Inigualable](https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Badly Rouse](https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8) | [Inigualable](https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj) | 3:05 | 2024-10-18 |  |
 | [INSTAX](https://open.spotify.com/track/0hoyhc73h4mjcYqp95Yris) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [INSTAX](https://open.spotify.com/album/7b1qkKvj0XPkzoXEKySUii) | 3:15 | 2023-06-09 | 2023-07-01 |
 | [Inteligencia Artificial](https://open.spotify.com/track/40aYZD3RWKPIt88YWZn8Sb) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Inteligencia Artificial](https://open.spotify.com/album/0CPSzOOHL5tM1p7NT10f7d) | 2:50 | 2023-06-09 | 2023-07-01 |
 | [Intenso](https://open.spotify.com/track/65ZgdkDdwZhHndW9QXxnVy) | [Lil Wacho](https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX), [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Intenso](https://open.spotify.com/album/0juH0Sa9FvydmIhNkH6pcR) | 3:49 | 2024-05-27 | 2024-07-27 |

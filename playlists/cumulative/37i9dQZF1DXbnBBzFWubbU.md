@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-145 songs - 9 hr 32 min
+147 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,9 +137,11 @@
 | [TAKA \- Taiki Nulight Remix](https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [TAKA \(Taiki Nulight Remix\)](https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8) | 3:29 | 2024-06-07 | 2024-06-14 |
 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-21 | 2024-01-27 |
 | [Tarka](https://open.spotify.com/track/10tUxnculTXzMGFAcj3ZNr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Turbo \(Deluxe\)](https://open.spotify.com/album/5AqK0sYFr4bVWAtVKTmXcz) | 1:56 | 2024-02-13 | 2024-03-23 |
+| [Tell Me Why](https://open.spotify.com/track/3onsfEgU1PhhxfYuF4VNOT) | [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [Tell Me Why](https://open.spotify.com/album/62MddR3vq1uZJGljqGbJcM) | 3:15 | 2024-10-18 |  |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-08-18 |  |
 | [Temple \- Kermesse Remix](https://open.spotify.com/track/3CfWjRakHy5ZoI7oh7wO4B) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Temple](https://open.spotify.com/album/7cXNPxFqvsqKw3s71dTFM3) | 6:04 | 2023-08-18 |  |
 | [Tere Baajo](https://open.spotify.com/track/1Giy9XohjL9TZPGfm90jim) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Tere Baajo](https://open.spotify.com/album/4GKHmod11S1lF33zJH5LIQ) | 3:12 | 2023-10-27 |  |
+| [Third Umpire](https://open.spotify.com/track/5ogz2Kk2BDzjI2dFCqXRQ9) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Third Umpire](https://open.spotify.com/album/2F1PgH2M84um53JcJEA0aE) | 4:38 | 2024-10-18 |  |
 | [Today](https://open.spotify.com/track/6A6XaKiI6WsjqD1nkiAmzh) | [Aatma](https://open.spotify.com/artist/6zaWFQYU5em3iUkjvzbF70) | [Time](https://open.spotify.com/album/4aMDiMKobwM9Wl7VFLhlL8) | 4:58 | 2023-08-18 |  |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2024-03-22 |  |
 | [Tripasia](https://open.spotify.com/track/4NqaNXn9bw7PmXjOFW8vmp) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/0WzBEyEM7oj5GqehqqwHlg) | 2:56 | 2023-08-18 | 2024-04-19 |

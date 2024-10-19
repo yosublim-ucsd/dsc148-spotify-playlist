@@ -1,13 +1,149 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44231,
+  "num_followers": 44230,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZsvLWXSj34yPWNdbP9lf8W4ofGhK6",
+  "snapshot_id": "AAAZtD7hQs1dkHjnLfqictzL3/1ii5/F",
   "tracks": [
+    {
+      "added_at": "2024-10-18 16:28:31",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/4PASfE1ZsBkAVVCP0CD9IX"
+      },
+      "artists": [
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/2zlKYF8UQ8udETMavzIN8I"
+    },
+    {
+      "added_at": "2024-10-18 16:28:16",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Levex",
+          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Levex Remix",
+      "url": "https://open.spotify.com/track/0kFnR2iXkxWxYSaZbrfyUy"
+    },
+    {
+      "added_at": "2024-10-18 16:28:16",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        }
+      ],
+      "duration_ms": 163862,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Haus of Panda Remix",
+      "url": "https://open.spotify.com/track/2SjLtrGDB9nwO0dFvyGxZc"
+    },
+    {
+      "added_at": "2024-10-18 16:28:16",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Basstrick",
+          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
+        }
+      ],
+      "duration_ms": 152112,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Basstrick Remix",
+      "url": "https://open.spotify.com/track/0xuqfqKQ6AAs6YWksxSRe1"
+    },
+    {
+      "added_at": "2024-10-18 16:28:16",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Merow Remix",
+      "url": "https://open.spotify.com/track/2t3uQR29PPq0APKbJTad1C"
+    },
+    {
+      "added_at": "2024-10-18 16:28:16",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "KEEL",
+          "url": "https://open.spotify.com/artist/01G5DkOdtzpimIyyznaSj3"
+        }
+      ],
+      "duration_ms": 166724,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - KEEL Remix",
+      "url": "https://open.spotify.com/track/3Gs28L8xVthzgzDd7ztopB"
+    },
     {
       "added_at": "2024-10-11 12:13:36",
       "album": {

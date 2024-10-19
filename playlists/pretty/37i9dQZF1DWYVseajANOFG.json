@@ -1,13 +1,33 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 121284,
+  "num_followers": 121315,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAACYoK8+i7X/PSARxWH0alDr",
+  "snapshot_id": "ZxHdQAAAAAC72DTfAQFIVNdHVMqYxEkx",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "LA PANTERA NEGRA (DELUXE)",
+        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "OTRO NIVEL \ud83d\udc51 (feat. Sech)",
+      "url": "https://open.spotify.com/track/2OhDOv9O8BUEtckF7DDRCP"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -47,22 +67,6 @@
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "DE PARTY X TI",
-        "url": "https://open.spotify.com/album/0MlQNRFhEfOehAbLu7ao3N"
-      },
-      "artists": [
-        {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "DE PARTY X TI",
-      "url": "https://open.spotify.com/track/72acHoAGS9ffGIVPdabc9H"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -133,26 +137,6 @@
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "GROSERIA",
-        "url": "https://open.spotify.com/album/5DemjrjVcPNJtzmt2bQfUW"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        }
-      ],
-      "duration_ms": 163301,
-      "name": "GROSERIA",
-      "url": "https://open.spotify.com/track/3Z2xYWz3Eq3Hefk9MFLPxA"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "BESITOS",
@@ -193,38 +177,6 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Tus Demonios",
-        "url": "https://open.spotify.com/album/3mYAT2n6mEDuNi80D2q5Jm"
-      },
-      "artists": [
-        {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
-        },
-        {
-          "name": "Roazter",
-          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
-        },
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        },
-        {
-          "name": "Mole",
-          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
-        },
-        {
-          "name": "Real Boss",
-          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
-        }
-      ],
-      "duration_ms": 321882,
-      "name": "Tus Demonios",
-      "url": "https://open.spotify.com/track/3ht9J1hwY8fkGo0jZWIEi3"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "FAVELA",
@@ -245,64 +197,20 @@
       "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
     },
     {
-      "added_at": "2024-09-30 02:55:30",
+      "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Habla Como Pana",
-        "url": "https://open.spotify.com/album/5thPm1C4pzx4S6pqimkYop"
+        "name": "Guerrero de Yavh\u00e9",
+        "url": "https://open.spotify.com/album/2KH1B8GQ0CTGAv8XtbgsM3"
       },
       "artists": [
         {
           "name": "Kafu Banton",
           "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux"
-        },
-        {
-          "name": "Mar Maria",
-          "url": "https://open.spotify.com/artist/6K2FLYn2eBtSvEye5ZeMoG"
-        },
-        {
-          "name": "Carlienis",
-          "url": "https://open.spotify.com/artist/4UYhJWF3UggiWaek5Fr8n6"
-        },
-        {
-          "name": "El Zeta",
-          "url": "https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk"
-        },
-        {
-          "name": "Pash",
-          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
         }
       ],
-      "duration_ms": 168979,
-      "name": "Habla Como Pana - Remix",
-      "url": "https://open.spotify.com/track/3k09BifCNcHUNKHNmkNv6G"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "OTRA LIGA",
-        "url": "https://open.spotify.com/album/5OFRwSBvjgYvdJP4aJ4Puk"
-      },
-      "artists": [
-        {
-          "name": "Shen",
-          "url": "https://open.spotify.com/artist/1dRtmjJQURdArwFrsUugZm"
-        },
-        {
-          "name": "Kenny Man",
-          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
-        },
-        {
-          "name": "Rythmy",
-          "url": "https://open.spotify.com/artist/7k5FrnV0zp3FYjTXUHFUP4"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "OTRA LIGA",
-      "url": "https://open.spotify.com/track/1GgE3Et7kx551FNJIy2xKA"
+      "duration_ms": 160750,
+      "name": "Guerrero de Yavh\u00e9",
+      "url": "https://open.spotify.com/track/0EdhElBICTHMtthD0t9J5y"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -473,6 +381,22 @@
       "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Descansa En Paz",
+        "url": "https://open.spotify.com/album/2juqhhfkL8ShyNc8YXvzKQ"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "duration_ms": 160206,
+      "name": "Descansa En Paz",
+      "url": "https://open.spotify.com/track/61xQvQwGU7NMG9IPGbSL2U"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Besitos",
@@ -603,6 +527,22 @@
       "duration_ms": 172830,
       "name": "Bon Appetit",
       "url": "https://open.spotify.com/track/6FVOY6GSHXB3XlY3AIfMXf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "DE PARTY X TI",
+        "url": "https://open.spotify.com/album/0MlQNRFhEfOehAbLu7ao3N"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "DE PARTY X TI",
+      "url": "https://open.spotify.com/track/72acHoAGS9ffGIVPdabc9H"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1123,6 +1063,38 @@
       "duration_ms": 226720,
       "name": "Otra Baby",
       "url": "https://open.spotify.com/track/4f2nbpKWfnj7tNyL2Ihj9n"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Tus Demonios",
+        "url": "https://open.spotify.com/album/3mYAT2n6mEDuNi80D2q5Jm"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Roazter",
+          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "duration_ms": 321882,
+      "name": "Tus Demonios",
+      "url": "https://open.spotify.com/track/3ht9J1hwY8fkGo0jZWIEi3"
     }
   ],
   "unique_name": "Flow Panam\u00e1",

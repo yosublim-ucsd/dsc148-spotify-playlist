@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 167368,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N"
@@ -1714,6 +1714,28 @@
       "duration_ms": 176842,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN"
+    },
+    {
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/3sf31HLWkt9X91NoHlfdzj"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "MMorgan",
+          "url": "https://open.spotify.com/artist/6MRsrtaTHhU5bWnf6Ktq5A"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168409,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/1beeAahAa0EaiCWk8np8Yh"
     },
     {
       "album": {

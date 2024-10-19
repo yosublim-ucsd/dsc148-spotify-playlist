@@ -2,7 +2,7 @@
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This is Neto Peña\. Todos os maiores hits em uma só playlist.
+> This Is Neto Peña\. Los temas esenciales, todos en una lista.
 
 66 songs - 4 hr 17 min
 

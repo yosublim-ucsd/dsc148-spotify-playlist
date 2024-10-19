@@ -935,6 +935,32 @@
     },
     {
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/7y8yy64nFLCHR0NB6VsH0z"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        },
+        {
+          "name": "SammyB",
+          "url": "https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ"
+        },
+        {
+          "name": "Dux",
+          "url": "https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218340,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5IDu7Pb1pqeWpmkDarfQwZ"
+    },
+    {
+      "album": {
         "name": "Conversation Starter",
         "url": "https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW"
       },
@@ -5662,7 +5688,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 339562,
       "name": "Undone - Dave Lee's Disco Blend",
       "url": "https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr"

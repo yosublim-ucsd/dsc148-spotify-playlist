@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY, Sophie Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,426 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,454 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 23 | [heart suicide](https://open.spotify.com/track/3S9oBeWey0OTJF71TFUzG6) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [heart suicide](https://open.spotify.com/album/2rSljptpG9uXWIjZ6Ywo3Y) | 3:06 |
 | 24 | [I'm From Holland](https://open.spotify.com/track/2qJvo0PQfsR3DGsWXYqvmo) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [I'm From Holland](https://open.spotify.com/album/2GPgkNnsPkXdL9k9kFeJxx) | 3:51 |
 | 25 | [Nicht Nach Hause](https://open.spotify.com/track/7qHk5whmic5gttkVcKEQNK) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Nicht Nach Hause](https://open.spotify.com/album/2TM34JWlj2PSLyICjZ35jk) | 2:18 |
-| 26 | [Satisfied](https://open.spotify.com/track/6kub9zuVix82p8n4Cws5yf) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Felix](https://open.spotify.com/artist/1ZZDx6bng0W8En0vnJ6a3R) | [Satisfied](https://open.spotify.com/album/3TBq23XNA25EImbAwyuvkJ) | 1:58 |
+| 26 | [Satisfied](https://open.spotify.com/track/6kub9zuVix82p8n4Cws5yf) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [Satisfied](https://open.spotify.com/album/3TBq23XNA25EImbAwyuvkJ) | 1:58 |
 | 27 | [I Don't Know](https://open.spotify.com/track/2ZuJnf1BPjeK1I27jozrsa) | [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [I Don't Know](https://open.spotify.com/album/5MZOK1GeynmzJIpuapgcmL) | 2:16 |
 | 28 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |
 | 29 | [I Was Made For Lovin' You](https://open.spotify.com/track/6AHiR1f9bTtmGME5owOVJ2) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Justin Prince](https://open.spotify.com/artist/6ULqFfQqX8cTy9jkRbKMMh) | [I Was Made For Lovin' You](https://open.spotify.com/album/4XNbH3HqSaeSUPtQxTNFtV) | 2:19 |

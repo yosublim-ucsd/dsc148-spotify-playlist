@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-939 songs - 2 day 2 hr 45 min
+940 songs - 2 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Kasol](https://open.spotify.com/track/6NIFNHQ9wvzbgoNRXw9EHh) | [Pathan](https://open.spotify.com/artist/0EXLH9y04aZOr8xBYA57n7) | [Kasol](https://open.spotify.com/album/6PZtImBI5XPwGYhhO5wDDj) | 3:54 | 2022-02-28 | 2022-03-11 |
 | [Kassam](https://open.spotify.com/track/41KGSoQNccVN6hYNyEgnUG) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Kassam](https://open.spotify.com/album/1c3hKdgbeceARV2H0NlOK9) | 2:29 | 2024-07-04 |  |
 | [Kathputli](https://open.spotify.com/track/2qzVqEem02pIQ1Ve8NaYRt) | [Bilas](https://open.spotify.com/artist/5mUpZHSWyK1sWIhS8CmpIU), [Ranjit Punia](https://open.spotify.com/artist/1RGC9rUEW1lMXV6RffwgD3), [Kaur Angle](https://open.spotify.com/artist/596dATWsc3F23ehSGUTcny) | [Kathputli](https://open.spotify.com/album/7iZjcF3srladjB42B9An84) | 4:04 | 2022-03-31 | 2022-04-06 |
+| [Katti Jani Aa](https://open.spotify.com/track/6hFHBA0p5z4vUsrwYa0Z8W) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Katti Jani Aa](https://open.spotify.com/album/4gv9YU9KNr7QjWZoHvHGvU) | 3:06 | 2024-10-18 |  |
 | [Keh Len De](https://open.spotify.com/track/3CHZhkihLupVrfYIyg869S) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Keh Len De](https://open.spotify.com/album/5XAtOSRyn0dDnrZBcjVQoi) | 2:30 | 2021-12-02 | 2022-04-06 |
 | [Kehkashan](https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 | 2023-09-29 | 2023-11-07 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-05 | 2022-09-16 |
@@ -659,7 +660,7 @@
 | [QUEEN](https://open.spotify.com/track/6RwJPJVrPqi734Rg8syWFM) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh) | [QUEEN](https://open.spotify.com/album/1XhqqmtDLfZPh2BiJYygcc) | 3:42 | 2022-05-04 | 2022-05-11 |
 | [Queen](https://open.spotify.com/track/4xgtIHxjxYP33N4KBiTQay) | [Tera Sahib](https://open.spotify.com/artist/0r5sAOkjWfAbTbev99azaS) | [Queen](https://open.spotify.com/album/4FOXrgqdNcFI4AgxmyZVoC) | 2:51 | 2022-01-27 | 2022-02-01 |
 | [Raah](https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:33 | 2022-02-17 | 2022-04-29 |
-| [Raah Warga](https://open.spotify.com/track/16nRLGxHk3OCvDtkBmBi0M) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Raah Warga](https://open.spotify.com/album/2zFYFKuWZU3Ypo5SbXyVo0) | 3:40 | 2023-05-07 |  |
+| [Raah Warga](https://open.spotify.com/track/16nRLGxHk3OCvDtkBmBi0M) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Raah Warga](https://open.spotify.com/album/2zFYFKuWZU3Ypo5SbXyVo0) | 3:40 | 2023-05-07 | 2024-10-19 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-05-06 |
 | [Raanjhe Ki Baaraat](https://open.spotify.com/track/2y1fMZZDDA9RFK4EUZcVul) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Raanjhe Ki Baaraat](https://open.spotify.com/album/795V3OXkEsDcaZQoVpHv4j) | 3:39 | 2022-03-10 | 2022-04-06 |
 | [Raatan Teriyan](https://open.spotify.com/track/5zYQ1uyhtDR64cJXX8iElB) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Pragati](https://open.spotify.com/artist/0DbVzPStkbvSMq7LQCHdUQ) | [Raatan Teriyan](https://open.spotify.com/album/2NsZM8ZbWRuA6MOSWdx6UW) | 3:13 | 2022-01-19 | 2022-02-01 |

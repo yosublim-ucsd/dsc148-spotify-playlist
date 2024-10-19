@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330899,
+  "num_followers": 330923,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 211080,
       "name": "Dona Cila",
       "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sorriso Aberto",
-        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Sorriso Aberto",
-      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Peda\u00e7os",
         "url": "https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 238200,
       "name": "T\u00f4 Voltando",
       "url": "https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sorriso Aberto",
+        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 276426,
+      "name": "Sorriso Aberto",
+      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "O Velho E Bom Novo (Lado A)",
-        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Seja Gentil",
-      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204221,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "O Velho E Bom Novo (Lado A)",
+        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Seja Gentil",
+      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "A Menina Ainda Dan\u00e7a (Baby Sucessos)",
-        "url": "https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi"
+        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
+        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
       },
       "artists": [
         {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+          "name": "Nana Caymmi",
+          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
         }
       ],
-      "duration_ms": 413866,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl"
+      "duration_ms": 178000,
+      "name": "Suave Veneno",
+      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
-        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
+        "name": "A Menina Ainda Dan\u00e7a (Baby Sucessos)",
+        "url": "https://open.spotify.com/album/4FhqrNecbtzv5Ym3gxqITi"
       },
       "artists": [
         {
-          "name": "Nana Caymmi",
-          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Suave Veneno",
-      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
+      "duration_ms": 413866,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3K1mmD3jyjSp0kruKKAoBl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Iai\u00e1",
-        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 329680,
-      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
-      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Jaguatirica Print",
         "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Iai\u00e1",
+        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 329680,
+      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
+      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Vinte Palavras ao Redor do Sol",
         "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
       },
@@ -1503,6 +1503,38 @@
       "duration_ms": 183933,
       "name": "Quem Vai Quem Vem",
       "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 206192,
+      "name": "Preta de Quebrada",
+      "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Baldin de Gelo",
+        "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 167341,
+      "name": "Baldin de Gelo",
+      "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1547,38 +1579,6 @@
       "duration_ms": 239669,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Baldin de Gelo",
-        "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
-      },
-      "artists": [
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "Baldin de Gelo",
-      "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 206192,
-      "name": "Preta de Quebrada",
-      "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Terra de Buda",
+        "url": "https://open.spotify.com/album/0wkwNS0PZJ3bBWq9LgnDWj"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Velho Beats",
+          "url": "https://open.spotify.com/artist/5wPxfqO5bzh5yjXWEHAtYr"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Terra de Buda",
+      "url": "https://open.spotify.com/track/54Yx62stIuYNrkavyM1KPl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Silencia",
         "url": "https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 179987,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Terra de Buda",
-        "url": "https://open.spotify.com/album/0wkwNS0PZJ3bBWq9LgnDWj"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Velho Beats",
-          "url": "https://open.spotify.com/artist/5wPxfqO5bzh5yjXWEHAtYr"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Terra de Buda",
-      "url": "https://open.spotify.com/track/54Yx62stIuYNrkavyM1KPl"
     }
   ],
   "unique_name": "Escuta as Minas",

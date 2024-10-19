@@ -1,12 +1,12 @@
 {
-  "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
+  "description": "This is Teenage Wrist. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 1311,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8CAAAAAADO7IDqwaNGhNS+zOv1kJ4d",
+  "snapshot_id": "ZxBTgAAAAACzlfLDn4l28QYzLSUxb8Mj",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 166943,
-      "name": "Taste Of Gasoline",
-      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+      "duration_ms": 206156,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206156,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
+      "duration_ms": 166943,
+      "name": "Taste Of Gasoline",
+      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
     },
     {
       "added_at": null,
@@ -282,11 +282,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -346,15 +350,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "S.A. Martinez",
-          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 191323,
-      "name": "Dark Sky",
-      "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
@@ -416,13 +416,13 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+          "name": "S.A. Martinez",
+          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 191323,
+      "name": "Dark Sky",
+      "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Alfa
 
-493 songs - 1 day 1 hr 32 min
+494 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-09 | 2024-09-06 |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-27 | 2024-07-19 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 |  |
 | [Aquafina \(feat\. Slings\)](https://open.spotify.com/track/2aAf1HQ47GUwc2Jv8eeRXa) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Tram 83](https://open.spotify.com/album/6kbIMPJoFC0uONTg9IM5Cc) | 2:35 | 2024-10-10 |  |
 | [Araba Fenice](https://open.spotify.com/track/1Vpt6JiW5JZ0EQLgCvWWek) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Araba Fenice](https://open.spotify.com/album/4WpUUTNmz2mw526952tnYi) | 2:52 | 2024-09-19 | 2024-10-04 |
 | [argilla](https://open.spotify.com/track/2V15mNaBXDbWi3Lj3bSUWk) | [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Concordia](https://open.spotify.com/album/6q4rBIfBEU36r82Qa4e6Wz) | 2:58 | 2024-06-27 | 2024-07-19 |

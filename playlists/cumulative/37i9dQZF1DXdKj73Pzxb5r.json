@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Dialog Dini Hari",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: William Sihombing",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Twisted Neurons",
+        "url": "https://open.spotify.com/album/0ScRGqhhBGXryDEtjr8Sc5"
+      },
+      "artists": [
+        {
+          "name": "KYNYA",
+          "url": "https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255254,
+      "name": "Love Or Lust",
+      "url": "https://open.spotify.com/track/4xLcwgJupO7t7YgROCTB2m"
+    },
+    {
+      "album": {
         "name": "Love Song - Sped Up",
         "url": "https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA"
       },
@@ -2118,6 +2136,24 @@
       "duration_ms": 290250,
       "name": "Masih Batu",
       "url": "https://open.spotify.com/track/0KxfKlka5Y9PGRJJN3ccm4"
+    },
+    {
+      "album": {
+        "name": "Menggila",
+        "url": "https://open.spotify.com/album/4r2uDt8qlzHfCsjSlEDeEl"
+      },
+      "artists": [
+        {
+          "name": "William Sihombing",
+          "url": "https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213337,
+      "name": "Menggila",
+      "url": "https://open.spotify.com/track/4ydaXOetyo0LnNrfLpvZnc"
     },
     {
       "album": {
@@ -2410,6 +2446,24 @@
       "duration_ms": 238220,
       "name": "Niscaya",
       "url": "https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj"
+    },
+    {
+      "album": {
+        "name": "Setengah Mati",
+        "url": "https://open.spotify.com/album/3DVT0QNJVjBQGKwLi41WtV"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/4seNLrYD5A726QbcxTsobO"
     },
     {
       "album": {

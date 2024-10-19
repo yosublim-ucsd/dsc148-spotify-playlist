@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:77IKXFvO7SpWrq8hflrUXc\">KB</a>",
+  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:78DvQP3rczGqfgEiLfFnCD\">Torey D'Shaun</a>",
   "name": "The Flow",
   "tracks": [
     {
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 143448,
       "name": "Bought By The Blood",
       "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
@@ -4482,7 +4482,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 159500,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
@@ -17137,6 +17137,28 @@
     },
     {
       "album": {
+        "name": "Come And See.",
+        "url": "https://open.spotify.com/album/0SGCpIvbLDlmbFgwd1ov52"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225252,
+      "name": "REPENT",
+      "url": "https://open.spotify.com/track/77epkfBkOgrCHPlxjoHr5m"
+    },
+    {
+      "album": {
         "name": "RESPECT",
         "url": "https://open.spotify.com/album/75ILqfSbQN5CzVjpXLzthl"
       },
@@ -20360,6 +20382,32 @@
       "duration_ms": 130627,
       "name": "The Way You Act",
       "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
+    },
+    {
+      "album": {
+        "name": "Theme Music",
+        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Theme Music",
+      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
     },
     {
       "album": {

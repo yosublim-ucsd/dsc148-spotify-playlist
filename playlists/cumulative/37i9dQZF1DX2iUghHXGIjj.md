@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-180 songs - 11 hr 14 min
+181 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/4VthU2Re0xqGF0qt6XHPMD) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 3:57 | 2020-08-11 | 2024-04-19 |
 | [Bad to the Bone](https://open.spotify.com/track/3yEPbndiOIRsH4FA2dBrTH) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 4:04 | 2020-08-11 |  |
 | [Banty Rooster Blues](https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92) | [The Reverend Peyton's Big Damn Band](https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK) | [Banty Rooster Blues](https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA) | 4:06 | 2022-08-26 |  |
-| [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2020-08-11 |  |
+| [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2020-08-11 | 2024-10-19 |
 | [Behind the Sea](https://open.spotify.com/track/7lavAhhncYAkiKn8dwiDk3) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Behind the Sea](https://open.spotify.com/album/5NHQJ68C4tGz7wKQlkhPYZ) | 4:30 | 2022-06-17 |  |
 | [Big Mama's Door](https://open.spotify.com/track/3AkN7wZwvXmhvlSWDMKkbr) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Big Mama'S Door](https://open.spotify.com/album/3TNHq2DDgfhMnXsmGac0Bm) | 3:51 | 2020-08-11 |  |
 | [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-13 | 2022-06-18 |
@@ -159,6 +159,7 @@
 | [Slowly Slipping Away](https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k) | 3:26 | 2020-08-11 | 2022-10-06 |
 | [Slowly Slipping Away](https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 3:27 | 2020-08-11 | 2024-04-19 |
 | [So Grateful](https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Stripped Down & Surrendered](https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y) | 5:47 | 2020-08-11 | 2022-08-27 |
+| [So Much Weed](https://open.spotify.com/track/4tdUB64GUrbDw9F5wU5W7T) | [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Things Done Changed](https://open.spotify.com/album/7dHLiTiCy6beY5msDgQw3c) | 4:07 | 2024-10-18 |  |
 | [Sun on My Face](https://open.spotify.com/track/2hHyeOI9VDvR5cBK4JF5DP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sun on My Face](https://open.spotify.com/album/3HTbVEiLa8i13BNewI7nx2) | 4:05 | 2020-08-11 |  |
 | [Sun on My Face](https://open.spotify.com/track/35Hmr0JGSge1ivrl9xXqEP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Can U Cook?](https://open.spotify.com/album/2P8zIqMbVrUfACL3oilh80) | 4:05 | 2020-08-11 | 2024-04-19 |
 | [Take Me to the Country](https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Spectacular Class](https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8) | 2:56 | 2020-08-11 | 2024-08-17 |

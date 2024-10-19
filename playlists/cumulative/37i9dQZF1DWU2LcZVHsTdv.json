@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Fit for a King",
+        "url": "https://open.spotify.com/album/6k8iU1wIQSMHz6wlf0EyCn"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rowe",
+          "url": "https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174805,
+      "name": "Fit for a King",
+      "url": "https://open.spotify.com/track/12gjVw7ygbVxSKWhQhQI1T"
+    },
+    {
+      "album": {
         "name": "For All My Life",
         "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
       },
@@ -3596,6 +3614,28 @@
       "duration_ms": 189115,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo"
+    },
+    {
+      "album": {
+        "name": "Somebody Prayed (feat. Dylan Scott)",
+        "url": "https://open.spotify.com/album/6fWF4AeyqhUhBEUui0v6zq"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225812,
+      "name": "Somebody Prayed (feat. Dylan Scott)",
+      "url": "https://open.spotify.com/track/1scOxOB5efkZAxijmBpK6A"
     },
     {
       "album": {

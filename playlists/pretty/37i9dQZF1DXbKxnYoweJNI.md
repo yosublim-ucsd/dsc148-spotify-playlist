@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,915 likes - 121 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,926 likes - 121 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 35 | [黑夜我是超人](https://open.spotify.com/track/0fXgN4aeATptsToLxMvE2T) | [Raylee Forest](https://open.spotify.com/artist/0sjPDzNZVEwTlpzLfoJjRc) | [黑夜我是超人](https://open.spotify.com/album/01OQ3CtbTi6thxBjERqFVR) | 3:51 |
 | 36 | [少年的糾結](https://open.spotify.com/track/2FSg73IZvBxvZHqgzV6irz) | [伯爵白](https://open.spotify.com/artist/2w4Om8xzlkCBx5ifR9E8c6) | [少年的糾結](https://open.spotify.com/album/3NLQZICB5SOsI7b1xp3Bjf) | 2:47 |
 | 37 | [結冰水](https://open.spotify.com/track/1RHX5ccrmRaeBWl82kPU7J) | [方立維 ALI](https://open.spotify.com/artist/5oiYskVLYnZXoPDYJU3NHc), [Barry Chen](https://open.spotify.com/artist/1mL3Ui7SZf6nF6fsyOjs4F) | [結冰水](https://open.spotify.com/album/2g8ZkQhb14hYwkQk39Y0eA) | 2:44 |
-| 38 | [Fortune Cookie](https://open.spotify.com/track/62Ao4j78KwCmAWxOdOH7bU) | [Jasmine C](https://open.spotify.com/artist/4x3Hc50i0wVb8lgCCpzdfp) | [Fortune Cookie](https://open.spotify.com/album/2YgUmtC569w5hLi6ZsXxFd) | 3:27 |
+| 38 | [Fortune Cookie](https://open.spotify.com/track/62Ao4j78KwCmAWxOdOH7bU) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [Fortune Cookie](https://open.spotify.com/album/2YgUmtC569w5hLi6ZsXxFd) | 3:27 |
 | 39 | [Tell me why did you lie](https://open.spotify.com/track/5kICsxN9Y8eCB9PQswYCG3) | [薛\_](https://open.spotify.com/artist/2hk9Mdvyg7NdcZJO8fUetW) | [睡了嗎，我](https://open.spotify.com/album/2xAdLK3uZeiLno9LEXh8hp) | 2:39 |
 | 40 | [再一个阳光灿烂的日子](https://open.spotify.com/track/4BnE4jopToDPsxvhuizvQI) | [M4NDO](https://open.spotify.com/artist/6I9P9semOOdKSImozABFKt) | [再一个阳光灿烂的日子](https://open.spotify.com/album/6I2KRhizGq77hl9kN33aui) | 2:48 |
 | 41 | [不懂為何](https://open.spotify.com/track/4JxmSlu1yslHt2KWwizpx2) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [不懂為何](https://open.spotify.com/album/6EYbATKLtJoRP4r9C2V4zM) | 3:27 |

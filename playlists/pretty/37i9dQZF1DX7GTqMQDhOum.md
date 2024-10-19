@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,277 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,421 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 7 | [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 |
 | 8 | [もののけ姫（ヴォーカル）](https://open.spotify.com/track/2i4cFd5DSJUTV7CCCR9dMx) | [Yoshikazu Mera](https://open.spotify.com/artist/1gMSjp1uxOKC3VWRTWKaJ2) | [もののけ姫 サウンドトラック](https://open.spotify.com/album/5R4jAUVZWLmTyJVaCT1XHs) | 3:32 |
 | 9 | [呪われた海](https://open.spotify.com/track/1hcvDwUH9TPb3reDsBBqZ7) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:35 |
-| 10 | [世界の約束\~人生のメリーゴーランド\-エンディング\-](https://open.spotify.com/track/65N9PSOHf8d8YouUJidgWR) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 6:50 |
+| 10 | [世界の約束～人生のメリーゴーランド－エンディング\-](https://open.spotify.com/track/65N9PSOHf8d8YouUJidgWR) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 6:50 |
 | 11 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
 | 12 | [シータの決意](https://open.spotify.com/track/0CBIxz24LB3ydsNtZYlBJf) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [天空の城ラピュタ サウンドトラック ～飛行石の謎～](https://open.spotify.com/album/4zuvornyBcIcOySNGXtcDQ) | 2:05 |
 | 13 | [回顧](https://open.spotify.com/track/0IjUsYosfTdFU4gcpMYeyb) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:23 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 46 | [転生](https://open.spotify.com/track/7dMKB7fnCPPOdy6cFG2Mng) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:32 |
 | 47 | [I Am Not Alone](https://open.spotify.com/track/7fN7XpK8UY41MyTXKuvZiO) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [あなたのことが大すき。](https://open.spotify.com/album/5vl036rTF8LPdprTsr64ck) | 4:12 |
 | 48 | [6番目の駅](https://open.spotify.com/track/1iq7UFwWePTVaPL1Nszb5v) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:38 |
-| 49 | [人生のメリーゴーランド\-オープニング\-](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 |
+| 49 | [人生のメリーゴーランド－オープニング－](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 |
 | 50 | [The Neglected Garden\(荒れた庭\)](https://open.spotify.com/track/7ibnpvZvgOQGdpW6gELcgS) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [借りぐらしのアリエッティ サウンドトラック](https://open.spotify.com/album/7N1Oi4aHCtN45xa2mt1UER) | 4:12 |
 | 51 | [Goodbye My Friend\(グッバイ・マイ・フレンド\)](https://open.spotify.com/track/3LsFhUSN81Ge7162knVfH6) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [借りぐらしのアリエッティ サウンドトラック](https://open.spotify.com/album/7N1Oi4aHCtN45xa2mt1UER) | 2:58 |
 | 52 | [「鳥の人」\~エンディング\~](https://open.spotify.com/track/4G1EovaKPPJF4fJojNwTyO) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 3:47 |

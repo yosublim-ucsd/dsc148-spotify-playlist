@@ -1,15 +1,15 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.",
-  "num_followers": 34760,
+  "num_followers": 34759,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAJTqPT2genx7rTX3rPHzdwMrDZQRzE",
+  "snapshot_id": "AAAJcWuqXf6Zby2hcx3KbE28WoerAxke",
   "tracks": [
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Backseat Driver",
         "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Lonely Dirt Road",
         "url": "https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
@@ -57,7 +73,23 @@
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "Hey Mom I Made It (Piano Version)",
+        "url": "https://open.spotify.com/album/4xj2qUH7sJfqwSwk10h290"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Hey Mom I Made It (Piano Version)",
+      "url": "https://open.spotify.com/track/23IoKXf2N9hXGEEnHRDOSO"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "California Gold",
         "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
@@ -77,23 +109,39 @@
       "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
-        "name": "Hey Mom I Made It",
-        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
+        "name": "Kitchen Floor",
+        "url": "https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs"
       },
       "artists": [
         {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
         }
       ],
-      "duration_ms": 169448,
-      "name": "Hey Mom I Made It",
-      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
+      "duration_ms": 234030,
+      "name": "Kitchen Floor",
+      "url": "https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "made it out of mexico (acoustic)",
+        "url": "https://open.spotify.com/album/6CUl4TvKLkXuD0byLSlnae"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "made it out of mexico - acoustic",
+      "url": "https://open.spotify.com/track/7CfoX1h6SG6AH6KVSc895Y"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Odies But Goodies",
         "url": "https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Play Something Country (with Lainey Wilson)",
         "url": "https://open.spotify.com/album/3X3yUZB4Mj01slhTurM4tJ"
@@ -129,7 +177,7 @@
       "url": "https://open.spotify.com/track/3s5J9EMC6T3ILzUO98Ovho"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Two Things",
         "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
@@ -145,7 +193,23 @@
       "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "Will The Lord Remember Me (Live At The Ryman)",
+        "url": "https://open.spotify.com/album/4MZP1YKny0TlELrxRLMWud"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 233595,
+      "name": "Will The Lord Remember Me - Live At The Ryman",
+      "url": "https://open.spotify.com/track/1yNsFXWPaZPkfoYhb6oHtV"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Am I Okay? (I'll Be Fine)",
         "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
@@ -161,7 +225,23 @@
       "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "cowboy / hold my beer",
+        "url": "https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 222597,
+      "name": "hold my beer",
+      "url": "https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Casamigos",
         "url": "https://open.spotify.com/album/386JCLmBdi4aGVVmjZkA7Z"
@@ -177,7 +257,7 @@
       "url": "https://open.spotify.com/track/4PmGnPVc9mpm8HSSdfI2TP"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Gettin' Away With It",
         "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
@@ -197,7 +277,23 @@
       "url": "https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "AMERICAN MOTOR SPORTS (420CC EDITION)",
+        "url": "https://open.spotify.com/album/0tVxMqyBNyclpMLDqww3Yr"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 204624,
+      "name": "THE END",
+      "url": "https://open.spotify.com/track/1u8esuXKqxbKsleihNp7wo"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "The 3rd",
         "url": "https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N"
@@ -213,7 +309,7 @@
       "url": "https://open.spotify.com/track/14IVonahcPCk7750AJ0gfJ"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Dirty (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
@@ -233,7 +329,7 @@
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "weren't for the wind",
         "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
@@ -249,7 +345,23 @@
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "Religion and Politics",
+        "url": "https://open.spotify.com/album/0C5UnX7L5TlrY5LIYNeL4U"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "duration_ms": 191571,
+      "name": "Religion and Politics",
+      "url": "https://open.spotify.com/track/0an93wG6ltDZNDdtupLNJR"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "BRIDGE WON'T BURN",
         "url": "https://open.spotify.com/album/6pAGuqCBSRswUgZF2ACLKP"
@@ -265,7 +377,7 @@
       "url": "https://open.spotify.com/track/1ffM1J3ASu4nknXJcUy08w"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/2LzVuBAtONnm3d1kCZ4Vly"
@@ -281,23 +393,23 @@
       "url": "https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
-        "name": "Get Outta My Dreams, Get into My Truck",
-        "url": "https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz"
+        "name": "Hey Mom I Made It",
+        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
       },
       "artists": [
         {
-          "name": "Tim & The Glory Boys",
-          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
         }
       ],
-      "duration_ms": 216462,
-      "name": "Get Outta My Dreams, Get into My Truck",
-      "url": "https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4"
+      "duration_ms": 169448,
+      "name": "Hey Mom I Made It",
+      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Fix What You Didn't Break",
         "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
@@ -313,7 +425,7 @@
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "I'm Still Fine (Live At The Ryman)",
         "url": "https://open.spotify.com/album/1wjcntBiHDjUXWeuh1dWjn"
@@ -329,7 +441,7 @@
       "url": "https://open.spotify.com/track/2r0xJVRBoEc6VuuLkVS9jC"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
@@ -349,7 +461,7 @@
       "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Ball Player",
         "url": "https://open.spotify.com/album/6MeynN7mUu0CKayfD825x8"
@@ -365,7 +477,7 @@
       "url": "https://open.spotify.com/track/6v6QOz47JmG6jVGllISB0Y"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Takes Me Back",
         "url": "https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd"
@@ -381,7 +493,23 @@
       "url": "https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
+      "album": {
+        "name": "Get Outta My Dreams, Get into My Truck",
+        "url": "https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "duration_ms": 216462,
+      "name": "Get Outta My Dreams, Get into My Truck",
+      "url": "https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4"
+    },
+    {
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Chariot 20",
         "url": "https://open.spotify.com/album/0qez5KSJatdauPreximYSO"
@@ -397,7 +525,7 @@
       "url": "https://open.spotify.com/track/1QBWnN8xsdDCk0zwnKs8e2"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Started Stoppin'",
         "url": "https://open.spotify.com/album/4Z3Z8UeRmbXeqe3quwFbMv"
@@ -413,7 +541,7 @@
       "url": "https://open.spotify.com/track/0cw6yDjjU0cYNVZoKpEEK3"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/2hqp7cdyvx1WEH5O6Aqq5h"
@@ -429,7 +557,7 @@
       "url": "https://open.spotify.com/track/1VbtpLopDW6a0GKQEG4Kzb"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Worry is a Sickness",
         "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
@@ -445,7 +573,7 @@
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Rodeo Junkies",
         "url": "https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX"
@@ -461,7 +589,7 @@
       "url": "https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Black Bandana",
         "url": "https://open.spotify.com/album/2uHstVyPjR0mwRKlRnD2Gp"
@@ -477,7 +605,7 @@
       "url": "https://open.spotify.com/track/7xXtjD7xcsp7HHl8T7Vy38"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Mid-Twenties Crisis",
         "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
@@ -493,7 +621,7 @@
       "url": "https://open.spotify.com/track/7cYOEd4DmYf4ah7D7aBQTs"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Late Texts",
         "url": "https://open.spotify.com/album/1PTPDyzku0kwaY55kZJLW0"
@@ -509,23 +637,7 @@
       "url": "https://open.spotify.com/track/36RPbRMFf8h79OUpEyjveD"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "Silverado",
-        "url": "https://open.spotify.com/album/1ZLZhINbxz10rwLfAUoiwN"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Silverado",
-      "url": "https://open.spotify.com/track/3jg6EdKCc9s3ibqwqle4Mu"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
@@ -549,7 +661,7 @@
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "I Don't Know How To Say Goodbye (Bang Bang Boom Boom)",
         "url": "https://open.spotify.com/album/4qeMOx94PKBKg5J1XGTvF7"
@@ -569,7 +681,7 @@
       "url": "https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Now or Never (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
@@ -589,7 +701,7 @@
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Gettin' Away With It",
         "url": "https://open.spotify.com/album/3Q7825CBLUwfWY9zi2PZAN"
@@ -605,7 +717,7 @@
       "url": "https://open.spotify.com/track/5nsJWUsKw7t9QvuDHOIwCQ"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "I Don't Want to Be (Chariot 20)",
         "url": "https://open.spotify.com/album/7uQlqDTRFTOkmkwxkWJF2h"
@@ -621,7 +733,7 @@
       "url": "https://open.spotify.com/track/4PHWUlIWuedQxQoxmjwRTs"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Missin' Tonight",
         "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
@@ -637,23 +749,7 @@
       "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "Heart Brakes",
-        "url": "https://open.spotify.com/album/4Ur9djJm89B3ScUc6Hd9pa"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Heart Brakes",
-      "url": "https://open.spotify.com/track/1Rx2AHqY2md1mtavuFzEA7"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Hangover At My Place",
         "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
@@ -673,7 +769,7 @@
       "url": "https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Am I Okay?",
         "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
@@ -689,7 +785,7 @@
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/6jxrPcypdXLK8CLftooswt"
@@ -705,39 +801,7 @@
       "url": "https://open.spotify.com/track/1N3w24NO5PLKygjGmzljki"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "M.I.A.",
-        "url": "https://open.spotify.com/album/2qAcWt9cr3quVOwzSzH3YS"
-      },
-      "artists": [
-        {
-          "name": "Graham Barham",
-          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
-        }
-      ],
-      "duration_ms": 136173,
-      "name": "M.I.A.",
-      "url": "https://open.spotify.com/track/0r2vr5P2KFe3QHVxlOjYFJ"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "American Son",
-        "url": "https://open.spotify.com/album/3AbDe8cQYZwtJOmJc6mlXG"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 197986,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0oksHGLvgXwrvmAxWNO33T"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "hungover",
         "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
@@ -753,7 +817,7 @@
       "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
@@ -769,7 +833,7 @@
       "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
@@ -789,39 +853,7 @@
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "Nashville",
-        "url": "https://open.spotify.com/album/0yjQtJIxA6fLKYoTwwatcA"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Nashville",
-      "url": "https://open.spotify.com/track/7ipqRoVXICKDuRPg2NYIbl"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "No One Else Like Me",
-      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "High Hopes (feat. Marcus King)",
         "url": "https://open.spotify.com/album/4B2TU5PQf1ZZvmRxgWKf9A"
@@ -841,23 +873,7 @@
       "url": "https://open.spotify.com/track/0cRpS8FK3ulhk8FJfRsuOg"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "Devil on My Shoulder",
-        "url": "https://open.spotify.com/album/0sqeYcd08RXPzsrBF7lAoL"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Devil on My Shoulder",
-      "url": "https://open.spotify.com/track/6qAhXsSJKV7RF4nTmphTD3"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "The Man He Sees in Me",
         "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Atavista",
         "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "The 3rd",
         "url": "https://open.spotify.com/album/7dqS41SUcuByE4lwQPBrp2"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/5dXYiwAoVsq9dyzDGzNTIZ"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Man on the Moon",
         "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Boys Back Home",
         "url": "https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "A Real Man",
         "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
     },
     {
-      "added_at": "2024-10-13 15:56:03",
+      "added_at": "2024-10-18 14:58:26",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -1015,26 +1031,6 @@
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-10-13 15:56:03",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 208521,
-      "name": "II MOST WANTED",
-      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     }
   ],
   "unique_name": "Country Smash Hits",

@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-2,704 songs - 5 day 19 hr 54 min
+2,707 songs - 5 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 | 2024-10-18 |
 | [Apollo](https://open.spotify.com/track/5GtfNJlEWahLnXsKFzZtTz) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Apollo](https://open.spotify.com/album/1lrzJl5nqeFkcuK7J0IOQm) | 2:55 | 2024-10-10 | 2024-10-18 |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 | 2024-09-06 |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 |  |
 | [Aqua](https://open.spotify.com/track/3l9kQpnNqvOkEr067PdQRT) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Aqua](https://open.spotify.com/album/1KjRhJa069c9SXVSxsAsMa) | 1:58 | 2024-06-06 | 2024-06-14 |
 | [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-05 | 2024-09-13 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-10 | 2024-10-18 |
@@ -1158,6 +1159,7 @@
 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 | 2024-10-10 | 2024-10-18 |
 | [HVA VIL VI HA?](https://open.spotify.com/track/2PNOvjmxwCS2758IIQWepj) | [FISKERN](https://open.spotify.com/artist/5XUjkAYySdCwhURGYY4edG), [Tina DD](https://open.spotify.com/artist/0hfelZAQDLHpCjkTqYI0by) | [HVA VIL VI HA?](https://open.spotify.com/album/0NXgGAU9ItVmtiPFfQy3Es) | 2:07 | 2024-09-19 | 2024-09-27 |
 | [Hvem Er Jeg ?](https://open.spotify.com/track/1CWJegnmdC81H8nXgq4sKj) | [Leona Griffin](https://open.spotify.com/artist/0pvXfGUIcaj4zKCAYFvU7T) | [Hvem Er Jeg ?](https://open.spotify.com/album/7ueYrhQPRmjUPPvK7I1MfL) | 2:29 | 2024-10-17 |  |
+| [Hvilepuls](https://open.spotify.com/track/6Cu3n0IFPRjJ1kwoOVWHJE) | [Gaute Grøtta Grav](https://open.spotify.com/artist/7wdgBjkIN4MBHsOlDaeMR9) | [Hvilepuls](https://open.spotify.com/album/5plwXxFkjT3z9es6LRK9JH) | 2:24 | 2024-10-18 |  |
 | [Hvis det var opp til meg](https://open.spotify.com/track/7EKRCCvZtqoXWzpCrGx7em) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hvis det var opp til meg](https://open.spotify.com/album/3oY4rFmYscUH8LXeJZVsE8) | 2:48 | 2024-05-02 | 2024-05-10 |
 | [Hvis du elsket meg](https://open.spotify.com/track/5EYhM7r0MOW28mADdFS3SV) | [Atle Pettersen](https://open.spotify.com/artist/6Ila4JCGkODSdI18ebTgCz) | [Hvis du elsket meg](https://open.spotify.com/album/6S5PKV9sE13XJPKqUhC1Wv) | 3:13 | 2024-07-11 | 2024-07-19 |
 | [hvis jeg ser litt lei meg ut](https://open.spotify.com/track/5Cihcr5QFHiSNtR7UtPfbx) | [Kamilla Wigestrand](https://open.spotify.com/artist/6xUpRwC6tlHlinxjZiBzto) | [hvis jeg ser litt lei meg ut](https://open.spotify.com/album/0igvGfXhMPxlz99DWxCmps) | 2:06 | 2024-06-20 | 2024-06-28 |
@@ -1956,6 +1958,7 @@
 | [Road Rage](https://open.spotify.com/track/388ydfouuZYG2SD3Q7mjuM) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Road Rage](https://open.spotify.com/album/2vnyxVxjvpTW6vsm96xr5s) | 2:26 | 2024-10-17 |  |
 | [Road to Hell](https://open.spotify.com/track/2kW3Ohu4L9Yn0esN8Xb6GF) | [Oda Loves You](https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr) | [Road to Hell](https://open.spotify.com/album/3DIeAWhhAlf1RSKk90THlq) | 3:08 | 2024-06-06 | 2024-06-14 |
 | [Roc Boyz Freestyle](https://open.spotify.com/track/7zcguFnATwSR7XjBtvW2B0) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Roc Boyz Freestyle](https://open.spotify.com/album/28OnYFIb8XwZXhk7n6qHD1) | 2:02 | 2024-05-02 | 2024-05-10 |
+| [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 | 2024-10-18 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-27 | 2024-07-05 |
 | [Rockstar Lie](https://open.spotify.com/track/4eMm8jEbN6u5Mi0FLh6oZG) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Rockstar Lie](https://open.spotify.com/album/2R5uztGegcO6jHqdiZdaiC) | 2:08 | 2024-05-09 | 2024-05-17 |
 | [Rockstar Life](https://open.spotify.com/track/3syLFHLYdNY0WpNkwpohlU) | [BLäMST](https://open.spotify.com/artist/5aA40bXlg4BrSH5TDPOW8V) | [Rockstar Life](https://open.spotify.com/album/5XEVPG3ONT1WyYAr55KLS1) | 2:55 | 2024-10-03 | 2024-10-11 |

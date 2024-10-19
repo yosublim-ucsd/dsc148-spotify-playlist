@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-148 songs - 8 hr 48 min
+148 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,6 @@
 | [I Got My Eyes On You](https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 2:19 | 2022-05-25 |  |
 | [I Got What It Takes](https://open.spotify.com/track/4HiVCsnJH9P35ASXLL60ip) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I Got What It Takes](https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU) | 3:42 | 2022-05-25 |  |
 | [I Must Have A Hole In My Head](https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Blues & Trouble \(Blues Reference 1983\-1985\)](https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt) | 3:31 | 2022-05-25 |  |
-| [I'm a Man \- 2015 Remaster](https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Having a Rave Up with The Yardbirds \(2015 Remaster\)](https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno) | 2:39 | 2022-05-25 |  |
 | [I'm Checkin' Up](https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP) | [Tender Slim](https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:58 | 2022-05-25 |  |
 | [I'm Feeling Alright](https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 3:01 | 2022-05-25 |  |
 | [I'm Worried](https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Blues Jam in Chicago, Vol\. 1](https://open.spotify.com/album/4vRzJ9uAlelRyezL47h1WJ) | 3:46 | 2022-07-08 | 2024-04-19 |
@@ -122,7 +121,7 @@
 | [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 | 2022-05-25 |  |
 | [She's so Fine](https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [Bobby "Guitar" Bennett & Pancho Villa](https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe) | 1:42 | 2022-05-25 |  |
 | [Shiver 'N Shake](https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Truckin' With Albert Collins](https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj) | 2:14 | 2022-05-25 |  |
-| [Smokestack Lightning \- Live at the Marquee Club, 1964 \- 2015 Remaster](https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Five Live Yardbirds \(Live at the Marquee Club, London 1964 \- 2015 Remaster\)](https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv) | 6:47 | 2022-05-25 |  |
+| [Smokestack Lightning \- Live at the Marquee Club, 1964](https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Five Live Yardbirds \(Live at the Marquee Club, London 1964 \- 2015 Remaster\)](https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv) | 5:36 | 2022-05-25 |  |
 | [So Unkind \- 1999 RemasterStereo](https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 2:57 | 2022-05-25 |  |
 | [Somebody Help Me \- Mono Version](https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 2:16 | 2022-05-25 |  |
 | [Someday Baby](https://open.spotify.com/track/3r5XcjIRcqm9tRMSmXfwD2) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 3:02 | 2022-07-08 | 2024-04-19 |
@@ -156,5 +155,6 @@
 | [You Put the Heart on Me](https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:40 | 2022-05-25 |  |
 | [You Shook Me](https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 4:58 | 2023-01-27 | 2024-04-19 |
 | [You Shook Me](https://open.spotify.com/track/5KYlh46iJUzViGrydbHpuY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 5:00 | 2022-05-25 |  |
+| [You're a Better Man Than I](https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Having a Rave Up with The Yardbirds](https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno) | 3:17 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

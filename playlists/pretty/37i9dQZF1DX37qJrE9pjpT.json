@@ -1,6 +1,6 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Dogo Janja",
-  "num_followers": 3542,
+  "num_followers": 3543,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
       "duration_ms": 111627,
       "name": "MoroBuzz - Kichangani",
       "url": "https://open.spotify.com/track/1WquSjcSVnZVCILt66jhii"
+    },
+    {
+      "added_at": "2024-10-17 23:59:00",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/7ncsrKBgFuiU34MnnO7tTi"
+      },
+      "artists": [
+        {
+          "name": "TONY DRIZZY BEATS",
+          "url": "https://open.spotify.com/artist/4LuChYsPGweXomifDJSpnn"
+        },
+        {
+          "name": "Chidi Benz",
+          "url": "https://open.spotify.com/artist/1lTGyFO9KjwT8dsrhS9RxH"
+        }
+      ],
+      "duration_ms": 209789,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/31sLNsYvWLCj4R4vJMXXse"
     },
     {
       "added_at": "2024-10-17 23:59:00",

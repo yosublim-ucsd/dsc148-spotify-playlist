@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-19",
       "duration_ms": 185500,
       "name": "Prada",
       "url": "https://open.spotify.com/track/6NLzzwFbAD1imLXGBMj9jo"
@@ -1406,6 +1406,28 @@
       "duration_ms": 177391,
       "name": "Summer High",
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
+    },
+    {
+      "album": {
+        "name": "Swag Bolda",
+        "url": "https://open.spotify.com/album/36UsGJSOf8CLuVWouhSrVo"
+      },
+      "artists": [
+        {
+          "name": "Preet Boparai",
+          "url": "https://open.spotify.com/artist/5E2GkyQyMwYcYemx09S5mc"
+        },
+        {
+          "name": "Sachin Ahuja",
+          "url": "https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Swag Bolda",
+      "url": "https://open.spotify.com/track/4m48W5Xqvmqa2yHBCwKPVh"
     },
     {
       "album": {

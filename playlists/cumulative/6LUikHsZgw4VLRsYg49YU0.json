@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/44LudOcruib8E2QoacG6I8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
+    },
+    {
+      "album": {
         "name": "RE RESCUE",
         "url": "https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP"
       },
@@ -2902,6 +2920,24 @@
       "duration_ms": 93186,
       "name": "The Cruel Angel's Thesis <TV. Size Version>",
       "url": "https://open.spotify.com/track/1FgSwJSeTq4MnemMcfqpoW"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Season 7 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "The Demon Lord",
+      "url": "https://open.spotify.com/track/4oeX8OfCAPqHqL7abInWEh"
     },
     {
       "album": {
