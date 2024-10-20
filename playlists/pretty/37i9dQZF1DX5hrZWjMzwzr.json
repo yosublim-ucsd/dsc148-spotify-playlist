@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10188,
+  "num_followers": 10186,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
-        "url": "https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        }
-      ],
-      "duration_ms": 292902,
-      "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
-      "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
         "url": "https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 181000,
       "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
+        "url": "https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "duration_ms": 292902,
+      "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
+      "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "M\u0141ODY PADEREWSKI",
-        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "M\u0141ODY PADEREWSKI",
-      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "ZERO SNU",
         "url": "https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "M\u0141ODY PADEREWSKI",
+        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "M\u0141ODY PADEREWSKI",
+      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Czarne czy Czerwone",
         "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
       },
@@ -955,6 +955,26 @@
       "duration_ms": 213000,
       "name": "Czarne czy Czerwone",
       "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "duration_ms": 155954,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -983,26 +1003,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
-      },
-      "artists": [
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "Mjonszu",
-          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
-        }
-      ],
-      "duration_ms": 155954,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "R\u00d3\u017bA WIATR\u00d3W",
         "url": "https://open.spotify.com/album/708SuoMyf1hZYpjl78BKuJ"
       },
@@ -1027,6 +1027,30 @@
       "duration_ms": 173271,
       "name": "ZENIT",
       "url": "https://open.spotify.com/track/7lTvt1RIudZHsISZqAQGmq"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "G\u0141UPIE POMYS\u0141Y",
+        "url": "https://open.spotify.com/album/1StfVw1yKZr0NWGsTrtziA"
+      },
+      "artists": [
+        {
+          "name": "Gedz",
+          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "G\u0141UPIE POMYS\u0141Y",
+      "url": "https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1071,30 +1095,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "G\u0141UPIE POMYS\u0141Y",
-        "url": "https://open.spotify.com/album/1StfVw1yKZr0NWGsTrtziA"
-      },
-      "artists": [
-        {
-          "name": "Gedz",
-          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
-        },
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "G\u0141UPIE POMYS\u0141Y",
-      "url": "https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "North Face",
-        "url": "https://open.spotify.com/album/4CEROKZeYrxychEgxqhcYH"
-      },
-      "artists": [
-        {
-          "name": "Filipek",
-          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
-        },
-        {
-          "name": "Inee",
-          "url": "https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih"
-        },
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        }
-      ],
-      "duration_ms": 238723,
-      "name": "North Face",
-      "url": "https://open.spotify.com/track/0UanLlnE4Vzp42RoHVjrOP"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Uwolni\u0107 Bonusa",
         "url": "https://open.spotify.com/album/2WEpLdZw9WxNLF3rzGRrkK"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 191433,
       "name": "Uwolni\u0107 Bonusa",
       "url": "https://open.spotify.com/track/1YcaiLGCs9KWxu63JMOwcN"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "North Face",
+        "url": "https://open.spotify.com/album/4CEROKZeYrxychEgxqhcYH"
+      },
+      "artists": [
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "Inee",
+          "url": "https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "duration_ms": 238723,
+      "name": "North Face",
+      "url": "https://open.spotify.com/track/0UanLlnE4Vzp42RoHVjrOP"
     },
     {
       "added_at": "2024-02-27 08:21:33",

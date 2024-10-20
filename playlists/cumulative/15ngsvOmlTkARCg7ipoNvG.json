@@ -2299,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Autumn Moonlight",
+        "url": "https://open.spotify.com/album/0dWGKr31tTlKjqZDr95mYO"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60436,
+      "name": "Autumn Moonlight",
+      "url": "https://open.spotify.com/track/3WifCtcnBd0xrh9fOZ3U9a"
+    },
+    {
+      "album": {
         "name": "Autumn Morning",
         "url": "https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8"
       },
@@ -2314,6 +2332,24 @@
       "duration_ms": 62608,
       "name": "Autumn Morning",
       "url": "https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj"
+    },
+    {
+      "album": {
+        "name": "Autumn Sunlight",
+        "url": "https://open.spotify.com/album/1odVY6duTDQN39pvLTEaDR"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60436,
+      "name": "Autumn Sunlight",
+      "url": "https://open.spotify.com/track/23agY1FRngBN4kng0b2RxK"
     },
     {
       "album": {

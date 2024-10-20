@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Blues Experience",
+        "url": "https://open.spotify.com/album/4Irc6LTFXbMTg9orx3rbRd"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346413,
+      "name": "Rockin' In The Free World",
+      "url": "https://open.spotify.com/track/1aikBqRTEOiBxBZPG4IIaa"
+    },
+    {
+      "album": {
         "name": "Rollin' N Tumblin'",
         "url": "https://open.spotify.com/album/4hemZ4G0rSN9cOfqcSgTOO"
       },

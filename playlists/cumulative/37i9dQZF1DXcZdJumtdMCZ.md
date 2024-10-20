@@ -4,13 +4,14 @@
 
 > The essence of Tamil Rap from Kollywood<br/>Cover : Yuvan Shankar Raja
 
-92 songs - 6 hr 23 min
+93 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3euFic07zFjmUvniq6ToHN) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3Rz3l9lDgo71LSmMRLtVbA) | 0:00 | 2022-02-08 | 2023-05-13 |
 | [Aga Naga](https://open.spotify.com/track/2M1QX3W7eNXXDw4b7rKiGL) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H), [Solar Sai](https://open.spotify.com/artist/36IO5ItRvRUxC7RcJAv0Zh), [Priya Subramanian](https://open.spotify.com/artist/4ISvBMH7jiZgZKeGdPeOWQ) | [KO \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZaLTgltNnc8rAGFymnDN) | 5:22 | 2022-02-08 |  |
 | [Akkrinai Naan \- From "Captain"](https://open.spotify.com/track/7CRrENz4lVWe1kFYxn1WgQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Joewin Shamalina](https://open.spotify.com/artist/4YpclnrUJpslzlowW26LOn) | [Akkrinai Naan \(From "Captain"\)](https://open.spotify.com/album/51HbJ9d3dsBatTaYKEsLzR) | 3:51 | 2022-08-27 | 2023-05-13 |
+| [Azadi \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Azadi \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS) | 3:13 | 2024-10-19 |  |
 | [Bhagavan Rap](https://open.spotify.com/track/1BkIQxD8RsyKCKOHNGbTFm) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9) | 3:42 | 2022-02-08 | 2024-04-19 |
 | [Bhagavan Rap](https://open.spotify.com/track/1UPPDUrCYljlxigBScBWdY) | [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI), [Rajeev Tha Prophecy](https://open.spotify.com/artist/0aeDdf5VxXJ5J5EIDvPJr3) | [Aadhi Bhagavan](https://open.spotify.com/album/3hBtdA6JRSFzEGjOM11ZDm) | 3:42 | 2022-02-08 | 2023-11-11 |
 | [Bhagavan Rap](https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst) | [The Prophecy](https://open.spotify.com/artist/7fh9y8rqcWSY09PWjEUgnN), [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI) | [Aadhi Bhagavan](https://open.spotify.com/album/2Spqg3Ga3uiCcVhouI37Uu) | 3:42 | 2022-02-08 |  |

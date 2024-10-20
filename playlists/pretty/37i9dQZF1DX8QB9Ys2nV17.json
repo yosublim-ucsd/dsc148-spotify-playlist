@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 178481,
+  "num_followers": 178529,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 177309,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Fish Outta Water",
         "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 230533,
       "name": "Fish Outta Water",
       "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 177309,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 219690,
       "name": "Blues Is My Best Friend",
       "url": "https://open.spotify.com/track/7mojGTeQExwHDVLPAecQVJ"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Throw Away Your Blues",
-        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
-      },
-      "artists": [
-        {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
-        }
-      ],
-      "duration_ms": 298173,
-      "name": "If You See Him",
-      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX"
       },
@@ -579,6 +563,42 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
+        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Lodi",
+      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "That's All Right",
         "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
-        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        },
-        {
-          "name": "Sam Morrow",
-          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Lodi",
-      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "10,000 Feet Below",
-        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
-      },
-      "artists": [
-        {
-          "name": "Eliza Neals",
-          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "You Ain't My Dog No More",
-      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Bitter Sweet Blues",
         "url": "https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 292000,
       "name": "She Just Wants To Dance",
       "url": "https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "10,000 Feet Below",
+        "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
+      },
+      "artists": [
+        {
+          "name": "Eliza Neals",
+          "url": "https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb"
+        }
+      ],
+      "duration_ms": 264521,
+      "name": "You Ain't My Dog No More",
+      "url": "https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq"
     },
     {
       "added_at": "2024-08-13 17:16:13",

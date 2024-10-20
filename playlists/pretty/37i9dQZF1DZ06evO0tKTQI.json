@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 12483,
+  "num_followers": 12481,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAADeBbrsbCeHYPCFWVBF3Fjo",
+  "snapshot_id": "ZxGlAAAAAAC1P3BVZSRcAhP80091j/kK",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
-        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         },
         {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
+      "duration_ms": 136101,
+      "name": "inocencia interrumpida",
+      "url": "https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
       "duration_ms": 211746,
       "name": "tarde",
       "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
+        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
     },
     {
       "added_at": null,

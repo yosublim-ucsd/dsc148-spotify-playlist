@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,704 likes - 41 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,721 likes - 41 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 35 | [Illusions \- NY Stomp Extended Tribute Mix](https://open.spotify.com/track/0G9dAHNonhVUqI6a6AE4AZ) | [DJ Dove](https://open.spotify.com/artist/4d6dDvAt5jdSDAhH33UabE), [NY STOMP](https://open.spotify.com/artist/7ysjyXVYdtJhvNlBdQMY1d) | [Illusions](https://open.spotify.com/album/6unKNKvBLndusCXK57rJWa) | 7:15 |
 | 36 | [Muzik X\-Press \(Original '1992'\)](https://open.spotify.com/track/7fIFGepABUhoTfGJpiSFMx) | [X\-Press 2](https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL) | [Muzik Xpress](https://open.spotify.com/album/2xCTQaoKVMZ7qNjV7Zk8Ba) | 8:18 |
 | 37 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
-| 38 | [Take Me To The Top](https://open.spotify.com/track/5kncTtbruKRuP0ouhM8Lva) | [Advance](https://open.spotify.com/artist/2Dex4M7LVFtXTpKSFbcglF), [Alfredo "Larry" Pignagnoli](https://open.spotify.com/artist/441guDP3FtWkwvHAKJ30eq), [D\. Raimondi](https://open.spotify.com/artist/5nK0Y50wmwXeuIV7YGob2g), [I\. Spagna](https://open.spotify.com/artist/13bY9JU7BeXcSao7089GxB), [L.WESLEY](https://open.spotify.com/artist/49C9dqUIUE5eMvHsz25FaJ), [V\. Patterson](https://open.spotify.com/artist/2ABqG0fQdbci1KralDByYO) | [Take Me to the Top](https://open.spotify.com/album/69KrDOS25US6byBwUTY1hX) | 6:16 |
+| 38 | [Take Me To The Top](https://open.spotify.com/track/5kncTtbruKRuP0ouhM8Lva) | [Advance](https://open.spotify.com/artist/2Dex4M7LVFtXTpKSFbcglF) | [Take Me to the Top](https://open.spotify.com/album/69KrDOS25US6byBwUTY1hX) | 6:16 |
 | 39 | [As The Sun](https://open.spotify.com/track/0baHmScZuO8t7aQyBiih2f) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Back To Bahia](https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd) | 5:12 |
 | 40 | [Say You Wanna](https://open.spotify.com/track/3EAPDEgbg6d0DTttRo8kdI) | [Howard Johnson](https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt) | [Keepin' Love New](https://open.spotify.com/album/3IMEhRbxKkn0sMfCJlyrdN) | 4:36 |
 | 41 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/3DIe90xqHuUDtyuapTwCAR) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [S.O.S.](https://open.spotify.com/album/7DhDuhhalViRMA628XKnQS) | 7:40 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This Is Stevie Ray Vaughan. Los temas esenciales, todos en una lista.",
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
   "name": "This Is Stevie Ray Vaughan",
   "tracks": [
     {
@@ -382,6 +382,28 @@
       "duration_ms": 223586,
       "name": "I'm Cryin'",
       "url": "https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn"
+    },
+    {
+      "album": {
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1402620,
+      "name": "I'm Gonna Move To The Outskirts Of Town - Remastered 2024",
+      "url": "https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf"
     },
     {
       "album": {

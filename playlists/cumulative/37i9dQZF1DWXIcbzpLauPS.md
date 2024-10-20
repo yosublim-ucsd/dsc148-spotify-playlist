@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: Kublai Khan TX
 
-1,033 songs - 2 day 15 hr 54 min
+1,034 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,7 @@
 | [Nightmare \(The Devil\)](https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Nightmare \(The Devil\)](https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA) | 3:21 | 2024-03-08 |  |
 | [nights](https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [nights](https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY) | 2:02 | 2024-04-12 | 2024-08-13 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
-| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 |  |
+| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 | 2024-10-20 |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
 | [No Evil](https://open.spotify.com/track/1zO6NIKsqvH5p578KXr97T) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [No Evil](https://open.spotify.com/album/5CA2LhicOyfJdDq5vosOpD) | 2:30 | 2023-03-31 | 2023-09-16 |
 | [No Heaven](https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [No Heaven](https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa) | 3:24 | 2022-10-21 | 2023-08-19 |
@@ -853,6 +853,7 @@
 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 | 2022-07-13 | 2022-07-23 |
 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 | 2022-12-16 | 2023-04-01 |
 | [Survivor](https://open.spotify.com/track/7ynwEn9WVqGHDXYrlQ5Hft) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Survivor](https://open.spotify.com/album/66v8yWWlcz2h7Q11T39EXe) | 3:39 | 2021-12-17 | 2022-04-02 |
+| [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 | 2024-10-18 |  |
 | [Susi](https://open.spotify.com/track/73PaCVePUMiqVRGq1Bttjs) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [UKKO](https://open.spotify.com/album/1dhIUr4d0OPP58yIjnB1m1) | 4:03 | 2021-12-17 | 2022-03-18 |
 | [Swallowed By The Earth](https://open.spotify.com/track/4L6XoVXkIznbbnptvFyMk0) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Swallowed By The Earth](https://open.spotify.com/album/0IfHSdSp7ALCTtnp4R1BCB) | 3:26 | 2023-11-27 | 2024-01-23 |
 | [Swan Song](https://open.spotify.com/track/64q2xOrEX0Vmlmu2ywX4YG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Swan Song](https://open.spotify.com/album/6iyYpayZwijzhvTAQfYvue) | 3:56 | 2022-04-29 | 2022-07-08 |

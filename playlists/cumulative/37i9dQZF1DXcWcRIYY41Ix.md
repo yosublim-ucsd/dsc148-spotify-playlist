@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-683 songs - 1 day 16 hr 44 min
+684 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [Si llega el fin](https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Si llega el fin](https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck) | 2:18 | 2024-01-05 | 2024-01-27 |
 | [Si me atreviera](https://open.spotify.com/track/4dhwyB7sgHgzGin75SnKgV) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK), [Mäbu](https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591) | [Si me atreviera](https://open.spotify.com/album/42SAr1aoBj4eUlqNaANVYK) | 3:35 | 2024-10-04 |  |
 | [Si te vas](https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Si te vas](https://open.spotify.com/album/6208RozH4lBLu94n6ih083) | 3:03 | 2024-01-12 | 2024-01-20 |
-| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 |  |
+| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 | 2024-10-20 |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2023-06-23 |  |
 | [Silencio](https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:27 | 2021-12-24 | 2022-05-13 |
 | [Simón](https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Simón](https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD) | 4:58 | 2024-08-30 | 2024-09-15 |
@@ -582,6 +582,7 @@
 | [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 | 2024-05-09 |
 | [Sonrisa Valiente \- Versión Acústica](https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 3:42 | 2024-01-12 | 2024-03-02 |
 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 | 2024-01-19 | 2024-03-09 |
+| [Surcando el cielo](https://open.spotify.com/track/5VClfo0FSATmCOiHRoO3bJ) | [Julián Olivares](https://open.spotify.com/artist/03WQPoPoQBTsOjPLJVE7ek), [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Surcando el cielo](https://open.spotify.com/album/4T2rhow9CPvxOoGuv9CO7k) | 2:40 | 2024-10-11 |  |
 | [Suspiros](https://open.spotify.com/track/7r5BLEvJ72zeHSrXMgTlyq) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Las Canciones Más Hermosas Son para Ti](https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C) | 2:30 | 2024-04-19 | 2024-06-01 |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-06-16 | 2024-01-27 |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-03-25 | 2023-05-13 |

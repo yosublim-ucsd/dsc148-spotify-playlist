@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: ROSÈ, Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,240 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,357 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 31 | [What It Means](https://open.spotify.com/track/1hzBXFNchhPhO7wt9zPMqy) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [What It Means](https://open.spotify.com/album/1PIvNe11J2pQAyzhheQqMJ) | 3:23 |
 | 32 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 33 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 |
-| 34 | [Rumah Tanah Tidak Dijual](https://open.spotify.com/track/2Rc0UrOtxfHpslfSV9XtGd) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Rumah Tanah Tidak Dijual](https://open.spotify.com/album/3M1RFX33VfwHBpNEhXTwVb) | 4:01 |
+| 34 | [Rumah Tanah Tidak Dijual](https://open.spotify.com/track/2Rc0UrOtxfHpslfSV9XtGd) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC), [IKLIM](https://open.spotify.com/artist/5wcVbG7UWfmcRdnaA7KUoA) | [Rumah Tanah Tidak Dijual](https://open.spotify.com/album/3M1RFX33VfwHBpNEhXTwVb) | 4:01 |
 | 35 | [Budak Adiksi](https://open.spotify.com/track/2OjfDdCPAZc54KsP2WonXa) | [Kelompok Penerbang Roket](https://open.spotify.com/artist/4CrAgvXjMysuImxrwMqXSG) | [Budak Adiksi](https://open.spotify.com/album/7dq4K3P3RsW5OTpoDWUL5n) | 3:40 |
 | 36 | [Di Persimpangan](https://open.spotify.com/track/50jyIUYFsL1dLT7Tmx6leT) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq) | [Di Persimpangan](https://open.spotify.com/album/1kxjWN2cdpflUTBQX4PSCy) | 3:37 |
 | 37 | [Teringkarkan](https://open.spotify.com/track/7vm1lLPWqL1Z5EYiJ8mkaw) | [Glory of Love](https://open.spotify.com/artist/53SsAVJcOie7gicWsGnMuW) | [Teringkarkan](https://open.spotify.com/album/33z5ZQoA96ih7vZvzqR6Eu) | 3:41 |

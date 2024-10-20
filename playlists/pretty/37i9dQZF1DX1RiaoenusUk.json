@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28235,
+  "num_followers": 28255,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "1000 D\u00edas",
+      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 188730,
       "name": "Leva\u0301ntate y Anda",
       "url": "https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "1000 D\u00edas",
-      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 237106,
       "name": "Coconut Boogaloo",
       "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
+      },
+      "artists": [
+        {
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
+        }
+      ],
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Inmunidad",
-        "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
-      },
-      "artists": [
-        {
-          "name": "Milhojas",
-          "url": "https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb"
-        }
-      ],
-      "duration_ms": 211654,
-      "name": "Al Otro Lado",
-      "url": "https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Amor Inocente",
         "url": "https://open.spotify.com/album/7pWtehv340syIcZaXSZclR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 210012,
       "name": "See you",
       "url": "https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Inmunidad",
+        "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
+      },
+      "artists": [
+        {
+          "name": "Milhojas",
+          "url": "https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb"
+        }
+      ],
+      "duration_ms": 211654,
+      "name": "Al Otro Lado",
+      "url": "https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR"
     },
     {
       "added_at": "2024-08-26 13:43:56",

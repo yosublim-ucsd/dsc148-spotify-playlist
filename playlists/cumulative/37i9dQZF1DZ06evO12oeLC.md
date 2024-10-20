@@ -2,7 +2,7 @@
 
 ### [This Is Yseult](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12oeLC)
 
-> This Is Yseult\. Los temas esenciales, todos en una lista.
+> This is Yseult\. The essential tracks, all in one playlist.
 
 52 songs - 3 hr 0 min
 

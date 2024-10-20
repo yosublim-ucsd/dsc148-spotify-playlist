@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-766 songs - 2 day 20 hr 45 min
+767 songs - 2 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,9 +487,10 @@
 | [Night Bell \- Arizona](https://open.spotify.com/track/7f1eD0myp4ntwnVLA5jmIU) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Night Bell \(Arizona\)](https://open.spotify.com/album/5eFPnkzLRO1EGogagnJyx7) | 7:28 | 2021-04-21 | 2022-11-07 |
 | [Night Bell \- Arizona](https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Light, West](https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT) | 7:28 | 2022-07-01 | 2023-04-29 |
 | [Nightrider](https://open.spotify.com/track/5p2QAe34bA2pXVD875jfBu) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4 EP 2](https://open.spotify.com/album/2SZVCA4Thr4q78S1zMj0zM) | 5:43 | 2024-01-26 | 2024-02-11 |
-| [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/album/3q61TPn9Xi9X055hoNHZ1E) | 5:03 | 2024-08-23 |  |
+| [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/album/3q61TPn9Xi9X055hoNHZ1E) | 5:03 | 2024-08-23 | 2024-10-20 |
 | [Niteroi](https://open.spotify.com/track/1HxnvdlGxXDrCv8O0bdBuh) | [Canitrot](https://open.spotify.com/artist/5yIT6Q9Tpt2Y6ki8stWX9R), [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/0jq9PRK0SmS4otBgG5bGnt) | 5:17 | 2021-07-02 | 2022-07-29 |
 | [Niteroi](https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM) | 5:17 | 2022-07-01 | 2023-01-09 |
+| [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2024-10-18 |  |
 | [Not The Same](https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Not The Same](https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX) | 3:16 | 2024-09-27 |  |
 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 | 2024-04-05 |  |
 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 | 2023-07-14 | 2024-04-19 |

@@ -2,7 +2,7 @@
 
 ### [This Is Cardenales De Nuevo León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0l2yKk)
 
-> This Is Cardenales De Nuevo León\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Cardenales De Nuevo León\. Los temas esenciales, todos en una lista.
 
 82 songs - 4 hr 16 min
 

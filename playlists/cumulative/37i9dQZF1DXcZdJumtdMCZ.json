@@ -87,6 +87,28 @@
     },
     {
       "album": {
+        "name": "Azadi (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193469,
+      "name": "Azadi (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n"
+    },
+    {
+      "album": {
         "name": "Aadhi Bhagavan",
         "url": "https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9"
       },

@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 309973,
       "name": "For Whom The Bell Tolls (Remastered)",
       "url": "https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"
@@ -416,6 +416,24 @@
       "duration_ms": 309973,
       "name": "For Whom The Bell Tolls - Remastered",
       "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls - Remastered",
+      "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI"
     },
     {
       "album": {

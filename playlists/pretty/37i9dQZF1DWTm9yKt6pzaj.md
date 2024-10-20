@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9yKt6pzaj.md) - [plain]
 
 > Le meilleur de la playlist Top of the Rock en 2023\. Photo : Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,363 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,369 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

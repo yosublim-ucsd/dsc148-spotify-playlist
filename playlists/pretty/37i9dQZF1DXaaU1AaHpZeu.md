@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con ODD MAMI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,819 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,829 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [yo asÍ](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
+| 1 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
 | 2 | [Tenemos la respuesta](https://open.spotify.com/track/7xXfT7NKNjQPQN2tH0Tn7N) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Tenemos la respuesta](https://open.spotify.com/album/0N8YK7rXOfxEOaRbaQ1Uaj) | 3:41 |
 | 3 | [Yo solo quería escribir una canción de amor](https://open.spotify.com/track/1EJt1nn1MD8BWtS7w7ZwML) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Yo solo quería escribir una canción de amor](https://open.spotify.com/album/0I9UvMSJOjES5NpdbMGnfG) | 3:38 |
 | 4 | [10 Años](https://open.spotify.com/track/0dKZAIpHSAPirj4XlH1kbE) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [10 Años](https://open.spotify.com/album/5dDMJ0N2Xc4BQwX42LfGeo) | 4:06 |

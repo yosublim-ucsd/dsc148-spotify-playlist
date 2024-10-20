@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-2,898 songs - 6 day 10 hr 11 min
+2,899 songs - 6 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1337,6 +1337,7 @@
 | [La course ou la vie](https://open.spotify.com/track/72lMVBBmE7duYmsF1SpHny) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi), [Polo](https://open.spotify.com/artist/2ms9ObpCtg7f0UyZJOikSW) | [La course ou la vie](https://open.spotify.com/album/2mysaFAd6HtnTEJkmndR2a) | 3:27 | 2022-10-07 | 2022-10-22 |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 | 2024-07-21 |
 | [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2023-10-21 |
+| [La famine](https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Pyramide 2](https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA) | 3:09 | 2024-10-18 |  |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-05-14 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-10-27 | 2023-11-11 |
 | [La fille](https://open.spotify.com/track/5vYw89AR9XvZyjc0Z9PSxL) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La fille](https://open.spotify.com/album/2NdqOIaiIEnhasgZCa0KWs) | 3:56 | 2022-11-25 | 2022-12-10 |
@@ -1615,7 +1616,7 @@
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2024-08-24 |
 | [L’alcool et la fumée](https://open.spotify.com/track/26mT5Jyptex2m6rAwZrMSD) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/2O8yHN5baBkGcia6B6YUuo) | 2:33 | 2022-02-04 | 2022-02-19 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-14 | 2022-01-29 |
-| [L’envers du décor](https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [L’envers du décor](https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP) | 2:41 | 2024-10-18 |  |
+| [L’envers du décor](https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [L’envers du décor](https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP) | 2:41 | 2024-10-18 | 2024-10-20 |
 | [l’été](https://open.spotify.com/track/4py0ipfRfqo3okojeygRav) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [l’été](https://open.spotify.com/album/2L0JBxfQPieFrXExtTbfv4) | 2:58 | 2022-06-03 | 2022-06-11 |
 | [M'aimes\-tu encore?](https://open.spotify.com/track/1c6bLOoSDhfOP6V3JPUnJY) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [M'aimes\-tu encore?](https://open.spotify.com/album/6hNrs1pQrCotZhzDMligz8) | 2:55 | 2022-05-20 | 2022-06-04 |
 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 | 2023-01-20 | 2023-02-04 |

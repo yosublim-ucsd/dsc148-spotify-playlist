@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-2,686 songs - 7 day 4 hr 15 min
+2,687 songs - 7 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Fly High](https://open.spotify.com/track/7ddzu918Njs3S16DGWag6a) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Fly High](https://open.spotify.com/album/1M9qZianzqEvnaW8tBROT2) | 4:08 | 2022-05-29 | 2022-10-05 |
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-05 | 2024-09-18 |
 | [Foreigner](https://open.spotify.com/track/4QknbULYyLuSuMuDtQA3Er) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [Foreigner](https://open.spotify.com/album/5bxqzQA6p054On5eTCeABP) | 1:28 | 2023-10-17 | 2023-10-25 |
+| [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 | 2024-10-15 |  |
 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-30 | 2024-10-05 |
 | [Forgive me not](https://open.spotify.com/track/4Jd2fg1Ie08f5YJXHfatba) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [Forgive me not](https://open.spotify.com/album/7uH4Egzy7FHDR6lGHV6NRH) | 2:58 | 2024-05-21 | 2024-05-29 |
 | [forgotten sun](https://open.spotify.com/track/5Pfl9hACV0IRLyptZ6Gvtx) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [forgotten sun](https://open.spotify.com/album/61EQYgQ6zz88eozjlsegGQ) | 4:11 | 2022-06-02 | 2022-07-14 |
@@ -2304,7 +2305,7 @@
 | [想い出がいっぱい /with 鳥山雄司&神保彰](https://open.spotify.com/track/509VcK9oxIx6h3W8x9FEhv) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [Yuji Toriyama](https://open.spotify.com/artist/183gGYMMBJVdNRVAxHzxn7), [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [想い出がいっぱい / with 鳥山雄司&神保彰](https://open.spotify.com/album/0ETH08HOGjkFcVXSfoSvgr) | 4:11 | 2024-07-09 | 2024-07-17 |
 | [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 | 2024-01-17 |
 | [愛 need your love](https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [愛 need your love](https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa) | 3:46 | 2023-11-28 | 2023-11-30 |
-| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 |  |
+| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 | 2024-10-20 |
 | [愛さ生まり島](https://open.spotify.com/track/30ZrfAG2MkVujIE6xAdoy9) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい \~かなさんどぉ\~](https://open.spotify.com/album/3u6FMj8KMrGbyV4ArlkPSd) | 4:37 | 2022-06-21 | 2022-06-29 |
 | [愛でほっぺ丼](https://open.spotify.com/track/3DmZS7Ua6MGW213lObJPoo) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [愛でほっぺ丼](https://open.spotify.com/album/6z8cwZTM2VfMZcmHNMBZls) | 4:00 | 2022-06-02 | 2022-07-16 |
 | [愛のありか](https://open.spotify.com/track/3Y6GGcbWHOqtALVTBjfc2g) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [愛のありか](https://open.spotify.com/album/6eYWjB0vaCmxpwrdHjsGhR) | 4:38 | 2024-05-28 | 2024-06-05 |

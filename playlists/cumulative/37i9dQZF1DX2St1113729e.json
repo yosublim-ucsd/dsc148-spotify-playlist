@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
@@ -7556,6 +7556,32 @@
       "duration_ms": 166053,
       "name": "soy un idiota",
       "url": "https://open.spotify.com/track/7D4Vg4fBibPIeMOF4MzQIs"
+    },
+    {
+      "album": {
+        "name": "EL CAMINO DEL DELULU",
+        "url": "https://open.spotify.com/album/4B1pgdPZ7pCvEJaiL4Be7E"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114004,
+      "name": "SOY UN PERRO",
+      "url": "https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve"
     },
     {
       "album": {

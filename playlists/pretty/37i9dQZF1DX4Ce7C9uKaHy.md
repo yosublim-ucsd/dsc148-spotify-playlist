@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Fine jazz for a fine day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,367 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,369 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 27 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 |
 | 28 | [Lost In Translation](https://open.spotify.com/track/6DkkF9ULC1R6Fp77xz3T10) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Lost In Translation](https://open.spotify.com/album/0BkQtTgsFQJyTjN94HP8gl) | 4:33 |
 | 29 | [You Can Go](https://open.spotify.com/track/5L8VFI43vnr1n9O1t2xYOn) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [You Can Go](https://open.spotify.com/album/2GkcEIhJfO93IB4XF80jPR) | 2:22 |
-| 30 | [Oh Nina](https://open.spotify.com/track/0095pJfurRsMPYuCuUUy8R) | [Gigi Williams](https://open.spotify.com/artist/0jLIjsCBCsSyw9MMqn48Qa) | [Oh Nina](https://open.spotify.com/album/5s7DfTJ3fbIG7O9CJbG2fA) | 4:16 |
+| 30 | [Oh Nina](https://open.spotify.com/track/0095pJfurRsMPYuCuUUy8R) | [Gigi Wilde](https://open.spotify.com/artist/0jLIjsCBCsSyw9MMqn48Qa) | [Oh Nina](https://open.spotify.com/album/5s7DfTJ3fbIG7O9CJbG2fA) | 4:16 |
 | 31 | [Something to Do in the Future](https://open.spotify.com/track/6XDmTtxkGHoBau4iyV977T) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Ugh](https://open.spotify.com/album/6nw936TEtTaElUv0HgMtpk) | 2:46 |
 | 32 | [Tiptoes](https://open.spotify.com/track/71vjpbJNssg9VHQdwIa7O1) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Tiptoes](https://open.spotify.com/album/4OLPpFlJdhGMB2u6Q1hI6P) | 2:06 |
 | 33 | [Humble](https://open.spotify.com/track/3d2q3kqHPI8HYA3AvxXWiV) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Humble](https://open.spotify.com/album/54wTTrPKGDeTmeaGwSce2P) | 1:21 |

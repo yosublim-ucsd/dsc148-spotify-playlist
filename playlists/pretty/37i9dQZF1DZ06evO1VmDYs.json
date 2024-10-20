@@ -1,12 +1,12 @@
 {
-  "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 186762,
-  "original_name": "This Is Weezer",
+  "description": "This is \u30a6\u30a3\u30fc\u30b6\u30fc\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 186791,
+  "original_name": "This Is \u30a6\u30a3\u30fc\u30b6\u30fc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAADIx5opg6aGD78AOOeFe/HY",
+  "snapshot_id": "ZxGlAAAAAABY3SVSkXaBawECQiCR7ByY",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maladroit",
-        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+      "duration_ms": 139093,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK Human",
-        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 170717,
-      "name": "Grapes Of Wrath",
-      "url": "https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu"
+      "duration_ms": 214760,
+      "name": "Sweet Dreams (Are Made of This)",
+      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Sweet Dreams (Are Made of This)",
-      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191826,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OK Human",
+        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 170717,
+      "name": "Grapes Of Wrath",
+      "url": "https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu"
     },
     {
       "added_at": null,
@@ -837,6 +837,6 @@
       "url": "https://open.spotify.com/track/42YgaJLCehufTbH2orwBHM"
     }
   ],
-  "unique_name": "This Is Weezer",
+  "unique_name": "This Is \u30a6\u30a3\u30fc\u30b6\u30fc",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VmDYs"
 }

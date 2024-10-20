@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAADM79TyK7bG87Fv0sbZfLz0",
+  "snapshot_id": "ZxGlAAAAAAClj7fSsWkBuRiNzh/QdW5l",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "poltergeist",
-        "url": "https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 153777,
-      "name": "poltergeist",
-      "url": "https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "poltergeist",
+        "url": "https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 153777,
+      "name": "poltergeist",
+      "url": "https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K"
     },
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "cupids on cocaine",
+        "url": "https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 148357,
+      "name": "cupids on cocaine",
+      "url": "https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Hit Wonder",
         "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American in Paris",
         "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 182500,
       "name": "Because of Me",
       "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
     },
     {
       "added_at": null,
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 183793,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American in Paris",
         "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 164933,
       "name": "American in Paris",
       "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 183793,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
     }
   ],
   "unique_name": "This Is Meg Smith",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-520 songs - 1 day 4 hr 26 min
+521 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,8 @@
 | [Sleep at Night](https://open.spotify.com/track/08kXaWxw2QkXSQTlyH9GMc) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:12 | 2024-02-27 |  |
 | [Slumber Party feat\. Tinashe](https://open.spotify.com/track/2UglvRm2EVjeQCO4zyBBZm) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:33 | 2024-02-27 |  |
 | [Smile](https://open.spotify.com/track/3FsyMk1uhRnZrcdGDmZF8x) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Smile](https://open.spotify.com/album/4giCzMM87NTQYxJLxC1LOC) | 3:15 | 2024-02-27 |  |
-| [So Good](https://open.spotify.com/track/77OweUKV2752QnHqq9mMOE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [So Good](https://open.spotify.com/album/2BPgnIlqHi9kJCcf82n60B) | 2:37 | 2024-10-18 |  |
+| [So Good](https://open.spotify.com/track/77OweUKV2752QnHqq9mMOE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [So Good](https://open.spotify.com/album/2BPgnIlqHi9kJCcf82n60B) | 2:37 | 2024-10-18 | 2024-10-20 |
+| [So Good](https://open.spotify.com/track/60nh6nBkvzdNT02Y8sv2G8) | [Katemale](https://open.spotify.com/artist/0V6com3APpZhlLOdFJBP0t) | [So Good](https://open.spotify.com/album/6J70Ck6yp0h8J333irAOKB) | 2:37 | 2024-10-19 |  |
 | [So Lucky](https://open.spotify.com/track/1Vyrs5FGXCrRmLI9x2YxQN) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [So Lucky](https://open.spotify.com/album/5hh2AwUTQ7G6TpnRwp8h1P) | 3:12 | 2024-02-27 |  |
 | [So Special](https://open.spotify.com/track/3K4vHAg8eSOdkADhmOUn1p) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 2:41 | 2024-08-23 |  |
 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2024-02-27 |  |

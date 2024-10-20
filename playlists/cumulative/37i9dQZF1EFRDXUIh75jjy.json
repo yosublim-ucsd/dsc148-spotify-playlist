@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Out Of Touch",
+        "url": "https://open.spotify.com/album/2FmFK8yohMlmHO3E53hboC"
+      },
+      "artists": [
+        {
+          "name": "Katemale",
+          "url": "https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195211,
+      "name": "Out Of Touch",
+      "url": "https://open.spotify.com/track/4OTtXTOCGFyNWdyzdX3Ee8"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },

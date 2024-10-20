@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: NOAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,265 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,270 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kijken Kijken Niet Kopen](https://open.spotify.com/track/1KDkIyyEKXRKeOT3SLGRR3) | [NOAH](https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy) | [Zeeziek / Kijken Kijken Niet Kopen](https://open.spotify.com/album/6zcBCWHmXtCCaJKxaEJ8Ms) | 3:15 |
-| 2 | [Het Valt Niet Uit De Lucht](https://open.spotify.com/track/58imytk9xaRuOmyyMDPXlz) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Valt Niet Uit De lucht](https://open.spotify.com/album/5r3l8KL9HprbvEvOOPGzZm) | 2:04 |
+| 2 | [Het Valt Niet Uit De Lucht](https://open.spotify.com/track/58imytk9xaRuOmyyMDPXlz) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Valt Niet Uit De Lucht](https://open.spotify.com/album/5r3l8KL9HprbvEvOOPGzZm) | 2:04 |
 | 3 | [Begrijpen](https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Begrijpen](https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd) | 3:16 |
 | 4 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 |
 | 5 | [Cherry Jenna](https://open.spotify.com/track/0h24UrPhMr4JfpedGFYCJ7) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Cherry Jenna](https://open.spotify.com/album/2VHfRNDamToZvkCwOJPJeX) | 2:41 |

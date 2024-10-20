@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Morgan Wallen, Riley Green, Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,894 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,430 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 54 | [twice](https://open.spotify.com/track/6mkICPxihmgy5WpdNAczTq) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [twice](https://open.spotify.com/album/4B7Q5ldXHAi3V8ERehfJvE) | 2:53 |
 | 55 | [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 |
 | 56 | [Name On It](https://open.spotify.com/track/4wLx8I5Gf0QObnFPS60TLK) | [Nathan Lamont](https://open.spotify.com/artist/6eEOnmBkhTlN4G8Ch16tU8) | [Name On It](https://open.spotify.com/album/477WQLALkbOaPE4yuKyW3D) | 2:43 |
-| 57 | [Wrong To Die Alone](https://open.spotify.com/track/0uuAeZ3EbHzJKJrST1UeAc) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Wrong to Die Alone](https://open.spotify.com/album/3QjQ1wKvgRUmH2qyLJ8LFy) | 3:15 |
+| 57 | [Wrong To Die Alone](https://open.spotify.com/track/0uuAeZ3EbHzJKJrST1UeAc) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Wrong To Die Alone](https://open.spotify.com/album/3QjQ1wKvgRUmH2qyLJ8LFy) | 3:15 |
 | 58 | [Fit for a King](https://open.spotify.com/track/12gjVw7ygbVxSKWhQhQI1T) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [Fit for a King](https://open.spotify.com/album/6k8iU1wIQSMHz6wlf0EyCn) | 2:54 |
 | 59 | [Midnight Rays](https://open.spotify.com/track/6fPUoqlRv55VuiCK977iGa) | [Gulf Stream Riders](https://open.spotify.com/artist/6TI3MqdyEDkfmIR6XJG17n) | [Midnight Rays](https://open.spotify.com/album/3EJ9NHbpWyCJ2iMPZ0yG5y) | 3:17 |
 | 60 | [Together We Stand](https://open.spotify.com/track/05HJbYSsOcA3mwQa4eV1xF) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn), [Heartwreckers](https://open.spotify.com/artist/5tLHZ7VEXOqL26DGh3OC3Z) | [Together We Stand](https://open.spotify.com/album/16oS5jYzo6HuHsjoEPaCHV) | 3:21 |

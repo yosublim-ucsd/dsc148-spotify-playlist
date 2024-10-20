@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 453062,
+  "num_followers": 453073,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Burnt Coffee",
+        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
+      },
+      "artists": [
+        {
+          "name": "AAGAPE",
+          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Burnt Coffee",
+      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Worcestershire dreaming",
         "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 202066,
       "name": "In Comparison With",
       "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Burnt Coffee",
-        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
-      },
-      "artists": [
-        {
-          "name": "AAGAPE",
-          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Burnt Coffee",
-      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Smooth Fields",
+        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Smooth Fields",
+      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "broth",
         "url": "https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 120615,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Smooth Fields",
-        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Smooth Fields",
-      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "nothing to lose",
-        "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "nothing to lose",
-      "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 120374,
       "name": "polaris",
       "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "nothing to lose",
+        "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "nothing to lose",
+      "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
-      },
-      "artists": [
-        {
-          "name": "Twindex",
-          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
-        },
-        {
-          "name": "lov sum",
-          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
-        }
-      ],
-      "duration_ms": 115862,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 160000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
+      },
+      "artists": [
+        {
+          "name": "Twindex",
+          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
+        },
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
+        }
+      ],
+      "duration_ms": 115862,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
-      },
-      "artists": [
-        {
-          "name": "Lunar Lo-Fi",
-          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "roamwave",
         "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
       },
@@ -715,6 +695,26 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lo-Fi",
+          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Slow Drive",
         "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "No Awake Zone",
-        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
-      },
-      "artists": [
-        {
-          "name": "Pat Laine",
-          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "No Awake Zone",
-      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 161238,
       "name": "I Have Love for Everyone Besides Myself.",
       "url": "https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "No Awake Zone",
+        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
+      },
+      "artists": [
+        {
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "No Awake Zone",
+      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
-      },
-      "artists": [
-        {
-          "name": "Bill Snoozer",
-          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 163533,
       "name": "Now, I See",
       "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
+      },
+      "artists": [
+        {
+          "name": "Bill Snoozer",
+          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
+        }
+      ],
+      "duration_ms": 164062,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Through My Window",
-        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
-      },
-      "artists": [
-        {
-          "name": "day zee",
-          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "Through My Window",
-      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "No I'm Not",
         "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 117196,
       "name": "No I'm Not",
       "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Through My Window",
+        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
+      },
+      "artists": [
+        {
+          "name": "day zee",
+          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "Through My Window",
+      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
     },
     {
       "added_at": "2024-09-03 08:14:22",

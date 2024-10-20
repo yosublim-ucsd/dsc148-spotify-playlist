@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-45 songs - 2 hr 34 min
+46 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 | 2024-01-29 |  |
 | [Blue Monday](https://open.spotify.com/track/1LX9LajHeOsAoWyoqnNdmT) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:13 | 2024-01-29 |  |
 | [Breathe](https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Breathe](https://open.spotify.com/album/0LMqMuEwlwH98g8KXaJUZG) | 3:07 | 2024-01-29 |  |
+| [chi girl](https://open.spotify.com/track/6tL3Sx7TzUxn8SP8G9uXvb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 3:06 | 2024-10-19 |  |
 | [Cruel Intentions](https://open.spotify.com/track/5xpXXWREfd9x4juWhq280j) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5) | 3:50 | 2024-01-29 |  |
 | [D.M.T.](https://open.spotify.com/track/1FOc1XDrHvKqLFnreWeCqp) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [D.M.T.](https://open.spotify.com/album/0YjhAMHhNoKOcO9rqwhhmG) | 4:35 | 2024-01-29 |  |
 | [dawn](https://open.spotify.com/track/72jigqO30yB7NCYQ4rE7AT) | [wev](https://open.spotify.com/artist/1KpEYlQPQN64r0aRE9Wg6i), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [dusk](https://open.spotify.com/album/2qp9qhgtySlWF53XO5WPUV) | 3:55 | 2024-01-29 |  |

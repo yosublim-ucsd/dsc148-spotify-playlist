@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 284945,
       "name": "controllin",
       "url": "https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3"
@@ -10300,6 +10300,24 @@
       "duration_ms": 142362,
       "name": "open",
       "url": "https://open.spotify.com/track/7y4voxIo9QJT9ZODjKEBLS"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn"
+      },
+      "artists": [
+        {
+          "name": "CHOSZN",
+          "url": "https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Open Letter",
+      "url": "https://open.spotify.com/track/4vQxLMA2txL72AtvIbzDIe"
     },
     {
       "album": {

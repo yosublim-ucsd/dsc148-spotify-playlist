@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296058,
+  "num_followers": 296080,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Contraband",
-        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-      },
-      "artists": [
-        {
-          "name": "Velvet Revolver",
-          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Learn to Hate",
-      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Year Of The Snake",
         "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 211321,
       "name": "Uzumaki",
       "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Learn to Hate",
+      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
-      },
-      "artists": [
-        {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
       "artists": [
         {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
         }
       ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Dying To Believe",
-        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 181854,
-      "name": "Dying To Believe",
-      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Shortest Fuse",
         "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 220649,
       "name": "Shortest Fuse",
       "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Dying To Believe",
+        "url": "https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 181854,
+      "name": "Dying To Believe",
+      "url": "https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Fail You",
         "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1732,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
         }
       ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+      "duration_ms": 191543,
+      "name": "Ain't Hard To Tell",
+      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1812,9 +1812,9 @@
           "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
         }
       ],
-      "duration_ms": 191543,
-      "name": "Ain't Hard To Tell",
-      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "One Last Dream Before Dying",
         "url": "https://open.spotify.com/album/2figRslhHw7pSokLKS3kns"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 225653,
       "name": "Wait",
       "url": "https://open.spotify.com/track/4A20nSO6BYi3DJJ4LyaEWJ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Violent Picture / Violent Sound",
         "url": "https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 240567,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Semi-Stable",
-        "url": "https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG"
-      },
-      "artists": [
-        {
-          "name": "Stuck On Planet Earth",
-          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Semi-Stable",
-      "url": "https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Semi-Stable",
+        "url": "https://open.spotify.com/album/1CF3grRrEVPVHL2imwMuRG"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Semi-Stable",
+      "url": "https://open.spotify.com/track/7ic8ykAwMc1wQQXl8GaHlm"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2155,22 +2155,6 @@
       "duration_ms": 241560,
       "name": "Nothing To Learn From",
       "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Red Button",
-        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
-      },
-      "artists": [
-        {
-          "name": "Dea Matrona",
-          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2255,6 +2239,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Red Button",
+        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
+      },
+      "artists": [
+        {
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Morning Haze",
         "url": "https://open.spotify.com/album/1E6rJFpTgage3sExihOADT"
       },
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "God Bless the 90s Kids",
-        "url": "https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "God Bless the 90s Kids",
-      "url": "https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Two Tone Marionette",
         "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 281103,
       "name": "Two Tone Marionette",
       "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "God Bless the 90s Kids",
+        "url": "https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "God Bless the 90s Kids",
+      "url": "https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Centipede",
-        "url": "https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 157704,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Closing In",
         "url": "https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 135509,
       "name": "Diver",
       "url": "https://open.spotify.com/track/2QpDWokW6TyVYsFk3ziUee"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Centipede",
+        "url": "https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 157704,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T"
     },
     {
       "added_at": "2024-09-02 15:42:47",

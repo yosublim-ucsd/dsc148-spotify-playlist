@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 252984,
+  "num_followers": 253011,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAAAr2yHUdcFUUtqu8q8+CHH9",
+  "snapshot_id": "ZxGlAAAAAAAxrA1P1EYAUFmjmFBXlnDr",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 322280,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 366986,
-      "name": "Lanternlight",
-      "url": "https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z"
     },
     {
       "added_at": null,
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Yesterwynde",
-      "url": "https://open.spotify.com/track/576svYvAzVV0uzfxMrZaOD"
+      "duration_ms": 566413,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
     },
     {
       "added_at": null,
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 566413,
-      "name": "An Ocean Of Strange Islands",
-      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
+      "duration_ms": 163013,
+      "name": "Yesterwynde",
+      "url": "https://open.spotify.com/track/576svYvAzVV0uzfxMrZaOD"
     },
     {
       "added_at": null,

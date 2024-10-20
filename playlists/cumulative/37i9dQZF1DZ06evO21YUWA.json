@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Harold Budd. Todas as faixas essenciais numa \u00fanica playlist.",
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
   "name": "This Is Harold Budd",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 112520,
       "name": "Arabesque 1 - 2013 Remaster",
       "url": "https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 222280,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 243506,
       "name": "How Distant Your Heart",
       "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 133386,
       "name": "L'enfant Perdu - 2013 Remaster",
       "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 233320,
       "name": "November Day",
       "url": "https://open.spotify.com/track/1YEm5zawJWKWwTCbLqTy8p"

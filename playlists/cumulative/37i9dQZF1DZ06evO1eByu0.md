@@ -2,7 +2,7 @@
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is: Aline Barros\. Alle wichtigen Tracks in einer Playlist.
+> This is Aline Barros\. The essential tracks, all in one playlist.
 
 90 songs - 7 hr 1 min
 

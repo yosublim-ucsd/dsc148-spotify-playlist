@@ -139,18 +139,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Into The Flame",
-        "url": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 254213,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7"
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/6tV62HWWPFkSqf7lh5pPwi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
+        "name": "Into The Flame",
+        "url": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
         }
       ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/6tV62HWWPFkSqf7lh5pPwi"
+      "duration_ms": 254213,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Resolution - EP",
-        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 256389,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sunrise Over Sea",
         "url": "https://open.spotify.com/album/4Plc6eI1zbCMTawqZTxwgz"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Resolution - EP",
+        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 256389,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Chimney's Afire",
-        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
-      },
-      "artists": [
-        {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "The Summer",
-      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 211943,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Chimney's Afire",
+        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
+      },
+      "artists": [
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "The Summer",
+      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "On A Clear Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Steer",
-      "url": "https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Mystik",
         "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
+        "name": "On A Clear Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        },
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
         }
       ],
-      "duration_ms": 190726,
-      "name": "Talk It Out",
-      "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
+      "duration_ms": 231640,
+      "name": "Steer",
+      "url": "https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -835,6 +815,26 @@
       "duration_ms": 237377,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        },
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 190726,
+      "name": "Talk It Out",
+      "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Perennial",
         "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 305120,
       "name": "Mended",
       "url": "https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "My Own Pool of Light",
+        "url": "https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf"
+      },
+      "artists": [
+        {
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Maybe You Know",
+      "url": "https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "My Own Pool of Light",
-        "url": "https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf"
+        "name": "California",
+        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
       },
       "artists": [
         {
-          "name": "Holy Holy",
-          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Maybe You Know",
-      "url": "https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY"
+      "duration_ms": 228587,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     },
     {
       "added_at": "2023-11-15 02:04:48",

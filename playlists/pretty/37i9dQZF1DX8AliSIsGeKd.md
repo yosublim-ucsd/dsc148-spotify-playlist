@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Daniel Best, GenX
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,010 likes - 90 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,148 likes - 90 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 18 | [Uniqueness \- Edit](https://open.spotify.com/track/4MkKcLjy94OID3SRDC1mbl) | [Maya Fourteen](https://open.spotify.com/artist/0A89st7lXBJ5UE96h8Ku0r), [Francesca](https://open.spotify.com/artist/5822cosujXVeyX6iJYZ2YJ) | [Uniqueness \(20 Years Systematic\)](https://open.spotify.com/album/0LgcbOBHp7eAEQYs2ku5jG) | 4:03 |
 | 19 | [Dancefloor](https://open.spotify.com/track/5qcQDvzN0itxoyffaAxT7S) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt), [RIKO & GUGGA](https://open.spotify.com/artist/3Xw8htgaMKuCumaCubDS8c) | [Dancefloor](https://open.spotify.com/album/7HokkAK1WisXwKEVJMjwaW) | 4:24 |
 | 20 | [Emergence](https://open.spotify.com/track/3ShR0SvuUuvgliLYJWkQZ9) | [Elias Doré](https://open.spotify.com/artist/3MlBF2eUccQgQfeihwUtpJ) | [Emergence](https://open.spotify.com/album/2PdMBiipzeyVy6WdzeFD73) | 5:52 |
-| 21 | [Hawa](https://open.spotify.com/track/7JRlHiVZV7ERpdvlzFe3UG) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Walead](https://open.spotify.com/artist/6aMHT1Ek0htgYnKmBrmVNE) | [HAWA](https://open.spotify.com/album/6dudBQTSMZezdQ2XIN05hl) | 5:14 |
+| 21 | [Hawa](https://open.spotify.com/track/7JRlHiVZV7ERpdvlzFe3UG) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Walead](https://open.spotify.com/artist/6aMHT1Ek0htgYnKmBrmVNE) | [HAWA](https://open.spotify.com/album/6dudBQTSMZezdQ2XIN05hl) | 5:09 |
 | 22 | [0805](https://open.spotify.com/track/6ol3zTbw4THwuR6tmYhIJP) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU), [GIULIA \(IT\)](https://open.spotify.com/artist/1cGOVsqhXl4RuUIm4RSRHK) | [0805](https://open.spotify.com/album/26GtkOe2RB8iqtiYS3swQc) | 5:50 |
 | 23 | [Time](https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Time](https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9) | 3:20 |
 | 24 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 |

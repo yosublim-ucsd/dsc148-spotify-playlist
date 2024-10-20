@@ -3881,6 +3881,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "AramSamSam",
         "url": "https://open.spotify.com/album/774qCtbuqCA0utKmoPGXW5"
       },
@@ -6676,7 +6698,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -7568,6 +7590,24 @@
       "duration_ms": 166560,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/2w0TmCC0w8SASWpfvdXnxi"
+    },
+    {
+      "album": {
+        "name": "Blanco",
+        "url": "https://open.spotify.com/album/240k016C0Y5yZ6HBbiXe0W"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/4rA41YUfp4ZXdmbBoiDJhG"
     },
     {
       "album": {
@@ -19535,6 +19575,24 @@
     },
     {
       "album": {
+        "name": "F\u00dcR ALLE BLOCKS",
+        "url": "https://open.spotify.com/album/3KrbvoNdKSprMaohv8ZTMP"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157839,
+      "name": "F\u00dcR ALLE BLOCKS",
+      "url": "https://open.spotify.com/track/5xAuDWau6n9pEzN9pysxo3"
+    },
+    {
+      "album": {
         "name": "F\u00fcr den Himmel durch die H\u00f6lle",
         "url": "https://open.spotify.com/album/1d0A8xILJOmcPPyLztAZwF"
       },
@@ -22643,6 +22701,24 @@
     },
     {
       "album": {
+        "name": "HDL",
+        "url": "https://open.spotify.com/album/0CJkLIrSMUrnMKWhQP0PzN"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "HDL",
+      "url": "https://open.spotify.com/track/3SYHVGpbPQ8sPCRosoA9Wy"
+    },
+    {
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -23600,7 +23676,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -28221,6 +28297,24 @@
     },
     {
       "album": {
+        "name": "King of GerMMAny",
+        "url": "https://open.spotify.com/album/13xELYRtEGCXbmW76Hf2OB"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161119,
+      "name": "King of GerMMAny",
+      "url": "https://open.spotify.com/track/3FGOQdeN4LxjYAU9eIvqZn"
+    },
+    {
+      "album": {
         "name": "King Sonny Black",
         "url": "https://open.spotify.com/album/1qLirZC2e0tcoMHumYFCBU"
       },
@@ -28386,7 +28480,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -33352,7 +33446,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 226151,
       "name": "Meer",
       "url": "https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn"
@@ -35760,7 +35854,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 146950,
       "name": "Moonlight Dreams",
       "url": "https://open.spotify.com/track/4yNd1xo3DZ75MqPMscauEG"
@@ -37002,7 +37096,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 182904,
       "name": "NEBEL",
       "url": "https://open.spotify.com/track/3cQ3NejWYSXqL2u4njYBKw"
@@ -38476,6 +38570,32 @@
       "duration_ms": 132909,
       "name": "NUR AUS PRINZIP",
       "url": "https://open.spotify.com/track/3RaGnI3zmPUElLfNcl3W56"
+    },
+    {
+      "album": {
+        "name": "Doktor",
+        "url": "https://open.spotify.com/album/3avQQSmmC0w55iYwHfcp3O"
+      },
+      "artists": [
+        {
+          "name": "Nizi19",
+          "url": "https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179391,
+      "name": "Nur Berliner (feat. CANEY030 & Pashanim)",
+      "url": "https://open.spotify.com/track/0BA9YjmzPBp2z4WYMmQInl"
     },
     {
       "album": {
@@ -48223,6 +48343,28 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/7i8ZqYTk9x4AnroVEvF3Uz"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152241,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7FKW2DK9dvY80XR4yjdyBH"
+    },
+    {
+      "album": {
         "name": "Rohdiamant",
         "url": "https://open.spotify.com/album/6DREco522S7M9I2gKC6G06"
       },
@@ -48274,7 +48416,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 170898,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/0Rgdhptwk0A3Clbu5RpYI1"
@@ -49846,7 +49988,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -53418,7 +53560,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 123106,
       "name": "Unter den Linden (feat. Pashanim)",
       "url": "https://open.spotify.com/track/7zl0YpAOkPDayTz72HgIJf"
@@ -55334,6 +55476,28 @@
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "album": {
+        "name": "WATCH THE BODY DROP",
+        "url": "https://open.spotify.com/album/4tQMTcWWLTGfN449sM5jrO"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "OG Keemo",
+          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157993,
+      "name": "WATCH THE BODY DROP",
+      "url": "https://open.spotify.com/track/0p0rMY8y45ogIbZLp03O8H"
     },
     {
       "album": {
@@ -57560,6 +57724,24 @@
       "duration_ms": 188750,
       "name": "winterlove2.0",
       "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
+    },
+    {
+      "album": {
+        "name": "WINTERNACHT",
+        "url": "https://open.spotify.com/album/5lmZa8NvYFIhYLCBRyJO1i"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "WINTERNACHT",
+      "url": "https://open.spotify.com/track/0YVHeSUvOf4iNoRwPfuqhr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Chris Lebron
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,223 likes - 59 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,324 likes - 59 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 18 | [Divino](https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Divino](https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu) | 2:43 |
 | 19 | [Seco](https://open.spotify.com/track/3HBKC7ziF2MyZVbCpRnepX) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2) | [Seco](https://open.spotify.com/album/1fZKSaHQfYIcQIW9N9vtJg) | 2:45 |
 | 20 | [Cybertruck](https://open.spotify.com/track/69wEnnpT4Ssaul69aVeHAO) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Cybertruck](https://open.spotify.com/album/1YOtEJBt5PE7pD4X7kZaGD) | 2:39 |
-| 21 | [La Que Ta](https://open.spotify.com/track/4CE2ICIZmrUcksS8hpDxPh) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [LR Ley Del Rap](https://open.spotify.com/artist/1BGuR3iGBElBk31U0taE65), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [La Que Ta](https://open.spotify.com/album/5r7fqnxwJMkW2nxWgwp0WS) | 2:49 |
+| 21 | [La Que Ta](https://open.spotify.com/track/4CE2ICIZmrUcksS8hpDxPh) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Lr Ley Del Rap](https://open.spotify.com/artist/6zGqPWYqK9opKSfNxgFHp2), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [La Que Ta](https://open.spotify.com/album/5r7fqnxwJMkW2nxWgwp0WS) | 2:49 |
 | 22 | [Fantasia](https://open.spotify.com/track/5zJZSmPznxBr29aTIUgiMg) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Fantasia](https://open.spotify.com/album/0fKraFqC1vAgixQYUbbR3q) | 2:21 |
 | 23 | [Te Velan y Te Lloran](https://open.spotify.com/track/1iEjfTUWVeji92mKBgIh37) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Te Velan y Te Lloran](https://open.spotify.com/album/0uYjX29IaPkpV967UUHGbl) | 3:02 |
 | 24 | [Salida](https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Salida](https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy) | 2:14 |

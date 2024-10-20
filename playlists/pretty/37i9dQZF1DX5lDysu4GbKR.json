@@ -1,13 +1,49 @@
 {
   "description": "Relax to these acoustic soul songs. Cover: Teddy Swims",
-  "num_followers": 604409,
+  "num_followers": 604460,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAADXW3VOhbTCqAQpKwNnyBIf",
+  "snapshot_id": "ZxRCGAAAAAAX37pbK7EWVodcjlb3aY3a",
   "tracks": [
+    {
+      "added_at": "2024-10-19 23:34:48",
+      "album": {
+        "name": "TORI. (+ a lil more)",
+        "url": "https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "beautiful war (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH"
+    },
+    {
+      "added_at": "2024-10-19 23:34:48",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn"
+      },
+      "artists": [
+        {
+          "name": "CHOSZN",
+          "url": "https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Open Letter",
+      "url": "https://open.spotify.com/track/4vQxLMA2txL72AtvIbzDIe"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 179302,
       "name": "The Most - Acoustic",
       "url": "https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE"
+    },
+    {
+      "added_at": "2024-10-19 23:34:48",
+      "album": {
+        "name": "Outside The Gate",
+        "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "Outside The Gate",
+      "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -55,6 +107,22 @@
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
+    {
+      "added_at": "2024-10-19 23:34:48",
+      "album": {
+        "name": "EITHER OR",
+        "url": "https://open.spotify.com/album/4pBPVUF3CLqVNhNA5vfL4B"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Barbot",
+          "url": "https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "EITHER OR",
+      "url": "https://open.spotify.com/track/6OAhcUEjnuZwkgaRhimayn"
     },
     {
       "added_at": "2024-03-21 23:00:00",

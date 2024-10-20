@@ -1,6 +1,6 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 29885,
+  "num_followers": 29908,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Chapinlandia - Marimba Music of Guatemala",
-        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chapinlandia",
-          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Mi Lorena linda",
-      "url": "https://open.spotify.com/track/4H4fQ7dOq4VB34rCX0Jn5o"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Marimbas Con Tradici\u00f3n",
         "url": "https://open.spotify.com/album/1Z1MOCCSOwEkCTGMy7Voab"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 151026,
       "name": "Chiapas",
       "url": "https://open.spotify.com/track/2fW8qf2G8vNpJEtvV1n4no"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Chapinlandia - Marimba Music of Guatemala",
+        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chapinlandia",
+          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Mi Lorena linda",
+      "url": "https://open.spotify.com/track/4H4fQ7dOq4VB34rCX0Jn5o"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Marimba para Bailar",
-        "url": "https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT"
-      },
-      "artists": [
-        {
-          "name": "Marimba Estrella De Chiapas",
-          "url": "https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1"
-        }
-      ],
-      "duration_ms": 160480,
-      "name": "El Negro Jos\u00e9",
-      "url": "https://open.spotify.com/track/3r2HzXJ7kTnkFKdXvqOiGf"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Marimba para Bailar",
+        "url": "https://open.spotify.com/album/0Ihsjeu5Gs19Iu7t6mItQT"
+      },
+      "artists": [
+        {
+          "name": "Marimba Estrella De Chiapas",
+          "url": "https://open.spotify.com/artist/69BHaB39ynVJXoMhRMWmw1"
+        }
+      ],
+      "duration_ms": 160480,
+      "name": "El Negro Jos\u00e9",
+      "url": "https://open.spotify.com/track/3r2HzXJ7kTnkFKdXvqOiGf"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Estrella de Guatemala",
-          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "El Valle de la Esmeralda",
-      "url": "https://open.spotify.com/track/0M39n76ff47qwAfvyyUnrF"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Aires de Mexico/ Corridos de caballos",
         "url": "https://open.spotify.com/album/1TFh0vHVkHlryfgp1SPj31"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 119466,
       "name": "Flor de la malague\u00f1a",
       "url": "https://open.spotify.com/track/0v37qk1L94vdVx2vNnCLVh"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Estrella de Guatemala",
+          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "El Valle de la Esmeralda",
+      "url": "https://open.spotify.com/track/0M39n76ff47qwAfvyyUnrF"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Para Bailar Sabroso",
-        "url": "https://open.spotify.com/album/68PdxSuoXeRKxdy8OLj4f5"
-      },
-      "artists": [
-        {
-          "name": "Internacional Marimba Orquesta",
-          "url": "https://open.spotify.com/artist/5WTMNLBdhFlJKXnEKrQrbN"
-        }
-      ],
-      "duration_ms": 544626,
-      "name": "Popurr\u00ed: La Cumbancha / Veracruz / Farolito / Mar\u00eda Bonita / Solamente una V\u00e8z",
-      "url": "https://open.spotify.com/track/6ovQnL3oF3vKtThmj5XkMe"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 465946,
       "name": "Sones de Mariachi",
       "url": "https://open.spotify.com/track/6VOsbeMYt72TIJg0ANdqzE"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Para Bailar Sabroso",
+        "url": "https://open.spotify.com/album/68PdxSuoXeRKxdy8OLj4f5"
+      },
+      "artists": [
+        {
+          "name": "Internacional Marimba Orquesta",
+          "url": "https://open.spotify.com/artist/5WTMNLBdhFlJKXnEKrQrbN"
+        }
+      ],
+      "duration_ms": 544626,
+      "name": "Popurr\u00ed: La Cumbancha / Veracruz / Farolito / Mar\u00eda Bonita / Solamente una V\u00e8z",
+      "url": "https://open.spotify.com/track/6ovQnL3oF3vKtThmj5XkMe"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 145005,
-      "name": "La Bamba Marimba",
-      "url": "https://open.spotify.com/track/4EAZKc4d2wDGJtLZgZ8LBi"
+      "duration_ms": 97894,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -991,6 +991,22 @@
       "duration_ms": 167053,
       "name": "El Grito, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/1oW8bNLGJU5uZArvEpLm5m"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Mambos Boleros y Danzones",
+        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "Mambo del Politecnico",
+      "url": "https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Mi Bella Sampedrana",
-          "url": "https://open.spotify.com/artist/5pwHyPQjlZg2W9iuGVLEOm"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Antigua Guatemala",
-      "url": "https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Danzones y Boleros",
         "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 221826,
       "name": "Mienteme",
       "url": "https://open.spotify.com/track/7AJto9SjxrXkRYo0y145VR"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Mi Bella Sampedrana",
+          "url": "https://open.spotify.com/artist/5pwHyPQjlZg2W9iuGVLEOm"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Antigua Guatemala",
+      "url": "https://open.spotify.com/track/5pJ6HaGiYrONFRxJS6jgVq"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1087,22 +1103,6 @@
       "duration_ms": 192560,
       "name": "Dandole Sabor al Caldo",
       "url": "https://open.spotify.com/track/3oEIZgr8nQ7xe0sVB4S9kC"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
-        "name": "Mambos Boleros y Danzones",
-        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "Mambo del Politecnico",
-      "url": "https://open.spotify.com/track/52CUFksI6jXx3Cvg6MtY9B"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
-        "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
+        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
+        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
       },
       "artists": [
         {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+          "name": "Princesita",
+          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
         }
       ],
-      "duration_ms": 174253,
-      "name": "El Gato Pachucon",
-      "url": "https://open.spotify.com/track/57wZxoaookNejUwcczKvPF"
+      "duration_ms": 204040,
+      "name": "Coban, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1199,22 +1199,6 @@
       "duration_ms": 222853,
       "name": "20 de Enero",
       "url": "https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
-        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
-        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
-      },
-      "artists": [
-        {
-          "name": "Princesita",
-          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Coban, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1247,6 +1231,22 @@
       "duration_ms": 257519,
       "name": "Concierto de Aranjuez",
       "url": "https://open.spotify.com/track/4v5wKjXi2j4HHOp9FAoDJN"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
+        "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "El Gato Pachucon",
+      "url": "https://open.spotify.com/track/57wZxoaookNejUwcczKvPF"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
-        "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 172187,
-      "name": "Chacha Chachita",
-      "url": "https://open.spotify.com/track/1JLc1beStCAOdlEKnw61LQ"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Luna de Plata",
         "url": "https://open.spotify.com/album/7teVcUz0zoKFhGuriNt45n"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 241520,
       "name": "El Sapo",
       "url": "https://open.spotify.com/track/3SR2eUYdXh7gIi8j3k74fg"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
+        "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 172187,
+      "name": "Chacha Chachita",
+      "url": "https://open.spotify.com/track/1JLc1beStCAOdlEKnw61LQ"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Sones Chiapanecos",
-        "url": "https://open.spotify.com/album/7hKIOqfERIdLNEikJx2ood"
-      },
-      "artists": [
-        {
-          "name": "Marimba Niluyarilo",
-          "url": "https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "El Lloron",
-      "url": "https://open.spotify.com/track/4IiIPatprYYlqSC81d6MkI"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
         "name": "Camaron Pelao",
         "url": "https://open.spotify.com/album/1HoW7usYBQI1StanRLk5eY"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
+        "name": "No Me Platiques Mas",
+        "url": "https://open.spotify.com/album/0BmgAo6Y5qVu53Hw7f6nws"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 151179,
+      "name": "Que Chula Es Puebla",
+      "url": "https://open.spotify.com/track/02dlKZUYW3J15TToUOMohv"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
         "name": "Coleccion De Oro Instrumental, Musica Rlajante Marimba",
         "url": "https://open.spotify.com/album/0YoDpUDCohGiY588XwiXwN"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 136720,
       "name": "Salon Me\u0301xico",
       "url": "https://open.spotify.com/track/05IXBPn68Yh3EAVXwzXi8j"
+    },
+    {
+      "added_at": "2024-07-11 15:23:23",
+      "album": {
+        "name": "Sones Chiapanecos",
+        "url": "https://open.spotify.com/album/7hKIOqfERIdLNEikJx2ood"
+      },
+      "artists": [
+        {
+          "name": "Marimba Niluyarilo",
+          "url": "https://open.spotify.com/artist/40c8gkv9OKXjSkGZexn7rJ"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "El Lloron",
+      "url": "https://open.spotify.com/track/4IiIPatprYYlqSC81d6MkI"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1519,22 +1535,6 @@
       "duration_ms": 138386,
       "name": "Mujer Oaxaquena",
       "url": "https://open.spotify.com/track/01Nn2e2EznC1QWz0VYkGXG"
-    },
-    {
-      "added_at": "2024-07-11 15:23:23",
-      "album": {
-        "name": "No Me Platiques Mas",
-        "url": "https://open.spotify.com/album/0BmgAo6Y5qVu53Hw7f6nws"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 151179,
-      "name": "Que Chula Es Puebla",
-      "url": "https://open.spotify.com/track/02dlKZUYW3J15TToUOMohv"
     },
     {
       "added_at": "2024-07-11 15:23:23",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-11 15:23:23",
       "album": {
-        "name": "Chapinlandia - Marimba Music of Guatemala",
-        "url": "https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG"
+        "name": "Nuestro Mexico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
       },
       "artists": [
         {
-          "name": "Marimba Chapinlandia",
-          "url": "https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S"
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
         }
       ],
-      "duration_ms": 202440,
-      "name": "\u00bfPor qu\u00e9 ser\u00e1?",
-      "url": "https://open.spotify.com/track/5B33FDtAtAkCbeWQg3D4u2"
+      "duration_ms": 231053,
+      "name": "S\u00f3lo Veracruz Es Bello-El Balaj\u00fa-El Col\u00e1s-La Bamba-El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/5DIbHrgGpkESK5V1wgq01q"
     }
   ],
   "unique_name": "Marimba",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746,303 likes - 186 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,271 likes - 186 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

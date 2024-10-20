@@ -1,12 +1,12 @@
 {
   "description": "This Is Megadeth. Los temas esenciales, todos en una lista.",
-  "num_followers": 290662,
+  "num_followers": 290728,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAACIpJDpfNYHW5mwjLnL5qvo",
+  "snapshot_id": "ZxGlAAAAAAApY4j+pUrcVlP2RTzn5f7w",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "Addicted To Chaos - Remastered 2004",
-      "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 213480,
       "name": "Conquer Or Die",
       "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "Addicted To Chaos - Remastered 2004",
+      "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Reckoning Day - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 239413,
       "name": "Return to Hangar",
       "url": "https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Reckoning Day - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Blood Of Heroes - Remastered 2004",
-      "url": "https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 110533,
       "name": "Dawn Patrol",
       "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Blood Of Heroes - Remastered 2004",
+      "url": "https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn"
     },
     {
       "added_at": null,

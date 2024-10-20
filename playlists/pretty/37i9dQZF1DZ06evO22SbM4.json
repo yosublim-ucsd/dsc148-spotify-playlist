@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 34464,
+  "num_followers": 34491,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAADezfO9rXlgv5n64vZPkDvt",
+  "snapshot_id": "ZxGlAAAAAAAqQtLif+v7ZA2/cQ4sayTF",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 230913,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman) [FAST X / Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6"
       },
@@ -223,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
       },
       "artists": [
         {
@@ -232,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 232058,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+      "duration_ms": 220800,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
     },
     {
       "added_at": null,
@@ -255,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
@@ -264,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 220800,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
+      "duration_ms": 182465,
+      "name": "Get to Gettin\u2019 Gone",
+      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
     },
     {
       "added_at": null,
@@ -295,22 +327,6 @@
       "duration_ms": 135889,
       "name": "Won\u2019t Back Down (feat. YoungBoy Never Broke Again, Bailey Zimmerman & Dermot Kennedy) - Sped Up",
       "url": "https://open.spotify.com/track/43KSFGpSKun6AX5GxKvQCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 182465,
-      "name": "Get to Gettin\u2019 Gone",
-      "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
     },
     {
       "added_at": null,

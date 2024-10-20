@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH"
+    },
+    {
+      "album": {
         "name": "The Reason EP",
         "url": "https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ"
       },

@@ -4552,10 +4552,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 200613,
       "name": "I'm Better",
       "url": "https://open.spotify.com/track/2Po7CnIbgp4Y3jZ05Np86N"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To Your Life",
+        "url": "https://open.spotify.com/album/5mES955VGLh9er8nmXl783"
+      },
+      "artists": [
+        {
+          "name": "Ashley Parker Angel",
+          "url": "https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "I'm Better",
+      "url": "https://open.spotify.com/track/7frqS6t7YaHnzPbDRKOsW7"
     },
     {
       "album": {
@@ -5624,6 +5642,24 @@
     {
       "album": {
         "name": "Soundtrack To Your Life",
+        "url": "https://open.spotify.com/album/5mES955VGLh9er8nmXl783"
+      },
+      "artists": [
+        {
+          "name": "Ashley Parker Angel",
+          "url": "https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/0aoXtU2V25FgbmQMCdw3Wm"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To Your Life",
         "url": "https://open.spotify.com/album/3YczBWpkOC4VexF3vriCJF"
       },
       "artists": [
@@ -5634,7 +5670,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 218746,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/5n3HwrDGRlUT7SrJCWM4yf"

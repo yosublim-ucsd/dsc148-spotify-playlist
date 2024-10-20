@@ -7988,10 +7988,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 157533,
       "name": "So Good",
       "url": "https://open.spotify.com/track/77OweUKV2752QnHqq9mMOE"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6J70Ck6yp0h8J333irAOKB"
+      },
+      "artists": [
+        {
+          "name": "Katemale",
+          "url": "https://open.spotify.com/artist/0V6com3APpZhlLOdFJBP0t"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157596,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/60nh6nBkvzdNT02Y8sv2G8"
     },
     {
       "album": {

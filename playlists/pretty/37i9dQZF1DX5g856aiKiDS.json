@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 489887,
+  "num_followers": 489946,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,26 @@
     {
       "added_at": "2024-10-08 10:57:38",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+        "name": "whenever it rains",
+        "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+          "name": "Nason",
+          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+      "duration_ms": 185737,
+      "name": "Whenever it rains (feat. Nason & amin)",
+      "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
     },
     {
       "added_at": "2024-10-08 10:57:38",
@@ -291,26 +295,22 @@
     {
       "added_at": "2024-10-08 10:57:38",
       "album": {
-        "name": "whenever it rains",
-        "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
         },
         {
-          "name": "Nason",
-          "url": "https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX"
-        },
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
         }
       ],
-      "duration_ms": 185737,
-      "name": "Whenever it rains (feat. Nason & amin)",
-      "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2024-10-08 10:57:38",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-10-08 10:57:38",
       "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 184565,
+      "name": "Hope You're Doing Well",
+      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
+    },
+    {
+      "added_at": "2024-10-08 10:57:38",
+      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
-    },
-    {
-      "added_at": "2024-10-08 10:57:38",
-      "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 184565,
-      "name": "Hope You're Doing Well",
-      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
     },
     {
       "added_at": "2024-10-08 10:57:38",
@@ -879,6 +879,30 @@
     {
       "added_at": "2024-10-08 10:57:38",
       "album": {
+        "name": "HAAN X Chan : Synergy",
+        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Peakboy (\ud53d\ubcf4\uc774)",
+          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
+        }
+      ],
+      "duration_ms": 194625,
+      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
+      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
+    },
+    {
+      "added_at": "2024-10-08 10:57:38",
+      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 201000,
       "name": "Under Caffeine",
       "url": "https://open.spotify.com/track/4DunhC1RuUbqC3MXrMozIg"
-    },
-    {
-      "added_at": "2024-10-08 10:57:38",
-      "album": {
-        "name": "HAAN X Chan : Synergy",
-        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        },
-        {
-          "name": "Peakboy (\ud53d\ubcf4\uc774)",
-          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
-        }
-      ],
-      "duration_ms": 194625,
-      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
-      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
     },
     {
       "added_at": "2024-10-08 10:57:38",

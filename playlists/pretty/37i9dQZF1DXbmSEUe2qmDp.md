@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Lia Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,605 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,609 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 62 | [Saudade Em Pessoa \- Ao Vivo](https://open.spotify.com/track/4EVOE4wwk4Rhxn0IPUmvzF) | [Thiago & Luan](https://open.spotify.com/artist/7hYCXpI5WIklTdgycvPvqL) | [Saudade Em Pessoa \(Ao Vivo\)](https://open.spotify.com/album/6hWHAXLqGRvHlr453nVn14) | 3:06 |
 | 63 | [Quando Perde Um Amor](https://open.spotify.com/track/4m2ELhmVHZXtXpu9pI5CNf) | [Gabi & Rapha](https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD) | [Quando Perde Um Amor](https://open.spotify.com/album/3fMiMx2cV7ReHQnnTDVJix) | 3:29 |
 | 64 | [Gemidinho de Transa](https://open.spotify.com/track/6KUU7ruDJ1KDBSfoHa6xX2) | [João Luiz e Josiane](https://open.spotify.com/artist/0yOql72zM4nxFJBzrIcJ6s), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Gemidinho de Transa](https://open.spotify.com/album/4abhx1J0B2DijVPkWgt2Xf) | 2:25 |
-| 65 | [Mulheres Fortes \- Ao Vivo](https://open.spotify.com/track/3hw2YKjAWWuL9XU0u7n0Mr) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Ao Vivo Em Rio Preto \(Ao Vivo / EP02\)](https://open.spotify.com/album/01Jnd6nzb4AIWvl91XUnmh) | 2:53 |
+| 65 | [Mulheres Fortes \- Ao Vivo](https://open.spotify.com/track/3hw2YKjAWWuL9XU0u7n0Mr) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma) | [Ao Vivo Em Rio Preto \(Ao Vivo / EP02\)](https://open.spotify.com/album/01Jnd6nzb4AIWvl91XUnmh) | 2:53 |
 | 66 | [Charme Demais \- Ao Vivo](https://open.spotify.com/track/50frgWSf4qigDoDXZ91zTE) | [Wesley & Conrado](https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Charme Demais \- Ao Vivo](https://open.spotify.com/album/6rA5drW6RvB2WC5KyCIBIS) | 2:43 |
 | 67 | [A Chance É Grande \- Ao Vivo](https://open.spotify.com/track/0fQ0gx9D0lDWsWaO1NXz5p) | [Lucas Souza](https://open.spotify.com/artist/1oPBjUigdT4JJxW9LjMqWU), [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Quandé Fé Bebi, Ep\. 4 \(Ao Vivo\)](https://open.spotify.com/album/76JHtXz23yAdLWgbdOj5Qm) | 2:45 |
 | 68 | [Haja Luz \- Ao Vivo](https://open.spotify.com/track/3nlnQoON0vqQki5nB4kHTM) | [Neto e Guilherme](https://open.spotify.com/artist/1xczintYOYmOtkZva7cZl0), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Haja Luz \(Ao Vivo\)](https://open.spotify.com/album/5MzdiEeDL8UxZtILQzcwcS) | 2:51 |

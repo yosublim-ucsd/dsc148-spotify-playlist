@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-394 songs - 20 hr 13 min
+395 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Floating Fables](https://open.spotify.com/track/2zbBtt6TvkQp0EUnXkfpM8) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Floating Fables](https://open.spotify.com/album/00ncspP1ugoJtLW2POqoaB) | 2:59 | 2024-01-17 | 2024-02-08 |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2022-12-30 |  |
 | [Floating Time](https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Floating Time](https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm) | 2:50 | 2023-07-28 |  |
+| [Free of Charge](https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Free of Charge](https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6) | 2:18 | 2024-10-15 |  |
 | [Fresh Sky](https://open.spotify.com/track/20SlQNNjADqbjAfzlCL1xg) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Fresh Sky](https://open.spotify.com/album/2eXKhTlcj0iQO5CrUxpjDy) | 3:03 | 2024-01-17 | 2024-02-08 |
 | [friendship](https://open.spotify.com/track/46FHTWfIlwJmV1hz30FgAx) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [friendship](https://open.spotify.com/album/4CrQSPAgBUpOEbhnGPIGoT) | 2:05 | 2024-06-13 | 2024-09-07 |
 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 | 2023-02-25 |  |
@@ -388,7 +389,7 @@
 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 | 2022-01-12 | 2024-01-18 |
 | [When We Touch](https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [When We Touch](https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv) | 2:05 | 2022-01-19 | 2024-05-21 |
 | [When We Touch](https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [Into the Night](https://open.spotify.com/album/7wlueDU2PxSRaEUbf9dXMl) | 2:05 | 2022-01-12 | 2023-10-05 |
-| [Wide Horizon](https://open.spotify.com/track/2yCVaaUmCeSUbrCEvGtBz2) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Wide Horizon](https://open.spotify.com/album/6VQaZmXz3lDCQYFXoO3jEX) | 2:50 | 2024-01-17 |  |
+| [Wide Horizon](https://open.spotify.com/track/2yCVaaUmCeSUbrCEvGtBz2) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Wide Horizon](https://open.spotify.com/album/6VQaZmXz3lDCQYFXoO3jEX) | 2:50 | 2024-01-17 | 2024-10-20 |
 | [Wider Purpose](https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Wider Purpose](https://open.spotify.com/album/7hAwWhV1BZVOql2EPChZVk) | 2:43 | 2024-01-17 |  |
 | [Wrapped in Warmth](https://open.spotify.com/track/6vUO4F4h0Fg01FyiWFa8hb) | [Multicolored Dreams](https://open.spotify.com/artist/6sIcU8P0T1TcAjOHEkAt3Q) | [Wrapped in Warmth](https://open.spotify.com/album/6gX6pglJXaKDnCdC6x2Ls6) | 3:32 | 2022-01-12 | 2022-02-02 |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |

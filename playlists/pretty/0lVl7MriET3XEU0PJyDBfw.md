@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,002 likes - 71 songs - 3 hr 44 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,002 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,14 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 69 | [Gasolina Flow \- Radio Edit](https://open.spotify.com/track/6pCL68zckPDmwbvcBO0ZQ2) | [D\-Rashid](https://open.spotify.com/artist/3BAbtGcpq9F6a7TJyw9krT), [Rounz](https://open.spotify.com/artist/6Lu46xIXiBUmXTespzvyb7) | [Gasolina Flow](https://open.spotify.com/album/0xpqgupIrBDSKhZpB1KbQw) | 3:22 |
 | 70 | [Kickin](https://open.spotify.com/track/3eOvuzq1P0Sn4HNZI8vw21) | [Seeing Double](https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj) | [Kickin](https://open.spotify.com/album/57J0X0siPkNv9Wqgy2gCuj) | 3:56 |
 | 71 | [The Climb](https://open.spotify.com/track/7GSjImVncKoQdfSaRuJA5O) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Climb](https://open.spotify.com/album/4E1ZlybMwsR1RDGZgo8SNd) | 3:21 |
+| 72 | [Bonkers](https://open.spotify.com/track/3918FzQeHHgmyqKLIMEirA) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Bonkers](https://open.spotify.com/album/1INA3dVgPd6GQVNACiqtcZ) | 3:02 |
+| 73 | [Push That Pedal](https://open.spotify.com/track/2lUf2bEmC8a1bLXyb2H08U) | [Cazztek](https://open.spotify.com/artist/3wRQD6UZWlaWEnbgpIEPPX) | [Push That Pedal](https://open.spotify.com/album/4LdGZZJDVPv9TDNz0b1nbm) | 3:24 |
+| 74 | [Personal](https://open.spotify.com/track/4fotLjvSrM90WLKQdSnFod) | [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL), [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC) | [Personal](https://open.spotify.com/album/0R3bfLwpDq7n0kOlWSAQUx) | 2:48 |
+| 75 | [Feel Like](https://open.spotify.com/track/1YF8WMHY2r50zjMam8MvJU) | [Leo Barber](https://open.spotify.com/artist/3nbTy93MugnBTvJeEhjb86), [T\-Sanz](https://open.spotify.com/artist/29qU8fdwtl7xofUHtW32MK) | [Feel Like](https://open.spotify.com/album/6va3QkdHUFOFzc5qcydbmx) | 2:08 |
+| 76 | [Onlyfans](https://open.spotify.com/track/239ARwLFys9QJ99xRZiOzK) | [ASEK](https://open.spotify.com/artist/4nRf4LvrhP0qUaTRI1CcMZ) | [Onlyfans](https://open.spotify.com/album/6uDsTtblQ08INHO0Vp3Kk2) | 2:03 |
+| 77 | [Nasty](https://open.spotify.com/track/5Nl0ItwBPIHI4veRFJUoZH) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Nasty](https://open.spotify.com/album/49W2Pw7Ar8pu0Gq9g6Jpu6) | 3:19 |
+| 78 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 |
+| 79 | [Work It](https://open.spotify.com/track/7jAbu1bvEH0lgWO6860KXw) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Milano Downtown III](https://open.spotify.com/album/5abIHUF2v00mKzgEqfalya) | 3:12 |
+| 80 | [Lost & Found London](https://open.spotify.com/track/2jw8SwvbaxUqXXgQRXocvb) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Lost & Found London](https://open.spotify.com/album/40IsnCOG3gBuriTfyjM0DQ) | 3:16 |
 
-Snapshot ID: `AAAZskvne3R+eoRVh5n4hO01+acGl9nn`
+Snapshot ID: `AAAZuwVHrk+VIQoUnsPRhKp/3xBa1qol`

@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Olga Tañón
 
-3,000 songs - 7 day 6 hr 32 min
+3,000 songs - 7 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [A Veces](https://open.spotify.com/track/78yuCmFFYrFxr5R0VSBiK7) | [Dale Nene](https://open.spotify.com/artist/6aAiFOA1lqRShfjPE9OPkS), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [A Veces](https://open.spotify.com/album/7AajvaogQUNjc3hrHPEO5V) | 3:14 | 2022-06-03 | 2022-06-18 |
 | [A veces](https://open.spotify.com/track/2yQQtdLqcmJm2nQutePcK3) | [Salsangroove](https://open.spotify.com/artist/6Hw8INToSfJFmHYEeQDFVb) | [TAMBOR MACHINE](https://open.spotify.com/album/7M39Nb5TYu7vdv8djSJzo8) | 3:40 | 2024-06-14 | 2024-06-22 |
 | [A Veces Bien y A Veces Mal](https://open.spotify.com/track/2tKNWCuX2H9K17OAzRrMas) | [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2), [Pasandola Bomba](https://open.spotify.com/artist/5PDgLqcjqJ6UCvy0twzoMJ) | [A Veces Bien Y A Veces Mal](https://open.spotify.com/album/5VKmkEnnExelic9HnLP63P) | 2:20 | 2023-08-04 | 2023-08-12 |
-| [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:38 | 2024-10-18 |  |
+| [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:26 | 2024-10-18 |  |
 | [Abismo](https://open.spotify.com/track/6AwHodfhYS617hDDL98fKP) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Abismo](https://open.spotify.com/album/744XvERwuTvatZpUvxgZPv) | 3:37 | 2022-12-23 | 2023-01-14 |
 | [Abran Paso](https://open.spotify.com/track/5Z3KlByddzfueFO3jAWpJQ) | [Billy Vera](https://open.spotify.com/artist/6BumpTZy2HOcTbywLrAJLB), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [El Maquinon](https://open.spotify.com/artist/1HpKEcHgBuQQUVXeWkpOV0) | [Abran Paso](https://open.spotify.com/album/5Iu0KOfyVadFF2SAnuBTPD) | 2:03 | 2023-07-28 | 2023-08-05 |
 | [Abran Paso](https://open.spotify.com/track/59hKpkfpPBL7DcEHq2R5W9) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj) | [Salsa de Ahora](https://open.spotify.com/album/0rDfZe2pBSxsmlBvJNwMBU) | 2:50 | 2024-05-31 | 2024-06-08 |

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: L.S\. Dunes
 
-1,300 songs - 2 day 20 hr 42 min
+1,302 songs - 2 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 | 2022-03-25 | 2022-05-31 |
 | [Crisis](https://open.spotify.com/track/2Wi6zwLGfBlCLl2Pp4fgoN) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Identity Crisis](https://open.spotify.com/album/4FWyoXLfgFO7aGcCXvAgSn) | 3:16 | 2022-02-04 | 2022-05-12 |
 | [cross to bear](https://open.spotify.com/track/3IYiaXzyuPALEvpJ5IXzZ8) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [cross to bear + sorrow machine](https://open.spotify.com/album/0GAtySUVv6nUhmVeWpfAFy) | 4:32 | 2024-07-19 |  |
-| [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 | 2024-07-19 |  |
+| [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 | 2024-07-19 | 2024-10-20 |
 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 | 2023-12-08 | 2024-01-20 |
 | [Crying Wolf](https://open.spotify.com/track/6s0lUde4F2kTYAw6u7ku2r) | [The Story Changes](https://open.spotify.com/artist/4ESrVjoUNUtw0QUZl6t3nF) | [To Hell with This Delicate Equation](https://open.spotify.com/album/53RDG8S4bVMArK8jN7o21x) | 2:33 | 2022-03-25 | 2022-04-15 |
 | [Cult](https://open.spotify.com/track/42VEP8qv16ffoRKHcgUYYj) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Cult](https://open.spotify.com/album/4L4UaXxbqEB5NxBk6qaFtx) | 3:13 | 2021-12-10 | 2022-06-24 |
@@ -530,6 +530,7 @@
 | [High](https://open.spotify.com/track/437iVwXOYMp04oCq2XB4Wo) | [Anavae](https://open.spotify.com/artist/0JseT2AZzVMKsBlrAywFcO) | [High](https://open.spotify.com/album/7laPexrRfr1VnF7sL9aV0d) | 4:40 | 2022-03-25 | 2022-06-10 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-04-01 | 2022-08-03 |
 | [High Forever](https://open.spotify.com/track/0FbsFDHJpMlLQu3G8hGINW) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [XOXO: From Love & Anxiety In Real Time](https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz) | 3:00 | 2021-12-10 | 2022-06-24 |
+| [High Stakes](https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [High Stakes](https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2) | 3:25 | 2024-10-18 |  |
 | [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 | 2021-12-10 | 2022-08-06 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-07-14 | 2024-04-13 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-04-10 | 2023-07-28 |
@@ -950,6 +951,7 @@
 | [Serenity](https://open.spotify.com/track/4FdzgBWmZltkH34EcdKTpE) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Serenity](https://open.spotify.com/album/47M4ApugDGCX2YWX6R0HNF) | 2:42 | 2024-05-14 |  |
 | [Serious](https://open.spotify.com/track/4yidnLZ5PprgDlK2hxP8U9) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 2:47 | 2022-06-17 | 2023-04-12 |
 | [Serotonin](https://open.spotify.com/track/074PG6f7ZRVyQ9m1mkgzXa) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Serotonin](https://open.spotify.com/album/5CM4WtkUq9C7i1KSjys4DI) | 2:36 | 2021-12-10 | 2022-05-06 |
+| [Set A Fire](https://open.spotify.com/track/5dCGWUDsoHGveBu7z33zzH) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Set A Fire](https://open.spotify.com/album/2sU6iRYFKe9LabTViUivyv) | 2:57 | 2024-10-18 |  |
 | [Set This Place On Fire \(with Kellin Quinn\)](https://open.spotify.com/track/1hgrcSTIBCIr3TePVN6FFB) | [3ree](https://open.spotify.com/artist/23kdSb8AUJ9ZqFVYU8jN5q), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Set This Place On Fire \(with Kellin Quinn\)](https://open.spotify.com/album/2AqDoGCPxF1VLAfClIZPj0) | 2:45 | 2022-04-08 | 2022-07-20 |
 | [Set This Place On Fire \(with Kellin Quinn\)](https://open.spotify.com/track/4Y6bc2nCtQhbN6EUdyOjJX) | [3ree](https://open.spotify.com/artist/23kdSb8AUJ9ZqFVYU8jN5q), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Set This Place On Fire \(with Kellin Quinn\)](https://open.spotify.com/album/6I75MFXAIpLJst0bWJfDMh) | 2:45 | 2023-04-10 | 2023-04-12 |
 | [Settle In](https://open.spotify.com/track/0bP4u6aTgiVVd6pbx0FsAX) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [No Fomo](https://open.spotify.com/album/2KLZtCAZGkL8YXKg1YlPOK) | 2:46 | 2021-12-10 | 2022-05-14 |
@@ -1240,7 +1242,7 @@
 | [What Hurts the Most](https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Suicide and Sunshine](https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH) | 3:25 | 2023-06-09 | 2024-04-19 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-22 |  |
 | [What We Earn](https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [What We Earn](https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT) | 3:29 | 2024-03-22 | 2024-06-25 |
-| [What's An Hour Really Worth](https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [What's An Hour Really Worth](https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR) | 3:33 | 2024-05-14 |  |
+| [What's An Hour Really Worth](https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [What's An Hour Really Worth](https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR) | 3:33 | 2024-05-14 | 2024-10-20 |
 | [What's Left of Me](https://open.spotify.com/track/0G3ZCzAYZD29pzb3eH28Cy) | [Percy Bluu](https://open.spotify.com/artist/2PmcmJA18f9Pa9gT440EYy) | [What's Left of Me](https://open.spotify.com/album/2zf2xViTgY8tVjscTiysVA) | 3:14 | 2021-12-10 | 2022-07-25 |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-10-01 |
 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2024-01-19 |  |

@@ -90,6 +90,28 @@
     {
       "album": {
         "name": "Tim's Bio: From The Motion Picture - Life From Da Bassment",
+        "url": "https://open.spotify.com/album/5gLs6EP98eVb1ApK3QAnl5"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "3:30 in the Morning (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/5NtazPlMH1yuHUh777eDqd"
+    },
+    {
+      "album": {
+        "name": "Tim's Bio: From The Motion Picture - Life From Da Bassment",
         "url": "https://open.spotify.com/album/5fjcR3LsoVMs4QVJBS3Twb"
       },
       "artists": [
@@ -104,7 +126,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 209133,
       "name": "3:30 in the Morning (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/5fyrR3ARG2woELPp5EzJjC"
@@ -582,6 +604,28 @@
     {
       "album": {
         "name": "Welcome To Our World",
+        "url": "https://open.spotify.com/album/0Rfp9QE40h8L7vyuVyou0Y"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "Beep Beep",
+      "url": "https://open.spotify.com/track/4U4QUnMw1QpDDOsBqi1Uy3"
+    },
+    {
+      "album": {
+        "name": "Welcome To Our World",
         "url": "https://open.spotify.com/album/4nr8ymBFfv0tVg5igWBw6B"
       },
       "artists": [
@@ -596,7 +640,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 256600,
       "name": "Beep Beep",
       "url": "https://open.spotify.com/track/6rQ917uF2xKL0pWnpPQMxp"
@@ -1474,10 +1518,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 213133,
       "name": "Cop That Shit (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/0SURN4evITLIdL9sGPMMpk"
+    },
+    {
+      "album": {
+        "name": "Under Construction, Pt. II",
+        "url": "https://open.spotify.com/album/0D4y37qwNbIunM00EPsAUs"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Cop That Shit (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/45x7fXY0cHO7CVRrqwQ8t6"
     },
     {
       "album": {
@@ -2734,10 +2804,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 261532,
       "name": "Here We Come (feat. Magoo & Missy Elliott)",
       "url": "https://open.spotify.com/track/4Bxio38CcfCD1Ogp60I9xE"
+    },
+    {
+      "album": {
+        "name": "Tim's Bio: From The Motion Picture - Life From Da Bassment",
+        "url": "https://open.spotify.com/album/5gLs6EP98eVb1ApK3QAnl5"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261532,
+      "name": "Here We Come (feat. Magoo & Missy Elliott)",
+      "url": "https://open.spotify.com/track/5ctRqYDa66vTMkVvwpBbtR"
     },
     {
       "album": {
@@ -3904,10 +4000,36 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 242133,
       "name": "John Blaze",
       "url": "https://open.spotify.com/track/0nVFSaSYgWBXUJDzffWh2S"
+    },
+    {
+      "album": {
+        "name": "Tim's Bio: From The Motion Picture - Life From Da Bassment",
+        "url": "https://open.spotify.com/album/5gLs6EP98eVb1ApK3QAnl5"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "John Blaze",
+      "url": "https://open.spotify.com/track/3yTAzS9fCXR70TSNfyLfhQ"
     },
     {
       "album": {
@@ -4540,10 +4662,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 281893,
       "name": "Man Undercover",
       "url": "https://open.spotify.com/track/6FSTTQaBAeriR4ntnzRMvU"
+    },
+    {
+      "album": {
+        "name": "Welcome To Our World",
+        "url": "https://open.spotify.com/album/0Rfp9QE40h8L7vyuVyou0Y"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT"
+        },
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281893,
+      "name": "Man Undercover",
+      "url": "https://open.spotify.com/track/0oTXbCB4Rj3vT2maRPTJSX"
     },
     {
       "album": {
@@ -5192,6 +5340,24 @@
     {
       "album": {
         "name": "One In A Million",
+        "url": "https://open.spotify.com/album/5VT7ND2Rq0MhfqxkAzBNz3"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270760,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/3j64qSBGg8zPn4zRa9Wok1"
+    },
+    {
+      "album": {
+        "name": "One In A Million",
         "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
       },
       "artists": [
@@ -5202,7 +5368,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 270760,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp"
@@ -6602,10 +6768,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 304826,
       "name": "Talking On the Phone (feat. Kelly Price & Missy Elliott)",
       "url": "https://open.spotify.com/track/0Gfs8NDvtQnbCFmk1LORTV"
+    },
+    {
+      "album": {
+        "name": "Tim's Bio: From The Motion Picture - Life From Da Bassment",
+        "url": "https://open.spotify.com/album/5gLs6EP98eVb1ApK3QAnl5"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304826,
+      "name": "Talking on the Phone (feat. Kelly Price & Missy Elliott)",
+      "url": "https://open.spotify.com/track/3xaKpuSBLYqqIz88GyCMzL"
     },
     {
       "album": {

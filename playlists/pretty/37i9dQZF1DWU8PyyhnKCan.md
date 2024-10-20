@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,419 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,414 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 85 | [マシンガンポエムドール](https://open.spotify.com/track/6XshXpv0LPjtTJbKkeilBQ) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [マシンガンポエムドール](https://open.spotify.com/album/2XdBm2tkrw0q2T5J1F0kF9) | 2:20 |
 | 86 | [メルティランドナイトメア](https://open.spotify.com/track/5e1Q8A0CImsHhtfjvEgf9z) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [ネオドリームトラベラー](https://open.spotify.com/album/5G5D0OSg5puTVZMg4nVocH) | 4:26 |
 | 87 | [フロートプレイ](https://open.spotify.com/track/2T7Yky4Kmlq1xkY2paZVm9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [フロートプレイ](https://open.spotify.com/album/7tzYNbCa87y2zoWBbcFCs1) | 4:02 |
-| 88 | [サヨナラ！！ウイルス](https://open.spotify.com/track/7j7regb6DKXHFac0dCx3di) | [キュー](https://open.spotify.com/artist/3TYf9S71iEjgMD93C5NMVo), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [サヨナラ！！ウイルス](https://open.spotify.com/album/2z0btA4FWV9t8YHEhKwv2c) | 2:36 |
+| 88 | [サヨナラ！！ウイルス \(feat\. 初音ミク\)](https://open.spotify.com/track/7j7regb6DKXHFac0dCx3di) | [キュー](https://open.spotify.com/artist/3TYf9S71iEjgMD93C5NMVo), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [サヨナラ！！ウイルス \(feat\. 初音ミク\)](https://open.spotify.com/album/2z0btA4FWV9t8YHEhKwv2c) | 2:36 |
 | 89 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
 | 90 | [チュルリラ・チュルリラ・ダッダッダ!](https://open.spotify.com/track/0M1JGQcBPw0Wx4HJTYSnAz) | [WADATAKEAKI KurageP](https://open.spotify.com/artist/3N1Bm1zHjxERruWhTsoQXO) | [わたしの未成年観測](https://open.spotify.com/album/49gFmYr9KCdaxCXr2d8HxF) | 3:16 |
 | 91 | [モア！ジャンプ！モア！](https://open.spotify.com/track/3E5D6srsCw6xw2R9viYFdJ) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [モア！ジャンプ！モア！](https://open.spotify.com/album/0Q8pf8yT7n79Xop4G7oirB) | 3:03 |

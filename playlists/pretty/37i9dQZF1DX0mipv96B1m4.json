@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1285,
+  "num_followers": 1288,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Gemazima",
-        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "Gemazima",
-      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bwogana",
         "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 181028,
       "name": "Bwogana",
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Gemazima",
+        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "Gemazima",
+      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -427,46 +427,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "JUICY BODY",
-        "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
-      },
-      "artists": [
-        {
-          "name": "Ziza Bafana",
-          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
-        },
-        {
-          "name": "Ritah Danchall",
-          "url": "https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl"
-        }
-      ],
-      "duration_ms": 150301,
-      "name": "Juicy Body",
-      "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
@@ -487,6 +447,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Bajooga",
         "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 175072,
       "name": "Bajooga",
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "JUICY BODY",
+        "url": "https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns"
+      },
+      "artists": [
+        {
+          "name": "Ziza Bafana",
+          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
+        },
+        {
+          "name": "Ritah Danchall",
+          "url": "https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl"
+        }
+      ],
+      "duration_ms": 150301,
+      "name": "Juicy Body",
+      "url": "https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Basheshe",
+        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
+      },
+      "artists": [
+        {
+          "name": "Zagazillions",
+          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 139188,
+      "name": "Basheshe",
+      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Basheshe",
-        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
-      },
-      "artists": [
-        {
-          "name": "Zagazillions",
-          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 139188,
-      "name": "Basheshe",
-      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Tebali Ready",
-        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Tebali Ready",
-      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Nkwatewa",
         "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "My Woman",
-        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
-      },
-      "artists": [
-        {
-          "name": "Vian Music",
-          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
-        }
-      ],
-      "duration_ms": 193541,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Semi Final",
         "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
       },
       "artists": [
         {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+          "name": "Vian Music",
+          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
         }
       ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+      "duration_ms": 193541,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
     },
     {
       "added_at": "2024-03-01 12:07:08",

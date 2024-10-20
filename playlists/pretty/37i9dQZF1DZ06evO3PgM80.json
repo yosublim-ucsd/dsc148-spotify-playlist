@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19687,
+  "description": "This Is Julia Vit\u00f3ria. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 19694,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAACZrdhnwWiszjlRDGmmzLRX",
+  "snapshot_id": "ZxGlAAAAAABFUhHM8kKQ73PmCCc6scHe",
   "tracks": [
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 366814,
-      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Sou do Meu Deus: Live Session",
         "url": "https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 402000,
       "name": "Eu Sou do Meu Deus: Live Session",
       "url": "https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 366814,
+      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
     },
     {
       "added_at": null,

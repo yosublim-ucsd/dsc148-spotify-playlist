@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,018 likes - 96 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,049 likes - 96 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 23 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 |
 | 24 | [mein herz setzt aus\_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [harddrive2024](https://open.spotify.com/album/5Yf0rI6XnpwDrTAQQtnCCS) | 1:43 |
 | 25 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
-| 26 | [PSG](https://open.spotify.com/track/2420tgycGDahgF395E6QAB) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB) | [PSG](https://open.spotify.com/album/1UqTTCLJBrGzwdt7fecYIA) | 3:28 |
+| 26 | [PSG](https://open.spotify.com/track/2420tgycGDahgF395E6QAB) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys) | [PSG](https://open.spotify.com/album/1UqTTCLJBrGzwdt7fecYIA) | 3:28 |
 | 27 | [Someone For Me](https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:34 |
 | 28 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 |
 | 29 | [Rosarote Brille](https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Rosarote Brille](https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb) | 3:52 |

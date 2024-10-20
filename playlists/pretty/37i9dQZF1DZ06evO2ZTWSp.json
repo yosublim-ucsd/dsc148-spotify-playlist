@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 487828,
+  "num_followers": 487802,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAADqge7OmKKzfkEzNNl2LkkH",
+  "snapshot_id": "ZxGlAAAAAAB8YMU5h4ZYONHVTnoagWlF",
   "tracks": [
     {
       "added_at": null,
@@ -915,6 +915,22 @@
       "duration_ms": 203422,
       "name": "Batches & Cookies",
       "url": "https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big GRRRL Small World",
+        "url": "https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 210483,
+      "name": "Humanize",
+      "url": "https://open.spotify.com/track/3FFB2XvhOfxTI6bamvyU8C"
     },
     {
       "added_at": null,

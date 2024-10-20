@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,232 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,274 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/track/2qgt9GiXVhFIXTA3OdHDUG) | [2T.](https://open.spotify.com/artist/1Q8WSMv0yYl2ae0AO4k6qc) | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB) | 3:00 |
 | 50 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 
-Snapshot ID: `LqXMyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LqcgoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

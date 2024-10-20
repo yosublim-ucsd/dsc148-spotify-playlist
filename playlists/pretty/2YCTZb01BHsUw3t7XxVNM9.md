@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 601 likes - 488 songs - 1 day 9 hr 55 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 602 likes - 488 songs - 1 day 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -476,11 +476,11 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 466 | [Unlimited Hyperlink](https://open.spotify.com/track/52E7DsEd6sxt1eSyyWkhsl) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Unlimited Hyperlink](https://open.spotify.com/album/72H3KkXmGpfRef2WIbu3oM) | 3:12 |
 | 467 | [Viyella's Melancholy](https://open.spotify.com/track/3IweQmPMIat6m6iz28XLPp) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Viyella's Melancholy](https://open.spotify.com/album/4NJ3hQDdxq3ZGZShbSDlVj) | 2:27 |
 | 468 | [KOQSHO](https://open.spotify.com/track/5YSQk7K1rLcR38qQZoh8Ep) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [KOQSHO](https://open.spotify.com/album/2ilQng38TEP9HvB3IQuqrc) | 3:57 |
-| 469 | [Shall we dance hardcore?](https://open.spotify.com/track/1Lp2IU7VNuktAkBWtpqmFH) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Natsume Itsuki](https://open.spotify.com/artist/6wdlqh6uDOKX3K36O6dhcJ) | [Shall we dance hardcore?](https://open.spotify.com/album/5iJHwhB28KAaT2SK7jz7yJ) | 3:14 |
+| 469 | [Shall we dance hardcore? \(feat\. Natsume Itsuki\)](https://open.spotify.com/track/1Lp2IU7VNuktAkBWtpqmFH) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Natsume Itsuki](https://open.spotify.com/artist/6wdlqh6uDOKX3K36O6dhcJ) | [Shall we dance hardcore?](https://open.spotify.com/album/5iJHwhB28KAaT2SK7jz7yJ) | 3:14 |
 | 470 | [SuM=](https://open.spotify.com/track/06Jw8Aky4P3TJmOVpNCQPc) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SuM=](https://open.spotify.com/album/0DRUweqP7AToRhgvXJLgok) | 3:25 |
-| 471 | [The Rebellion of Phantom](https://open.spotify.com/track/75epRWAPKkQcnUUp9AzkUk) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/27Y8ucj3Ev56vnIRSSMik9), [Valkyria](https://open.spotify.com/artist/6VBtv6VrmPo7gew0XeYsTc) | [The Rebellion of Phantom](https://open.spotify.com/album/4k11gYcrFxakAe1KUTgekq) | 3:09 |
+| 471 | [The Rebellion of Phantom \(feat\. Valkyria\)](https://open.spotify.com/track/75epRWAPKkQcnUUp9AzkUk) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/27Y8ucj3Ev56vnIRSSMik9), [Valkyria](https://open.spotify.com/artist/6VBtv6VrmPo7gew0XeYsTc) | [The Rebellion of Phantom \(feat\. Valkyria\)](https://open.spotify.com/album/4k11gYcrFxakAe1KUTgekq) | 3:09 |
 | 472 | [Σ](https://open.spotify.com/track/2wRJJmO7asfbXAwV5gM0Gu) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF), [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Σ](https://open.spotify.com/album/1kYUxP4zxRGWc1ltk3OTN6) | 3:12 |
-| 473 | [Trust](https://open.spotify.com/track/7aZgI3GxFaG30wPGULyOQp) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [Takenobu Mitsuyoshi](https://open.spotify.com/artist/1sLhIu05mcFgoEb6XGpj8e) | [Trust](https://open.spotify.com/album/1iJc8xDAIhKtKTkh5CQDSx) | 3:56 |
+| 473 | [Trust \(feat\. Takenobu Mitsuyoshi\)](https://open.spotify.com/track/7aZgI3GxFaG30wPGULyOQp) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [Takenobu Mitsuyoshi](https://open.spotify.com/artist/1sLhIu05mcFgoEb6XGpj8e) | [Trust](https://open.spotify.com/album/1iJc8xDAIhKtKTkh5CQDSx) | 3:56 |
 | 474 | [Invader](https://open.spotify.com/track/3fqZFAPnIpjaj6jUyYQqfe) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Invader](https://open.spotify.com/album/7ewDr1TUJkAz4XUxYK9wvM) | 3:05 |
 | 475 | [Megaton Keeper](https://open.spotify.com/track/1CtgRicif5nWA8PtHYpong) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Megaton Keeper](https://open.spotify.com/album/69EtcHr0ZoozvpmLhsRD4c) | 3:04 |
 | 476 | [Movin'](https://open.spotify.com/track/3bfvb1tJO1RnfuvErCSjE4) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Movin'](https://open.spotify.com/album/4g5awkletRkNllUUG1Sl2L) | 3:23 |

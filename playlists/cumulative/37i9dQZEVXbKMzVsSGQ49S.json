@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -1322,6 +1322,28 @@
       "duration_ms": 308964,
       "name": "Aldrei f\u00f3r \u00e9g su\u00f0ur",
       "url": "https://open.spotify.com/track/1CgAtuiKeyrqFSeRT8tBHY"
+    },
+    {
+      "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "\u00de\u00f3runn Anton\u00eda",
+          "url": "https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Aldrei of seint",
+      "url": "https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0"
     },
     {
       "album": {
@@ -3885,6 +3907,32 @@
     },
     {
       "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Luigi",
+          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+        },
+        {
+          "name": "Biddi",
+          "url": "https://open.spotify.com/artist/2xz0NYP15eQkAVX0NwXcmX"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "Betra part\u00fd",
+      "url": "https://open.spotify.com/track/6ueoaH3Id7USsN5hpqHZZ2"
+    },
+    {
+      "album": {
         "name": "Hot Ones",
         "url": "https://open.spotify.com/album/3t3PuDAYUmTqfqUvq7apZO"
       },
@@ -5430,7 +5478,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 123576,
       "name": "B\u00ed b\u00ed og blaka",
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
@@ -7585,6 +7633,28 @@
     },
     {
       "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Klara Einarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/24QZmPL6L4QyTsU0MJTqwz"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180501,
+      "name": "Dansa vi\u00f0 mig",
+      "url": "https://open.spotify.com/track/2z5kdB5g67wQFPr1to2HXA"
+    },
+    {
+      "album": {
         "name": "Demotape 01",
         "url": "https://open.spotify.com/album/7ER6fzhCU5aJE9SNNTlkKd"
       },
@@ -9043,6 +9113,24 @@
     },
     {
       "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189107,
+      "name": "Draumaprins",
+      "url": "https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS"
+    },
+    {
+      "album": {
         "name": "1000 or\u00f0",
         "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
       },
@@ -9822,7 +9910,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 181714,
       "name": "Eftir klukkan 3",
       "url": "https://open.spotify.com/track/3EHN0tqUFMoVh72trulpWv"
@@ -11851,6 +11939,24 @@
     },
     {
       "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180328,
+      "name": "Fegurstu Bl\u00f3min Vaxa Villt",
+      "url": "https://open.spotify.com/track/4MvYscYDsTEMF4mleYceGK"
+    },
+    {
+      "album": {
         "name": "Fegur\u00f0ardrottning",
         "url": "https://open.spotify.com/album/2I2pC9xJdms4lvLeQ66ahY"
       },
@@ -13106,7 +13212,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -13861,6 +13967,24 @@
     },
     {
       "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181695,
+      "name": "Gemm\u00e9r Gemm\u00e9r",
+      "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
+    },
+    {
+      "album": {
         "name": "Gemm\u00e9r Gemm\u00e9r",
         "url": "https://open.spotify.com/album/7LJEDCRPzOWRbWbNgtx5zP"
       },
@@ -13872,7 +13996,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO"
@@ -15032,7 +15156,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
@@ -17279,6 +17403,28 @@
     },
     {
       "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Luigi",
+          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119520,
+      "name": "HubbaBubba",
+      "url": "https://open.spotify.com/track/6k0nYbjKbuhMIBxheISfwp"
+    },
+    {
+      "album": {
         "name": "Hugsa Bara Um \u00deig",
         "url": "https://open.spotify.com/album/1VIieGdsxCMVAI4z923Abt"
       },
@@ -17490,7 +17636,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
@@ -18174,7 +18320,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -20921,6 +21067,24 @@
     },
     {
       "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195464,
+      "name": "Krumla",
+      "url": "https://open.spotify.com/track/7yrXhrDYVS95g4MaTpfccn"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2cPCnpz36SsJD1kn1ONwOI"
       },
@@ -21516,6 +21680,24 @@
       "duration_ms": 221910,
       "name": "Leigjendur taka h\u00f6ggi\u00f0",
       "url": "https://open.spotify.com/track/2bgTWGjoMbf59AYbtNJQEZ"
+    },
+    {
+      "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130392,
+      "name": "Leikkona",
+      "url": "https://open.spotify.com/track/3KF2ggQWnAJV5QyK0PbJu3"
     },
     {
       "album": {
@@ -26376,7 +26558,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -27100,7 +27282,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -27264,6 +27446,24 @@
       "duration_ms": 251733,
       "name": "N\u00fdjar H\u00e6\u00f0ir (feat. H\u00f6gni)",
       "url": "https://open.spotify.com/track/6bFnPQPOpfI4JqlhfJ5Ukk"
+    },
+    {
+      "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142860,
+      "name": "Obbos\u00ed",
+      "url": "https://open.spotify.com/track/4S5w96rbUwCh0qkNxs2OFu"
     },
     {
       "album": {
@@ -28968,6 +29168,24 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "Pehli Baar | Aizaz",
+        "url": "https://open.spotify.com/album/48E1MbipR1rc8RSMWZF2Nl"
+      },
+      "artists": [
+        {
+          "name": "Aizaz Ahmad",
+          "url": "https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Pehli Baar | Aizaz",
+      "url": "https://open.spotify.com/track/1oxlbzIknfsaqVpEhEq4hH"
     },
     {
       "album": {
@@ -31827,6 +32045,24 @@
     },
     {
       "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219519,
+      "name": "R\u00falletta",
+      "url": "https://open.spotify.com/track/0sif2VCq50LdzkNfqIKFEM"
+    },
+    {
+      "album": {
         "name": "R\u00falletta",
         "url": "https://open.spotify.com/album/1IGqRqlhhFraZuFv2zeSzg"
       },
@@ -33456,7 +33692,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 177920,
       "name": "Sk\u00edna",
       "url": "https://open.spotify.com/track/6srY1H4DrPVgvSD1asK0Og"
@@ -34278,7 +34514,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -35260,6 +35496,24 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191927,
+      "name": "Stingi\u00f0 Henni \u00ed Steininn",
+      "url": "https://open.spotify.com/track/3odEGSOVqnsnScigAvWpgr"
     },
     {
       "album": {
@@ -36802,7 +37056,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -37952,7 +38206,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -38383,6 +38637,28 @@
     },
     {
       "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Luigi",
+          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110388,
+      "name": "Til hamingju \u00cdSLAND (\u00dej\u00f3\u00f0s\u00f6ngur)",
+      "url": "https://open.spotify.com/track/1UlT7geksowuLjvuA0UuGr"
+    },
+    {
+      "album": {
         "name": "Til \u00ed allt, Pt. III",
         "url": "https://open.spotify.com/album/09KYxBRoopLruITkHnv69i"
       },
@@ -38402,7 +38678,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -39516,7 +39792,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 226040,
       "name": "T\u00c1RIN M\u00cdN",
       "url": "https://open.spotify.com/track/0vl4X2KwtNwlf6VLlgJiUX"
@@ -39862,7 +40138,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 150588,
       "name": "UNA BOKA",
       "url": "https://open.spotify.com/track/3wSZvk3xWv2bzUpUAalO55"
@@ -40218,6 +40494,24 @@
       "duration_ms": 234186,
       "name": "UPP \u00c1 N\u00ddTT (feat. Daniil)",
       "url": "https://open.spotify.com/track/3e8qhPz2KzurmIMhQmTMGY"
+    },
+    {
+      "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38432,
+      "name": "Upphaf",
+      "url": "https://open.spotify.com/track/02TncUYF9edQCslkm73m24"
     },
     {
       "album": {
@@ -42132,7 +42426,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -43898,7 +44192,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 125410,
       "name": "\u00c9g veit \u00fea\u00f0 var \u00e9g",
       "url": "https://open.spotify.com/track/6VlmUWj5kWZ1POwYPEjWFS"
@@ -44302,6 +44596,28 @@
       "duration_ms": 186750,
       "name": "\u00d8ve Os P\u00e5 Hinanden",
       "url": "https://open.spotify.com/track/5KLDajsSLvA5n2zTwKycvF"
+    },
+    {
+      "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "Klara Einarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/24QZmPL6L4QyTsU0MJTqwz"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "\u00dalalla",
+      "url": "https://open.spotify.com/track/4uIeDBXrW1Q7FX8ZzVF95w"
     },
     {
       "album": {
@@ -44770,7 +45086,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

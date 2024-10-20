@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "This is Skillet. The essential tracks, all in one playlist.",
+  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
   "name": "This Is Skillet",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 216799,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li"
+    },
+    {
+      "album": {
+        "name": "Ash In The Wind",
+        "url": "https://open.spotify.com/album/2ahQYAusTbXq6T37q2F7U3"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232054,
+      "name": "Ash In The Wind",
+      "url": "https://open.spotify.com/track/6jdglDjPye3bN8IyHH2WVa"
     },
     {
       "album": {

@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "What's Your Favorite Scary Movie?",
+        "url": "https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U"
+      },
+      "artists": [
+        {
+          "name": "Alden Derck",
+          "url": "https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC"
+        },
+        {
+          "name": "Shannon Sheridan",
+          "url": "https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129063,
+      "name": "Killers Walk",
+      "url": "https://open.spotify.com/track/7vKWix5Csqu54sC0EmvB3Z"
+    },
+    {
+      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },

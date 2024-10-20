@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 13226,
+  "num_followers": 13242,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHwYAAAAAB3nAFySxhC7LhusZaAv0JU",
+  "snapshot_id": "ZxOjBAAAAAA9Vca8Cm3TF1+7myNCTg14",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -469,6 +469,26 @@
       "url": "https://open.spotify.com/track/03nlIEXvxmpxrXjLEeVHod"
     },
     {
+      "added_at": "2024-10-19 12:16:04",
+      "album": {
+        "name": "ALZHEIMER",
+        "url": "https://open.spotify.com/album/2hlU5GiGGW3vpJqcwp8FqT"
+      },
+      "artists": [
+        {
+          "name": "Aravind Karneeswaran",
+          "url": "https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi"
+        },
+        {
+          "name": "Nalini Vittobane",
+          "url": "https://open.spotify.com/artist/2pjoz2hSTb0TtHh9xbnyAN"
+        }
+      ],
+      "duration_ms": 160928,
+      "name": "ALZHEIMER",
+      "url": "https://open.spotify.com/track/2WDhkon2LhFpUPWvAwqpwL"
+    },
+    {
       "added_at": "2024-09-18 12:06:53",
       "album": {
         "name": "Life Of Yazhini",
@@ -777,26 +797,6 @@
       "url": "https://open.spotify.com/track/50hu3q96SgLFhhDX4Hm8ed"
     },
     {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "Uruttu Uruttu",
-        "url": "https://open.spotify.com/album/0YmU1IZqFjnI6QKhZbmLSw"
-      },
-      "artists": [
-        {
-          "name": "Subrah G",
-          "url": "https://open.spotify.com/artist/199NjKDzHJBjcV5WhD9sfb"
-        },
-        {
-          "name": "A1 Shiva Cva",
-          "url": "https://open.spotify.com/artist/0VfZH0lV4DXyTZ6bcfy4XB"
-        }
-      ],
-      "duration_ms": 164689,
-      "name": "Uruttu Uruttu",
-      "url": "https://open.spotify.com/track/68BidjVCVb4H4VoHHYGnd9"
-    },
-    {
       "added_at": "2024-08-09 13:37:15",
       "album": {
         "name": "Annakkiliye - Giant Music India - Originals",
@@ -835,26 +835,6 @@
       "duration_ms": 260385,
       "name": "Thakida Thaha Thaha",
       "url": "https://open.spotify.com/track/08pNMQbnifUtYFWRWzHVBc"
-    },
-    {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "POO VIZHI NEEYE",
-        "url": "https://open.spotify.com/album/1uUYBE0o8k1kqQeVFIh6rt"
-      },
-      "artists": [
-        {
-          "name": "V. Kiran Varsith",
-          "url": "https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP"
-        },
-        {
-          "name": "sharath ji",
-          "url": "https://open.spotify.com/artist/3qlYohva8bcShQYabPfeIM"
-        }
-      ],
-      "duration_ms": 131276,
-      "name": "POO VIZHI NEEYE",
-      "url": "https://open.spotify.com/track/6CwSUfM95NTT9Ocr25dHNH"
     },
     {
       "added_at": "2024-08-30 06:29:43",
@@ -911,22 +891,6 @@
       "duration_ms": 197267,
       "name": "Manithan",
       "url": "https://open.spotify.com/track/3P4zBK6zZoi3UkQnLGqWkW"
-    },
-    {
-      "added_at": "2024-07-31 14:10:28",
-      "album": {
-        "name": "Agaladhu",
-        "url": "https://open.spotify.com/album/25NIqVyEhp9CtoTR6iozCU"
-      },
-      "artists": [
-        {
-          "name": "V. Kiran Varsith",
-          "url": "https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP"
-        }
-      ],
-      "duration_ms": 202698,
-      "name": "Agaladhu",
-      "url": "https://open.spotify.com/track/5Dv7lp6wfSPwhT2lOy9jj9"
     },
     {
       "added_at": "2024-08-09 13:41:48",

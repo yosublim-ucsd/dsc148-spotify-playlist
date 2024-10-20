@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-119 songs - 8 hr 28 min
+120 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 | 2021-09-14 | 2023-09-30 |
 | [もってけ！セーラーふく](https://open.spotify.com/track/3n4TCwKfovQ3Nk69xHtckX) | [泉こなた \(CV.平野 綾\)](https://open.spotify.com/artist/2F12oF9POUk0jRnD4VqJz3), [柊かがみ \(CV.加藤英美里\)](https://open.spotify.com/artist/1g0srKaYp8951BspEDglIL), [柊つかさ \(CV.福原香織\)](https://open.spotify.com/artist/2ZBfIW1wsI2zkafMkjfS2l), [高良みゆき \(CV.遠藤 綾\)](https://open.spotify.com/artist/4JNh7XheWcIo80Prur4E3l) | [もってけ！セーラーふく](https://open.spotify.com/album/6JV6m2A48fSMYx1B9MRhey) | 4:18 | 2024-01-31 |  |
 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 | 2021-09-14 |  |
+| [ウィーアー!](https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーアー! \(TVアニメ『ONE PIECE』オープニングテーマ\)](https://open.spotify.com/album/2vcNw2eDoavdqNTPVZ8T6u) | 4:01 | 2024-10-19 |  |
 | [ウィーアー! \- for the new world](https://open.spotify.com/track/3F4d2nGPOSt89ZC1uwgApQ) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ONE PIECE ウィーアー!Song Complete](https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez) | 3:58 | 2024-01-31 | 2024-04-19 |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2021-09-14 |  |
 | [ウンディーネ](https://open.spotify.com/track/41EFjyvs5g7Ga3ii1kE2aa) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [『ARIA The ANIMATION』オープニングテーマ「ウンディーネ」](https://open.spotify.com/album/6wiX5nusCOYJ446P01ExbW) | 5:45 | 2021-09-14 | 2022-07-07 |

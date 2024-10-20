@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 749797,
+  "num_followers": 750007,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "All I Need To Hear",
-        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 299253,
       "name": "Conversation Piece",
       "url": "https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
+        "name": "All I Need To Hear",
+        "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
     },
     {
       "added_at": "2024-10-10 08:46:55",
@@ -923,6 +923,38 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
+        "name": "Split Screen",
+        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 303005,
+      "name": "Split Screen",
+      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -955,38 +987,6 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Split Screen",
-        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 303005,
-      "name": "Split Screen",
-      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
         "name": "Nothing But Thieves (Track by Track)",
         "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 383506,
-      "name": "The Little Things Give You Away",
-      "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
         "name": "All You're Dreaming Of",
         "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 383506,
+      "name": "The Little Things Give You Away",
+      "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
     },
     {
       "added_at": "2024-10-10 08:46:55",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "A Thousand Suns (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236079,
       "name": "Machines",
       "url": "https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
+        "name": "A Thousand Suns (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "The Messenger",
+      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
     },
     {
       "added_at": "2024-10-10 08:46:55",

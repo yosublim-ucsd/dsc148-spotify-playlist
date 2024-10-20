@@ -1,12 +1,12 @@
 {
   "description": "This Is Sebastian Esquivel. Los temas esenciales, todos en una lista.",
-  "num_followers": 1272,
+  "num_followers": 1276,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAABQQFw9QGyg/ebfHdgS40eR",
+  "snapshot_id": "ZxGlAAAAAACKiZ3RkKD7Q6EGK+G3+0x4",
   "tracks": [
     {
       "added_at": null,
@@ -335,30 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tirando Flow Sesh #9",
-        "url": "https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Tirando Flow Sesh #9",
-      "url": "https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
       },
@@ -379,6 +355,30 @@
       "duration_ms": 179000,
       "name": "Adiamantado",
       "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tirando Flow Sesh #9",
+        "url": "https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Tirando Flow Sesh #9",
+      "url": "https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0"
     },
     {
       "added_at": null,

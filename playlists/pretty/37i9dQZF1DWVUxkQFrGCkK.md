@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > AP x CC
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,234 likes - 343 songs - 23 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,390 likes - 343 songs - 23 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

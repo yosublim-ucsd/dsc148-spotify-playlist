@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 104979,
+  "num_followers": 104999,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -563,30 +563,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Parlante",
-        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        },
-        {
-          "name": "Valles T",
-          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
-        },
-        {
-          "name": "Raymond Daniel",
-          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "Parlante",
-      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Amor Puro (feat. La Banda Baston)",
         "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 215373,
       "name": "Amor Puro (feat. La Banda Baston)",
       "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Escaleras y Serpientes",
+        "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
+      },
+      "artists": [
+        {
+          "name": "Metrik Vader",
+          "url": "https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T"
+        }
+      ],
+      "duration_ms": 192046,
+      "name": "Escaleras y Serpientes",
+      "url": "https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "La Caza de Nari\u00f1o",
         "url": "https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 221590,
       "name": "La Caza de Nari\u00f1o",
       "url": "https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Escaleras y Serpientes",
-        "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
-      },
-      "artists": [
-        {
-          "name": "Metrik Vader",
-          "url": "https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T"
-        }
-      ],
-      "duration_ms": 192046,
-      "name": "Escaleras y Serpientes",
-      "url": "https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
       "artists": [
         {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
       "artists": [
         {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Tiempos Felices",
         "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 201399,
       "name": "Tiempos Felices",
       "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f"
+        "name": "Inedito",
+        "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
       },
       "artists": [
         {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
         }
       ],
-      "duration_ms": 211181,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45"
+      "duration_ms": 167826,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Inedito",
-        "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f"
       },
       "artists": [
         {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 167826,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
+      "duration_ms": 211181,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45"
     },
     {
       "added_at": "2024-09-06 06:00:00",

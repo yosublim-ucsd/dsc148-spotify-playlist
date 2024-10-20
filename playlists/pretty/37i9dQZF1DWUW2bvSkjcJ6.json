@@ -1,6 +1,6 @@
 {
   "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. Cover: Gracie Abrams",
-  "num_followers": 822018,
+  "num_followers": 822049,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
@@ -506,6 +506,10 @@
         {
           "name": "Juh-Dee",
           "url": "https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB"
+        },
+        {
+          "name": "Young Mesh",
+          "url": "https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys"
         }
       ],
       "duration_ms": 208000,

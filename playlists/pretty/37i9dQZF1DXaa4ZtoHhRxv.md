@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,793 likes - 176 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,821 likes - 176 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 39 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 40 | [World on Fire \- VAVO Remix](https://open.spotify.com/track/7uzhzMMLvN8GKb0JhBs1uc) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [World on Fire \(VAVO Remix\)](https://open.spotify.com/album/55hKzA1ahojcAZL1ukmRmB) | 2:33 |
 | 41 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
-| 42 | [Cicadas](https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [coasty](https://open.spotify.com/artist/1TpERmCQoHamDjcKNve76g) | [Cicadas](https://open.spotify.com/album/514A89AJBBRebXUNUTVlES) | 3:43 |
+| 42 | [Cicadas](https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [coasty](https://open.spotify.com/artist/2yvhvBMATIOiEwXOWiktUS) | [Cicadas](https://open.spotify.com/album/514A89AJBBRebXUNUTVlES) | 3:43 |
 | 43 | [I Can Feel It \- VAVO Remix](https://open.spotify.com/track/1lvILjcPM1uxURvBLZzucr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [I Can Feel It \(VAVO Remix\)](https://open.spotify.com/album/1Wm3T2shJsILJjd5S3G6nN) | 2:25 |
 | 44 | [Country Girls \(Just Wanna Have Fun\) \- Remix](https://open.spotify.com/track/1o4745mecWP3CXw4uLSfJA) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Julian Bunetta](https://open.spotify.com/artist/6sa3Tk9jumQUIv9VBbH2x4) | [Country Girls \(Just Wanna Have Fun\) \[Remix\]](https://open.spotify.com/album/2jkqKUkGk9UJGuUFjqe9r7) | 2:55 |
 | 45 | [Friday Night](https://open.spotify.com/track/16CoJMdBSUp0Dxd8wZdO1a) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Friday Night](https://open.spotify.com/album/3nDSqKrO5YcHjZzT2q7HO5) | 2:40 |

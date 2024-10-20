@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado electrónico del indie latino, featuring Rubio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,278 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,282 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 25 | [Peligrosa \(Version Aerobica\)](https://open.spotify.com/track/6SG64UrZqNk7aXx8p4jj8p) | [Aerobica](https://open.spotify.com/artist/0Vdpq1MzMW6xiHjnrRb0bl), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9), [Pepo Fernandez](https://open.spotify.com/artist/0DR47gYDjSGYu5euwMRCmP), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Peligrosa \(Version Aerobica\)](https://open.spotify.com/album/2tPMHTtb0ycCVaAY5aQxRb) | 4:03 |
 | 26 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 |
 | 27 | [Acércate](https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2) | [BADS](https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3) | [Acércate](https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p) | 2:44 |
-| 28 | [No Llores](https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [No Llores](https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN) | 2:58 |
+| 28 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
 | 29 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
 | 30 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 |
-| 31 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
+| 31 | [No Llores](https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [No Llores](https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN) | 2:58 |
 | 32 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 |
 | 33 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
 | 34 | [La virgen de los vientos](https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [La virgen de los vientos](https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3) | 2:42 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 74 | [KRAUT!](https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [KRAUT!](https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS) | 3:28 |
 | 75 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 |
 | 76 | [¿De Qué Sirve?](https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P), [Lnt\. Noire](https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt) | [ONÍRIKA](https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b) | 4:40 |
-| 77 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
-| 78 | [Arde](https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh) | [dinastia](https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Arde](https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX) | 2:59 |
+| 77 | [Arde](https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh) | [dinastia](https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Arde](https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX) | 2:59 |
+| 78 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
 | 79 | [Vitamina](https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vitamina](https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz) | 4:09 |
 | 80 | [dionysian](https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [dionysian](https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz) | 3:10 |
 | 81 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 97 | [Remaches \- DJ TOI Remix](https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX) | [Manu Pozzi](https://open.spotify.com/artist/0CjS0CI9NnpXEhaS1FHJD0), [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [DJ TOI](https://open.spotify.com/artist/3UE19UJo9qBsSTQePdjFqz) | [Remaches \(DJ TOI Remix\)](https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK) | 3:45 |
 | 98 | [Cómo puedes vivir contigo mismo?](https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [Isla Queer](https://open.spotify.com/album/7iolsNkag4a3VAbmZTRSh8) | 3:58 |
 | 99 | [Hoy me di cuenta](https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz) | 3:22 |
-| 100 | [Morbo](https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh) | [Morbo](https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD) | 3:43 |
+| 100 | [fribRitni](https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [fribRitni](https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN) | 3:16 |
 
 Snapshot ID: `Zw1u5QAAAADhiRxMms6hf4AmdTbRhetv`

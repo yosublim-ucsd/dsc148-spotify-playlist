@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: James Alyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,980 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,989 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 7 | [RIGHT/WRONG \- feat\. Jimmy Brown](https://open.spotify.com/track/1uQyHTf0rUAjSp3lPzTJ8M) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [RIGHT/WRONG \(feat\. Jimmy Brown\)](https://open.spotify.com/album/1lizldjBkOUNHdgveJnxmO) | 3:02 |
 | 8 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
 | 9 | [OTNW](https://open.spotify.com/track/0GxBWLwTRnpM6HUTu6Kde0) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [OTNW](https://open.spotify.com/album/0ppXruu0u7FQSSC5emQMMQ) | 3:26 |
-| 10 | [No Control](https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Focus](https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR) | 2:50 |
+| 10 | [No Control \(feat\. E.V.P & Charlu\)](https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Focus](https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR) | 2:50 |
 | 11 | [On Your Own](https://open.spotify.com/track/7cR4MDCGlxveEjymmRuufe) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE) | [On Your Own](https://open.spotify.com/album/5aLoS7nVdZqaXCtSVFeMEA) | 2:46 |
 | 12 | [RIDE](https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [RIDE](https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV) | 3:11 |
 | 13 | [Misty Lady](https://open.spotify.com/track/5xzgh9o1HnqTtVoEPbFP6F) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Ahh\-G](https://open.spotify.com/artist/3yfEuVkzesPhMTPKZCH04k) | [Misty Lady](https://open.spotify.com/album/6yu1cmlpr8AvizsRklhm6X) | 4:19 |

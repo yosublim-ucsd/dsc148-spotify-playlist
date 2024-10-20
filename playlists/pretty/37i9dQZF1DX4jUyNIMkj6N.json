@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 207278,
+  "num_followers": 207308,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "The State of the World",
-        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "The State of the World",
-      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "A Dangerous Thing",
         "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "The State of the World",
+        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "The State of the World",
+      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Doves",
-        "url": "https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 251180,
-      "name": "Doves",
-      "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 251180,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Well, that's all for now..",
-        "url": "https://open.spotify.com/album/6owLx9Zwb6lnzDIt2sBzQy"
-      },
-      "artists": [
-        {
-          "name": "Crawly",
-          "url": "https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "Well, that's all for now..",
-      "url": "https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 244381,
       "name": "Asymmetry",
       "url": "https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Well, that's all for now..",
+        "url": "https://open.spotify.com/album/6owLx9Zwb6lnzDIt2sBzQy"
+      },
+      "artists": [
+        {
+          "name": "Crawly",
+          "url": "https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Well, that's all for now..",
+      "url": "https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg"
     },
     {
       "added_at": "2024-10-17 22:00:00",

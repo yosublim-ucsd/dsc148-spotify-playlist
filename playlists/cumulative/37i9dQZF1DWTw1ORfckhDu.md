@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Turisti.
 
-715 songs - 1 day 10 hr 0 min
+716 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bodega](https://open.spotify.com/track/50AESPBW3vrVKjUnf22Pdw) | [Ex Tuuttiz](https://open.spotify.com/artist/6TBeJTfilwR1QNgWuHyB6A), [Paperi T](https://open.spotify.com/artist/0sLydYzA0gqae7fKYtVsur) | [XT](https://open.spotify.com/album/5chlFQ1V6XN8tcScD0A7LI) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Bonafide](https://open.spotify.com/track/1S2B20Nqklu83ZYtu75cUa) | [OPA](https://open.spotify.com/artist/3I5cS6X8oCNIwEFbAjfLGw) | [Bonafide](https://open.spotify.com/album/1uiLIZigsnwlf5LU2oHaYw) | 2:07 | 2023-11-23 | 2023-12-08 |
 | [Bossittelee](https://open.spotify.com/track/7iNhtoOpkxTH554AvE9l77) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR), [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Bossittelee](https://open.spotify.com/album/5OMGMoLZzdkF5sPgc1iPWq) | 2:15 | 2024-01-04 | 2024-01-26 |
+| [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 | 2024-10-19 |  |
 | [Bumerangi](https://open.spotify.com/track/5OmEynQM0uAZN0RoxcxZdN) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Bumerangi](https://open.spotify.com/album/5WGKUg8xCORjijuzcI10pP) | 2:45 | 2024-04-25 | 2024-05-03 |
 | [Bye Bye](https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Bye Bye](https://open.spotify.com/album/1cvqApVnrJMcmZYLDywB5L) | 2:29 | 2023-09-21 | 2023-10-27 |
 | [Bye Bye \(feat\. SHRTY\)](https://open.spotify.com/track/3iOp9LuiYzx5E6Yyu0hNcf) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Disco Maghreb](https://open.spotify.com/album/4AoEmOOUJN0safxtjYo8eN) | 2:25 | 2024-01-18 | 2024-02-23 |
@@ -312,7 +313,7 @@
 | [Lain yläpuolella](https://open.spotify.com/track/2peyUaFwHmLpGVsWWphKtJ) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Lain yläpuolella](https://open.spotify.com/album/2r0Knv2X5jM4XD3kv79l0H) | 2:34 | 2023-12-28 | 2024-01-12 |
 | [Lalala](https://open.spotify.com/track/0zpt6C9zoeoQdeaCgsVKax) | [$auli](https://open.spotify.com/artist/1c8ko0XPXmns7XKIR78iNI) | [Lalala](https://open.spotify.com/album/1gLH0g2dKipKIUnkb1faBd) | 2:16 | 2024-01-18 | 2024-02-02 |
 | [Lambo \(feat\. VJ\)](https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Lambo \(feat\. VJ\)](https://open.spotify.com/album/0KpXeYkbN15bBnD3ITxnup) | 2:10 | 2023-09-21 | 2024-01-19 |
-| [Lasikatot helisee](https://open.spotify.com/track/3a1V6TwWIPLJsCI8kERq0J) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny), [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN) | [Lasikatot helisee](https://open.spotify.com/album/1cB3iwl2bqW5peyVIlSykT) | 2:56 | 2024-09-26 |  |
+| [Lasikatot helisee](https://open.spotify.com/track/3a1V6TwWIPLJsCI8kERq0J) | [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny), [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN) | [Lasikatot helisee](https://open.spotify.com/album/1cB3iwl2bqW5peyVIlSykT) | 2:56 | 2024-09-26 | 2024-10-20 |
 | [Lately](https://open.spotify.com/track/7zTCmhbQXfHW1GSozf0GWq) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Lately](https://open.spotify.com/album/5D0pdqxE2fgm2KDKkOPMju) | 2:29 | 2024-02-01 | 2024-04-05 |
 | [Lattiast kattoon \(feat\. Kube\)](https://open.spotify.com/track/0baRHyknQv1ui5GlHVLGvO) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Lattiast kattoon \(feat\. Kube\)](https://open.spotify.com/album/12NYWLhQl25BMBpANqRgUI) | 2:00 | 2023-11-16 | 2024-01-26 |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 |  |

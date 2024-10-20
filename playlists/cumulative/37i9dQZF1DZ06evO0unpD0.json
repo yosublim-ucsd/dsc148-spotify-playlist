@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 394040,
       "name": "Bithi\u00e9loul\u00e9",
       "url": "https://open.spotify.com/track/0MIDNOaei1vflCzmXWX0ez"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 442546,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/1bhld9Fgp9UClF0xHCPFpB"
@@ -1802,6 +1802,48 @@
       "duration_ms": 150000,
       "name": "Yamore - Edit Version",
       "url": "https://open.spotify.com/track/1y62v08lkqdPTBj7si8tnA"
+    },
+    {
+      "album": {
+        "name": "Yamore (Remix)",
+        "url": "https://open.spotify.com/album/37KUHRtoiijZAiHHCLfwDT"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Andre Soueid",
+          "url": "https://open.spotify.com/artist/0D2ke0lhGy6KJY9ING1BWt"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185853,
+      "name": "Yamore - Francis Mercier & Andr\u00e9 Soueid Remix",
+      "url": "https://open.spotify.com/track/5Gh1sRSd3xCy60htr68h2P"
     },
     {
       "album": {

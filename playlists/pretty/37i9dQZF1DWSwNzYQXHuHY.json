@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9906,
+  "num_followers": 9915,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Really Like You",
-        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
-      },
-      "artists": [
-        {
-          "name": "Gyubin",
-          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Really Like You",
-      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "Really Like You",
+        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Really Like You",
+      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "5.4 [My Ultimate First Love]",
-        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 266146,
-      "name": "My Ultimate First Love",
-      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "Flower Shop2",
         "url": "https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 198986,
       "name": "Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone \u25cf",
       "url": "https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "5.4 [My Ultimate First Love]",
+        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "My Ultimate First Love",
+      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Love Diary (Back to You X Lee MinHyuk)",
-        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Love Diary (Back to You X Lee MinHyuk)",
-      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "Winter Dance",
         "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 165504,
       "name": "Winter Dance",
       "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "Love Diary (Back to You X Lee MinHyuk)",
+        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Love Diary (Back to You X Lee MinHyuk)",
+      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -803,22 +803,6 @@
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
-        "name": "about you",
-        "url": "https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 170556,
-      "name": "about you",
-      "url": "https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -867,6 +851,22 @@
       "duration_ms": 227936,
       "name": "I pray",
       "url": "https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "about you",
+        "url": "https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 170556,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ"
     }
   ],
   "unique_name": "\uc378 (Something)",

@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 205714,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/1ATLkckuO7t1xb6KY4s72I"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 131666,
       "name": "Ice + Alabaster",
       "url": "https://open.spotify.com/track/01OCztdBtk4POwQcqV1LrZ"
@@ -6790,7 +6790,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 177936,
       "name": "Porque Te Vas (Versi\u00f3n Rock)",
       "url": "https://open.spotify.com/track/6vN2pBbBRBW5Qjj1FGgdOt"
@@ -7342,7 +7342,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 296520,
       "name": "She Knows (feat. Amber Coffman & Cults)",
       "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
@@ -8617,6 +8617,24 @@
     },
     {
       "album": {
+        "name": "Time Away",
+        "url": "https://open.spotify.com/album/3hFwSlA5gPgXPX6yhzfSRG"
+      },
+      "artists": [
+        {
+          "name": "T-Fest",
+          "url": "https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "Time Away",
+      "url": "https://open.spotify.com/track/1W2fRCWVpaf3iWrgLtYMCe"
+    },
+    {
+      "album": {
         "name": "TIMELESS (PLAYBOI CARTI x The Weeknd)",
         "url": "https://open.spotify.com/album/2D8KQTcItnpHWJXENHG5Dp"
       },
@@ -9494,7 +9512,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 129571,
       "name": "Why's this dealer?",
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
@@ -10134,7 +10152,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 178296,
       "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
@@ -12950,7 +12968,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 182410,
       "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"

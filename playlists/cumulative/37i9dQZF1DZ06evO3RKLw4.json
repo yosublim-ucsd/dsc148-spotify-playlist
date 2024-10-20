@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is Rancid. Los temas esenciales, todos en una lista.",
+  "description": "This is Rancid. The essential tracks, all in one playlist.",
   "name": "This Is Rancid",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 117426,
       "name": "Collision Course",
       "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
     },
     {
       "album": {
@@ -938,7 +956,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 72608,
       "name": "Mud, Blood, & Gold",
       "url": "https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr"

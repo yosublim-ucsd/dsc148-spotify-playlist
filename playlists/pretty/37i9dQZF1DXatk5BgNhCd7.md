@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,911 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,957 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 5 | [Te Juro Que No Es Verdad](https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Juro Que No Es Verdad](https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO) | 2:35 |
 | 6 | [Traicionera](https://open.spotify.com/track/1YQ1VvsYe94amaBUnRjqTf) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Traicionera](https://open.spotify.com/album/6FvuXJJtxBbQqFyq0vaZaL) | 4:17 |
 | 7 | [Mi Corazón Llora](https://open.spotify.com/track/73a9N13A7Mkxrdq47LnGC8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Mi Corazón Llora](https://open.spotify.com/album/5ZNDLZcbOhL20l8Ju0immk) | 4:42 |
-| 8 | [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:38 |
+| 8 | [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:26 |
 | 9 | [Contacto Cero](https://open.spotify.com/track/7uhr0pAyPPBSdw93e4k129) | [Martín Piña](https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Contacto Cero](https://open.spotify.com/album/36YdCO9jMHtrEf38bmbRmg) | 3:25 |
 | 10 | [Potra Salvaje \- En Vivo](https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Potra Salvaje \(En Vivo\)](https://open.spotify.com/album/40E1VjYtqDikeIF3xeKCSx) | 3:54 |
 | 11 | [Qué Pasará](https://open.spotify.com/track/7EzenviIy5W5aYgufLACx8) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Qué Pasará](https://open.spotify.com/album/4aZxXog7QS5lZulPpgBEdJ) | 3:23 |

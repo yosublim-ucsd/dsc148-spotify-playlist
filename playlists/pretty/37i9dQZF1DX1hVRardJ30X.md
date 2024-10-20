@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Sevdaliza & KAROL G, Chino Pacas, Myke Towers and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,779 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,910 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [Chingo de Amor](https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chingo de Amor](https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU) | 2:54 |
 | 40 | [Como Un Carnal](https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Como Un Carnal](https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb) | 3:54 |
 | 41 | [Una Silverado](https://open.spotify.com/track/7zq6AJwk9C5rInXqZzScNe) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Una Silverado](https://open.spotify.com/album/4nSIB6oH7qcu1ruRXBTCGK) | 2:34 |
-| 42 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
-| 43 | [Zoom](https://open.spotify.com/track/4XB0vg8h372nFERT8F9Gu6) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Me Siento Bien](https://open.spotify.com/album/3gbWES56diRCaLWDymMEWS) | 2:59 |
-| 44 | [Grandes Ligas](https://open.spotify.com/track/4ibM15u7bzwzIOUFLs6KQk) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Lyto mc](https://open.spotify.com/artist/5Fuv87Fq6c3Dvupev24pza) | [Grandes Ligas](https://open.spotify.com/album/7t4yBeykA5hA4eCBpotWlX) | 2:46 |
-| 45 | [El Terrible](https://open.spotify.com/track/69M82iE0wfYaVyU1ovdEyT) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Terrible](https://open.spotify.com/album/3yTjTVLl2LVqDATkAZu3HA) | 2:44 |
-| 46 | [MALANDRO](https://open.spotify.com/track/625kRIntCrK8tp6hKOL5SX) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [MALANDRO](https://open.spotify.com/album/5IquDCkbxbOkvQrZWWMZ8b) | 2:52 |
-| 47 | [Mamacita](https://open.spotify.com/track/1yfiT4JLd9X0Sf1A5E7fQa) | [Juanse Navarro](https://open.spotify.com/artist/6E8z9lR6UtCmQjmiEyLrRT) | [Mamacita](https://open.spotify.com/album/4MKtFIpNiaEGffoTbPQwrq) | 2:17 |
-| 48 | [RUMBA](https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [RUMBA](https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm) | 3:01 |
-| 49 | [heather](https://open.spotify.com/track/4sVRI3PHCcpYwrboeFSvs2) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [heather](https://open.spotify.com/album/7LZ9Kqu9xA6l0fS9trX5FZ) | 2:15 |
-| 50 | [diecinueve](https://open.spotify.com/track/69TOaKJ34sI5ocSPdFF3JV) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [diecinueve](https://open.spotify.com/album/0b3p30JXy2I2FGQV9WiqB1) | 3:29 |
+| 42 | [Rompela](https://open.spotify.com/track/27ln4TU2anmcOO0aeJTGb7) | [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5), [XxXAMARA](https://open.spotify.com/artist/1VjdLFveq6bjQYqGAbcHld) | [Rompela](https://open.spotify.com/album/1Unbhqt0jmJ9pjeVL8ccfV) | 1:57 |
+| 43 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
+| 44 | [Me Estoy Volviendo Loca](https://open.spotify.com/track/0V4gnLGNj3oxhcEMpBUUQL) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Mariachi Herencia De México](https://open.spotify.com/artist/1gplmH0orKJqIHGIOjhFPf) | [Me Estoy Volviendo Loca](https://open.spotify.com/album/3LtJN0MPJloTXd8imhMH98) | 3:56 |
+| 45 | [Zoom](https://open.spotify.com/track/4XB0vg8h372nFERT8F9Gu6) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Me Siento Bien](https://open.spotify.com/album/3gbWES56diRCaLWDymMEWS) | 2:59 |
+| 46 | [Grandes Ligas](https://open.spotify.com/track/4ibM15u7bzwzIOUFLs6KQk) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Lyto mc](https://open.spotify.com/artist/5Fuv87Fq6c3Dvupev24pza) | [Grandes Ligas](https://open.spotify.com/album/7t4yBeykA5hA4eCBpotWlX) | 2:46 |
+| 47 | [El Terrible](https://open.spotify.com/track/69M82iE0wfYaVyU1ovdEyT) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Terrible](https://open.spotify.com/album/3yTjTVLl2LVqDATkAZu3HA) | 2:44 |
+| 48 | [MALANDRO](https://open.spotify.com/track/625kRIntCrK8tp6hKOL5SX) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [MALANDRO](https://open.spotify.com/album/5IquDCkbxbOkvQrZWWMZ8b) | 2:52 |
+| 49 | [Mamacita](https://open.spotify.com/track/1yfiT4JLd9X0Sf1A5E7fQa) | [Juanse Navarro](https://open.spotify.com/artist/6E8z9lR6UtCmQjmiEyLrRT) | [Mamacita](https://open.spotify.com/album/4MKtFIpNiaEGffoTbPQwrq) | 2:17 |
+| 50 | [RUMBA](https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [RUMBA](https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm) | 3:01 |
+| 51 | [heather](https://open.spotify.com/track/4sVRI3PHCcpYwrboeFSvs2) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [heather](https://open.spotify.com/album/7LZ9Kqu9xA6l0fS9trX5FZ) | 2:15 |
+| 52 | [diecinueve](https://open.spotify.com/track/69TOaKJ34sI5ocSPdFF3JV) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [diecinueve](https://open.spotify.com/album/0b3p30JXy2I2FGQV9WiqB1) | 3:29 |
 
-Snapshot ID: `ZxHdQAAAAABEhPUvCC7sayzl+Qh1SauC`
+Snapshot ID: `ZxRgTwAAAADGzJbt1IutDopCg3RJRSUL`

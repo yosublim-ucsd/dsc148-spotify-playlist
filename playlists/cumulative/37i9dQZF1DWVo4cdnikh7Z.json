@@ -3571,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "Azadi (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193469,
+      "name": "Azadi (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n"
+    },
+    {
+      "album": {
         "name": "Azha Thonudhe (From \"Kaathuvaakula Rendu Kaadhal\")",
         "url": "https://open.spotify.com/album/2Hb0K7naIGma7VYHVQ5DYp"
       },
@@ -30666,7 +30688,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 189566,
       "name": "Theme Of Kalki (From \"Kalki 2898 AD\") (Tamil)",
       "url": "https://open.spotify.com/track/1bbOBvCjuXSg5iLKLvvl6s"

@@ -2,7 +2,7 @@
 
 ### [This Is GloRilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o1khY)
 
-> This Is GloRilla\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is GloRilla\. The essential tracks, all in one playlist.
 
 89 songs - 4 hr 14 min
 

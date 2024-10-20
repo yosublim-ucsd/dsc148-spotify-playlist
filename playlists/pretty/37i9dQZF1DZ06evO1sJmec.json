@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1983521,
+  "num_followers": 1983743,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAADC/goluNBCz9Z/FK8yivPe",
+  "snapshot_id": "ZxGlAAAAAACm7w5qFcy9BVKO5evnPCDj",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
       },
       "artists": [
         {
@@ -117,8 +117,8 @@
         }
       ],
       "duration_ms": 309973,
-      "name": "For Whom The Bell Tolls (Remastered)",
-      "url": "https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"
+      "name": "For Whom The Bell Tolls - Remastered",
+      "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
-  "description": "This Is Japanese Breakfast. Los temas esenciales, todos en una lista.",
-  "num_followers": 18832,
+  "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
+  "num_followers": 18836,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAABTV7Mu9rltnYAz6MybkxbH",
+  "snapshot_id": "ZxGlAAAAAABKSLKucp+uMC3X2LxR8HmP",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+    },
     {
       "added_at": null,
       "album": {

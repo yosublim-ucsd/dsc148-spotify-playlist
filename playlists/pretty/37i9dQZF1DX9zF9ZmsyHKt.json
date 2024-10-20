@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330923,
+  "num_followers": 330958,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Clementina De Jesus: Convidado Especial Carlos Cachaca",
-        "url": "https://open.spotify.com/album/1FiPPV8rmQWXij2zORY6Q2"
-      },
-      "artists": [
-        {
-          "name": "Clementina De Jesus",
-          "url": "https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Incompatilidade De G\u00eanios",
-      "url": "https://open.spotify.com/track/4m8AtjRFy5M50TGJ8SdTYn"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Falei de voc\u00ea pra minha m\u00e3e",
         "url": "https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 162929,
       "name": "Falei de voc\u00ea pra minha m\u00e3e",
       "url": "https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Clementina De Jesus: Convidado Especial Carlos Cachaca",
+        "url": "https://open.spotify.com/album/1FiPPV8rmQWXij2zORY6Q2"
+      },
+      "artists": [
+        {
+          "name": "Clementina De Jesus",
+          "url": "https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Incompatilidade De G\u00eanios",
+      "url": "https://open.spotify.com/track/4m8AtjRFy5M50TGJ8SdTYn"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rosa Amarela",
-        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Rosa amarela",
-      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Terra de Buda",
         "url": "https://open.spotify.com/album/0wkwNS0PZJ3bBWq9LgnDWj"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 205133,
       "name": "Terra de Buda",
       "url": "https://open.spotify.com/track/54Yx62stIuYNrkavyM1KPl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rosa Amarela",
+        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 198603,
+      "name": "Rosa amarela",
+      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     },
     {
       "added_at": "2022-10-07 03:01:33",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-286 songs - 14 hr 27 min
+287 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Moonrock](https://open.spotify.com/track/5iymZJAdr2OW29n16QedRX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Tamuz Dolev](https://open.spotify.com/artist/34NjR5azv5YNp48JsD9C1v) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 3:34 | 2024-03-20 | 2024-08-24 |
 | [morning breeze](https://open.spotify.com/track/7kcdNwp6DmPBeVaXvFkmFR) | [mar\-feliz](https://open.spotify.com/artist/2mzOhpj1B9Yc4ORHgsATmN) | [morning breeze](https://open.spotify.com/album/73MksrHyY1hxcLD8TRQ9tI) | 2:38 | 2024-06-07 |  |
 | [Mosaic](https://open.spotify.com/track/595AJZjDvLkExd9AtjN0QL) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Mosaic](https://open.spotify.com/album/6TtN2j15lxJMTv9xmmnd61) | 2:13 | 2024-09-27 |  |
+| [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-18 |  |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2023-08-22 |  |
 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 | 2023-08-22 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-08-22 | 2023-08-26 |
@@ -214,7 +215,7 @@
 | [Repose](https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Repose](https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5) | 2:28 | 2024-06-04 |  |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 |  |
 | [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 | 2023-09-22 |  |
-| [samthaube](https://open.spotify.com/track/2OGnDgENJD0nxPZLywANMJ) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [samthaube](https://open.spotify.com/album/5RhEe9lXAKS0cDvKMBjTWr) | 2:01 | 2024-10-04 |  |
+| [samthaube](https://open.spotify.com/track/2OGnDgENJD0nxPZLywANMJ) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [samthaube](https://open.spotify.com/album/5RhEe9lXAKS0cDvKMBjTWr) | 2:01 | 2024-10-04 | 2024-10-20 |
 | [Sapphire](https://open.spotify.com/track/4EZmaOxulwwYXoDTIjRUTl) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Sapphire](https://open.spotify.com/album/3l1BpaDK1dFnKJZ2m5ypDC) | 2:24 | 2023-08-22 |  |
 | [Saturnine](https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Saturnine](https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK) | 4:53 | 2023-08-22 | 2024-10-15 |
 | [Saucisses](https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Saucisses](https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0) | 2:27 | 2023-08-22 | 2024-09-29 |

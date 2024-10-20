@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. 🦋 Kannessa Pihlaja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,430 likes - 118 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,438 likes - 118 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 77 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 |
 | 78 | [Äidit ja tyttäret \(Vain elämää kausi 15\)](https://open.spotify.com/track/7ziylKZOTcUYeH57FLfLm9) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Äidit ja tyttäret \(Vain elämää kausi 15\)](https://open.spotify.com/album/4qN6iSxwZKJrUYj1g5RSmr) | 3:44 |
 | 79 | [Bye Bye Baby](https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bye Bye Baby](https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk) | 2:59 |
-| 80 | [GANSTA HURRI](https://open.spotify.com/track/1UAZ0BYREjIxnPZ8MFJ96B) | [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [GANSTA HURRI](https://open.spotify.com/album/4iIQjuVJVt1u00G0pYT6Sy) | 3:16 |
+| 80 | [GANGSTA HURRI](https://open.spotify.com/track/1UAZ0BYREjIxnPZ8MFJ96B) | [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [GANGSTA HURRI](https://open.spotify.com/album/4iIQjuVJVt1u00G0pYT6Sy) | 3:16 |
 | 81 | [10,000 Faces](https://open.spotify.com/track/7aO4ET0kb0cm3fyk7ZBN0l) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [10,000 Faces](https://open.spotify.com/album/49gl6H1cpjMfK5UFyx4NUg) | 2:56 |
 | 82 | [Athena, Athena, Athena](https://open.spotify.com/track/4XBOfVBO6RZKfHqdAxVwdH) | [Giant Robot](https://open.spotify.com/artist/4uN8Fwvt71q7wDLeWmWtR9) | [Athena, Athena, Athena](https://open.spotify.com/album/0TINrfkGvfl1ZaRVGv6V3t) | 7:41 |
 | 83 | [Hommii](https://open.spotify.com/track/0uQMAqO9F7UI8JiAKPFpXR) | [jse](https://open.spotify.com/artist/58fPQfazAxcVaKM5twcMtk) | [Hommii](https://open.spotify.com/album/5uW9dak03avDsXpviXJa7K) | 2:19 |

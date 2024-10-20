@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159469,
+  "num_followers": 159521,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 240344,
       "name": "Cry",
       "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 227555,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -955,6 +955,26 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "Bass & Treble",
         "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
       },
@@ -975,22 +995,18 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 199090,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
+      "duration_ms": 226086,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 226086,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "Rhythm & Gash VIP",
         "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
@@ -1047,6 +1047,30 @@
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Ain't No Way 2024 (Badger Remix)",
+        "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "The Riddler",
+          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ain't No Way 2024 - Badger Remix",
+      "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1139,50 +1163,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Wearing My Tracky",
-        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
-      },
-      "artists": [
-        {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
-        },
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        }
-      ],
-      "duration_ms": 105090,
-      "name": "Wearing My Tracky",
-      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Ain't No Way 2024 (Badger Remix)",
-        "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "The Riddler",
-          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Ain't No Way 2024 - Badger Remix",
-      "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "We No Care",
         "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Wearing My Tracky",
+        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "duration_ms": 105090,
+      "name": "Wearing My Tracky",
+      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Sprinta (Bad Bad)",
-        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "KIPPO",
-          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Sprinta (Bad Bad)",
-      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 220789,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Sprinta (Bad Bad)",
+        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "KIPPO",
+          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Sprinta (Bad Bad)",
+      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
     },
     {
       "added_at": "2024-10-18 15:14:33",

@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "On the DAW - The EP",
+        "url": "https://open.spotify.com/album/3N79JSXQixMXkreH8EaAgJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32000,
+      "name": "On the DAW. (intro)",
+      "url": "https://open.spotify.com/track/3BO7356oNhBT8za4fdKhAW"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,284 likes - 279 songs - 18 hr 16 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,270 likes - 279 songs - 18 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 2 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 |
 | 3 | [Jasmine](https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX) | [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Jasmine](https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP) | 2:39 |
 | 4 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
-| 5 | [Day One \(From "Interstellar"\)](https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Day One \(From "Interstellar"\)](https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K) | 3:14 |
+| 5 | [Zimmer: Day One \(From "Interstellar"\)](https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Zimmer: Day One \(From "Interstellar"\)](https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K) | 3:14 |
 | 6 | [Radiohead: Like Spinning Plates](https://open.spotify.com/track/104fhsQNgcdEhJUIeQfnnX) | [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Jean\-Sélim Abdelmoula](https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh) | [Radiohead: Like Spinning Plates](https://open.spotify.com/album/6gD7ebJRWLZyta3udpkVjQ) | 2:41 |
 | 7 | [Sicilienne, Op\. 78](https://open.spotify.com/track/3Xf26eAAwTdHNNSMt8JX0N) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Sicilienne, Op\. 78](https://open.spotify.com/album/2IoVLFulhWtPfN7tYeWlo3) | 3:18 |
 | 8 | [Chasing Yesterdays](https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 |

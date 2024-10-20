@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,838 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,865 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [14 de Febrero](https://open.spotify.com/track/3763ZNXp62qZYTHhVWV9DU) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [14 de Febrero](https://open.spotify.com/album/17RMp54nKpx4TN0PpLZm9d) | 2:53 |
-| 2 | [Ariande / “14 Besos”](https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ariande / “14 Besos”](https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2) | 4:12 |
+| 2 | [Ariande / “14 Besos”](https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Ariande / “14 Besos”](https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2) | 4:12 |
 | 3 | [LOOP ∞](https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b) | [ANOMALÍA](https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy) | 3:30 |
 | 4 | [Mis Ojos No Podían Ver](https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:43 |
 | 5 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |

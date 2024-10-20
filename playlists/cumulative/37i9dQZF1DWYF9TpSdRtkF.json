@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 271106,
       "name": "Catch my dream",
       "url": "https://open.spotify.com/track/0jgj7n4quchk3nSTdVJ7vF"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 268973,
       "name": "CHEER UP! HEARTS UP!",
       "url": "https://open.spotify.com/track/4AU6aS29cO0oSuDbHMytO4"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 329226,
       "name": "Flyers!!!",
       "url": "https://open.spotify.com/track/4Bu9rUQh1aABKXeMM8oSSr"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 295973,
       "name": "Harmony 4 You",
       "url": "https://open.spotify.com/track/0G5Cr2BypXfAuwM4mdGoOK"
@@ -2326,6 +2326,24 @@
       "duration_ms": 287293,
       "name": "Hitomi no Naka no Sirius",
       "url": "https://open.spotify.com/track/541WRpXN4IBFpduWvHNfhQ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 06",
+        "url": "https://open.spotify.com/album/5jqj1WHN5JFNEyEUcazmlI"
+      },
+      "artists": [
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242360,
+      "name": "Home is a coming now!",
+      "url": "https://open.spotify.com/track/0KPOMQpVEivw1fhgsWmGhv"
     },
     {
       "album": {
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 246840,
       "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 276413,
       "name": "PRETTY DREAMER",
       "url": "https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX"
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 208960,
       "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30b8\u30e5\u30a8\u30eb \uff5e\u9b45\u60d1\u306e\u91d1\u525b\u77f3\uff5e",
       "url": "https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK"

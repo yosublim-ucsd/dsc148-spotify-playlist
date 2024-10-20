@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Radio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> Con Pastel Ghost, Cults, Sidewalks and Skeletons y más
+> With Pastel Ghost, Cults, Sidewalks and Skeletons and more
 
 1,782 songs - 4 day 13 hr 35 min
 
@@ -519,7 +519,7 @@
 | [EUPHORIA](https://open.spotify.com/track/2GwT1y4I0Ay5OENzLuSEtq) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [DISCO3](https://open.spotify.com/album/3K10ND4pwiQr2qAMAzfr7l) | 3:27 | 2022-03-11 | 2022-05-23 |
 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 3:34 | 2022-03-21 | 2022-10-15 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2020-10-21 | 2022-03-08 |
-| [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-03-01 | 2024-10-15 |
+| [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-03-01 |  |
 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 | 2022-10-10 | 2024-01-11 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/3YufkKqsssZ8wt9T24ULSj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3i7EHinpu9J5MXKMzjpjZ0) | 2:12 | 2022-03-23 | 2022-05-04 |
 | [Everyday](https://open.spotify.com/track/2VYqgye3Wf9ySE4qYM3iJn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:07 | 2021-04-11 | 2022-03-05 |
@@ -653,7 +653,7 @@
 | [Golden Hour](https://open.spotify.com/track/5KcagrP8QLsZLjN32t9P8h) | [Prince Innocence](https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV) | [Golden Hour](https://open.spotify.com/album/1Wd35jqeX8l5AiCmljtcIh) | 5:08 | 2022-08-11 | 2023-07-27 |
 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 | 2023-06-23 | 2024-04-15 |
 | [Gone](https://open.spotify.com/track/1yUJK3qxPiFiPeAG2gLfuW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 4:06 | 2020-10-19 | 2022-02-13 |
-| [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 | 2024-01-01 | 2024-10-08 |
+| [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 | 2024-01-01 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-25 | 2024-05-11 |
 | [Good Man](https://open.spotify.com/track/7dysxhgx0ae3eld2R72iH2) | [Angel\#33](https://open.spotify.com/artist/2g4XW7w5ZWIjlmLF0sXj4y) | [Parties for Shy People](https://open.spotify.com/album/1YeiFSLiGjQhemZ4c6V4Nz) | 3:41 | 2022-09-02 | 2022-09-03 |
 | [Good Ones](https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Ones](https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt) | 2:16 | 2021-09-13 | 2022-02-18 |
@@ -789,7 +789,7 @@
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2020-12-11 | 2021-12-18 |
 | [I'd Rather Sleep](https://open.spotify.com/track/614cx8ZtQJX7jRIBnUhPA7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 1:55 | 2024-02-12 | 2024-02-15 |
 | [I'll Haunt You](https://open.spotify.com/track/4ZXIWSHrJT3yL6IrLPWPM5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 2:32 | 2022-03-31 | 2022-07-03 |
-| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 |  |
+| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 | 2024-10-20 |
 | [I'm Not Done \- Still Not Done Mix](https://open.spotify.com/track/5bhgC6aNOJIt5PVTrmuwu1) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge Remix](https://open.spotify.com/album/2wV1CNHfzOxg2dD7UvTfGF) | 4:28 | 2022-06-09 | 2022-06-10 |
 | [I'm On Fire](https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [In The City](https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5) | 4:05 | 2020-10-16\* | 2022-03-05 |
 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 | 2023-05-08 | 2023-11-11 |
@@ -1181,7 +1181,7 @@
 | [Paper Love](https://open.spotify.com/track/2QffgsYVZkvMQsZmQdgf2L) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:17 | 2020-10-16\* | 2022-03-05 |
 | [Paper or Plastic](https://open.spotify.com/track/1GZpq8sfBMomGyHoXtuHnN) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Paper or Plastic](https://open.spotify.com/album/70ZDIcjus3w1qWhjhuuf28) | 2:55 | 2022-03-10 | 2022-10-14 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2023-12-21 | 2024-03-20 |
-| [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 | 2024-04-23 |  |
+| [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 | 2024-04-23 | 2024-10-20 |
 | [Paradisin'](https://open.spotify.com/track/0e1yfIkdDkvhSo2dFYCZIL) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:06 | 2020-10-18 | 2021-01-13 |
 | [Paralysed](https://open.spotify.com/track/09GkI9oN1KSKig4wzERDPd) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO), [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Paralysed](https://open.spotify.com/album/3SfsT5wHEE7tF7Zhw5OuBB) | 2:51 | 2021-04-18 | 2021-04-19 |
 | [Paranoiac Intervals/Body Dysmorphia](https://open.spotify.com/track/1pWnBj0yhdVm9LmIDkq9Ow) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [White Is Relic/Irrealis Mood](https://open.spotify.com/album/5eEyUUEWLhSOoqgrwBKmtp) | 7:15 | 2023-02-15 | 2023-08-08 |

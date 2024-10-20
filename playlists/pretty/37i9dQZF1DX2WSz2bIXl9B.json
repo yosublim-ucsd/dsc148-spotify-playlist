@@ -1,13 +1,93 @@
 {
   "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Cr\u00f3nica Oscura, Las Aut\u00e9nticas se\u00f1oras de la  calle Lista, Tu amiga psic\u00f3loga y Sobre las palabras p\u00f3dcast",
-  "num_followers": 3415,
+  "num_followers": 3418,
   "original_name": "RADAR Creators Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwbIkQAAAACDGd/+P8lZ8iS1lt+KL2gx",
+  "snapshot_id": "ZxOH5QAAAABjk7nkGD8TaPaCK9HbGmAK",
   "tracks": [
+    {
+      "added_at": "2024-10-19 10:20:21",
+      "album": {
+        "name": "Tu amiga psic\u00f3loga",
+        "url": "https://open.spotify.com/album/5jHbGDtJG7Y0DSU1XQHJKf"
+      },
+      "artists": [
+        {
+          "name": "Tu amiga psic\u00f3loga",
+          "url": "https://open.spotify.com/show/5jHbGDtJG7Y0DSU1XQHJKf"
+        }
+      ],
+      "duration_ms": 2188885,
+      "name": "Construyendo una confianza en ti real: 6 tips para empezar.",
+      "url": "https://open.spotify.com/episode/20lbSx5jSjNxNGjaL9yoY3"
+    },
+    {
+      "added_at": "2024-10-19 10:20:21",
+      "album": {
+        "name": "La Cr\u00f3nica Oscura",
+        "url": "https://open.spotify.com/album/1gIOIXYHYKdu2osi0eNsBc"
+      },
+      "artists": [
+        {
+          "name": "La Cr\u00f3nica Oscura",
+          "url": "https://open.spotify.com/show/1gIOIXYHYKdu2osi0eNsBc"
+        }
+      ],
+      "duration_ms": 1208296,
+      "name": "Vida y cr\u00edmenes de Robert Durst, el millonario asesino",
+      "url": "https://open.spotify.com/episode/6N9Dbu8r5mAsEfOvpsEEvH"
+    },
+    {
+      "added_at": "2024-10-19 10:20:21",
+      "album": {
+        "name": "ConPdePodcast",
+        "url": "https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu"
+      },
+      "artists": [
+        {
+          "name": "ConPdePodcast",
+          "url": "https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu"
+        }
+      ],
+      "duration_ms": 7894804,
+      "name": "CPDP #42 ft Anuj | Geopol\u00edtica, Espionaje y Sindicalismo",
+      "url": "https://open.spotify.com/episode/3OR5qQloKcISxuBp8gmPrk"
+    },
+    {
+      "added_at": "2024-10-19 10:20:21",
+      "album": {
+        "name": "Las Aut\u00e9nticas Se\u00f1oras de la Calle Lista",
+        "url": "https://open.spotify.com/album/1IZ5rxtfT6KlWdQdBKIKj6"
+      },
+      "artists": [
+        {
+          "name": "Las Aut\u00e9nticas Se\u00f1oras de la Calle Lista",
+          "url": "https://open.spotify.com/show/1IZ5rxtfT6KlWdQdBKIKj6"
+        }
+      ],
+      "duration_ms": 6265364,
+      "name": "\u00bfC\u00f3mo te atreves, Georgina Rodr\u00edguez?",
+      "url": "https://open.spotify.com/episode/63HqGnIO0T4MX6dOAHFrcN"
+    },
+    {
+      "added_at": "2024-10-19 10:20:21",
+      "album": {
+        "name": "Sobran Las Palabras Podcast",
+        "url": "https://open.spotify.com/album/0cTWV2uMImJk9I9Vuq6ei9"
+      },
+      "artists": [
+        {
+          "name": "Sobran Las Palabras Podcast",
+          "url": "https://open.spotify.com/show/0cTWV2uMImJk9I9Vuq6ei9"
+        }
+      ],
+      "duration_ms": 6233408,
+      "name": "Experta explica c\u00f3mo mejorar las relaciones con la ESCUCHA ACTIVA - Bea Madero -",
+      "url": "https://open.spotify.com/episode/7d4VNcYVipP6g6PWLEKXo0"
+    },
     {
       "added_at": "2024-10-07 13:19:49",
       "album": {

@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-239 songs - 10 hr 24 min
+240 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 | 2023-09-21 | 2024-03-22 |
 | [1877](https://open.spotify.com/track/0QhExfZSTY5TnRzHOxJGwm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Xania](https://open.spotify.com/album/7H1IWk2YAccSqlGqkA6Ac7) | 2:39 | 2023-09-21 | 2023-09-29 |
 | [2 Sider](https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m) | [Sli0h](https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [2 Sider](https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i) | 2:32 | 2024-09-05 |  |
+| [2 Trekk](https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [2 Trekk](https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso) | 2:52 | 2024-10-17 |  |
 | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [2X SPEKTRUM FREESTYLE](https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx) | 5:22 | 2023-11-16 |  |
 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 | 2024-01-11 | 2024-03-01 |
 | [555](https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Takket være livet](https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC) | 3:30 | 2023-11-09 |  |
@@ -119,7 +120,7 @@
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 | 2024-06-01 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-15 | 2024-02-23 |
 | [jeg har stream](https://open.spotify.com/track/0GGwFY0Wh72UJ1x934E2Kl) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 1:17 | 2023-11-09 | 2023-12-09 |
-| [Jeg trenger en hånd](https://open.spotify.com/track/1287cAJWH8eGbshOCpKhZq) | [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5) | [Jeg trenger en hånd](https://open.spotify.com/album/1sd7fcWWSynMuG7tt4hWZF) | 3:23 | 2024-10-03 |  |
+| [Jeg trenger en hånd](https://open.spotify.com/track/1287cAJWH8eGbshOCpKhZq) | [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5) | [Jeg trenger en hånd](https://open.spotify.com/album/1sd7fcWWSynMuG7tt4hWZF) | 3:23 | 2024-10-03 | 2024-10-20 |
 | [Juice/XO](https://open.spotify.com/track/2NkUVtGhfS5Zmsjgtl7h16) | [Macho](https://open.spotify.com/artist/6ee3IxKDJ71xvvw0Qvmp9u), [Angelo Reira](https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O) | [Juice/XO](https://open.spotify.com/album/1xYJWEpBuKdONbBIdZWp3G) | 2:52 | 2024-07-11 | 2024-09-20 |
 | [Ka Kac](https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SKAPAD AV SMÄRTAN](https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp) | 2:41 | 2023-09-21 | 2023-12-19 |
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2023-09-21 | 2024-03-22 |

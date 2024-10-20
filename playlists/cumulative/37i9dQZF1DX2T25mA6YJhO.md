@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Aiko el grupo.
 
-193 songs - 10 hr 4 min
+194 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [De aquí a un mes](https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [De aquí a un mes](https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w) | 2:21 | 2024-08-29 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
-| [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 | 2024-07-25 |  |
+| [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 | 2024-07-25 | 2024-10-20 |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [Despierta](https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8) | [Quizás Mañana](https://open.spotify.com/artist/1VsLvsLzVoBjPcNcnCTLO6) | [Despierta](https://open.spotify.com/album/4VdeQ3UgFRoW4OPlJr6oTu) | 3:07 | 2024-08-22 | 2024-08-30 |
 | [Diciendo que Me Quieres](https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Diciendo que Me Quieres](https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u) | 3:26 | 2024-06-27 | 2024-07-12 |
@@ -156,6 +156,7 @@
 | [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 | 2024-08-29 |  |
 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 |  |
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 | 2024-08-02 |
+| [Ruido Blanco](https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [Ruido Blanco](https://open.spotify.com/album/6vHK4Aw6Do2slwN7DXtGSz) | 2:18 | 2024-10-17 |  |
 | [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o) | 3:27 | 2024-09-19 |  |
 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 | 2024-06-27 | 2024-09-06 |
 | [Sangre Azul](https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Sangre Azul](https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG) | 2:24 | 2024-07-25 |  |

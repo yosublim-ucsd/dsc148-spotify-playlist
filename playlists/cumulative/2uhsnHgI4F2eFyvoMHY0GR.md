@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Albatross \- 2018 Remaster](https://open.spotify.com/track/3IKyTBHZSgCx2v1ZX8v0TZ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2vykpF7BFnflpzjTCG52FU) | 3:11 | 2016-02-13 |  |
-| [Apache](https://open.spotify.com/track/5ALDucFjn5MUCmui2qgTQc) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [The Shadows' Greatest Hits](https://open.spotify.com/album/489JHMGFMHtqfV8HURfx8U) | 2:54 | 2016-02-13 |  |
+| [Apache](https://open.spotify.com/track/5ALDucFjn5MUCmui2qgTQc) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Shadows' Greatest Hits](https://open.spotify.com/album/489JHMGFMHtqfV8HURfx8U) | 2:54 | 2016-02-13 |  |
 | [Black Mountain Side \- 1993 Remaster](https://open.spotify.com/track/6rmEV2YtvWkigxPZocINO3) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:05 | 2016-02-13 |  |
 | [Blue Turning Gray](https://open.spotify.com/track/2fRnzEChkwoZ4XTkECu22h) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Clap Your Hands Say Yeah](https://open.spotify.com/album/7hneASzfgVkmjO9oPae8T7) | 1:15 | 2016-02-13 |  |
 | [Cecilia Ann](https://open.spotify.com/track/0mjB1LNY9TS6lOXbyoARls) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/60cRh5MCFNOrFeQykKnDej) | 2:06 | 2016-02-13 |  |

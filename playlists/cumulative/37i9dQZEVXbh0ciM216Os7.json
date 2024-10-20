@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 336173,
       "name": "All Blues - 2024 Remastered Version",
       "url": "https://open.spotify.com/track/5iqHqoIJHDP6mTBg1yd1Bw"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 173453,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
@@ -14694,7 +14694,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 171241,
       "name": "Hello L.A.",
       "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
@@ -16024,7 +16024,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 201900,
       "name": "I Try (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/3DhxAnsGkBgc7UxC4IZRyi"
@@ -17390,7 +17390,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 388831,
       "name": "Jack Straw - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/6bTWiISnOr6Pbig7ad5ILc"
@@ -21808,7 +21808,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 206386,
       "name": "Minnesota Fats",
       "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
@@ -22102,7 +22102,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 108373,
       "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
       "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
@@ -29522,7 +29522,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 293253,
       "name": "Secret Love - 2024 Remastered Version",
       "url": "https://open.spotify.com/track/7dNgdXHOcPKoufpvPkDaxS"
@@ -32486,6 +32486,48 @@
     {
       "album": {
         "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Chris Rivers",
+          "url": "https://open.spotify.com/artist/4TCqgEIWd5RsCKItJqt8PL"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256328,
+      "name": "Survive The Night",
+      "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
+    },
+    {
+      "album": {
+        "name": "Warriors",
         "url": "https://open.spotify.com/album/4wtt08wXfDLUecMnqdZQsF"
       },
       "artists": [
@@ -32520,7 +32562,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/2JEbS9uVCddQeneqbhqUJH"
@@ -33788,7 +33830,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 397853,
       "name": "The Chain (Live at The Forum, Inglewood, CA, 10/22/82) - 2024 Remaster",
       "url": "https://open.spotify.com/track/4HTDAg9Zrr7WQymwm8WjbH"
@@ -34000,7 +34042,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 188839,
       "name": "The End",
       "url": "https://open.spotify.com/track/1mR5xk9xZsqPsmXGkq41hb"

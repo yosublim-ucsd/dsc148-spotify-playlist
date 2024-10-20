@@ -2021,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Bloodshot / Waste",
+        "url": "https://open.spotify.com/album/2GkFw24RAab0MJNexdE43z"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/5eV4XhCZT6QaeqK4nVqIEo"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },

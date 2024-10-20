@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,345 likes - 115 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,363 likes - 115 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 37 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 38 | [Engler i natten](https://open.spotify.com/track/3L2M0r96klA9MohrTHk1kq) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe), [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Engler i natten](https://open.spotify.com/album/0Ud2XxLxS1GSV4OwN5dmWZ) | 3:52 |
 | 39 | [Corpus](https://open.spotify.com/track/1OvJ1BaX7KgdNRxHtEMOdW) | [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Corpus / Sirkustelt](https://open.spotify.com/album/3XDMZOaMKZwxQAKUi4Tj42) | 6:35 |
-| 40 | [Hey DJ](https://open.spotify.com/track/0rJdN64e7I7yrUFTSccQIu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Hey DJ](https://open.spotify.com/album/6twwTuHaqDKqLtu5Oq3JUB) | 2:59 |
+| 40 | [Hey DJ](https://open.spotify.com/track/0rJdN64e7I7yrUFTSccQIu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Hey DJ](https://open.spotify.com/album/6twwTuHaqDKqLtu5Oq3JUB) | 2:45 |
 | 41 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 |
 | 42 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 |
 | 43 | [Uslepen diamant](https://open.spotify.com/track/6wcYUUq3lhsq1uhVQ67mBP) | [Gus Polden](https://open.spotify.com/artist/15QTc3ayMvGd8oCST7SOL6) | [Uslepen diamant](https://open.spotify.com/album/4PRd0iHMib4dKTDJGiY7KU) | 3:23 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 87 | [herified](https://open.spotify.com/track/4zDJ2lMHQoAF7pzQmb9tkS) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [herified](https://open.spotify.com/album/3U1VXrTdjumXDApgn2lqco) | 2:52 |
 | 88 | [Pimpa Opp En Volvo](https://open.spotify.com/track/1psh6idjEp9jUhaCZD939M) | [Synne Sol](https://open.spotify.com/artist/5ihcBbExhBs0VYTfrq6CUE) | [Pimpa Opp En Volvo](https://open.spotify.com/album/457WRbbtpgfGtDAXziExIL) | 2:17 |
 | 89 | [hue](https://open.spotify.com/track/0ofHGRjAc1ZwTA14QTJLJt) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [hue](https://open.spotify.com/album/3tzQyjwKqbDEvMFCQbb9Gr) | 2:21 |
-| 90 | [Kven er vi](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 |
+| 90 | [Kven er vi \- fra filmen Kvitebjørn](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi \(fra filmen Kvitebjørn\)](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 |
 | 91 | [Come closer](https://open.spotify.com/track/5dAbSLmcvpMCvqE0OtfjoL) | [NÆLDE](https://open.spotify.com/artist/1BQZAyFQvZtfad0WLu8iwr) | [Come closer](https://open.spotify.com/album/0BONUA4atdqJd0uYpKVV4T) | 3:03 |
 | 92 | [Turn Me On](https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Turn Me On](https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7) | 2:40 |
 | 93 | [Bhool Bhulaiyaa 3 \- Title Track \(feat\. Pitbull\)](https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Bhool Bhulaiyaa 3 \- Title Track \(feat\. Pitbull\)](https://open.spotify.com/album/7A0AEPu9sqHZpSIDI1zLEM) | 3:50 |

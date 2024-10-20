@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 95963,
+  "num_followers": 95982,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -779,46 +779,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "C\u00f3mo No Amarte",
-        "url": "https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR"
-      },
-      "artists": [
-        {
-          "name": "Yembema",
-          "url": "https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa"
-        },
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "C\u00f3mo No Amarte",
-      "url": "https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
-        "name": "Materialista (feat. Nicky Jam)",
-        "url": "https://open.spotify.com/album/74vZkYjOAFrBbwB9KMWzUu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Materialista (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/1zh3aQOBNovad73Frmb7MP"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ"
       },
@@ -835,6 +795,42 @@
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "Vallenato Apretao",
+        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 158120,
+      "name": "Vallenato Apretao",
+      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "C\u00f3mo No Amarte",
+        "url": "https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR"
+      },
+      "artists": [
+        {
+          "name": "Yembema",
+          "url": "https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa"
+        },
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "C\u00f3mo No Amarte",
+      "url": "https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE"
     },
     {
       "added_at": "2024-07-12 18:43:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Kiki Rockwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,574 likes - 169 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,571 likes - 169 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

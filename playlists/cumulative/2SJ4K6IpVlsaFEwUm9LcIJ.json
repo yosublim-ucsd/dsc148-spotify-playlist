@@ -4169,6 +4169,32 @@
     },
     {
       "album": {
+        "name": "Jour 1596",
+        "url": "https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143534,
+      "name": "Rememember Me",
+      "url": "https://open.spotify.com/track/2vLbrVvtkqFp7AiuDk80fI"
+    },
+    {
+      "album": {
         "name": "Remina Two",
         "url": "https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9"
       },

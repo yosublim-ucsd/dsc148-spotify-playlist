@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-635 songs - 1 day 10 hr 50 min
+636 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Apple Pie](https://open.spotify.com/track/1FmrgKa0scdSOUDkw4nbUg) | [Midi Matilda](https://open.spotify.com/artist/1vXoKc82szC0njIdv8vVgO) | [Apple Pie](https://open.spotify.com/album/3oKP9rzFwOmqjogzDn2CuP) | 3:39 | 2021-03-10 | 2022-04-19 |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2022-03-11 | 2022-04-21 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2021-03-10 | 2024-07-19 |
+| [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 | 2024-10-18 |  |
 | [Automatic](https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Automatic](https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf) | 3:13 | 2024-10-16 |  |
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2022-06-27 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/7s4vC71u1zovWSMNu6hwbJ) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita \(The Summer Singles\)](https://open.spotify.com/album/0cgg5mbjBzqxL8zvO0huzp) | 3:09 | 2021-03-10 | 2022-07-29 |
@@ -101,7 +102,7 @@
 | [Change Your Mind](https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Change Your Mind](https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc) | 3:19 | 2024-05-05 |  |
 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-11-19 | 2023-08-08 |
 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 | 2023-10-13 | 2024-04-19 |
-| [Cherry Red](https://open.spotify.com/track/63pGrY2goWtgoBTzm9MhZN) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Cherry Red](https://open.spotify.com/album/49YPwCfgk8EkVsYstOeVZV) | 2:47 | 2024-08-16 |  |
+| [Cherry Red](https://open.spotify.com/track/63pGrY2goWtgoBTzm9MhZN) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Cherry Red](https://open.spotify.com/album/49YPwCfgk8EkVsYstOeVZV) | 2:47 | 2024-08-16 | 2024-10-20 |
 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 | 2022-03-11 | 2024-07-19 |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2024-03-10 |  |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-06-27 |  |

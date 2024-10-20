@@ -10745,6 +10745,24 @@
     },
     {
       "album": {
+        "name": "Estoy al Horno",
+        "url": "https://open.spotify.com/album/45BuLhLJ4jL6YPI12xW3K1"
+      },
+      "artists": [
+        {
+          "name": "Chaqueta de Ch\u00e1ndal",
+          "url": "https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395922,
+      "name": "Estoy al Horno",
+      "url": "https://open.spotify.com/track/0HAPlkdCzhHWDLrbTNey0w"
+    },
+    {
+      "album": {
         "name": "PRELUDIO",
         "url": "https://open.spotify.com/album/7GGkqnaRTuGL98gZMEgle3"
       },

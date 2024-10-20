@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB"
@@ -5227,6 +5227,28 @@
     },
     {
       "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242827,
+      "name": "For You (With Rita Ora)",
+      "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -5703,6 +5725,32 @@
     },
     {
       "album": {
+        "name": "GLINTSAL (VOL. 1)",
+        "url": "https://open.spotify.com/album/5tX11QRlcJh6oyYVTejrjg"
+      },
+      "artists": [
+        {
+          "name": "GLINTSAL",
+          "url": "https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY"
+        },
+        {
+          "name": "FAISAL",
+          "url": "https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1"
+        },
+        {
+          "name": "Glints",
+          "url": "https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Get U What U Want",
+      "url": "https://open.spotify.com/track/6tIHmwmeDJVYiG43lAx0k2"
+    },
+    {
+      "album": {
         "name": "Get U What U Want",
         "url": "https://open.spotify.com/album/5Q4bvgj8YnMhC6IzD96ZxT"
       },
@@ -5722,7 +5770,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 209493,
       "name": "Get U What U Want",
       "url": "https://open.spotify.com/track/7sswPponP7QFEhJK4HoZmQ"
@@ -8436,7 +8484,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -10412,10 +10460,28 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 190403,
       "name": "MINUIT PILE",
       "url": "https://open.spotify.com/track/01kvKrTJRtr46q2SRW24yK"
+    },
+    {
+      "album": {
+        "name": "MINUIT PILE",
+        "url": "https://open.spotify.com/album/2ar3b3ajzKDjvWZs0yYrIt"
+      },
+      "artists": [
+        {
+          "name": "Braak's",
+          "url": "https://open.spotify.com/artist/5lCApSCPniQPmRqWo12oG4"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190589,
+      "name": "MINUIT PILE",
+      "url": "https://open.spotify.com/track/4OMCsqvmCly3B9i7CdFK7f"
     },
     {
       "album": {
@@ -10542,6 +10608,28 @@
       "duration_ms": 141314,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
+    },
+    {
+      "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
       "album": {

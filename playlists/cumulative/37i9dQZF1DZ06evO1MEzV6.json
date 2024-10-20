@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "This is beabadoobee. The essential tracks, all in one playlist.",
+  "description": "This Is beabadoobee. Los temas esenciales, todos en una lista.",
   "name": "This Is beabadoobee",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 68293,
       "name": "Angry Song",
       "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"

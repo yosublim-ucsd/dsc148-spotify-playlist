@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Banda Primos de Tierra Caliente en portada. ",
-  "num_followers": 65770,
+  "num_followers": 65827,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -771,8 +771,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
+        "name": "Exitos de La Nobleza de Aguililla",
+        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
         }
       ],
-      "duration_ms": 157573,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
+      "duration_ms": 247386,
+      "name": "Las Joyas De Mi Vida",
+      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -883,8 +883,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
       "artists": [
         {
@@ -892,15 +892,15 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 199053,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+      "duration_ms": 144682,
+      "name": "Lo Que Empieza Acaba",
+      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
     },
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Exitos de La Nobleza de Aguililla",
-        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
         }
       ],
-      "duration_ms": 247386,
-      "name": "Las Joyas De Mi Vida",
-      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
+      "duration_ms": 157573,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -979,8 +979,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 144682,
-      "name": "Lo Que Empieza Acaba",
-      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+      "duration_ms": 199053,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
         "name": "Como Diablos Te Olvido",
         "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
@@ -1283,6 +1299,54 @@
       "duration_ms": 174706,
       "name": "Vida de Rancho (Zapateado)",
       "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Made in Michoacan",
+        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
+      },
+      "artists": [
+        {
+          "name": "Severo Benito y Su Banda Cachas de Oro",
+          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "La Grapa",
+      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Amores Con Mi Estilo",
+        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Amores Con Mi Estilo",
+      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1307,54 +1371,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Made in Michoacan",
-        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
-        "name": "Amores Con Mi Estilo",
-        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Amores Con Mi Estilo",
-      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
-      },
-      "artists": [
-        {
-          "name": "Severo Benito y Su Banda Cachas de Oro",
-          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "La Grapa",
-      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Somos Mas Americanos",
         "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 210092,
       "name": "Se Termino Lo Nuestro",
       "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
+        "name": "Al Mismo Nivel",
+        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
+      },
+      "artists": [
+        {
+          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
         "name": "Eres Mi Sexto Sentido",
         "url": "https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Al Mismo Nivel",
-        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
+        "name": "Guerra De Corridos",
+        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
       },
       "artists": [
         {
-          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
         }
       ],
-      "duration_ms": 163265,
-      "name": "El Padrino",
-      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
+      "duration_ms": 152466,
+      "name": "Mis Errores Pagando",
+      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Guerra De Corridos",
-        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
       "artists": [
         {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Mis Errores Pagando",
-      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
+      "duration_ms": 141870,
+      "name": "Mujer, Mujer",
+      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 141870,
-      "name": "Mujer, Mujer",
-      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Lupe Reyes (En Vivo)",
         "url": "https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Estar\u00e9 Bien",
-        "url": "https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 189703,
-      "name": "Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Estar\u00e9 Bien",
+        "url": "https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 189703,
+      "name": "Estar\u00e9 Bien",
+      "url": "https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Si No Te Tengo",
-        "url": "https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq"
+        "name": "Inspirados por Ti",
+        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 223221,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
+      "duration_ms": 256671,
+      "name": "La Ultima Copa",
+      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
+        "name": "Si No Te Tengo",
+        "url": "https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 223221,
+      "name": "Si No Te Tengo",
+      "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
         "name": "De Mil Amores",
         "url": "https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 148285,
       "name": "De Mil Amores",
       "url": "https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
-        "name": "Inspirados por Ti",
-        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 256671,
-      "name": "La Ultima Copa",
-      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1771,8 +1771,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Para el Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa"
+        "name": "Ojos Negros Nunca Enganan",
+        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
       },
       "artists": [
         {
@@ -1780,9 +1780,9 @@
           "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
         }
       ],
-      "duration_ms": 240248,
-      "name": "Para El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2"
+      "duration_ms": 192104,
+      "name": "Ojos Negros Nunca Enga\u00f1an",
+      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1851,8 +1851,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Ojos Negros Nunca Enganan",
-        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
+        "name": "Para el Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa"
       },
       "artists": [
         {
@@ -1860,9 +1860,9 @@
           "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
         }
       ],
-      "duration_ms": 192104,
-      "name": "Ojos Negros Nunca Enga\u00f1an",
-      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
+      "duration_ms": 240248,
+      "name": "Para El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2"
     },
     {
       "added_at": "2024-10-18 15:32:46",

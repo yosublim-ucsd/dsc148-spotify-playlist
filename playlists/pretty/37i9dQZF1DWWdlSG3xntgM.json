@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35804,
+  "num_followers": 35810,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
-        "url": "https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs"
-      },
-      "artists": [
-        {
-          "name": "L\u01b0u \u00c1nh Loan",
-          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
-        }
-      ],
-      "duration_ms": 348799,
-      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
-      "url": "https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z"
-    },
-    {
-      "added_at": "2024-05-27 07:52:43",
-      "album": {
         "name": "Nhac Tuyen 2",
         "url": "https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n"
       },
@@ -467,6 +451,38 @@
       "duration_ms": 292091,
       "name": "Ai Kho Vi Ai",
       "url": "https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD"
+    },
+    {
+      "added_at": "2024-05-27 07:52:43",
+      "album": {
+        "name": "M\u01b0a R\u1eebng",
+        "url": "https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq"
+      },
+      "artists": [
+        {
+          "name": "L\u01b0u H\u1ed3ng",
+          "url": "https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "L\u1ea1nh tr\u1ecdn \u0111\u00eam m\u01b0a",
+      "url": "https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk"
+    },
+    {
+      "added_at": "2024-05-27 07:52:43",
+      "album": {
+        "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
+        "url": "https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs"
+      },
+      "artists": [
+        {
+          "name": "L\u01b0u \u00c1nh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+        }
+      ],
+      "duration_ms": 348799,
+      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
+      "url": "https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -491,22 +507,6 @@
       "duration_ms": 354938,
       "name": "V\u1ec1 l\u1ea1i \u0111\u1ed3i sim",
       "url": "https://open.spotify.com/track/1t1Up8GAZZ4V2TZx60YMXA"
-    },
-    {
-      "added_at": "2024-05-27 07:52:43",
-      "album": {
-        "name": "M\u01b0a R\u1eebng",
-        "url": "https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq"
-      },
-      "artists": [
-        {
-          "name": "L\u01b0u H\u1ed3ng",
-          "url": "https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "L\u1ea1nh tr\u1ecdn \u0111\u00eam m\u01b0a",
-      "url": "https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
         }
       ],
-      "duration_ms": 220701,
-      "name": "Buc Tam Thu",
-      "url": "https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch"
+      "duration_ms": 285269,
+      "name": "Tau Dem Nam Cu",
+      "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
         }
       ],
-      "duration_ms": 285269,
-      "name": "Tau Dem Nam Cu",
-      "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"
+      "duration_ms": 220701,
+      "name": "Buc Tam Thu",
+      "url": "https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch"
     },
     {
       "added_at": "2024-06-06 08:36:30",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-555 songs - 1 day 9 hr 12 min
+557 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [I'll Be There for You \- Single Edit](https://open.spotify.com/track/4cgeOQBQzS7x5Bvd8hFO95) | [Solid HarmoniE](https://open.spotify.com/artist/4a7E7K63Sc944CmiOgcxd8) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:11 | 2024-01-29 |  |
 | [I'll Never Stop](https://open.spotify.com/track/4EAbAlO8QWzIpONNkUkOvC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:26 | 2024-01-29 |  |
 | [I'll Survive You](https://open.spotify.com/track/57pVdPZzXNRCJdJFf74ITk) | [BC Jean](https://open.spotify.com/artist/77I9xdGxbRAq5phM0cKBMX) | [I'll Survive You](https://open.spotify.com/album/3dsCDtqS4WFtQZz6H8QE5P) | 4:01 | 2024-01-29 |  |
-| [I'm Better](https://open.spotify.com/track/2Po7CnIbgp4Y3jZ05Np86N) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/3YczBWpkOC4VexF3vriCJF) | 3:20 | 2024-01-29 |  |
+| [I'm Better](https://open.spotify.com/track/2Po7CnIbgp4Y3jZ05Np86N) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/3YczBWpkOC4VexF3vriCJF) | 3:20 | 2024-01-29 | 2024-10-20 |
+| [I'm Better](https://open.spotify.com/track/7frqS6t7YaHnzPbDRKOsW7) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/5mES955VGLh9er8nmXl783) | 3:20 | 2024-10-19 |  |
 | [I'm Gone, I'm Going](https://open.spotify.com/track/7CP9SPBwTkbURq60Td11JA) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:25 | 2024-01-29 |  |
 | [I'm Your Man](https://open.spotify.com/track/7Fm4SYNLuVJnarqdsS9WSc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/6UyKbiYOZN8QI6Nqv7RPo4) | 2:26 | 2024-01-29 |  |
 | [iAAM](https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:03 | 2024-10-06 | 2024-10-14 |
@@ -303,7 +304,8 @@
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2024-02-05 |  |
 | [Let Somebody Go](https://open.spotify.com/track/3fk0E2FQ5ZEPIle8jrM8d7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Let Somebody Go](https://open.spotify.com/album/5JVRckQYOsuMwZlcf6nLC4) | 4:06 | 2024-01-29 | 2024-02-02 |
 | [Let There Be Love](https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:21 | 2024-01-29 |  |
-| [Let U Go](https://open.spotify.com/track/5n3HwrDGRlUT7SrJCWM4yf) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/3YczBWpkOC4VexF3vriCJF) | 3:38 | 2024-01-29 |  |
+| [Let U Go](https://open.spotify.com/track/0aoXtU2V25FgbmQMCdw3Wm) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/5mES955VGLh9er8nmXl783) | 3:38 | 2024-10-19 |  |
+| [Let U Go](https://open.spotify.com/track/5n3HwrDGRlUT7SrJCWM4yf) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/3YczBWpkOC4VexF3vriCJF) | 3:38 | 2024-01-29 | 2024-10-20 |
 | [Lie...It's Alright](https://open.spotify.com/track/2WXfnVVF6PnNDo6FwUIIu5) | [Bo Bice](https://open.spotify.com/artist/2Q1FIPavG8WZF33kqIP3sy) | [The Real Thing](https://open.spotify.com/album/4g0TGHOAnACPsqCwSoOR4m) | 3:29 | 2024-01-29 |  |
 | [Light Up The World](https://open.spotify.com/track/1Et2wMhDPqbu5y4sGRt6Ue) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 6](https://open.spotify.com/album/5nvqVolAZnL9C1i5j6qDKS) | 3:43 | 2024-01-29 |  |
 | [Lonely Dancers](https://open.spotify.com/track/2zg5ClMcmqNIBrHATdxftp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:28 | 2024-04-07 |  |

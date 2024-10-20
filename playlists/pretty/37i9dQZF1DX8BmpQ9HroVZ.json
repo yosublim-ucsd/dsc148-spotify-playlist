@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks trending in Pakistan. Cover: Anuv Jain",
-  "num_followers": 117910,
+  "num_followers": 117977,
   "original_name": "Hot Hits Pakistan",
   "owner": {
     "name": "Spotify",
@@ -74,6 +74,10 @@
         {
           "name": "Rauhan Malik",
           "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        },
+        {
+          "name": "Amir Ameer",
+          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
         }
       ],
       "duration_ms": 224842,

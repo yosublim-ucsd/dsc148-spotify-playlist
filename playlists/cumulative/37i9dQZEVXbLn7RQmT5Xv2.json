@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 166999,
       "name": "El Dalaa",
       "url": "https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk"
@@ -7440,7 +7440,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 227053,
       "name": "Mahzouz",
       "url": "https://open.spotify.com/track/2fNGw4weCNtNiP58znlTve"
@@ -12788,7 +12788,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 172427,
       "name": "Wein",
       "url": "https://open.spotify.com/track/1QSMPPfQD7uMBbT0KN1ey2"
@@ -14376,7 +14376,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 433934,
       "name": "\u0627\u064a\u0648\u064a\u0627 \u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a \u0648\u062d\u0634\u062a\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B"
@@ -14846,7 +14846,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
@@ -16167,6 +16167,24 @@
     },
     {
       "album": {
+        "name": "\u0641\u0631\u062d\u0629 \u0627\u0644\u062f\u0644\u0648\u0639\u0647",
+        "url": "https://open.spotify.com/album/25MaVEv6ojfdYzsAJxRzwV"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u062f\u0648 \u0645\u0632\u064a\u0643\u0627",
+          "url": "https://open.spotify.com/artist/2NcjovxM3QeZjk24GXe3Yo"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428501,
+      "name": "\u0641\u0631\u062d\u0629 \u0627\u0644\u062f\u0644\u0648\u0639\u0647",
+      "url": "https://open.spotify.com/track/3InZQvsW9tYYL0iaDgJfYf"
+    },
+    {
+      "album": {
         "name": "\u0642\u0631\u0627\u0645\u064a\u0637 \u0642\u0631\u0627\u0645\u064a\u0637 \u0648 \u0627\u0644\u0647\u0644\u0627\u0641\u064a\u062a \u0639\u0627\u0645\u0644\u064a\u0646 \u0645\u0638\u0627\u0628\u064a\u0637 (\u0635\u062d\u0628\u064a \u0627\u0644\u0644\u064a \u0627\u062f\u0627\u0643 \u064a\u062f\u064a\u0646\u0627 )",
         "url": "https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV"
       },
@@ -16200,7 +16218,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 179211,
       "name": "\u0642\u0645\u0628\u0644\u0629 \u0627\u0644\u062c\u064a\u0644 ( \u0627\u062e\u062a\u064a \u0648\u0635\u062d\u0628\u062a\u064a )",
       "url": "https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp"
@@ -17062,7 +17080,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 179118,
       "name": "\u0645\u0646 \u0641\u0636\u0644 \u0627\u0644\u0627\u062e\u0635\u0627\u0645 \u062e\u0641\u0648 \u0627\u0644\u062a\u062e\u0637\u064a\u0631 ( \u0627\u0646\u0627 \u0645\u0634 \u0639 \u0627\u0644\u062f\u0648\u0627\u0642 )",
       "url": "https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE"

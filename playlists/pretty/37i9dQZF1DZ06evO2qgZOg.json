@@ -1,13 +1,29 @@
 {
-  "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 287540,
+  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
+  "num_followers": 287613,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAAASNMpIt5awuh1X7Fr+geVe",
+  "snapshot_id": "ZxGlAAAAAABF0FUvexnYsOYFRjrYGYqB",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ash In The Wind",
+        "url": "https://open.spotify.com/album/2ahQYAusTbXq6T37q2F7U3"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 232054,
+      "name": "Ash In The Wind",
+      "url": "https://open.spotify.com/track/6jdglDjPye3bN8IyHH2WVa"
+    },
     {
       "added_at": null,
       "album": {
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 206182,
-      "name": "Shout Your Freedom",
-      "url": "https://open.spotify.com/track/4tLvkZX8t5bVltQwe4Cj7P"
+      "duration_ms": 197586,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
     },
     {
       "added_at": null,
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 197586,
-      "name": "You Get Me High",
-      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
+      "duration_ms": 206182,
+      "name": "Shout Your Freedom",
+      "url": "https://open.spotify.com/track/4tLvkZX8t5bVltQwe4Cj7P"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+        "name": "Victorious: The Aftermath - Deluxe",
+        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 201060,
-      "name": "Unbreakable Soul",
-      "url": "https://open.spotify.com/track/1H5O8Re8EWxGtniptE7HIW"
+      "duration_ms": 231105,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious: The Aftermath - Deluxe",
-        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 231105,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
+      "duration_ms": 201060,
+      "name": "Unbreakable Soul",
+      "url": "https://open.spotify.com/track/1H5O8Re8EWxGtniptE7HIW"
     },
     {
       "added_at": null,

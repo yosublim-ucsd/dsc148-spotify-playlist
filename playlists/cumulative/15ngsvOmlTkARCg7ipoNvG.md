@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,819 songs - 1 day 13 hr 24 min
+1,821 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,9 @@
 | [Aurora Arr\. For Violin](https://open.spotify.com/track/2s52fWDWhKTZgEaGXbNHiT) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora Arr\. For Violin](https://open.spotify.com/album/1LCPIRZ1Slm9JG4iPXY5Kv) | 1:00 | 2023-06-24 |  |
 | [Autumn Love](https://open.spotify.com/track/4bGbnMQPvPnjBTvFNH3nON) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Autumn Love](https://open.spotify.com/album/77womLwqvHPEFIF6oC7Qaj) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Autumn Love \- Strings Version](https://open.spotify.com/track/1hum1mcNIILCOtIjVPlwIZ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Autumn Love](https://open.spotify.com/album/1s01k3AI562WSpqca9cmfX) | 1:02 | 2024-02-09 | 2024-02-13 |
+| [Autumn Moonlight](https://open.spotify.com/track/3WifCtcnBd0xrh9fOZ3U9a) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Moonlight](https://open.spotify.com/album/0dWGKr31tTlKjqZDr95mYO) | 1:00 | 2024-10-20 |  |
 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 | 2022-10-05 | 2024-01-30 |
+| [Autumn Sunlight](https://open.spotify.com/track/23agY1FRngBN4kng0b2RxK) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Autumn Sunlight](https://open.spotify.com/album/1odVY6duTDQN39pvLTEaDR) | 1:00 | 2024-10-20 |  |
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 | 2024-02-13 |
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
 | [Azure](https://open.spotify.com/track/6C1fPfjuK7IU3qGzMrnmWI) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories](https://open.spotify.com/album/7oVEf4VjkG8dnuj9GL6vKf) | 1:16 | 2024-01-29 |  |

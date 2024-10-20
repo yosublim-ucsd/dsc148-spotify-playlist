@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,163 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,191 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 45 | [La Rareza](https://open.spotify.com/track/79V9syPPim0sNOUMLTl1Kl) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [La Rareza](https://open.spotify.com/album/1g15pwRTLqDBVzIwwbCPY6) | 3:27 |
 | 46 | [VALLADO 3](https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Joyas Del Barrio](https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0) | 2:55 |
 | 47 | [Puchica](https://open.spotify.com/track/4tV1VgaP4FxL7FwXKSS5ju) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Puchica](https://open.spotify.com/album/4GQJOZLh26NfMeyvzPvz8R) | 2:48 |
-| 48 | [yo asÍ](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
+| 48 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
 | 49 | [Pasadita la 1](https://open.spotify.com/track/5QvFG7nMvL8GAp1xyXRFk2) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Puro Sapo](https://open.spotify.com/album/3t6J7ps2VEVHrPhP6TT92B) | 2:20 |
 | 50 | [Zoom](https://open.spotify.com/track/4XB0vg8h372nFERT8F9Gu6) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Me Siento Bien](https://open.spotify.com/album/3gbWES56diRCaLWDymMEWS) | 2:59 |
 | 51 | [ya lo sabemos](https://open.spotify.com/track/3cLV9ACRWvOf3Z7SLqud5B) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Antes y Después](https://open.spotify.com/album/2eR2uZOC861wwAqg1vFmDq) | 3:18 |

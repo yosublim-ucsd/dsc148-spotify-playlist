@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 77296,
+  "num_followers": 77370,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-07-05 20:59:24",
       "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
-    },
-    {
-      "added_at": "2024-07-05 20:59:24",
-      "album": {
         "name": "Ripcord (Australian Tour Edition)",
         "url": "https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
+    },
+    {
+      "added_at": "2024-07-05 20:59:24",
+      "album": {
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": "2024-07-05 20:59:24",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-07-05 20:59:24",
       "album": {
-        "name": "Trap Still Bumpin",
-        "url": "https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 164448,
-      "name": "Trap Still Bumpin",
-      "url": "https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G"
-    },
-    {
-      "added_at": "2024-07-05 20:59:24",
-      "album": {
         "name": "Target Practice",
         "url": "https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 152939,
       "name": "Hold Our Own",
       "url": "https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd"
+    },
+    {
+      "added_at": "2024-07-05 20:59:24",
+      "album": {
+        "name": "Trap Still Bumpin",
+        "url": "https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 164448,
+      "name": "Trap Still Bumpin",
+      "url": "https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G"
     }
   ],
   "unique_name": "Beast Mode Country",

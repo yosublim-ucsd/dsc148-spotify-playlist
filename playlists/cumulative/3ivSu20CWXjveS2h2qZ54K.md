@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,932 songs - 4 day 10 hr 51 min
+1,933 songs - 4 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Estatua de oro](https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Estatua de oro](https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t) | 2:35 | 2024-06-14 | 2024-06-22 |
 | [Estilo](https://open.spotify.com/track/18D8cZq9T2cXb2CWXxTM3O) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Rumores](https://open.spotify.com/album/69D1xlMKb3m4HjVNZgCMbf) | 3:24 | 2024-10-04 | 2024-10-12 |
 | [estonovabien](https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [estonovabien](https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW) | 2:41 | 2024-06-28 | 2024-07-13 |
+| [Estoy al Horno](https://open.spotify.com/track/0HAPlkdCzhHWDLrbTNey0w) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Estoy al Horno](https://open.spotify.com/album/45BuLhLJ4jL6YPI12xW3K1) | 6:35 | 2024-10-19 |  |
 | [ESTRELLA APAGADA \(feat\. Selecta\)](https://open.spotify.com/track/7lV00kKmprkHpHRSTg7MH7) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [PRELUDIO](https://open.spotify.com/album/7GGkqnaRTuGL98gZMEgle3) | 2:43 | 2024-04-26 | 2024-05-10 |
 | [ESTRÉS](https://open.spotify.com/track/4Rg0Ra86pfQa9ZsRtGwrnL) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ESTRÉS](https://open.spotify.com/album/0kixB9HDDctNCeMB8ILDgB) | 3:17 | 2024-06-14 | 2024-06-22 |
 | [Eterno Verano \(Para Siempre\)](https://open.spotify.com/track/1UHfANzEEM3Fm3TeDfMK6M) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Eterno Verano \(Para Siempre\)](https://open.spotify.com/album/1pQsSfTaWNamr5kx73CmDG) | 2:44 | 2024-07-26 | 2024-08-10 |

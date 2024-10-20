@@ -51620,28 +51620,6 @@
     {
       "album": {
         "name": "Love You More",
-        "url": "https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "date_added": "2023-03-20",
-      "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
-      "duration_ms": 181200,
-      "name": "Love You More",
-      "url": "https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp"
-    },
-    {
-      "album": {
-        "name": "Love You More (feat. T-Pain)",
         "url": "https://open.spotify.com/album/6R82m0iv1LGYp1AfNc4aQA"
       },
       "artists": [
@@ -51662,8 +51640,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212401,
-      "name": "Love You More (feat. T-Pain)",
+      "name": "Love You More",
       "url": "https://open.spotify.com/track/3etE5JfXW2VQF37NKRsvPh"
+    },
+    {
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 181200,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp"
     },
     {
       "album": {

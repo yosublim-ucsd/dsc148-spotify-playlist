@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Sued Nunes",
-  "num_followers": 347658,
+  "num_followers": 347673,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Larissa Luz",
-          "url": "https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq"
-        }
-      ],
-      "duration_ms": 246136,
-      "name": "Estrela",
-      "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 169890,
       "name": "Doce Vampiro - Ao Vivo",
       "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        },
+        {
+          "name": "Larissa Luz",
+          "url": "https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq"
+        }
+      ],
+      "duration_ms": 246136,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+      },
+      "artists": [
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -811,26 +831,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
-      },
-      "artists": [
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Paula Toller - Ao Vivo - Amorosa (40 anos de carreira)",
         "url": "https://open.spotify.com/album/5oX1k6VHPJgqGAlZN1CHdd"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Apesar de Agora",
-      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Quero Andar Com Voc\u00ea",
         "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
       },
@@ -1051,38 +1035,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
       "artists": [
         {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Terna Transforma\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        },
-        {
-          "name": "Ossuna Braza",
-          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
-        }
-      ],
-      "duration_ms": 280256,
-      "name": "Terna Transforma\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1103,6 +1067,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Ponto De Oxum",
         "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 140000,
       "name": "Ponto De Oxum",
       "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Terna Transforma\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        },
+        {
+          "name": "Ossuna Braza",
+          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
+        }
+      ],
+      "duration_ms": 280256,
+      "name": "Terna Transforma\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Baiana Baianinha",
+        "url": "https://open.spotify.com/album/5RAuH6ihqfeuRjp8RzCWaH"
+      },
+      "artists": [
+        {
+          "name": "Sofia Pitta",
+          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Baiana Baianinha",
+      "url": "https://open.spotify.com/track/0hfRYnxJr8tUKBELhkAyXQ"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Feira do Rolo",
         "url": "https://open.spotify.com/album/4JDiq33ktPKbHFMe6txERy"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 211314,
       "name": "Feira do Rolo",
       "url": "https://open.spotify.com/track/2GRy1TOXHzo0cx8vs1gaZF"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Baiana Baianinha",
-        "url": "https://open.spotify.com/album/5RAuH6ihqfeuRjp8RzCWaH"
-      },
-      "artists": [
-        {
-          "name": "Sofia Pitta",
-          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Baiana Baianinha",
-      "url": "https://open.spotify.com/track/0hfRYnxJr8tUKBELhkAyXQ"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "A R\u00e3",
+        "url": "https://open.spotify.com/album/4jdwhMKKM1fmfdEWZGkeUz"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/3xSKCmLlSNoZJd7d2tp2yH"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Menina Preta de Cocar",
         "url": "https://open.spotify.com/album/4ChgYlmQMNxZs3itprZj5j"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "A R\u00e3",
-        "url": "https://open.spotify.com/album/4jdwhMKKM1fmfdEWZGkeUz"
+        "name": "Um Milh\u00e3o",
+        "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
       },
       "artists": [
         {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+          "name": "Carlos Cavallini",
+          "url": "https://open.spotify.com/artist/6neQgu1JWui8JMsicGZdmd"
         }
       ],
-      "duration_ms": 190626,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/3xSKCmLlSNoZJd7d2tp2yH"
+      "duration_ms": 192500,
+      "name": "Um Milh\u00e3o",
+      "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 155291,
       "name": "Meu Carnaval",
       "url": "https://open.spotify.com/track/21af4sSf0V6JHgnBHTNgOT"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Um Milh\u00e3o",
-        "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cavallini",
-          "url": "https://open.spotify.com/artist/6neQgu1JWui8JMsicGZdmd"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Um Milh\u00e3o",
-      "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
     },
     {
       "added_at": "2024-10-18 03:00:00",

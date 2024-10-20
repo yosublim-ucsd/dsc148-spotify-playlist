@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,033 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,222 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 21 | [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 |
 | 22 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 |
 | 23 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 24 | [Rachel](https://open.spotify.com/track/29Im7mQl4SCyikXLRXJno1) | [Enjoy Drink](https://open.spotify.com/artist/72yq9MsalBeEYQGLELvlhE) | [Rachel](https://open.spotify.com/album/4alr19hLt5JlyFMNF6pfV3) | 4:26 |
+| 24 | [Rachel](https://open.spotify.com/track/29Im7mQl4SCyikXLRXJno1) | [Enjoy Drink](https://open.spotify.com/artist/72yq9MsalBeEYQGLELvlhE), [Yansoy](https://open.spotify.com/artist/18xe002Kooqu9T3GeY9lhP) | [Rachel](https://open.spotify.com/album/4alr19hLt5JlyFMNF6pfV3) | 4:26 |
 | 25 | [Forever Young](https://open.spotify.com/track/47pw9kwbBTcJ1c6LGlQ60k) | [Gregorian](https://open.spotify.com/artist/5QO1NNCLglKxgogzx6XLJn) | [Best of \(1990\-2010\)](https://open.spotify.com/album/5rohZzRwgHKKPQuMoozkTj) | 4:33 |
 | 26 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 27 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 |

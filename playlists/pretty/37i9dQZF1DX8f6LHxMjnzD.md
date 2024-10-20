@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Charli XCX & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,211 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,210 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 16 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
 | 17 | [Different Way](https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Different Way](https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S) | 3:16 |
 | 18 | [War Wounds \(with Maxo Kream & Lil' Keke\)](https://open.spotify.com/track/6DqGhw2PlGKxPnP3ja3EcD) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [War Wounds \(with Maxo Kream & Lil' Keke\)](https://open.spotify.com/album/19Jwy83v1HBZ2bpOaB9UEe) | 3:34 |
-| 19 | [Love You More \(feat\. T\-Pain\)](https://open.spotify.com/track/3etE5JfXW2VQF37NKRsvPh) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Love You More \(feat\. T\-Pain\)](https://open.spotify.com/album/6R82m0iv1LGYp1AfNc4aQA) | 3:32 |
+| 19 | [Love You More](https://open.spotify.com/track/3etE5JfXW2VQF37NKRsvPh) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Love You More](https://open.spotify.com/album/6R82m0iv1LGYp1AfNc4aQA) | 3:32 |
 | 20 | [Tree Birds](https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Tree Birds](https://open.spotify.com/album/6PAud3gLOCgM4Mit5yaPkh) | 3:32 |
 | 21 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
 | 22 | [distance](https://open.spotify.com/track/21AKjDqarlr1DgcGPnazg6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KW6YrrbyCG.md) - [plain]
 
 > Editorial picks of the best songs from 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,664 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,680 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: AKASAKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,259 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,539 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 37 | [BAE](https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [BAE](https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh) | 4:06 |
 | 38 | [チャンカパーナ](https://open.spotify.com/track/0x8t2rGCJq3FWZ7sSr9ZOH) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [NEWS](https://open.spotify.com/album/2U0RdYyMpQOkRH4unBveeR) | 4:22 |
 | 39 | [BRIGHT TIMES feat\. Kohjiya](https://open.spotify.com/track/29sChyERg3I2cwGqCyHhEd) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [BRIGHT TIMES feat\. Kohjiya](https://open.spotify.com/album/4dXOQXVAyabOjpANPgg2TL) | 3:36 |
-| 40 | [OMAE](https://open.spotify.com/track/4yAFlvwQPmXgGfyCEIO9tA) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [韻マン](https://open.spotify.com/artist/5KUOSKYLz09CFEp79nLJW5) | [OMAE](https://open.spotify.com/album/1kTrD3jtaOi1KEzxmoaMXh) | 3:41 |
+| 40 | [OMAE \(feat\. 百足 & 韻マン\)](https://open.spotify.com/track/4yAFlvwQPmXgGfyCEIO9tA) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [韻マン](https://open.spotify.com/artist/5KUOSKYLz09CFEp79nLJW5) | [OMAE \(feat\. 百足 & 韻マン\)](https://open.spotify.com/album/1kTrD3jtaOi1KEzxmoaMXh) | 3:41 |
 | 41 | [エンドレス](https://open.spotify.com/track/170ExMDnLxyade2Xzsfw0Z) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [エンドレス](https://open.spotify.com/album/6YdS9gRNbzm9uMdXmZypse) | 4:01 |
 | 42 | [まるで天使さ](https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [まるで天使さ](https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV) | 3:55 |
 | 43 | [ひとりぼっちと廊下の窓](https://open.spotify.com/track/5tDnrXI3oowmppw6Zl6FTy) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 3:19 |

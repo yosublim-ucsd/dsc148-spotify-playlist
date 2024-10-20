@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-2,707 songs - 5 day 20 hr 3 min
+2,707 songs - 5 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,7 +1055,7 @@
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-23 | 2024-06-01 |
 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-05-09 | 2024-05-17 |
 | [Heute ist mein tag](https://open.spotify.com/track/60PqEKuolXfgDhteiyui75) | [Honningbarna](https://open.spotify.com/artist/6G5StsdpEhbhdrmJG0WMMx) | [Heute ist mein tag](https://open.spotify.com/album/3jwUKnAlX25Ym1ujc0Z6QC) | 3:04 | 2024-06-20 | 2024-06-28 |
-| [Hey DJ](https://open.spotify.com/track/0rJdN64e7I7yrUFTSccQIu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Hey DJ](https://open.spotify.com/album/6twwTuHaqDKqLtu5Oq3JUB) | 2:59 | 2024-10-17 |  |
+| [Hey DJ](https://open.spotify.com/track/0rJdN64e7I7yrUFTSccQIu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Hey DJ](https://open.spotify.com/album/6twwTuHaqDKqLtu5Oq3JUB) | 2:45 | 2024-10-17 |  |
 | [Hey Dreams](https://open.spotify.com/track/3fqOvQsb8oIe0U0U0rnGu0) | [Honey Hideout](https://open.spotify.com/artist/6blUWk3SHx3BUADljMqCGA) | [Hey Dreams](https://open.spotify.com/album/3Xz4zxVSXw36yn3S0skCmr) | 3:31 | 2024-05-16 | 2024-05-24 |
 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 | 2024-08-29 | 2024-09-06 |
 | [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 | 2024-07-18 | 2024-07-27 |
@@ -1384,7 +1384,7 @@
 | [KUN FOR HENNE](https://open.spotify.com/track/6ryBQJcfsyFVCc1ObUsYcP) | [Ozzi](https://open.spotify.com/artist/5B7GVolIHZ24VRNrf5LL6i) | [KUN FOR HENNE](https://open.spotify.com/album/6y5Ykaixus53Enepylw4Bz) | 1:31 | 2024-08-15 | 2024-08-23 |
 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 | 2024-07-11 | 2024-07-19 |
 | [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-08-29 | 2024-09-06 |
-| [Kven er vi](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 | 2024-10-17 |  |
+| [Kven er vi \- fra filmen Kvitebjørn](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi \(fra filmen Kvitebjørn\)](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 | 2024-10-17 |  |
 | [Kvert et smil](https://open.spotify.com/track/3KdfeVRtbfq0VMeCMTzYFe) | [Vettche](https://open.spotify.com/artist/6tyvqGpeiBqwxbID97jugC) | [Se for deg at det går](https://open.spotify.com/album/338b7hzrbXlCXBg2uhlMkS) | 2:44 | 2024-05-03 | 2024-05-10 |
 | [Kyrie Eleison](https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Kyrie Eleison](https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA) | 4:42 | 2024-09-19 | 2024-09-27 |
 | [Känns så längesen](https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Känns så längesen](https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2) | 3:03 | 2024-07-11 | 2024-07-19 |

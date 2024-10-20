@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
+  "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
   "name": "This Is Carlos Y Jose",
   "tracks": [
     {
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Corridos Pal Jefe",
+        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Duelo De Fieras",
+      "url": "https://open.spotify.com/track/67nborVsC6lUgXHu6zyXGT"
+    },
+    {
+      "album": {
         "name": "Los Monstruos Del Corrido",
         "url": "https://open.spotify.com/album/1PQZACqo58aGGs0ni2Xpcc"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 190333,
       "name": "El Gavilan De Aguaprieta",
       "url": "https://open.spotify.com/track/4hk3488nPDQS3btUXS2Xyq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。MILLENNIUM PARADE & Rauw Alejandro & Tainy, Gracie Abrams, Bon Iver  and more! cover: MILLENNIUM PARADE, Rauw Alejandro, Tainy
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,409 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,453 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 48 | [Till Dawn](https://open.spotify.com/track/2pQWpslYgqZ5n9UFs7NrCV) | [Name the Night](https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH) | [Till Dawn](https://open.spotify.com/album/7HuJjAZAnus0fqOGrxCaDX) | 3:09 |
 | 49 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
 | 50 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 |
-| 51 | [No Control](https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Focus](https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR) | 2:50 |
+| 51 | [No Control \(feat\. E.V.P & Charlu\)](https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Focus](https://open.spotify.com/album/2P4yzqY8WetfBqzleDxOTR) | 2:50 |
 | 52 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 |
 | 53 | [Heart Shakes](https://open.spotify.com/track/0GLI8mexnUIoA4smC92dnx) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Heart Shakes](https://open.spotify.com/album/631mKo4JBNHoX1u1MgLQzy) | 3:17 |
 | 54 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |

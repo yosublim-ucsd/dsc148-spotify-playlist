@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. El Fantasma en portada.
 
-190 songs - 9 hr 52 min
+191 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [El Erick](https://open.spotify.com/track/5KuE0I4dhhBEMapolRc6Ef) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Jalense la Greña](https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc) | 3:15 | 2024-10-18 |  |
 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 | 2024-03-01 | 2024-05-25 |
 | [El gabacho \- En vivo](https://open.spotify.com/track/5b7QdtH49EG0mHm27ffjIO) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc) | [Fresh CLN \- En vivo](https://open.spotify.com/album/0PX5UfI3vlE84matpVMpTd) | 2:38 | 2024-08-30 | 2024-09-28 |
+| [El Gerry](https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Jalense la Greña](https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc) | 3:04 | 2024-10-18 |  |
 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 | 2024-01-26 | 2024-04-27 |
 | [El Guero Reyna](https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Al Gusto de Uno](https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg) | 2:54 | 2024-05-24 |  |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2024-01-26 |  |
@@ -117,7 +118,7 @@
 | [Guerreros Aztecas](https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Guerreros Aztecas](https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi) | 3:53 | 2024-01-26 | 2024-05-25 |
 | [Haganse A Un Lado](https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Haganse A Un Lado](https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B) | 2:36 | 2024-01-26 |  |
 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 | 2024-01-26 | 2024-09-14 |
-| [Ivan archivaldo \- En vivo](https://open.spotify.com/track/7b7WVTPsEePRuEIQv26Taa) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc) | [Fresh CLN =\) \- en vivo](https://open.spotify.com/album/77E060dBo2MiSesDZhg1ZO) | 3:40 | 2024-09-13 |  |
+| [Ivan archivaldo \- En vivo](https://open.spotify.com/track/7b7WVTPsEePRuEIQv26Taa) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc) | [Fresh CLN =\) \- en vivo](https://open.spotify.com/album/77E060dBo2MiSesDZhg1ZO) | 3:40 | 2024-09-13 | 2024-10-20 |
 | [Jardines Del Humaya](https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Jardines Del Humaya](https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9) | 3:34 | 2024-02-23 | 2024-09-14 |
 | [Jefe Fresa](https://open.spotify.com/track/622wRHgPbt3AxTlFkWqJKw) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Jefe Fresa](https://open.spotify.com/album/19v2pWaZC9EN3H4xdmAl8P) | 3:13 | 2024-02-23 | 2024-05-25 |
 | [Jerry](https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 3:02 | 2024-01-26 |  |

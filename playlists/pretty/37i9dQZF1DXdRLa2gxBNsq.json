@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 107774,
+  "num_followers": 107804,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195049,
+      "name": "Enemigo a las Puertas",
+      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Confrontaci\u00f3n",
-        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
       "artists": [
         {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
         }
       ],
-      "duration_ms": 195049,
-      "name": "Enemigo a las Puertas",
-      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 220488,
       "name": "Froil\u00e1n de Todos los Antros",
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4"
-      },
-      "artists": [
-        {
-          "name": "En Vano",
-          "url": "https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc"
-        }
-      ],
-      "duration_ms": 192147,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt"
-    },
-    {
-      "added_at": "2024-10-03 22:00:00",
-      "album": {
         "name": "Love the Antros",
         "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-10-03 22:00:00",
       "album": {
-        "name": "Cien Colores",
-        "url": "https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L"
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4"
       },
       "artists": [
         {
-          "name": "La Inquisici\u00f3n",
-          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
+          "name": "En Vano",
+          "url": "https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc"
         }
       ],
-      "duration_ms": 170471,
-      "name": "Cien Colores",
-      "url": "https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik"
+      "duration_ms": 192147,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt"
     },
     {
       "added_at": "2024-10-03 22:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2024-10-03 22:00:00",
+      "album": {
+        "name": "Cien Colores",
+        "url": "https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L"
+      },
+      "artists": [
+        {
+          "name": "La Inquisici\u00f3n",
+          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "Cien Colores",
+      "url": "https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik"
     },
     {
       "added_at": "2024-10-03 22:00:00",

@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 58 | [Ask Anybody](https://open.spotify.com/track/14Ypfdkytzb8yxww1IN7Ip) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:29 |
 | 59 | [It's You I Miss](https://open.spotify.com/track/0jnXNaf1SFUucJtrGPvTv5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 3:48 |
 | 60 | [Bad Loser](https://open.spotify.com/track/7KwGYQdzjbW7K56J0PYQUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Heroes Are Hard to Find](https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE) | 3:25 |
-| 61 | [Put a Candle in the Window \- 2016 Remaster](https://open.spotify.com/track/4ua0Jukm7uMvpFqdPgHuhz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 2:21 |
-| 62 | [The Smile I Live For](https://open.spotify.com/track/2GCKVHYgTcdoJNYIGj4O8C) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:07 |
+| 61 | [The Smile I Live For](https://open.spotify.com/track/2GCKVHYgTcdoJNYIGj4O8C) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 5:07 |
+| 62 | [Put a Candle in the Window \- 2016 Remaster](https://open.spotify.com/track/4ua0Jukm7uMvpFqdPgHuhz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 2:21 |
 | 63 | [So Excited](https://open.spotify.com/track/5qlDB1bQrKsgLDfbuVHTRE) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 4:05 |
 | 64 | [Gone Into The Sun](https://open.spotify.com/track/3a4KG9TKdMNx9AMPZW3qwj) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:46 |
 | 65 | [Hey Baby](https://open.spotify.com/track/6KERXzROTPriopMyQoJaww) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 84 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 85 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AbfJHgAAAACcAte5iumYY1T4sDAUVJ0d`
+Snapshot ID: `AbfOoAAAAAAbxZmerk0/vW4bMrAs3cEh`

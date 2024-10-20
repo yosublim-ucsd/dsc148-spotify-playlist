@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 ### [This Is Jai Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b61PC)
 
-> This Is Jai Wolf\. Los temas esenciales, todos en una lista.
+> This is Jai Wolf\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 11,076 likes - 30 songs - 1 hr 49 min
 
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 29 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
 | 30 | [Half Hearted \- Demo](https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:54 |
 
-Snapshot ID: `ZxBTgAAAAABOs/G4ja70irmbKnZh6A0F`
+Snapshot ID: `ZxGlAAAAAADBcH9mHkdYrXqkvIlGQPtm`

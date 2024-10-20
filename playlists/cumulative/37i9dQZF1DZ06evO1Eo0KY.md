@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 55 min
+83 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [They Live](https://open.spotify.com/track/7hVW06FEfif7tkvc7viAKs) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Directors Cut 4](https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY) | 4:14 | 2023-12-13 | 2024-08-22 |
 | [They Live](https://open.spotify.com/track/250l7UX2MgmrpBeqNElfCt) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 4:14 | 2024-09-23 | 2024-09-27 |
 | [True Religion](https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 2:35 | 2024-07-03 |  |
+| [Unreal](https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Unreal](https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc) | 2:08 | 2024-10-20 |  |
 | [War Dogs](https://open.spotify.com/track/0jpjz8LG1lUH1VVLBPvuPQ) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J) | [Directors Cut 4](https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY) | 2:55 | 2023-12-13 | 2024-08-23 |
 | [War Dogs \(feat\. Che Noir\)](https://open.spotify.com/track/15y2GUnXU0t4yGOe8yB7hP) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 2:55 | 2024-09-21 | 2024-10-18 |
 | [Wit out a Question](https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:26 | 2023-12-13 |  |

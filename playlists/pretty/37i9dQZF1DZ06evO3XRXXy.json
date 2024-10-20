@@ -1,12 +1,12 @@
 {
-  "description": "This is: Kenny G. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 138654,
+  "description": "This is Kenny G. The essential tracks, all in one playlist.",
+  "num_followers": 138677,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAABnENBTUTyDn3acsi6mWngP",
+  "snapshot_id": "ZxGlAAAAAADMpcodYC5vDPJB46yAF+A+",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 192492,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+      "duration_ms": 327600,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 327600,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullaby Tres",
-        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 124976,
-      "name": "Lullaby Tres",
-      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
+      "duration_ms": 313560,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313560,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 431893,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classics In The Key Of G",
         "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 245200,
       "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
       "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 431893,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
     }
   ],
   "unique_name": "This Is Kenny G",

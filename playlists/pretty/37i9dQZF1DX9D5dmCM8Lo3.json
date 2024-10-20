@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 13396,
+  "num_followers": 13525,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Dark Beach",
-      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 328506,
       "name": "Goodbye To A World",
       "url": "https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Dark Beach",
+      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "lain",
-        "url": "https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC"
-      },
-      "artists": [
-        {
-          "name": "C4FF31N3",
-          "url": "https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy"
-        }
-      ],
-      "duration_ms": 226234,
-      "name": "lain",
-      "url": "https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 350690,
       "name": "Sad Machine",
       "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "lain",
+        "url": "https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC"
+      },
+      "artists": [
+        {
+          "name": "C4FF31N3",
+          "url": "https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy"
+        }
+      ],
+      "duration_ms": 226234,
+      "name": "lain",
+      "url": "https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf"
     },
     {
-      "added_at": "2023-08-03 17:54:32",
-      "album": {
-        "name": "Umbrae",
-        "url": "https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM"
-      },
-      "artists": [
-        {
-          "name": "hxly xo",
-          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
-        }
-      ],
-      "duration_ms": 126751,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y"
-    },
-    {
       "added_at": "2023-07-18 20:06:10",
       "album": {
         "name": "Velocity: Design: Comfort.",
@@ -399,6 +383,22 @@
       "duration_ms": 346306,
       "name": "Pro: Lov: Ad",
       "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
+    },
+    {
+      "added_at": "2023-08-03 17:54:32",
+      "album": {
+        "name": "Umbrae",
+        "url": "https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM"
+      },
+      "artists": [
+        {
+          "name": "hxly xo",
+          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
+        }
+      ],
+      "duration_ms": 126751,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Do you love me?",
         "url": "https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 122849,
       "name": "A World That's Ending",
       "url": "https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "missing home",
-        "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
+        "name": "Prince of the Cyber Rave",
+        "url": "https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV"
       },
       "artists": [
         {
-          "name": "nineishuman",
-          "url": "https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm"
+          "name": "Golden Boy",
+          "url": "https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq"
         }
       ],
-      "duration_ms": 124760,
-      "name": "missing home",
-      "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
+      "duration_ms": 190126,
+      "name": "Spirit Gun",
+      "url": "https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8"
     }
   ],
   "unique_name": "webcore",

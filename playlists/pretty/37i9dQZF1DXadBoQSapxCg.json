@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 313618,
+  "num_followers": 313625,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
+        "name": "QVVJFA?",
+        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "20 Liga\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
         "name": "Celebridade",
         "url": "https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 221142,
       "name": "Amor de Fim de Noite",
       "url": "https://open.spotify.com/track/1Nmcs8zk7LfcvHRgLtTM5J"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
-        "name": "QVVJFA?",
-        "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "20 Liga\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -615,8 +615,8 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "Tamb\u00e9m Quero",
-        "url": "https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J"
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
       "artists": [
         {
@@ -624,13 +624,13 @@
           "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         },
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 216935,
-      "name": "Tamb\u00e9m Quero",
-      "url": "https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU"
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -707,8 +707,8 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+        "name": "Tamb\u00e9m Quero",
+        "url": "https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J"
       },
       "artists": [
         {
@@ -716,13 +716,13 @@
           "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         },
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         }
       ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+      "duration_ms": 216935,
+      "name": "Tamb\u00e9m Quero",
+      "url": "https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU"
     },
     {
       "added_at": "2024-10-11 21:13:28",

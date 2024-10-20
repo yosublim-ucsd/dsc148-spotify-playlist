@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1072494,
+  "num_followers": 1072629,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAACb+S9LCQNTkjiaUoCm/jYH",
+  "snapshot_id": "ZxGlAAAAAAByjGoIuyde7UneVi9tgsHV",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
+        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 180853,
-      "name": "Revolution Radio",
-      "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
+      "duration_ms": 299775,
+      "name": "Wake Me Up When September Ends - Demo",
+      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
-        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 299775,
-      "name": "Wake Me Up When September Ends - Demo",
-      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
+      "duration_ms": 180853,
+      "name": "Revolution Radio",
+      "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 338146,
       "name": "Are We the Waiting / St. Jimmy",
       "url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
     },
     {
       "added_at": null,

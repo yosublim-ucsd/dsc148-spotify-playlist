@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alexis Ffrench. Los temas esenciales, todos en una lista.",
-  "num_followers": 22388,
+  "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
+  "num_followers": 22409,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAABd8P/E18IZ+K3JJaOK2Ywx",
+  "snapshot_id": "ZxGlAAAAAACnkESvl4zek3xOTIUlgx9n",
   "tracks": [
     {
       "added_at": null,
@@ -496,17 +496,13 @@
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        },
-        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 49124,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z"
+      "duration_ms": 207626,
+      "name": "Together Without You",
+      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
     },
     {
       "added_at": null,
@@ -543,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 154372,
-      "name": "Truth Vibrations",
-      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -571,6 +551,22 @@
       "duration_ms": 202977,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 154372,
+      "name": "Truth Vibrations",
+      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
     },
     {
       "added_at": null,
@@ -607,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Crest of a Wave",
-      "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -635,6 +615,22 @@
       "duration_ms": 182577,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Crest of a Wave",
+      "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
     },
     {
       "added_at": null,
@@ -783,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 206740,
+      "name": "Forever Song - Solo Piano Version",
+      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enigma Variations: Nimrod",
         "url": "https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK"
       },
@@ -799,22 +811,6 @@
       "duration_ms": 96586,
       "name": "Enigma Variations: Nimrod",
       "url": "https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 206740,
-      "name": "Forever Song - Solo Piano Version",
-      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
     },
     {
       "added_at": null,

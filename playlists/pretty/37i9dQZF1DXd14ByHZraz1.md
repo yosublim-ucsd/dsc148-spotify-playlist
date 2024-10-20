@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,467 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,457 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 23 | [Feelings](https://open.spotify.com/track/3PwucvWWLM2ktvzR8mO1ET) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [Drerrera](https://open.spotify.com/artist/6Xp8myCVViMC27jPhl72ow), [Zoldan](https://open.spotify.com/artist/5qUFr89r11NBIg810d7wsU) | [Feelings](https://open.spotify.com/album/7BAa2H69YONlEsploamOHn) | 3:02 |
 | 24 | [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 |
 | 25 | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 |
-| 26 | [Dance With Me](https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [2Much Future](https://open.spotify.com/artist/3mLmDRSfkhpaXTaCIQ16lk) | [Dance With Me](https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0) | 3:41 |
+| 26 | [Dance With Me](https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [2MUCH FUTURE](https://open.spotify.com/artist/6tnK96h4vIqPwVvyIqwDCw) | [Dance With Me](https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0) | 3:41 |
 | 27 | [Cuerpo Pegado](https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Cuerpo Pegado EP](https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq) | 4:07 |
 | 28 | [Run](https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Run](https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC) | 5:53 |
 | 29 | [Mad Max](https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Echoes of a Decade](https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE) | 2:37 |

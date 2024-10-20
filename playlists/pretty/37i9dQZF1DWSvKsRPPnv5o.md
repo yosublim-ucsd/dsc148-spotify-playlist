@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,895 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,951 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 6 | [What It Iz](https://open.spotify.com/track/2X77wo27HXr3A69G2xqAPB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [What It Iz](https://open.spotify.com/album/1YV0BK6JdrWC1SkRRGFFST) | 2:45 |
 | 7 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |
 | 8 | [Face no Book](https://open.spotify.com/track/5c5qbRMz03GPy7Mj1Fpn6G) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/69Z4SGlHRBjljGmHsmS5fu) | 2:24 |
-| 9 | [GO BRAZY \(WITH MUSTARD & BABY STONE GORILLAS\)](https://open.spotify.com/track/2DARY9rFneNKGHr3vyB08c) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:40 |
+| 9 | [GO BRAZY \- WITH MUSTARD & BABY STONE GORILLAS](https://open.spotify.com/track/2DARY9rFneNKGHr3vyB08c) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:40 |
 | 10 | [Sumn Pretty \(feat\. Rob49\)](https://open.spotify.com/track/0o1ZzlqMUFUizu0Zlke8BD) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Sumn Pretty \(feat\. Rob49\)](https://open.spotify.com/album/38eUplOD97CSAQOQS9djc9) | 3:45 |
 | 11 | [Pose For Me](https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU) | [Pose For Me](https://open.spotify.com/album/6d8UKmxIuws3fTX6ITvNh0) | 2:26 |
 | 12 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 |

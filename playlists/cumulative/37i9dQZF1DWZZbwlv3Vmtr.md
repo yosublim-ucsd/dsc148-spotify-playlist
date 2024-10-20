@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-975 songs - 1 day 13 hr 47 min
+976 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -733,8 +733,9 @@
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 |  |
-| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 |  |
+| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 | 2024-10-20 |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
+| [sleep tight](https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [sleep tight](https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L) | 2:44 | 2024-10-16 |  |
 | [Sleepless Times](https://open.spotify.com/track/0SIjNbculfq6PiPg1PkggT) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Sleepless Times](https://open.spotify.com/album/5QTYGdQ4X4lUNpf7cV5Z6d) | 2:32 | 2022-11-11 |  |
 | [Sleepy Turtle](https://open.spotify.com/track/1PMKS7BnOOXwFpEyspGwd3) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Sleepy Turtle](https://open.spotify.com/album/0HXsJ0Dwrx5Kf4Py3fngRa) | 2:27 | 2022-12-09 | 2023-10-20 |
 | [Slick As A Swan](https://open.spotify.com/track/0Mka9kWv6P518Cz1ga626I) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Slick As A Swan](https://open.spotify.com/album/5u9gRxKr2hwPFFtWDepX2o) | 2:12 | 2023-11-17 |  |

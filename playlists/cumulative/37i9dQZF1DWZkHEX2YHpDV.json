@@ -4790,7 +4790,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
@@ -9902,6 +9902,28 @@
       "duration_ms": 180234,
       "name": "High Forever",
       "url": "https://open.spotify.com/track/0FbsFDHJpMlLQu3G8hGINW"
+    },
+    {
+      "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205159,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
     },
     {
       "album": {
@@ -17845,6 +17867,24 @@
     },
     {
       "album": {
+        "name": "Set A Fire",
+        "url": "https://open.spotify.com/album/2sU6iRYFKe9LabTViUivyv"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177592,
+      "name": "Set A Fire",
+      "url": "https://open.spotify.com/track/5dCGWUDsoHGveBu7z33zzH"
+    },
+    {
+      "album": {
         "name": "Set This Place On Fire (with Kellin Quinn)",
         "url": "https://open.spotify.com/album/2AqDoGCPxF1VLAfClIZPj0"
       },
@@ -23272,7 +23312,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 213141,
       "name": "What's An Hour Really Worth",
       "url": "https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf"

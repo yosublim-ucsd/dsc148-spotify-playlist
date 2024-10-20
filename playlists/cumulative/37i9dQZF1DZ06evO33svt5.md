@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO33svt5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO33svt5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO33svt5)
 
-### [This Is Doja Cat](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33svt5)
+### [This is Doja Cat](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33svt5)
 
-> This is Doja Cat\. Todos os maiores hits em uma só playlist.
+> This is Doja Cat\. De essentiële nummers, allemaal in één playlist.
 
 71 songs - 3 hr 50 min
 

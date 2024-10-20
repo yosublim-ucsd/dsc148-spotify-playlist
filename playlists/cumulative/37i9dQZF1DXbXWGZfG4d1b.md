@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour\. Foto: Melanie Williams y el príncipe idiota.
 
-647 songs - 1 day 14 hr 7 min
+648 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [La Noche](https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Fin del Mundo](https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu) | 3:33 | 2022-06-03 | 2023-10-06 |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-07-15 | 2023-10-27 |
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-06-03 | 2022-07-29 |
-| [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-06-03 |  |
+| [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-06-03 | 2024-10-20 |
 | [La Rompiente](https://open.spotify.com/track/36TbMvfNBbgqbMfKWcF3xL) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Desde el Centro del Naufragio](https://open.spotify.com/album/6B2sBm6bjWWxWrx9V92rxP) | 6:24 | 2022-07-01 | 2022-07-29 |
 | [La Sorpresa](https://open.spotify.com/track/4uCjn3FvBY07DAYHBDrNiw) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Sorpresa](https://open.spotify.com/album/5QhWdYNpz3GNWlMuwNoQ5P) | 2:35 | 2022-07-01 | 2022-09-09 |
 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 | 2023-04-14 |
@@ -644,6 +644,7 @@
 | [Ya No](https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Ya No](https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0) | 2:29 | 2022-07-15 | 2023-10-27 |
 | [Ya No Quiero Estar \- Can I Call You?](https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Ya No Quiero Estar \(Can I Call You?\)](https://open.spotify.com/album/5uHfoPSnsnoRUlNyTHHp16) | 2:18 | 2022-06-03 | 2022-07-04 |
 | [Ya No Sigas](https://open.spotify.com/track/6bSIgIm8TrpNiPpOJU7m4h) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Ya No Sigas](https://open.spotify.com/album/0RqM8WU0V0dO10f8zvIsis) | 3:49 | 2022-07-01 | 2022-07-27 |
+| [ya soy, ya tengo](https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG) | [ya soy, ya tengo](https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L) | 4:09 | 2024-10-18 |  |
 | [Yo Me Quedo](https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Yo Me Quedo / Todo El Bien](https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz) | 2:54 | 2024-07-26 |  |
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-07-01 | 2022-07-24 |
 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 | 2024-03-01 |

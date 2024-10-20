@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,645 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,647 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 76 | [vibe.](https://open.spotify.com/track/6m3NDw2ZJW1lmwu6dG7ApW) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [vibe.](https://open.spotify.com/album/2EHFUDYSBPW6oDrDoWWIph) | 2:07 |
 | 77 | [From Your Own Eyes](https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [From Your Own Eyes](https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy) | 1:45 |
 | 78 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 |
-| 79 | [Ready To Go Home \(Edit\)](https://open.spotify.com/track/68TghJcxcoPps8uJ0FbrKF) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Ready To Go Home](https://open.spotify.com/album/3zOewbMHTAbd2CsC2V3Fvk) | 3:27 |
+| 79 | [Ready To Go Home \- Edit](https://open.spotify.com/track/68TghJcxcoPps8uJ0FbrKF) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Ready To Go Home](https://open.spotify.com/album/3zOewbMHTAbd2CsC2V3Fvk) | 3:27 |
 | 80 | [Story of Love \- Bonus Track](https://open.spotify.com/track/4I2tsiTax25cnOfHpx1pAN) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright \- 10th Anniversary Edition](https://open.spotify.com/album/5snh5Wr3oJDtHMpx3kf2LJ) | 2:34 |
 | 81 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 | 82 | [Moth To The Flame](https://open.spotify.com/track/68j8pmIJVodrP1Po29IdJj) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/2mc8z8p5BSchhpD6wBcpEw) | 4:43 |

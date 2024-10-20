@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "I SHOULD CALL THEM",
+        "url": "https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186819,
+      "name": "chi girl",
+      "url": "https://open.spotify.com/track/6tL3Sx7TzUxn8SP8G9uXvb"
+    },
+    {
+      "album": {
         "name": "Cruel Intentions",
         "url": "https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5"
       },

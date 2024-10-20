@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-02",
-  "description": "This Is Alexis Ffrench. Los temas esenciales, todos en una lista.",
+  "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
   "name": "This Is Alexis Ffrench",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 49124,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/4kDPJqN6xEWm3R1KxMR87Z"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "Together Without You",
       "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"

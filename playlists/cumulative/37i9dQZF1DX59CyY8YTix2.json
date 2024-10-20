@@ -20808,7 +20808,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 201666,
       "name": "\u30ca\u30d3\u30b2\u30fc\u30bf\u30fc",
       "url": "https://open.spotify.com/track/77roepkiOVpYtIWv5OOqsI"
@@ -22908,6 +22908,24 @@
       "duration_ms": 157907,
       "name": "\u30e9\u30c3\u30ad\u30fc",
       "url": "https://open.spotify.com/track/5hNHGRXOhyHlUjk2WYHvBm"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d3\u30ea\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/2qwKGkXzPUqHDncaXk5zkc"
+      },
+      "artists": [
+        {
+          "name": "hockrockb",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202293,
+      "name": "\u30e9\u30d3\u30ea\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5FJH6lCGPJn8yg2z802cjY"
     },
     {
       "album": {

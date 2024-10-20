@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Ania Szlagowska
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,758 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,776 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [szkoda \(ciche dni\)](https://open.spotify.com/track/2rLlVYI0UFrMDU4xfcZdVB) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [Kuba Karaś](https://open.spotify.com/artist/3ciO2XZ3noHcE2LOq97V1A) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 2:54 |
+| 1 | [szkoda \(ciche dni\)](https://open.spotify.com/track/2rLlVYI0UFrMDU4xfcZdVB) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 2:54 |
 | 2 | [Pętla](https://open.spotify.com/track/5D0LkRzR101V4cQWUUCp7l) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:32 |
 | 3 | [Czego chcemy my \(a czego chcą oni\)](https://open.spotify.com/track/7JEirX2SKKIChDNk3iwbhE) | [Patrick the Pan](https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2) | [To nie najlepszy czas dla wrażliwych ludzi](https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV) | 4:26 |
 | 4 | [Miałaś tu ze mną być](https://open.spotify.com/track/1jgfCJsrijrIx8goq1wfl4) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [BEZ TRZYMANKI](https://open.spotify.com/album/6cYcT2tNQ0BYGE491z8z8T) | 3:08 |

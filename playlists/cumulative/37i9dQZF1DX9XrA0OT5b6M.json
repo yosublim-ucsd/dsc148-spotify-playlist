@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30a3\u30fc\u30a2\u30fc! (TV\u30a2\u30cb\u30e1\u300eONE PIECE\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/2vcNw2eDoavdqNTPVZ8T6u"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Kitadani",
+          "url": "https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop"
+        }
+      ],
+      "date_added": "2024-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "\u30a6\u30a3\u30fc\u30a2\u30fc!",
+      "url": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
+    },
+    {
+      "album": {
         "name": "ONE PIECE \u30a6\u30a3\u30fc\u30a2\u30fc!Song Complete",
         "url": "https://open.spotify.com/album/0Pgm2sbSVm2Q4OlDgXv1ez"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is Alessandro Cortini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR)
 
-> This is Alessandro Cortini\. The essential tracks, all in one playlist.
+> This Is Alessandro Cortini\. Les titres incontournables, réunis dans une seule et même playlist.
 
 139 songs - 14 hr 20 min
 
@@ -38,7 +38,7 @@
 | [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 | 2024-09-17 | 2024-09-28 |
 | [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2024-08-03 |  |
 | [Doggie Tattoo](https://open.spotify.com/track/2SCZ9BIG8enHSTKbRsZfPG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Dirty A.D.](https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H) | 5:47 | 2024-01-27 | 2024-08-30 |
-| [Dormiveglia](https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 0:31 | 2024-10-07 |  |
+| [Dormiveglia](https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 0:31 | 2024-10-07 | 2024-10-20 |
 | [ECCO](https://open.spotify.com/track/2zplGQ1MtHa4dMtGtRGpmS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 4:30 | 2024-01-06 | 2024-06-01 |
 | [ECCO](https://open.spotify.com/track/37XnCTDFEs3K78dd0l722e) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:30 | 2023-07-31 | 2024-08-21 |
 | [Enter Exit](https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:28 | 2022-05-29 |  |
@@ -118,7 +118,7 @@
 | [Sentinels on Patrol](https://open.spotify.com/track/1CORVHstYrHGOx7YLqZLFP) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:05 | 2023-04-03 |  |
 | [Sesta Emosfera](https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 7:43 | 2024-01-11 |  |
 | [Sonno Side A \(Live\)](https://open.spotify.com/track/2c5ROKD75qsYLeIuC1zVzC) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno: Nuit Noire Tape \(Live\)](https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb) | 21:15 | 2024-08-18 | 2024-10-07 |
-| [Sonno Side B \(Live\)](https://open.spotify.com/track/0O7qkW2GZCdSmIDNqlykBH) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno: Nuit Noire Tape \(Live\)](https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb) | 22:16 | 2024-08-18 | 2024-10-07 |
+| [Sonno Side B \(Live\)](https://open.spotify.com/track/0O7qkW2GZCdSmIDNqlykBH) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno: Nuit Noire Tape \(Live\)](https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb) | 22:16 | 2024-08-18 |  |
 | [Space Channel](https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:42 | 2022-05-29 |  |
 | [Spettro I](https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:38 | 2023-12-26 | 2024-10-01 |
 | [Spettro II](https://open.spotify.com/track/4fOacmPnsko7toPFVFHrgF) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:08 | 2023-12-29 | 2024-07-31 |

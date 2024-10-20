@@ -1317,28 +1317,6 @@
     },
     {
       "album": {
-        "name": "Day One (From \"Interstellar\")",
-        "url": "https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
-        }
-      ],
-      "date_added": "2024-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194026,
-      "name": "Day One (From \"Interstellar\")",
-      "url": "https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8"
-    },
-    {
-      "album": {
         "name": "Demeter",
         "url": "https://open.spotify.com/album/5c4hVfWtGZwOGhBjLXZH6T"
       },
@@ -5730,6 +5708,28 @@
       "duration_ms": 122362,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI"
+    },
+    {
+      "album": {
+        "name": "Zimmer: Day One (From \"Interstellar\")",
+        "url": "https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Zimmer: Day One (From \"Interstellar\")",
+      "url": "https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8"
     }
   ],
   "url": "https://open.spotify.com/playlist/0Xb9zZnc2MHkRocj5kqPWU"

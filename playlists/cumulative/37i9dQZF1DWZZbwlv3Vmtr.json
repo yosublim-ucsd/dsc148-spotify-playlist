@@ -13742,7 +13742,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 107294,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf"
@@ -13764,6 +13764,24 @@
       "duration_ms": 131315,
       "name": "Slapperoni Pizza",
       "url": "https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ"
+    },
+    {
+      "album": {
+        "name": "sleep tight",
+        "url": "https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L"
+      },
+      "artists": [
+        {
+          "name": "seeya",
+          "url": "https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9"
+        }
+      ],
+      "date_added": "2024-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "sleep tight",
+      "url": "https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx"
     },
     {
       "album": {

@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "cause of death",
+        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "cause of death",
+      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
+    },
+    {
+      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT"
       },
@@ -576,6 +594,28 @@
       "duration_ms": 158838,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141479,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
     },
     {
       "album": {
@@ -2312,7 +2352,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 194626,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
@@ -2402,7 +2442,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 140571,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,502 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,503 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 46 | [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 |
 | 47 | [イルミネーション](https://open.spotify.com/track/70YEIxamMR2PW4dnNqkAxu) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [イルミネーション](https://open.spotify.com/album/5isizPshI9vy57kGIrutp2) | 3:36 |
 | 48 | [Break of Dawn](https://open.spotify.com/track/0jOpyq4OeK9S7O4sC9Ufvx) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Break of Dawn](https://open.spotify.com/album/3ZUD767JStujb1T5u2mpr2) | 3:12 |
-| 49 | [B.B.M.](https://open.spotify.com/track/3BpTuQhmUVfXbOmDuYoy7Z) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M.](https://open.spotify.com/album/5K1ePZS183Dvkom9CRC61f) | 3:06 |
+| 49 | [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/3BpTuQhmUVfXbOmDuYoy7Z) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/album/5K1ePZS183Dvkom9CRC61f) | 3:06 |
 | 50 | [ピアスを外して](https://open.spotify.com/track/41js2qKZo6mGUdvhc21BWk) | [おとなりにぎんが計画](https://open.spotify.com/artist/2Rr3uZOnxVH4KoAOeu6MWg) | [やさしい地図を描くんでしょ](https://open.spotify.com/album/3hMGvlLzYm5s1H7Yb9TgLC) | 3:59 |
 | 51 | [VORTEX](https://open.spotify.com/track/0qgFxpgazyRLeHHdOXviGQ) | [セツコ\(空白ごっこ\)](https://open.spotify.com/artist/2RmMiavxYUXvxYtSy8R36i), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [VORTEX](https://open.spotify.com/album/2fKysDMpQmngtDKPBkOFMy) | 3:13 |
 | 52 | [One Life](https://open.spotify.com/track/3mjlQcpKq8z2TXwdX390F5) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [One Life](https://open.spotify.com/album/1DT1x1kiL0KOntuUuMEZCE) | 3:07 |

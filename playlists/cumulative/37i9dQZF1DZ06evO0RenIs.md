@@ -2,7 +2,7 @@
 
 ### [This Is Phoenix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RenIs)
 
-> This Is Phoenix\. Los temas esenciales, todos en una lista.
+> This is Phoenix\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 54 min
 

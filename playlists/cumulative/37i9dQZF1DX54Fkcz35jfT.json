@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-20",
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
@@ -2792,6 +2792,24 @@
       "duration_ms": 180458,
       "name": "MEITEI EXCITE",
       "url": "https://open.spotify.com/track/5jQyTZB2Izc3NXHtut5SVE"
+    },
+    {
+      "album": {
+        "name": "META",
+        "url": "https://open.spotify.com/album/1YoxX5dJa8vm0bz1Skiljh"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u733f\u706b",
+          "url": "https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267234,
+      "name": "META",
+      "url": "https://open.spotify.com/track/7FN4l3ORF68GwwOavytbps"
     },
     {
       "album": {

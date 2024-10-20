@@ -2,9 +2,9 @@
 
 ### [This Is Katy Perry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
 
-> This Is Katy Perry\. Los temas esenciales, todos en una lista.
+> This is Katy Perry\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 25 min
+111 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Firework](https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 | 2023-12-21 |  |
 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2023-08-30 | 2023-12-22 |
 | [Ghost](https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:23 | 2023-12-14 | 2024-07-24 |
-| [GIMME GIMME \(feat\. 21 Savage\)](https://open.spotify.com/track/0mIdd1nk8c57gCIoaEtGXw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 2:57 | 2024-09-22 |  |
-| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/7qLlykjCZFkt287nkzhzoY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/1q2UcG4PHfhMBJEqfYu7wH) | 3:17 | 2024-09-22 |  |
+| [GIMME GIMME \(feat\. 21 Savage\)](https://open.spotify.com/track/0mIdd1nk8c57gCIoaEtGXw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 2:57 | 2024-09-22 | 2024-10-20 |
+| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-10-20 |  |
+| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/7qLlykjCZFkt287nkzhzoY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/1q2UcG4PHfhMBJEqfYu7wH) | 3:17 | 2024-09-22 | 2024-10-20 |
 | [Hackensack \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/5c9pa7wTZsRU3Mycb0daM6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 3:01 | 2024-05-10 | 2024-07-16 |
 | [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 | 2022-07-07 |  |
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2022-01-12 | 2022-07-08 |

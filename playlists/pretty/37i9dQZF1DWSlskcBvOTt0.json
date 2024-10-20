@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 505465,
+  "num_followers": 505707,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Beyond Us (Hatshepsut Version, Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 219836,
+      "name": "Beyond Us - Hatshepsut Version, Alex Wann Remix",
+      "url": "https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Tides (feat. Bajka)",
         "url": "https://open.spotify.com/album/6fWpGEYJ8KEJh4yGuEBhPh"
       },
@@ -1351,30 +1375,6 @@
       "duration_ms": 199354,
       "name": "Tides (feat. Bajka)",
       "url": "https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Beyond Us (Hatshepsut Version, Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 219836,
-      "name": "Beyond Us - Hatshepsut Version, Alex Wann Remix",
-      "url": "https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 228496,
       "name": "Where's The Music Gone",
       "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "On My Knees (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 452000,
-      "name": "On My Knees - Adriatique Remix",
-      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Love You Got",
-        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "H\u00e9roe de M\u00e9xico",
         "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 211202,
       "name": "H\u00e9roe de M\u00e9xico",
       "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Love You Got",
+        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "Love You Got",
+      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1951,22 +1951,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Mogolu - Major Lazer Remix",
-        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
       },
       "artists": [
         {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
         },
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Redd",
+          "url": "https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0"
         }
       ],
-      "duration_ms": 283278,
-      "name": "Mogolu - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
+      "duration_ms": 199954,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1987,22 +1987,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Use Somebody",
-        "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
+        "name": "Mogolu - Major Lazer Remix",
+        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
       },
       "artists": [
         {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
         },
         {
-          "name": "Redd",
-          "url": "https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 199954,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
+      "duration_ms": 283278,
+      "name": "Mogolu - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Andalusian (feat. Ribale Wehbe)",
         "url": "https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 261463,
       "name": "Andalusian (feat. Ribale Wehbe)",
       "url": "https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 223774,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "La Casa",
         "url": "https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV"
       },
@@ -2307,46 +2327,6 @@
       "duration_ms": 278319,
       "name": "La Casa",
       "url": "https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "I Forgive You (Remixes)",
-        "url": "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Luzi Tudor",
-          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
-        }
-      ],
-      "duration_ms": 280125,
-      "name": "I Forgive You - Luzi Tudor Remix",
-      "url": "https://open.spotify.com/track/2aTCaOzrqND5VM5V0EnI2d"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        },
-        {
-          "name": "Sean Doron",
-          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
-        }
-      ],
-      "duration_ms": 344738,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2375,6 +2355,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "duration_ms": 344738,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Barcelonia",
         "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
       },
@@ -2395,6 +2395,26 @@
       "duration_ms": 173609,
       "name": "Barcelonia",
       "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Forgive You (Remixes)",
+        "url": "https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Luzi Tudor",
+          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
+        }
+      ],
+      "duration_ms": 280125,
+      "name": "I Forgive You - Luzi Tudor Remix",
+      "url": "https://open.spotify.com/track/2aTCaOzrqND5VM5V0EnI2d"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2527,22 +2547,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
         "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
       },
@@ -2563,6 +2567,22 @@
       "duration_ms": 504000,
       "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
       "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2635,22 +2655,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Human Rights",
-        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        }
-      ],
-      "duration_ms": 294036,
-      "name": "Human Rights",
-      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Lean Into The Sunshine",
         "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
       },
@@ -2671,18 +2675,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Nighttime Feeling (Weekend Love)",
-        "url": "https://open.spotify.com/album/3q61TPn9Xi9X055hoNHZ1E"
+        "name": "Human Rights",
+        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
       },
       "artists": [
         {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
         }
       ],
-      "duration_ms": 303859,
-      "name": "Nighttime Feeling (Weekend Love)",
-      "url": "https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb"
+      "duration_ms": 294036,
+      "name": "Human Rights",
+      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     }
   ],
   "unique_name": "Tantra",

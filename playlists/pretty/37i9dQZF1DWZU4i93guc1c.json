@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: To Eternity",
-  "num_followers": 21629,
+  "num_followers": 21634,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
-        "url": "https://open.spotify.com/album/0JBZLbhsqALewaXVmlPmsG"
-      },
-      "artists": [
-        {
-          "name": "Klavdia Petrivna",
-          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
-        }
-      ],
-      "duration_ms": 141230,
-      "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
-      "url": "https://open.spotify.com/track/5ScT8atEfarQsrDfL5jCT3"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
         "name": "\u0422\u0438 [\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430]",
         "url": "https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 241000,
       "name": "\u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0431\u0443\u043b\u043e \u0421\u043b\u043e\u0432\u043e",
       "url": "https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
+        "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
+        "url": "https://open.spotify.com/album/0JBZLbhsqALewaXVmlPmsG"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "duration_ms": 141230,
+      "name": "\u0406\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438",
+      "url": "https://open.spotify.com/track/5ScT8atEfarQsrDfL5jCT3"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u0421\u0430\u043c\u043e\u043b\u0456\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/0nmxW9KdCSYjDTpaKuTMlG"
+        "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
+        "url": "https://open.spotify.com/album/5WwXxzhkEatEDwAAJoG6GW"
       },
       "artists": [
         {
-          "name": "Drevo",
-          "url": "https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg"
+          "name": "Sasha Chemerov",
+          "url": "https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9"
         }
       ],
-      "duration_ms": 161001,
-      "name": "\u0421\u0430\u043c\u043e\u043b\u0456\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/59ExUSYSyC2VPa1qA7D2BO"
+      "duration_ms": 219453,
+      "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
+      "url": "https://open.spotify.com/track/5hctfulHiPJxVCVJipKgoT"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
-        "url": "https://open.spotify.com/album/5WwXxzhkEatEDwAAJoG6GW"
-      },
-      "artists": [
-        {
-          "name": "Sasha Chemerov",
-          "url": "https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
-      "url": "https://open.spotify.com/track/5hctfulHiPJxVCVJipKgoT"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
         "name": "\u0427\u043e\u043c\u0443 \u044f \u043d\u0435 \u0441\u043e\u0431\u0430\u043a\u0430?",
         "url": "https://open.spotify.com/album/3JFcFg8NT760FNNq5qzvHI"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
+        "name": "\u0421\u0430\u043c\u043e\u043b\u0456\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/0nmxW9KdCSYjDTpaKuTMlG"
+      },
+      "artists": [
+        {
+          "name": "Drevo",
+          "url": "https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg"
+        }
+      ],
+      "duration_ms": 161001,
+      "name": "\u0421\u0430\u043c\u043e\u043b\u0456\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/59ExUSYSyC2VPa1qA7D2BO"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
         "name": "Bohun",
         "url": "https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 203125,
       "name": "Bohun",
       "url": "https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
-        "name": "\u0424\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
-      },
-      "artists": [
-        {
-          "name": "Vivienne Mort",
-          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
-        }
-      ],
-      "duration_ms": 171081,
-      "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u041b\u0456\u0442\u043e",
-        "url": "https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc"
+        "name": "\u0424\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
       },
       "artists": [
         {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+          "name": "Vivienne Mort",
+          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
         }
       ],
-      "duration_ms": 185407,
-      "name": "\u041b\u0456\u0442\u043e",
-      "url": "https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ"
+      "duration_ms": 171081,
+      "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -803,18 +787,34 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u041c\u0456\u043b\u044c\u0439\u043e\u043d",
-        "url": "https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces"
+        "name": "\u041b\u0456\u0442\u043e",
+        "url": "https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc"
       },
       "artists": [
         {
-          "name": "\u041c\u0423\u0420",
-          "url": "https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3"
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
         }
       ],
-      "duration_ms": 236666,
-      "name": "\u041c\u0456\u043b\u044c\u0439\u043e\u043d",
-      "url": "https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4"
+      "duration_ms": 185407,
+      "name": "\u041b\u0456\u0442\u043e",
+      "url": "https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
+        "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
+        "url": "https://open.spotify.com/album/1IWKmRFRTAk4uRWP7W0OLj"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
+      "url": "https://open.spotify.com/track/14hIalSRI75sy1sdl4hWz4"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
+        "name": "\u041c\u0456\u043b\u044c\u0439\u043e\u043d",
+        "url": "https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0423\u0420",
+          "url": "https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "\u041c\u0456\u043b\u044c\u0439\u043e\u043d",
+      "url": "https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
         "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
         "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 154527,
       "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
       "url": "https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
-        "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
-        "url": "https://open.spotify.com/album/1IWKmRFRTAk4uRWP7W0OLj"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "\u041d\u0456\u0447\u043e\u0433\u043e",
-      "url": "https://open.spotify.com/track/14hIalSRI75sy1sdl4hWz4"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u0424\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
-      },
-      "artists": [
-        {
-          "name": "Vivienne Mort",
-          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
-        }
-      ],
-      "duration_ms": 247702,
-      "name": "\u041d\u0435\u0441\u0443\u043c\u043d\u0430\u044f",
-      "url": "https://open.spotify.com/track/4n8Y2TOX0wRZdYzUY8nlqG"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
         "name": "\u0406\u0441\u043a\u0440\u0430",
         "url": "https://open.spotify.com/album/4A26hszQR4hOxQm9JHnLjJ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 164161,
       "name": "\u0406\u0441\u043a\u0440\u0430",
       "url": "https://open.spotify.com/track/56BbaMW2BhfmDO1XuLlXaB"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
+        "name": "\u0424\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Mort",
+          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
+        }
+      ],
+      "duration_ms": 247702,
+      "name": "\u041d\u0435\u0441\u0443\u043c\u043d\u0430\u044f",
+      "url": "https://open.spotify.com/track/4n8Y2TOX0wRZdYzUY8nlqG"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
+        "name": "\u0422\u0438 \u043b\u0438\u0448 \u043b\u044e\u0434\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql"
+      },
+      "artists": [
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 162190,
+      "name": "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "url": "https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
         "name": "\u043d\u0435\u043f\u043e\u0442\u0440\u0456\u0431",
         "url": "https://open.spotify.com/album/1GOXM7UiojvvOAEK8dUr04"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 198500,
       "name": "\u043d\u0435\u043f\u043e\u0442\u0440\u0456\u0431",
       "url": "https://open.spotify.com/track/4rAPA46mWYkFUIVEXYn8ta"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
-        "name": "\u0422\u0438 \u043b\u0438\u0448 \u043b\u044e\u0434\u0438\u043d\u0430",
-        "url": "https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql"
-      },
-      "artists": [
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        }
-      ],
-      "duration_ms": 162190,
-      "name": "\u0417\u0430\u0432\u0442\u0440\u0430",
-      "url": "https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-10-18 14:43:10",
       "album": {
-        "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-        "url": "https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH"
+        "name": "\u0412\u043f\u0456\u0437\u043d\u0430\u044e",
+        "url": "https://open.spotify.com/album/1iuwd1UMDuk9mhqgNgPfAW"
       },
       "artists": [
         {
-          "name": "typeled",
-          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+          "name": "haterappers",
+          "url": "https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N"
         }
       ],
-      "duration_ms": 160551,
-      "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-      "url": "https://open.spotify.com/track/2HllpojdmP0If39UA6BACR"
+      "duration_ms": 193846,
+      "name": "\u0412\u043f\u0456\u0437\u043d\u0430\u044e",
+      "url": "https://open.spotify.com/track/3KDkVbEmnyGf8tozAg6LFJ"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -1291,6 +1291,22 @@
       "duration_ms": 174720,
       "name": "GLASSS",
       "url": "https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6"
+    },
+    {
+      "added_at": "2024-10-18 14:43:10",
+      "album": {
+        "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH"
+      },
+      "artists": [
+        {
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/2HllpojdmP0If39UA6BACR"
     },
     {
       "added_at": "2024-10-18 14:43:10",
@@ -1327,22 +1343,6 @@
       "duration_ms": 207457,
       "name": "\u041f\u0438\u043b",
       "url": "https://open.spotify.com/track/2e0WWqJoY0bxwLg0DxLQIm"
-    },
-    {
-      "added_at": "2024-10-18 14:43:10",
-      "album": {
-        "name": "\u0412\u043f\u0456\u0437\u043d\u0430\u044e",
-        "url": "https://open.spotify.com/album/1iuwd1UMDuk9mhqgNgPfAW"
-      },
-      "artists": [
-        {
-          "name": "haterappers",
-          "url": "https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "\u0412\u043f\u0456\u0437\u043d\u0430\u044e",
-      "url": "https://open.spotify.com/track/3KDkVbEmnyGf8tozAg6LFJ"
     },
     {
       "added_at": "2024-10-18 14:43:10",

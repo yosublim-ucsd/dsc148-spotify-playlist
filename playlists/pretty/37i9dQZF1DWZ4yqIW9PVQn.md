@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,622 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,660 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

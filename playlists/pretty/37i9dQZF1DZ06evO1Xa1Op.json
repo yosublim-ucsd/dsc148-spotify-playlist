@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ali Farka Tour\u00e9. Los temas esenciales, todos en una lista.",
-  "num_followers": 20611,
+  "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
+  "num_followers": 20612,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxBTgAAAAAAbYa6/vY7qlHule1CQjOjD",
+  "snapshot_id": "ZxGlAAAAAADFHkTQ4KiaGVYwFKatpCla",
   "tracks": [
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 295200,
-      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,
@@ -538,11 +534,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 334120,
+      "name": "La drogue",
+      "url": "https://open.spotify.com/track/5NzlmSiu5DxjQKorGGI8OB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Niafunk\u00e9",
         "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 321440,
       "name": "Penda Yoro",
       "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 334120,
-      "name": "La drogue",
-      "url": "https://open.spotify.com/track/5NzlmSiu5DxjQKorGGI8OB"
     },
     {
       "added_at": null,
